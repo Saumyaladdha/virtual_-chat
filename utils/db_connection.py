@@ -8,8 +8,13 @@ import subprocess
 import time
 from datetime import datetime, timezone, timedelta
 
+import os
+
 import pymysql
 import pymysql.cursors
+from dotenv import load_dotenv
+
+load_dotenv()
 
 logging.basicConfig(
     level=logging.INFO,
@@ -20,17 +25,17 @@ logger = logging.getLogger(__name__)
 
 IST = timezone(timedelta(hours=5, minutes=30))
 
-SSH_HOST = "13.205.33.122"
-SSH_USER = "ubuntu"
-SSH_KEY  = "/Users/saumyaladdha/.ssh/id_rsa"
+SSH_HOST = os.getenv("SSH_HOST", "")
+SSH_USER = os.getenv("SSH_USER", "ubuntu")
+SSH_KEY  = os.getenv("SSH_KEY_PATH", "~/.ssh/id_rsa")
 
-RDS_HOST = "arivihannonprodrds.csammatrzuwu.ap-south-1.rds.amazonaws.com"
-RDS_PORT = 3306
+RDS_HOST = os.getenv("RDS_HOST", "")
+RDS_PORT = int(os.getenv("RDS_PORT", "3306"))
 
 DB_CONFIG = {
-    "user":            "saumyaladdha",
-    "password":        "BgweuWCGhR2nH3lP",
-    "database":        "arivihan_stage",
+    "user":            os.getenv("DB_USER", ""),
+    "password":        os.getenv("DB_PASSWORD", ""),
+    "database":        os.getenv("DB_NAME", ""),
     "charset":         "utf8mb4",
     "connect_timeout": 10,
 }
