@@ -1,0 +1,59 @@
+You are writing a WhatsApp poll for Class {grade} {stream} students preparing for {board} Board exam.
+TEACHERS IN THIS BATCH: {teacher_list}
+BASE QUESTION: "{filled_question}"
+YOUR JOB: Lightly rewrite the base question to sound natural and warm — like a real student or teacher in a WhatsApp group. Keep the exact intent. Only improve the wording. Do not change what is being asked.
+
+IMPORTANT: If the base question contains teacher names listed inside it (like "Manvendra / Poorab / Suraj — kaun sa?") — remove them from the question. Teacher names belong only in the options. Write a clean question like "Aapka favourite teacher kaun hai?" instead.
+IMPORTANT: Never list option values (subject names, teacher names) inside the question itself. Wrong: "Physics, Biology ya Chemistry — kaunsa hai?" Right: "Aapka favourite subject kaunsa hai?" — the options already carry the list.
+OPTION TYPE — read the base question and decide:
+
+Question comparing multiple teachers → options are teacher names with a short relatable reason
+Question about ONE specific teacher's class/style → options are student feelings/experiences only — do NOT repeat the teacher name in every option, it is already in the question
+Question about subjects → options are subject names only, no teacher names
+Question about experience or participation → options are real student feelings/behaviours
+
+TONE:
+
+Respectful always — use "aap", "aapka", "aapko". Never "tum" or "tera"
+Options are first-person student voice — use "hoon" forms: "karta hoon", "rehta hoon", "sunta hoon". Never "karte hain", "rehte hain"
+Warm, direct, fun — not survey-like, not AI-sounding
+Use natural Hinglish connectors where they fit: "toh", "bhi", "hi", "wala", "waali", "se", "mein", "par", "phir bhi", "ab toh", "kabhi kabhi". Never add "na" as a filler — it sounds unnatural in a question.
+Never criticize or mock a teacher, even indirectly
+1–2 emojis in the question, max 1 per option
+
+GRAMMAR CHECK before finalising:
+
+Read each option out loud — does it sound like something a real student would actually say in a WhatsApp group?
+"Sir ki class" ✓ — "Sir ka class" ✗
+"Sir ka style" ✓ — "Sir ki style" ✗ (style is masculine)
+"samajh aata hai" ✓ — "samajh mein aati hai" ✗
+"concepts clear ho jaate hain" ✓ — "bahut samajh mein aati hai" ✗
+"interesting lagti hai" ✓ — "interesting lagna lagti hai" ✗
+Options must be complete, natural phrases — if it sounds like bad translation, rewrite it
+For single-teacher questions, vary the construction: "unke padhane se", "unki class mein", "unke saath" — don't flatly repeat "[Name] Sir" in every option
+
+OPENER RULE: Never start with "Sach batao" — use a completely different opener every time. Good openers: "Aapka...", "Ek kaam karo —", "Is hafte...", "Kaun se...", "Honestly —", "Aaj ek sawaal —", "Quick question —". Rotate freely.
+
+EXAMPLES — learn from the variety of openers, not just the content:
+favourite teacher:
+question: "Aapka sabse favourite teacher kaun hai? 🔥 Bina soche jawab do!"
+options: ["A) Manvendra Sir — unke saath Physics itni easy ho jaati hai, seriously 😌", "B) Poorab Sir — Chemistry ka ek bhi concept miss nahi hota unki class mein", "C) Suraj Sir — Biology kabhi boring nahi lagti jab woh padhate hain"]
+favourite subject:
+question: "Ek kaam karo — seedha batao, aapka favourite subject kaunsa hai? 📚"
+options: ["A) Physics ⚡", "B) Biology 🌱", "C) Chemistry 🧪"]
+class participation:
+question: "Suraj Sir ki class mein aap kitna involve rehte ho? 🤔 Honest rehna!"
+options: ["A) Full on active hoon — sawalon mein bhi, jawaabon mein bhi 🙋", "B) Kabhi kabhi haath uthata hoon jab mujhe pata hota hai", "C) Dhyan se sunta hoon, sab observe karta hoon — that's my style"]
+single teacher experience:
+question: "Manvendra Sir ki Physics class aapko kaisi lagti hai? ⚡"
+options: ["A) Unke padhane ke baad concepts khud-ba-khud clear ho jaate hain, seriously", "B) Class mein ek acha flow rehta hai — enjoy karta hoon 😌", "C) Pehle mushkil lagti thi, ab toh interesting lagne lagi hai"]
+best class of the week:
+question: "Is hafte ki sabse mast class kaun si rahi aapke liye? 🏆"
+options: ["A) Manvendra Sir ki Physics — ek dum solid class thi", "B) Poorab Sir ki Chemistry — notes lene mein haath dukh gaya 😄", "C) Suraj Sir ki Biology — time kab gaya pata hi nahi chala"]
+never miss class:
+question: "Kaun se teacher ki class aap kabhi miss nahi karte, chahe kuch bhi ho jaye? 😄"
+options: ["A) Manvendra Sir — Physics mein ek class miss matlab peeche reh jaaunga", "B) Poorab Sir — unke notes ke bina Chemistry samajh hi nahi aati", "C) Suraj Sir — unki class mein har baar kuch naya milta hai 🌱"]
+single teacher ke padhane se:
+question: "Poorab Sir ki Chemistry class kaisi lagi is hafte? 🧪"
+options: ["A) Unke padhane se reaction mechanism finally click ho gayi", "B) Notes itne clear the ki revision ki zaroorat hi nahi lagti", "C) Har class ke baad thoda aur confident feel karta hoon"]
+Output ONLY raw JSON with "question" and "options". No explanation, no markdown.

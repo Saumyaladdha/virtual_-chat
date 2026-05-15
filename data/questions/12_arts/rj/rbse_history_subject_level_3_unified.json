@@ -1,0 +1,2853 @@
+{
+  "board": "RBSE",
+  "class": "12",
+  "subject": "History (Itihaas)",
+  "subject_code": "SS-13-Hist.",
+  "exam_year": "2026-27",
+  "marks_structure": {
+    "theory_paper": 80,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": "Theory mein 33% = approximately 27 marks laane zaroori hain. RBSE pass criteria 33% hai.",
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": false,
+    "extra_time_note": "3 ghante 15 minute. 10 minute internal revision time extra. 250-word essays aur long answers ke liye time management zaroori.",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 20,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "RBSE mein multiple sets hote hain. 2025 mein code SS-13-Hist. booklet 7009. Har set mein same questions, order alag.",
+    "sets_same_or_different": "",
+    "language_of_attempt": "Hindi ya English dono allowed. Paper bilingual aata hai. Hindi-English mein conflict ho toh Hindi version official maana jayega.",
+    "all_compulsory_note": "Internal choice (OR / Athva) Q14-Q17 (LA), Q18-Q19 (Essay), aur Q20 (Map) mein milta hai — kul 7 questions mein choice.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "RBSE History Class 12 ka syllabus NCERT 'Themes in Indian History' Part I, II, III par based hai — 15 chapters. SP Examination Idea Itihaas (Science Publications, Jaipur) bhi prepare karo.",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "RBSE Class 12 History mein 7 types ke questions: MCQ (1), Fill (1), VSA (1), SA (2), LA (3), Essay (4), Map (5). Total = 80 marks, 20 questions.",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (Bahuvikalpi)",
+        "question_number": "",
+        "section": "A (Q1)",
+        "marks_each": 1,
+        "total_in_paper": 18,
+        "attempt": 18,
+        "negative_marking": false,
+        "how_to_attempt": "Sirf option (A/B/C/D ya अ/ब/स/द) likhna. Question number + option likhna zaroori.",
+        "mostly_from": "Travelers + country match, ruler names, dynasties, dates, Sanchi patronage, Sufi titles, Vijayanagara dynasties, Ain-i-Akbari books, Akbar's land types, governors-general, Constituent Assembly members.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Fill in the Blanks (Rikta Sthan)",
+        "question_number": "",
+        "section": "A (Q2)",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "Ek shabd, naam ya saal likhna. Spelling correct zaroori.",
+        "mostly_from": "Specific names (Al-Biruni birth year, Amara-nayaka system empire, traveler names, crops grown in Deccan).",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Very Short Answer (VSA / Ati Laghuuttartmak)",
+        "question_number": "",
+        "section": "A (Q3)",
+        "marks_each": 1,
+        "total_in_paper": 11,
+        "attempt": 11,
+        "negative_marking": false,
+        "how_to_attempt": "Ek line mein factual answer. Definition/naam/karan/saal — seedhe point mein.",
+        "mostly_from": "Harappan sites, Ashoka's titles, saguna bhakti definition, Khud-kashta meaning, Permanent settlement features, constitution assembly formation.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Lagbhag 10 shabd (ek vakya ya ek line)",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer (Laghuuttaratmak)",
+        "question_number": "",
+        "section": "B (Q4-Q13)",
+        "marks_each": 2,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "Concept + 2-3 points + example ya date. 1+1=2 format mein 'do visheshtayen' type questions. Concept clearly likho.",
+        "mostly_from": "Harappan crafts, 6th century BCE events, Gotra meaning, Ibn Battuta on Delhi, Qawwali, Mahanavami Dibba, Jotedar vs Ryot, Direct Action Day, Jhansi ki Rani, 'historical vs synchronic' accounts.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Lagbhag 50 shabd (4-5 lines)",
+        "notes": ""
+      },
+      {
+        "type": "Long Answer (Deergh Uttaratmak)",
+        "question_number": "",
+        "section": "C (Q14-Q17)",
+        "marks_each": 3,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "Introduction (½) + main points 3-4 (2) + conclusion/example (½). OR option dekhkar easier wala choose karo.",
+        "mostly_from": "Harappan script enigma, Sufism growth, 1857 Awadh revolt, Constitution-making language debate.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Lagbhag 100 shabd (10-12 lines)",
+        "notes": ""
+      },
+      {
+        "type": "Essay (Nibandhatmak)",
+        "question_number": "",
+        "section": "D (Q18-Q19)",
+        "marks_each": 4,
+        "total_in_paper": 2,
+        "attempt": 2,
+        "negative_marking": false,
+        "how_to_attempt": "Introduction (½) + 4-5 main arguments with examples (3) + conclusion with opinion (½). Paragraph format mein likho.",
+        "mostly_from": "Gandhi — Salt March significance, Rowlatt Satyagraha; Jain philosophy teachings; Stupa discovery history; Partition analysis; Bernier's comparison of East-West.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Lagbhag 250 shabd (20-25 lines)",
+        "notes": ""
+      },
+      {
+        "type": "Map Work (Manchitra Karya)",
+        "question_number": "",
+        "section": "Q20",
+        "marks_each": 5,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "India outline map question paper ke saath milta hai. Pehle pencil se halka mark, phir blue pen se naam. Dot + arrow + naam = neat. Answer-book ke saath nathhi karna compulsory.",
+        "mostly_from": [
+          "Harappan sites: Harappa, Mohenjodaro, Dholavira, Lothal, Kalibangan, Banawali",
+          "Mahajanapada capitals: Koshala (Shravasti), Magadha (Rajgir/Pataliputra), Avanti (Ujjain), Vatsa (Kaushambi)",
+          "Buddhist sites: Lumbini, Bodhgaya, Sarnath, Kusinagara, Sanchi, Amaravati",
+          "Mauryan inscriptions: Pataliputra, Girnar, Dhauli, Kandahar",
+          "Vijayanagara: Hampi",
+          "Mughal cities: Delhi, Agra, Fatehpur Sikri, Lahore, Aurangabad",
+          "Colonial cities: Calcutta, Madras, Bombay, Surat",
+          "1857 revolt centres: Meerut, Delhi, Lucknow, Kanpur, Jhansi, Gwalior",
+          "Ancient cities: Varanasi, Indraprastha, Ujjain"
+        ],
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "RBSE History theory paper = 80 marks. 4 sections + map question. 20 questions. Duration: 3 hours 15 minutes + 10 min revision. Bilingual (Hindi+English).",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Internal choice (OR / Athva) Q14-Q17 (LA), Q18-Q19 (Essay), aur Q20 (Map) mein milta hai — kul 7 questions mein choice.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 0,
+      "medium_percent": 0,
+      "hard_percent": 0,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "by_question_type_2025_pattern",
+        "name": "by question type 2025 pattern",
+        "type": "by_question_type_2025_pattern",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "old_blueprint_pre_2024_pattern",
+        "name": "old blueprint pre 2024 pattern",
+        "type": "old_blueprint_pre_2024_pattern",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "Purana pattern (2011-12 blueprint, 2023 tak use hota tha):",
+        "notes": "Purana pattern (2011-12 blueprint, 2023 tak use hota tha):"
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 80,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "by_question_type_2025_pattern",
+        "name": "by question type 2025 pattern",
+        "question_numbers": "",
+        "type": "by_question_type_2025_pattern",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "old_blueprint_pre_2024_pattern",
+        "name": "old blueprint pre 2024 pattern",
+        "question_numbers": "",
+        "type": "old_blueprint_pre_2024_pattern",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "Purana pattern (2011-12 blueprint, 2023 tak use hota tha):"
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 80,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "1",
+      "name": "Bricks, Beads and Bones — Harappan Civilization",
+      "marks": 6,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "7",
+        "name": "An Imperial Capital — Vijayanagara (Hampi)",
+        "marks": 4
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Bricks, Beads and Bones — Harappan Civilization",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "Kings, Farmers and Towns — Early States and Economies (Mauryas, Ashoka)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "Kinship, Caste and Class — The Mahabharata",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "Thinkers, Beliefs and Buildings — Buddhism, Jainism, Sanchi",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "Agrarian Relations — The Ain-i-Akbari",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "Bhakti-Sufi Traditions — Changes in Religious Beliefs",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "An Imperial Capital — Vijayanagara (Hampi)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "name": "Peasants, Zamindars and the State — Mughal Court",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "name": "Through the Eyes of Travellers — Perceptions of Society",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "10",
+        "name": "Colonialism and the Countryside — Rural Society",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "11",
+        "name": "Rebels and the Raj — 1857 Revolt",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "name": "Colonial Cities — Urbanisation, Planning and Architecture",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "13",
+        "name": "Mahatma Gandhi and the Nationalist Movement",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "name": "Understanding Partition — Politics, Memories, Experiences",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "15",
+        "name": "Framing the Constitution — The Beginning of a New Era",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "16",
+        "name": "Map Work — Manchitra Karya (India outline)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "History Class 12 — 16 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT History",
+        "category": "Main",
+        "total_marks": 80,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Bricks, Beads and Bones — Harappan Civilization",
+            "marks": 6,
+            "topics": [
+              "Sindhu Ghati sabhyata (Harappan) — 2600-1900 BCE approximately",
+              "Pramukh sthaan: Harappa, Mohenjodaro, Dholavira, Lothal, Kalibangan, Banawali, Rakhigarhi",
+              "Urban planning — citadel + lower town, grid pattern, Great Bath, granaries, drainage system",
+              "Shilp karya (crafts): Manke banana (bead-making), shankh ki kataai, dhatukarma, mohar nirman, baant (weights), textile",
+              "Sindhu lipi (script): Pictographic (chitramay), right-to-left, 375-400 signs, abhi tak padhi nahi gayi",
+              "Seals — Pashupati seal, unicorn seals, steatite material",
+              "Harappan puratatva ke janak: Sir John Marshall, R.D. Banerjee, Dayaram Sahni",
+              "Harappa excavation: 1921 (Dayaram Sahni)",
+              "Mohenjodaro excavation: 1922 (R.D. Banerjee)",
+              "Civilization decline: Climate change, Saraswati river drying, Aryan invasion theory (disputed)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "Kings, Farmers and Towns — Early States and Economies (Mauryas, Ashoka)",
+            "marks": 5,
+            "topics": [
+              "Mahajanapad kaal — 6th century BCE, 16 mahajanpad",
+              "Pramukh mahajanpad: Magadha, Koshala, Vatsa, Avanti, Gandhara",
+              "Magadha ka uday (rise) — Bimbisara, Ajatashatru, Mahapadmananda, Chandragupta Maurya",
+              "Maurya samrajya — Chandragupta Maurya (321 BCE) ne sthapana",
+              "Ashoka (268-232 BCE) — Kalinga war (261 BCE) ke baad Buddhism adopt",
+              "Ashoka ki upadhiyan: 'Piyadassi' aur 'Devanampiya'",
+              "Ashoka ke abhilekh (inscriptions): Prakrit bhasha, Brahmi lipi (mostly), Kharosthi (NW), Greek-Aramaic (Kandahar)",
+              "Pehla samrat jisne apni praja ke liye natural rocks + polished pillars par sandesh likhwaye: Ashoka",
+              "Ashok ka Dhamma: Badon ka aadar, doosron ke dharmon ka aadar, Brahmanon ka aadar, daason ke prati achha vyavahar",
+              "Kautilya (Chanakya) ka Arthashastra — Maurya administration",
+              "Janpadon mein jansankhya — first census attempt 1872 AD (brittish period)",
+              "Abhilekh (inscription) ka arth: patthar, dhatu ya mitti ke bartan par khude lekh"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "Kinship, Caste and Class — The Mahabharata",
+            "marks": 5,
+            "topics": [
+              "Mahabharata — Itihaas shreni mein rakha gaya hai (Sanskrit parampara)",
+              "Mahabharata ka critical edition project — V.S. Sukthankar ne 1919 mein shuru kiya",
+              "Bhandarkar Oriental Research Institute, Pune mein 47 saal mein poora (1966)",
+              "1,300+ manuscripts se compile",
+              "Kul vs Jati — Sanskrit granthon mein 'Kul' = parivar ke liye, 'Jati' = sage sambandhion ka bada samuh",
+              "Gotra — common ancestor se utpann vansh (patrilineal)",
+              "Varna vyavastha — Brahman, Kshatriya, Vaishya, Shudra",
+              "Dharma sutras aur Dharma shastras mein varna aadarsh jeevika varnit:",
+              "  - Brahman: Vedon ka pathan-pathan, yagya karna-karwana, daan lena-dena",
+              "  - Kshatriya: Yuddh karna, suraksha karna, nyaya karna, yagya karna",
+              "  - Vaishya: Ved padhna, yagya karna, daan-dakshina dena, gopalan, krishi-vyapar",
+              "  - Shudra: Anya teen varnon ki seva karna",
+              "Manusmriti — Stri ke 'kartavyon' ki soochi milti hai",
+              "Matriliny vs Patriliny — kinship systems",
+              "Caste system still exists today (answer mein likhna zaroori hai jab asked)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "Thinkers, Beliefs and Buildings — Buddhism, Jainism, Sanchi",
+            "marks": 5,
+            "topics": [
+              "Mahatma Buddha (563-483 BCE) — Siddhartha Gautam ka bachpan ka naam",
+              "Pramukh sthaan: Lumbini (janam), Bodhgaya (gyan prapti), Sarnath (pratham updesh — Dharmachakra Pravartan), Kusinagar (nibban/mahaparinirvan)",
+              "Buddha ki mrityu ke baad bhi tezi se failna — Sangha (Buddhist monastic order) ki wajah se",
+              "Pali bhasha — pracheen Buddhist granth Pali mein hain",
+              "Tripitaka — Buddhist canonical texts: Sutta Pitaka, Vinaya Pitaka, Abhidhamma Pitaka",
+              "Bheri Gatha Buddhist granth — Sutta Pitaka ka hissa",
+              "Buddhist sampradaay: Hinayana (original, no Buddha idol worship) aur Mahayana (new form, Buddha's idols worshipped)",
+              "Mahayana ki antim roop mein: Bodhisattva concept, Buddha divine figure",
+              "Stupa — Buddhist relics/remains ke upar banaya gaya dome structure",
+              "Pramukh stupas: Sanchi, Bharhut, Amaravati, Nagarjunakonda, Bodhgaya",
+              "Sanchi stupa — Ashoka ne banvaaya, later enlarged. Bhopal nawaab Shahjehan Begum aur Sultan Jehan Begum ne preservation ke liye dhan diya",
+              "Stupaon ki khoj — Europeans ne 19th century mein",
+              "Jain darshan — Mahavira ki shikshayen: Ahimsa, Satya, Asteya, Brahmacharya, Aparigraha (Panch-mahavrat)",
+              "Anekantavada, Syadvada — Jain philosophical concepts",
+              "Devi pooja ka prakar — Tantrik paddhati (Tantric)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "Agrarian Relations — The Ain-i-Akbari",
+            "marks": 6,
+            "topics": [
+              "Ain-i-Akbari — Abul Fazl dwara likhi, Akbar ke shasan ka vistrit vivran",
+              "Uddeshya: Samrajya ka poora khakha pesh karna",
+              "Ain ke 5 books (daftar):",
+              "  1. Manzil-abadi: Imperial household",
+              "  2. Sipah-abadi: Military and civil administration (sainik v naagarik prashasan)",
+              "  3. Mulk-abadi: Fiscal details, provinces (suba-wise info)",
+              "  4. Fourth book: Religion, literature, Hindu culture",
+              "  5. Fifth book: Akbar's sayings, dynasty history",
+              "Akbar ke jameen ke prakar (land types):",
+              "  - Polaj: Niyamit kheti hoti thi (regular cultivation)",
+              "  - Parauti: Kuch waqt ke liye khali rakhi jati",
+              "  - Chachar: 3-4 saal se khali",
+              "  - Banjar: 5+ saal se nahin joti gayi (kisi bhi question mein aata hai)",
+              "Deccan pathar aur Madhya Bharat mein: Cotton (kapas), Dakhan mein large swathes",
+              "Irrigation ke kritrim sadhan: Nahar (canal), Kuan (well), Rahat, Dhenkli",
+              "Shah Nahar — Punjab mein built/repaired",
+              "Kisan, dastkaar ke beech fark mushkil (fluid distinction) — Mughal village society",
+              "Panchayat — mukhiya, krishi mein mahilaon ka role",
+              "Mughal kaal mein vazan + jamin measurement systems",
+              "Itmarari bandobast (permanent settlement) — post-Mughal colonial (1793)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "Bhakti-Sufi Traditions — Changes in Religious Beliefs",
+            "marks": 5,
+            "topics": [
+              "Bhakti andolan — personal devotion to god, 8th-18th century",
+              "Shankaracharya — Bhakti andolan ke janak mane jaate hain (textbook claim). Advaita vedanta",
+              "Ramanujacharya — Vishishtadvaita",
+              "Madhvacharya — Dvaita",
+              "Nirguna Bhakti — Formless god (Kabir, Nanak, Ravidas)",
+              "Saguna Bhakti — God with form/attributes (Mirabai, Tulsidas, Surdas, Chaitanya)",
+              "Alvars and Nayanars — Tamil Nadu's earliest Bhakti saints (6th-9th century)",
+              "Alvars: Vaishnava saints",
+              "Nayanars: Shaiva saints",
+              "Virashaivism (Lingayats) — Basavanna, 12th century Karnataka",
+              "Sufism — Islamic mysticism, tariqa (path)",
+              "Sufi silsilas: Chishti, Suhrawardi, Qadiri, Naqshbandi",
+              "Chishti silsila sabse popular — Muinuddin Chishti (Ajmer) 'Gharib Nawaz'",
+              "Nizamuddin Auliya — Delhi",
+              "Fariduddin Ganj-i-Shakar (Baba Farid)",
+              "Qawwali — Chishti upasana (Sama) ke sandarbh mein — sangeetmay devotional poetry",
+              "Khanqah — Sufi hostel/center",
+              "Dargah — Sufi saint's tomb",
+              "Ibn Battuta ne Delhi ke Chishti khanqahs ka varnan kiya",
+              "Hindu-Muslim sanskritik prabhav, jati-virodh, sant parampara"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "An Imperial Capital — Vijayanagara (Hampi)",
+            "marks": 4,
+            "topics": [
+              "Vijayanagara samrajya — 1336 mein Harihara aur Bukka ne sthapit kiya",
+              "Raj-vanshay (dynasties): Sangama, Saluva, Tuluva, Aravidu",
+              "Krishnadeva Raya — Tuluva vansh ka prasiddh shasak (1509-1529)",
+              "Krishnadeva Raya ne 'Amuktamalyada' Telugu bhasha mein likhi",
+              "Vijayanagara ke shasak ko 'Raya' kaha jata tha",
+              "'Nayak' — sena ka pramukh, kile par niyantran",
+              "Amara-nayaka system — Vijayanagara ki pramukh rajnaitik khoj (innovation). Military chiefs ko land grants ke saath fiscal/military duties",
+              "Hampi — Vijayanagara ki rajdhani (Karnataka, Tungabhadra river ke paas)",
+              "Pramukh bhavan: Lotus Mahal, Virupaksha Temple, Vitthala Temple, Hazara Rama Temple, Mahanavami Dibba, Elephant Stables",
+              "Mahanavami Dibba — Mahanavami festival ka raj-manch. Shahi anusthan (royal rituals) — pooja, sena ka nirikshan, wrestling, procession",
+              "Lotus Mahal — royal centre ka sundar bhavan (palace)",
+              "Rakshasi-Tangadi (Talikota) yuddh — 1565, Deccan Sultanates ne Vijayanagara ko haraya",
+              "Ye yuddh ke baad Vijayanagara barbaad ho gaya"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "Peasants, Zamindars and the State — Mughal Court",
+            "marks": 6,
+            "topics": [
+              "Mughal samrajya — paternally from Timur (Turkic), maternally from Chengiz Khan (Mongol)",
+              "Mughal ka matrubhasha: Turki (not Persian)",
+              "'Mughal' shabd 'Mongol' se vyutpann hua",
+              "Babur (1526) — Mughal empire founder, defeated Ibrahim Lodi at Panipat",
+              "Akbar (1556-1605) — centralization, Mansabdari, Din-i-Ilahi",
+              "Mansabdari system — rank-based military administration. Zat + Sawar",
+              "Jagirdari system — revenue assignment for salary",
+              "Zamindar — local landholder, revenue collector, military service",
+              "Kisan (peasant) categories: Khud-kashta (resident cultivators, owned land), Pahi-kashta (non-resident, tenant farmers)",
+              "Village panchayat — mukhiya (headman), caste panchayats, internal disputes resolution",
+              "Mughal court — Jharokha darshan, diwan-i-am, diwan-i-khas, rituals",
+              "Ain-i-Akbari — Mughal administration source",
+              "Agricultural diversity — mon crops, cash crops, irrigation",
+              "Women in agriculture — weeding, transplanting, harvesting"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "Through the Eyes of Travellers — Perceptions of Society",
+            "marks": 4,
+            "topics": [
+              "Pramukh videshi yatri (foreign travellers):",
+              "Al-Biruni — 11th century, Arab/Persian, Mahmud Ghazni ke saath aya. Janam 973 AD, Khwarizm (Uzbekistan)",
+              "Al-Biruni ka granth: 'Kitab-ul-Hind' (Tahqiq-i-Hind) — Arabic bhasha mein",
+              "Ibn Battuta — 14th century, Morocco ka. Muhammad bin Tughlaq ne Delhi ka Qazi niyukt kiya",
+              "Ibn Battuta ka granth: 'Rihla' — Arabic bhasha",
+              "Ibn Battuta ne Delhi ki visheshtayen batayi: vishal shahar, sundar mahal, darbar, bazaars, dharmic vividhata",
+              "Nicolo Conti — 15th century Italian",
+              "Abdur Razzaq — 15th century Persian doot (ambassador) — 'Piyadassi' pariplu",
+              "Francois Bernier — 17th century French doctor (Aurangzeb era)",
+              "Bernier India mein 12 saal tak raha",
+              "Bernier's book: 'Travels in the Mughal Empire'",
+              "Bernier ne 'Purva aur Paschim' ki tulna ki — India ko European countries se compare kiya",
+              "Bernier's criticism: No private land ownership in India, poor cities, crown ownership",
+              "Jean-Baptiste Tavernier — French traveller, diamond trader",
+              "Comparison Al-Biruni vs Ibn Battuta: Dono Arabic, dono social life describe kiya, dono high-level scholars"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "Colonialism and the Countryside — Rural Society",
+            "marks": 4,
+            "topics": [
+              "East India Company ki bhumika — commerce se conquest tak",
+              "Permanent Settlement (Istmarari Bandobast) — 1793, Lord Cornwallis, Bengal-Bihar-Orissa",
+              "Zamindari system — zamindar fixed revenue dete the Company ko",
+              "Permanent Settlement ki visheshta: Fixed revenue, hereditary zamindari, sunset clause (default = land auction)",
+              "Ryotwari system — Madras, Bombay presidency mein. Direct settlement with cultivators",
+              "Mahalwari system — North India. Village-based settlement",
+              "Jotedar — rich peasants jo zamindari system mein upadhyay (middlemen) ban gaye, gaon mein real power",
+              "Ryot — peasant cultivator, jotedar se tenancy lete the",
+              "Paharia (hill people) — Rajmahal hills, tribal",
+              "Santhal — Damin-i-Koh region, settled agriculturalists became",
+              "Buchanan — 19th century early mein Rajmahal hills ka dora kiya, survey kiya",
+              "Paanchvi Report (Fifth Report) — British Parliament ko 1813 mein pesh ki gayi. East India Company ke administration/revenue ka detailed survey",
+              "Deccan Riots 1875 — moneylenders ke khilaf",
+              "Moneylenders' records, bonds, debts",
+              "Zamindar's strategies to retain land: Fake auctions (own men bid high), partition among family, violent resistance"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "Rebels and the Raj — 1857 Revolt",
+            "marks": 4,
+            "topics": [
+              "1857 revolt — 'Pehli Swatantrata Sangram', 'Sepoy Mutiny'",
+              "Karan: Doctrine of Lapse (Dalhousie), annexation policies, Enfield rifle cartridge controversy, economic exploitation, religious hurt",
+              "Awadh annexation — 1856, Dalhousie (1851 mein GG)",
+              "Dalhousie ne kaha tha 'Ye gilaas phal ek din hamaare hi munh mein aakar girenga' — Awadh ke baare mein (Doctrine of Lapse kaam karegi)",
+              "1801 mein Awadh mein Sahayak Sandhi thopi gayi. Nawab angrezon par nirbhar ho gaya. Resident ki salah se kaam.",
+              "1857 Revolt start: 29 March 1857 (Mangal Pandey at Barrackpore), May 10 Meerut",
+              "Pramukh kendra: Delhi (Bahadur Shah Zafar), Lucknow (Begum Hazrat Mahal, Birjis Qadr), Kanpur (Nana Sahib), Jhansi (Rani Lakshmibai), Bihar (Kunwar Singh)",
+              "Rani of Jhansi — Manikarnika, Lakshmibai, 1828-1858, Gangadhar Rao ki patni, Doctrine of Lapse ke wajah se biren-less state annexed",
+              "Bhajan ki rani ko rebellion leadership uthana pada when Jhansi annexed + adopted son refused recognition",
+              "1857 British response: Brutal repression, Delhi recapture (September 1857), Bahadur Shah deposed",
+              "1858 — Queen's Proclamation, East India Company ka end, direct Crown rule",
+              "1857 visualizations — British pictures show 'justice' and restoration; Indian oral traditions show heroism",
+              "Felice Beato — photographer who shot ruins of Lucknow Residency"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "Colonial Cities — Urbanisation, Planning and Architecture",
+            "marks": 5,
+            "topics": [
+              "Colonial shahar: Calcutta (Kolkata), Madras (Chennai), Bombay (Mumbai)",
+              "1861 mein America mein Civil War shuru — Indian cotton demand badhi — Bombay prosperity",
+              "Colonial cities ke social features — aaj bhi dikhte hain:",
+              "  1. Yaatayat ke sadhan ka vikas (transport)",
+              "  2. Manoranjan v milne-julane ke naye sarvajanik sthal (public spaces)",
+              "  3. Madhyam varg ka vistar (middle class growth)",
+              "  4. Mahilaaon ki sthiti mein parivartan",
+              "  5. Mehnatkash, garib ya kaamgaaron mein vriddhi (workers increase)",
+              "Municipal administration — 19th century",
+              "Racial segregation — White town vs Black town",
+              "Hill stations — Shimla, Darjeeling, Ooty (British summer capitals)",
+              "Railway expansion — 1853 first train (Bombay-Thane)",
+              "Census — 1872 first attempt, 1881 regular decennial",
+              "Shahar ki vastukala: Neo-classical, Gothic Revival, Indo-Saracenic",
+              "Ranigunj, Jharia — khanan (mining) towns",
+              "Cantonments (chhawniyan) — Ambala, garrison towns"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "Mahatma Gandhi and the Nationalist Movement",
+            "marks": 6,
+            "topics": [
+              "Gandhi ka janm: 2 October 1869, Porbandar, Gujarat",
+              "South Africa mein 1893-1915 — Satyagraha technique develop. 'South Africa made the Mahatma'",
+              "Bharat vaapsi: 9 January 1915",
+              "Gopal Krishna Gokhale — Gandhi's political guru. Salah di: 1 saal poora Bharat ghoomo, logon ko jaano",
+              "Gandhi's mass movements:",
+              "  1. Champaran Satyagraha 1917 — Indigo planters",
+              "  2. Kheda Satyagraha 1918 — Peasant tax relief",
+              "  3. Ahmedabad Mill Strike 1918 — Mill workers",
+              "  4. Rowlatt Satyagraha 1919 — All-India protest against Rowlatt Act. 'Made Gandhi truly national leader'",
+              "  5. Non-Cooperation Movement 1920-22 — called off after Chauri Chaura",
+              "  6. Salt March / Dandi March 1930 — 12 March to 6 April, 240 miles. Civil Disobedience Movement",
+              "  7. Quit India Movement 8 August 1942 — 'Karo ya Maro' (Do or Die)",
+              "Gandhi's tactical wisdom: Salt monopoly chosen because it affected everyone — masses could participate",
+              "Gandhi's simple attire: Dhoti, charkha (spinning wheel), Harijan welfare, 'India lives in villages'",
+              "Hindustani bhasha — Gandhi ki rashtriya bhasha banane ki ichchha. Hindi + Urdu = Hindustani. 'Har bharatiya samjhe'. But bhasha rajnaitik bindu ban gayi.",
+              "1946 calcutta riots — Gandhi Noakhali, Bihar dora",
+              "September 1947 — Gandhi Delhi mein anshan — 'Ab Dilli bach jaayegi' (Shahid Ahmad Dehlavi quote)",
+              "30 January 1948 — Gandhi's assassination by Nathuram Godse at Birla House"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "14",
+            "name": "Understanding Partition — Politics, Memories, Experiences",
+            "marks": 6,
+            "topics": [
+              "Vibhajan ke karan:",
+              "  1. 1909 Act — Angrezon ne 'phoot' (communal divide) pehli baar legal structure mein laya",
+              "  2. Prithak chunav (separate electorates) ke parinaam",
+              "  3. 1940 Lahore Resolution — Muslim League ne Pakistan demand ki",
+              "  4. 1946 Direct Action Day — 16 August, Calcutta killings",
+              "  5. Sampradayik zahar failne ki wajah se 1947 mein ntwara",
+              "  6. Angrezon ki divide-and-rule policy",
+              "Mountbatten Plan — 3 June 1947 — partition announcement",
+              "15 August 1947 — Independence + Partition",
+              "Radcliffe Line — drawn by Cyril Radcliffe (5 weeks only, never been to India before)",
+              "Punjab aur Bengal — main bata. Partition violence — lakhs killed, 1 crore+ refugees",
+              "Oral sources — partition survivors' memoirs, interviews — history re-written",
+              "Mahila experiences: Abduction, rape, 'honor killings'",
+              "Urvashi Butalia's 'The Other Side of Silence' — oral history",
+              "Gandhi's role in partition — anshan, Noakhali walk, Delhi peace efforts",
+              "'India ka banawara ek sampradayic rajneeti ka aakhri bindu tha' — debate topic",
+              "Post-partition: Recovery of abducted women, rehabilitation, Kashmir issue (1947-48)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "15",
+            "name": "Framing the Constitution — The Beginning of a New Era",
+            "marks": 4,
+            "topics": [
+              "Constituent Assembly — formed from Cabinet Mission Plan 1946",
+              "Indirect election from provincial assemblies (Pradeshik Vidhan Sabhaon se)",
+              "First meeting: 9 December 1946",
+              "President (Adhyaksh): Dr. Rajendra Prasad",
+              "Drafting Committee chairman: Dr. B.R. Ambedkar",
+              "B.R. Ambedkar invited to become Union Law Minister — Gandhi's advice",
+              "Total members: 389 initially, 299 after partition (actually 284 signed)",
+              "Sessions: 11 sessions, 165 days, over 2 years 11 months 18 days",
+              "Constitution adopted: 26 November 1949",
+              "Constitution came into force: 26 January 1950 (Republic Day)",
+              "K.M. Munshi — Gujarat se important member, Drafting Committee",
+              "Jawaharlal Nehru — Objectives Resolution (13 December 1946)",
+              "Federal structure — Kendra-Rajya shakti batwara 3 soochiyon mein:",
+              "  1. Union List (Sangh Soochi) — Kendra ke vishay (defense, foreign affairs, railways)",
+              "  2. State List (Rajya Soochi) — Rajyon ke vishay (police, agriculture, public health)",
+              "  3. Concurrent List (Samavarti Soochi) — dono ke common vishay (education, forests)",
+              "Bhasha ka mudda — Constituent Assembly mein debate:",
+              "  - Hindi vs Hindustani",
+              "  - Regional languages",
+              "  - English as link language",
+              "  - Final: Hindi (Devanagari) as official language, English continued for 15 years, regional languages recognized in 8th Schedule",
+              "Mandatory Fundamental Rights + Directive Principles",
+              "Universal Adult Franchise — 21 years initially (lowered to 18 in 1989)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "16",
+            "name": "Map Work — Manchitra Karya (India outline)",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Bricks, Beads and Bones — Harappan Civilization",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 1,
+      "unit_name": "Bricks, Beads and Bones — Harappan Civilization",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Sindhu Ghati sabhyata (Harappan) — 2600-1900 BCE approximately",
+        "Pramukh sthaan: Harappa, Mohenjodaro, Dholavira, Lothal, Kalibangan, Banawali, Rakhigarhi",
+        "Urban planning — citadel + lower town, grid pattern, Great Bath, granaries, drainage system",
+        "Shilp karya (crafts): Manke banana (bead-making), shankh ki kataai, dhatukarma, mohar nirman, baant (weights), textile",
+        "Sindhu lipi (script): Pictographic (chitramay), right-to-left, 375-400 signs, abhi tak padhi nahi gayi",
+        "Seals — Pashupati seal, unicorn seals, steatite material",
+        "Harappan puratatva ke janak: Sir John Marshall, R.D. Banerjee, Dayaram Sahni",
+        "Harappa excavation: 1921 (Dayaram Sahni)",
+        "Mohenjodaro excavation: 1922 (R.D. Banerjee)",
+        "Civilization decline: Climate change, Saraswati river drying, Aryan invasion theory (disputed)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Harappan script rahsyamay kaise thi (LA 3 marks — always asked), Urban development unique feature (LA alt), Irrigation sadhan (SA 2), Shilp karya (SA 2), Banawali state (VSA)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Kings, Farmers and Towns — Early States and Economies (Mauryas, Ashoka)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 2,
+      "unit_name": "Kings, Farmers and Towns — Early States and Economies (Mauryas, Ashoka)",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Mahajanapad kaal — 6th century BCE, 16 mahajanpad",
+        "Pramukh mahajanpad: Magadha, Koshala, Vatsa, Avanti, Gandhara",
+        "Magadha ka uday (rise) — Bimbisara, Ajatashatru, Mahapadmananda, Chandragupta Maurya",
+        "Maurya samrajya — Chandragupta Maurya (321 BCE) ne sthapana",
+        "Ashoka (268-232 BCE) — Kalinga war (261 BCE) ke baad Buddhism adopt",
+        "Ashoka ki upadhiyan: 'Piyadassi' aur 'Devanampiya'",
+        "Ashoka ke abhilekh (inscriptions): Prakrit bhasha, Brahmi lipi (mostly), Kharosthi (NW), Greek-Aramaic (Kandahar)",
+        "Pehla samrat jisne apni praja ke liye natural rocks + polished pillars par sandesh likhwaye: Ashoka",
+        "Ashok ka Dhamma: Badon ka aadar, doosron ke dharmon ka aadar, Brahmanon ka aadar, daason ke prati achha vyavahar",
+        "Kautilya (Chanakya) ka Arthashastra — Maurya administration",
+        "Janpadon mein jansankhya — first census attempt 1872 AD (brittish period)",
+        "Abhilekh (inscription) ka arth: patthar, dhatu ya mitti ke bartan par khude lekh"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Abhilekh paribhasha (VSA), Mahajanpad visheshtayen (SA 2), Ashoka's Dhamma principles (SA 2 — 2 points), Ashok's titles (MCQ), Ambassador to Chandragupta Maurya (MCQ), Magadha → Mauryan empire (Fill)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Kinship, Caste and Class — The Mahabharata",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 3,
+      "unit_name": "Kinship, Caste and Class — The Mahabharata",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Mahabharata — Itihaas shreni mein rakha gaya hai (Sanskrit parampara)",
+        "Mahabharata ka critical edition project — V.S. Sukthankar ne 1919 mein shuru kiya",
+        "Bhandarkar Oriental Research Institute, Pune mein 47 saal mein poora (1966)",
+        "1,300+ manuscripts se compile",
+        "Kul vs Jati — Sanskrit granthon mein 'Kul' = parivar ke liye, 'Jati' = sage sambandhion ka bada samuh",
+        "Gotra — common ancestor se utpann vansh (patrilineal)",
+        "Varna vyavastha — Brahman, Kshatriya, Vaishya, Shudra",
+        "Dharma sutras aur Dharma shastras mein varna aadarsh jeevika varnit:",
+        "  - Brahman: Vedon ka pathan-pathan, yagya karna-karwana, daan lena-dena",
+        "  - Kshatriya: Yuddh karna, suraksha karna, nyaya karna, yagya karna",
+        "  - Vaishya: Ved padhna, yagya karna, daan-dakshina dena, gopalan, krishi-vyapar",
+        "  - Shudra: Anya teen varnon ki seva karna",
+        "Manusmriti — Stri ke 'kartavyon' ki soochi milti hai",
+        "Matriliny vs Patriliny — kinship systems",
+        "Caste system still exists today (answer mein likhna zaroori hai jab asked)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Kul aur Jati mein bhinnta (VSA), Varna system aadarsh jeevika (LA/Essay 4 marks), Gotra meaning (SA 2), Manusmriti (Fill), Mahabharata Sanskrit category (VSA), Sukthankar project year (MCQ 1919/1925/1930)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Thinkers, Beliefs and Buildings — Buddhism, Jainism, Sanchi",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 4,
+      "unit_name": "Thinkers, Beliefs and Buildings — Buddhism, Jainism, Sanchi",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Mahatma Buddha (563-483 BCE) — Siddhartha Gautam ka bachpan ka naam",
+        "Pramukh sthaan: Lumbini (janam), Bodhgaya (gyan prapti), Sarnath (pratham updesh — Dharmachakra Pravartan), Kusinagar (nibban/mahaparinirvan)",
+        "Buddha ki mrityu ke baad bhi tezi se failna — Sangha (Buddhist monastic order) ki wajah se",
+        "Pali bhasha — pracheen Buddhist granth Pali mein hain",
+        "Tripitaka — Buddhist canonical texts: Sutta Pitaka, Vinaya Pitaka, Abhidhamma Pitaka",
+        "Bheri Gatha Buddhist granth — Sutta Pitaka ka hissa",
+        "Buddhist sampradaay: Hinayana (original, no Buddha idol worship) aur Mahayana (new form, Buddha's idols worshipped)",
+        "Mahayana ki antim roop mein: Bodhisattva concept, Buddha divine figure",
+        "Stupa — Buddhist relics/remains ke upar banaya gaya dome structure",
+        "Pramukh stupas: Sanchi, Bharhut, Amaravati, Nagarjunakonda, Bodhgaya",
+        "Sanchi stupa — Ashoka ne banvaaya, later enlarged. Bhopal nawaab Shahjehan Begum aur Sultan Jehan Begum ne preservation ke liye dhan diya",
+        "Stupaon ki khoj — Europeans ne 19th century mein",
+        "Jain darshan — Mahavira ki shikshayen: Ahimsa, Satya, Asteya, Brahmacharya, Aparigraha (Panch-mahavrat)",
+        "Anekantavada, Syadvada — Jain philosophical concepts",
+        "Devi pooja ka prakar — Tantrik paddhati (Tantric)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Buddha's childhood name (VSA — Siddhartha), Buddhist texts language (VSA — Pali), Hinayana-Mahayana distinction (SA 2), Tantric devi pooja (VSA), Sanchi patron state MCQ (Bhopal), Jain philosophy teachings (Essay 4), Stupa discovery (Essay 4 OR), Buddhism rapid spread (VSA — 'Sangha + royal patronage')",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Agrarian Relations — The Ain-i-Akbari",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 5,
+      "unit_name": "Agrarian Relations — The Ain-i-Akbari",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Hard (Essay frequent source)",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Ain-i-Akbari — Abul Fazl dwara likhi, Akbar ke shasan ka vistrit vivran",
+        "Uddeshya: Samrajya ka poora khakha pesh karna",
+        "Ain ke 5 books (daftar):",
+        "  1. Manzil-abadi: Imperial household",
+        "  2. Sipah-abadi: Military and civil administration (sainik v naagarik prashasan)",
+        "  3. Mulk-abadi: Fiscal details, provinces (suba-wise info)",
+        "  4. Fourth book: Religion, literature, Hindu culture",
+        "  5. Fifth book: Akbar's sayings, dynasty history",
+        "Akbar ke jameen ke prakar (land types):",
+        "  - Polaj: Niyamit kheti hoti thi (regular cultivation)",
+        "  - Parauti: Kuch waqt ke liye khali rakhi jati",
+        "  - Chachar: 3-4 saal se khali",
+        "  - Banjar: 5+ saal se nahin joti gayi (kisi bhi question mein aata hai)",
+        "Deccan pathar aur Madhya Bharat mein: Cotton (kapas), Dakhan mein large swathes",
+        "Irrigation ke kritrim sadhan: Nahar (canal), Kuan (well), Rahat, Dhenkli",
+        "Shah Nahar — Punjab mein built/repaired",
+        "Kisan, dastkaar ke beech fark mushkil (fluid distinction) — Mughal village society",
+        "Panchayat — mukhiya, krishi mein mahilaon ka role",
+        "Mughal kaal mein vazan + jamin measurement systems",
+        "Itmarari bandobast (permanent settlement) — post-Mughal colonial (1793)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Ain as agriculture history source (Essay 6 old format / 4 new), Mughal irrigation sadhan + aaj ki utility (Essay), Sipah-abadi MCQ, Banjar jameen (MCQ), Polaj/Parauti/Chachar/Banjar classification, Kisan-dastkaar fluid distinction (SA 2), Deccan cotton (Fill)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Bhakti-Sufi Traditions — Changes in Religious Beliefs",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 6,
+      "unit_name": "Bhakti-Sufi Traditions — Changes in Religious Beliefs",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Bhakti andolan — personal devotion to god, 8th-18th century",
+        "Shankaracharya — Bhakti andolan ke janak mane jaate hain (textbook claim). Advaita vedanta",
+        "Ramanujacharya — Vishishtadvaita",
+        "Madhvacharya — Dvaita",
+        "Nirguna Bhakti — Formless god (Kabir, Nanak, Ravidas)",
+        "Saguna Bhakti — God with form/attributes (Mirabai, Tulsidas, Surdas, Chaitanya)",
+        "Alvars and Nayanars — Tamil Nadu's earliest Bhakti saints (6th-9th century)",
+        "Alvars: Vaishnava saints",
+        "Nayanars: Shaiva saints",
+        "Virashaivism (Lingayats) — Basavanna, 12th century Karnataka",
+        "Sufism — Islamic mysticism, tariqa (path)",
+        "Sufi silsilas: Chishti, Suhrawardi, Qadiri, Naqshbandi",
+        "Chishti silsila sabse popular — Muinuddin Chishti (Ajmer) 'Gharib Nawaz'",
+        "Nizamuddin Auliya — Delhi",
+        "Fariduddin Ganj-i-Shakar (Baba Farid)",
+        "Qawwali — Chishti upasana (Sama) ke sandarbh mein — sangeetmay devotional poetry",
+        "Khanqah — Sufi hostel/center",
+        "Dargah — Sufi saint's tomb",
+        "Ibn Battuta ne Delhi ke Chishti khanqahs ka varnan kiya",
+        "Hindu-Muslim sanskritik prabhav, jati-virodh, sant parampara"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Bhakti andolan vikas (SA/Essay 4), Sufism growth (LA 3), Qawwali meaning (SA 2), Saguna bhakti (VSA), Early Bhakti tradition (LA 3 OR), Gharib Nawaz MCQ (Muinuddin Chishti)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "An Imperial Capital — Vijayanagara (Hampi)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 7,
+      "unit_name": "An Imperial Capital — Vijayanagara (Hampi)",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Vijayanagara samrajya — 1336 mein Harihara aur Bukka ne sthapit kiya",
+        "Raj-vanshay (dynasties): Sangama, Saluva, Tuluva, Aravidu",
+        "Krishnadeva Raya — Tuluva vansh ka prasiddh shasak (1509-1529)",
+        "Krishnadeva Raya ne 'Amuktamalyada' Telugu bhasha mein likhi",
+        "Vijayanagara ke shasak ko 'Raya' kaha jata tha",
+        "'Nayak' — sena ka pramukh, kile par niyantran",
+        "Amara-nayaka system — Vijayanagara ki pramukh rajnaitik khoj (innovation). Military chiefs ko land grants ke saath fiscal/military duties",
+        "Hampi — Vijayanagara ki rajdhani (Karnataka, Tungabhadra river ke paas)",
+        "Pramukh bhavan: Lotus Mahal, Virupaksha Temple, Vitthala Temple, Hazara Rama Temple, Mahanavami Dibba, Elephant Stables",
+        "Mahanavami Dibba — Mahanavami festival ka raj-manch. Shahi anusthan (royal rituals) — pooja, sena ka nirikshan, wrestling, procession",
+        "Lotus Mahal — royal centre ka sundar bhavan (palace)",
+        "Rakshasi-Tangadi (Talikota) yuddh — 1565, Deccan Sultanates ne Vijayanagara ko haraya",
+        "Ye yuddh ke baad Vijayanagara barbaad ho gaya"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Amuktamalyada language (MCQ — Telugu), Lotus Mahal empire (MCQ — Vijayanagara), Krishnadeva Raya dynasty (MCQ — Tuluva), Amara-nayaka system empire (Fill — Vijayanagara), Raya vs Nayak bhed (SA 2), Mahanavami Dibba anusthan (SA 2), Rakshasi-Tangadi year (VSA — 1565)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Peasants, Zamindars and the State — Mughal Court",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 8,
+      "unit_name": "Peasants, Zamindars and the State — Mughal Court",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Mughal samrajya — paternally from Timur (Turkic), maternally from Chengiz Khan (Mongol)",
+        "Mughal ka matrubhasha: Turki (not Persian)",
+        "'Mughal' shabd 'Mongol' se vyutpann hua",
+        "Babur (1526) — Mughal empire founder, defeated Ibrahim Lodi at Panipat",
+        "Akbar (1556-1605) — centralization, Mansabdari, Din-i-Ilahi",
+        "Mansabdari system — rank-based military administration. Zat + Sawar",
+        "Jagirdari system — revenue assignment for salary",
+        "Zamindar — local landholder, revenue collector, military service",
+        "Kisan (peasant) categories: Khud-kashta (resident cultivators, owned land), Pahi-kashta (non-resident, tenant farmers)",
+        "Village panchayat — mukhiya (headman), caste panchayats, internal disputes resolution",
+        "Mughal court — Jharokha darshan, diwan-i-am, diwan-i-khas, rituals",
+        "Ain-i-Akbari — Mughal administration source",
+        "Agricultural diversity — mon crops, cash crops, irrigation",
+        "Women in agriculture — weeding, transplanting, harvesting"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Mughal shabd vyutpatti (VSA — Mongol), Mughal origin + matrubhasha (MCQ 1+½+½), Khud-kashta (VSA), Zamindari control methods (SA-II 4 marks old pattern), Kisan-dastkaar fluid distinction (SA 2), Ain source for agriculture (Essay 4/6), Mughal irrigation (Essay alt)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Through the Eyes of Travellers — Perceptions of Society",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 9,
+      "unit_name": "Through the Eyes of Travellers — Perceptions of Society",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Pramukh videshi yatri (foreign travellers):",
+        "Al-Biruni — 11th century, Arab/Persian, Mahmud Ghazni ke saath aya. Janam 973 AD, Khwarizm (Uzbekistan)",
+        "Al-Biruni ka granth: 'Kitab-ul-Hind' (Tahqiq-i-Hind) — Arabic bhasha mein",
+        "Ibn Battuta — 14th century, Morocco ka. Muhammad bin Tughlaq ne Delhi ka Qazi niyukt kiya",
+        "Ibn Battuta ka granth: 'Rihla' — Arabic bhasha",
+        "Ibn Battuta ne Delhi ki visheshtayen batayi: vishal shahar, sundar mahal, darbar, bazaars, dharmic vividhata",
+        "Nicolo Conti — 15th century Italian",
+        "Abdur Razzaq — 15th century Persian doot (ambassador) — 'Piyadassi' pariplu",
+        "Francois Bernier — 17th century French doctor (Aurangzeb era)",
+        "Bernier India mein 12 saal tak raha",
+        "Bernier's book: 'Travels in the Mughal Empire'",
+        "Bernier ne 'Purva aur Paschim' ki tulna ki — India ko European countries se compare kiya",
+        "Bernier's criticism: No private land ownership in India, poor cities, crown ownership",
+        "Jean-Baptiste Tavernier — French traveller, diamond trader",
+        "Comparison Al-Biruni vs Ibn Battuta: Dono Arabic, dono social life describe kiya, dono high-level scholars"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Bernier India kitne saal (MCQ — 12), Tavernier country (VSA — France), Ibn Battuta appointed by (MCQ — Muhammad bin Tughlaq), Al-Biruni birth year (Fill — 973), Bernier's East-West comparison (Essay 6 old), Al-Biruni vs Ibn Battuta tulna (Essay OR), Ibn Battuta on Delhi features (SA 2)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Colonialism and the Countryside — Rural Society",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 10,
+      "unit_name": "Colonialism and the Countryside — Rural Society",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "East India Company ki bhumika — commerce se conquest tak",
+        "Permanent Settlement (Istmarari Bandobast) — 1793, Lord Cornwallis, Bengal-Bihar-Orissa",
+        "Zamindari system — zamindar fixed revenue dete the Company ko",
+        "Permanent Settlement ki visheshta: Fixed revenue, hereditary zamindari, sunset clause (default = land auction)",
+        "Ryotwari system — Madras, Bombay presidency mein. Direct settlement with cultivators",
+        "Mahalwari system — North India. Village-based settlement",
+        "Jotedar — rich peasants jo zamindari system mein upadhyay (middlemen) ban gaye, gaon mein real power",
+        "Ryot — peasant cultivator, jotedar se tenancy lete the",
+        "Paharia (hill people) — Rajmahal hills, tribal",
+        "Santhal — Damin-i-Koh region, settled agriculturalists became",
+        "Buchanan — 19th century early mein Rajmahal hills ka dora kiya, survey kiya",
+        "Paanchvi Report (Fifth Report) — British Parliament ko 1813 mein pesh ki gayi. East India Company ke administration/revenue ka detailed survey",
+        "Deccan Riots 1875 — moneylenders ke khilaf",
+        "Moneylenders' records, bonds, debts",
+        "Zamindar's strategies to retain land: Fake auctions (own men bid high), partition among family, violent resistance"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Fifth Report year (MCQ — 1813), Permanent settlement visheshta (VSA), Buchanan Rajmahal (Fill), Jotedar vs Ryot (SA 2), Zamindari control methods (SA-II 4 old pattern)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Rebels and the Raj — 1857 Revolt",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 11,
+      "unit_name": "Rebels and the Raj — 1857 Revolt",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "1857 revolt — 'Pehli Swatantrata Sangram', 'Sepoy Mutiny'",
+        "Karan: Doctrine of Lapse (Dalhousie), annexation policies, Enfield rifle cartridge controversy, economic exploitation, religious hurt",
+        "Awadh annexation — 1856, Dalhousie (1851 mein GG)",
+        "Dalhousie ne kaha tha 'Ye gilaas phal ek din hamaare hi munh mein aakar girenga' — Awadh ke baare mein (Doctrine of Lapse kaam karegi)",
+        "1801 mein Awadh mein Sahayak Sandhi thopi gayi. Nawab angrezon par nirbhar ho gaya. Resident ki salah se kaam.",
+        "1857 Revolt start: 29 March 1857 (Mangal Pandey at Barrackpore), May 10 Meerut",
+        "Pramukh kendra: Delhi (Bahadur Shah Zafar), Lucknow (Begum Hazrat Mahal, Birjis Qadr), Kanpur (Nana Sahib), Jhansi (Rani Lakshmibai), Bihar (Kunwar Singh)",
+        "Rani of Jhansi — Manikarnika, Lakshmibai, 1828-1858, Gangadhar Rao ki patni, Doctrine of Lapse ke wajah se biren-less state annexed",
+        "Bhajan ki rani ko rebellion leadership uthana pada when Jhansi annexed + adopted son refused recognition",
+        "1857 British response: Brutal repression, Delhi recapture (September 1857), Bahadur Shah deposed",
+        "1858 — Queen's Proclamation, East India Company ka end, direct Crown rule",
+        "1857 visualizations — British pictures show 'justice' and restoration; Indian oral traditions show heroism",
+        "Felice Beato — photographer who shot ruins of Lucknow Residency"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Dalhousie 'ripe fruit' statement analysis (SA-II 4 marks old format), Awadh revolt note (LA 3 — 2025), 1857 pictures information (LA 3 OR), GG in 1851 (MCQ), Jhansi Rani circumstances (SA 2)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "Colonial Cities — Urbanisation, Planning and Architecture",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 12,
+      "unit_name": "Colonial Cities — Urbanisation, Planning and Architecture",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Colonial shahar: Calcutta (Kolkata), Madras (Chennai), Bombay (Mumbai)",
+        "1861 mein America mein Civil War shuru — Indian cotton demand badhi — Bombay prosperity",
+        "Colonial cities ke social features — aaj bhi dikhte hain:",
+        "  1. Yaatayat ke sadhan ka vikas (transport)",
+        "  2. Manoranjan v milne-julane ke naye sarvajanik sthal (public spaces)",
+        "  3. Madhyam varg ka vistar (middle class growth)",
+        "  4. Mahilaaon ki sthiti mein parivartan",
+        "  5. Mehnatkash, garib ya kaamgaaron mein vriddhi (workers increase)",
+        "Municipal administration — 19th century",
+        "Racial segregation — White town vs Black town",
+        "Hill stations — Shimla, Darjeeling, Ooty (British summer capitals)",
+        "Railway expansion — 1853 first train (Bombay-Thane)",
+        "Census — 1872 first attempt, 1881 regular decennial",
+        "Shahar ki vastukala: Neo-classical, Gothic Revival, Indo-Saracenic",
+        "Ranigunj, Jharia — khanan (mining) towns",
+        "Cantonments (chhawniyan) — Ambala, garrison towns"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "American Civil War year (MCQ — 1861), Colonial city social features continue (SA-II 4 old), Railway impact (LA), Hill stations (SA)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "Mahatma Gandhi and the Nationalist Movement",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 13,
+      "unit_name": "Mahatma Gandhi and the Nationalist Movement",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Gandhi ka janm: 2 October 1869, Porbandar, Gujarat",
+        "South Africa mein 1893-1915 — Satyagraha technique develop. 'South Africa made the Mahatma'",
+        "Bharat vaapsi: 9 January 1915",
+        "Gopal Krishna Gokhale — Gandhi's political guru. Salah di: 1 saal poora Bharat ghoomo, logon ko jaano",
+        "Gandhi's mass movements:",
+        "  1. Champaran Satyagraha 1917 — Indigo planters",
+        "  2. Kheda Satyagraha 1918 — Peasant tax relief",
+        "  3. Ahmedabad Mill Strike 1918 — Mill workers",
+        "  4. Rowlatt Satyagraha 1919 — All-India protest against Rowlatt Act. 'Made Gandhi truly national leader'",
+        "  5. Non-Cooperation Movement 1920-22 — called off after Chauri Chaura",
+        "  6. Salt March / Dandi March 1930 — 12 March to 6 April, 240 miles. Civil Disobedience Movement",
+        "  7. Quit India Movement 8 August 1942 — 'Karo ya Maro' (Do or Die)",
+        "Gandhi's tactical wisdom: Salt monopoly chosen because it affected everyone — masses could participate",
+        "Gandhi's simple attire: Dhoti, charkha (spinning wheel), Harijan welfare, 'India lives in villages'",
+        "Hindustani bhasha — Gandhi ki rashtriya bhasha banane ki ichchha. Hindi + Urdu = Hindustani. 'Har bharatiya samjhe'. But bhasha rajnaitik bindu ban gayi.",
+        "1946 calcutta riots — Gandhi Noakhali, Bihar dora",
+        "September 1947 — Gandhi Delhi mein anshan — 'Ab Dilli bach jaayegi' (Shahid Ahmad Dehlavi quote)",
+        "30 January 1948 — Gandhi's assassination by Nathuram Godse at Birla House"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "'Gandhi jan neta' (SA 2), South Africa making Mahatma (VSA/LA), Salt March tactical wisdom (Essay 4 — 2025), Rowlatt Satyagraha = truly national leader (Essay 4 OR — 2025), Quit India mass movement critique (SA-II 4 old), Hindustani language reasoning (SA-II 4)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "Understanding Partition — Politics, Memories, Experiences",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 14,
+      "unit_name": "Understanding Partition — Politics, Memories, Experiences",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Vibhajan ke karan:",
+        "  1. 1909 Act — Angrezon ne 'phoot' (communal divide) pehli baar legal structure mein laya",
+        "  2. Prithak chunav (separate electorates) ke parinaam",
+        "  3. 1940 Lahore Resolution — Muslim League ne Pakistan demand ki",
+        "  4. 1946 Direct Action Day — 16 August, Calcutta killings",
+        "  5. Sampradayik zahar failne ki wajah se 1947 mein ntwara",
+        "  6. Angrezon ki divide-and-rule policy",
+        "Mountbatten Plan — 3 June 1947 — partition announcement",
+        "15 August 1947 — Independence + Partition",
+        "Radcliffe Line — drawn by Cyril Radcliffe (5 weeks only, never been to India before)",
+        "Punjab aur Bengal — main bata. Partition violence — lakhs killed, 1 crore+ refugees",
+        "Oral sources — partition survivors' memoirs, interviews — history re-written",
+        "Mahila experiences: Abduction, rape, 'honor killings'",
+        "Urvashi Butalia's 'The Other Side of Silence' — oral history",
+        "Gandhi's role in partition — anshan, Noakhali walk, Delhi peace efforts",
+        "'India ka banawara ek sampradayic rajneeti ka aakhri bindu tha' — debate topic",
+        "Post-partition: Recovery of abducted women, rehabilitation, Kashmir issue (1947-48)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Direct Action Day aahwaan (SA 2 — 2025), 'Dilli bach jayegi' 1947 riots context (Essay 6 old format), Partition = communal politics end point (Essay 6 OR), Oral source importance, Women's experiences",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 15,
+      "name": "Framing the Constitution — The Beginning of a New Era",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 15,
+      "unit_name": "Framing the Constitution — The Beginning of a New Era",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Constituent Assembly — formed from Cabinet Mission Plan 1946",
+        "Indirect election from provincial assemblies (Pradeshik Vidhan Sabhaon se)",
+        "First meeting: 9 December 1946",
+        "President (Adhyaksh): Dr. Rajendra Prasad",
+        "Drafting Committee chairman: Dr. B.R. Ambedkar",
+        "B.R. Ambedkar invited to become Union Law Minister — Gandhi's advice",
+        "Total members: 389 initially, 299 after partition (actually 284 signed)",
+        "Sessions: 11 sessions, 165 days, over 2 years 11 months 18 days",
+        "Constitution adopted: 26 November 1949",
+        "Constitution came into force: 26 January 1950 (Republic Day)",
+        "K.M. Munshi — Gujarat se important member, Drafting Committee",
+        "Jawaharlal Nehru — Objectives Resolution (13 December 1946)",
+        "Federal structure — Kendra-Rajya shakti batwara 3 soochiyon mein:",
+        "  1. Union List (Sangh Soochi) — Kendra ke vishay (defense, foreign affairs, railways)",
+        "  2. State List (Rajya Soochi) — Rajyon ke vishay (police, agriculture, public health)",
+        "  3. Concurrent List (Samavarti Soochi) — dono ke common vishay (education, forests)",
+        "Bhasha ka mudda — Constituent Assembly mein debate:",
+        "  - Hindi vs Hindustani",
+        "  - Regional languages",
+        "  - English as link language",
+        "  - Final: Hindi (Devanagari) as official language, English continued for 15 years, regional languages recognized in 8th Schedule",
+        "Mandatory Fundamental Rights + Directive Principles",
+        "Universal Adult Franchise — 21 years initially (lowered to 18 in 1989)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "K.M. Munshi state (MCQ — Gujarat), Ambedkar Union Law Minister (MCQ — Gandhi's advice), Constituent Assembly formation (VSA), 3 lists for power division (LA 3 — 2025), Language debate (LA 3 OR — 2025)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 16,
+      "name": "Map Work — Manchitra Karya (India outline)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 16,
+      "unit_name": "Map Work — Manchitra Karya (India outline)",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Easy (agar daily practice ho)",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "History — 16 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "Internal choice (OR / Athva) Q14-Q17 (LA), Q18-Q19 (Essay), aur Q20 (Map) mein milta hai — kul 7 questions mein choice.",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "High-weightage chapters.",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [
+      "An Imperial Capital — Vijayanagara (Hampi) (4 marks)",
+      "Through the Eyes of Travellers — Perceptions of Society (4 marks)",
+      "Colonialism and the Countryside — Rural Society (4 marks)",
+      "Rebels and the Raj — 1857 Revolt (4 marks)",
+      "Framing the Constitution — The Beginning of a New Era (4 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [],
+    "chapters_mostly_theory": [
+      "Bricks, Beads and Bones — Harappan Civilization",
+      "Kings, Farmers and Towns — Early States and Economies (Mauryas, Ashoka)",
+      "Kinship, Caste and Class — The Mahabharata",
+      "Thinkers, Beliefs and Buildings — Buddhism, Jainism, Sanchi",
+      "Agrarian Relations — The Ain-i-Akbari",
+      "Bhakti-Sufi Traditions — Changes in Religious Beliefs",
+      "An Imperial Capital — Vijayanagara (Hampi)",
+      "Peasants, Zamindars and the State — Mughal Court",
+      "Through the Eyes of Travellers — Perceptions of Society",
+      "Colonialism and the Countryside — Rural Society",
+      "Rebels and the Raj — 1857 Revolt",
+      "Colonial Cities — Urbanisation, Planning and Architecture",
+      "Mahatma Gandhi and the Nationalist Movement",
+      "Understanding Partition — Politics, Memories, Experiences",
+      "Framing the Constitution — The Beginning of a New Era",
+      "Map Work — Manchitra Karya (India outline)"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "Bricks, Beads and Bones — Harappan Civilization",
+      "Kings, Farmers and Towns — Early States and Economies (Mauryas, Ashoka)",
+      "Kinship, Caste and Class — The Mahabharata",
+      "Thinkers, Beliefs and Buildings — Buddhism, Jainism, Sanchi",
+      "Agrarian Relations — The Ain-i-Akbari",
+      "Bhakti-Sufi Traditions — Changes in Religious Beliefs",
+      "An Imperial Capital — Vijayanagara (Hampi)",
+      "Peasants, Zamindars and the State — Mughal Court",
+      "Through the Eyes of Travellers — Perceptions of Society",
+      "Colonialism and the Countryside — Rural Society",
+      "Rebels and the Raj — 1857 Revolt",
+      "Colonial Cities — Urbanisation, Planning and Architecture",
+      "Mahatma Gandhi and the Nationalist Movement",
+      "Understanding Partition — Politics, Memories, Experiences",
+      "Framing the Constitution — The Beginning of a New Era",
+      "Map Work — Manchitra Karya (India outline)"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [],
+    "one_mark_question_facts": {
+      "note": "Objective section of paper covers MCQs, fill blanks, T/F, match, one-word.",
+      "common_formats": [
+        "MCQ",
+        "Fill in the Blanks",
+        "True/False",
+        "Match the Pairs",
+        "One Word"
+      ]
+    },
+    "key_terms_masterlist": {
+      "note": "MCQ + Fill blanks + VSA mein in terms se 25-30 marks directly aate hain. Sab yaad karo.",
+      "foreign_travellers": [
+        {
+          "name": "Megasthenes",
+          "country": "Greece",
+          "era": "4th century BCE",
+          "context": "Ambassador to Chandragupta Maurya",
+          "book": "Indica"
+        },
+        {
+          "name": "Fa Xian (Fa-Hien)",
+          "country": "China",
+          "era": "5th century AD",
+          "context": "Came during Chandragupta II",
+          "purpose": "Buddhist pilgrimage"
+        },
+        {
+          "name": "Xuan Zang (Hiuen Tsang)",
+          "country": "China",
+          "era": "7th century AD",
+          "context": "Came during Harsha's reign",
+          "book": "Si-Yu-Ki"
+        },
+        {
+          "name": "Al-Biruni",
+          "country": "Uzbekistan (Khwarizm)",
+          "era": "11th century (born 973 AD)",
+          "context": "Came with Mahmud Ghazni",
+          "book": "Kitab-ul-Hind (Arabic)"
+        },
+        {
+          "name": "Ibn Battuta",
+          "country": "Morocco",
+          "era": "14th century",
+          "context": "Appointed Qazi of Delhi by Muhammad bin Tughlaq",
+          "book": "Rihla (Arabic)"
+        },
+        {
+          "name": "Nicolo Conti",
+          "country": "Italy",
+          "era": "15th century",
+          "context": "Visited Vijayanagara"
+        },
+        {
+          "name": "Abdur Razzaq",
+          "country": "Persia",
+          "era": "15th century",
+          "context": "Persian ambassador to Vijayanagara"
+        },
+        {
+          "name": "Francois Bernier",
+          "country": "France",
+          "era": "17th century (Aurangzeb)",
+          "context": "Doctor, stayed 12 years in India",
+          "book": "Travels in the Mughal Empire"
+        },
+        {
+          "name": "Jean-Baptiste Tavernier",
+          "country": "France",
+          "era": "17th century",
+          "context": "Diamond trader, 6 journeys to India"
+        }
+      ],
+      "rulers_and_dynasties": [
+        {
+          "name": "Chandragupta Maurya",
+          "dynasty": "Maurya",
+          "period": "321-297 BCE",
+          "note": "Mauryan empire founder, Magadha se hua uday"
+        },
+        {
+          "name": "Ashoka",
+          "dynasty": "Maurya",
+          "period": "268-232 BCE",
+          "note": "Titles: Piyadassi, Devanampiya. Kalinga war 261 BCE. Dhamma propagator. Prakrit/Brahmi inscriptions."
+        },
+        {
+          "name": "Samudragupta",
+          "dynasty": "Gupta",
+          "note": "'Indian Napoleon'"
+        },
+        {
+          "name": "Harihara & Bukka",
+          "dynasty": "Sangama (Vijayanagara)",
+          "period": "1336",
+          "note": "Vijayanagara founders"
+        },
+        {
+          "name": "Krishnadeva Raya",
+          "dynasty": "Tuluva (Vijayanagara)",
+          "period": "1509-1529",
+          "note": "Wrote 'Amuktamalyada' in Telugu"
+        },
+        {
+          "name": "Babur",
+          "dynasty": "Mughal",
+          "period": "1526-1530",
+          "note": "Mughal empire founder. Panipat 1526."
+        },
+        {
+          "name": "Akbar",
+          "dynasty": "Mughal",
+          "period": "1556-1605",
+          "note": "Ain-i-Akbari source, land types Polaj/Parauti/Chachar/Banjar"
+        },
+        {
+          "name": "Shah Jahan",
+          "dynasty": "Mughal",
+          "note": "Taj Mahal"
+        },
+        {
+          "name": "Aurangzeb",
+          "dynasty": "Mughal",
+          "period": "1658-1707",
+          "note": "Bernier's era"
+        },
+        {
+          "name": "Muhammad bin Tughlaq",
+          "dynasty": "Tughlaq",
+          "note": "Appointed Ibn Battuta as Qazi of Delhi"
+        },
+        {
+          "name": "Ghiyasuddin Tughlaq / Firoz Tughlaq / Alauddin Khilji",
+          "note": "Delhi Sultanate rulers"
+        }
+      ],
+      "important_dates": [
+        {
+          "event": "Buddha's life (approx.)",
+          "date": "563-483 BCE"
+        },
+        {
+          "event": "Kalinga War",
+          "date": "261 BCE"
+        },
+        {
+          "event": "Mauryan empire founded",
+          "date": "321 BCE"
+        },
+        {
+          "event": "Al-Biruni born",
+          "date": "973 AD"
+        },
+        {
+          "event": "Vijayanagara founded",
+          "date": "1336"
+        },
+        {
+          "event": "Babur wins Panipat",
+          "date": "1526"
+        },
+        {
+          "event": "Rakshasi-Tangadi / Talikota Battle",
+          "date": "1565"
+        },
+        {
+          "event": "Mahabharata critical edition starts",
+          "date": "1919"
+        },
+        {
+          "event": "Subsidiary Alliance on Awadh",
+          "date": "1801"
+        },
+        {
+          "event": "Permanent Settlement (Cornwallis)",
+          "date": "1793"
+        },
+        {
+          "event": "Fifth Report to British Parliament",
+          "date": "1813"
+        },
+        {
+          "event": "American Civil War starts",
+          "date": "1861"
+        },
+        {
+          "event": "First Indian census attempt",
+          "date": "1872"
+        },
+        {
+          "event": "Regular decennial census starts",
+          "date": "1881"
+        },
+        {
+          "event": "Awadh annexation",
+          "date": "1856"
+        },
+        {
+          "event": "1857 Revolt starts (Meerut)",
+          "date": "10 May 1857"
+        },
+        {
+          "event": "Dalhousie Governor-General",
+          "date": "1848-1856"
+        },
+        {
+          "event": "Gandhi returns to India",
+          "date": "9 January 1915"
+        },
+        {
+          "event": "Rowlatt Satyagraha",
+          "date": "1919"
+        },
+        {
+          "event": "Non-Cooperation Movement",
+          "date": "1920-22"
+        },
+        {
+          "event": "Salt March (Dandi)",
+          "date": "12 March 1930"
+        },
+        {
+          "event": "Quit India Movement",
+          "date": "8 August 1942"
+        },
+        {
+          "event": "Direct Action Day",
+          "date": "16 August 1946"
+        },
+        {
+          "event": "Independence + Partition",
+          "date": "15 August 1947"
+        },
+        {
+          "event": "Gandhi assassination",
+          "date": "30 January 1948"
+        },
+        {
+          "event": "Constituent Assembly 1st meeting",
+          "date": "9 December 1946"
+        },
+        {
+          "event": "Constitution adopted",
+          "date": "26 November 1949"
+        },
+        {
+          "event": "Constitution in force",
+          "date": "26 January 1950"
+        },
+        {
+          "event": "Hastinapura excavation (B.B. Lal)",
+          "date": "1951-52"
+        },
+        {
+          "event": "Harappa first excavated (Dayaram Sahni)",
+          "date": "1921"
+        },
+        {
+          "event": "Mohenjodaro excavated (R.D. Banerjee)",
+          "date": "1922"
+        }
+      ],
+      "important_books_and_sources": [
+        {
+          "book": "Ain-i-Akbari",
+          "author": "Abul Fazl",
+          "era": "Akbar's reign",
+          "note": "5 books/daftar — Manzil-abadi, Sipah-abadi, Mulk-abadi, 4th, 5th"
+        },
+        {
+          "book": "Arthashastra",
+          "author": "Kautilya (Chanakya)",
+          "era": "Mauryan"
+        },
+        {
+          "book": "Amuktamalyada",
+          "author": "Krishnadeva Raya",
+          "language": "Telugu"
+        },
+        {
+          "book": "Kitab-ul-Hind (Tahqiq-i-Hind)",
+          "author": "Al-Biruni",
+          "language": "Arabic"
+        },
+        {
+          "book": "Rihla",
+          "author": "Ibn Battuta",
+          "language": "Arabic"
+        },
+        {
+          "book": "Travels in the Mughal Empire",
+          "author": "Francois Bernier",
+          "language": "French"
+        },
+        {
+          "book": "Manusmriti",
+          "note": "Duties of varnas and women"
+        },
+        {
+          "book": "Mahabharata",
+          "category": "Itihaas (in Sanskrit tradition)"
+        },
+        {
+          "book": "Bheri Gatha",
+          "part_of": "Sutta Pitaka (Buddhist)"
+        },
+        {
+          "book": "The Other Side of Silence",
+          "author": "Urvashi Butalia",
+          "topic": "Partition oral history"
+        },
+        {
+          "book": "Fifth Report",
+          "year": 1813,
+          "purpose": "British Parliament survey of EIC"
+        }
+      ],
+      "important_terms_and_definitions": [
+        {
+          "term": "Abhilekh",
+          "definition": "Patthar, dhatu ya mitti ke bartan par khude lekh"
+        },
+        {
+          "term": "Piyadassi",
+          "meaning": "Ashoka's title — 'one who looks with pleasure'"
+        },
+        {
+          "term": "Devanampiya",
+          "meaning": "Ashoka's title — 'Beloved of the gods'"
+        },
+        {
+          "term": "Kul",
+          "definition": "Parivar (family)"
+        },
+        {
+          "term": "Jati",
+          "definition": "Sage sambandhion ka bada samuh (large kinship group)"
+        },
+        {
+          "term": "Gotra",
+          "definition": "Common ancestor se utpann patrilineal vansh"
+        },
+        {
+          "term": "Stupa",
+          "definition": "Buddha ya sant ki smarak-tila, dome-shaped"
+        },
+        {
+          "term": "Khud-kashta",
+          "definition": "Resident cultivators jo khud apni zameen par kheti karte the"
+        },
+        {
+          "term": "Pahi-kashta",
+          "definition": "Non-resident/migrant cultivators"
+        },
+        {
+          "term": "Jotedar",
+          "definition": "Rich peasant intermediary in Bengal zamindari system"
+        },
+        {
+          "term": "Ryot",
+          "definition": "Peasant cultivator (Ryotwari system)"
+        },
+        {
+          "term": "Amara-nayaka",
+          "definition": "Vijayanagara ki military chief system — land grants with fiscal/military obligations"
+        },
+        {
+          "term": "Raya",
+          "definition": "Vijayanagara shasak ki upadhi (ruler)"
+        },
+        {
+          "term": "Nayak",
+          "definition": "Sena ka pramukh, kile par niyantran"
+        },
+        {
+          "term": "Polaj",
+          "definition": "Niyamit krishi wali jameen (Akbar era)"
+        },
+        {
+          "term": "Parauti",
+          "definition": "Kuch waqt ke liye khali rakhi jameen"
+        },
+        {
+          "term": "Chachar",
+          "definition": "3-4 saal se khali jameen"
+        },
+        {
+          "term": "Banjar",
+          "definition": "5+ saal se nahi joti gayi jameen"
+        },
+        {
+          "term": "Saguna Bhakti",
+          "definition": "Ishwar ki svaroop-sahit (with form) pooja — Mirabai, Tulsidas"
+        },
+        {
+          "term": "Nirguna Bhakti",
+          "definition": "Ishwar ki svaroop-rahit (formless) pooja — Kabir, Nanak"
+        },
+        {
+          "term": "Qawwali",
+          "definition": "Chishti Sufi upasana mein gayan — devotional Sufi music"
+        },
+        {
+          "term": "Khanqah",
+          "definition": "Sufi hostel/spiritual center"
+        },
+        {
+          "term": "Dargah",
+          "definition": "Sufi saint ki kabar/tomb"
+        },
+        {
+          "term": "Hindustani",
+          "definition": "Hindi + Urdu se bani bhasha (Gandhi's proposed national language)"
+        },
+        {
+          "term": "Istmarari bandobast (Permanent Settlement)",
+          "definition": "1793, Cornwallis, Bengal. Fixed revenue + hereditary zamindari"
+        },
+        {
+          "term": "Tantrik",
+          "definition": "Devi ki aradhna paddhati"
+        },
+        {
+          "term": "Hinayana",
+          "definition": "Buddhism ka mool roop, Buddha ki murtiyon ki pooja nahi"
+        },
+        {
+          "term": "Mahayana",
+          "definition": "Buddhism ka naya roop, Buddha ki murtiyan poojit"
+        }
+      ],
+      "matching_pairs_frequently_asked": [
+        {
+          "item": "Megasthenes",
+          "match": "Ambassador to Chandragupta Maurya"
+        },
+        {
+          "item": "Al-Biruni",
+          "match": "11th century, 973 AD birth, Khwarizm"
+        },
+        {
+          "item": "Ibn Battuta",
+          "match": "Morocco, Qazi of Delhi (Muhammad bin Tughlaq)"
+        },
+        {
+          "item": "Francois Bernier",
+          "match": "France, 12 years in India (Aurangzeb era)"
+        },
+        {
+          "item": "Tavernier",
+          "match": "French diamond trader"
+        },
+        {
+          "item": "Piyadassi + Devanampiya",
+          "match": "Ashoka"
+        },
+        {
+          "item": "V.S. Sukthankar",
+          "match": "Mahabharata critical edition (1919)"
+        },
+        {
+          "item": "B.B. Lal",
+          "match": "Hastinapura excavation 1951-52"
+        },
+        {
+          "item": "Buddha birth",
+          "match": "Lumbini"
+        },
+        {
+          "item": "Buddha enlightenment",
+          "match": "Bodhgaya"
+        },
+        {
+          "item": "Buddha first sermon",
+          "match": "Sarnath"
+        },
+        {
+          "item": "Buddha nibban/death",
+          "match": "Kusinagar"
+        },
+        {
+          "item": "Sanchi preservation funds",
+          "match": "Bhopal (Shahjehan Begum, Sultan Jehan Begum)"
+        },
+        {
+          "item": "Gharib Nawaz",
+          "match": "Muinuddin Chishti (Ajmer)"
+        },
+        {
+          "item": "Lotus Mahal",
+          "match": "Vijayanagara royal centre"
+        },
+        {
+          "item": "Krishnadeva Raya",
+          "match": "Tuluva dynasty"
+        },
+        {
+          "item": "Amara-nayaka system",
+          "match": "Vijayanagara"
+        },
+        {
+          "item": "Banjar jameen",
+          "match": "5+ years uncultivated (Akbar)"
+        },
+        {
+          "item": "Sipah-abadi",
+          "match": "Military + civil administration (Ain's 2nd book)"
+        },
+        {
+          "item": "Banawali",
+          "match": "Haryana (Harappan site)"
+        },
+        {
+          "item": "Fifth Report",
+          "match": "1813, British Parliament"
+        },
+        {
+          "item": "1861 Civil War",
+          "match": "America"
+        },
+        {
+          "item": "GG in 1851",
+          "match": "Lord Dalhousie"
+        },
+        {
+          "item": "K.M. Munshi",
+          "match": "Gujarat (Constituent Assembly)"
+        },
+        {
+          "item": "Union Law Minister invite on Gandhi's advice",
+          "match": "B.R. Ambedkar"
+        },
+        {
+          "item": "Qawwali",
+          "match": "Chishti Sufi devotion"
+        },
+        {
+          "item": "Mughal mother tongue",
+          "match": "Turkish"
+        },
+        {
+          "item": "Direct Action Day",
+          "match": "16 August 1946 (Muslim League)"
+        }
+      ]
+    },
+    "unit_facts": {
+      "highest_marks_units_tie": "Units 1, 5, 8, 13, 14 = 6 marks each",
+      "essay_source_common_units": [
+        13,
+        5,
+        4
+      ],
+      "most_LA_source_units": [
+        1,
+        6,
+        11,
+        15
+      ],
+      "factual_heavy_units": [
+        1,
+        4,
+        7,
+        9,
+        11,
+        15
+      ],
+      "analysis_heavy_units": [
+        3,
+        5,
+        8,
+        13,
+        14
+      ],
+      "ancient_units": "Units 1-4 = 21 marks",
+      "medieval_units": "Units 5-9 = 25 marks",
+      "modern_units": "Units 10-15 = 29 marks",
+      "units_never_skip": [
+        1,
+        5,
+        13,
+        14,
+        4,
+        9
+      ],
+      "units_easy_scoring": [
+        7,
+        11,
+        15,
+        6
+      ],
+      "topics_repeat_every_year": [
+        {
+          "topic": "Foreign travellers (Bernier, Ibn Battuta, Al-Biruni) + countries",
+          "question_type": "MCQ/VSA/Essay",
+          "marks": "1-6"
+        },
+        {
+          "topic": "Harappan script enigma",
+          "question_type": "LA",
+          "marks": 3
+        },
+        {
+          "topic": "Buddhism origin + places (Lumbini/Bodhgaya/Sarnath/Kusinagar)",
+          "question_type": "MCQ/VSA",
+          "marks": "1-2"
+        },
+        {
+          "topic": "Ain-i-Akbari as source",
+          "question_type": "Essay/MCQ",
+          "marks": "1-6"
+        },
+        {
+          "topic": "Gandhi — Salt March / Rowlatt / Quit India",
+          "question_type": "Essay",
+          "marks": 4
+        },
+        {
+          "topic": "Sufism growth / Bhakti traditions",
+          "question_type": "LA",
+          "marks": 3
+        },
+        {
+          "topic": "Vijayanagara — Amara-nayaka, Mahanavami Dibba",
+          "question_type": "SA/Fill",
+          "marks": "1-2"
+        },
+        {
+          "topic": "Constitution — Language debate / 3 lists",
+          "question_type": "LA",
+          "marks": 3
+        },
+        {
+          "topic": "1857 Awadh revolt",
+          "question_type": "LA",
+          "marks": 3
+        },
+        {
+          "topic": "Partition — Direct Action Day, communal politics",
+          "question_type": "SA/Essay",
+          "marks": "2-6"
+        },
+        {
+          "topic": "Akbar's land types (Polaj/Parauti/Chachar/Banjar)",
+          "question_type": "MCQ",
+          "marks": 1
+        },
+        {
+          "topic": "Permanent Settlement + Jotedar/Ryot",
+          "question_type": "SA",
+          "marks": 2
+        },
+        {
+          "topic": "Mahabharata critical edition (Sukthankar, 1919)",
+          "question_type": "MCQ/Fill",
+          "marks": 1
+        },
+        {
+          "topic": "Sanchi Stupa (Bhopal preservation)",
+          "question_type": "MCQ/Essay",
+          "marks": "1-4"
+        },
+        {
+          "topic": "Map: Harappan + Buddhist + Colonial + Revolt centres",
+          "question_type": "Map",
+          "marks": "3-5"
+        }
+      ]
+    },
+    "paper_objectives_weightage": {
+      "note": "Official blueprint ke hisaab se paper 4 objectives par banaya jaata hai. Understanding (avbodh) sabse bada component hai:",
+      "knowledge_Gyan": {
+        "marks": 20,
+        "percent": 25.0,
+        "note": "Facts, dates, naam, definitions — MCQ, Fill, VSA mein yaad-based"
+      },
+      "understanding_Avbodh": {
+        "marks": 38,
+        "percent": 49.0,
+        "note": "Concepts samjhana, tulna karna, vishleshan — SA aur LA mein MAXIMUM weightage. History ka core."
+      },
+      "application_Gyanopyog": {
+        "marks": 17,
+        "percent": 19.25,
+        "note": "Knowledge ka application, 'aap kaise kah sakte hain' type — Essay aur LA mein"
+      },
+      "skill_Kaushal_Maulikta": {
+        "marks": 5,
+        "percent": 6.25,
+        "note": "Map work = guaranteed 5 marks skill component"
+      }
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "History — maps/diagrams/frameworks.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not typically applicable for History (humanities subject).",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for History",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for History",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "History — no practical.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "Section A (MCQ + Fill + VSA) = 35 marks guaranteed scoring if basics clear. Essays aur LA mein understanding + application test hoti hai.",
+    "easy_percent": 0,
+    "medium_percent": 0,
+    "hard_percent": 0,
+    "most_scoring_sections": [
+      "Easy — 35 marks scope, facts/dates/names. 25-30 marks easily if prepared.",
+      "Easy-Medium — 50 words, concept + points. 15-18 marks achievable.",
+      "Easy (with practice) — 3-5 marks."
+    ],
+    "most_difficult_sections": [
+      "Medium-Hard — 250 words, arguments + sources. 5-8 marks."
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "35 objective questions (MCQ + Fill + VSA) = 35 marks — sab attempt karo, no negative",
+      "Dates yaad karo — direct MCQ mein aate hain (1509 Krishnadeva, 1813 Fifth Report, 1793 Permanent Settlement)",
+      "Traveler + country + book list alag banao — 5-6 marks pakke",
+      "Essay mein Gandhi ka topic almost guaranteed — Salt March, Rowlatt, Quit India",
+      "Ain-i-Akbari Essay source chapter — 5 daftar + 4 land types yaad karo",
+      "Spelling important — Vijayanagara, Krishnadeva Raya, Khwarizm, Muinuddin, Mohenjodaro — gal spell se cut",
+      "Hindi-English conflict mein Hindi official — Hindi samjhau toh Hindi mein likho",
+      "Map attach karna zaroori — outline map answer book ke saath nathhi karo",
+      "Pencil pehle map par, phir blue pen — corrections allow karta hai",
+      "OR option dono padho, easier choose karo",
+      "Long answers mein dates aur names specifically likho — marker ke liye easy",
+      "Historical sources (Ain, Rihla, Bernier's travels) quote karo jahaan possible"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "MCQ_Fill_VSA_Q1_to_Q3_50min",
+        "recommended_minutes": 5,
+        "note": "35 objective questions — MCQ 1.5 min, Fill 1 min, VSA 2 min. Total ~50 min. Confusion mein guess karo."
+      },
+      {
+        "section_id": "SA_Q4_to_Q13_50min",
+        "recommended_minutes": 5,
+        "note": "10 SA × 5 min. 50 shabd. Concept + 2 points + example."
+      },
+      {
+        "section_id": "LA_Q14_to_Q17_40min",
+        "recommended_minutes": 10,
+        "note": "4 LA × 10 min. 100 shabd. OR option choose wisely."
+      },
+      {
+        "section_id": "Essay_Q18_Q19_40min",
+        "recommended_minutes": 20,
+        "note": "2 Essay × 20 min. 250 shabd. Intro + body + conclusion structure."
+      },
+      {
+        "section_id": "Map_Q20_10min",
+        "recommended_minutes": 2,
+        "note": "5 sthaan × 2 min. Pencil → pen. Neat marking."
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "Question numbers check, spelling verify, map attached confirm."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 27",
+        "target_marks": 27,
+        "strategy": "MCQ + Fill + VSA (35 marks out of 35) se hi 20-22 marks pakke aa sakte hain. Plus 3-4 SA (8-10 marks) + 2 map (2 marks) = 30-35 marks. Pass guaranteed.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Sare 18 MCQ attempt karo — no negative marking",
+          "Travelers + their countries + books list rat lo — 5-6 MCQ pakke",
+          "Dates/rulers yaad karo — MCQ + Fill mein direct milte hain",
+          "VSA definitions — Abhilekh, Kul, Gotra, Saguna Bhakti, Khud-kashta, Tantric — easy 8 marks",
+          "Map ke liye 20 sthaan list banao — minimum 2-3 sthaan ankit karo",
+          "Easy chapters: Unit 7 (Hampi), Unit 11 (1857), Unit 15 (Constitution) — short + scoring"
+        ],
+        "chapters_to_skip_safely": [
+          "Essay topics full",
+          "Deep agricultural history",
+          "Oral sources theoretical analysis"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "50",
+        "target_marks": 50,
+        "strategy": "Section A full (30-33) + Section B 7-8 SA (14-16) + 1-2 LA (4-6) + 3 map (3) = 52-58",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Unit 4 (Buddhism) — Buddha life + Sanchi + Hinayana/Mahayana distinction — scoring",
+          "Unit 9 (Travelers) — factual heavy, direct questions",
+          "Unit 13 (Gandhi) — Salt March + Quit India + Rowlatt — Essay source",
+          "Unit 15 (Constitution) — 3 lists + language debate (LA 3)",
+          "Previous year papers (2018-2025) last 5 years solve karo"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "65 marks plus",
+        "target_marks": 65,
+        "strategy": "Section A full (35) + Section B full (20) + Section C 3-4 LA (9-12) + 1-2 Essay (4-8) + Map full (4-5) = 72-80",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Essay topics master: Gandhi's Salt March tactical wisdom, Jain philosophy, Stupa discovery, Partition analysis, Bernier East-West comparison",
+          "LA topics: Indus script, Sufism growth, 1857 Awadh, Constitution language debate",
+          "Unit 5 (Ain-i-Akbari) — Essay question source, prepare deeply",
+          "Unit 14 (Partition) — 6 marks, oral sources + communal politics angle",
+          "India map — 20+ locations across all themes ready"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping 75 plus",
+        "target_marks": 75,
+        "strategy": "Sare 80 marks target. Section A full (35) + B full (20) + C full (12) + D full (8) + Map full (5) = 80.",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "Essay mein intro + arguments + conclusion structure. Quotes, dates, names sabhi mein",
+          "Application-based questions (17% weightage) prepare — 'aap kaise kah sakte hain...' type",
+          "Primary source references — Ain quotes, Bernier quotes, inscription examples",
+          "Dono OR options comfortable ho taki choose kar sako",
+          "Map daily practice — 30 second mein 5 sthaan ankan target",
+          "PYQ last 10 years solve karo — Gandhi, Ain, Travelers, Partition questions repeat hote hain"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Themes in Indian History — Part I",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Units 1-4 base (Ancient India): Harappan, Mauryas, Mahabharata, Buddhism"
+      },
+      {
+        "name": "NCERT Themes in Indian History — Part II",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Units 5-9 base (Medieval India): Agrarian, Bhakti-Sufi, Vijayanagara, Mughal, Travelers"
+      },
+      {
+        "name": "NCERT Themes in Indian History — Part III",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Units 10-15 base (Modern India): Colonial, 1857, Cities, Gandhi, Partition, Constitution"
+      },
+      {
+        "name": "SP Examination Idea Itihaas Class 12",
+        "author": "",
+        "publisher": "Science Publications, Jaipur",
+        "purpose": "Supplementary",
+        "note": "RBSE ke liye #1 reference book. Chapter-wise MCQ, Fill, VSA, SA, LA, Essay — sab types. PYQ solved."
+      },
+      {
+        "name": "Previous Year Papers 2018-2025 (RBSE)",
+        "author": "",
+        "publisher": "RBSE Official",
+        "purpose": "Supplementary",
+        "note": "rajeduboard.rajasthan.gov.in se download karo. Questions repeat hote hain — especially MCQ + Fill + VSA."
+      },
+      {
+        "name": "RBSE Model Paper 2026-27",
+        "author": "",
+        "publisher": "RBSE Official",
+        "purpose": "Supplementary",
+        "note": "Official model paper: rajeduboard.rajasthan.gov.in se."
+      },
+      {
+        "name": "Nootan Itihaas Class 12 (Hindi medium)",
+        "author": "",
+        "publisher": "Nageen Prakashan",
+        "purpose": "Supplementary",
+        "note": "Chapter summaries + objective practice."
+      },
+      {
+        "name": "The Other Side of Silence — Urvashi Butalia",
+        "author": "",
+        "publisher": "",
+        "purpose": "Supplementary",
+        "note": "Partition oral history — for deeper understanding Unit 14"
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "rajeduboard.rajasthan.gov.in",
+    "extra_time_given": false,
+    "extra_time_note": ""
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "roll_number_on_paper: Question paper par pehle roll number likho (compulsory rule)",
+      "question_number_compulsory: Question number har answer se pehle likhna",
+      "sequence_compulsory: False",
+      "internal_parts_together: Jis prashn mein parts hain (i, ii, iii), un sabhi ke answers ek saath likho",
+      "language_rule: Hindi ya English — consistent. Mixed bhi chalega par readable ho. Conflict mein Hindi official.",
+      "no_negative_marking: True",
+      "mcq_attempt_all: Sare 18 MCQ attempt karo — guess bhi karo",
+      "map_spelling: Map mein naam spelling galat = 0 marks for that point",
+      "essay_structure: Intro + body + conclusion — even partial structure gets marks"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['Blue', 'Black'] pencil_use: Map work ke liye zaroori. Diagrams/timeline ke liye bhi helpful. map_marking: Pencil se location dot + naam halka, fir blue pen se neat. Arrow optional."
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "word_limits_approximate: 10/50/100/250 shabd approximate — 10-15% flexibility paragraph_format: SA, LA, Essay mein paragraph format. Points ko paragraph mein piro do. quotes_and_sources: Jahaan possible ho, historical quotes include karo (Ain, Rihla, inscriptions) spelling_important: Proper nouns — spelling sahi zaroori. Al-Biruni, Muinuddin, Krishnadeva Raya, Sukthankar, Mohenjodaro — galat spell = marks cut partial_marking: True partial_marking_note: Incomplete answer par bhi partial marks — kuch na kuch zaroor likho",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

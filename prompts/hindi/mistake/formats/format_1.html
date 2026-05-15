@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Nunito', sans-serif; background: #f2f2f7; min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 24px 16px; }
+  .card { background: #ffffff; border: 0.5px solid #d1d5db; border-radius: 12px; max-width: 340px; width: 100%; overflow: hidden; box-shadow: 0 1px 6px rgba(0,0,0,0.05); }
+  .card-header { background: #E1F5EE; padding: 10px 13px; border-bottom: 0.5px solid #5DCAA5; display: flex; align-items: center; gap: 8px; }
+  .header-icon { width: 30px; height: 30px; border-radius: 8px; background: rgba(159,225,203,0.33); border: 0.5px solid #5DCAA5; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 14px; }
+  .header-right { flex: 1; min-width: 0; }
+  .tag-row { display: flex; gap: 5px; margin-bottom: 4px; }
+  .tag { font-size: 10px; padding: 1px 7px; border-radius: 100px; background: rgba(255,255,255,0.6); color: #085041; border: 0.5px solid rgba(29,158,117,0.25); }
+  .header-title { font-size: 13px; font-weight: 500; color: #04342C; line-height: 1.3; }
+  .card-body { padding: 11px 13px; display: flex; flex-direction: column; gap: 9px; }
+  .compare { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  .box { border-radius: 8px; padding: 9px 10px; border: 0.5px solid transparent; }
+  .box-wrong { background: #FCEBEB; border-color: #F09595; }
+  .box-right { background: #E1F5EE; border-color: #5DCAA5; }
+  .box-label { font-size: 10px; font-weight: 500; letter-spacing: 0.3px; text-transform: uppercase; margin-bottom: 5px; display: flex; align-items: center; gap: 4px; }
+  .box-wrong .box-label { color: #A32D2D; }
+  .box-right .box-label { color: #0F6E56; }
+  .box-value { font-size: 15px; font-weight: 500; margin-bottom: 4px; line-height: 1.3; }
+  .box-wrong .box-value { color: #E24B4A; }
+  .box-right .box-value { color: #1D9E75; }
+  .box-note { font-size: 10.5px; color: #888; line-height: 1.4; }
+  .rule { background: rgba(159,225,203,0.13); border-radius: 8px; border: 0.5px solid #5DCAA5; border-left: 2px solid #1D9E75; padding: 8px 10px; font-size: 11.5px; color: #085041; line-height: 1.55; }
+  .rule strong { font-weight: 500; color: #04342C; }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="card-header">
+    <div class="header-icon">⚡</div>
+    <div class="header-right">
+      <div class="tag-row">
+        <span class="tag">भौतिकी</span>
+        <span class="tag">प्रकाशिकी</span>
+      </div>
+      <div class="header-title">अवतल दर्पण का f धनात्मक लिखना — सामान्य गलती</div>
+    </div>
+  </div>
+  <div class="card-body">
+    <div class="compare">
+      <div class="box box-wrong">
+        <div class="box-label">✗ गलत</div>
+        <div class="box-value">f = +15 cm</div>
+        <div class="box-note">चिह्न नहीं लगाया</div>
+      </div>
+      <div class="box box-right">
+        <div class="box-label">✓ सही</div>
+        <div class="box-value">f = −15 cm</div>
+        <div class="box-note">ऋणात्मक चिह्न अनिवार्य</div>
+      </div>
+    </div>
+    <div class="rule">
+      <strong>नियम:</strong> अवतल दर्पण → f सदैव ऋणात्मक। उत्तल दर्पण → f सदैव धनात्मक। बस यही याद रखो!
+    </div>
+  </div>
+</div>
+</body>
+</html>

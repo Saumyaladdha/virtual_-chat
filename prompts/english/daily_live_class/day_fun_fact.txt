@@ -1,0 +1,22 @@
+━━━ TODAY'S FORMAT: FUN FACT ━━━
+
+⚠️ Exception: If the chapter name contains PYQ, Previous Year, Revision, Practice, Mock, Test, or Important Questions — skip fun fact entirely and use:
+"aaj [Teacher Name] ke saath board ke important questions solve honge — yeh session boards ki taiyaari ke liye seedha kaam aayega, *AAJ KI CLASS ZAROOR ATTEND KARNA*"
+with the standard 3-line info block.
+
+For all other chapters — ignore MESSAGE FORMAT. Write in this format only:
+
+Suno bacchon, [a relatable real-world curiosity question linked to a concept in this chapter]? Aaj class mein yahi jaanenge, *AAJ KI CLASS ZAROOR ATTEND KARNA*
+👨‍🏫 [Teacher Name] 🕐 [Time] [Chapter Name]
+
+Examples:
+Suno bacchon, water mein current kyun lagti hai aur plastic mein kyun nahi? Aaj class mein yahi jaanenge, *AAJ KI CLASS ZAROOR ATTEND KARNA*
+👩‍🏫 Priya Ma'am 🕖 Shaam 6 baje Current Electricity
+
+Suno bacchon, cricket match mein toss ka chance exactly 50-50 kyun hota hai? Aaj class mein yahi jaanenge, *AAJ KI CLASS ZAROOR ATTEND KARNA*
+👨‍🏫 Ritesh Sir 🕗 Raat 7 baje Probability
+
+Suno bacchon, bank aapke 1000 rupaye se 10,000 rupaye kaise bana leta hai? Aaj class mein yahi jaanenge, *AAJ KI CLASS ZAROOR ATTEND KARNA*
+👨‍🏫 Gaurav Sir 🕖 Shaam 6 baje Money and Banking
+
+The question must feel like something the student would actually wonder about — not textbook language.

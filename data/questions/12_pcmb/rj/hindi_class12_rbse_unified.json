@@ -1,0 +1,2192 @@
+{
+  "board": "RBSE",
+  "class": "12",
+  "subject": "Hindi (Compulsory)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 80,
+    "practical_paper": 0,
+    "internal_assessment": 20,
+    "total": 100,
+    "passing_marks_theory": 26,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": true,
+    "extra_time_note": "Yes — 15 minutes of reading time is given. Use it only to read the question paper and decide which OR options to attempt. Do not write anything.",
+    "internal_assessment_note": "Passing the 80-mark theory paper is mandatory. Internal assessment (20 marks) is evaluated separately at school level."
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 51,
+    "total_questions_to_attempt": 51,
+    "total_objective_questions": 42,
+    "total_sets": 0,
+    "sets_note": "RBSE typically prints multiple sets. All sets contain the same questions, only the order differs. Write the set number on the cover page.",
+    "sets_same_or_different": "",
+    "language_of_attempt": "Hindi",
+    "all_compulsory_note": "Internal OR choice is available in Section C (Q13–Q16) and Section D (Q17–Q20).",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "RBSE syllabus is based on NCERT (Aaroh Part 2, Vitan Part 2, Abhivyakti aur Madhyam). However, RBSE-specific reference books like SP Examination Idea are also essential.",
+    "official_scheme_note": "Solve previous 5–7 years papers. Unseen passage topics, essay topics, and textbook questions repeat in similar formats.",
+    "reference_books_note": "SP Examination Idea — Hindi Compulsory Class 12 (Science Publications, Jaipur) — most popular RBSE-specific guide.",
+    "prescribed_textbooks": [
+      "Aaroh Part 2 (NCERT)",
+      "Vitan Part 2 (NCERT)",
+      "Abhivyakti aur Madhyam (NCERT)"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "SP Examination Idea — Hindi Compulsory Class 12 (Science Publications, Jaipur) — most popular RBSE-specific guide.",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": "Solve previous 5–7 years papers. Unseen passage topics, essay topics, and textbook questions repeat in similar formats."
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "RBSE Class 12 Hindi paper has 6 types of questions — MCQ (1 mark), Fill blank (1 mark), Very Short (1 mark), Short (2 marks), Long (3 marks), Essay-type (4–5 marks).",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "Multiple Choice Questions (MCQ)",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 18,
+        "attempt": 18,
+        "negative_marking": false,
+        "how_to_attempt": "Write only the correct option letter (A/B/C/D). No explanation needed. Questions from textbook chapters, grammar, Abhivyakti aur Madhyam, and unseen prose/poetry.",
+        "mostly_from": "Aaroh prose + poetry, Vitan, Abhivyakti aur Madhyam, unseen passages, practical grammar",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Fill in the Blanks",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "Write one precise word or phrase. Topics: Shabd-Shakti types (Abhidha, Lakshana, Vyanjana), names of Alankar (figures of speech), technical terminology.",
+        "mostly_from": "Types of word-power, Alankar (Yamak, Anupras, Rupak), technical Hindi terms",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Very Short Answer",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "Give a direct factual answer in 1–2 sentences. Questions about author/poet names, work titles, events, definitions.",
+        "mostly_from": "Aaroh prose + poetry, Vitan, Abhivyakti aur Madhyam",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Approximately 20 words",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer",
+        "question_number": "",
+        "section": "B",
+        "marks_each": 2,
+        "total_in_paper": 7,
+        "attempt": 7,
+        "negative_marking": false,
+        "how_to_attempt": "2 marks = 1 main point + 1 supporting detail. Numbered bullet points are acceptable.",
+        "mostly_from": "Abhivyakti aur Madhyam (Q6–8), Aaroh poetry (Q9–10), Aaroh prose (Q11–12)",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Approximately 40 words",
+        "notes": ""
+      },
+      {
+        "type": "Long Answer",
+        "question_number": "",
+        "section": "C",
+        "marks_each": 3,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "3 marks = Introduction/context (1) + Main content with 2–3 points (1.5) + Conclusion (0.5). For poet/author introduction: birth–death + works + language style.",
+        "mostly_from": "Aaroh prose (Q13), Aaroh poetry (Q14), Vitan (Q15), Poet/Author introduction (Q16)",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "60–80 words",
+        "notes": ""
+      },
+      {
+        "type": "Contextual Explanation (Saprasang Vyakhya)",
+        "question_number": "",
+        "section": "D",
+        "marks_each": 4,
+        "total_in_paper": 2,
+        "attempt": 2,
+        "negative_marking": false,
+        "how_to_attempt": "(1) Context — Name of work + Author. (2) Occasion — What the context is. (3) Explanation — Line-by-line meaning. (4) Feature — Literary/linguistic. Marks: Context(1) + Explanation(2) + Feature(1).",
+        "mostly_from": "Famous poetry extracts from Aaroh (Q17), Important prose extract from Aaroh or Vitan (Q18)",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Letter / Format Writing",
+        "question_number": "",
+        "section": "D",
+        "marks_each": 5,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Must follow the prescribed format strictly. For government memorandum/notification, follow RBSE's specific format.",
+        "mostly_from": "Government memorandum (Pulse Polio, vaccination campaigns), notification, advertisement/tender",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Essay",
+        "question_number": "",
+        "section": "D",
+        "marks_each": 5,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Substantive essay = Introduction + Body (4–5 paragraphs) + Conclusion. Relevant examples and quotes increase marks.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Approximately 300 words",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "4 sections: A (42) + B (14) + C (12) + D (12) = 80",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Internal OR choice is available in Section C (Q13–Q16) and Section D (Q17–Q20).",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 40,
+      "medium_percent": 45,
+      "hard_percent": 15,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — MCQ + Fill Blanks + Unseen + Very Short",
+        "type": "Section A — MCQ + Fill Blanks + Unseen + Very Short",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 5,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 42,
+        "word_limit": "",
+        "breakdown": "MCQ: 18 marks; fill_blanks: 6 marks; unseen_prose: 6 marks; unseen_poetry: 6 marks; very_short: 6 marks",
+        "notes": ""
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Short Answer Questions",
+        "type": "Section B — Short Answer Questions",
+        "question_numbers": "Q6 to Q12",
+        "total_questions": 0,
+        "total_sub_questions": 3,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 14,
+        "word_limit": "",
+        "breakdown": "abhivyakti_madhyam: 6 marks; aaroh_poetry_short: 4 marks; aaroh_prose_short: 4 marks",
+        "notes": ""
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Long Answer Questions",
+        "type": "Section C — Long Answer Questions",
+        "question_numbers": "Q13 to Q16",
+        "total_questions": 0,
+        "total_sub_questions": 4,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 12,
+        "word_limit": "",
+        "breakdown": "aaroh_prose_long:  marks; aaroh_poetry_long:  marks; vitan_long:  marks; poet_author_introduction:  marks",
+        "notes": ""
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Contextual Explanation + Letter Format + Essay",
+        "type": "Section D — Contextual Explanation + Letter Format + Essay",
+        "question_numbers": "Q17 to Q20",
+        "total_questions": 0,
+        "total_sub_questions": 4,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 18,
+        "word_limit": "",
+        "breakdown": "poetry_explanation:  marks; prose_explanation:  marks; format_writing:  marks; essay:  marks",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 80,
+    "total_practical": 0,
+    "internal_assessment": 20,
+    "grand_total": 100,
+    "marks_summary_note": "A(42) + B(14) + C(12) + D(12) = 80 theory + 20 IA = 100",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — MCQ + Fill Blanks + Unseen + Very Short",
+        "question_numbers": "",
+        "type": "Section A — MCQ + Fill Blanks + Unseen + Very Short",
+        "total_questions": 0,
+        "total_sub_questions": 5,
+        "marks_per_question": 0,
+        "total_marks": 42,
+        "word_limit": "",
+        "breakdown": "MCQ: 18 marks; fill_blanks: 6 marks; unseen_prose: 6 marks; unseen_poetry: 6 marks; very_short: 6 marks"
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Short Answer Questions",
+        "question_numbers": "Q6 to Q12",
+        "type": "Section B — Short Answer Questions",
+        "total_questions": 0,
+        "total_sub_questions": 3,
+        "marks_per_question": 0,
+        "total_marks": 14,
+        "word_limit": "",
+        "breakdown": "abhivyakti_madhyam: 6 marks; aaroh_poetry_short: 4 marks; aaroh_prose_short: 4 marks"
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Long Answer Questions",
+        "question_numbers": "Q13 to Q16",
+        "type": "Section C — Long Answer Questions",
+        "total_questions": 0,
+        "total_sub_questions": 4,
+        "marks_per_question": 0,
+        "total_marks": 12,
+        "word_limit": "",
+        "breakdown": "aaroh_prose_long:  marks; aaroh_poetry_long:  marks; vitan_long:  marks; poet_author_introduction:  marks"
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Contextual Explanation + Letter Format + Essay",
+        "question_numbers": "Q17 to Q20",
+        "type": "Section D — Contextual Explanation + Letter Format + Essay",
+        "total_questions": 0,
+        "total_sub_questions": 4,
+        "marks_per_question": 0,
+        "total_marks": 18,
+        "word_limit": "",
+        "breakdown": "poetry_explanation:  marks; prose_explanation:  marks; format_writing:  marks; essay:  marks"
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "RBSE Hindi blueprint by learning area (thematic, not purely chapter-weighted).",
+    "total_theory_marks": 80,
+    "objective_percent": 27.5,
+    "subjective_percent": 28.75,
+    "analytical_percent": 3.75,
+    "highest_marks_chapter": {
+      "chapter_id": "aaroh_poetry",
+      "name": "Aaroh Poetry (Padya)",
+      "marks": 14,
+      "note": "Highest textbook weightage — 10 poems"
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "practical_grammar",
+        "name": "Practical Grammar",
+        "marks": 8
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "aaroh_prose",
+        "name": "Aaroh Prose (Gadya)",
+        "marks": 17,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "6 chapters"
+      },
+      {
+        "chapter_id": "aaroh_poetry",
+        "name": "Aaroh Poetry (Padya)",
+        "marks": 14,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "10 poems"
+      },
+      {
+        "chapter_id": "vitan",
+        "name": "Vitan (Supplementary)",
+        "marks": 11,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "3 chapters"
+      },
+      {
+        "chapter_id": "abhivyakti_madhyam",
+        "name": "Abhivyakti aur Madhyam",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Print media, radio, journalism"
+      },
+      {
+        "chapter_id": "practical_grammar",
+        "name": "Practical Grammar",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Shabd-Shakti, Alankar, Chhand, Technical Terms"
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 42,
+      "two_mark_total": 14,
+      "three_mark_total": 12,
+      "four_mark_total": 8,
+      "five_mark_total": 4
+    }
+  },
+  "syllabus": {
+    "note": "RBSE Hindi Class 12 — Aaroh Part 2 (6 prose + 10 poems) + Vitan Part 2 (3 chapters) + Abhivyakti aur Madhyam + Practical Grammar.",
+    "books": [
+      {
+        "book_name": "Aaroh Part 2 (Prose)",
+        "category": "Main reader — prose",
+        "total_marks": 17,
+        "note": "Q11-Q13 short/long from Aaroh Prose",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Bhaktin",
+            "marks": 0,
+            "topics": [
+              "Bhaktin's life and personality",
+              "A rural woman's will to live and self-respect",
+              "Mahadevi's relationship with Bhaktin",
+              "Portrayal of a woman's circumstances"
+            ],
+            "note": "Author: Mahadevi Varma | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "2",
+            "name": "Bazar Darshan",
+            "marks": 0,
+            "topics": [
+              "Critique of consumerism and market culture",
+              "Proper use of purchasing power",
+              "Bhajju Bhai's example — true inner strength",
+              "Resisting the temptations of the marketplace"
+            ],
+            "note": "Author: Jainendra Kumar | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "3",
+            "name": "Kaale Megha Paani De",
+            "marks": 0,
+            "topics": [
+              "Conflict between folk belief and science",
+              "Indra Sena — children asking rain god for water",
+              "Tradition of the threshold and its achievements"
+            ],
+            "note": "Author: Dharmavir Bharati | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "4",
+            "name": "Shirish ke Phool",
+            "marks": 0,
+            "topics": [
+              "Shirish flower — the timeless ascetic (Avdhoot)",
+              "Will to live — thriving even in adversity",
+              "Soul-power over body-power",
+              "Gandhiji's reference — inner strength"
+            ],
+            "note": "Author: Hazariprasad Dwivedi | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "5",
+            "name": "Shram-Vibhajan aur Jaati-Pratha / Meri Kalpana ka Aadarsh Samaj",
+            "marks": 0,
+            "topics": [
+              "Impact of caste system on division of labour",
+              "Forced work and working with reluctance",
+              "Freedom, equality, brotherhood in ideal society"
+            ],
+            "note": "Author: Dr. B.R. Ambedkar | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "6",
+            "name": "Pahalwaan ki Dholak",
+            "marks": 0,
+            "topics": [
+              "Lutan Singh Pahalwaan's struggle",
+              "The dhol's sound — a source of inspiration in the village",
+              "The wrestler's determination amid illness and poverty",
+              "A ray of hope in darkness"
+            ],
+            "note": "Author: Phanishwarnath Renu | Difficulty: Easy-Medium"
+          }
+        ]
+      },
+      {
+        "book_name": "Aaroh Part 2 (Poetry)",
+        "category": "Main reader — poetry",
+        "total_marks": 14,
+        "note": "Q9-Q10 short, Q14 long, Q17 contextual explanation from Aaroh Poetry",
+        "chapters": [
+          {
+            "chapter_id": "7",
+            "name": "Aatmparichay + Ek Geet",
+            "marks": 0,
+            "topics": [
+              "Self-introduction — conflict between self and society",
+              "Poetry as a blossoming through flowers",
+              "Expression of inspiration and feeling",
+              "Transience of life"
+            ],
+            "note": "Poet: Harivansh Rai Bachchan | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "8",
+            "name": "Patang",
+            "marks": 0,
+            "topics": [
+              "Childhood enthusiasm and aspiring toward the sky",
+              "Kite — symbol of freedom, hope, and strength",
+              "Imagery: kite, clouds, winds"
+            ],
+            "note": "Poet: Alok Dhanwa | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "9",
+            "name": "Kavita ke Bahane + Baat Seedhi Thi Par",
+            "marks": 0,
+            "topics": [
+              "Nature of poetry — compared to flower, bird, child",
+              "Simple expression versus complex language"
+            ],
+            "note": "Poet: Kunwar Narayan | Difficulty: Easy"
+          },
+          {
+            "chapter_id": "10",
+            "name": "Camere mein Band Apaahij",
+            "marks": 0,
+            "topics": [
+              "Cruelty of television media",
+              "Exploitation of a disabled person — for TRP",
+              "TV's misconduct in the name of compassion"
+            ],
+            "note": "Poet: Raghuvir Sahay | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "11",
+            "name": "Usha",
+            "marks": 0,
+            "topics": [
+              "Description of dawn — through natural imagery",
+              "Anti-romantic poetic style"
+            ],
+            "note": "Poet: Shamsher Bahadur Singh | Difficulty: Easy"
+          },
+          {
+            "chapter_id": "12",
+            "name": "Badal-Raag",
+            "marks": 0,
+            "topics": [
+              "Call for revolution — through the cloud",
+              "Pain of the oppressed class",
+              "Cloud — symbol of revolution"
+            ],
+            "note": "Poet: Suryakant Tripathi 'Nirala' | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "13",
+            "name": "Kavitavali (Uttar Kand) + Lakshman Murcha aur Ram ka Vilaap",
+            "marks": 0,
+            "topics": [
+              "Tulsi's devotion to Ram",
+              "Ram's lament over Lakshman's unconsciousness — deeply moving",
+              "Portrayal of society's helplessness"
+            ],
+            "note": "Poet: Tulsidas | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "14",
+            "name": "Rubaiyaan + Ghazal",
+            "marks": 0,
+            "topics": [
+              "A child's innocent charm — in Rubaiyaan",
+              "Philosophy of life in Ghazal",
+              "Sweet blend of Urdu and Hindi language"
+            ],
+            "note": "Poet: Firaq Gorakhpuri | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "15",
+            "name": "Chhota Mera Khet + Bagulon ke Pankh",
+            "marks": 0,
+            "topics": [
+              "Comparison of poetry and a field — the essence of literature is timeless",
+              "Beautiful depiction of nature in Bagulon ke Pankh"
+            ],
+            "note": "Poet: Umashankar Joshi | Difficulty: Easy"
+          },
+          {
+            "chapter_id": "16",
+            "name": "Din Jaldi-Jaldi Dhalta Hai",
+            "marks": 0,
+            "topics": [
+              "Transience of life",
+              "Urgency to reach home — core emotion"
+            ],
+            "note": "Poet: Harivansh Rai Bachchan | Difficulty: Easy-Medium"
+          }
+        ]
+      },
+      {
+        "book_name": "Vitan Part 2",
+        "category": "Supplementary reader",
+        "total_marks": 11,
+        "note": "Q15 long answer from Vitan",
+        "chapters": [
+          {
+            "chapter_id": "17",
+            "name": "Silver Wedding",
+            "marks": 0,
+            "topics": [
+              "Yashodhar Babu's conflict with modernity",
+              "Old generation versus new generation",
+              "Role of Kishanda"
+            ],
+            "note": "Author: Manohar Shyam Joshi | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "18",
+            "name": "Joojh",
+            "marks": 0,
+            "topics": [
+              "The protagonist's struggle for education",
+              "Importance of education in a farmer-labourer family",
+              "Role of Saudalgekar Master"
+            ],
+            "note": "Author: Anand Yadav | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "19",
+            "name": "Ateet mein Dabe Paon",
+            "marks": 0,
+            "topics": [
+              "Excavation of Indus Valley Civilisation — journey to Mohenjo-daro",
+              "Aesthetic sense of Indus Civilisation — community-nurtured",
+              "Why excavation was stopped"
+            ],
+            "note": "Author: Om Thanvi | Difficulty: Medium"
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Bhaktin",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Part 2",
+      "category": "prose",
+      "author": "Mahadevi Varma",
+      "genre": "Prose",
+      "weightage_marks": "3–4",
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Bhaktin's life and personality",
+        "A rural woman's will to live and self-respect",
+        "Mahadevi's relationship with Bhaktin",
+        "Portrayal of a woman's circumstances"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Q13: 'Bhaktin is good, this would be hard to say, because she is not without faults' — discuss this line (3 marks)",
+        "Very Short: What was Bhaktin's real name? (Lakshmini)",
+        "MCQ: For which collection did Mahadevi Varma receive the Jnanpith Award? (Yama)"
+      ],
+      "key_facts": [
+        "Bhaktin's real name = Lakshmini",
+        "Mahadevi's Jnanpith Award = for Yama",
+        "Bhaktin's in-laws seized land meant for her younger daughter"
+      ],
+      "main_themes": [
+        "Bhaktin's life and personality",
+        "A rural woman's will to live and self-respect",
+        "Mahadevi's relationship with Bhaktin",
+        "Portrayal of a woman's circumstances"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Bazar Darshan",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Part 2",
+      "category": "prose",
+      "author": "Jainendra Kumar",
+      "genre": "Prose",
+      "weightage_marks": "3–4",
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Critique of consumerism and market culture",
+        "Proper use of purchasing power",
+        "Bhajju Bhai's example — true inner strength",
+        "Resisting the temptations of the marketplace"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Q13 (OR): What is purchasing power? How can it give meaning to the market?",
+        "MCQ: Which chapter has a deep discussion on consumerism? (Bazar Darshan)",
+        "Short: What does 'empty mind' mean according to Bazar Darshan?"
+      ],
+      "key_facts": [],
+      "main_themes": [
+        "Critique of consumerism and market culture",
+        "Proper use of purchasing power",
+        "Bhajju Bhai's example — true inner strength",
+        "Resisting the temptations of the marketplace"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Kaale Megha Paani De",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Part 2",
+      "category": "prose",
+      "author": "Dharmavir Bharati",
+      "genre": "Prose",
+      "weightage_marks": "2–3",
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Conflict between folk belief and science",
+        "Indra Sena — children asking rain god for water",
+        "Tradition of the threshold and its achievements"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Q10: Describe in your words the conflict between folk belief and science shown in this chapter (2 marks)",
+        "Very Short: What message does Kaale Megha Paani De give?"
+      ],
+      "key_facts": [],
+      "main_themes": [
+        "Conflict between folk belief and science",
+        "Indra Sena — children asking rain god for water",
+        "Tradition of the threshold and its achievements"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Shirish ke Phool",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Part 2",
+      "category": "prose",
+      "author": "Hazariprasad Dwivedi",
+      "genre": "Prose",
+      "weightage_marks": "3–4",
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Shirish flower — the timeless ascetic (Avdhoot)",
+        "Will to live — thriving even in adversity",
+        "Soul-power over body-power",
+        "Gandhiji's reference — inner strength"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Q9: Why did the author call Shirish a timeless ascetic? (2-mark short answer)",
+        "MCQ: Historical figure who proved soul-power over body-power in Shirish ke Phool essay = Gandhiji"
+      ],
+      "key_facts": [],
+      "main_themes": [
+        "Shirish flower — the timeless ascetic (Avdhoot)",
+        "Will to live — thriving even in adversity",
+        "Soul-power over body-power",
+        "Gandhiji's reference — inner strength"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Shram-Vibhajan aur Jaati-Pratha / Meri Kalpana ka Aadarsh Samaj",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Part 2",
+      "category": "prose",
+      "author": "Dr. B.R. Ambedkar",
+      "genre": "Prose",
+      "weightage_marks": "3–4",
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Impact of caste system on division of labour",
+        "Forced work and working with reluctance",
+        "Freedom, equality, brotherhood in ideal society"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Q18 (OR): 'Caste-based division of labour does not depend on human will' — contextual explanation",
+        "Short: What are the features of an ideal society?"
+      ],
+      "key_facts": [],
+      "main_themes": [
+        "Impact of caste system on division of labour",
+        "Forced work and working with reluctance",
+        "Freedom, equality, brotherhood in ideal society"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Pahalwaan ki Dholak",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Part 2",
+      "category": "prose",
+      "author": "Phanishwarnath Renu",
+      "genre": "Prose",
+      "weightage_marks": "3–4",
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Lutan Singh Pahalwaan's struggle",
+        "The dhol's sound — a source of inspiration in the village",
+        "The wrestler's determination amid illness and poverty",
+        "A ray of hope in darkness"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Very Short: What sudden disaster struck the village in Pahalwaan ki Dholak?",
+        "Q16 (OR): Introduction of Phanishwarnath Renu as an author (3 marks)",
+        "Short: What effect did the sound of the dhol have on village people?"
+      ],
+      "key_facts": [],
+      "main_themes": [
+        "Lutan Singh Pahalwaan's struggle",
+        "The dhol's sound — a source of inspiration in the village",
+        "The wrestler's determination amid illness and poverty",
+        "A ray of hope in darkness"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Aatmparichay + Ek Geet",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Part 2",
+      "category": "poetry",
+      "author": "Harivansh Rai Bachchan",
+      "genre": "Poetry",
+      "weightage_marks": "4–5",
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Self-introduction — conflict between self and society",
+        "Poetry as a blossoming through flowers",
+        "Expression of inspiration and feeling",
+        "Transience of life"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Q17: Contextual explanation of 'Kavita ek khilna hai phoolon ke bahane...' extract (4 marks)",
+        "Q16 (OR): Introduction of Harivansh Rai Bachchan as a poet (3 marks)"
+      ],
+      "important_extract": "'Kavita ek khilna hai phoolon ke bahane / Kavita ka khilna bhala phool kya jaane...' — appears repeatedly in Q17",
+      "main_themes": [
+        "Self-introduction — conflict between self and society",
+        "Poetry as a blossoming through flowers",
+        "Expression of inspiration and feeling",
+        "Transience of life"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Patang",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Part 2",
+      "category": "poetry",
+      "author": "Alok Dhanwa",
+      "genre": "Poetry",
+      "weightage_marks": "2–3",
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Childhood enthusiasm and aspiring toward the sky",
+        "Kite — symbol of freedom, hope, and strength",
+        "Imagery: kite, clouds, winds"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Q10: Clarify with examples two images used in the poem Patang (2 marks)",
+        "MCQ: Poet of Patang = Alok Dhanwa"
+      ],
+      "important_extract": "",
+      "main_themes": [
+        "Childhood enthusiasm and aspiring toward the sky",
+        "Kite — symbol of freedom, hope, and strength",
+        "Imagery: kite, clouds, winds"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Kavita ke Bahane + Baat Seedhi Thi Par",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Part 2",
+      "category": "poetry",
+      "author": "Kunwar Narayan",
+      "genre": "Poetry",
+      "weightage_marks": "2–3",
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Nature of poetry — compared to flower, bird, child",
+        "Simple expression versus complex language"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Q8: Write the central theme of 'Baat Seedhi Thi Par' (2 marks)",
+        "Q7: What images are depicted in Patang poem? (2 marks)"
+      ],
+      "important_extract": "",
+      "main_themes": [
+        "Nature of poetry — compared to flower, bird, child",
+        "Simple expression versus complex language"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Camere mein Band Apaahij",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Part 2",
+      "category": "poetry",
+      "author": "Raghuvir Sahay",
+      "genre": "Poetry",
+      "weightage_marks": "2–3",
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Cruelty of television media",
+        "Exploitation of a disabled person — for TRP",
+        "TV's misconduct in the name of compassion"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Q11: 'The programme aimed at arousing compassion becomes cruel' — discuss (3 marks long answer)",
+        "Q5: Which collection is 'Camere mein Band Apaahij' taken from?",
+        "MCQ: Author of 'Ramdas' poem = Raghuvir Sahay"
+      ],
+      "important_extract": "",
+      "main_themes": [
+        "Cruelty of television media",
+        "Exploitation of a disabled person — for TRP",
+        "TV's misconduct in the name of compassion"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Usha",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Part 2",
+      "category": "poetry",
+      "author": "Shamsher Bahadur Singh",
+      "genre": "Poetry",
+      "weightage_marks": "1–2",
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Description of dawn — through natural imagery",
+        "Anti-romantic poetic style"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "MCQ: In Usha, the morning sky is compared to which object? (conch shell / shankh)"
+      ],
+      "important_extract": "",
+      "main_themes": [
+        "Description of dawn — through natural imagery",
+        "Anti-romantic poetic style"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "Badal-Raag",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Part 2",
+      "category": "poetry",
+      "author": "Suryakant Tripathi 'Nirala'",
+      "genre": "Poetry",
+      "weightage_marks": "1–2",
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Call for revolution — through the cloud",
+        "Pain of the oppressed class",
+        "Cloud — symbol of revolution"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Q17 (OR): Contextual explanation of 'Attalika nahin hai re aatank bhavan...' extract",
+        "Short: Why is the cloud called a messenger of revolution?"
+      ],
+      "important_extract": "",
+      "main_themes": [
+        "Call for revolution — through the cloud",
+        "Pain of the oppressed class",
+        "Cloud — symbol of revolution"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "Kavitavali (Uttar Kand) + Lakshman Murcha aur Ram ka Vilaap",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Part 2",
+      "category": "poetry",
+      "author": "Tulsidas",
+      "genre": "Poetry",
+      "weightage_marks": "3–4",
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Tulsi's devotion to Ram",
+        "Ram's lament over Lakshman's unconsciousness — deeply moving",
+        "Portrayal of society's helplessness"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Q16: Write the introduction of Tulsidas as a poet (3 marks)",
+        "Q17: Contextual explanation of a Tulsi extract",
+        "MCQ: Works of Tulsidas — Ramcharitmanas, Vinay Patrika, Kavitavali"
+      ],
+      "important_extract": "",
+      "main_themes": [
+        "Tulsi's devotion to Ram",
+        "Ram's lament over Lakshman's unconsciousness — deeply moving",
+        "Portrayal of society's helplessness"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "Rubaiyaan + Ghazal",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Part 2",
+      "category": "poetry",
+      "author": "Firaq Gorakhpuri",
+      "genre": "Poetry",
+      "weightage_marks": "2–3",
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "A child's innocent charm — in Rubaiyaan",
+        "Philosophy of life in Ghazal",
+        "Sweet blend of Urdu and Hindi language"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Q14 (OR): Clarify the central theme of 'Rubaiyaan' (3 marks)"
+      ],
+      "important_extract": "",
+      "main_themes": [
+        "A child's innocent charm — in Rubaiyaan",
+        "Philosophy of life in Ghazal",
+        "Sweet blend of Urdu and Hindi language"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 15,
+      "name": "Chhota Mera Khet + Bagulon ke Pankh",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Part 2",
+      "category": "poetry",
+      "author": "Umashankar Joshi",
+      "genre": "Poetry",
+      "weightage_marks": "2–3",
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Comparison of poetry and a field — the essence of literature is timeless",
+        "Beautiful depiction of nature in Bagulon ke Pankh"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "MCQ: Which poem expresses that the essence of literature is timeless and infinite? (Chhota Mera Khet)",
+        "Q15 (OR): Contextual explanation of an extract from Bagulon ke Pankh"
+      ],
+      "important_extract": "",
+      "main_themes": [
+        "Comparison of poetry and a field — the essence of literature is timeless",
+        "Beautiful depiction of nature in Bagulon ke Pankh"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 16,
+      "name": "Din Jaldi-Jaldi Dhalta Hai",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Part 2",
+      "category": "poetry",
+      "author": "Harivansh Rai Bachchan",
+      "genre": "Poetry",
+      "weightage_marks": "2–3",
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Transience of life",
+        "Urgency to reach home — core emotion"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Q14: Explain the central emotion of 'Din Jaldi-Jaldi Dhalta Hai' (3 marks — OR)"
+      ],
+      "important_extract": "",
+      "main_themes": [
+        "Transience of life",
+        "Urgency to reach home — core emotion"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 17,
+      "name": "Silver Wedding",
+      "unit_or_chapter": "chapter",
+      "book": "Vitan Part 2",
+      "category": "supplementary",
+      "author": "Manohar Shyam Joshi",
+      "genre": "Supplementary",
+      "weightage_marks": "3–4",
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Yashodhar Babu's conflict with modernity",
+        "Old generation versus new generation",
+        "Role of Kishanda"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Q11: 'Kishanda played an important role in giving direction to Yashodhar Babu's life.' (2 marks)",
+        "Q12: 'In those joint-family days, my husband never took my side.' — Give argument (OR, 6 marks)",
+        "MCQ: Which work contains — 'Our society moving towards modernity...'? (Silver Wedding)"
+      ],
+      "main_themes": [
+        "Yashodhar Babu's conflict with modernity",
+        "Old generation versus new generation",
+        "Role of Kishanda"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 18,
+      "name": "Joojh",
+      "unit_or_chapter": "chapter",
+      "book": "Vitan Part 2",
+      "category": "supplementary",
+      "author": "Anand Yadav",
+      "genre": "Supplementary",
+      "weightage_marks": "3–4",
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "The protagonist's struggle for education",
+        "Importance of education in a farmer-labourer family",
+        "Role of Saudalgekar Master"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Q15: Analyse the title 'Joojh' and the protagonist's character traits (3 marks)",
+        "Q12: Who helped the protagonist go back to school in Joojh? (2 marks)",
+        "MCQ: 'Ateet mein Dabe Paon' belongs to which genre? (Travelogue / Yatravritt)"
+      ],
+      "main_themes": [
+        "The protagonist's struggle for education",
+        "Importance of education in a farmer-labourer family",
+        "Role of Saudalgekar Master"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 19,
+      "name": "Ateet mein Dabe Paon",
+      "unit_or_chapter": "chapter",
+      "book": "Vitan Part 2",
+      "category": "supplementary",
+      "author": "Om Thanvi",
+      "genre": "Supplementary",
+      "weightage_marks": "2–3",
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Excavation of Indus Valley Civilisation — journey to Mohenjo-daro",
+        "Aesthetic sense of Indus Civilisation — community-nurtured",
+        "Why excavation was stopped"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Q5: Who published a detailed work on Mohenjo-daro in three volumes?",
+        "Q15 (OR): 'The beauty of Indus Civilisation lies in its aesthetic sense, which was community-nurtured, not royal' — analyse"
+      ],
+      "main_themes": [
+        "Excavation of Indus Valley Civilisation — journey to Mohenjo-daro",
+        "Aesthetic sense of Indus Civilisation — community-nurtured",
+        "Why excavation was stopped"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "RBSE Hindi — Aaroh Part 2 (6 prose + 10 poems) + Vitan Part 2 (3 chapters) + Abhivyakti aur Madhyam. Section A = 42 marks (biggest).",
+    "can_chapter_have_zero_questions": true,
+    "can_chapter_be_skipped": true,
+    "can_chapter_be_skipped_note": "Some chapters low-frequency — can deprioritize but high-frequency chapters must be prepared.",
+    "or_questions_note": "Internal OR in Section C (Q13-Q16) and Section D (Q17-Q20).",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Bhaktin",
+      "Bazar Darshan",
+      "Shirish ke Phool",
+      "Pahalwaan ki Dholak",
+      "Aatmparichay",
+      "Tulsidas ke Pad"
+    ],
+    "chapters_never_skip_reason": "Frequent in Q13-Q17 long answer / contextual explanation.",
+    "chapters_with_highest_weightage": [
+      "Aaroh Prose + Poetry (highest textbook weightage)",
+      "Section D Contextual Explanations (Q17/Q18) = 8 marks"
+    ],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [
+      "Unseen prose passage — 6 MCQ (Q3) (Section A, 6 marks)",
+      "Unseen poetry passage — 6 MCQ (Q4) (Section A, 6 marks)",
+      "Shabd-Shakti, Alankar, technical terms — Fill blanks (Q2) (Section A, 6 marks)",
+      "Abhivyakti aur Madhyam — print media, feature, radio (Q6/7/8) (Section B, 6 marks)",
+      "Shirish ke Phool / Bazar Darshan — short answer (Q9/Q11) (Section B, 4 marks)",
+      "Patang / Kavita ke Bahane / Baat Seedhi — short answer (Q10) (Section B, 2 marks)",
+      "Camere mein Band Apaahij / Bhaktin — long answer (Q11/Q13) (Section C, 3 marks)",
+      "Din Jaldi-Jaldi Dhalta Hai / Rubaiyaan — central theme (Q14) (Section C, 3 marks)",
+      "Joojh / Ateet mein Dabe Paon — long answer (Q15) (Section C, 3 marks)",
+      "Tulsidas introduction OR Phanishwarnath Renu introduction (Q16) (Section C, 3 marks)",
+      "'Kavita ek khilna hai...' OR 'Attalika nahin hai re...' — poetry explanation (Q17) (Section D, 4 marks)",
+      "'In baaton ko aaj pachaas se zyada...' OR prose extract — prose explanation (Q18) (Section D, 4 marks)",
+      "Government memorandum (Pulse Polio) OR Handloom notification — format writing (Q19) (Section D, 5 marks)",
+      "Essay — Mother tongue / Tree plantation / AI / Tariff War (Q20) (Section D, 5 marks)"
+    ],
+    "chapters_mostly_theory": [],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Unseen prose passage — 6 MCQ (Q3) (Section A, 6 marks)",
+      "Unseen poetry passage — 6 MCQ (Q4) (Section A, 6 marks)",
+      "Shabd-Shakti, Alankar, technical terms — Fill blanks (Q2) (Section A, 6 marks)",
+      "Abhivyakti aur Madhyam — print media, feature, radio (Q6/7/8) (Section B, 6 marks)",
+      "Shirish ke Phool / Bazar Darshan — short answer (Q9/Q11) (Section B, 4 marks)",
+      "Patang / Kavita ke Bahane / Baat Seedhi — short answer (Q10) (Section B, 2 marks)",
+      "Camere mein Band Apaahij / Bhaktin — long answer (Q11/Q13) (Section C, 3 marks)",
+      "Din Jaldi-Jaldi Dhalta Hai / Rubaiyaan — central theme (Q14) (Section C, 3 marks)",
+      "Joojh / Ateet mein Dabe Paon — long answer (Q15) (Section C, 3 marks)",
+      "Tulsidas introduction OR Phanishwarnath Renu introduction (Q16) (Section C, 3 marks)",
+      "'Kavita ek khilna hai...' OR 'Attalika nahin hai re...' — poetry explanation (Q17) (Section D, 4 marks)",
+      "'In baaton ko aaj pachaas se zyada...' OR prose extract — prose explanation (Q18) (Section D, 4 marks)",
+      "Government memorandum (Pulse Polio) OR Handloom notification — format writing (Q19) (Section D, 5 marks)",
+      "Essay — Mother tongue / Tree plantation / AI / Tariff War (Q20) (Section D, 5 marks)"
+    ],
+    "one_mark_question_facts": {
+      "note": "Section A = 42 marks (1 mark each for MCQ/Fill/Unseen/VSA). Largest section. No negative marking.",
+      "common_formats": []
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Hindi",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not applicable for Hindi — no formulas.",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Practical grammar (Shabd-Shakti, Alankar, Chhand, Technical Terminology) + Abhivyakti aur Madhyam (6 marks in Section B).",
+    "topics": [
+      {
+        "topic_name": "Shabd-Shakti (Word Power)",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "2–3",
+        "tip": "",
+        "frequently_asked": [
+          "Fill blank: When primary meaning is obstructed and meaning is conveyed through indication — ________ Shabd-Shakti (Lakshana)",
+          "Fill blank: In 'Sandhya ho gayi', ________ Shabd-Shakti is present (Lakshana)"
+        ],
+        "types": [
+          "Abhidha — Direct/literal meaning of a word, e.g., 'Gaay' means cow",
+          "Lakshana — When the primary meaning creates an obstacle, secondary meaning is inferred",
+          "Vyanjana — When neither Abhidha nor Lakshana expresses the meaning, implied/suggestive meaning"
+        ]
+      },
+      {
+        "topic_name": "Alankar (Figures of Speech)",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "2–3",
+        "tip": "",
+        "frequently_asked": [
+          "Fill blank: 'Kanak kanak te sau guni, madakta adhikaay' — ________ Alankar (Yamak)",
+          "Fill blank: 'Charu chandra ki chanchal kiranein, khel rahi thin jal, thal mein' — ________ Alankar (Rupak)",
+          "Fill blank: In Yamak Alankar, words have ________ (Avritti/repetition)"
+        ],
+        "types": [
+          "Anupras — Repetition of the same consonant sound",
+          "Yamak — Same word used in different meanings",
+          "Rupak — Superimposition of metaphor on subject",
+          "Upama — Comparison using like/as/similar",
+          "Utpreksha — Imagination/as if",
+          "Manavikarana — Depicting inanimate as animate (personification)"
+        ]
+      },
+      {
+        "topic_name": "Technical Terminology (Paribhashik Shabd)",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "2",
+        "tip": "",
+        "frequently_asked": [
+          "Fill blank: Hindi term for ENCLOSURE = Sanlagnaka (Attachment)",
+          "Fill blank: Correct English term for Karyavratt = Incumbent",
+          "Q3 type: Premises = Parisar; Quarterly = Traimasik"
+        ],
+        "types": []
+      },
+      {
+        "topic_name": "Official Language and Dialects",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "1–2",
+        "tip": "",
+        "frequently_asked": [
+          "MCQ: Which of these is NOT a dialect of Rajasthani? (Magahi)",
+          "MCQ: Hindi grammar is broadly divided into how many categories? (Four)"
+        ],
+        "types": []
+      },
+      {
+        "topic_name": "Abhivyakti aur Madhyam — Print Media and Journalism",
+        "question_number": "Q6-Q8",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [
+          "Q6: What points should be kept in mind while writing for print media? (2 marks)",
+          "Q7: Write four features of the language and style of specialised writing (2 marks)",
+          "MCQ: When visuals of an event are available, the news read by anchor is called — (Anchor Visual/Anchor Package)",
+          "MCQ: First printing press in India opened in Goa — in 1556 AD"
+        ],
+        "types": []
+      },
+      {
+        "topic_name": "Abhivyakti aur Madhyam — Creative Writing",
+        "question_number": "Q6-Q8",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [
+          "Q6 (OR): Write about 'Feature Writing' (2 marks)",
+          "Q8: What precautions must be taken while choosing a story for a radio play? (2 marks)"
+        ],
+        "types": []
+      }
+    ]
+  },
+  "writing_section_formats": {
+    "note": "Contextual Explanation formats (Q17/Q18), Poet/Author Introduction format (Q16), Format Writing templates (Q19), Essay (Q20).",
+    "formats": [
+      {
+        "format_name": "Format for Contextual Explanation of Poetry Extract (Q17)",
+        "structure": "Context: These lines are taken from the poem _____, composed by _____. | Occasion: In these lines, the poet has expressed his/her views on the subject of _____. | Explanation: (Line-by-line meaning in simple language — 3–4 sentences) | Feature: In this poem, _____ Alankar / image is used. The language is _____.",
+        "word_limit": "",
+        "tip": "Context (1) + Occasion (0.5) + Explanation (2) + Feature (0.5) = 4 marks",
+        "frequently_asked_topics": []
+      },
+      {
+        "format_name": "Format for Contextual Explanation of Prose Extract (Q18)",
+        "structure": "Context: The following prose extract is taken from the work _____, composed by _____. | Occasion: In this extract, the author says this in the context of _____. | Explanation: (Meaning and discussion — in 4–5 sentences) | Feature: In this extract, the author's _____ language style / perspective is revealed.",
+        "word_limit": "",
+        "tip": "Context (1) + Occasion (0.5) + Explanation (2) + Feature (0.5) = 4 marks",
+        "frequently_asked_topics": []
+      },
+      {
+        "format_name": "Format for Poet/Author Introduction (Q16)",
+        "structure": "Birth: _____ was born in _____ on _____. | Education: His/Her education was completed at _____. | Major Works: His/Her major works are — (2–3 work titles) | Language and Style: His/Her language is _____. Style is _____. | Distinction/Award: He/She was honoured with the _____ Award.",
+        "word_limit": "",
+        "tip": "Complete introduction in 80–100 words = 3 marks",
+        "frequently_asked_topics": []
+      },
+      {
+        "format_name": "Format for Government Memorandum / Format Writing (Q19)",
+        "structure": "From: Designation, Department, State Government | To: Designation, Department | Letter Number: ___/Department/Year | Date: ___ | Subject: Regarding ...... | Reference: Previous letter or directive | Sir/Madam, | Main Content: What is to be done, when, and how | Signature + Designation + Seal",
+        "word_limit": "",
+        "tip": "Correct format = 2 marks + Content = 3 marks = 5 marks total",
+        "frequently_asked_topics": []
+      },
+      {
+        "format_name": "Format for Substantive Essay (Q20)",
+        "structure": "Introduction/Preamble: Introduction of topic + importance (2–3 sentences) | Body: 4–5 paragraphs — one main point each | Examples/Facts: Relevant examples, statistics, or quotations | Conclusion: Summary + personal viewpoint",
+        "word_limit": "",
+        "tip": "Introduction + Body (substantive content) + Language + Conclusion = 5 marks",
+        "frequently_asked_topics": []
+      }
+    ]
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "RBSE Hindi has no practical. 80 theory + 20 IA = 100.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 40,
+    "medium_percent": 45,
+    "hard_percent": 15,
+    "most_scoring_sections": [
+      "Easy — MCQs from unseen passages, Shabd-Shakti fill blanks, very short factual answers. 35+ marks can be scored easily.",
+      "Easy to Medium — Abhivyakti aur Madhyam 6 marks (definition-based), Aaroh 8 marks (requires textbook knowledge)."
+    ],
+    "most_difficult_sections": [
+      "Medium to Hard — Contextual explanation format if not memorised will cost marks. Format writing format must be exactly correct."
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Q1's 18 MCQs — attempt all (no negative marking) — easy 15–16 marks",
+      "In Q3/Q4 unseen passages — take answers only from the passage — do not add personal knowledge",
+      "In Q2 fill blanks — write the Shabd-Shakti name clearly — 'Lakshana', 'Vyanjana', 'Abhidha'",
+      "In poet/author introduction — follow the format — birth, works, language style — missing any point will cost marks",
+      "In contextual explanation (Q17/Q18) — write Context first — work name + author name — earns 1 mark guaranteed",
+      "In format writing — keep 'Preshak', 'Prapt-karta', 'Vishay', 'Mahoday/Mahodaya' format absolutely correct",
+      "Essay word limit is 300 words — writing too much can also be penalised",
+      "Remember author/poet names of Aaroh chapters — used in both MCQ and very short answers",
+      "In internal choice (OR) questions — write only ONE option — do not write both",
+      "In Q5 very short — clearly write the question number of each answer"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "Read unseen passages (Q3/Q4). Decide which OR options to attempt in Q13–Q20. Decide which explanation (Q17/Q18) to write."
+      },
+      {
+        "section_id": "section_A_50min",
+        "recommended_minutes": 20,
+        "note": "Q1 MCQ (20 min) + Q2 Fill blanks (8 min) + Q3/Q4 Unseen passages (12 min) + Q5 Very Short (10 min). No negative marking — attempt all."
+      },
+      {
+        "section_id": "section_B_25min",
+        "recommended_minutes": 4,
+        "note": "Q6–Q12 — 7 short answers × approximately 3–4 min each. Write direct answer in 40 words."
+      },
+      {
+        "section_id": "section_C_25min",
+        "recommended_minutes": 6,
+        "note": "Q13–Q16 — 4 long answers × approximately 6 min each. 60–80 words. Use numbered bullet points."
+      },
+      {
+        "section_id": "section_D_40min",
+        "recommended_minutes": 10,
+        "note": "Q17/Q18 explanation × 10 min each + Q19 format 10 min + Q20 essay 10 min."
+      },
+      {
+        "section_id": "revision_5min",
+        "recommended_minutes": 0,
+        "note": "Check question numbers are correctly written? Did you accidentally write both OR options? Check essay word count."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 26,
+        "strategy": "Section A MCQ (Q1) = 12–14 marks, Fill blanks (Q2) = 4–5 marks, Unseen passages (Q3+Q4) = 8–10 marks. Total = 24–29 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Q1 — 18 MCQs (no negative marking — attempt all)",
+          "Q2 — Remember 3 types of Shabd-Shakti + 2–3 Alankar names",
+          "Q3 + Q4 — Unseen prose/poetry passages — read carefully and choose from options",
+          "Q5 — Very Short (direct facts from text — names, works, events)"
+        ],
+        "chapters_to_skip_safely": [
+          "Format writing (Q19) — if format is not known at all",
+          "Contextual explanation (Q17/Q18) — time-consuming",
+          "Essay (Q20) — if 300 words feels difficult"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45_marks",
+        "target_marks": 45,
+        "strategy": "Full Section A (35–38) + 4–5 questions from Section B (8–10) = 43–48 marks. 1–2 Section C answers (3–6) as bonus.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Abhivyakti aur Madhyam — Q6/7/8 easy 6 marks",
+          "Shirish ke Phool, Bhaktin, Bazar Darshan — short answers",
+          "Aaroh poetry — Patang, Kavita ke Bahane — 2 marks each",
+          "Q16 — Poet/Author introduction format — easy 3 marks"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60_or_more",
+        "target_marks": 60,
+        "strategy": "Full Section A (38–40) + Full Section B (14) + 3–4 Section C answers (9–12) + 2–3 Section D answers (9–13) = 70–79 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All Aaroh prose chapters — Bhaktin, Bazar Darshan, Shirish, Pahalwaan ki Dholak",
+          "All Aaroh poetry — Tulsidas, Bachchan, Firaq, Alok Dhanwa",
+          "Vitan — Silver Wedding, Joojh, Ateet mein Dabe Paon",
+          "Practice contextual explanation format (Q17/Q18)",
+          "Memorise government memorandum and notification formats",
+          "Prepare outlines for 5 essay topics"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping",
+        "target_marks": 70,
+        "strategy": "Maximum marks in all sections. Getting 18 marks in Section D alone makes 70+ possible.",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 20,
+    "note": "20 marks internal assessment — school-level (projects, periodic tests, class participation).",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "SP Examination Idea — Hindi Compulsory Class 12",
+        "author": "",
+        "publisher": "Science Publications, Jaipur",
+        "purpose": "Primary",
+        "note": "Best book for RBSE. Has chapter-wise MCQs, fill blanks, very short, short, long answers + format writing templates — everything."
+      },
+      {
+        "name": "NCERT Aaroh Part 2 + Vitan Part 2 + Abhivyakti aur Madhyam",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Core textbooks. All questions come from these. Must read all three books completely at least once."
+      },
+      {
+        "name": "Previous Year Question Papers",
+        "author": "",
+        "publisher": "RBSE",
+        "purpose": "Supplementary",
+        "note": "Download from rajeduboard.rajasthan.gov.in. Unseen passage topics, essay topics, and format questions repeat."
+      },
+      {
+        "name": "RBSE Model Paper 2026",
+        "author": "",
+        "publisher": "RBSE Official",
+        "purpose": "Supplementary",
+        "note": "Download from rajeduboard.rajasthan.gov.in > Books/Old Papers/Model Questions — solve it at least once."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "rajeduboard.rajasthan.gov.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 minutes of reading time is given. Only read the question paper during this time — writing is prohibited."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "Question number compulsory before each answer",
+      "Set number compulsory on cover page",
+      "Sequence not compulsory — attempt any order",
+      "Do not accidentally write both OR options — only one",
+      "Rough work on last page clearly labelled"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Blue pen for main answers. Black for underlining."
+    },
+    "rough_work_rules": "Rough work on last page — clearly label \"रफ़ कार्य / ROUGH WORK\".",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

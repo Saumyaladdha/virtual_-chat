@@ -1,0 +1,1858 @@
+{
+  "board": "MPBSE",
+  "class": "12",
+  "subject": "Physics",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 70,
+    "practical_paper": 30,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 23,
+    "passing_marks_practical": 10,
+    "passing_marks_internal": 0,
+    "duration_minutes": 180,
+    "extra_time_given": false,
+    "extra_time_note": "Nahi milta. 3 ghante fixed hain. Bell bajte hi answer sheet submit karni hoti hai. Koi extra time nahi diya jaata.",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 33,
+    "total_questions_to_attempt": 26,
+    "total_objective_questions": 0,
+    "total_sets": 4,
+    "sets_note": "MPBSE typically 4 sets: A, B, C, D. Har set mein same questions hote hain, sirf order alag hota hai. Marks distribution har set mein bilkul same rehta hai.",
+    "sets_same_or_different": "Same questions, different order. Marks distribution identical.",
+    "language_of_attempt": "",
+    "all_compulsory_note": "",
+    "pariksha_bodh_questions_in_exam": "Haan — Pariksha Bodh (Yugbodh) book ke questions exam mein directly ya similar pattern mein aate hain. Is book ke important questions prepare karna highly recommended hai.",
+    "ncert_enough": "NCERT alone kaafi nahi hai MPBSE ke liye. MPBSE ka syllabus NCERT par based hai lekin Pariksha Bodh, previous year papers aur MP board specific derivations zaroori hain.",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "Officially MPBSE ya NCERT ki taraf se jari hota hai. Actual exam pattern aur difficulty level dikhata hai. Format bilkul real paper jaisa hota hai.",
+      "model_paper": "Teachers ya coaching institutes banate hain practice ke liye. Pattern similar hota hai lekin officially certified nahi hota.",
+      "question_bank": "Previous year questions ka collection hota hai. Revision ke liye best — jo baar baar aya hai woh clearly dikhta hai.",
+      "which_to_prefer": "Revision ke liye: Question Bank > Previous Year Papers > Model Paper > Sample Paper. Sample paper exam se pehle ek full mock test ke taur par karo, refernce books - pariksha bodh, navbodh,pariksha adhyan. ",
+      "revision_notes_vs_qbank": "Notes se concept clear hota hai, Question Bank se application practice hoti hai. Dono zaroori hain — pehle notes padho phir question bank se solve karo."
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "Physics MPBSE Class 12 paper mein 6 types ke questions aate hain",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ / Objective",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 7,
+        "attempt": 7,
+        "negative_marking": false,
+        "how_to_attempt": "Answer sheet mein sirf option (a), (b), (c), (d) likhna hota hai. Theory likhne ki zaroorat nahi. Option letter ke saath answer word bhi likh sakte ho — marks nahi katenge. Set number bhi answer sheet pe likho."
+      },
+      {
+        "type": "Fill in the Blanks",
+        "section": "A (part of objective)",
+        "marks_each": 1,
+        "total_in_paper": "Usually 5 to 6",
+        "fixed_count": false,
+        "fixed_count_note": "Fixed 6 nahi hote — vary kar sakta hai. Question paper mein clearly likha hota hai kitne marks ke hain.",
+        "spelling_mistake_effect": "Minor spelling mistake mein marks usually nahi katenge. Lekin wrong word likha toh marks katenge.",
+        "one_word_only": "Mostly one word ya one formula. Agar definition type hai toh ek short phrase bhi chalega.",
+        "formula_based": "Haan — fill in blank mein formula, SI unit, dimensional formula, value based questions aate hain.",
+        "mostly_from": "Ch 1, 3, 4, 6, 11, 12 se zyaada fill blanks aate hain."
+      },
+      {
+        "type": "True or False",
+        "section": "A (part of objective)",
+        "marks_each": 1,
+        "total_in_paper": "Usually 5",
+        "difficulty": "Easy to medium. Direct concept based.",
+        "all_false_possible": true,
+        "all_false_note": "Theoretically possible ki saare answers False hon. Lekin typically 2-3 True aur 2-3 False hote hain.",
+        "fixed_5marks": false,
+        "mostly_from": "Ch 1, 14 se zyaada true/false aate hain.",
+        "mostly_from_chapters": "Ch 1 (electric charge properties), Ch 14 (semiconductor properties). Kabhi kabhi Ch 3, Ch 6, Ch 10 se bhi."
+      },
+      {
+        "type": "Match the Column",
+        "section": "A (part of objective)",
+        "marks_each": "Usually 3 (1 mark per correct match)",
+        "how_to_write": "Sirf matching likhni hoti hai: 1-(b), 2-(c) etc. Poora question copy karna zaroori nahi. Explanation likhne ki zaroorat nahi.",
+        "option_answer_compulsory": "Nahi — sirf option letter likhna kaafi hai: 1-(b), 2-(d) etc."
+      },
+      {
+        "type": "Very Short Answer",
+        "section": "B",
+        "marks_each": 2,
+        "total_in_paper": 10,
+        "attempt": 7,
+        "word_limit": "30 to 50 words",
+        "definition_formula": "Definition wale questions mein formula likhna compulsory nahi lekin 1 extra mark milta hai agar likha ho. Definition ke saath SI unit zaroor likho.",
+        "si_unit_questions": "Haan — SI unit wale questions Section B mein aate hain.",
+        "one_word_answer": "Nahi — 2 marks ke question mein ek word enough nahi hoga. 2-3 lines likho.",
+        "given_that_required": false
+      },
+      {
+        "type": "Short Answer",
+        "section": "C",
+        "marks_each": 3,
+        "total_in_paper": 7,
+        "attempt": 5,
+        "word_limit": "80 to 120 words",
+        "diagram_in_theory": "Haan — theory questions mein bhi kabhi kabhi diagram banana hota hai ya helpful hota hai. Explicitly poochhа ho toh compulsory hai.",
+        "derivation_questions": "Haan — Section C mein short derivations aate hain.",
+        "formula_given_in_question": false,
+        "formula_given_note": "Nahi — numericals mein formula question mein nahi diya jaata. Formulas khud yaad karne padte hain. Isliye formula sheet practice zaroori hai.",
+        "unit_conversion_shown": false,
+        "unit_conversion_note": "Unit conversion question paper mein nahi likha jaata. Conversion khud karna hota hai. Example: 30 cm = 30x10^-2 m — ye aapko pata hona chahiye."
+      },
+      {
+        "type": "Long Answer / Analytical",
+        "section": "D",
+        "marks_each": 4,
+        "total_in_paper": 5,
+        "attempt": 4,
+        "word_limit": "150 to 200 words",
+        "is_always_tough": false,
+        "toughness_note": "4 marks wale questions mostly medium difficulty. Kuch device-based (transformer, cyclotron) medium-hard. Sab tough nahi hote."
+      },
+      {
+        "type": "Long Answer / Numerical",
+        "section": "E",
+        "marks_each": 5,
+        "total_in_paper": 4,
+        "attempt": 3,
+        "word_limit": "200 to 300 words",
+        "one_page_rule": "5 marks ka answer ek page mein likhna compulsory nahi. Content pe depend karta hai. Derivations 1.5 to 2 pages le sakti hain.",
+        "is_always_tough": true
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "Paper has 5 sections A to E. Total 33 questions, 26 to be attempted.",
+    "all_sections_compulsory": false,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Har section mein internal choice hoti hai — matlab 10 mein se 7, 7 mein se 5, etc. Har individual question mein optional nahi hoti.",
+    "or_questions_note": "Or wala optional question kabhi same chapter se aata hai kabhi different se. Fixed rule nahi hai MPBSE mein.",
+    "difficulty_distribution": {
+      "easy_percent": 35,
+      "medium_percent": 45,
+      "hard_percent": 20,
+      "note": "Physics ka paper har saal tough nahi hota. MP 2021 aur MP 2022 medium difficulty tha. MP 2023 thoda tough tha. Overall: 35% easy, 45% medium, 20% tough."
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Objective (MCQ + Fill Blank + True-False + Match Column)",
+        "type": "Objective (MCQ + Fill Blank + True-False + Match Column)",
+        "question_numbers": "",
+        "total_questions": 7,
+        "total_sub_questions": 0,
+        "attempt_required": 7,
+        "marks_per_question": 1,
+        "total_marks": 7,
+        "word_limit": "No writing — option letter only for MCQ. One word/formula for fill blank. True/False for T-F. Match pairs for match column.",
+        "breakdown": "MCQ: sirf (b) likh do. Fill blank: formula ya word. True/False: True ya False. Match: 1-(c), 2-(a) etc.",
+        "notes": "Haan — MCQ har saal aate hain. Section A mein hote hain. Count slightly vary kar sakta hai lekin 7 total Section A questions hote hain."
+      },
+      {
+        "section_id": "B",
+        "name": "Very Short Answer",
+        "type": "Very Short Answer",
+        "question_numbers": "",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 7,
+        "marks_per_question": 2,
+        "total_marks": 14,
+        "word_limit": "30 to 50 words",
+        "breakdown": "1 mark definition/law + 1 mark formula/SI unit. 2-3 lines only.",
+        "notes": ""
+      },
+      {
+        "section_id": "C",
+        "name": "Short Answer",
+        "type": "Short Answer",
+        "question_numbers": "",
+        "total_questions": 7,
+        "total_sub_questions": 0,
+        "attempt_required": 5,
+        "marks_per_question": 3,
+        "total_marks": 15,
+        "word_limit": "80 to 120 words",
+        "breakdown": "Definition + explanation + application. Or: Law + derivation steps + result. Or: Given + Formula + Substitution + Answer.",
+        "notes": ""
+      },
+      {
+        "section_id": "D",
+        "name": "Long Answer / Analytical (4 marks)",
+        "type": "Long Answer / Analytical (4 marks)",
+        "question_numbers": "",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 4,
+        "total_marks": 16,
+        "word_limit": "150 to 200 words",
+        "breakdown": "Diagram first (1 mark) + law/definition (0.5) + numbered steps (2) + final boxed result (0.5).",
+        "notes": ""
+      },
+      {
+        "section_id": "E",
+        "name": "Long Answer / Numerical (5 marks)",
+        "type": "Long Answer / Numerical (5 marks)",
+        "question_numbers": "",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 3,
+        "marks_per_question": 5,
+        "total_marks": 15,
+        "word_limit": "200 to 300 words",
+        "breakdown": "Derivation: Statement + diagram + numbered steps + final result. Numerical: Given + Formula + Substitution + Calculation + Answer with unit.",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 70,
+    "total_practical": 30,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Objective (MCQ + Fill Blank + True-False + Match Column)",
+        "question_numbers": "",
+        "type": "Objective (MCQ + Fill Blank + True-False + Match Column)",
+        "total_questions": 7,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 7,
+        "word_limit": "No writing — option letter only for MCQ. One word/formula for fill blank. True/False for T-F. Match pairs for match column.",
+        "breakdown": "MCQ: sirf (b) likh do. Fill blank: formula ya word. True/False: True ya False. Match: 1-(c), 2-(a) etc."
+      },
+      {
+        "section_id": "B",
+        "name": "Very Short Answer",
+        "question_numbers": "",
+        "type": "Very Short Answer",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 14,
+        "word_limit": "30 to 50 words",
+        "breakdown": "1 mark definition/law + 1 mark formula/SI unit. 2-3 lines only."
+      },
+      {
+        "section_id": "C",
+        "name": "Short Answer",
+        "question_numbers": "",
+        "type": "Short Answer",
+        "total_questions": 7,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 15,
+        "word_limit": "80 to 120 words",
+        "breakdown": "Definition + explanation + application. Or: Law + derivation steps + result. Or: Given + Formula + Substitution + Answer."
+      },
+      {
+        "section_id": "D",
+        "name": "Long Answer / Analytical (4 marks)",
+        "question_numbers": "",
+        "type": "Long Answer / Analytical (4 marks)",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 16,
+        "word_limit": "150 to 200 words",
+        "breakdown": "Diagram first (1 mark) + law/definition (0.5) + numbered steps (2) + final boxed result (0.5)."
+      },
+      {
+        "section_id": "E",
+        "name": "Long Answer / Numerical (5 marks)",
+        "question_numbers": "",
+        "type": "Long Answer / Numerical (5 marks)",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 5,
+        "total_marks": 15,
+        "word_limit": "200 to 300 words",
+        "breakdown": "Derivation: Statement + diagram + numbered steps + final result. Numerical: Given + Formula + Substitution + Calculation + Answer with unit."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 70,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "14",
+      "name": "Semiconductor Electronics",
+      "marks": 8,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "5",
+        "name": "Magnetism and Matter",
+        "marks": 3
+      },
+      {
+        "chapter_id": "8",
+        "name": "EM Waves",
+        "marks": 3
+      },
+      {
+        "chapter_id": "12",
+        "name": "Atoms",
+        "marks": 3
+      },
+      {
+        "chapter_id": "13",
+        "name": "Nuclei",
+        "marks": 3
+      }
+    ],
+    "units_or_chapters": [],
+    "totals": {
+      "total_marks": 70,
+      "one_mark_questions": 7,
+      "two_mark_total": 14,
+      "three_mark_total": 15,
+      "four_mark_total": 16,
+      "five_mark_total": 15
+    }
+  },
+  "syllabus": {
+    "note": "",
+    "books": [
+      {
+        "book_name": "NCERT Physics Part I & Part II",
+        "category": "chapter",
+        "total_marks": 70,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Electric Charges and Fields",
+            "marks": 4,
+            "topics": [
+              "Properties of charge",
+              "Coulomb's law",
+              "Gauss theorem",
+              "Dipole field derivation",
+              "Electric field lines"
+            ],
+            "note": "1 MCQ (1 mark) + 1 Very Short (2 marks) + 1 Short/Long (3-5 marks) = approx 4-5 marks total"
+          },
+          {
+            "chapter_id": "2",
+            "name": "Electrostatic Potential and Capacitance",
+            "marks": 0,
+            "topics": [
+              "Parallel plate capacitor",
+              "Capacitor combinations",
+              "Energy stored",
+              "Equipotential surfaces",
+              "Van de Graaff generator"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "Current Electricity",
+            "marks": 0,
+            "topics": [
+              "Ohm's law",
+              "Drift velocity",
+              "KCL and KVL",
+              "Wheatstone bridge",
+              "Meter bridge",
+              "Potentiometer"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "Moving Charges and Magnetism",
+            "marks": 0,
+            "topics": [
+              "Biot-Savart",
+              "Ampere's law",
+              "Lorentz force",
+              "Cyclotron",
+              "Moving coil galvanometer",
+              "Torque on loop"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "Magnetism and Matter",
+            "marks": 3,
+            "topics": [
+              "Dia/Para/Ferro comparison",
+              "Hysteresis curve",
+              "Curie's law",
+              "Bar magnet field"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "Electromagnetic Induction",
+            "marks": 0,
+            "topics": [
+              "Faraday's laws",
+              "Lenz's law",
+              "Motional EMF",
+              "Self/Mutual inductance",
+              "Eddy currents",
+              "AC generator"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "Alternating Current",
+            "marks": 0,
+            "topics": [
+              "RMS values",
+              "XL and XC",
+              "LCR impedance",
+              "Resonance",
+              "Power factor",
+              "Transformer",
+              "AC generator"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "EM Waves",
+            "marks": 3,
+            "topics": [
+              "Displacement current",
+              "EM spectrum with discoverers",
+              "Properties of EM waves"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "Ray Optics and Optical Instruments",
+            "marks": 0,
+            "topics": [
+              "Mirror formula",
+              "Snell's law",
+              "TIR",
+              "Prism minimum deviation",
+              "Lens maker's equation",
+              "Microscope and telescope"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "Wave Optics",
+            "marks": 0,
+            "topics": [
+              "YDSE fringe width",
+              "Interference conditions",
+              "Coherent sources",
+              "Diffraction",
+              "Malus's law",
+              "Brewster's law"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "Dual Nature of Radiation and Matter",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "Atoms",
+            "marks": 3,
+            "topics": [],
+            "note": "Board exam mein Ch 12 se approximately 3 marks. 1-2 questions: Bohr postulates (3 marks) OR energy level numerical (3 marks)."
+          },
+          {
+            "chapter_id": "13",
+            "name": "Nuclei",
+            "marks": 3,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "14",
+            "name": "Semiconductor Electronics",
+            "marks": 8,
+            "topics": [],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Electric Charges and Fields",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I/II",
+      "weightage_marks": 4,
+      "typical_breakdown": "1 MCQ (1 mark) + 1 Very Short (2 marks) + 1 Short/Long (3-5 marks) = approx 4-5 marks total",
+      "difficulty": "Medium",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "no_long_answer_typically": false,
+      "most_optional_from": true,
+      "note": "Guaranteed numerical: Coulomb's law / Gauss theorem numerical | Guaranteed annual Q: Gauss theorem ya dipole derivation (Section D or E)",
+      "important_topics": [
+        "Properties of charge",
+        "Coulomb's law",
+        "Gauss theorem",
+        "Dipole field derivation",
+        "Electric field lines"
+      ],
+      "easy_topics": [
+        "3 properties of charge",
+        "Electric flux definition + unit",
+        "E inside conductor = zero"
+      ],
+      "important_derivations": [
+        "Gauss theorem proof",
+        "E on axial position of dipole",
+        "E on equatorial position",
+        "Torque on dipole",
+        "E due to spherical shell"
+      ],
+      "important_diagrams": [
+        "Gaussian spherical surface",
+        "Dipole axial/equatorial setup",
+        "E vs r graph for spherical shell",
+        "Field lines of +ve and -ve charge"
+      ],
+      "important_formulas": [],
+      "key_mcq_answers": [
+        "Fundamental charge = 1.6 x 10^-19 C",
+        "1 coulomb = 6.25 x 10^18 electrons",
+        "E inside hollow sphere = Zero",
+        "Dielectric constant of metal = Infinite",
+        "E due to dipole proportional to 1/r^3",
+        "Work done rotating dipole 180 degrees = 2pE",
+        "SI unit of dipole moment = coulomb-metre",
+        "SI unit of electric field = N/C",
+        "Dielectric constant of air = 1"
+      ],
+      "key_fill_blanks": [
+        "Dimensional formula of charge = AT",
+        "Like charges repel, unlike attract",
+        "SI unit of electric field = NC^-1",
+        "q = plus minus ne  (quantization)",
+        "1 coulomb = 6.25 x 10^18 electrons",
+        "Electric dipole moment is a vector quantity"
+      ],
+      "key_true_false": [
+        "E inside hollow sphere = zero : TRUE",
+        "Coulomb law for moving charges : FALSE",
+        "Dipole moment direction: negative to positive : TRUE",
+        "Inside conductor E = zero : TRUE"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Electrostatic Potential and Capacitance",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I/II",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "no_long_answer_typically": false,
+      "most_optional_from": false,
+      "note": "",
+      "important_topics": [
+        "Parallel plate capacitor",
+        "Capacitor combinations",
+        "Energy stored",
+        "Equipotential surfaces",
+        "Van de Graaff generator"
+      ],
+      "easy_topics": [
+        "Equipotential surface 2 properties",
+        "SI unit = Farad",
+        "Parallel C = C1+C2 numerical"
+      ],
+      "important_derivations": [
+        "C = epsilon_0 A/d",
+        "Series/parallel combination",
+        "U = half CV^2"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "key_mcq_answers": [
+        "SI unit of capacitance = Farad",
+        "Dielectric filled at constant V, E decreases",
+        "Increasing separation decreases C",
+        "Series capacitors have same charge",
+        "Parallel capacitors have same potential",
+        "Angle between equipotential surface and E = 90 degrees"
+      ],
+      "key_fill_blanks": [
+        "1 farad = 1 coulomb per volt",
+        "Dimensional formula of capacitance = M^-1 L^-2 T^4 A^2"
+      ],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Current Electricity",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I/II",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "no_long_answer_typically": false,
+      "most_optional_from": false,
+      "note": "Guaranteed numerical: Meter bridge / potentiometer / circuit numerical — always | Guaranteed annual Q: Meter bridge ya potentiometer (Section C or D)",
+      "important_topics": [
+        "Ohm's law",
+        "Drift velocity",
+        "KCL and KVL",
+        "Wheatstone bridge",
+        "Meter bridge",
+        "Potentiometer"
+      ],
+      "easy_topics": [
+        "Ohm's law V=IR",
+        "KCL and KVL statements",
+        "SI unit of resistivity"
+      ],
+      "important_derivations": [
+        "I = nAev_d",
+        "Wheatstone balance P/Q=R/S",
+        "R=S(100-L)/L",
+        "E1/E2=l1/l2"
+      ],
+      "important_diagrams": [
+        "Meter bridge circuit",
+        "Potentiometer EMF comparison",
+        "Wheatstone bridge"
+      ],
+      "important_formulas": [
+        "V=IR",
+        "R=rho*l/A",
+        "I=nAev_d",
+        "R=S(100-L)/L",
+        "E1/E2=l1/l2"
+      ],
+      "key_mcq_answers": [
+        "Current due to free electrons",
+        "Specific resistance depends on material",
+        "Wire doubled in length: resistance 4 times",
+        "Ohmic conductor example: Copper wire",
+        "Kirchhoff 1st law: conservation of charge",
+        "In series: current same throughout"
+      ],
+      "key_fill_blanks": [
+        "Wire length doubled: resistance 4 times",
+        "KCL: conservation of charge",
+        "KVL: conservation of energy",
+        "SI unit of resistivity = ohm-metre"
+      ],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Moving Charges and Magnetism",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I/II",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "no_long_answer_typically": false,
+      "most_optional_from": false,
+      "note": "",
+      "important_topics": [
+        "Biot-Savart",
+        "Ampere's law",
+        "Lorentz force",
+        "Cyclotron",
+        "Moving coil galvanometer",
+        "Torque on loop"
+      ],
+      "easy_topics": [
+        "F=qvB sin theta (MCQ)",
+        "SI unit of B = Tesla",
+        "Cyclotron cannot accelerate neutrons"
+      ],
+      "important_derivations": [
+        "Magnetic field at centre of circular current loop using Biot-Savart: B = mu_0 I / 2r",
+        "Magnetic field on axis of circular loop",
+        "Ampere's circuital law proof: closed loop integral B.dl = mu_0 I",
+        "Magnetic field inside solenoid using Ampere's law: B = mu_0 nI",
+        "Magnetic field due to infinite straight wire: B = mu_0 2I / 4pi a",
+        "Cyclotron frequency derivation: f = qB / 2pi m",
+        "Force per unit length between two parallel conductors: F/l = mu_0 I1 I2 / 2pi d",
+        "Torque on rectangular current loop in uniform field: tau = nBIA sin alpha",
+        "Moving coil galvanometer: current sensitivity I = C/nBAk"
+      ],
+      "important_diagrams": [
+        "Cyclotron",
+        "Moving coil galvanometer",
+        "Force on current wire"
+      ],
+      "important_formulas": [
+        "F=qvB sin theta",
+        "f=qB/2pi m",
+        "B=mu_0 nI",
+        "F/l=mu_0 I1 I2/2pi d"
+      ],
+      "key_mcq_answers": [
+        "Parallel conductors same direction: Attractive",
+        "Ideal voltmeter resistance: Infinite",
+        "Ideal ammeter resistance: Zero",
+        "Magnetic field is a vector quantity",
+        "Galvanometer sensitivity reduced by: Shunt"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Magnetism and Matter",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I/II",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "no_long_answer_typically": true,
+      "most_optional_from": false,
+      "note": "Long-answer: Maximum 3 marks. 5 marks rarely. | Numericals: Mostly theory. Numericals very rare.",
+      "important_topics": [
+        "Dia/Para/Ferro comparison",
+        "Hysteresis curve",
+        "Curie's law",
+        "Bar magnet field"
+      ],
+      "easy_topics": [
+        "Dia/Para/Ferro table (3 marks guaranteed)",
+        "Retentivity and Coercivity definition",
+        "Ferromagnetic examples: Fe, Ni, Co"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "key_mcq_answers": [
+        "Weber/metre^2 = unit of magnetic field B",
+        "Ferromagnetic example: Nickel",
+        "Non-uniform field on needle: force and torque"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Electromagnetic Induction",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I/II",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "no_long_answer_typically": false,
+      "most_optional_from": false,
+      "note": "",
+      "important_topics": [
+        "Faraday's laws",
+        "Lenz's law",
+        "Motional EMF",
+        "Self/Mutual inductance",
+        "Eddy currents",
+        "AC generator"
+      ],
+      "easy_topics": [
+        "Lenz's law statement + example",
+        "Eddy current 2 uses",
+        "Unit of inductance = Henry"
+      ],
+      "important_derivations": [
+        "e = NBAomega sin(omega t) for AC generator",
+        "L = mu_0 n^2 Al for solenoid",
+        "epsilon = Blv motional EMF"
+      ],
+      "important_diagrams": [
+        "AC generator labelled",
+        "Two coaxial solenoids",
+        "Rod on rails"
+      ],
+      "important_formulas": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [
+        "SI unit of self inductance = Henry",
+        "Induced EMF proportional to rate of change of magnetic flux"
+      ],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Alternating Current",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I/II",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "no_long_answer_typically": false,
+      "most_optional_from": true,
+      "note": "Guaranteed numerical: LCR or transformer numerical | Guaranteed annual Q: LCR circuit ya transformer (Section D or E)",
+      "important_topics": [
+        "RMS values",
+        "XL and XC",
+        "LCR impedance",
+        "Resonance",
+        "Power factor",
+        "Transformer",
+        "AC generator"
+      ],
+      "easy_topics": [
+        "Vrms=V0/root2",
+        "Turns ratio N1/N2=V1/V2",
+        "Resonant frequency formula",
+        "Power factor for pure R=1"
+      ],
+      "important_derivations": [
+        "LCR impedance Z",
+        "Resonant frequency f0",
+        "Power P = Vrms Irms cos phi",
+        "Transformer ratio"
+      ],
+      "important_diagrams": [
+        "LCR circuit",
+        "Phasor diagram",
+        "Resonance curve",
+        "Transformer"
+      ],
+      "important_formulas": [
+        "Z=root(R^2+(XL-XC)^2)",
+        "f0=1/2pi root(LC)",
+        "Vrms=V0/root2",
+        "N1/N2=V1/V2"
+      ],
+      "key_mcq_answers": [
+        "Mean value of AC over complete cycle = Zero",
+        "Vrms = 0.707 V0",
+        "Capacitor allows only AC",
+        "At resonance impedance = R only",
+        "Transformer core: soft iron laminated"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "EM Waves",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I/II",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "no_long_answer_typically": true,
+      "most_optional_from": false,
+      "note": "Long-answer: Maximum 3 marks. No 5-mark question. | Numericals: Entirely theory. No numericals.",
+      "important_topics": [
+        "Displacement current",
+        "EM spectrum with discoverers",
+        "Properties of EM waves"
+      ],
+      "easy_topics": [
+        "EM spectrum table with discoverers = 3 marks",
+        "Displacement current Id = epsilon_0 dPhi/dt",
+        "EM waves transverse (MCQ)"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "key_mcq_answers": [
+        "EM waves produced by: accelerated charge",
+        "EM waves are transverse",
+        "Speed in vacuum = 3x10^8 m/s"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Ray Optics and Optical Instruments",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I/II",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "no_long_answer_typically": false,
+      "most_optional_from": true,
+      "note": "Guaranteed numerical: Lens or mirror numerical | Guaranteed annual Q: Prism ya lens derivation (Section D or E)",
+      "important_topics": [
+        "Mirror formula",
+        "Snell's law",
+        "TIR",
+        "Prism minimum deviation",
+        "Lens maker's equation",
+        "Microscope and telescope"
+      ],
+      "easy_topics": [
+        "Two conditions TIR",
+        "P=1/f dioptre",
+        "Optical fibre uses: internet, endoscopy"
+      ],
+      "important_derivations": [
+        "Lens maker's 1/f=(mu-1)(1/R1-1/R2)",
+        "Prism minimum deviation formula",
+        "Compound microscope magnification",
+        "Refracting telescope magnification m=fo/fe",
+        "1/F=1/f1+1/f2 combination"
+      ],
+      "important_diagrams": [
+        "Prism with deviation marked",
+        "Compound microscope labelled",
+        "Refracting telescope",
+        "Lens maker setup",
+        "TIR in optical fibre"
+      ],
+      "important_formulas": [
+        "1/f=(mu-1)(1/R1-1/R2)",
+        "mu=sin((A+Dm)/2)/sin(A/2)",
+        "m=fo/fe",
+        "P=1/f"
+      ],
+      "key_mcq_answers": [
+        "Focal length depends on: material, colour, radius of curvature — NOT object distance",
+        "Power of lens unit = dioptre",
+        "Convex lens: positive power, converges",
+        "Red light deviation in prism: minimum (least mu)",
+        "Violet light deviation: maximum"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Wave Optics",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I/II",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "no_long_answer_typically": false,
+      "most_optional_from": false,
+      "note": "",
+      "important_topics": [
+        "YDSE fringe width",
+        "Interference conditions",
+        "Coherent sources",
+        "Diffraction",
+        "Malus's law",
+        "Brewster's law"
+      ],
+      "easy_topics": [
+        "beta=lambda D/d numerical (direct substitution)",
+        "Two coherent source conditions",
+        "Polarisation proves transverse nature"
+      ],
+      "important_derivations": [
+        "YDSE fringe width beta=lambda D/d",
+        "Malus law I=I0 cos^2 theta",
+        "Brewster tan ip=mu"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "beta=lambda D/d"
+      ],
+      "key_mcq_answers": [
+        "Polarisation proves transverse nature of light",
+        "Sound cannot be polarised (longitudinal wave)",
+        "Fringe width increases if wavelength increases or D increases or d decreases"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Dual Nature of Radiation and Matter",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I/II",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "no_long_answer_typically": false,
+      "most_optional_from": false,
+      "note": "Guaranteed numerical: Photoelectric effect numerical",
+      "important_topics": [],
+      "easy_topics": [
+        "Work function 1-line definition",
+        "lambda=h/p direct numerical",
+        "Photoelectric effect: particle nature of light"
+      ],
+      "important_derivations": [
+        "Einstein equation KE_max=hv-phi",
+        "de Broglie lambda=h/mv",
+        "lambda=h/root(2meV)"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "KE_max=hv-phi",
+        "lambda=h/mv"
+      ],
+      "key_mcq_answers": [
+        "Threshold wavelength of sodium = 6800 Angstrom",
+        "Planck's constant h = 6.6 x 10^-34 J/sec",
+        "1 eV = 1.6 x 10^-19 joule",
+        "Stopping potential also called cut-off potential",
+        "KE of photoelectrons independent of intensity"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "Atoms",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I/II",
+      "weightage_marks": 3,
+      "typical_breakdown": "Board exam mein Ch 12 se approximately 3 marks. 1-2 questions: Bohr postulates (3 marks) OR energy level numerical (3 marks).",
+      "difficulty": "Easy",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "no_long_answer_typically": true,
+      "most_optional_from": false,
+      "note": "Long-answer: Usually 2-3 marks. Occasionally 4. | Numericals: Occasionally numerical on energy transitions.",
+      "important_topics": [],
+      "easy_topics": [
+        "Bohr 3 postulates = 3 marks",
+        "Ground state energy = -13.6 eV (MCQ)",
+        "Lyman UV, Balmer visible (MCQ)"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "E_n=-13.6/n^2 eV",
+        "r_n=0.529 n^2 Angstrom"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "Nuclei",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I/II",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "no_long_answer_typically": false,
+      "most_optional_from": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [
+        "Isotopes/isobars/isotones definition",
+        "T_half = 0.693/lambda",
+        "Nuclear force: short range, charge independent"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "T_half=0.693/lambda",
+        "N=N0 e^(-lambda t)"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "Semiconductor Electronics",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I/II",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "no_long_answer_typically": false,
+      "most_optional_from": true,
+      "note": "Guaranteed annual Q: Diode ya transistor ya logic gates (Section B, C or D)",
+      "important_topics": [],
+      "easy_topics": [
+        "Logic gate truth tables = 3-5 marks",
+        "NAND/NOR universal gates",
+        "Forward/reverse bias depletion layer"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "beta=Ic/Ib",
+        "IE=IB+IC"
+      ],
+      "key_mcq_answers": [
+        "Conductor band gap = zero or overlapping",
+        "Semiconductor band gap ~ 1 eV",
+        "Insulator band gap > 3 eV",
+        "n-type dopant: pentavalent (P, As)",
+        "p-type dopant: trivalent (B, In)",
+        "Forward bias: depletion layer decreases",
+        "Reverse bias: depletion layer increases",
+        "Knee voltage Si = 0.7V, Ge = 0.3V"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [
+        "Intrinsic semiconductor electrons = holes : TRUE",
+        "Temperature increase: semiconductor resistivity decreases : TRUE (FALSE for metals)",
+        "N-type majority carriers = electrons : TRUE",
+        "Absolute zero semiconductor = insulator : TRUE",
+        "Si and Ge are compound semiconductors : FALSE (they are elemental)"
+      ],
+      "important_facts": [
+        "Resistivity of semiconductor decreases with temperature (opposite of metals)",
+        "At absolute zero semiconductor behaves like perfect insulator",
+        "n-type: Ge/Si + Phosphorus, Arsenic, Antimony",
+        "p-type: Ge/Si + Boron, Indium, Aluminium",
+        "Zener diode always in reverse bias for voltage regulation",
+        "NAND and NOR are universal gates — all other gates made from them"
+      ]
+    }
+  ],
+  "chapter_facts": {
+    "note": "Har chapter se question aana zaroori nahi. 14 chapters hain aur 33 questions — zyaatar cover hote hain.",
+    "can_chapter_have_zero_questions": true,
+    "can_chapter_be_skipped": true,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "Or wala optional question kabhi same chapter se aata hai kabhi different se. Fixed rule nahi hai MPBSE mein.",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Ch 14 - Semiconductor Electronics",
+      "Ch 9 - Ray Optics and Optical Instruments",
+      "Ch 3 - Current Electricity",
+      "Ch 7 - Alternating Current",
+      "Ch 1 - Electric Charges and Fields"
+    ],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [
+      "Ch 14 - Semiconductor Electronics (8 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "Ch 5 - Magnetism and Matter (3 marks)",
+      "Ch 8 - EM Waves (3 marks)",
+      "Ch 12 - Atoms (3 marks)",
+      "Ch 13 - Nuclei (3 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "Ch 1 - Gauss theorem ya dipole derivation (Section D or E)",
+      "Ch 3 - Meter bridge ya potentiometer (Section C or D)",
+      "Ch 7 - LCR circuit ya transformer (Section D or E)",
+      "Ch 9 - Prism ya lens derivation (Section D or E)",
+      "Ch 14 - Diode ya transistor ya logic gates (Section B, C or D)"
+    ],
+    "chapters_mostly_theory": [],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [
+      "Ch 1 - Electric Charges and Fields",
+      "Ch 4 - Moving Charges and Magnetism",
+      "Ch 6 - Electromagnetic Induction",
+      "Ch 9 - Ray Optics and Optical Instruments",
+      "Ch 10 - Wave Optics"
+    ],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [
+      "Ch 5 - Maximum 3 marks. 5 marks rarely.",
+      "Ch 8 - Maximum 3 marks. No 5-mark question.",
+      "Ch 12 - Usually 2-3 marks. Occasionally 4."
+    ],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [
+      "Ch 1 - Coulomb's law / Gauss theorem numerical",
+      "Ch 3 - Meter bridge / potentiometer / circuit numerical — always",
+      "Ch 7 - LCR or transformer numerical",
+      "Ch 9 - Lens or mirror numerical",
+      "Ch 11 - Photoelectric effect numerical"
+    ],
+    "chapters_no_numerical": [
+      "Ch 5 - Magnetism and Matter - Mostly theory. Numericals very rare.",
+      "Ch 8 - EM Waves - Entirely theory. No numericals.",
+      "Ch 12 - Atoms - Occasionally numerical on energy transitions."
+    ],
+    "most_optional_from_chapters": [
+      "Ch 1 - Electric Charges and Fields",
+      "Ch 9 - Ray Optics and Optical Instruments",
+      "Ch 7 - Alternating Current",
+      "Ch 14 - Semiconductor Electronics"
+    ],
+    "topics_repeat_every_year": [
+      "Gauss theorem (Section D or E, 4-5 marks)",
+      "Transformer (Section D, 4 marks)",
+      "p-n junction + rectifier (Section C or D, 3-4 marks)",
+      "LCR circuit or resonance (Section C or D, 3-5 marks)",
+      "Bohr postulates (Section B or C, 2-3 marks)",
+      "Logic gates truth tables (Section A or B, 1-3 marks)",
+      "Drift velocity (Section B or C, 2-3 marks)",
+      "Prism or lens maker equation (Section D or E, 4-5 marks)",
+      "Faraday laws + AC generator (Section C or D, 3-5 marks)"
+    ],
+    "one_mark_question_facts": {
+      "note": "1 mark wale questions Section A mein aate hain — MCQ, Fill blank, True/False, Match column. Ye mostly in chapters se aate hain:",
+      "common_formats": [
+        "Ch 1 (Electric Charges) — definitions, units, MCQ on E field",
+        "Ch 3 (Current Electricity) — Ohm's law, resistivity MCQ",
+        "Ch 8 (EM Waves) — EM spectrum MCQ, speed of light",
+        "Ch 11 (Dual Nature) — Planck's constant, threshold frequency",
+        "Ch 12 (Atoms) — Bohr radius, energy levels MCQ",
+        "Ch 14 (Semiconductors) — logic gates, energy gap MCQ"
+      ]
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "",
+    "must_practise": [
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Cyclotron",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Moving coil galvanometer",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "AC generator",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Transformer",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Compound microscope",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Refracting telescope",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "p-n junction",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Full wave rectifier",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Prism deviation",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "YDSE setup",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Gauss theorem spherical surface",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Hysteresis loop",
+        "note": ""
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Direct formulas puchhe jaate hain kya? Haan — fill in blank aur short answer mein formula directly maanga jaata hai.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "1",
+        "chapter_name": "Electric Charges and Fields",
+        "formulas": [
+          "F = (1/4 pi epsilon_0)(q1 q2 / r^2)  — Coulomb's law",
+          "E = F/q0 = (1/4 pi epsilon_0)(q/r^2)  — Electric field",
+          "Tau = pE sin theta  — Torque on dipole",
+          "C = epsilon_0 A/d  — Parallel plate capacitor",
+          "U = (1/2)CV^2  — Energy stored",
+          "C_series: 1/C = 1/C1 + 1/C2",
+          "C_parallel: C = C1 + C2"
+        ]
+      },
+      {
+        "chapter_id": "3",
+        "chapter_name": "Current Electricity",
+        "formulas": [
+          "V=IR",
+          "R=rho*l/A",
+          "I=nAev_d",
+          "R=S(100-L)/L",
+          "E1/E2=l1/l2"
+        ]
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Moving Charges and Magnetism",
+        "formulas": [
+          "F=qvB sin theta",
+          "f=qB/2pi m",
+          "B=mu_0 nI",
+          "F/l=mu_0 I1 I2/2pi d"
+        ]
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Alternating Current",
+        "formulas": [
+          "Z=root(R^2+(XL-XC)^2)",
+          "f0=1/2pi root(LC)",
+          "Vrms=V0/root2",
+          "N1/N2=V1/V2"
+        ]
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Ray Optics and Optical Instruments",
+        "formulas": [
+          "1/f=(mu-1)(1/R1-1/R2)",
+          "mu=sin((A+Dm)/2)/sin(A/2)",
+          "m=fo/fe",
+          "P=1/f"
+        ]
+      },
+      {
+        "chapter_id": "10",
+        "chapter_name": "Wave Optics",
+        "formulas": [
+          "beta=lambda D/d"
+        ]
+      },
+      {
+        "chapter_id": "11",
+        "chapter_name": "Dual Nature of Radiation and Matter",
+        "formulas": [
+          "KE_max=hv-phi",
+          "lambda=h/mv"
+        ]
+      },
+      {
+        "chapter_id": "12",
+        "chapter_name": "Atoms",
+        "formulas": [
+          "E_n=-13.6/n^2 eV",
+          "r_n=0.529 n^2 Angstrom"
+        ]
+      },
+      {
+        "chapter_id": "13",
+        "chapter_name": "Nuclei",
+        "formulas": [
+          "T_half=0.693/lambda",
+          "N=N0 e^(-lambda t)"
+        ]
+      },
+      {
+        "chapter_id": "14",
+        "chapter_name": "Semiconductor Electronics",
+        "formulas": [
+          "beta=Ic/Ib",
+          "IE=IB+IC"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Physics",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Physics",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 30,
+    "passing_marks": 10,
+    "practical_exam_separate": true,
+    "practical_exam_note": "Haan — practical exam alag se hota hai theory exam se. Alag day alag schedule pe.",
+    "not_giving_practical_consequence": "Agar practical exam nahi diya toh 30 marks mein se zero milenge practical mein. Theory mein passing marks aa jaayein phir bhi overall passing affected ho sakti hai. Practical dena zaroori hai.",
+    "viva_compulsory": true,
+    "viva_marks": 10,
+    "individual": true,
+    "group_work": false,
+    "group_note": "Practical exam mein individual kaam hota hai. Group mein nahi kar sakte.",
+    "experiment_choice": false,
+    "experiment_choice_note": "Practical exam mein aap khud experiment choose nahi kar sakte. Examiner ya school decide karta hai kaunsa experiment perform karna hai.",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [
+      {
+        "name": "Practical experiments written record and performance",
+        "marks": 15,
+        "note": ""
+      },
+      {
+        "name": "Activities and project work",
+        "marks": 5,
+        "note": ""
+      },
+      {
+        "name": "Viva voce",
+        "marks": 10,
+        "note": ""
+      }
+    ],
+    "activities_vs_experiments": {
+      "experiment": "Full procedure perform karna hota hai with observations, calculations, result. Example: Meter bridge, focal length of lens.",
+      "activity": "Shorter demonstration ya observation based. Example: observing magnetic field lines, identifying gates."
+    },
+    "minimum_attempts": {
+      "exam_day": 1,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "All 6-8 experiments must be in file",
+      "activities_required_note": "Minimum 2-3 activities in file"
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium overall",
+    "note": "Physics ka paper har saal tough nahi hota. MP 2021 aur MP 2022 medium difficulty tha. MP 2023 thoda tough tha. Overall: 35% easy, 45% medium, 20% tough.",
+    "easy_percent": 35,
+    "medium_percent": 45,
+    "hard_percent": 20,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Diagram pehle banao derivations mein — 1 mark pakka",
+      "Given Formula Substitution Answer format — partial marks milenge",
+      "Units mat bhoolna",
+      "Section B: pehle saare 10 padho phir easiest 7 choose karo",
+      "Ch 8 easy — spectrum table 30 min mein ready",
+      "Logic gates truth tables ek baar likh lo — 3 marks pakke",
+      "Gauss theorem + Transformer har saal aate hain",
+      "Final answer box karo numericals mein",
+      "Difference questions mein table banao",
+      "Steps number karo derivations mein",
+      "Question number clearly likho har answer ke upar",
+      "Set number cover page pe likhna mat bhoolna",
+      "MCQ mein sirf option letter likhna kaafi hai"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "A",
+        "recommended_minutes": 10,
+        "note": "10 min — all 7, no negative marking"
+      },
+      {
+        "section_id": "B",
+        "recommended_minutes": 28,
+        "note": "28 min — read all 10, attempt easiest 7"
+      },
+      {
+        "section_id": "C",
+        "recommended_minutes": 35,
+        "note": "35 min — 5 out of 7"
+      },
+      {
+        "section_id": "D",
+        "recommended_minutes": 40,
+        "note": "40 min — 4 out of 5, diagram first"
+      },
+      {
+        "section_id": "E",
+        "recommended_minutes": 37,
+        "note": "37 min — 3 out of 4"
+      },
+      {
+        "section_id": "revision",
+        "recommended_minutes": 0,
+        "note": "10 min — check units, complete labels"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 23,
+        "strategy": "Section A sabse pehle (7 marks almost certain). Section B mein sirf easy 7 choose karo (8-10 marks). 1-2 questions Section C se (3-6 marks). Total ~20-23 marks.",
+        "focus_chapters": [
+          "Ch 14 (Logic gates, diode)",
+          "Ch 8 (EM Waves spectrum)",
+          "Ch 12 (Bohr postulates)",
+          "Ch 5 (Dia/Para/Ferro table)",
+          "Ch 3 (Ohm's law, KCL)"
+        ],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [
+          "Ch 2 (complex numericals)",
+          "Ch 6 (AC generator derivation)",
+          "Ch 10 (YDSE derivation)"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "40_marks",
+        "target_marks": 40,
+        "strategy": "Pass karna + Section C mein 3-4 questions attempt karo + Section D mein 2 easy ones.",
+        "focus_chapters": [
+          "Ch 14",
+          "Ch 9 (TIR, lens formula)",
+          "Ch 3 (meter bridge)",
+          "Ch 8",
+          "Ch 12",
+          "Ch 1 (Gauss theorem)",
+          "Ch 11 (photoelectric)"
+        ],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "Har chapter se ek easy topic pakka karo. Sare derivations nahi chahiye — sirf common ones.",
+        "note": ""
+      },
+      {
+        "target_name": "60_marks",
+        "target_marks": 60,
+        "strategy": "Section A (7) + Section B full (14) + Section C 4-5 questions (12-15) + Section D 3 questions (12) + Section E 1-2 (5-10) = 50-56+",
+        "focus_chapters": [
+          "Ch 14 (full)",
+          "Ch 9 (full)",
+          "Ch 3 (full)",
+          "Ch 7 (LCR, transformer)",
+          "Ch 1 (Gauss, dipole)",
+          "Ch 10 (YDSE)",
+          "Ch 11 (photoelectric)"
+        ],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [
+          "Ch 2 complex numericals only",
+          "Ch 4 full derivations only focus on cyclotron"
+        ],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping",
+        "target_marks": 0,
+        "strategy": "Sab chapters prepare karo. Tough numericals practice karo. Diagrams perfect karo.",
+        "focus_chapters": [
+          "Ch 2 (capacitor combination)",
+          "Ch 3 (Kirchhoff loop problems)",
+          "Ch 7 (LCR numerical)",
+          "Ch 9 (optics numerical)",
+          "Ch 13 (mass defect)"
+        ],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [
+          "Ch 2 (capacitor combination)",
+          "Ch 3 (Kirchhoff loop problems)",
+          "Ch 7 (LCR numerical)",
+          "Ch 9 (optics numerical)",
+          "Ch 13 (mass defect)"
+        ],
+        "tip": "",
+        "note": "Top karne ke liye Section E ke 5-mark numericals solve karne honge. Previous 5 year papers ke saare Section E questions solve karo."
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "60 to 70 percent syllabus kaafi hai average marks ke liye",
+      "skip_safely": "Ch 2 advanced numericals, Ch 4 full (sirf cyclotron karo), Ch 5 details (sirf table karo), Ch 13 complex decay problems"
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "No separate internal assessment — 30 marks practical covers non-theory component",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": []
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "Admit card ke bina exam hall mein entry nahi milegi. Har exam day saath le jaao.",
+    "uniform_compulsory": true,
+    "uniform_note": "Exam mein proper school uniform mein aana zaroori hai.",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "Smartphone, smartwatch ya koi bhi electronic device exam hall mein allowed nahi hai. Found karne par spot par suspend.",
+    "reach_before_minutes": 30,
+    "reach_note": "Exam time se kam se kam 30 minute pehle hall mein pahunchna zaroori hai.",
+    "malpractice_consequence": "Malpractice mein caught hone par spot par suspend kar diya jaayega.",
+    "leaving_before_submission": false,
+    "leaving_note": "Answer sheet submit karne se pehle exam hall nahi chhod sakte.",
+    "timetable_source": "Official timetable mpbse.nic.in par available hoti hai.",
+    "extra_time_given": false,
+    "extra_time_note": "3 ghante fixed. Bell bajte hi answer sheet submit karni hoti hai. Koi extra time nahi milta."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "question_number_note: Haan — har answer ke upar question number likhna zaroori hai. Examiner dhundhta hai. Nahi likha toh marks confusion ho sakta hai.",
+      "set_number_compulsory: True",
+      "set_number_note: Haan — apna set number (A/B/C/D) answer sheet ke cover page par compulsory likhna hota hai.",
+      "question_copy_compulsory: False",
+      "question_copy_note: Answer sheet mein poora question likhna zaroori nahi. Sirf question number likho aur answer shuru karo.",
+      "rough_work: Answer sheet ka last page rough work ke liye. Clearly ROUGH WORK likho. Rough work pe marks nahi milte lekin kaam aata hai.",
+      "supplementary_sheet: Supplementary sheet lene se marks nahi katenge. Zaroorat ho toh lo. Lekin unnecessary blank pages waste mat karo.",
+      "sequence_compulsory: False",
+      "sequence_note: Questions ka sequence follow karna zaroori nahi. Jo aata ho pehle karo. Lekin question number clearly likho.",
+      "last_to_first: Haan — paper last se bhi start kar sakte ho. Koi rule nahi ki sequence follow karo.",
+      "long_answer_position: Long answers hamesha paper ke last mein nahi hote. Section D aur E mein hote hain lekin sequence alag ho sakti hai.",
+      "section_name_before_section: Section ka naam likhna compulsory nahi lekin recommended hai. Examiner ko navigate karna easy hota hai.",
+      "line_after_each_question: Zaroori nahi. Lekin do lines draw karne se answer clearly separate dikhta hai — good practice.",
+      "cutting_overwriting: Cuts se marks directly nahi katenge. Ek clean line se kato. Clean cutting acceptable hai.",
+      "short_before_long: Pehle short answers attempt karo phir long — marks nahi katenge. Jo bhi order suit kare.",
+      "sub_questions: Sub questions matlab ek question ke andar (a), (b), (c) parts hote hain. Har part ke marks alag alag hote hain."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Blue pen se main answer, black se headings/underline. Ya sirf ek color bhi chalega."
+    },
+    "rough_work_rules": "Answer sheet ka last page rough work ke liye. Clearly ROUGH WORK likho. Rough work pe marks nahi milte lekin kaam aata hai.",
+    "diagram_rules": "Haan — practically compulsory. Alag 1 mark allocated hota hai diagram ke liye. Nahi banaya toh wo mark nahi milega.",
+    "overwriting_rules": "Cuts se marks directly nahi katenge. Ek clean line se kato. Clean cutting acceptable hai.",
+    "cutting_rules": "Cuts se marks directly nahi katenge. Ek clean line se kato. Clean cutting acceptable hai."
+  }
+}

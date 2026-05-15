@@ -1,0 +1,1902 @@
+{
+  "board": "MPBSE",
+  "class": "12",
+  "subject": "व्यावसायिक अध्ययन (Business Studies)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 80,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 27,
+    "passing_marks_practical": 7,
+    "passing_marks_internal": 0,
+    "duration_minutes": 180,
+    "extra_time_given": true,
+    "extra_time_note": "हाँ — 15 मिनट रीडिंग टाइम मिलता है। इस समय में पेपर पढ़िए, OR विकल्पों में से कौन-सा attempt करेंगे तय कीजिए।",
+    "internal_assessment_note": "थ्योरी में 80 में से कम से कम 33% (≈27 अंक) एवं प्रोजेक्ट में 20 में से 33% (≈7 अंक) लाना ज़रूरी है। दोनों में अलग-अलग उत्तीर्ण होना होगा।"
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 23,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "MP Board में कई sets होते हैं (Set A, B, C, D)। हर set में समान प्रश्न, केवल क्रम अलग। पेपर हिंदी-अंग्रेज़ी दोनों version में आता है।",
+    "sets_same_or_different": "",
+    "language_of_attempt": "हिंदी या अंग्रेज़ी — दोनों allowed। मिश्रित भी चलेगा। यदि हिंदी-अंग्रेज़ी में पेपर में कोई विसंगति हो, तो हिंदी version अंतिम माना जाएगा।",
+    "all_compulsory_note": "प्रश्न 6 से 23 तक सभी प्रश्नों में internal choice (अथवा / OR) मिलता है। प्रश्न 1-5 (वस्तुनिष्ठ) में कोई choice नहीं — सब अनिवार्य।",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "MP Board व्यावसायिक अध्ययन का पाठ्यक्रम NCERT पर आधारित है। NCERT Part 1 (Principles & Functions of Management) + Part 2 (Business Finance & Marketing) सब solve कीजिए। SBPD Publications एवं नगीन प्रकाशन की MP Board guides भी helpful हैं।",
+    "official_scheme_note": "2022 तक 100 अंक एवं 26 प्रश्नों का pattern था। 2023 से आज तक 80 अंक + 23 प्रश्न + 20 प्रोजेक्ट का pattern है। यह JSON 80-अंक current pattern पर आधारित है।",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "MP Board कक्षा 12 व्यावसायिक अध्ययन में 5 प्रकार के वस्तुनिष्ठ + 3 प्रकार के विवरणात्मक प्रश्न: MCQ/रिक्त स्थान/सत्य-असत्य/सही जोड़ी/एक शब्द (प्रत्येक 1 अंक), लघु (2), मध्यम (3), दीर्घ (4)। कुल = 80 अंक।",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (सही विकल्प चुनिए)",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "केवल सही विकल्प (अ)/(ब)/(स)/(द) लिखना है। कोई व्याख्या नहीं। समय बर्बाद मत कीजिए।",
+        "mostly_from": "प्रबंध के स्तर, फेयोल के सिद्धांतों की संख्या, प्रबंध का पहला/अंतिम कार्य, निर्देशन के तत्व, विपणन कार्य, उपभोक्ता संरक्षण अधिनियम का वर्ष, आर्थिक परिवेश के घटक।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "रिक्त स्थानों की पूर्ति",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "एक शब्द/पद/वर्ष लिखना है। Spellings सही होनी चाहिए।",
+        "mostly_from": "नियोजन कार्य, संगठन के प्रकार, प्रशिक्षण, नेतृत्व, नियंत्रण से संबंध, पदोन्नति का स्रोत, नियुक्तिकरण से संबंधित, पर्यवेक्षी स्तर।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "सत्य / असत्य",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "केवल 'सत्य' या 'असत्य' लिखना है। वैचारिक स्पष्टता की जाँच होती है।",
+        "mostly_from": "नियोजन बौद्धिक प्रक्रिया, विकेंद्रीकरण प्रक्रिया, अधिकार-अर्पण एवं निर्देशन, उपभोक्ता अधिकार, पूँजी/विपणन अवधारणाएँ, प्रबंध के सिद्धांत।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "सही जोड़ी बनाइए",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 7,
+        "attempt": 7,
+        "negative_marking": false,
+        "how_to_attempt": "स्तंभ A के हर पद को स्तंभ B की सही परिभाषा/उदाहरण से match कीजिए। अंक/अक्षर स्पष्ट लिखिए।",
+        "mostly_from": "वैज्ञानिक प्रबंध, फेयोल, कार्यात्मक संरचना, विकेंद्रीकरण, स्टॉक एक्सचेंज, SEBI मुख्यालय, बजट, विचलन, सम-विच्छेद बिंदु, कार्यशील पूँजी।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "एक शब्द / एक वाक्य उत्तर",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 7,
+        "attempt": 7,
+        "negative_marking": false,
+        "how_to_attempt": "एक शब्द, एक वाक्यांश या एक वाक्य में उत्तर। परिभाषा-प्रकार के प्रश्न।",
+        "mostly_from": "चयन प्रक्रिया का प्रकार, नियंत्रण का पहला चरण, स्थिर पूँजी की परिसंपत्तियाँ, द्वितीयक बाज़ार, उपभोक्ता मंच के स्तर, कैंपस भर्ती, कार्य-स्थल प्रशिक्षण, वैश्वीकरण का अर्थ।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "अधिकतम 1-2 पंक्तियाँ",
+        "notes": ""
+      },
+      {
+        "type": "लघु उत्तरीय (2 अंक)",
+        "question_number": "",
+        "section": "B",
+        "marks_each": 2,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "परिभाषा + 1 बिंदु अथवा 2 बिंदु लिखिए। संक्षिप्त रहिए। 2 अंक = 2 स्पष्ट बिंदु।",
+        "mostly_from": "विशेषताएँ (प्रबंध, नियोजन, संगठन, निर्देशन), अर्थ (निजीकरण, विमुद्रीकरण, ब्रांडिंग, बजट, कार्यशील पूँजी), अंतर (नियम बनाम नीति, कार्यात्मक बनाम विभागीय, प्रशिक्षण बनाम विकास), महत्व बिंदु, गुण/अवगुण।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "30 शब्द",
+        "notes": ""
+      },
+      {
+        "type": "मध्यम उत्तरीय (3 अंक)",
+        "question_number": "",
+        "section": "C",
+        "marks_each": 3,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "3 अंक = 3 बिंदुओं की व्याख्या अथवा अवधारणा + 2 उदाहरण। शीर्षक use कीजिए।",
+        "mostly_from": "शीर्ष/निम्न स्तर प्रबंध के कार्य, समन्वय का महत्व, भर्ती बनाम चयन, नियुक्तिकरण का महत्व, प्रभावी संप्रेषण, मैस्लो का सिद्धांत, वित्तीय निर्णय के कारक, चयन प्रक्रिया, नियंत्रण के चरण, फेयोल के सिद्धांत, नियोजन-नियंत्रण का संबंध।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "75 शब्द",
+        "notes": ""
+      },
+      {
+        "type": "दीर्घ उत्तरीय (4 अंक)",
+        "question_number": "",
+        "section": "D",
+        "marks_each": 4,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "4 अंक = 4 बिंदु विस्तार से अथवा प्रक्रिया/तुलना तालिका। हर बिंदु को उदाहरण से समझाइए।",
+        "mostly_from": "प्रबंध का महत्व, फेयोल के 14 सिद्धांत, टेलर का वैज्ञानिक प्रबंध, नियोजन प्रक्रिया/विशेषताएँ, संगठन के उद्देश्य, औपचारिक बनाम अनौपचारिक संगठन, अधिकार-अर्पण का महत्व, विपणन के कार्य, विज्ञापन बनाम व्यक्तिगत विक्रय, बाह्य भर्ती के स्रोत, पर्यवेक्षक के कार्य।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "120 शब्द",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "MP Board व्यावसायिक अध्ययन थ्योरी पेपर = 80 अंक। 23 प्रश्न। अवधि: 3 घंटे (+ 15 मिनट रीडिंग टाइम)। 4 खंड + 32-अंक वस्तुनिष्ठ खंड।",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "प्रश्न 6 से 23 तक सभी प्रश्नों में internal choice (अथवा / OR) मिलता है। प्रश्न 1-5 (वस्तुनिष्ठ) में कोई choice नहीं — सब अनिवार्य।",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 45,
+      "medium_percent": 40,
+      "hard_percent": 15,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "खंड A — वस्तुनिष्ठ (प्रश्न 1 से 5)",
+        "type": "खंड A — वस्तुनिष्ठ (प्रश्न 1 से 5)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 5,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 32,
+        "word_limit": "",
+        "breakdown": "MCQ_choose_correct_option: {'count': 6, 'marks_each': 1, 'total': 6, 'note': '6 MCQ × 1 = 6 अंक। केवल (अ)/(ब)/(स)/(द) लिखना है।'}; fill_in_blanks: {'count': 6, 'marks_each': 1, 'total': 6, 'note': '6 रिक्त स्थान × 1 = 6 अंक। एक शब्द/नाम लिखना है।'}; true_false: {'count': 6, 'marks_each': 1, 'total': 6, 'note': \"6 सत्य/असत्य × 1 = 6 अंक। केवल 'सत्य' या 'असत्य' लिखिए।\"}; match_the_pairs: {'count': 7, 'marks_each': 1, 'total': 7, 'note': '7 सही जोड़ी × 1 = 7 अंक। स्तंभ A की हर मद का स्तंभ B से सही match लिखिए।'}; one_word_sentence: {'count': 7, 'marks_each': 1, 'total': 7, 'note': '7 एक-वाक्य × 1 = 7 अंक। एक शब्द या एक वाक्य में उत्तर।'}",
+        "notes": ""
+      },
+      {
+        "section_id": "B",
+        "name": "खंड B — लघु उत्तरीय (प्रश्न 6 से 15)",
+        "type": "खंड B — लघु उत्तरीय (प्रश्न 6 से 15)",
+        "question_numbers": "",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": 30,
+        "breakdown": "10 प्रश्न × 2 अंक = 20 अंक। हर प्रश्न में 'अथवा' विकल्प। 30 शब्दों की सीमा।",
+        "notes": "10 प्रश्न × 2 अंक = 20 अंक। हर प्रश्न में 'अथवा' विकल्प। 30 शब्दों की सीमा।"
+      },
+      {
+        "section_id": "C",
+        "name": "खंड C — मध्यम उत्तरीय (प्रश्न 16 से 19)",
+        "type": "खंड C — मध्यम उत्तरीय (प्रश्न 16 से 19)",
+        "question_numbers": "",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": 75,
+        "breakdown": "4 प्रश्न × 3 अंक = 12 अंक। 75 शब्दों की सीमा। अवधारणा + व्याख्या + उदाहरण।",
+        "notes": "4 प्रश्न × 3 अंक = 12 अंक। 75 शब्दों की सीमा। अवधारणा + व्याख्या + उदाहरण।"
+      },
+      {
+        "section_id": "D",
+        "name": "खंड D — दीर्घ उत्तरीय (प्रश्न 20 से 23)",
+        "type": "खंड D — दीर्घ उत्तरीय (प्रश्न 20 से 23)",
+        "question_numbers": "",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 4,
+        "total_marks": 16,
+        "word_limit": 120,
+        "breakdown": "4 प्रश्न × 4 अंक = 16 अंक। 120 शब्दों की सीमा। बिंदुओं/अंतर/प्रक्रिया सहित पूरी व्याख्या।",
+        "notes": "4 प्रश्न × 4 अंक = 16 अंक। 120 शब्दों की सीमा। बिंदुओं/अंतर/प्रक्रिया सहित पूरी व्याख्या।"
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 80,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "खंड A — वस्तुनिष्ठ (प्रश्न 1 से 5)",
+        "question_numbers": "",
+        "type": "खंड A — वस्तुनिष्ठ (प्रश्न 1 से 5)",
+        "total_questions": 0,
+        "total_sub_questions": 5,
+        "marks_per_question": 0,
+        "total_marks": 32,
+        "word_limit": "",
+        "breakdown": "MCQ_choose_correct_option: {'count': 6, 'marks_each': 1, 'total': 6, 'note': '6 MCQ × 1 = 6 अंक। केवल (अ)/(ब)/(स)/(द) लिखना है।'}; fill_in_blanks: {'count': 6, 'marks_each': 1, 'total': 6, 'note': '6 रिक्त स्थान × 1 = 6 अंक। एक शब्द/नाम लिखना है।'}; true_false: {'count': 6, 'marks_each': 1, 'total': 6, 'note': \"6 सत्य/असत्य × 1 = 6 अंक। केवल 'सत्य' या 'असत्य' लिखिए।\"}; match_the_pairs: {'count': 7, 'marks_each': 1, 'total': 7, 'note': '7 सही जोड़ी × 1 = 7 अंक। स्तंभ A की हर मद का स्तंभ B से सही match लिखिए।'}; one_word_sentence: {'count': 7, 'marks_each': 1, 'total': 7, 'note': '7 एक-वाक्य × 1 = 7 अंक। एक शब्द या एक वाक्य में उत्तर।'}"
+      },
+      {
+        "section_id": "B",
+        "name": "खंड B — लघु उत्तरीय (प्रश्न 6 से 15)",
+        "question_numbers": "",
+        "type": "खंड B — लघु उत्तरीय (प्रश्न 6 से 15)",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": 30,
+        "breakdown": "10 प्रश्न × 2 अंक = 20 अंक। हर प्रश्न में 'अथवा' विकल्प। 30 शब्दों की सीमा।"
+      },
+      {
+        "section_id": "C",
+        "name": "खंड C — मध्यम उत्तरीय (प्रश्न 16 से 19)",
+        "question_numbers": "",
+        "type": "खंड C — मध्यम उत्तरीय (प्रश्न 16 से 19)",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": 75,
+        "breakdown": "4 प्रश्न × 3 अंक = 12 अंक। 75 शब्दों की सीमा। अवधारणा + व्याख्या + उदाहरण।"
+      },
+      {
+        "section_id": "D",
+        "name": "खंड D — दीर्घ उत्तरीय (प्रश्न 20 से 23)",
+        "question_numbers": "",
+        "type": "खंड D — दीर्घ उत्तरीय (प्रश्न 20 से 23)",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 16,
+        "word_limit": 120,
+        "breakdown": "4 प्रश्न × 4 अंक = 16 अंक। 120 शब्दों की सीमा। बिंदुओं/अंतर/प्रक्रिया सहित पूरी व्याख्या।"
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 80,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "1",
+      "name": "प्रबंध — प्रकृति एवं महत्व (Nature and Significance of Management)",
+      "marks": 0,
+      "note": ""
+    },
+    "lowest_marks_chapters": [],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "प्रबंध — प्रकृति एवं महत्व (Nature and Significance of Management)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "प्रबंध के सिद्धांत (Principles of Management)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "व्यावसायिक परिवेश (Business Environment)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "नियोजन (Planning)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "संगठन (Organising)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "नियुक्तिकरण (Staffing)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "निर्देशन (Directing)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "name": "नियंत्रण (Controlling)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "name": "वित्तीय प्रबंध (Financial Management)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "10",
+        "name": "वित्तीय बाज़ार / पूँजी बाज़ार (Financial Markets)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "11",
+        "name": "विपणन प्रबंध (Marketing Management)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "name": "उपभोक्ता संरक्षण (Consumer Protection)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Business Studies Class 12 — 12 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Business Studies",
+        "category": "Main",
+        "total_marks": 0,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "प्रबंध — प्रकृति एवं महत्व (Nature and Significance of Management)",
+            "marks": 0,
+            "topics": [
+              "प्रबंध की परिभाषा, अवधारणा एवं विशेषताएँ",
+              "प्रबंध — कला, विज्ञान एवं व्यवसाय के रूप में",
+              "प्रबंध के स्तर — उच्च, मध्य, निम्न (पर्यवेक्षी)",
+              "प्रबंध के कार्य — नियोजन, संगठन, नियुक्तिकरण, निर्देशन, नियंत्रण",
+              "समन्वय — प्रबंध का सार, विशेषताएँ, महत्व",
+              "प्रबंध का महत्व"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "प्रबंध के सिद्धांत (Principles of Management)",
+            "marks": 0,
+            "topics": [
+              "प्रबंध के सिद्धांतों का अर्थ एवं प्रकृति",
+              "फेयोल के 14 सिद्धांत — कार्य-विभाजन, अधिकार एवं उत्तरदायित्व, अनुशासन, आदेश की एकता, निर्देश की एकता, व्यक्तिगत हित का गौण, पारिश्रमिक, केंद्रीकरण एवं विकेंद्रीकरण, अनुक्रमानुक्रम श्रृंखला, व्यवस्था, समानता, कर्मचारियों की स्थिरता, पहल, सामूहिक भावना",
+              "टेलर का वैज्ञानिक प्रबंध — अनुमान से नहीं विज्ञान, सामंजस्य न कि असहमति, सहयोग न कि व्यक्तिवाद, श्रमिकों का विकास",
+              "टेलर की तकनीकें — कार्यात्मक फ़ोरमैनशिप, मानकीकरण, सरलीकरण, वैज्ञानिक अध्ययन, विभेदक मज़दूरी, मानसिक क्रांति",
+              "फेयोल बनाम टेलर की तुलना"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "व्यावसायिक परिवेश (Business Environment)",
+            "marks": 0,
+            "topics": [
+              "व्यावसायिक परिवेश — अर्थ एवं महत्व",
+              "आयाम — आर्थिक, सामाजिक, राजनीतिक, क़ानूनी, तकनीकी",
+              "भारत का आर्थिक परिवेश — विशेषताएँ",
+              "नयी आर्थिक नीति 1991 — उदारीकरण, निजीकरण, वैश्वीकरण (LPG)",
+              "विमुद्रीकरण (नोटबंदी) एवं उसका प्रभाव",
+              "सरकारी नीति परिवर्तन का व्यवसाय पर प्रभाव"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "नियोजन (Planning)",
+            "marks": 0,
+            "topics": [
+              "नियोजन — अवधारणा, महत्व, विशेषताएँ",
+              "नियोजन बौद्धिक प्रक्रिया के रूप में",
+              "नियोजन प्रक्रिया — उद्देश्य निर्धारण, अनुमान विकास, विकल्पों की पहचान, मूल्यांकन, चुनाव, क्रियान्वयन, अनुसरण",
+              "नियोजन के प्रकार — उद्देश्य, रणनीति, नीति, प्रक्रिया, विधि, नियम, बजट, कार्यक्रम",
+              "नियोजन की सीमाएँ",
+              "नीति बनाम रणनीति, नियम बनाम नीति"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "संगठन (Organising)",
+            "marks": 0,
+            "topics": [
+              "संगठन — अर्थ, चरण, महत्व",
+              "संगठन संरचना — कार्यात्मक बनाम विभागीय",
+              "औपचारिक बनाम अनौपचारिक संगठन",
+              "अधिकार-अर्पण (Delegation) — तत्व (अधिकार, उत्तरदायित्व, जवाबदेही), महत्व",
+              "विकेंद्रीकरण — अर्थ, लाभ, अधिकार-अर्पण बनाम विकेंद्रीकरण",
+              "अधिकार बनाम उत्तरदायित्व"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "नियुक्तिकरण (Staffing)",
+            "marks": 0,
+            "topics": [
+              "नियुक्तिकरण — अर्थ, महत्व, प्रक्रिया",
+              "भर्ती — आंतरिक एवं बाह्य स्रोत, प्रत्येक के लाभ/अवगुण",
+              "चयन प्रक्रिया — प्रारंभिक स्क्रीनिंग, परीक्षण, साक्षात्कार, चिकित्सा, संदर्भ जाँच, नियुक्ति",
+              "प्रशिक्षण बनाम विकास",
+              "प्रशिक्षण विधियाँ — कार्य-स्थल पर, कार्य-स्थल के बाहर",
+              "कैंपस भर्ती"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "निर्देशन (Directing)",
+            "marks": 0,
+            "topics": [
+              "निर्देशन — अर्थ, महत्व, तत्व (पर्यवेक्षण, अभिप्रेरणा, नेतृत्व, संप्रेषण)",
+              "पर्यवेक्षक — भूमिका, कार्य",
+              "अभिप्रेरणा — वित्तीय बनाम ग़ैर-वित्तीय प्रोत्साहन, महत्व",
+              "मैस्लो का आवश्यकता पदानुक्रम सिद्धांत — शारीरिक, सुरक्षा, सामाजिक, सम्मान, आत्म-साकार",
+              "नेतृत्व — अच्छे नेता के गुण, शैलियाँ",
+              "संप्रेषण — औपचारिक बनाम अनौपचारिक, प्रभावी संप्रेषण में बाधाएँ"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "नियंत्रण (Controlling)",
+            "marks": 0,
+            "topics": [
+              "नियंत्रण — अर्थ, महत्व",
+              "नियंत्रण प्रक्रिया — मानक निर्धारण, कार्यप्रदर्शन मापन, मानकों से तुलना, सुधारात्मक कार्यवाही",
+              "नियोजन-नियंत्रण का संबंध (अभिन्न जुड़वाँ)",
+              "नियंत्रण की सीमाएँ",
+              "प्रभावी नियंत्रण प्रणाली के तत्व",
+              "प्रबंधकीय अंकेक्षण"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "वित्तीय प्रबंध (Financial Management)",
+            "marks": 0,
+            "topics": [
+              "वित्तीय प्रबंध — अर्थ, उद्देश्य, कार्य",
+              "वित्तीय निर्णय — निवेश (पूँजी बजट), वित्तपोषण, लाभांश",
+              "पूँजी संरचना — अर्थ, चुनाव को प्रभावित करने वाले कारक",
+              "स्थिर पूँजी बनाम कार्यशील पूँजी",
+              "स्थिर पूँजी एवं कार्यशील पूँजी की आवश्यकता को प्रभावित करने वाले कारक",
+              "वित्तीय नियोजन — अर्थ, महत्व, सीमाएँ"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "वित्तीय बाज़ार / पूँजी बाज़ार (Financial Markets)",
+            "marks": 0,
+            "topics": [
+              "वित्तीय बाज़ार — अर्थ, कार्य",
+              "मुद्रा बाज़ार बनाम पूँजी बाज़ार",
+              "प्राथमिक बाज़ार (नव-निर्गमन बाज़ार) बनाम द्वितीयक बाज़ार (स्टॉक एक्सचेंज)",
+              "स्टॉक एक्सचेंज — कार्य, BSE, NSE",
+              "SEBI — उद्देश्य, कार्य, प्रयोजन",
+              "मुद्रा बाज़ार — केंद्रीय बैंक की भूमिका"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "विपणन प्रबंध (Marketing Management)",
+            "marks": 0,
+            "topics": [
+              "विपणन — अर्थ, विशेषताएँ, कार्य",
+              "विपणन बनाम विक्रय",
+              "विपणन मिश्रण — 4P (उत्पाद, मूल्य, स्थान, संवर्धन)",
+              "उत्पाद — ब्रांडिंग, पैकिंग, लेबलिंग",
+              "मूल्य निर्धारण — कारक",
+              "संवर्धन — विज्ञापन, व्यक्तिगत विक्रय, बिक्री संवर्धन, जनसंपर्क",
+              "विज्ञापन — माध्यम, लाभ, आपत्तियाँ",
+              "भौतिक वितरण — घटक"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "उपभोक्ता संरक्षण (Consumer Protection)",
+            "marks": 0,
+            "topics": [
+              "उपभोक्ता — उपभोक्ता संरक्षण अधिनियम 2019 के अनुसार अर्थ",
+              "उपभोक्ता संरक्षण अधिनियम 2019 — विशेषताएँ, उद्देश्य",
+              "उपभोक्ता संरक्षण का महत्व",
+              "उपभोक्ता अधिकार (केनेडी/CPA के अंतर्गत 6 अधिकार) — सुरक्षा, सूचना, चयन, सुनवाई, क्षतिपूर्ति, उपभोक्ता शिक्षा",
+              "उपभोक्ता उत्तरदायित्व",
+              "क्षतिपूर्ति तंत्र — ज़िला उपभोक्ता आयोग, राज्य आयोग, राष्ट्रीय आयोग (3 स्तर)",
+              "उपभोक्ता संगठनों एवं गैर-सरकारी संगठनों की भूमिका"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "प्रबंध — प्रकृति एवं महत्व (Nature and Significance of Management)",
+      "unit_or_chapter": "chapter",
+      "book": "व्यावसायिक अध्ययन (Business Studies)",
+      "unit_id": 1,
+      "unit_name": "प्रबंध — प्रकृति एवं महत्व (Nature and Significance of Management)",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "प्रबंध की परिभाषा, अवधारणा एवं विशेषताएँ",
+        "प्रबंध — कला, विज्ञान एवं व्यवसाय के रूप में",
+        "प्रबंध के स्तर — उच्च, मध्य, निम्न (पर्यवेक्षी)",
+        "प्रबंध के कार्य — नियोजन, संगठन, नियुक्तिकरण, निर्देशन, नियंत्रण",
+        "समन्वय — प्रबंध का सार, विशेषताएँ, महत्व",
+        "प्रबंध का महत्व"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "प्रबंध का पहला कार्य (MCQ — नियोजन), प्रबंध की विशेषताएँ (2 अंक), उच्च/निम्न स्तर के कार्य (3 अंक), प्रबंध का महत्व (4 अंक), प्रबंध कला है या विज्ञान (4 अंक), समन्वय की विशेषताएँ/महत्व (3-4 अंक)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [],
+      "hindi_name": ""
+    },
+    {
+      "chapter_id": 2,
+      "name": "प्रबंध के सिद्धांत (Principles of Management)",
+      "unit_or_chapter": "chapter",
+      "book": "व्यावसायिक अध्ययन (Business Studies)",
+      "unit_id": 2,
+      "unit_name": "प्रबंध के सिद्धांत (Principles of Management)",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "प्रबंध के सिद्धांतों का अर्थ एवं प्रकृति",
+        "फेयोल के 14 सिद्धांत — कार्य-विभाजन, अधिकार एवं उत्तरदायित्व, अनुशासन, आदेश की एकता, निर्देश की एकता, व्यक्तिगत हित का गौण, पारिश्रमिक, केंद्रीकरण एवं विकेंद्रीकरण, अनुक्रमानुक्रम श्रृंखला, व्यवस्था, समानता, कर्मचारियों की स्थिरता, पहल, सामूहिक भावना",
+        "टेलर का वैज्ञानिक प्रबंध — अनुमान से नहीं विज्ञान, सामंजस्य न कि असहमति, सहयोग न कि व्यक्तिवाद, श्रमिकों का विकास",
+        "टेलर की तकनीकें — कार्यात्मक फ़ोरमैनशिप, मानकीकरण, सरलीकरण, वैज्ञानिक अध्ययन, विभेदक मज़दूरी, मानसिक क्रांति",
+        "फेयोल बनाम टेलर की तुलना"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "फेयोल के 14 सिद्धांत (4 अंक — 'कोई चार'), टेलर के वैज्ञानिक प्रबंध सिद्धांत (3-4 अंक), मानसिक क्रांति/विभेदक मज़दूरी (लघु), आदेश की एकता बनाम निर्देश की एकता (3 अंक), फेयोल-टेलर समानताएँ/अंतर (4 अंक), सिद्धांतों की विशेषताएँ (2 अंक)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [],
+      "hindi_name": ""
+    },
+    {
+      "chapter_id": 3,
+      "name": "व्यावसायिक परिवेश (Business Environment)",
+      "unit_or_chapter": "chapter",
+      "book": "व्यावसायिक अध्ययन (Business Studies)",
+      "unit_id": 3,
+      "unit_name": "व्यावसायिक परिवेश (Business Environment)",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "व्यावसायिक परिवेश — अर्थ एवं महत्व",
+        "आयाम — आर्थिक, सामाजिक, राजनीतिक, क़ानूनी, तकनीकी",
+        "भारत का आर्थिक परिवेश — विशेषताएँ",
+        "नयी आर्थिक नीति 1991 — उदारीकरण, निजीकरण, वैश्वीकरण (LPG)",
+        "विमुद्रीकरण (नोटबंदी) एवं उसका प्रभाव",
+        "सरकारी नीति परिवर्तन का व्यवसाय पर प्रभाव"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "व्यावसायिक परिवेश की विशेषताएँ/अर्थ (2 अंक), LPG की परिभाषाएँ (प्रत्येक 2 अंक), विमुद्रीकरण के प्रभाव (2 अंक), भारत का आर्थिक परिवेश (2-3 अंक), तकनीकी परिवेश (2 अंक), भावनात्मक परिवेश व्यवसाय परिवेश का भाग (सत्य/असत्य)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [],
+      "hindi_name": ""
+    },
+    {
+      "chapter_id": 4,
+      "name": "नियोजन (Planning)",
+      "unit_or_chapter": "chapter",
+      "book": "व्यावसायिक अध्ययन (Business Studies)",
+      "unit_id": 4,
+      "unit_name": "नियोजन (Planning)",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "नियोजन — अवधारणा, महत्व, विशेषताएँ",
+        "नियोजन बौद्धिक प्रक्रिया के रूप में",
+        "नियोजन प्रक्रिया — उद्देश्य निर्धारण, अनुमान विकास, विकल्पों की पहचान, मूल्यांकन, चुनाव, क्रियान्वयन, अनुसरण",
+        "नियोजन के प्रकार — उद्देश्य, रणनीति, नीति, प्रक्रिया, विधि, नियम, बजट, कार्यक्रम",
+        "नियोजन की सीमाएँ",
+        "नीति बनाम रणनीति, नियम बनाम नीति"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "नियोजन की विशेषताएँ (2-4 अंक), नियोजन के उद्देश्य (2 अंक), नियोजन प्रक्रिया के 4 चरण (4 अंक), नीति बनाम रणनीति (4 अंक), नियम बनाम नीति (2 अंक), नियोजन की सीमाएँ (4 अंक), रणनीति का अर्थ (2 अंक), बजट का अर्थ (2 अंक), कार्यक्रम का अर्थ (2 अंक), नियोजन-नियंत्रण संबंध (3 अंक)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [],
+      "hindi_name": ""
+    },
+    {
+      "chapter_id": 5,
+      "name": "संगठन (Organising)",
+      "unit_or_chapter": "chapter",
+      "book": "व्यावसायिक अध्ययन (Business Studies)",
+      "unit_id": 5,
+      "unit_name": "संगठन (Organising)",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "संगठन — अर्थ, चरण, महत्व",
+        "संगठन संरचना — कार्यात्मक बनाम विभागीय",
+        "औपचारिक बनाम अनौपचारिक संगठन",
+        "अधिकार-अर्पण (Delegation) — तत्व (अधिकार, उत्तरदायित्व, जवाबदेही), महत्व",
+        "विकेंद्रीकरण — अर्थ, लाभ, अधिकार-अर्पण बनाम विकेंद्रीकरण",
+        "अधिकार बनाम उत्तरदायित्व"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "संगठन का अर्थ/महत्व (2 अंक), औपचारिक बनाम अनौपचारिक संगठन अंतर (4 अंक — बहुत प्रचलित), कार्यात्मक बनाम विभागीय संरचना (2-4 अंक), अधिकार-अर्पण का अर्थ/महत्व (2-4 अंक), विकेंद्रीकरण का अर्थ/लाभ (2 अंक), अधिकार-अर्पण बनाम विकेंद्रीकरण (4 अंक), अधिकार बनाम उत्तरदायित्व (3 अंक), संगठन के उद्देश्य (4 अंक)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [],
+      "hindi_name": ""
+    },
+    {
+      "chapter_id": 6,
+      "name": "नियुक्तिकरण (Staffing)",
+      "unit_or_chapter": "chapter",
+      "book": "व्यावसायिक अध्ययन (Business Studies)",
+      "unit_id": 6,
+      "unit_name": "नियुक्तिकरण (Staffing)",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "नियुक्तिकरण — अर्थ, महत्व, प्रक्रिया",
+        "भर्ती — आंतरिक एवं बाह्य स्रोत, प्रत्येक के लाभ/अवगुण",
+        "चयन प्रक्रिया — प्रारंभिक स्क्रीनिंग, परीक्षण, साक्षात्कार, चिकित्सा, संदर्भ जाँच, नियुक्ति",
+        "प्रशिक्षण बनाम विकास",
+        "प्रशिक्षण विधियाँ — कार्य-स्थल पर, कार्य-स्थल के बाहर",
+        "कैंपस भर्ती"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "भर्ती के आंतरिक स्रोत (2 अंक), भर्ती के बाह्य स्रोत (2-4 अंक), भर्ती बनाम चयन अंतर (3 अंक), चयन प्रक्रिया के चरण (3 अंक), प्रशिक्षण बनाम विकास (2 अंक), प्रशिक्षण की विशेषताएँ (2 अंक), नियुक्तिकरण का महत्व (3 अंक), नियुक्तिकरण प्रक्रिया (3 अंक), कैंपस भर्ती (1 अंक — एक शब्द), कार्य-स्थल प्रशिक्षण (1 अंक)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [],
+      "hindi_name": ""
+    },
+    {
+      "chapter_id": 7,
+      "name": "निर्देशन (Directing)",
+      "unit_or_chapter": "chapter",
+      "book": "व्यावसायिक अध्ययन (Business Studies)",
+      "unit_id": 7,
+      "unit_name": "निर्देशन (Directing)",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "निर्देशन — अर्थ, महत्व, तत्व (पर्यवेक्षण, अभिप्रेरणा, नेतृत्व, संप्रेषण)",
+        "पर्यवेक्षक — भूमिका, कार्य",
+        "अभिप्रेरणा — वित्तीय बनाम ग़ैर-वित्तीय प्रोत्साहन, महत्व",
+        "मैस्लो का आवश्यकता पदानुक्रम सिद्धांत — शारीरिक, सुरक्षा, सामाजिक, सम्मान, आत्म-साकार",
+        "नेतृत्व — अच्छे नेता के गुण, शैलियाँ",
+        "संप्रेषण — औपचारिक बनाम अनौपचारिक, प्रभावी संप्रेषण में बाधाएँ"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "निर्देशन की विशेषताएँ/तत्व (2 अंक), अभिप्रेरणा का अर्थ/परिभाषा (2 अंक), मैस्लो का आवश्यकता पदानुक्रम (3 अंक), अच्छे नेता के गुण (3 अंक), अभिप्रेरणा का महत्व (3 अंक), संप्रेषण की बाधाएँ (4 अंक), वित्तीय बनाम ग़ैर-वित्तीय अभिप्रेरणा (3 अंक), पर्यवेक्षक के कार्य (4 अंक), औपचारिक बनाम अनौपचारिक संप्रेषण (2 अंक), निर्देशन के सिद्धांत (3 अंक), प्रभावी संप्रेषण में सुधार (3 अंक)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [],
+      "hindi_name": ""
+    },
+    {
+      "chapter_id": 8,
+      "name": "नियंत्रण (Controlling)",
+      "unit_or_chapter": "chapter",
+      "book": "व्यावसायिक अध्ययन (Business Studies)",
+      "unit_id": 8,
+      "unit_name": "नियंत्रण (Controlling)",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "नियंत्रण — अर्थ, महत्व",
+        "नियंत्रण प्रक्रिया — मानक निर्धारण, कार्यप्रदर्शन मापन, मानकों से तुलना, सुधारात्मक कार्यवाही",
+        "नियोजन-नियंत्रण का संबंध (अभिन्न जुड़वाँ)",
+        "नियंत्रण की सीमाएँ",
+        "प्रभावी नियंत्रण प्रणाली के तत्व",
+        "प्रबंधकीय अंकेक्षण"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "नियंत्रण का अर्थ (2 अंक), नियंत्रण की सीमाएँ (2-3 अंक), नियंत्रण का महत्व (3 अंक), नियंत्रण प्रक्रिया के चरण (3 अंक), नियोजन-नियंत्रण संबंध (3 अंक), प्रभावी नियंत्रण प्रणाली के तत्व (3 अंक), नियंत्रण के उद्देश्य (3 अंक), प्रबंधकीय अंकेक्षण (1 अंक), नियंत्रण का पहला चरण = मानक निर्धारण (1 अंक — एक शब्द)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [],
+      "hindi_name": ""
+    },
+    {
+      "chapter_id": 9,
+      "name": "वित्तीय प्रबंध (Financial Management)",
+      "unit_or_chapter": "chapter",
+      "book": "व्यावसायिक अध्ययन (Business Studies)",
+      "unit_id": 9,
+      "unit_name": "वित्तीय प्रबंध (Financial Management)",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "वित्तीय प्रबंध — अर्थ, उद्देश्य, कार्य",
+        "वित्तीय निर्णय — निवेश (पूँजी बजट), वित्तपोषण, लाभांश",
+        "पूँजी संरचना — अर्थ, चुनाव को प्रभावित करने वाले कारक",
+        "स्थिर पूँजी बनाम कार्यशील पूँजी",
+        "स्थिर पूँजी एवं कार्यशील पूँजी की आवश्यकता को प्रभावित करने वाले कारक",
+        "वित्तीय नियोजन — अर्थ, महत्व, सीमाएँ"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "वित्तीय प्रबंध का अर्थ (2 अंक), वित्तीय प्रबंध के उद्देश्य (2-3 अंक), वित्तीय प्रबंध के कार्य (4 अंक), स्थिर पूँजी का अर्थ एवं स्रोत (3 अंक), स्थिर बनाम कार्यशील पूँजी अंतर (4 अंक), पूँजी संरचना के कारक (3 अंक), वित्तपोषण निर्णय के कारक (3 अंक), पूँजी बजट के कारक (2 अंक), कार्यशील पूँजी का अर्थ (2 अंक), वित्तीय नियोजन का महत्व (3-4 अंक), वित्तीय नियोजन की सीमाएँ (3 अंक), बजट (2 अंक)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [],
+      "hindi_name": ""
+    },
+    {
+      "chapter_id": 10,
+      "name": "वित्तीय बाज़ार / पूँजी बाज़ार (Financial Markets)",
+      "unit_or_chapter": "chapter",
+      "book": "व्यावसायिक अध्ययन (Business Studies)",
+      "unit_id": 10,
+      "unit_name": "वित्तीय बाज़ार / पूँजी बाज़ार (Financial Markets)",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "वित्तीय बाज़ार — अर्थ, कार्य",
+        "मुद्रा बाज़ार बनाम पूँजी बाज़ार",
+        "प्राथमिक बाज़ार (नव-निर्गमन बाज़ार) बनाम द्वितीयक बाज़ार (स्टॉक एक्सचेंज)",
+        "स्टॉक एक्सचेंज — कार्य, BSE, NSE",
+        "SEBI — उद्देश्य, कार्य, प्रयोजन",
+        "मुद्रा बाज़ार — केंद्रीय बैंक की भूमिका"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "स्टॉक एक्सचेंज के कार्य (3 अंक), प्राथमिक बनाम द्वितीयक बाज़ार (3 अंक), SEBI के उद्देश्य/कार्य (3 अंक), मुद्रा बाज़ार बनाम पूँजी बाज़ार (3 अंक), वित्तीय बाज़ार के कार्य (3 अंक), द्वितीयक बाज़ार = स्टॉक एक्सचेंज (1 अंक), SEBI मुख्यालय = मुंबई (सही जोड़ी), सुरक्षा बाज़ार का नियंत्रण SEBI द्वारा (1 अंक)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [],
+      "hindi_name": ""
+    },
+    {
+      "chapter_id": 11,
+      "name": "विपणन प्रबंध (Marketing Management)",
+      "unit_or_chapter": "chapter",
+      "book": "व्यावसायिक अध्ययन (Business Studies)",
+      "unit_id": 11,
+      "unit_name": "विपणन प्रबंध (Marketing Management)",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "विपणन — अर्थ, विशेषताएँ, कार्य",
+        "विपणन बनाम विक्रय",
+        "विपणन मिश्रण — 4P (उत्पाद, मूल्य, स्थान, संवर्धन)",
+        "उत्पाद — ब्रांडिंग, पैकिंग, लेबलिंग",
+        "मूल्य निर्धारण — कारक",
+        "संवर्धन — विज्ञापन, व्यक्तिगत विक्रय, बिक्री संवर्धन, जनसंपर्क",
+        "विज्ञापन — माध्यम, लाभ, आपत्तियाँ",
+        "भौतिक वितरण — घटक"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "विपणन का अर्थ/कार्य (2-4 अंक), विपणन बनाम विक्रय (4 अंक — बहुत प्रचलित), ब्रांडिंग का अर्थ/विशेषताएँ (2 अंक), पैकिंग के कार्य (2 अंक), लेबलिंग के कार्य (2 अंक), विज्ञापन के माध्यम (4 अंक), विज्ञापन के लाभ (3-4 अंक), विज्ञापन बनाम व्यक्तिगत विक्रय (4 अंक), बिक्री संवर्धन की विधियाँ (4 अंक), जनसंपर्क की भूमिका (4 अंक), मूल्य निर्धारण के कारक (2 अंक), भौतिक वितरण के घटक (2 अंक), इको-मार्क योजना (2 अंक)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [],
+      "hindi_name": ""
+    },
+    {
+      "chapter_id": 12,
+      "name": "उपभोक्ता संरक्षण (Consumer Protection)",
+      "unit_or_chapter": "chapter",
+      "book": "व्यावसायिक अध्ययन (Business Studies)",
+      "unit_id": 12,
+      "unit_name": "उपभोक्ता संरक्षण (Consumer Protection)",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "उपभोक्ता — उपभोक्ता संरक्षण अधिनियम 2019 के अनुसार अर्थ",
+        "उपभोक्ता संरक्षण अधिनियम 2019 — विशेषताएँ, उद्देश्य",
+        "उपभोक्ता संरक्षण का महत्व",
+        "उपभोक्ता अधिकार (केनेडी/CPA के अंतर्गत 6 अधिकार) — सुरक्षा, सूचना, चयन, सुनवाई, क्षतिपूर्ति, उपभोक्ता शिक्षा",
+        "उपभोक्ता उत्तरदायित्व",
+        "क्षतिपूर्ति तंत्र — ज़िला उपभोक्ता आयोग, राज्य आयोग, राष्ट्रीय आयोग (3 स्तर)",
+        "उपभोक्ता संगठनों एवं गैर-सरकारी संगठनों की भूमिका"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "उपभोक्ता संरक्षण अधिनियम वर्ष = 2019 (MCQ), उपभोक्ता अधिकार — कोई 2 (2 अंक), उपभोक्ता उत्तरदायित्व (2 अंक), उपभोक्ता की समस्याएँ (2 अंक), CPA 2019 के अनुसार उपभोक्ता की परिभाषा (2 अंक), उपभोक्ता संरक्षण का महत्व (2 अंक), उपभोक्ता मंच के स्तर = 3 (1 अंक एक-शब्द), ज़िला उपभोक्ता आयोग के शिकायत मूल्य की सीमा (1 अंक), उपभोक्ता संरक्षण के तरीक़े (2 अंक), CPA क्यों लागू किया गया (2 अंक), इको-मार्क योजना (2 अंक)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [],
+      "hindi_name": ""
+    }
+  ],
+  "chapter_facts": {
+    "note": "Business Studies Class 12 — 12 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "प्रश्न 6 से 23 तक सभी प्रश्नों में internal choice (अथवा / OR) मिलता है। प्रश्न 1-5 (वस्तुनिष्ठ) में कोई choice नहीं — सब अनिवार्य।",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [
+      "प्रबंध का पहला कार्य (नियोजन) (Q: A (MCQ), 1)",
+      "प्रबंध की विशेषताएँ (2 लिखिए) (Q: B, 2)",
+      "फेयोल के 14 सिद्धांत — 'कोई चार' (Q: D, 4)",
+      "उदारीकरण / निजीकरण / वैश्वीकरण का अर्थ (Q: B, 2)",
+      "नियोजन की विशेषताएँ / प्रक्रिया / उद्देश्य (Q: B या D, 2-4)",
+      "औपचारिक बनाम अनौपचारिक संगठन अंतर (Q: D, 4)",
+      "कार्यात्मक बनाम विभागीय संरचना (Q: B या D, 2-4)",
+      "अधिकार-अर्पण बनाम विकेंद्रीकरण (Q: D, 4)",
+      "भर्ती के आंतरिक बनाम बाह्य स्रोत (Q: B या D, 2-4)",
+      "भर्ती बनाम चयन अंतर (Q: C, 3)",
+      "अच्छे नेता के गुण (Q: C, 3)",
+      "मैस्लो का आवश्यकता पदानुक्रम (Q: C, 3)",
+      "नियंत्रण के चरण / सीमाएँ (Q: C, 3)",
+      "नियोजन-नियंत्रण अभिन्न संबंध (Q: C, 3)",
+      "स्थिर बनाम कार्यशील पूँजी (Q: D, 4)",
+      "वित्तीय नियोजन का महत्व (Q: C या D, 3-4)",
+      "SEBI के कार्य / उद्देश्य (Q: C, 3)",
+      "प्राथमिक बनाम द्वितीयक बाज़ार (Q: C, 3)",
+      "विपणन बनाम विक्रय (Q: D, 4)",
+      "विज्ञापन के लाभ / माध्यम (Q: D, 4)",
+      "उपभोक्ता अधिकार (कोई 2) (Q: B, 2)",
+      "उपभोक्ता संरक्षण अधिनियम वर्ष (2019) (Q: A (MCQ), 1)"
+    ],
+    "chapters_mostly_theory": [
+      "प्रबंध — प्रकृति एवं महत्व (Nature and Significance of Management)",
+      "प्रबंध के सिद्धांत (Principles of Management)",
+      "व्यावसायिक परिवेश (Business Environment)",
+      "नियोजन (Planning)",
+      "संगठन (Organising)",
+      "नियुक्तिकरण (Staffing)",
+      "निर्देशन (Directing)",
+      "नियंत्रण (Controlling)",
+      "वित्तीय प्रबंध (Financial Management)",
+      "वित्तीय बाज़ार / पूँजी बाज़ार (Financial Markets)",
+      "विपणन प्रबंध (Marketing Management)",
+      "उपभोक्ता संरक्षण (Consumer Protection)"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "प्रबंध — प्रकृति एवं महत्व (Nature and Significance of Management)",
+      "प्रबंध के सिद्धांत (Principles of Management)",
+      "व्यावसायिक परिवेश (Business Environment)",
+      "नियोजन (Planning)",
+      "संगठन (Organising)",
+      "नियुक्तिकरण (Staffing)",
+      "निर्देशन (Directing)",
+      "नियंत्रण (Controlling)",
+      "वित्तीय प्रबंध (Financial Management)",
+      "वित्तीय बाज़ार / पूँजी बाज़ार (Financial Markets)",
+      "विपणन प्रबंध (Marketing Management)",
+      "उपभोक्ता संरक्षण (Consumer Protection)"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "प्रबंध का पहला कार्य (नियोजन) (Q: A (MCQ), 1)",
+      "प्रबंध की विशेषताएँ (2 लिखिए) (Q: B, 2)",
+      "फेयोल के 14 सिद्धांत — 'कोई चार' (Q: D, 4)",
+      "उदारीकरण / निजीकरण / वैश्वीकरण का अर्थ (Q: B, 2)",
+      "नियोजन की विशेषताएँ / प्रक्रिया / उद्देश्य (Q: B या D, 2-4)",
+      "औपचारिक बनाम अनौपचारिक संगठन अंतर (Q: D, 4)",
+      "कार्यात्मक बनाम विभागीय संरचना (Q: B या D, 2-4)",
+      "अधिकार-अर्पण बनाम विकेंद्रीकरण (Q: D, 4)",
+      "भर्ती के आंतरिक बनाम बाह्य स्रोत (Q: B या D, 2-4)",
+      "भर्ती बनाम चयन अंतर (Q: C, 3)",
+      "अच्छे नेता के गुण (Q: C, 3)",
+      "मैस्लो का आवश्यकता पदानुक्रम (Q: C, 3)",
+      "नियंत्रण के चरण / सीमाएँ (Q: C, 3)",
+      "नियोजन-नियंत्रण अभिन्न संबंध (Q: C, 3)",
+      "स्थिर बनाम कार्यशील पूँजी (Q: D, 4)",
+      "वित्तीय नियोजन का महत्व (Q: C या D, 3-4)",
+      "SEBI के कार्य / उद्देश्य (Q: C, 3)",
+      "प्राथमिक बनाम द्वितीयक बाज़ार (Q: C, 3)",
+      "विपणन बनाम विक्रय (Q: D, 4)",
+      "विज्ञापन के लाभ / माध्यम (Q: D, 4)",
+      "उपभोक्ता अधिकार (कोई 2) (Q: B, 2)",
+      "उपभोक्ता संरक्षण अधिनियम वर्ष (2019) (Q: A (MCQ), 1)"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "key_concepts_masterlist": {
+      "note": "ये संक्षिप्त परिभाषाएँ/तथ्य MCQ, रिक्त स्थान, एक-शब्द खंड में सीधे आते हैं। सब याद कीजिए।",
+      "concepts": [
+        {
+          "concept": "प्रबंध का पहला कार्य",
+          "answer": "नियोजन (Planning)",
+          "chapter": 1
+        },
+        {
+          "concept": "प्रबंध का अंतिम कार्य",
+          "answer": "नियंत्रण (Controlling)",
+          "chapter": 1
+        },
+        {
+          "concept": "प्रबंध के स्तर",
+          "answer": "तीन (उच्च, मध्य, निम्न)",
+          "chapter": 1
+        },
+        {
+          "concept": "वैज्ञानिक प्रबंध के जनक",
+          "answer": "F.W. टेलर",
+          "chapter": 2
+        },
+        {
+          "concept": "आधुनिक/सामान्य प्रबंध के जनक",
+          "answer": "हेनरी फेयोल",
+          "chapter": 2
+        },
+        {
+          "concept": "फेयोल के सिद्धांतों की संख्या",
+          "answer": "14",
+          "chapter": 2
+        },
+        {
+          "concept": "फेयोल की पुस्तक",
+          "answer": "General and Industrial Management",
+          "chapter": 2
+        },
+        {
+          "concept": "टेलर की पुस्तक",
+          "answer": "Principles of Scientific Management",
+          "chapter": 2
+        },
+        {
+          "concept": "भारत की नयी आर्थिक नीति",
+          "answer": "1991",
+          "chapter": 3
+        },
+        {
+          "concept": "व्यावसायिक परिवेश के घटक",
+          "answer": "आर्थिक, सामाजिक, राजनीतिक, क़ानूनी, तकनीकी",
+          "chapter": 3
+        },
+        {
+          "concept": "नियोजन का पहला चरण",
+          "answer": "उद्देश्य निर्धारण",
+          "chapter": 4
+        },
+        {
+          "concept": "नियोजन में कठोर निर्देश",
+          "answer": "नियम (Rules)",
+          "chapter": 4
+        },
+        {
+          "concept": "लिखित नियमों वाला संगठन",
+          "answer": "औपचारिक संगठन",
+          "chapter": 5
+        },
+        {
+          "concept": "अफ़वाहों/grapevine वाला संगठन",
+          "answer": "अनौपचारिक संगठन",
+          "chapter": 5
+        },
+        {
+          "concept": "अधिकार-अर्पण की दिशा",
+          "answer": "ऊपर से नीचे",
+          "chapter": 5
+        },
+        {
+          "concept": "रोज़गार कार्यालय किस भर्ती का स्रोत है",
+          "answer": "बाह्य भर्ती",
+          "chapter": 6
+        },
+        {
+          "concept": "पदोन्नति किस भर्ती का स्रोत है",
+          "answer": "आंतरिक भर्ती",
+          "chapter": 6
+        },
+        {
+          "concept": "शैक्षणिक संस्थानों में भर्ती",
+          "answer": "कैंपस भर्ती",
+          "chapter": 6
+        },
+        {
+          "concept": "कार्य-स्थल पर दिया गया प्रशिक्षण",
+          "answer": "कार्य-स्थल प्रशिक्षण (On-the-job)",
+          "chapter": 6
+        },
+        {
+          "concept": "श्रमिकों का समूह नेता",
+          "answer": "पर्यवेक्षक",
+          "chapter": 7
+        },
+        {
+          "concept": "पर्यवेक्षी प्रबंध स्तर",
+          "answer": "निम्न स्तर",
+          "chapter": 7
+        },
+        {
+          "concept": "नियंत्रण का पहला चरण",
+          "answer": "मानक निर्धारण / मानकों की स्थापना",
+          "chapter": 8
+        },
+        {
+          "concept": "नियंत्रण में सुधारात्मक कार्यवाही",
+          "answer": "विचलन विश्लेषण",
+          "chapter": 8
+        },
+        {
+          "concept": "स्थिर परिसंपत्तियों के लिए प्रयुक्त पूँजी",
+          "answer": "स्थिर पूँजी",
+          "chapter": 9
+        },
+        {
+          "concept": "कच्चे माल के लिए प्रयुक्त पूँजी",
+          "answer": "कार्यशील पूँजी",
+          "chapter": 9
+        },
+        {
+          "concept": "व्यवसाय की जीवन-रेखा",
+          "answer": "पूँजी / वित्त",
+          "chapter": 9
+        },
+        {
+          "concept": "मुद्रा बाज़ार का मुख्य धुरी",
+          "answer": "केंद्रीय बैंक (RBI)",
+          "chapter": 10
+        },
+        {
+          "concept": "द्वितीयक बाज़ार का अन्य नाम",
+          "answer": "स्टॉक एक्सचेंज",
+          "chapter": 10
+        },
+        {
+          "concept": "प्रतिभूति बाज़ार का नियंत्रण",
+          "answer": "SEBI",
+          "chapter": 10
+        },
+        {
+          "concept": "SEBI का मुख्यालय",
+          "answer": "मुंबई",
+          "chapter": 10
+        },
+        {
+          "concept": "BSE का पूरा नाम",
+          "answer": "Bombay Stock Exchange",
+          "chapter": 10
+        },
+        {
+          "concept": "उत्पाद की पहचान स्थापित करने वाला",
+          "answer": "ब्रांडिंग",
+          "chapter": 11
+        },
+        {
+          "concept": "उत्पाद को सुरक्षा देने वाला",
+          "answer": "पैकिंग",
+          "chapter": 11
+        },
+        {
+          "concept": "ग्राहक से व्यक्तिगत संपर्क",
+          "answer": "व्यक्तिगत विक्रय",
+          "chapter": 11
+        },
+        {
+          "concept": "बिक्री बढ़ाने की अल्पकालिक तकनीक",
+          "answer": "बिक्री संवर्धन",
+          "chapter": 11
+        },
+        {
+          "concept": "लिखित/मुद्रित/बोला हुआ/सचित्र विक्रय-कौशल",
+          "answer": "विज्ञापन",
+          "chapter": 11
+        },
+        {
+          "concept": "मुफ़्त नमूना वितरण किस तकनीक का भाग है",
+          "answer": "बिक्री संवर्धन",
+          "chapter": 11
+        },
+        {
+          "concept": "उपभोक्ता संरक्षण अधिनियम का वर्ष",
+          "answer": "2019 (1986 के अधिनियम का प्रतिस्थापन)",
+          "chapter": 12
+        },
+        {
+          "concept": "उपभोक्ता मंच के स्तर",
+          "answer": "तीन (ज़िला, राज्य, राष्ट्रीय)",
+          "chapter": 12
+        },
+        {
+          "concept": "ज़िला उपभोक्ता आयोग की सीमा",
+          "answer": "₹1 करोड़ तक (2019 अधिनियम के अनुसार)",
+          "chapter": 12
+        },
+        {
+          "concept": "केनेडी के उपभोक्ता अधिकार (1962)",
+          "answer": "4 अधिकार — सुरक्षा, सूचना, चयन, सुनवाई",
+          "chapter": 12
+        },
+        {
+          "concept": "CPA के अंतर्गत कुल उपभोक्ता अधिकार",
+          "answer": "6 अधिकार",
+          "chapter": 12
+        }
+      ]
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Business Studies.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not applicable for Business Studies.",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Business Studies",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Business Studies",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Business Studies — theory-only.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "व्यावसायिक अध्ययन commerce stream में सबसे scoring विषय है — वैचारिक स्पष्टता + प्रस्तुतीकरण = आसानी से 70+ अंक।",
+    "easy_percent": 45,
+    "medium_percent": 40,
+    "hard_percent": 15,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "खंड A के 32 प्रश्न = 32 अंक (पेपर का 40%) — सभी attempt कीजिए, कोई negative marking नहीं",
+      "'अथवा' विकल्प हमेशा पढ़िए — कभी आसान विकल्प चुनिए",
+      "अध्याय 5 (संगठन) + अध्याय 11 (विपणन) से 4-अंक प्रश्न हर साल आते हैं — इन्हें तैयार कीजिए",
+      "अंतर वाले प्रश्नों में तालिका प्रारूप use कीजिए — साफ़-सुथरा एवं अंक-अनुकूल",
+      "फेयोल के सिद्धांत याद करने के लिए mnemonic बनाइए — 14 सिद्धांतों का acronym",
+      "मैस्लो का पिरामिड चित्र बनाइए — 3-अंक में पूरे अंक",
+      "उपभोक्ता संरक्षण में 2019 अधिनियम याद रखिए (2013 ग़लत, 1986 पुराना)",
+      "नयी आर्थिक नीति = 1991, उपभोक्ता संरक्षण अधिनियम = 2019 — ये 2 तिथियाँ MCQ में पक्की",
+      "शब्द-सीमा पार मत कीजिए — 4-अंक में 120 शब्दों से ज़्यादा लिखने से समय बर्बाद",
+      "Set संख्या एवं प्रश्न संख्या हर पृष्ठ पर लिखिए",
+      "हिंदी-अंग्रेज़ी में संदेह हो तो हिंदी version देखिए — वही अंतिम माना जाएगा",
+      "[Night before] Key concepts masterlist की revision कीजिए — 40 तथ्य 30 मिनट में",
+      "[Night before] फेयोल के 14 सिद्धांतों के नाम + टेलर के 4 सिद्धांत",
+      "[Night before] उपभोक्ता अधिकार (6) + उपभोक्ता उत्तरदायित्व (5)",
+      "[Night before] औपचारिक बनाम अनौपचारिक, कार्यात्मक बनाम विभागीय, अधिकार-अर्पण बनाम विकेंद्रीकरण, विपणन बनाम विक्रय — 4 महत्वपूर्ण तुलनाएँ",
+      "[Night before] नियोजन प्रक्रिया (7 चरण), नियंत्रण प्रक्रिया (4 चरण), चयन प्रक्रिया (7 चरण)",
+      "[Night before] अध्याय 10 के सभी पद (BSE, NSE, SEBI, प्राथमिक, द्वितीयक)"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "पेपर पढ़िए — खंड A के 32 वस्तुनिष्ठ प्रश्न scan कीजिए। खंड B/C/D में 'अथवा' विकल्प देख लीजिए — कौन-सा आसान है तय कीजिए।"
+      },
+      {
+        "section_id": "section_A_40min",
+        "recommended_minutes": 0,
+        "note": "32 वस्तुनिष्ठ प्रश्न × ~1.25 मिनट। MCQ + रिक्त स्थान = प्रत्येक 30 सेकंड। सही जोड़ी + एक-शब्द = प्रत्येक 1 मिनट।"
+      },
+      {
+        "section_id": "section_B_50min",
+        "recommended_minutes": 0,
+        "note": "10 लघु उत्तर × 5 मिनट। 30 शब्द सीमा का सख़्त पालन।"
+      },
+      {
+        "section_id": "section_C_35min",
+        "recommended_minutes": 0,
+        "note": "4 मध्यम उत्तर × ~9 मिनट। 75 शब्द — 3 बिंदु व्याख्या।"
+      },
+      {
+        "section_id": "section_D_45min",
+        "recommended_minutes": 0,
+        "note": "4 दीर्घ उत्तर × ~11 मिनट। 120 शब्द — उदाहरणों सहित 4 बिंदु।"
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "प्रश्न संख्याएँ जाँचिए, set संख्या verify कीजिए, spelling errors सुधारिए।"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 27 marks",
+        "target_marks": 27,
+        "strategy": "खंड A (32 में से 20+ आसान) + खंड B में 4-5 आसान 2-अंक के उत्तर (8-10 अंक) = 28-30 अंक पक्के।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "खंड A पूरा attempt कीजिए — 32 वस्तुनिष्ठ में से 20+ सही करना आसान",
+          "अध्याय 1, 3, 12 सरल अध्याय — परिभाषाएँ याद कीजिए",
+          "Key concepts masterlist याद कीजिए — रिक्त स्थान + MCQ + एक-शब्द = 19 अंक",
+          "2-अंक प्रश्नों में 'अर्थ' वाले चुनिए (निजीकरण, ब्रांडिंग, बजट, उपभोक्ता)",
+          "हर तथ्य याद कीजिए — वर्ष, प्रवर्तक, अधिनियम"
+        ],
+        "chapters_to_skip_safely": [
+          "4-अंक दीर्घ उत्तरों में कम तैयारी हो तो shortcut लिखिए (कम से कम 4 बिंदु)",
+          "जटिल संख्यात्मक यदि नहीं आते",
+          "फेयोल के 14 सिद्धांतों की विस्तृत व्याख्या ('कोई चार' के लिए सिर्फ़ 4 तैयार कीजिए)"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45",
+        "target_marks": 45,
+        "strategy": "खंड A पूरा (25-28) + खंड B के 7-8 (14-16) + खंड C के 2-3 (6-9) = 45-53 अंक।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "अध्याय 5 (संगठन) — औपचारिक/अनौपचारिक, कार्यात्मक/विभागीय, अधिकार-अर्पण — यहीं से 4-अंक का प्रश्न",
+          "अध्याय 11 (विपणन) — विपणन बनाम विक्रय, विज्ञापन — 4-अंक बार-बार",
+          "अध्याय 2 (सिद्धांत) — फेयोल के 4 सिद्धांत + टेलर का 1 सिद्धांत",
+          "अध्याय 4 (नियोजन) — प्रक्रिया एवं विशेषताएँ",
+          "संक्षिप्त परिभाषाएँ मज़बूत रखिए — प्रशिक्षण, अभिप्रेरणा, निर्देशन, नियंत्रण"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60 marks plus",
+        "target_marks": 60,
+        "strategy": "खंड A पूरा (30+) + खंड B पूरा (18-20) + खंड C पूरा (10-12) + खंड D के 2-3 (8-12) = 66-74।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "सभी 12 अध्याय गहनता से तैयार",
+          "खंड D के 4-अंक प्रश्न — नियोजन प्रक्रिया, औपचारिक बनाम अनौपचारिक, विपणन बनाम विक्रय, विज्ञापन, अधिकार-अर्पण का महत्व, फेयोल के सिद्धांत, प्रबंध का महत्व, समन्वय की विशेषताएँ, पर्यवेक्षक के कार्य",
+          "मैस्लो का सिद्धांत + अच्छे नेता के गुण — अध्याय 7 से 3-अंक प्रश्न",
+          "स्थिर बनाम कार्यशील पूँजी + वित्तीय नियोजन — अध्याय 9",
+          "SEBI + प्राथमिक बनाम द्वितीयक बाज़ार — अध्याय 10 में 3-अंक पक्का"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping 72 plus",
+        "target_marks": 72,
+        "strategy": "हर प्रश्न में अधिकतम अंक। संरचित उत्तर शीर्षकों, उदाहरणों, चित्रों सहित।",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "फेयोल के सभी 14 सिद्धांत उदाहरणों सहित याद कीजिए",
+          "टेलर के 4 सिद्धांत + 6 तकनीकें (कार्यात्मक फ़ोरमैनशिप, विभेदक मज़दूरी, मानकीकरण आदि)",
+          "उपभोक्ता अधिकार — सभी 6/8 अधिकार याद कीजिए",
+          "संगठन संरचना चित्रों का अभ्यास",
+          "विपणन मिश्रण — 4P विस्तार से",
+          "प्रस्तुतीकरण: क्रमांकन, शीर्षक, मुख्य पदों को रेखांकित, चित्र",
+          "शब्द-सीमा का सख़्त पालन — ठीक 30/75/120 शब्द"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Business Studies कक्षा 12 — भाग 1 एवं भाग 2",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "MP Board पाठ्यक्रम NCERT पर आधारित। भाग 1 = प्रबंध के सिद्धांत एवं कार्य (अध्याय 1-8), भाग 2 = व्यावसायिक वित्त एवं विपणन (अध्याय 9-12)। सभी उदाहरण एवं case studies solve कीजिए।"
+      },
+      {
+        "name": "SBPD Publications — Business Studies कक्षा 12 (MP Board)",
+        "author": "",
+        "publisher": "SBPD Publications, आगरा",
+        "purpose": "Primary",
+        "note": "MP Board के लिए popular हिंदी/अंग्रेज़ी reference। Chapter-wise MCQ, रिक्त स्थान, लघु/दीर्घ उत्तर, पिछले वर्षों के पेपर सम्मिलित।"
+      },
+      {
+        "name": "नगीन प्रकाशन — MP Board Business Studies Guide",
+        "author": "",
+        "publisher": "नगीन प्रकाशन, मेरठ",
+        "purpose": "Supplementary",
+        "note": "हिंदी माध्यम विद्यार्थियों के लिए उपयोगी। MP Board-विशिष्ट भाषा एवं पद यहाँ मिलते हैं।"
+      },
+      {
+        "name": "पिछले वर्षों के प्रश्न पत्र 2018-2025 (MP Board)",
+        "author": "",
+        "publisher": "MPBSE Official",
+        "purpose": "Supplementary",
+        "note": "mpbse.nic.in / mpboardonline.com से download कीजिए। वही प्रश्न-प्रकार दोहराए जाते हैं — विपणन बनाम विक्रय, फेयोल के सिद्धांत, औपचारिक बनाम अनौपचारिक ये सब पक्के।"
+      },
+      {
+        "name": "MP Board Model Paper 2026",
+        "author": "",
+        "publisher": "MPBSE Official",
+        "purpose": "Supplementary",
+        "note": "Official model paper: mpbse.nic.in > Model Questions > कक्षा 12 > Business Studies।"
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "व्यावसायिक अध्ययन में संख्यात्मक न्यूनतम हैं — कैलकुलेटर की आवश्यकता नहीं। साधारण arithmetic ही होती है।",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "mpbse.nic.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 मिनट रीडिंग टाइम मिलता है — इस समय में केवल पेपर पढ़िए, उत्तर नहीं लिखिए। 'अथवा' विकल्प तय कीजिए।",
+    "what_to_carry": [
+      "प्रवेश पत्र (मूल)",
+      "नीले/काले पेन (2-3)",
+      "पेंसिल, इरेज़र, शार्पनर",
+      "रूलर (तालिकाओं/चित्रों के लिए)",
+      "पानी की बोतल (पारदर्शी)"
+    ],
+    "what_not_to_carry": [
+      "मोबाइल फ़ोन",
+      "कैलकुलेटर, स्मार्ट वॉच",
+      "कोई मुद्रित सामग्री",
+      "परीक्षा हॉल में बैग"
+    ],
+    "duration_total": "3 घंटे (180 मिनट) + 15 मिनट रीडिंग टाइम",
+    "passing_criteria": "थ्योरी में 80 में से 33% (≈27 अंक) एवं प्रोजेक्ट में 20 में से 33% (≈7 अंक) — दोनों में अलग-अलग उत्तीर्ण होना ज़रूरी।"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "set_number_compulsory: True",
+      "reading_time_note: 15 मिनट रीडिंग टाइम में केवल पेपर पढ़िए — लिखना नहीं। 'अथवा' विकल्प तय कीजिए।",
+      "sequence_compulsory: False",
+      "sequence_advisory: खंड A (वस्तुनिष्ठ) पहले solve कीजिए — 40 मिनट में 32 अंक। आत्मविश्वास बनता है।",
+      "language_note: हिंदी एवं अंग्रेज़ी दोनों चलेंगे। मिश्रित भी OK। यदि पेपर में विसंगति हो तो हिंदी अंतिम।",
+      "no_negative_marking: True",
+      "mcq_attempt_all: कोई negative marking नहीं — सभी 32 खंड A प्रश्न attempt कीजिए। एक भी खाली मत छोड़िए।",
+      "internal_choice_rule: प्रश्न 6-23 में हर प्रश्न में 'अथवा' विकल्प है। केवल एक attempt कीजिए — दोनों लिखने से भ्रम एवं समय बर्बाद।",
+      "match_column_rule: सही जोड़ी में यदि आत्मविश्वास न भी हो, अनुमान लगाइए — प्रति जोड़ी 1 अंक, कोई negative नहीं।"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['नीला', 'काला'] pencil_use: केवल चित्रों/तालिकाओं/संरचनाओं के लिए। उत्तर पेन से लिखना अनिवार्य। table_note: तुलना/अंतर वाले प्रश्नों में तालिका प्रारूप use कीजिए — अंक मिलने की संभावना बढ़ती है।"
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "word_limit_strict: 2 अंक = 30 शब्द, 3 अंक = 75 शब्द, 4 अंक = 120 शब्द। ज़्यादा लिखने से कोई अतिरिक्त अंक नहीं, समय बर्बाद होता है। points_format: दीर्घ उत्तरों में शीर्षक/बिंदु बनाइए (1, 2, 3...) — परीक्षक के लिए पढ़ना आसान, अंक अधिक मिलते हैं। diagrams_bonus: संगठन संरचना, पदानुक्रम, प्रवाह चित्र में सरल चित्र बनाइए — अतिरिक्त प्रभाव। partial_marking: True partial_marking_note: यदि 4-अंक प्रश्न में 4 में से 2 बिंदु सही हैं, तो 2 अंक मिलेंगे। balanced_comparison: अंतर/तुलना वाले प्रश्नों में दोनों पक्ष लिखना ज़रूरी — एक पक्ष लिखने से आधे अंक कट जाएँगे।",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

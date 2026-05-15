@@ -1,0 +1,74 @@
+You are an expert educator creating WhatsApp-style educational mistake alert cards for Indian board exam students (Class 11–12).
+
+Generate a SINGLE HTML card for ONE common mistake students make in the chapter: **{chapter}** (Subject: {subject}, Class: {class_level}, Board: {board}).
+
+{chapter_context}
+
+---
+
+## MISTAKES LIST FOR THIS SUBJECT:
+{mistakes_list}
+
+---
+
+## YOUR TASK:
+Pick the ONE mistake from the list above that is most relevant to the chapter **{chapter}**.
+Generate a complete, self-contained HTML card inspired by the reference example below.
+You do NOT have to copy the example exactly — create your own card that fits the mistake best.
+
+---
+
+## CARD LENGTH — STRICT (students won't read long cards):
+- Card title: MAX 8 words — punchy, not a sentence
+- Card subtitle: MAX 1 line, MAX 12 words
+- Wrong box content: MAX 1–2 lines — show only the key mistake, nothing else
+- Right box content: MAX 1–2 lines — show only the fix, nothing else
+- Box note (small text below value): MAX 5 words
+- Rule box: MAX 2 lines — one simple trick, that's it
+- Do NOT explain the concept. Do NOT add extra context. The card must be readable in under 10 seconds.
+
+## CARD TITLE TONE — STRICT:
+- NEVER use accusatory or commanding language: "kar dete ho", "karte ho", "bhool gaye", "galti karte ho", "kyun likhte ho", "mat karo" — these feel rude and preachy
+- Use observational, warm framing: "ek common galti", "yahan marks jaate hain", "students aksar yeh likhte hain", "90% boards mein yeh aata hai"
+- Good examples: "Sign convention — yahan marks jaate hain! 😬" / "T-account ka ek chhota trick" / "Yeh ratio 90% students galat likhte hain"
+- Bad examples: "Unit bhool gaye?", "Sign convention kyun bhoolte ho?", "Galti mat karo"
+
+## FORMAT 3 — BOARD QUESTION STYLE (critical rule):
+- The QUESTION shown in the card header MUST look like an ACTUAL board exam question (what appears in the question paper)
+- Example GOOD questions: "Molarity aur normality mein antar bataiye.", "Avtal darpan ki focal length -15 cm hai — darpan sutra mein maan likhiye.", "Dihybrid cross ka phenotypic ratio kya hoga?"
+- Example BAD questions (never use): "Unit likhna kyun zaroori hai?", "Concentration terms kya hote hain?", "Yeh mistake kyun hoti hai?"
+- Pick the board question from the "Board exam question:" field in the mistake entry. If none given, write a realistic exam-style question yourself based on the chapter.
+
+## TONE — {tone_instruction}
+
+{tone_instruction_details}
+
+## TERMINOLOGY RULE — STRICT:
+- Day-to-day conversation: Hinglish (e.g., "yeh common galti hai", "board mein yahi aata hai")
+- Technical / subject terms: ALWAYS in English (e.g., "Molarity", "Normality", "Sign Convention", "Focal Length", "T-account", "Debit", "Credit", "Photosynthesis", "Osmosis") — NEVER translate them to Hindi
+- Numbers and formulas: write as-is (M = 0.1 mol/L, f = −15 cm, N = n × M)
+- Subject names in tags: English (Physics, Chemistry, Biology, Accounts, History, Geography)
+
+---
+
+## VISUAL STYLE:
+- Copy the CSS from the reference example exactly — same colors, same font, same weights, same sizes, same shadows
+- Do NOT invent new colors, do NOT change the card-header background, do NOT apply subject colors to the header
+- Icon emoji must be specific to the topic (e.g. ⚗️ chemistry, 🧬 biology, 📐 geometry, ⚡ electricity) — not generic
+- Only the 2 small subject tags in the header use subject-specific label text — everything else follows the reference CSS exactly
+
+---
+
+## REFERENCE EXAMPLE (copy this layout and CSS exactly — only change the content):
+
+{format_example}
+
+---
+
+{format_instruction}
+
+## OUTPUT RULES:
+- Return ONLY the complete HTML. No explanation, no markdown fences, no extra text before or after.
+- Create fresh content for chapter **{chapter}** using the mistakes list above — do NOT copy the example content.
+- Replace {board} with the actual board name everywhere it appears.
+- The HTML must render correctly in a Chromium browser (viewport 560px wide, device_scale_factor=3).

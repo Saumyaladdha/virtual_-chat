@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #ffffff; font-family: 'Inter', 'Segoe UI', sans-serif; }
+  .wrapper { width: 480px; padding: 0 0 28px; background: #ffffff; display: inline-block; }
+</style>
+</head>
+<body>
+<div class="wrapper">
+  <div style="background:linear-gradient(135deg,#00897b 0%,#26a69a 60%,#00bcd4 100%);
+    padding:24px 22px 22px;border-radius:0 0 24px 24px;margin-bottom:22px;
+    box-shadow:0 4px 16px rgba(0,137,123,0.18);">
+    <div style="font-size:9px;font-weight:800;color:rgba(255,255,255,0.75);
+      text-transform:uppercase;letter-spacing:0.14em;margin-bottom:5px;">Arivihan</div>
+    <div style="font-size:21px;font-weight:900;color:white;letter-spacing:-0.3px;line-height:1.2;">
+      📅 Weekly Live Class Schedule
+    </div>
+  </div>
+  <div style="padding:0 16px;">
+    {{days_html}}
+  </div>
+</div>
+</body>
+</html>

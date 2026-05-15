@@ -1,0 +1,1726 @@
+{
+  "board": "यूपीएमएसपी (यूपी बोर्ड)",
+  "class": "12",
+  "subject": "हिंदी (अनिवार्य)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 80,
+    "practical_paper": 0,
+    "internal_assessment": 20,
+    "total": 100,
+    "passing_marks_theory": 26,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": false,
+    "extra_time_note": "",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 0,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "",
+    "all_compulsory_note": "",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "",
+    "new_pattern_note": "",
+    "types": []
+  },
+  "paper_pattern": {
+    "note": "",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 0,
+      "medium_percent": 0,
+      "hard_percent": 0,
+      "note": ""
+    },
+    "sections": []
+  },
+  "marks_distribution": {
+    "total_theory": 80,
+    "total_practical": 0,
+    "internal_assessment": 20,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": []
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 80,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "1",
+      "name": "हरिवंश राय बच्चन",
+      "marks": 0,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "हरिवंश राय बच्चन",
+        "marks": 0
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "हरिवंश राय बच्चन",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Aaroh Bhag 2 — Pady Khand Chapters"
+      },
+      {
+        "chapter_id": "2",
+        "name": "आलोक धन्वा",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Aaroh Bhag 2 — Pady Khand Chapters"
+      },
+      {
+        "chapter_id": "3",
+        "name": "कुँवर नारायण",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Aaroh Bhag 2 — Pady Khand Chapters"
+      },
+      {
+        "chapter_id": "4",
+        "name": "रघुवीर सहाय",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Aaroh Bhag 2 — Pady Khand Chapters"
+      },
+      {
+        "chapter_id": "5",
+        "name": "शमशेर बहादुर सिंह",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Aaroh Bhag 2 — Pady Khand Chapters"
+      },
+      {
+        "chapter_id": "6",
+        "name": "सूर्यकांत त्रिपाठी 'निराला'",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Aaroh Bhag 2 — Pady Khand Chapters"
+      },
+      {
+        "chapter_id": "7",
+        "name": "गोस्वामी तुलसीदास",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Aaroh Bhag 2 — Pady Khand Chapters"
+      },
+      {
+        "chapter_id": "8",
+        "name": "फ़िराक़ गोरखपुरी",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Aaroh Bhag 2 — Pady Khand Chapters"
+      },
+      {
+        "chapter_id": "9",
+        "name": "उमाशंकर जोशी",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Aaroh Bhag 2 — Pady Khand Chapters"
+      },
+      {
+        "chapter_id": "10",
+        "name": "भक्तिन",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Aaroh Bhag 2 — Gadya Khand Chapters"
+      },
+      {
+        "chapter_id": "11",
+        "name": "बाज़ार दर्शन",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Aaroh Bhag 2 — Gadya Khand Chapters"
+      },
+      {
+        "chapter_id": "12",
+        "name": "काले मेघा पानी दे",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Aaroh Bhag 2 — Gadya Khand Chapters"
+      },
+      {
+        "chapter_id": "13",
+        "name": "पहलवान की ढोलक",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Aaroh Bhag 2 — Gadya Khand Chapters"
+      },
+      {
+        "chapter_id": "14",
+        "name": "शिरीष के फूल",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Aaroh Bhag 2 — Gadya Khand Chapters"
+      },
+      {
+        "chapter_id": "15",
+        "name": "श्रम विभाजन और जाति प्रथा",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Aaroh Bhag 2 — Gadya Khand Chapters"
+      },
+      {
+        "chapter_id": "16",
+        "name": "सिल्वर वैडिंग",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Vitaan Bhag 2 — Chapters"
+      },
+      {
+        "chapter_id": "17",
+        "name": "जूझ",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Vitaan Bhag 2 — Chapters"
+      },
+      {
+        "chapter_id": "18",
+        "name": "अतीत में दबे पाँव",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Vitaan Bhag 2 — Chapters"
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "",
+    "books": [
+      {
+        "book_name": "NCERT हिंदी (अनिवार्य) — Aaroh Bhag 2 — Pady Khand Chapters",
+        "category": "Aaroh Bhag 2 — Pady Khand Chapters",
+        "total_marks": 0,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "हरिवंश राय बच्चन",
+            "marks": 0,
+            "topics": [
+              "आत्म परिचय का भाव",
+              "हालावाद",
+              "कवि की आत्मानुभूति"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "आलोक धन्वा",
+            "marks": 0,
+            "topics": [
+              "पतंग का प्रतीकवाद",
+              "बच्चों की उम्मीद",
+              "काव्य सौंदर्य"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "कुँवर नारायण",
+            "marks": 0,
+            "topics": [
+              "कविता की व्यापकता",
+              "भाषा की सादगी",
+              "सम्प्रेषण"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "रघुवीर सहाय",
+            "marks": 0,
+            "topics": [
+              "मीडिया पर व्यंग्य",
+              "संवेदनहीनता",
+              "दूरदर्शन की आलोचना"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "शमशेर बहादुर सिंह",
+            "marks": 0,
+            "topics": [
+              "प्रातःकालीन सौंदर्य",
+              "बिम्ब विधान",
+              "प्रयोगवाद"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "सूर्यकांत त्रिपाठी 'निराला'",
+            "marks": 0,
+            "topics": [
+              "बादल का प्रतीक",
+              "क्रांति का आह्वान",
+              "छायावाद"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "गोस्वामी तुलसीदास",
+            "marks": 0,
+            "topics": [
+              "पद की व्याख्या",
+              "भक्तिकाल",
+              "राम का विलाप",
+              "तुलसीदास का परिचय"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "फ़िराक़ गोरखपुरी",
+            "marks": 0,
+            "topics": [
+              "रुबाई का अर्थ",
+              "उर्दू शब्द और हिंदी भाव",
+              "वात्सल्य"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "उमाशंकर जोशी",
+            "marks": 0,
+            "topics": [
+              "काव्य सृजन प्रक्रिया",
+              "प्रकृति चित्रण"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT हिंदी (अनिवार्य) — Aaroh Bhag 2 — Gadya Khand Chapters",
+        "category": "Aaroh Bhag 2 — Gadya Khand Chapters",
+        "total_marks": 0,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "10",
+            "name": "भक्तिन",
+            "marks": 0,
+            "topics": [
+              "भक्तिन का चरित्र",
+              "स्त्री की स्थिति",
+              "लेखिका का अनुभव",
+              "भक्तिन का असली नाम"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "बाज़ार दर्शन",
+            "marks": 0,
+            "topics": [
+              "बाज़ार का दर्शन",
+              "खरीदने की भावना",
+              "पैसे की शक्ति"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "काले मेघा पानी दे",
+            "marks": 0,
+            "topics": [
+              "इंदर सेना",
+              "आस्था बनाम विज्ञान",
+              "लोक परम्पराएँ"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "पहलवान की ढोलक",
+            "marks": 0,
+            "topics": [
+              "लुट्टन सिंह का चरित्र",
+              "ढोलक का प्रतीक",
+              "ग्रामीण जीवन",
+              "महामारी का वर्णन"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "14",
+            "name": "शिरीष के फूल",
+            "marks": 0,
+            "topics": [
+              "शिरीष का प्रकृति वर्णन",
+              "अवधूत की स्थिति",
+              "कालजयी होने का भाव"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "15",
+            "name": "श्रम विभाजन और जाति प्रथा",
+            "marks": 0,
+            "topics": [
+              "जाति प्रथा के दोष",
+              "श्रम विभाजन",
+              "आदर्श समाज की कल्पना",
+              "आंबेडकर के विचार"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT हिंदी (अनिवार्य) — Vitaan Bhag 2 — Chapters",
+        "category": "Vitaan Bhag 2 — Chapters",
+        "total_marks": 0,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "16",
+            "name": "सिल्वर वैडिंग",
+            "marks": 0,
+            "topics": [
+              "यशोधर पंत का चरित्र",
+              "पिता-पुत्र संबंध",
+              "पाश्चात्य बनाम भारतीय मूल्य"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "17",
+            "name": "जूझ",
+            "marks": 0,
+            "topics": [
+              "आनंद की पढ़ाई का संघर्ष",
+              "गाँव का माहौल",
+              "कविता से प्रेम",
+              "किसान परिवार"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "18",
+            "name": "अतीत में दबे पाँव",
+            "marks": 0,
+            "topics": [
+              "मोहनजोदड़ो का वर्णन",
+              "प्राचीन सभ्यता",
+              "इतिहास का अनुभव"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "हरिवंश राय बच्चन",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Bhag 2",
+      "unit_id": 1,
+      "unit_name": "हरिवंश राय बच्चन",
+      "part": "Aaroh Bhag 2 — Pady Khand Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "आत्म परिचय का भाव",
+        "हालावाद",
+        "कवि की आत्मानुभूति"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "आलोक धन्वा",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Bhag 2",
+      "unit_id": 2,
+      "unit_name": "आलोक धन्वा",
+      "part": "Aaroh Bhag 2 — Pady Khand Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "पतंग का प्रतीकवाद",
+        "बच्चों की उम्मीद",
+        "काव्य सौंदर्य"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "कुँवर नारायण",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Bhag 2",
+      "unit_id": 3,
+      "unit_name": "कुँवर नारायण",
+      "part": "Aaroh Bhag 2 — Pady Khand Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "कविता की व्यापकता",
+        "भाषा की सादगी",
+        "सम्प्रेषण"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "रघुवीर सहाय",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Bhag 2",
+      "unit_id": 4,
+      "unit_name": "रघुवीर सहाय",
+      "part": "Aaroh Bhag 2 — Pady Khand Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "मीडिया पर व्यंग्य",
+        "संवेदनहीनता",
+        "दूरदर्शन की आलोचना"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "शमशेर बहादुर सिंह",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Bhag 2",
+      "unit_id": 5,
+      "unit_name": "शमशेर बहादुर सिंह",
+      "part": "Aaroh Bhag 2 — Pady Khand Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "प्रातःकालीन सौंदर्य",
+        "बिम्ब विधान",
+        "प्रयोगवाद"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "सूर्यकांत त्रिपाठी 'निराला'",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Bhag 2",
+      "unit_id": 6,
+      "unit_name": "सूर्यकांत त्रिपाठी 'निराला'",
+      "part": "Aaroh Bhag 2 — Pady Khand Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "बादल का प्रतीक",
+        "क्रांति का आह्वान",
+        "छायावाद"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "गोस्वामी तुलसीदास",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Bhag 2",
+      "unit_id": 7,
+      "unit_name": "गोस्वामी तुलसीदास",
+      "part": "Aaroh Bhag 2 — Pady Khand Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "पद की व्याख्या",
+        "भक्तिकाल",
+        "राम का विलाप",
+        "तुलसीदास का परिचय"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "फ़िराक़ गोरखपुरी",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Bhag 2",
+      "unit_id": 8,
+      "unit_name": "फ़िराक़ गोरखपुरी",
+      "part": "Aaroh Bhag 2 — Pady Khand Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "रुबाई का अर्थ",
+        "उर्दू शब्द और हिंदी भाव",
+        "वात्सल्य"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "उमाशंकर जोशी",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Bhag 2",
+      "unit_id": 9,
+      "unit_name": "उमाशंकर जोशी",
+      "part": "Aaroh Bhag 2 — Pady Khand Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "काव्य सृजन प्रक्रिया",
+        "प्रकृति चित्रण"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "भक्तिन",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Bhag 2",
+      "unit_id": 10,
+      "unit_name": "भक्तिन",
+      "part": "Aaroh Bhag 2 — Gadya Khand Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "भक्तिन का चरित्र",
+        "स्त्री की स्थिति",
+        "लेखिका का अनुभव",
+        "भक्तिन का असली नाम"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "बाज़ार दर्शन",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Bhag 2",
+      "unit_id": 11,
+      "unit_name": "बाज़ार दर्शन",
+      "part": "Aaroh Bhag 2 — Gadya Khand Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "बाज़ार का दर्शन",
+        "खरीदने की भावना",
+        "पैसे की शक्ति"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "काले मेघा पानी दे",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Bhag 2",
+      "unit_id": 12,
+      "unit_name": "काले मेघा पानी दे",
+      "part": "Aaroh Bhag 2 — Gadya Khand Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "इंदर सेना",
+        "आस्था बनाम विज्ञान",
+        "लोक परम्पराएँ"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "पहलवान की ढोलक",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Bhag 2",
+      "unit_id": 13,
+      "unit_name": "पहलवान की ढोलक",
+      "part": "Aaroh Bhag 2 — Gadya Khand Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "लुट्टन सिंह का चरित्र",
+        "ढोलक का प्रतीक",
+        "ग्रामीण जीवन",
+        "महामारी का वर्णन"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "शिरीष के फूल",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Bhag 2",
+      "unit_id": 14,
+      "unit_name": "शिरीष के फूल",
+      "part": "Aaroh Bhag 2 — Gadya Khand Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "शिरीष का प्रकृति वर्णन",
+        "अवधूत की स्थिति",
+        "कालजयी होने का भाव"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 15,
+      "name": "श्रम विभाजन और जाति प्रथा",
+      "unit_or_chapter": "chapter",
+      "book": "Aaroh Bhag 2",
+      "unit_id": 15,
+      "unit_name": "श्रम विभाजन और जाति प्रथा",
+      "part": "Aaroh Bhag 2 — Gadya Khand Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "जाति प्रथा के दोष",
+        "श्रम विभाजन",
+        "आदर्श समाज की कल्पना",
+        "आंबेडकर के विचार"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 16,
+      "name": "सिल्वर वैडिंग",
+      "unit_or_chapter": "chapter",
+      "book": "Vitaan Bhag 2",
+      "unit_id": 16,
+      "unit_name": "सिल्वर वैडिंग",
+      "part": "Vitaan Bhag 2 — Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "यशोधर पंत का चरित्र",
+        "पिता-पुत्र संबंध",
+        "पाश्चात्य बनाम भारतीय मूल्य"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 17,
+      "name": "जूझ",
+      "unit_or_chapter": "chapter",
+      "book": "Vitaan Bhag 2",
+      "unit_id": 17,
+      "unit_name": "जूझ",
+      "part": "Vitaan Bhag 2 — Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "आनंद की पढ़ाई का संघर्ष",
+        "गाँव का माहौल",
+        "कविता से प्रेम",
+        "किसान परिवार"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 18,
+      "name": "अतीत में दबे पाँव",
+      "unit_or_chapter": "chapter",
+      "book": "Vitaan Bhag 2",
+      "unit_id": 18,
+      "unit_name": "अतीत में दबे पाँव",
+      "part": "Vitaan Bhag 2 — Chapters",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "मोहनजोदड़ो का वर्णन",
+        "प्राचीन सभ्यता",
+        "इतिहास का अनुभव"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [],
+    "chapters_mostly_theory": [
+      "हरिवंश राय बच्चन",
+      "आलोक धन्वा",
+      "कुँवर नारायण",
+      "रघुवीर सहाय",
+      "शमशेर बहादुर सिंह",
+      "सूर्यकांत त्रिपाठी 'निराला'",
+      "गोस्वामी तुलसीदास",
+      "फ़िराक़ गोरखपुरी",
+      "उमाशंकर जोशी",
+      "भक्तिन",
+      "बाज़ार दर्शन",
+      "काले मेघा पानी दे",
+      "पहलवान की ढोलक",
+      "शिरीष के फूल",
+      "श्रम विभाजन और जाति प्रथा",
+      "सिल्वर वैडिंग",
+      "जूझ",
+      "अतीत में दबे पाँव"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "adhigam_kshetra_breakup": {
+      "apathit_bodh": 12,
+      "rachnatmak_lekhan": 18,
+      "vyavaharik_vyakaran": 8,
+      "pathyapustak_aaroh_bhag2": 31,
+      "pathyapustak_vitaan_bhag2": 11,
+      "total": 80
+    },
+    "chapter_importance": {
+      "highest_weightage": [
+        {
+          "title": "भक्तिन",
+          "lekhak": "महादेवी वर्मा",
+          "marks": "4-5",
+          "note": "चरित्र चित्रण और व्याख्या दोनों आते हैं"
+        },
+        {
+          "title": "शिरीष के फूल",
+          "lekhak": "हज़ारी प्रसाद द्विवेदी",
+          "marks": "3-4"
+        },
+        {
+          "title": "श्रम विभाजन और जाति प्रथा",
+          "lekhak": "डॉ0 भीमराव आंबेडकर",
+          "marks": "4-5",
+          "note": "आंबेडकर के विचार बहुत महत्वपूर्ण हैं"
+        },
+        {
+          "title": "बाज़ार दर्शन",
+          "lekhak": "जैनेंद्र कुमार",
+          "marks": "3-4"
+        },
+        {
+          "title": "तुलसीदास के पद (कवितावली)",
+          "marks": "4-5",
+          "note": "पद की व्याख्या निश्चित रूप से आती है"
+        },
+        {
+          "title": "निराला की कविता (बादल राग)",
+          "marks": "3-4"
+        },
+        {
+          "title": "सिल्वर वैडिंग (वितान)",
+          "lekhak": "मनोहर श्याम जोशी",
+          "marks": "3-4"
+        },
+        {
+          "title": "जूझ (वितान)",
+          "lekhak": "आनंद यादव",
+          "marks": "3-4"
+        }
+      ],
+      "low_weightage": [
+        {
+          "title": "शमशेर बहादुर सिंह (उषा)",
+          "note": "कभी-कभार 5 अंक का प्रश्न"
+        },
+        {
+          "title": "उमाशंकर जोशी (छोटा मेरा खेत)",
+          "note": "सामान्यतः एमसीक्यू स्तर तक"
+        },
+        {
+          "title": "अतीत में दबे पाँव",
+          "marks": "सामान्यतः 2-3 अंक"
+        }
+      ],
+      "chapters_never_skip": [
+        "भक्तिन",
+        "तुलसीदास के पद (कवितावली)",
+        "बाज़ार दर्शन",
+        "श्रम विभाजन और जाति प्रथा",
+        "सिल्वर वैडिंग",
+        "जूझ"
+      ],
+      "repeated_every_year_topics": [
+        {
+          "topic": "भक्तिन का चरित्र चित्रण",
+          "marks": "4-5"
+        },
+        {
+          "topic": "तुलसीदास के पद की व्याख्या",
+          "marks": "5-6"
+        },
+        {
+          "topic": "आंबेडकर के विचार (जाति प्रथा)",
+          "marks": "4-5"
+        },
+        {
+          "topic": "समाचार लेखन के 6 ककार",
+          "marks": 2
+        },
+        {
+          "topic": "निबंध लेखन",
+          "marks": 5
+        },
+        {
+          "topic": "निराला की कविता व्याख्या",
+          "marks": "3-4"
+        },
+        {
+          "topic": "सिल्वर वैडिंग — यशोधर और पिता",
+          "marks": "3-4"
+        },
+        {
+          "topic": "अलंकार (अनुप्रास, उपमा, रूपक)",
+          "marks": 2
+        }
+      ]
+    },
+    "important_authors_parichay": {
+      "note": "लेखक/कवि का परिचय खंड-ब या खंड-स में पूछा जाता है। 2-3 अंक के लिए 40-60 शब्दों में लिखना होता है।",
+      "format": "जन्म (वर्ष + स्थान) + मुख्य रचनाएँ + साहित्यिक विशेषताएँ + सम्मान/पुरस्कार (अगर हों)",
+      "authors": [
+        {
+          "naam": "महादेवी वर्मा",
+          "janm": "1907, फ़र्रुख़ाबाद",
+          "mukhya_rachnayen": [
+            "यामा",
+            "नीरजा",
+            "स्मृति की रेखाएँ",
+            "अतीत के चलचित्र"
+          ],
+          "visheshata": "छायावादी कवयित्री। नारी वेदना की अभिव्यक्ति। साहित्य अकादमी और पद्म भूषण।",
+          "path": "भक्तिन (आरोह भाग-2)"
+        },
+        {
+          "naam": "हज़ारी प्रसाद द्विवेदी",
+          "janm": "1907, बलिया (उ0प्र0)",
+          "mukhya_rachnayen": [
+            "कबीर",
+            "नाथ सम्प्रदाय",
+            "अशोक के फूल",
+            "विज्ञान और कला"
+          ],
+          "visheshata": "निबंधकार। आधुनिक हिंदी गद्य के स्तंभ।",
+          "path": "शिरीष के फूल (आरोह भाग-2)"
+        },
+        {
+          "naam": "डॉ0 भीमराव आंबेडकर",
+          "janm": "1891, महू (म0प्र0)",
+          "mukhya_rachnayen": [
+            "द एनिहिलेशन ऑफ़ कास्ट",
+            "बुद्ध और कार्ल मार्क्स"
+          ],
+          "visheshata": "दलित विचार के प्रतिनिधि। संविधान निर्माता।",
+          "path": "श्रम विभाजन और जाति प्रथा (आरोह भाग-2)"
+        },
+        {
+          "naam": "जैनेंद्र कुमार",
+          "janm": "1905, अलीगढ़",
+          "mukhya_rachnayen": [
+            "परख",
+            "सुनीता",
+            "त्यागपत्र"
+          ],
+          "visheshata": "मनोवैज्ञानिक उपन्यासकार। गाँधीवादी लेखक।",
+          "path": "बाज़ार दर्शन (आरोह भाग-2)"
+        },
+        {
+          "naam": "सूर्यकांत त्रिपाठी 'निराला'",
+          "janm": "1899, मेदिनीपुर (बंगाल)",
+          "mukhya_rachnayen": [
+            "अनामिका",
+            "परिमल",
+            "गीतिका",
+            "राम की शक्ति पूजा"
+          ],
+          "visheshata": "छायावाद के चार स्तंभों में से एक। स्वतंत्रचेता।",
+          "path": "बादल राग (आरोह भाग-2)"
+        },
+        {
+          "naam": "गोस्वामी तुलसीदास",
+          "janm": "1532, राजापुर (उ0प्र0) (लगभग)",
+          "mukhya_rachnayen": [
+            "रामचरितमानस",
+            "विनय पत्रिका",
+            "दोहावली",
+            "कवितावली"
+          ],
+          "visheshata": "भक्तिकाल के सगुण शाखा के प्रमुख कवि। लोक भाषा में रामकथा।",
+          "path": "कवितावली, लक्ष्मण-मूर्छा और राम का विलाप (आरोह भाग-2)"
+        },
+        {
+          "naam": "फणीश्वर नाथ 'रेणु'",
+          "janm": "1921, औराही हिंगना (बिहार)",
+          "mukhya_rachnayen": [
+            "मैला आँचल",
+            "परती परिकथा",
+            "ठुमरी"
+          ],
+          "visheshata": "आंचलिक उपन्यासकार। ग्रामीण जीवन का सजीव चित्रण।",
+          "path": "पहलवान की ढोलक (आरोह भाग-2)"
+        }
+      ]
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Hindi",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not applicable for Hindi",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Vyavaharik Vyakaran — apathit, rachnatmak lekhan",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Hindi writing formats (patra, nibandh, vyakhya)",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "No practical.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 0,
+    "medium_percent": 0,
+    "hard_percent": 0,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [],
+    "time_allocation": []
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 20,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": []
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": false,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 0,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "",
+    "extra_time_given": false,
+    "extra_time_note": ""
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": ""
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

@@ -1,0 +1,2214 @@
+{
+  "board": "MPBSE",
+  "class": "12",
+  "subject": "हिंदी",
+  "subject_code": "051",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 80,
+    "practical_paper": 0,
+    "internal_assessment": 20,
+    "total": 100,
+    "passing_marks_theory": 26,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 7,
+    "duration_minutes": 180,
+    "extra_time_given": false,
+    "extra_time_note": "नहीं मिलता। 3 घंटे fixed हैं। Bell बजते ही उत्तर पुस्तिका जमा करनी होती है।",
+    "internal_assessment_note": "20 अंक आंतरिक मूल्यांकन के हैं — ये board exam में नहीं होते। Project, assignment, class participation से मिलते हैं।"
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 23,
+    "total_questions_to_attempt": 23,
+    "total_objective_questions": 32,
+    "total_sets": 4,
+    "sets_note": "MPBSE में 4 sets होते हैं: A, B, C, D। हर set में same questions होते हैं, सिर्फ order अलग होता है।",
+    "sets_same_or_different": "",
+    "language_of_attempt": "हिंदी में लिखना अनिवार्य है। अंग्रेजी में लिखने से marks नहीं मिलेंगे।",
+    "all_compulsory_note": "सभी 23 प्रश्न अनिवार्य हैं। प्रश्न 6 से 23 तक सभी में आंतरिक विकल्प (अथवा) दिया जाता है।",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "NCERT (आरोह भाग-2 और वितान भाग-2) अनिवार्य है। इसके साथ Pariksha Adhyayan Hindi और पिछले वर्षों के प्रश्नपत्र भी जरूरी हैं।",
+    "official_scheme_note": "",
+    "reference_books_note": "परीक्षा अध्ययन हिंदी, नवबोध हिंदी, Pariksha Adhyayan — ये books MPBSE के लिए सबसे उपयोगी हैं।",
+    "prescribed_textbooks": [
+      "आरोह भाग-2 (काव्य खंड + गद्य खंड)",
+      "वितान भाग-2 (पूरक पाठ्यपुस्तक)"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "हिंदी MPBSE Class 12 paper में 4 स्तर के प्रश्न होते हैं — वस्तुनिष्ठ (32), अति लघु (20), लघु (12), दीर्घ (16)। कुल 23 प्रश्न, सभी अनिवार्य।",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "सही विकल्प (MCQ)",
+        "question_number": "Q1",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "केवल सही विकल्प का अक्षर (अ/ब/स/द) लिखें। कोई व्याख्या नहीं चाहिए।",
+        "mostly_from": "काव्य खंड — कवि परिचय, कविताओं के पात्र और घटनाएं। गद्य खंड — लेखक, पाठ की घटनाएं। काव्यशास्त्र — अलंकार, रस, छंद। भाषा बोध — व्याकरण।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "रिक्त स्थान पूर्ति",
+        "question_number": "Q2",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "दिए गए विकल्पों में से सही शब्द चुनकर रिक्त स्थान में लिखें।",
+        "mostly_from": "रस का स्थायी भाव, छंद की मात्राएं, पात्रों के नाम, तकनीकी शब्द, लेखक/कवि की रचनाएं।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "सही जोड़ी मिलाइए (Match)",
+        "question_number": "Q3",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "स्तंभ (अ) और स्तंभ (ब) का मिलान करें। Format: i-(ग), ii-(अ) आदि।",
+        "mostly_from": "हिंदी साहित्य के युग, कवि-रचना मिलान, अलंकार-छंद, पात्र-पाठ मिलान।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "एक शब्द/एक वाक्य में उत्तर",
+        "question_number": "Q4",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 7,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "एक शब्द या अधिकतम एक वाक्य में उत्तर लिखें।",
+        "mostly_from": "काव्य की परिभाषा, पात्रों की जानकारी, छंद-अलंकार के प्रकार, मुहावरे का अर्थ, व्याकरण की परिभाषा।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "सत्य/असत्य",
+        "question_number": "Q5",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "सत्य या असत्य लिखें। कोई कारण नहीं चाहिए।",
+        "mostly_from": "पाठों की घटनाओं पर आधारित कथन, शब्द शक्ति, व्याकरण नियम, लेखक/कवि से संबंधित तथ्य।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "अति लघु उत्तर (2 अंक)",
+        "question_number": "Q6 से Q15",
+        "section": "",
+        "marks_each": 2,
+        "total_in_paper": 1,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "2-3 पंक्तियों में सटीक उत्तर। अनावश्यक विस्तार नहीं।",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "लगभग 30 शब्द",
+        "notes": "Q6: काव्य की विशेषताएं / युग-विशेष प्रवृत्तियां; Q7: कविता पर आधारित प्रश्न (काव्य खंड); Q8: गद्य पाठ पर आधारित प्रश्न; Q9: गद्य पाठ पर आधारित प्रश्न; Q10: गद्य/काव्य पाठ पर आधारित प्रश्न; Q11: मुद्रित माध्यम / पत्रकारिता / जनसंचार; Q12: रस / अलंकार — परिभाषा और उदाहरण; Q13: छंद / शब्द शक्ति — परिभाषा और उदाहरण; Q14: भाषा बोध — मुहावरे/लोकोक्ति/निपात/तकनीकी शब्द; Q15: वाक्य शुद्धि / वाक्य परिवर्तन"
+      },
+      {
+        "type": "लघु उत्तर (3 अंक)",
+        "question_number": "Q16 से Q19",
+        "section": "",
+        "marks_each": 3,
+        "total_in_paper": 1,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "3 बिंदुओं में स्पष्ट उत्तर। निर्धारित बिंदुओं (रचनाएं, भावपक्ष-कलापक्ष, साहित्य में स्थान) पर ध्यान दें।",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "लगभग 75 शब्द",
+        "notes": "Q16: कवि परिचय — काव्यगत विशेषताएं (दो रचनाएं + भावपक्ष-कलापक्ष + साहित्य में स्थान); Q17: लेखक परिचय — साहित्यिक विशेषताएं (दो रचनाएं + भाषा-शैली + साहित्य में स्थान); Q18: भाव विस्तार / विज्ञापन / अनुच्छेद / संवाद; Q19: अपठित गद्यांश या पद्यांश — शीर्षक, सारांश, प्रश्नोत्तर"
+      },
+      {
+        "type": "दीर्घ उत्तर (4 अंक)",
+        "question_number": "Q20 से Q23",
+        "section": "",
+        "marks_each": 4,
+        "total_in_paper": 1,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "संदर्भ-प्रसंग सहित व्याख्या (Q20, Q21), पत्र-लेखन (Q22), निबंध (Q23)।",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "लगभग 120 शब्द",
+        "notes": "Q20: पद्यांश की संदर्भ-प्रसंग सहित व्याख्या (काव्य सौंदर्य सहित); Q21: गद्यांश की संदर्भ-प्रसंग सहित व्याख्या (विशेष सहित); Q22: पत्र-लेखन — औपचारिक या अनौपचारिक; Q23: निबंध-लेखन — रूपरेखा सहित"
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "हिंदी paper में 23 प्रश्न होते हैं। Maximum 80 अंक। 3 घंटे। प्रश्न 6 से 23 तक सभी में अथवा (OR) विकल्प।",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Q6 se Q23 tak sabhi mein athwa (OR) vikalp diya jata hai.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 50,
+      "medium_percent": 35,
+      "hard_percent": 15,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "Q1 से Q5",
+        "name": "वस्तुनिष्ठ भाग",
+        "type": "वस्तुनिष्ठ भाग",
+        "question_numbers": "Q1 से Q5",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 32,
+        "word_limit": "",
+        "breakdown": "Q1 — 6 MCQ, Q2 — 6 रिक्त स्थान, Q3 — 6 जोड़ी मिलाइए, Q4 — 7 एक वाक्य, Q5 — 6 सत्य/असत्य। कुल 31 उप-प्रश्न = 32 अंक (कुछ papers में 32 sub-questions)।",
+        "notes": ""
+      },
+      {
+        "section_id": "Q6 से Q15",
+        "name": "अति लघु उत्तरीय",
+        "type": "अति लघु उत्तरीय",
+        "question_numbers": "Q6 से Q15",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "लगभग 30 शब्द प्रति प्रश्न",
+        "breakdown": "सभी 10 प्रश्नों में अथवा। दोनों विकल्प पढ़कर जो बेहतर जानते हों वह चुनें।",
+        "notes": ""
+      },
+      {
+        "section_id": "Q16 से Q19",
+        "name": "लघु उत्तरीय",
+        "type": "लघु उत्तरीय",
+        "question_numbers": "Q16 से Q19",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": "लगभग 75 शब्द प्रति प्रश्न",
+        "breakdown": "Q16 — कवि परिचय, Q17 — लेखक परिचय, Q18 — भाव विस्तार/विज्ञापन, Q19 — अपठित बोध।",
+        "notes": ""
+      },
+      {
+        "section_id": "Q20 से Q23",
+        "name": "दीर्घ उत्तरीय",
+        "type": "दीर्घ उत्तरीय",
+        "question_numbers": "Q20 से Q23",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 4,
+        "total_marks": 16,
+        "word_limit": "लगभग 120 शब्द प्रति प्रश्न",
+        "breakdown": "Q20 — पद्यांश व्याख्या, Q21 — गद्यांश व्याख्या, Q22 — पत्र-लेखन, Q23 — निबंध-लेखन।",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 80,
+    "total_practical": 0,
+    "internal_assessment": 20,
+    "grand_total": 100,
+    "marks_summary_note": "वस्तुनिष्ठ (32) + अति लघु (20) + लघु (12) + दीर्घ (16) = 80 अंक",
+    "sections": [
+      {
+        "section_id": "1",
+        "name": "Objective (वस्तुनिष्ठ)",
+        "question_numbers": "प्रश्न 1 से 5",
+        "type": "वस्तुनिष्ठ प्रश्न (Objective)",
+        "total_questions": 0,
+        "total_sub_questions": 32,
+        "marks_per_question": 1,
+        "total_marks": 32,
+        "word_limit": "",
+        "breakdown": "Q1_sahi_vikalp: सही विकल्प चुनिए (MCQ); Q2_rikt_sthan: रिक्त स्थान भरिए; Q3_sahi_jodi: सही जोड़ी मिलाइए (Match); Q4_ek_vakya: एक शब्द/वाक्य में उत्तर दीजिए; Q5_satya_asatya: सत्य/असत्य चुनिए (True/False); नोट: कुछ papers में Q1 से Q5 का विभाजन थोड़ा अलग हो सकता है, लेकिन कुल वस्तुनिष्ठ = 32 अंक।"
+      },
+      {
+        "section_id": "2",
+        "name": "Very Short Answer (अति लघु)",
+        "question_numbers": "प्रश्न 6 से 15",
+        "type": "अति लघु उत्तरीय प्रश्न",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "लगभग 30 शब्द",
+        "breakdown": ""
+      },
+      {
+        "section_id": "3",
+        "name": "Short Answer (लघु)",
+        "question_numbers": "प्रश्न 16 से 19",
+        "type": "लघु उत्तरीय प्रश्न",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": "लगभग 75 शब्द",
+        "breakdown": ""
+      },
+      {
+        "section_id": "4",
+        "name": "Long Answer (दीर्घ)",
+        "question_numbers": "प्रश्न 20 से 23",
+        "type": "दीर्घ उत्तरीय प्रश्न",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 16,
+        "word_limit": "लगभग 120 शब्द",
+        "breakdown": ""
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "Hindi blueprint is unit-wise (padya, gadya, vitan, bhasha_bodh, kavya_bodh, apathit, patra, nibandh), not per chapter.",
+    "total_theory_marks": 80,
+    "objective_percent": 40,
+    "subjective_percent": 60,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "",
+      "name": "पद्य खंड (आरोह भाग-2)",
+      "marks": 40,
+      "note": "Padya khand highest weightage"
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "",
+        "name": "अपठित बोध",
+        "marks": 5
+      },
+      {
+        "chapter_id": "",
+        "name": "पत्र-लेखन",
+        "marks": 5
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "padya_khand_aaroh",
+        "name": "पद्य खंड (आरोह भाग-2)",
+        "marks": 40,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "काव्य की 9 कविताएं — कवि परिचय, व्याख्या, काव्य सौंदर्य, विषय-बोध, मूल्य-बोध।"
+      },
+      {
+        "chapter_id": "gadya_khand_aaroh",
+        "name": "गद्य खंड (आरोह भाग-2)",
+        "marks": 35,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "6 गद्य पाठ — लेखक परिचय, व्याख्या, विचार-बोध, विषय-बोध।"
+      },
+      {
+        "chapter_id": "sahayak_vachan_vitan",
+        "name": "सहायक वाचन (वितान भाग-2)",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "पूरक पाठ्यपुस्तक के पाठों पर प्रश्न — कम अंक लेकिन important।"
+      },
+      {
+        "chapter_id": "bhasha_bodh",
+        "name": "भाषा बोध",
+        "marks": 15,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "वाक्य बोध, शुद्ध वाक्य रचना, वाक्य परिवर्तन, मुहावरे/लोकोक्तियां, बोली/विभाषा/मातृभाषा/राजभाषा/राष्ट्रभाषा।"
+      },
+      {
+        "chapter_id": "kavya_bodh",
+        "name": "काव्य बोध",
+        "marks": 15,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "रस परिचय + अंग + रस भेद उदाहरण सहित, अलंकार, छंद, काव्य की परिभाषा एवं काव्य के भेद, काव्य गुण।"
+      },
+      {
+        "chapter_id": "apaThit_bodh",
+        "name": "अपठित बोध",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "अपठित गद्यांश या पद्यांश — शीर्षक, सारांश, प्रश्नोत्तर।"
+      },
+      {
+        "chapter_id": "patra_lekhan",
+        "name": "पत्र-लेखन",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "औपचारिक/अनौपचारिक पत्र।"
+      },
+      {
+        "chapter_id": "nibandh_lekhan",
+        "name": "निबंध-लेखन",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "रूपरेखा सहित सारगर्भित निबंध।"
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 32,
+      "two_mark_total": 20,
+      "three_mark_total": 12,
+      "four_mark_total": 16,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Hindi textbooks: आरोह भाग-2 (पद्य + गद्य) + वितान भाग-2 (पूरक)।",
+    "books": [
+      {
+        "book_name": "आरोह भाग-2 (पद्य खंड)",
+        "category": "Main reader — poetry",
+        "total_marks": 40,
+        "note": "काव्य की 9 कविताएं — कवि परिचय, व्याख्या, काव्य सौंदर्य, विषय-बोध, मूल्य-बोध।",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "आत्मपरिचय / दिन जल्दी-जल्दी ढलता है",
+            "marks": 0,
+            "topics": [
+              "आत्म-अभिव्यक्ति",
+              "जीवन की क्षणभंगुरता",
+              "प्रेम और संघर्ष"
+            ],
+            "note": "कवि: हरिवंशराय बच्चन | काव्यांश की व्याख्या (Q20), कवि परिचय (Q16), MCQ में रचनाएं।"
+          },
+          {
+            "chapter_id": "2",
+            "name": "पतंग",
+            "marks": 0,
+            "topics": [
+              "बचपन की ऊर्जा",
+              "उड़ान की चाहत",
+              "प्रकृति-सौंदर्य"
+            ],
+            "note": "कवि: आलोक धन्वा | पतंग और बच्चों का प्रतीकार्थ, दिशाओं को मृदंग की तरह बजाने का अर्थ।"
+          },
+          {
+            "chapter_id": "3",
+            "name": "कविता के बहाने / बात सीधी थी पर",
+            "marks": 0,
+            "topics": [
+              "कविता की सार्थकता",
+              "भाषा का महत्व",
+              "शब्द और अर्थ का संबंध"
+            ],
+            "note": "कवि: कुँवर नारायण | भाषा को सहूलियत से बरतने का अभिप्राय, 'बात की चूड़ी मर जाना' का अर्थ।"
+          },
+          {
+            "chapter_id": "4",
+            "name": "कैमरे में बंद अपाहिज",
+            "marks": 0,
+            "topics": [
+              "मीडिया पर व्यंग्य",
+              "अपाहिज की पीड़ा",
+              "संवेदनशीलता का ह्रास"
+            ],
+            "note": "कवि: रघुवीर सहाय | कविता में मीडिया पर किस प्रकार कटाक्ष किया गया है।"
+          },
+          {
+            "chapter_id": "5",
+            "name": "उषा",
+            "marks": 0,
+            "topics": [
+              "भोर का सौंदर्य",
+              "प्रकृति-चित्रण",
+              "रूपक और उपमा"
+            ],
+            "note": "कवि: शमशेर बहादुर सिंह | कवि ने भोर के नभ की तुलना किससे की, उषा की सुंदरता का वर्णन।"
+          },
+          {
+            "chapter_id": "6",
+            "name": "बादल राग",
+            "marks": 0,
+            "topics": [
+              "क्रांति",
+              "शोषण और मुक्ति",
+              "वर्षा और विप्लव का प्रतीक"
+            ],
+            "note": "कवि: सूर्यकांत त्रिपाठी 'निराला' | बादल को किसका प्रतीक माना गया है, 'विप्लव के बादल' का अर्थ।"
+          },
+          {
+            "chapter_id": "7",
+            "name": "कविता / रुबाइयाँ (गजल से संबंधित)",
+            "marks": 0,
+            "topics": [],
+            "note": "कवि: तुलसीदास | काव्यांश की व्याख्या (Q20), तुलसीदास का काव्यगत परिचय (Q16)।"
+          },
+          {
+            "chapter_id": "8",
+            "name": "रुबाइयाँ / गज़ल",
+            "marks": 0,
+            "topics": [
+              "माँ और बच्चे का प्रेम",
+              "उर्दू काव्य परंपरा",
+              "जीवन-दर्शन"
+            ],
+            "note": "कवि: फिराक गोरखपुरी | रुबाइयों में माँ-बच्चे के प्रेम का वर्णन, 'आँगन में ठुनक रहा है' पंक्ति की व्याख्या।"
+          },
+          {
+            "chapter_id": "9",
+            "name": "छोटा मेरा खेत / बगुलों के पंख",
+            "marks": 0,
+            "topics": [
+              "काव्य-सृजन की प्रक्रिया",
+              "अंधड़ और बीज का प्रतीक",
+              "प्रकृति-सौंदर्य"
+            ],
+            "note": "कवि: उमाशंकर जोशी | अंधड़ और बीज क्या हैं (काव्य के संदर्भ में), बगुलों के पंख का सौंदर्य।"
+          }
+        ]
+      },
+      {
+        "book_name": "आरोह भाग-2 (गद्य खंड)",
+        "category": "Main reader — prose",
+        "total_marks": 35,
+        "note": "6 गद्य पाठ — लेखक परिचय, व्याख्या, विचार-बोध, विषय-बोध।",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "",
+            "marks": 0,
+            "topics": [
+              "नारी स्वाभिमान",
+              "सेवा-भक्ति",
+              "ग्रामीण जीवन"
+            ],
+            "note": "लेखक: महादेवी वर्मा | भक्तिन की कहानी अधूरी क्यों, भक्तिन के आने से महादेवी अधिक देहाती कैसे हुईं।"
+          },
+          {
+            "chapter_id": "2",
+            "name": "",
+            "marks": 0,
+            "topics": [
+              "उपभोक्तावाद",
+              "बाजार की शक्ति",
+              "मन की खाली-भरी अवस्था"
+            ],
+            "note": "लेखक: जैनेंद्र कुमार | बाजार कब जाना चाहिए, 'Purchasing Power' और 'पेट में चूहे कूदना' का अर्थ, जेब के भरे और मन के खाली होने पर क्या होता है।"
+          },
+          {
+            "chapter_id": "3",
+            "name": "",
+            "marks": 0,
+            "topics": [
+              "लोक आस्था",
+              "श्रद्धा और विज्ञान का संघर्ष",
+              "परंपरा का महत्व"
+            ],
+            "note": "लेखक: धर्मवीर भारती | वानर सेना का वर्णन, 'पहले खुद दो तब देवता देंगे' का भाव, बुवाई का प्रतीक।"
+          },
+          {
+            "chapter_id": "4",
+            "name": "",
+            "marks": 0,
+            "topics": [
+              "पहलवान का संघर्ष",
+              "लोकजीवन",
+              "ढोलक की संजीवनी शक्ति"
+            ],
+            "note": "लेखक: फणीश्वरनाथ रेणु | ढोलक की आवाज का पूरे गाँव पर क्या असर था, रात्रि की विभीषिका को ढोलक ने कैसे चुनौती दी।"
+          },
+          {
+            "chapter_id": "5",
+            "name": "",
+            "marks": 0,
+            "topics": [
+              "प्रकृति और जीवन-दर्शन",
+              "अवधूत की जीवनशैली",
+              "कालजयी"
+            ],
+            "note": "लेखक: हजारी प्रसाद द्विवेदी | शिरीष का पेड़ कब से कब तक खिलता है, लेखक ने शिरीष को कालजयी अवधूत की तरह क्यों माना।"
+          },
+          {
+            "chapter_id": "6",
+            "name": "",
+            "marks": 0,
+            "topics": [],
+            "note": "लेखक: श्रीराम वर्मा / अन्य लेखक | यशोधर बाबू की पत्नी समय के साथ ढल सकी लेकिन यशोधर बाबू क्यों नहीं।"
+          }
+        ]
+      },
+      {
+        "book_name": "वितान भाग-2",
+        "category": "Supplementary reader",
+        "total_marks": 10,
+        "note": "पूरक पाठ्यपुस्तक के पाठों पर प्रश्न — कम अंक लेकिन important।",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "",
+            "marks": 0,
+            "topics": [
+              "संघर्ष और कविता-प्रेम",
+              "ग्रामीण शिक्षा",
+              "दृढ़ इच्छाशक्ति"
+            ],
+            "note": "लेखक: आनंद यादव | कविता के प्रति लगाव से पहले और बाद में लेखक की अकेलेपन की धारणा में क्या बदलाव आया, 'जूझ' शीर्षक का औचित्य।"
+          },
+          {
+            "chapter_id": "2",
+            "name": "",
+            "marks": 0,
+            "topics": [
+              "सिंधु सभ्यता",
+              "मोहनजो-दड़ो",
+              "प्राचीन जल-संस्कृति"
+            ],
+            "note": "लेखक: रज़ाकदास बनर्जी / प्रयाग शुक्ल | मुअनजो-दड़ो की जल-संस्कृति की विशेषताएं, सिंधु सभ्यता का सबसे बड़ा नगर, रज़ाकदास बनर्जी 1922 में कब गए।"
+          },
+          {
+            "chapter_id": "3",
+            "name": "",
+            "marks": 0,
+            "topics": [],
+            "note": "लेखक: मनोहर श्याम जोशी | यशोधर बाबू का चरित्र-चित्रण, KK का व्यवहार, पुरानी पीढ़ी बनाम नई पीढ़ी।"
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "आत्मपरिचय / दिन जल्दी-जल्दी ढलता है",
+      "unit_or_chapter": "chapter",
+      "book": "आरोह भाग-2",
+      "category": "poetry",
+      "author": "हरिवंशराय बच्चन",
+      "genre": "poetry",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "आत्म-अभिव्यक्ति",
+        "जीवन की क्षणभंगुरता",
+        "प्रेम और संघर्ष"
+      ],
+      "important_characters": [],
+      "frequently_asked": "काव्यांश की व्याख्या (Q20), कवि परिचय (Q16), MCQ में रचनाएं।",
+      "important_topics": [
+        "आत्म-अभिव्यक्ति",
+        "जीवन की क्षणभंगुरता",
+        "प्रेम और संघर्ष"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [
+        "मैं और, और जग और, कहाँ का नाता"
+      ],
+      "author_intro": {
+        "do_rachanaen": [
+          "मधुशाला",
+          "निशा निमंत्रण"
+        ],
+        "bhavpaksh_kalapaksh": "छायावादोत्तर कवि। भावपक्ष — जीवन के प्रति राग और विराग। कलापक्ष — हालावाद, मधुर भाषा, संगीतात्मकता।",
+        "sahitya_mein_sthan": "हिंदी के सर्वाधिक लोकप्रिय कवियों में। 'मधुशाला' उनकी कालजयी रचना।"
+      },
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "पतंग",
+      "unit_or_chapter": "chapter",
+      "book": "आरोह भाग-2",
+      "category": "poetry",
+      "author": "आलोक धन्वा",
+      "genre": "poetry",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "बचपन की ऊर्जा",
+        "उड़ान की चाहत",
+        "प्रकृति-सौंदर्य"
+      ],
+      "important_characters": [],
+      "frequently_asked": "पतंग और बच्चों का प्रतीकार्थ, दिशाओं को मृदंग की तरह बजाने का अर्थ।",
+      "important_topics": [
+        "बचपन की ऊर्जा",
+        "उड़ान की चाहत",
+        "प्रकृति-सौंदर्य"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [
+        "कविता एक उड़ान है चिड़िया के बहाने"
+      ],
+      "author_intro": {
+        "do_rachanaen": [
+          "दुनिया रोज बनती है",
+          "जनता का आदमी"
+        ],
+        "bhavpaksh_kalapaksh": "समकालीन काव्यधारा। भावपक्ष — बाल जीवन की मासूमियत और स्वतंत्रता। कलापक्ष — बिंब विधान, मुक्त छंद।",
+        "sahitya_mein_sthan": "प्रगतिशील काव्य धारा के प्रमुख कवि।"
+      },
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "कविता के बहाने / बात सीधी थी पर",
+      "unit_or_chapter": "chapter",
+      "book": "आरोह भाग-2",
+      "category": "poetry",
+      "author": "कुँवर नारायण",
+      "genre": "poetry",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "कविता की सार्थकता",
+        "भाषा का महत्व",
+        "शब्द और अर्थ का संबंध"
+      ],
+      "important_characters": [],
+      "frequently_asked": "भाषा को सहूलियत से बरतने का अभिप्राय, 'बात की चूड़ी मर जाना' का अर्थ।",
+      "important_topics": [
+        "कविता की सार्थकता",
+        "भाषा का महत्व",
+        "शब्द और अर्थ का संबंध"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [],
+      "author_intro": {},
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "कैमरे में बंद अपाहिज",
+      "unit_or_chapter": "chapter",
+      "book": "आरोह भाग-2",
+      "category": "poetry",
+      "author": "रघुवीर सहाय",
+      "genre": "poetry",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "मीडिया पर व्यंग्य",
+        "अपाहिज की पीड़ा",
+        "संवेदनशीलता का ह्रास"
+      ],
+      "important_characters": [],
+      "frequently_asked": "कविता में मीडिया पर किस प्रकार कटाक्ष किया गया है।",
+      "important_topics": [
+        "मीडिया पर व्यंग्य",
+        "अपाहिज की पीड़ा",
+        "संवेदनशीलता का ह्रास"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [],
+      "author_intro": {
+        "do_rachanaen": [
+          "सीढ़ियों पर धूप में",
+          "आत्महत्या के विरुद्ध"
+        ],
+        "bhavpaksh_kalapaksh": "भावपक्ष — सामाजिक विसंगतियों पर व्यंग्य। कलापक्ष — बोलचाल की भाषा, नाटकीयता।",
+        "sahitya_mein_sthan": "तीसरा सप्तक के महत्वपूर्ण कवि।"
+      },
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "उषा",
+      "unit_or_chapter": "chapter",
+      "book": "आरोह भाग-2",
+      "category": "poetry",
+      "author": "शमशेर बहादुर सिंह",
+      "genre": "poetry",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "भोर का सौंदर्य",
+        "प्रकृति-चित्रण",
+        "रूपक और उपमा"
+      ],
+      "important_characters": [],
+      "frequently_asked": "कवि ने भोर के नभ की तुलना किससे की, उषा की सुंदरता का वर्णन।",
+      "important_topics": [
+        "भोर का सौंदर्य",
+        "प्रकृति-चित्रण",
+        "रूपक और उपमा"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [
+        "खरगोश की आँखों जैसा लाल सवेरा"
+      ],
+      "author_intro": {
+        "do_rachanaen": [
+          "दूसरा सप्तक",
+          "चुका भी हूँ नहीं मैं"
+        ],
+        "bhavpaksh_kalapaksh": "भावपक्ष — प्रकृति सौंदर्य, बिंब विधान। कलापक्ष — नए प्रतीक, नई उपमाएं।",
+        "sahitya_mein_sthan": "प्रगतिशील काव्यधारा के महत्वपूर्ण कवि। तार सप्तक के कवि।"
+      },
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "बादल राग",
+      "unit_or_chapter": "chapter",
+      "book": "आरोह भाग-2",
+      "category": "poetry",
+      "author": "सूर्यकांत त्रिपाठी 'निराला'",
+      "genre": "poetry",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "क्रांति",
+        "शोषण और मुक्ति",
+        "वर्षा और विप्लव का प्रतीक"
+      ],
+      "important_characters": [],
+      "frequently_asked": "बादल को किसका प्रतीक माना गया है, 'विप्लव के बादल' का अर्थ।",
+      "important_topics": [
+        "क्रांति",
+        "शोषण और मुक्ति",
+        "वर्षा और विप्लव का प्रतीक"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [],
+      "author_intro": {
+        "do_rachanaen": [
+          "परिमल",
+          "अनामिका"
+        ],
+        "bhavpaksh_kalapaksh": "छायावाद के चार स्तंभों में। भावपक्ष — शोषण-विरोध, क्रांतिचेतना। कलापक्ष — मुक्त छंद, विद्रोही स्वर।",
+        "sahitya_mein_sthan": "महाकवि। छायावाद के सबसे शक्तिशाली कवि।"
+      },
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "कविता / रुबाइयाँ (गजल से संबंधित)",
+      "unit_or_chapter": "chapter",
+      "book": "आरोह भाग-2",
+      "category": "poetry",
+      "author": "तुलसीदास",
+      "genre": "poetry",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [],
+      "important_characters": [],
+      "frequently_asked": "काव्यांश की व्याख्या (Q20), तुलसीदास का काव्यगत परिचय (Q16)।",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [],
+      "author_intro": {
+        "do_rachanaen": [
+          "रामचरितमानस",
+          "विनयपत्रिका"
+        ],
+        "bhavpaksh_kalapaksh": "भावपक्ष — भक्ति, लोकमंगल, राम के आदर्श। कलापक्ष — अवधी और ब्रजभाषा, दोहा-चौपाई।",
+        "sahitya_mein_sthan": "भक्तिकाल के सर्वश्रेष्ठ कवि। हिंदी साहित्य के सूर्य।"
+      },
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "रुबाइयाँ / गज़ल",
+      "unit_or_chapter": "chapter",
+      "book": "आरोह भाग-2",
+      "category": "poetry",
+      "author": "फिराक गोरखपुरी",
+      "genre": "poetry",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "माँ और बच्चे का प्रेम",
+        "उर्दू काव्य परंपरा",
+        "जीवन-दर्शन"
+      ],
+      "important_characters": [],
+      "frequently_asked": "रुबाइयों में माँ-बच्चे के प्रेम का वर्णन, 'आँगन में ठुनक रहा है' पंक्ति की व्याख्या।",
+      "important_topics": [
+        "माँ और बच्चे का प्रेम",
+        "उर्दू काव्य परंपरा",
+        "जीवन-दर्शन"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [],
+      "author_intro": {},
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "छोटा मेरा खेत / बगुलों के पंख",
+      "unit_or_chapter": "chapter",
+      "book": "आरोह भाग-2",
+      "category": "poetry",
+      "author": "उमाशंकर जोशी",
+      "genre": "poetry",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "काव्य-सृजन की प्रक्रिया",
+        "अंधड़ और बीज का प्रतीक",
+        "प्रकृति-सौंदर्य"
+      ],
+      "important_characters": [],
+      "frequently_asked": "अंधड़ और बीज क्या हैं (काव्य के संदर्भ में), बगुलों के पंख का सौंदर्य।",
+      "important_topics": [
+        "काव्य-सृजन की प्रक्रिया",
+        "अंधड़ और बीज का प्रतीक",
+        "प्रकृति-सौंदर्य"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [],
+      "author_intro": {
+        "do_rachanaen": [
+          "निशीथ",
+          "प्राचीना"
+        ],
+        "bhavpaksh_kalapaksh": "भावपक्ष — प्रकृति प्रेम, काव्य-सृजन का दर्शन। कलापक्ष — गुजराती प्रभाव, बिंब-विधान।",
+        "sahitya_mein_sthan": "गुजराती-हिंदी साहित्य के सेतु। सम्मानित कवि-लेखक।"
+      },
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "",
+      "unit_or_chapter": "chapter",
+      "book": "आरोह भाग-2",
+      "category": "prose",
+      "author": "महादेवी वर्मा",
+      "genre": "prose",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "नारी स्वाभिमान",
+        "सेवा-भक्ति",
+        "ग्रामीण जीवन"
+      ],
+      "important_characters": [
+        "भक्तिन (लछमन)",
+        "महादेवी वर्मा"
+      ],
+      "frequently_asked": "भक्तिन की कहानी अधूरी क्यों, भक्तिन के आने से महादेवी अधिक देहाती कैसे हुईं।",
+      "important_topics": [
+        "नारी स्वाभिमान",
+        "सेवा-भक्ति",
+        "ग्रामीण जीवन"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [],
+      "author_intro": {
+        "do_rachanaen": [
+          "यामा",
+          "रश्मि"
+        ],
+        "bhasha_shaili": "संस्कृतनिष्ठ, काव्यात्मक और भावपूर्ण गद्य। चित्रात्मकता विशेषता।",
+        "sahitya_mein_sthan": "छायावाद की प्रमुख कवयित्री। ज्ञानपीठ पुरस्कार से सम्मानित।"
+      },
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "",
+      "unit_or_chapter": "chapter",
+      "book": "आरोह भाग-2",
+      "category": "prose",
+      "author": "जैनेंद्र कुमार",
+      "genre": "prose",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "उपभोक्तावाद",
+        "बाजार की शक्ति",
+        "मन की खाली-भरी अवस्था"
+      ],
+      "important_characters": [],
+      "frequently_asked": "बाजार कब जाना चाहिए, 'Purchasing Power' और 'पेट में चूहे कूदना' का अर्थ, जेब के भरे और मन के खाली होने पर क्या होता है।",
+      "important_topics": [
+        "उपभोक्तावाद",
+        "बाजार की शक्ति",
+        "मन की खाली-भरी अवस्था"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [],
+      "author_intro": {
+        "do_rachanaen": [
+          "परख",
+          "सुनीता"
+        ],
+        "bhasha_shaili": "विचारपरक, दार्शनिक, सहज भाषा। सूत्रात्मक शैली।",
+        "sahitya_mein_sthan": "हिंदी के प्रथम मनोवैज्ञानिक उपन्यासकार।"
+      },
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "",
+      "unit_or_chapter": "chapter",
+      "book": "आरोह भाग-2",
+      "category": "prose",
+      "author": "धर्मवीर भारती",
+      "genre": "prose",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "लोक आस्था",
+        "श्रद्धा और विज्ञान का संघर्ष",
+        "परंपरा का महत्व"
+      ],
+      "important_characters": [],
+      "frequently_asked": "वानर सेना का वर्णन, 'पहले खुद दो तब देवता देंगे' का भाव, बुवाई का प्रतीक।",
+      "important_topics": [
+        "लोक आस्था",
+        "श्रद्धा और विज्ञान का संघर्ष",
+        "परंपरा का महत्व"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [],
+      "author_intro": {
+        "do_rachanaen": [
+          "गुनाहों का देवता",
+          "सूरज का सातवाँ घोड़ा"
+        ],
+        "bhasha_shaili": "सरल, प्रवाहमयी। संस्मरण शैली। लोक जीवन का सजीव चित्रण।",
+        "sahitya_mein_sthan": "हिंदी साहित्य के बहुमुखी प्रतिभावान लेखक।"
+      },
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "",
+      "unit_or_chapter": "chapter",
+      "book": "आरोह भाग-2",
+      "category": "prose",
+      "author": "फणीश्वरनाथ रेणु",
+      "genre": "prose",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "पहलवान का संघर्ष",
+        "लोकजीवन",
+        "ढोलक की संजीवनी शक्ति"
+      ],
+      "important_characters": [
+        "लुट्टन सिंह पहलवान",
+        "चाँद सिंह"
+      ],
+      "frequently_asked": "ढोलक की आवाज का पूरे गाँव पर क्या असर था, रात्रि की विभीषिका को ढोलक ने कैसे चुनौती दी।",
+      "important_topics": [
+        "पहलवान का संघर्ष",
+        "लोकजीवन",
+        "ढोलक की संजीवनी शक्ति"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [],
+      "author_intro": {
+        "do_rachanaen": [
+          "मैला आँचल",
+          "परती परिकथा"
+        ],
+        "bhasha_shaili": "आंचलिक भाषा, लोक तत्वों का प्रयोग। बोलचाल की भाषा।",
+        "sahitya_mein_sthan": "आंचलिक उपन्यास के जनक माने जाते हैं।"
+      },
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "",
+      "unit_or_chapter": "chapter",
+      "book": "आरोह भाग-2",
+      "category": "prose",
+      "author": "हजारी प्रसाद द्विवेदी",
+      "genre": "prose",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "प्रकृति और जीवन-दर्शन",
+        "अवधूत की जीवनशैली",
+        "कालजयी"
+      ],
+      "important_characters": [],
+      "frequently_asked": "शिरीष का पेड़ कब से कब तक खिलता है, लेखक ने शिरीष को कालजयी अवधूत की तरह क्यों माना।",
+      "important_topics": [
+        "प्रकृति और जीवन-दर्शन",
+        "अवधूत की जीवनशैली",
+        "कालजयी"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [],
+      "author_intro": {
+        "do_rachanaen": [
+          "बाणभट्ट की आत्मकथा",
+          "अनामदास का पोथा"
+        ],
+        "bhasha_shaili": "ललित निबंध शैली। संस्कृत-हिंदी मिश्रित। गहन विचारशील।",
+        "sahitya_mein_sthan": "हिंदी ललित निबंध के श्रेष्ठ लेखक।"
+      },
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 15,
+      "name": "",
+      "unit_or_chapter": "chapter",
+      "book": "आरोह भाग-2",
+      "category": "prose",
+      "author": "श्रीराम वर्मा / अन्य लेखक",
+      "genre": "prose",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [],
+      "important_characters": [],
+      "frequently_asked": "यशोधर बाबू की पत्नी समय के साथ ढल सकी लेकिन यशोधर बाबू क्यों नहीं।",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [],
+      "author_intro": {},
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 16,
+      "name": "",
+      "unit_or_chapter": "chapter",
+      "book": "वितान भाग-2",
+      "category": "supplementary",
+      "author": "आनंद यादव",
+      "genre": "supplementary",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "संघर्ष और कविता-प्रेम",
+        "ग्रामीण शिक्षा",
+        "दृढ़ इच्छाशक्ति"
+      ],
+      "important_characters": [],
+      "frequently_asked": "कविता के प्रति लगाव से पहले और बाद में लेखक की अकेलेपन की धारणा में क्या बदलाव आया, 'जूझ' शीर्षक का औचित्य।",
+      "important_topics": [
+        "संघर्ष और कविता-प्रेम",
+        "ग्रामीण शिक्षा",
+        "दृढ़ इच्छाशक्ति"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [],
+      "author_intro": {},
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 17,
+      "name": "",
+      "unit_or_chapter": "chapter",
+      "book": "वितान भाग-2",
+      "category": "supplementary",
+      "author": "रज़ाकदास बनर्जी / प्रयाग शुक्ल",
+      "genre": "supplementary",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "सिंधु सभ्यता",
+        "मोहनजो-दड़ो",
+        "प्राचीन जल-संस्कृति"
+      ],
+      "important_characters": [],
+      "frequently_asked": "मुअनजो-दड़ो की जल-संस्कृति की विशेषताएं, सिंधु सभ्यता का सबसे बड़ा नगर, रज़ाकदास बनर्जी 1922 में कब गए।",
+      "important_topics": [
+        "सिंधु सभ्यता",
+        "मोहनजो-दड़ो",
+        "प्राचीन जल-संस्कृति"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [],
+      "author_intro": {},
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 18,
+      "name": "",
+      "unit_or_chapter": "chapter",
+      "book": "वितान भाग-2",
+      "category": "supplementary",
+      "author": "मनोहर श्याम जोशी",
+      "genre": "supplementary",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [],
+      "important_characters": [],
+      "frequently_asked": "यशोधर बाबू का चरित्र-चित्रण, KK का व्यवहार, पुरानी पीढ़ी बनाम नई पीढ़ी।",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "important_lines": [],
+      "author_intro": {},
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "हिंदी में Q6-Q15 (अति लघु) और Q20-Q21 (व्याख्या) में पाठों से directly प्रश्न आते हैं।",
+    "can_chapter_have_zero_questions": true,
+    "can_chapter_be_skipped": true,
+    "can_chapter_be_skipped_note": "Jo chapters har saal puchhe jaate hain woh skip nahi karne chahiye.",
+    "or_questions_note": "Q6 se Q23 tak sabhi mein athwa (OR) option hota hai.",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "भक्तिन (महादेवी वर्मा) — Q20/Q21 व्याख्या में बारी-बारी",
+      "बाजार दर्शन (जैनेंद्र) — Q21 गद्यांश व्याख्या हर साल",
+      "पहलवान की ढोलक (रेणु) — Q21 गद्यांश + Q9 अति लघु",
+      "शिरीष के फूल (द्विवेदी) — Q21 + Q9 अति लघु",
+      "आत्मपरिचय (बच्चन) — Q20 पद्यांश व्याख्या",
+      "पतंग (आलोक धन्वा) — Q20 पद्यांश + Q7 अति लघु",
+      "उषा (शमशेर) — Q7 अति लघु हर साल"
+    ],
+    "chapters_never_skip_reason": "Vyakhya (Q20/Q21) aur ati laghu (Q6-Q15) mein ye chapters frequently aate hain.",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [
+      "Q16_kavya_parichay: तुलसीदास अथवा रघुवीर सहाय",
+      "Q16_kavya_parichay: हरिवंशराय बच्चन अथवा सूर्यकांत त्रिपाठी 'निराला'",
+      "Q16_kavya_parichay: शमशेर बहादुर सिंह अथवा उमाशंकर जोशी",
+      "Q17_lekhak_parichay: महादेवी वर्मा अथवा हजारी प्रसाद द्विवेदी",
+      "Q17_lekhak_parichay: फणीश्वरनाथ रेणु अथवा धर्मवीर भारती",
+      "Q17_lekhak_parichay: जैनेंद्र कुमार अथवा धर्मवीर भारती"
+    ],
+    "chapters_mostly_theory": [],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "ढोलक की आवाज का गाँव पर असर (Q9/Q21) (2-4 marks)",
+      "शिरीष को कालजयी अवधूत क्यों कहा (Q9) (2 marks)",
+      "बाजार दर्शन — Purchasing Power / मन की दशा (Q8/Q21) (2-4 marks)",
+      "भक्तिन की कहानी अधूरी क्यों (Q11) (2 marks)",
+      "छोटा मेरा खेत — अंधड़ और बीज क्या है (Q7) (2 marks)",
+      "यशोधर बाबू — पत्नी सफल, वे असफल क्यों (Q10) (2 marks)",
+      "करुण रस की परिभाषा + उदाहरण (Q12) (2 marks)",
+      "सोरठा छंद की परिभाषा + उदाहरण (Q13) (2 marks)",
+      "मुहावरे और लोकोक्ति में अंतर (Q14) (2 marks)",
+      "वाक्य शुद्धि / वाक्य परिवर्तन (Q15) (2 marks)",
+      "कवि परिचय — तुलसीदास या बच्चन (Q16) (3 marks)",
+      "लेखक परिचय — महादेवी या रेणु (Q17) (3 marks)",
+      "पत्र-लेखन (औपचारिक/अनौपचारिक) (Q22) (4 marks)",
+      "निबंध — पर्यावरण/अनुशासन/इंटरनेट (Q23) (4 marks)"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Hindi",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not applicable for Hindi",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "काव्य बोध और भाषा बोध Q12-Q15 में सीधे पूछे जाते हैं। ये sections हर साल scoring होते हैं।",
+    "topics": [
+      {
+        "topic_name": "रस (Ras)",
+        "question_number": "Q12",
+        "definition": "पाठक या श्रोता के हृदय में स्थायी भाव जब विभाव, अनुभाव और संचारी भाव के संयोग से पुष्ट होता है तो रस की निष्पत्ति होती है।",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [
+          "करुण रस (Q12 में परिभाषा + उदाहरण — हर साल)",
+          "वीर रस (Q12 में परिभाषा + उदाहरण — बारी-बारी)"
+        ],
+        "types": [
+          "श्रृंगार रस - स्थायी भाव: रति - उदाहरण: नायिका का सौंदर्य",
+          "हास्य रस - स्थायी भाव: हास - उदाहरण: विचित्र वेशभूषा",
+          "करुण रस - स्थायी भाव: शोक - उदाहरण: प्रिय की मृत्यु",
+          "वीर रस - स्थायी भाव: उत्साह - उदाहरण: युद्ध का वातावरण",
+          "रौद्र रस - स्थायी भाव: क्रोध - उदाहरण: अपमान",
+          "भयानक रस - स्थायी भाव: भय - उदाहरण: भयंकर जीव",
+          "वीभत्स रस - स्थायी भाव: घृणा - उदाहरण: घृणित दृश्य",
+          "अद्भुत रस - स्थायी भाव: विस्मय - उदाहरण: चमत्कारी घटना",
+          "शांत रस - स्थायी भाव: निर्वेद/शम - उदाहरण: संसार की असारता"
+        ]
+      },
+      {
+        "topic_name": "अलंकार (Alankar)",
+        "question_number": "Q12",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "अलंकार की परिभाषा और उदाहरण Q12 में पूछे जाते हैं।",
+        "tip": "",
+        "frequently_asked": [
+          "उपमा: जहाँ उपमेय की उपमान से समानता दिखाई जाए। (उदा. मुख चंद्रमा के समान सुंदर है।)",
+          "रूपक: जहाँ उपमेय पर उपमान का आरोप किया जाए। (उदा. चरण-कमल।)",
+          "उत्प्रेक्षा: जहाँ उपमेय में उपमान की संभावना हो। (उदा. मानो वह दीपक जल रहा हो।)",
+          "विरोधाभास: जहाँ वास्तविक विरोध न हो किंतु विरोध का आभास हो। (उदा. जल में रहकर मगर से बैर।)",
+          "व्यतिरेक: जहाँ उपमेय को उपमान से श्रेष्ठ बताया जाए। (उदा. चंद्रमा से भी सुंदर है मुख।)",
+          "संदेह अलंकार: जहाँ उपमेय को देखकर उपमान का संदेह हो। (उदा. यह कमल है या मुख?)",
+          "सांगरूपक अलंकार: जहाँ प्रस्तुत के सभी अंगों में अप्रस्तुत के अंगों का रूपक हो। (उदा. )"
+        ],
+        "types": [
+          "उपमा",
+          "रूपक",
+          "उत्प्रेक्षा",
+          "विरोधाभास",
+          "व्यतिरेक",
+          "संदेह अलंकार",
+          "सांगरूपक अलंकार"
+        ]
+      },
+      {
+        "topic_name": "छंद (Chhand)",
+        "question_number": "Q13",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "छंद की परिभाषा और उदाहरण Q13 में पूछे जाते हैं।",
+        "tip": "",
+        "frequently_asked": [
+          "दोहा: अर्धसम मात्रिक छंद। पहली और तीसरी पंक्ति में 13-13, दूसरी-चौथी में 11-11 मात्राएं। (उदा. रहिमन पानी राखिए, बिन पानी सब सून।)",
+          "चौपाई: सम मात्रिक छंद। चार चरण, प्रत्येक में 16 मात्राएं। (उदा. रामचरितमानस की पंक्तियाँ।)",
+          "सोरठा: दोहे का उल्टा। पहली-तीसरी पंक्ति में 11, दूसरी-चौथी में 13 मात्राएं। (उदा. )",
+          "सवैया: वर्णिक छंद। 22 से 26 वर्ण प्रत्येक चरण में। (उदा. )",
+          "कवित्त: वर्णिक छंद। 31-31 वर्ण प्रत्येक चरण में। (उदा. )"
+        ],
+        "types": [
+          "दोहा",
+          "चौपाई",
+          "सोरठा",
+          "सवैया",
+          "कवित्त"
+        ]
+      },
+      {
+        "topic_name": "शब्द शक्ति (Shabda Shakti)",
+        "question_number": "Q13",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "शब्द शक्ति Q13 में पूछी जाती है।",
+        "tip": "",
+        "frequently_asked": [],
+        "types": [
+          "अभिधा: शब्द का सीधा-सामान्य अर्थ। मुख्यार्थ। (उदा. 'गाय' सुनने पर पशु का बोध।)",
+          "लक्षणा: मुख्यार्थ में बाधा आने पर रूढ़ि या प्रयोजन से दूसरा अर्थ। (उदा. 'वह लड़की शेर है' — शेर का अर्थ 'साहसी' लिया जाएगा।)",
+          "व्यंजना: अभिधा और लक्षणा से भी जब अर्थ स्पष्ट न हो, तब व्यंजनार्थ। (उदा. रात के 12 बज गए — सोने का समय हो गया।)"
+        ]
+      },
+      {
+        "topic_name": "भाषा बोध — muhavare_lokokti",
+        "question_number": "Q14/Q15",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "मुहावरा — वाक्यांश, अकेला प्रयोग नहीं होता। लोकोक्ति — पूर्ण वाक्य, स्वतंत्र प्रयोग होता है।",
+        "tip": "",
+        "frequently_asked": [
+          "बात की चूड़ी मर जाना = बात का प्रभावहीन हो जाना",
+          "पानी-पानी होना = बहुत लज्जित होना",
+          "दूसरा घर कर लेना = नई व्यवस्था बना लेना",
+          "पेट में चूहे कूदना = बहुत भूख लगना"
+        ],
+        "types": [
+          "anthar: मुहावरा — वाक्यांश, अकेला प्रयोग नहीं होता। लोकोक्ति — पूर्ण वाक्य, स्वतंत्र प्रयोग होता है।"
+        ]
+      },
+      {
+        "topic_name": "भाषा बोध — vakya_prakar",
+        "question_number": "Q14/Q15",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [],
+        "types": [
+          "सरल वाक्य — एक उद्देश्य, एक विधेय",
+          "मिश्र वाक्य — एक मुख्य + एक आश्रित उपवाक्य",
+          "संयुक्त वाक्य — दो स्वतंत्र उपवाक्य और/किंतु/परंतु से जुड़े",
+          "विधिवाचक",
+          "निषेधवाचक",
+          "प्रश्नवाचक",
+          "विस्मयवाचक",
+          "इच्छावाचक",
+          "संकेतवाचक",
+          "संदेहवाचक"
+        ]
+      },
+      {
+        "topic_name": "भाषा बोध — tatsam_tadbhav",
+        "question_number": "Q14/Q15",
+        "definition": "तत्सम — संस्कृत से सीधे लिए शब्द। तद्भव — संस्कृत से बिगड़कर हिंदी में आए शब्द।",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [],
+        "types": [
+          "definition: तत्सम — संस्कृत से सीधे लिए शब्द। तद्भव — संस्कृत से बिगड़कर हिंदी में आए शब्द।",
+          "{'tatsam': 'कर्म', 'tadbhav': 'काम'}",
+          "{'tatsam': 'अग्नि', 'tadbhav': 'आग'}",
+          "{'tatsam': 'क्षेत्र', 'tadbhav': 'खेत'}"
+        ]
+      },
+      {
+        "topic_name": "भाषा बोध — rashtrabhasha_rajbhasha",
+        "question_number": "Q14/Q15",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "राष्ट्रभाषा — जनता द्वारा स्वीकृत, संपूर्ण राष्ट्र की भाषा। राजभाषा — सरकारी कामकाज की भाषा, संविधान द्वारा मान्यता प्राप्त।",
+        "tip": "",
+        "frequently_asked": [],
+        "types": [
+          "anthar: राष्ट्रभाषा — जनता द्वारा स्वीकृत, संपूर्ण राष्ट्र की भाषा। राजभाषा — सरकारी कामकाज की भाषा, संविधान द्वारा मान्यता प्राप्त।"
+        ]
+      }
+    ]
+  },
+  "writing_section_formats": {
+    "note": "Patra lekhan (Q22) aur Nibandh lekhan (Q23) ke formats.",
+    "formats": [
+      {
+        "format_name": "Formal Letter (औपचारिक पत्र)",
+        "structure": "प्रेषक का पता | दिनांक | प्रेषितव्य का पदनाम और पता | विषय (रेखांकित) | संबोधन — मान्यवर/महोदय | मुख्य विषय (3 पैराग्राफ) | समापन — भवदीय/आपका आज्ञाकारी | नाम",
+        "word_limit": "120 शब्द",
+        "tip": "",
+        "frequently_asked_topics": [
+          "नगर निगम को पानी आपूर्ति हेतु",
+          "जिलाधीश को ध्वनि विस्तारक पर प्रतिबंध हेतु",
+          "माध्यमिक शिक्षा मंडल को उत्तर पुस्तिका पुनर्गणना हेतु"
+        ]
+      },
+      {
+        "format_name": "Informal Letter (अनौपचारिक पत्र)",
+        "structure": "प्रेषक का पता | दिनांक | संबोधन — प्रिय मित्र/आदरणीय | मुख्य विषय | समापन — तुम्हारा मित्र/आपका पुत्र | नाम",
+        "word_limit": "",
+        "tip": "",
+        "frequently_asked_topics": [
+          "मित्र को बधाई पत्र",
+          "पिता को पढ़ाई की जानकारी देते हुए पत्र",
+          "मित्र को विवाह में आमंत्रण"
+        ]
+      },
+      {
+        "format_name": "Essay (निबंध लेखन)",
+        "structure": "रूपरेखा — प्रस्तावना + मुख्य विषय (2-3 बिंदु) + उपसंहार",
+        "word_limit": "120 शब्द (रूपरेखा सहित)",
+        "tip": "",
+        "frequently_asked_topics": [
+          "पर्यावरण प्रदूषण और रोकथाम",
+          "छात्रजीवन में अनुशासन",
+          "विद्यार्थी और खेल",
+          "दैनिक जीवन में इंटरनेट का महत्व",
+          "समाचार पत्रों की उपयोगिता",
+          "स्वच्छता अभियान",
+          "वृक्षों की उपयोगिता",
+          "राष्ट्रीय एकता और अखंडता",
+          "युवा चरित्र"
+        ]
+      }
+    ]
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Hindi me practical exam nahi hota. Internal assessment (20 marks) projects/assignments se milta hai.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Easy-Medium",
+    "note": "",
+    "easy_percent": 50,
+    "medium_percent": 35,
+    "hard_percent": 15,
+    "most_scoring_sections": [
+      "Q1-Q5 (वस्तुनिष्ठ)",
+      "Q12/Q13 (रस/छंद — format याद हो)",
+      "Q22 (पत्र format)",
+      "Q23 (निबंध — familiar topics)"
+    ],
+    "most_difficult_sections": [
+      "Q20 (पद्यांश संदर्भ-प्रसंग व्याख्या)",
+      "Q21 (गद्यांश व्याख्या)",
+      "Q16/Q17 (विस्तृत कवि/लेखक परिचय)"
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Q1-Q5 वस्तुनिष्ठ में सभी उप-प्रश्नों का उत्तर लिखें — negative marking नहीं है",
+      "Q16/Q17 में तीनों बिंदु (रचनाएं + भावपक्ष-कलापक्ष + साहित्य में स्थान) जरूर लिखें",
+      "Q20/Q21 में संदर्भ-प्रसंग (संदर्भ + प्रसंग + व्याख्या + विशेष) format में लिखें",
+      "Q12/Q13 — रस/अलंकार/छंद की परिभाषा + उदाहरण दोनों जरूरी हैं",
+      "Q22 पत्र में पता, दिनांक, विषय, संबोधन, समापन — format के marks अलग होते हैं",
+      "Q23 निबंध में रूपरेखा (प्रस्तावना/मुख्य बिंदु/उपसंहार) लिखना जरूरी है",
+      "Q6-Q15 में अथवा दोनों विकल्प पढ़कर बेहतर जाना वाला चुनें",
+      "अपठित Q19 में शीर्षक, सारांश और प्रश्नोत्तर तीनों अलग-अलग लिखें",
+      "Set number cover page पर लिखना न भूलें",
+      "NCERT के पाठ बार-बार पढ़ें — वस्तुनिष्ठ के 32 अंक largely NCERT से"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "Q1_to_Q5_vastunishtha",
+        "recommended_minutes": 30,
+        "note": "30 मिनट — 32 objective questions। पहले सब पढ़ें, फिर उत्तर लिखें।"
+      },
+      {
+        "section_id": "Q6_to_Q15_ati_laghu",
+        "recommended_minutes": 35,
+        "note": "35 मिनट — 10 प्रश्न × 2 अंक। 30 शब्द में सटीक उत्तर।"
+      },
+      {
+        "section_id": "Q16_to_Q19_laghu",
+        "recommended_minutes": 30,
+        "note": "30 मिनट — 4 प्रश्न × 3 अंक। Q16/Q17 में format follow करें।"
+      },
+      {
+        "section_id": "Q20_to_Q23_dirgha",
+        "recommended_minutes": 45,
+        "note": "45 मिनट — 4 प्रश्न × 4 अंक। संदर्भ-प्रसंग पहले लिखें।"
+      },
+      {
+        "section_id": "revision",
+        "recommended_minutes": 10,
+        "note": "10 मिनट — प्रश्न क्रमांक check करें, छूटे प्रश्न देखें।"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 26,
+        "strategy": "वस्तुनिष्ठ (Q1-Q5) से 20+ अंक लगभग पक्के। Q12/Q13 (रस-अलंकार-छंद) और Q22 (पत्र) की practice करें — आसान 6-8 अंक।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Q1-Q5 — वस्तुनिष्ठ (NCERT पढ़ने से 20+ आएंगे)",
+          "Q12 — करुण/वीर रस (परिभाषा याद कर लें)",
+          "Q13 — दोहा/चौपाई/सोरठा छंद",
+          "Q22 — पत्र format याद करें (4 marks पक्के)",
+          "Q23 — निबंध रूपरेखा (4 marks)"
+        ],
+        "chapters_to_skip_safely": [
+          "Q19 अपठित का काव्यांश",
+          "Q20 complex व्याख्या"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "40_marks",
+        "target_marks": 40,
+        "strategy": "वस्तुनिष्ठ (25+) + Q6-Q11 में 8-10 अंक + Q12/Q13/Q14/Q15 = 8 अंक + Q22/Q23 = 8 अंक।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "भक्तिन, बाजार दर्शन, पहलवान की ढोलक — Q6-Q11",
+          "रस, अलंकार, छंद, शब्द शक्ति — Q12/Q13",
+          "पत्र-लेखन और निबंध — Q22/Q23"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60_marks",
+        "target_marks": 60,
+        "strategy": "वस्तुनिष्ठ (28+) + Q6-Q15 सभी (18-20) + Q16/Q17 (5-6) + Q20/Q21 (6-8) + Q22/Q23 (8)।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "सभी गद्य पाठ — अति लघु उत्तर",
+          "Q16/Q17 — कवि-लेखक परिचय format याद करें",
+          "Q20/Q21 — संदर्भ-प्रसंग format practice करें",
+          "सभी कविताओं की मुख्य पंक्तियाँ"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping",
+        "target_marks": 80,
+        "strategy": "सभी 23 प्रश्नों की पूरी तैयारी। Q20/Q21 में काव्य सौंदर्य और विशेष सहित व्याख्या लिखने की practice।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "काव्य सौंदर्य — अलंकार, छंद, भाषा-शैली Q20 में mention करें",
+          "Q21 में विशेष (भाषा, शैली, प्रतीक) जरूर लिखें",
+          "Q16/Q17 — तीनों बिंदु पूरे और organized लिखें",
+          "Q23 निबंध में रूपरेखा clearly लिखें"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "काव्य सौंदर्य — अलंकार, छंद, भाषा-शैली Q20 में mention करें",
+          "Q21 में विशेष (भाषा, शैली, प्रतीक) जरूर लिखें",
+          "Q16/Q17 — तीनों बिंदु पूरे और organized लिखें",
+          "Q23 निबंध में रूपरेखा clearly लिखें"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 20,
+    "note": "20 अंक आंतरिक मूल्यांकन के हैं — ये board exam में नहीं होते। Project, assignment, class participation से मिलते हैं।",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "आरोह भाग-2 (हिंदी Core)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "अनिवार्य। Q6-Q21 के सभी प्रश्न इसी से।"
+      },
+      {
+        "name": "वितान भाग-2 (पूरक)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "अनिवार्य। Q में vitan से भी प्रश्न आते हैं।"
+      },
+      {
+        "name": "परीक्षा अध्ययन हिंदी Class 12",
+        "author": "",
+        "publisher": "नवबोध / परीक्षा अध्ययन",
+        "purpose": "Supplementary",
+        "note": "MPBSE specific। PYQs और model answers। Chapter-wise questions।"
+      },
+      {
+        "name": "पिछले वर्षों के प्रश्नपत्र 2019-2025",
+        "author": "",
+        "publisher": "MPBSE",
+        "purpose": "Supplementary",
+        "note": "Pattern और repeated questions समझने के लिए।"
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "uniform_compulsory": true,
+    "electronic_devices_allowed": false,
+    "reach_before_minutes": 30,
+    "extra_time_given": false,
+    "extra_time_note": "3 घंटे fixed। Bell बजते ही उत्तर पुस्तिका जमा करनी होती है।",
+    "timetable_source": "mpbse.nic.in"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "question_number_note: हर उत्तर के ऊपर प्रश्न क्रमांक स्पष्ट लिखें।",
+      "set_number_compulsory: True",
+      "set_number_note: set number (A/B/C/D) cover page पर लिखना अनिवार्य है।",
+      "sequence_compulsory: False",
+      "sequence_note: प्रश्नों का क्रम follow करना जरूरी नहीं। जो आता हो पहले करें।"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "नीला",
+        "काला"
+      ],
+      "note": "नीले pen से मुख्य उत्तर, काले से heading/underline।"
+    },
+    "rough_work_rules": "केवल रेखाचित्र और rough work के लिए। उत्तर हमेशा pen से लिखें।",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

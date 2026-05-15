@@ -1,0 +1,2543 @@
+{
+  "board": "एमपीबीएसई",
+  "class": "12",
+  "subject": "भूगोल (Bhugol)",
+  "subject_code": "",
+  "exam_year": "",
+  "marks_structure": {
+    "theory_paper": 70,
+    "practical_paper": 30,
+    "internal_assessment": 0,
+    "total": 70,
+    "passing_marks_theory": 23,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 180,
+    "extra_time_given": false,
+    "extra_time_note": "3 घंटे। कोई एक्स्ट्रा रीडिंग टाइम नहीं मिलता।",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 20,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "हिंदी या इंग्लिश दोनों अलाउड। हिंदी वर्ज़न फाइनल माना जाता है।",
+    "all_compulsory_note": "Q6 से Q20 तक सभी क्वेश्चन्स में इंटरनल चॉइस (अथवा/OR) दिया जाता है।",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (सही विकल्प)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "सिर्फ करेक्ट ऑप्शन (a)/(b)/(c)/(d) लिखना है। नो एक्सप्लेनेशन नीडेड।",
+        "mostly_from": "ट्रांसपोर्ट नेटवर्क, पॉपुलेशन डेंसिटी, एग्रीकल्चर टाइप्स, गवर्नमेंट पॉलिसीज़, टाउन टाइप्स (गैरिसन/एडमिनिस्ट्रेटिव), HDI, ह्यूमन ज्योग्राफी स्कूल्स, सब्सिस्टेंस एक्टिविटीज़, पोर्ट टाइप्स, क्वाटर्नरी एक्टिविटीज़, रिवर बैंक सिटीज़।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "रिक्त स्थान (Fill in the Blanks)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "एक वर्ड/नंबर/नाम लिखना है।",
+        "mostly_from": "ह्यूमनिस्टिक अप्रोच/अमर्त्य सेन, चैनल टनल/लंदन, मार्जिनल वर्कर्स 183 दिनों से कम, एडमिनिस्ट्रेटिव सिटी/न्यू दिल्ली, फाइबर क्रॉप्स/जूट, HDI वैल्यूज़, NHAI ईयर 1995, शेड्यूल्ड लैंग्वेजेज़, 1951-1981 पॉपुलेशन एक्सप्लोज़न पीरियड।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "सत्य/असत्य (True/False)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "सिर्फ सत्य या असत्य लिखना है।",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "सही जोड़ी (Match the Column)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 5,
+        "attempt": 5,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "एक वाक्य में उत्तर (Ek Vakya)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 5,
+        "attempt": 5,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "HDR पब्लिश्ड बाय UNDP, WTO फॉर्म्ड 1995, पॉपुलेशन डेंसिटी 382/sq km (2011), एशिया लार्जेस्ट स्लम धारावी, इंदिरा गांधी कैनाल फ्रॉम हरिके बैराज फिरोज़पुर, इंडियन रेलवे ज़ोन्स 18, नेशनल वॉटर पॉलिसी 2012।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "अति लघु उत्तरीय (Very Short Answer)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 2,
+        "total_in_paper": 8,
+        "attempt": 8,
+        "negative_marking": false,
+        "how_to_attempt": "डेफिनिशन या 2-3 लाइन आंसर। OR ऑप्शन में से एक चूज़ करो।",
+        "mostly_from": "स्टॉप एंड गो डिटरमिनिज़्म, ह्यूमन ज्योग्राफी डेफिनिशन, डेथ रेट फॉर्मूला, पॉपुलेशन डेंसिटी फॉर्मूला, 4 अप्रोचेस ह्यूमन डेवलपमेंट, क्यों ह्यूमन्स सर्टेन रीजन्स प्रीफर करते हैं, मेडिटेरेनियन एग्रीकल्चर 2 फीचर्स, कोऑपरेटिव फार्मिंग, वर्किंग पॉपुलेशन कैटेगरीज़ इंडिया, मेन vs मार्जिनल वर्कर्स, आइसोलेटेड सेटलमेंट, अर्बन सेटलमेंट फीचर्स, ग्राउंड वॉटर स्टेट्स इंडिया, वॉटर कंज़र्वेशन मेज़र्स, एयर पॉल्यूशन सोर्सेस, एयर पॉल्यूशन हेल्थ इफेक्ट्स, शिफ्टिंग कल्टीवेशन, बेसिक नीड्स अप्रोच, स्मॉल स्केल इंडस्ट्री 2 फीचर्स, पॉपुलेशन ग्रोथ Phase-II इंडिया, हैमलेटेड सेटलमेंट्स, कॉटेज इंडस्ट्री, मैन्युफैक्चरिंग इंडस्ट्री, बेटी बचाओ बेटी पढ़ाओ रीज़न, स्मार्ट सिटीज़ मिशन।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "30 वर्ड्स",
+        "notes": ""
+      },
+      {
+        "type": "लघु उत्तरीय (Short Answer)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 3,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "3 नंबर्ड पॉइंट्स + एग्ज़ांपल। कंपेरेटिव क्वेश्चन्स के लिए टेबल बेटर है।",
+        "mostly_from": "ज्योग्राफिकल फैक्टर्स पॉपुलेशन डिस्ट्रीब्यूशन (3 पॉइंट्स), इकोनॉमिक फैक्टर्स (3 पॉइंट्स), प्लांटेशन एग्रीकल्चर 3 फीचर्स, डेयरी फार्मिंग 3 फीचर्स, नॉर्दर्न अटलांटिक सी रूट 3 फीचर्स, मेडिटेरेनियन-इंडियन ओशन रूट 3 फीचर्स, लार्ज रूरल पॉपुलेशन रीज़न्स (3), इंडियन एग्रीकल्चर 3 प्रॉब्लम्स, किसान पोर्टल इम्पोर्टेंस (3), अर्बन पॉपुलेशन डिस्ट्रीब्यूशन इंडिया (3), Phase-III पॉपुलेशन ग्रोथ, बायो-एनर्जी यूटिलिटी (3), हिल एरिया डेवलपमेंट प्रोग्राम, कमर्शियल लाइवस्टॉक vs नोमैडिक हर्डिंग (3 बेसिस), प्राइमरी vs सेकेंडरी डिफरेंसेस (3), पॉपुलेशन ग्रोथ फेज़ेस इंडिया, सोलर एनर्जी 3 आर्ग्युमेंट्स, इंडस्ट्रियलाइज़ेशन-एम्प्लॉयमेंट-माइग्रेशन इंटररिलेशन।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "75 वर्ड्स",
+        "notes": ""
+      },
+      {
+        "type": "दीर्घ उत्तरीय (Long Answer)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 4,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "इंट्रो + 4 नंबर्ड पॉइंट्स + कंक्लूज़न। डिफरेंसेस के लिए टेबल फॉर्मैट।",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "120 वर्ड्स",
+        "notes": ""
+      },
+      {
+        "type": "विश्व का मानचित्र (World Map)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 5,
+        "attempt": 5,
+        "negative_marking": false,
+        "how_to_attempt": "मैप में एरो के पास सही नाम लिखना है। पेंसिल से मार्क, पेन से नाम।",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "भारत का मानचित्र (Bharat Manchitra)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 5,
+        "attempt": 5,
+        "negative_marking": false,
+        "how_to_attempt": "इंडिया मैप में एरोज़ से 5 स्थान दिखाने हैं। नाम क्लियरली लिखो।",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Q6 से Q20 तक सभी क्वेश्चन्स में इंटरनल चॉइस (अथवा/OR) दिया जाता है।",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 0,
+      "medium_percent": 0,
+      "hard_percent": 0,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "1",
+        "name": "Q1 — सही विकल्प (MCQ)",
+        "type": "Q1 — सही विकल्प (MCQ)",
+        "question_numbers": "",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "6 MCQ x 1 = 6 मार्क्स। सिर्फ सही ऑप्शन लिखना है।",
+        "notes": "6 MCQ x 1 = 6 मार्क्स। सिर्फ सही ऑप्शन लिखना है।"
+      },
+      {
+        "section_id": "2",
+        "name": "Q2 — रिक्त स्थान (Fill in the Blanks)",
+        "type": "Q2 — रिक्त स्थान (Fill in the Blanks)",
+        "question_numbers": "",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "3",
+        "name": "Q3 — सत्य/असत्य (True/False)",
+        "type": "Q3 — सत्य/असत्य (True/False)",
+        "question_numbers": "",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "4",
+        "name": "Q4 — सही जोड़ी (Match the Column)",
+        "type": "Q4 — सही जोड़ी (Match the Column)",
+        "question_numbers": "",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "attempt_required": 5,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "5",
+        "name": "Q5 — एक वाक्य में उत्तर (One Sentence Answer)",
+        "type": "Q5 — एक वाक्य में उत्तर (One Sentence Answer)",
+        "question_numbers": "",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "attempt_required": 5,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "questions_6_to_13",
+        "name": "Q6 to Q13 — अति लघु उत्तरीय (Very Short Answer)",
+        "type": "Q6 to Q13 — अति लघु उत्तरीय (Very Short Answer)",
+        "question_numbers": "",
+        "total_questions": 8,
+        "total_sub_questions": 0,
+        "attempt_required": 8,
+        "marks_per_question": 2,
+        "total_marks": 16,
+        "word_limit": 30,
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "questions_14_to_17",
+        "name": "Q14 to Q17 — लघु उत्तरीय (Short Answer)",
+        "type": "Q14 to Q17 — लघु उत्तरीय (Short Answer)",
+        "question_numbers": "",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": 75,
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "18",
+        "name": "Q18 — दीर्घ उत्तरीय (Long Answer)",
+        "type": "Q18 — दीर्घ उत्तरीय (Long Answer)",
+        "question_numbers": "",
+        "total_questions": 1,
+        "total_sub_questions": 0,
+        "attempt_required": 1,
+        "marks_per_question": 4,
+        "total_marks": 4,
+        "word_limit": 120,
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "19",
+        "name": "Q19 — विश्व का मानचित्र (World Map)",
+        "type": "Q19 — विश्व का मानचित्र (World Map)",
+        "question_numbers": "",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "attempt_required": 5,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "20",
+        "name": "Q20 — भारत का मानचित्र (India Map)",
+        "type": "Q20 — भारत का मानचित्र (India Map)",
+        "question_numbers": "",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "attempt_required": 5,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 70,
+    "total_practical": 30,
+    "internal_assessment": 0,
+    "grand_total": 70,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "1",
+        "name": "Q1 — सही विकल्प (MCQ)",
+        "question_numbers": "",
+        "type": "Q1 — सही विकल्प (MCQ)",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "6 MCQ x 1 = 6 मार्क्स। सिर्फ सही ऑप्शन लिखना है।"
+      },
+      {
+        "section_id": "2",
+        "name": "Q2 — रिक्त स्थान (Fill in the Blanks)",
+        "question_numbers": "",
+        "type": "Q2 — रिक्त स्थान (Fill in the Blanks)",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "3",
+        "name": "Q3 — सत्य/असत्य (True/False)",
+        "question_numbers": "",
+        "type": "Q3 — सत्य/असत्य (True/False)",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "4",
+        "name": "Q4 — सही जोड़ी (Match the Column)",
+        "question_numbers": "",
+        "type": "Q4 — सही जोड़ी (Match the Column)",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "5",
+        "name": "Q5 — एक वाक्य में उत्तर (One Sentence Answer)",
+        "question_numbers": "",
+        "type": "Q5 — एक वाक्य में उत्तर (One Sentence Answer)",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "questions_6_to_13",
+        "name": "Q6 to Q13 — अति लघु उत्तरीय (Very Short Answer)",
+        "question_numbers": "",
+        "type": "Q6 to Q13 — अति लघु उत्तरीय (Very Short Answer)",
+        "total_questions": 8,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 16,
+        "word_limit": 30,
+        "breakdown": ""
+      },
+      {
+        "section_id": "questions_14_to_17",
+        "name": "Q14 to Q17 — लघु उत्तरीय (Short Answer)",
+        "question_numbers": "",
+        "type": "Q14 to Q17 — लघु उत्तरीय (Short Answer)",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": 75,
+        "breakdown": ""
+      },
+      {
+        "section_id": "18",
+        "name": "Q18 — दीर्घ उत्तरीय (Long Answer)",
+        "question_numbers": "",
+        "type": "Q18 — दीर्घ उत्तरीय (Long Answer)",
+        "total_questions": 1,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 4,
+        "word_limit": 120,
+        "breakdown": ""
+      },
+      {
+        "section_id": "19",
+        "name": "Q19 — विश्व का मानचित्र (World Map)",
+        "question_numbers": "",
+        "type": "Q19 — विश्व का मानचित्र (World Map)",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "20",
+        "name": "Q20 — भारत का मानचित्र (India Map)",
+        "question_numbers": "",
+        "type": "Q20 — भारत का मानचित्र (India Map)",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": ""
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 70,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "1",
+      "name": "मानव भूगोल – प्रकृति एवं विषय-क्षेत्र",
+      "marks": 0,
+      "note": ""
+    },
+    "lowest_marks_chapters": [],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "मानव भूगोल – प्रकृति एवं विषय-क्षेत्र",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "A"
+      },
+      {
+        "chapter_id": "2",
+        "name": "विश्व जनसंख्या – वितरण, घनत्व और वृद्धि; मानव विकास",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "A"
+      },
+      {
+        "chapter_id": "3",
+        "name": "मानव बस्तियाँ (विश्व)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "A"
+      },
+      {
+        "chapter_id": "4",
+        "name": "प्राथमिक, द्वितीयक, तृतीयक और चतुर्थक क्रियाएँ",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "A"
+      },
+      {
+        "chapter_id": "5",
+        "name": "परिवहन एवं संचार; अन्तर्राष्ट्रीय व्यापार (विश्व)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "A"
+      },
+      {
+        "chapter_id": "6",
+        "name": "जनसंख्या – वितरण, घनत्व, वृद्धि और संघटन",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "B"
+      },
+      {
+        "chapter_id": "7",
+        "name": "मानव बस्तियाँ",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "B"
+      },
+      {
+        "chapter_id": "8",
+        "name": "भूसंसाधन तथा कृषि; जल संसाधन; खनिज तथा ऊर्जा संसाधन; भारत के संदर्भ में नियोजन और सतत् पोषणीय विकास",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "B"
+      },
+      {
+        "chapter_id": "9",
+        "name": "परिवहन तथा संचार; अन्तर्राष्ट्रीय व्यापार",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "B"
+      },
+      {
+        "chapter_id": "10",
+        "name": "भौगोलिक परिप्रेक्ष्य में चयनित कुछ मुद्दे एवं समस्याएँ",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "B"
+      }
+    ],
+    "totals": {
+      "total_marks": 70,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Geography Class 12 — 10 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Geography — A",
+        "category": "A",
+        "total_marks": 0,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "मानव भूगोल – प्रकृति एवं विषय-क्षेत्र",
+            "marks": 0,
+            "topics": [
+              "ह्यूमन ज्योग्राफी की डेफिनिशन — रेटज़ल, सेंपल, विडाल डी ला ब्लाश",
+              "एनवायरनमेंटल डिटरमिनिज़्म — रेटज़ल, सेंपल",
+              "पॉसिबिलिज़्म — विडाल डी ला ब्लाश (2 कैरेक्टरिस्टिक्स: ह्यूमन के पास चॉइसेस हैं, मैन एनवायरनमेंट को मॉडिफाई करता है)",
+              "नियो-डिटरमिनिज़्म (स्टॉप एंड गो) — ग्रिफिन और टेलर (2 कैरेक्टरिस्टिक्स: न पूरी तरह डिटरमिनिस्टिक न पूरी तरह पॉसिबिलिस्टिक, मिडल पाथ)",
+              "ह्यूमनिस्टिक अप्रोच — प्रोफ. अमर्त्य सेन से एसोसिएटेड",
+              "रेडिकल अप्रोच — 1970s, पॉवर्टी और इनइक्वॉलिटी पर फोकस",
+              "वेलफेयर/बिहेवियरल अप्रोच"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "विश्व जनसंख्या – वितरण, घनत्व और वृद्धि; मानव विकास",
+            "marks": 0,
+            "topics": [
+              "वर्ल्ड पॉपुलेशन डिस्ट्रीब्यूशन — डेंसली vs स्पार्सली पॉपुलेटेड एरियाज़",
+              "पॉपुलेशन डेंसिटी फॉर्मूलाज़ — अरिथमेटिक, एग्रीकल्चरल (फ़िज़ियोलॉजिकल), वेजिटेटिव",
+              "नेचुरल ग्रोथ = बर्थ रेट - डेथ रेट",
+              "पॉपुलेशन का नेगेटिव ग्रोथ",
+              "डेमोग्राफिक ट्रांज़िशन थ्योरी — 4 स्टेजेस",
+              "माइग्रेशन — इमिग्रेशन/एमिग्रेशन डेफिनिशन्स",
+              "ह्यूमन डेवलपमेंट इंडेक्स (HDI) — UNDP एनुअली HDR पब्लिश करता है",
+              "ह्यूमन डेवलपमेंट के 4 अप्रोचेस: इनकम, वेलफेयर, बेसिक नीड्स, कैपेबिलिटी/एम्पावरमेंट",
+              "ग्रोथ vs डेवलपमेंट डिफरेंस",
+              "इनकम अप्रोच vs वेलफेयर अप्रोच कंपेरिज़न"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "मानव बस्तियाँ (विश्व)",
+            "marks": 0,
+            "topics": [
+              "रूरल सेटलमेंट पैटर्न्स — लीनियर, रेक्टेंगुलर, सर्कुलर, T-शेप्ड, स्टार-शेप्ड, क्रॉस-शेप्ड",
+              "आइसोलेटेड (एकाकी) सेटलमेंट्स — डेफिनिशन और लोकेशन (हिल्स, फॉरेस्ट्स, डेज़र्ट्स)",
+              "अर्बन सेटलमेंट्स — डेफिनिशन और 2 कैरेक्टरिस्टिक्स",
+              "टाउन टाइप्स — एडमिनिस्ट्रेटिव (न्यू दिल्ली), गैरिसन/कैंटोनमेंट (अंबाला, नैनीताल), एजुकेशनल, इंडस्ट्रियल, रिलिजियस/पिलग्रिमेज, कमर्शियल/मार्केट",
+              "इंडिया में मेडीवल टाउन्स — फीचर्स",
+              "हैमलेटेड सेटलमेंट्स — फीचर्स",
+              "अर्बन एरियाज़ की प्रॉब्लम्स — हाउसिंग, अनएम्प्लॉयमेंट, स्लम्स, पॉल्यूशन, ट्रैफिक"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "प्राथमिक, द्वितीयक, तृतीयक और चतुर्थक क्रियाएँ",
+            "marks": 0,
+            "topics": [
+              "प्राइमरी एक्टिविटीज़ — हंटिंग/गैदरिंग (ओल्डेस्ट), पैस्टोरल, माइनिंग, फिशिंग, एग्रीकल्चर",
+              "सेकेंडरी एक्टिविटीज़ — मैन्युफैक्चरिंग (कॉटेज/स्मॉल/लार्ज स्केल)",
+              "टर्शरी एक्टिविटीज़ — सर्विसेज़, ट्रेड, ट्रांसपोर्ट",
+              "क्वाटर्नरी एक्टिविटीज़ — R&D, IT, नॉलेज-बेस्ड, हाई इनोवेशन लेवल",
+              "क्विनरी एक्टिविटीज़ — गोल्ड कॉलर वर्कर्स, टॉप-लेवल डिसीज़न मेकिंग",
+              "एग्रीकल्चर टाइप्स — सभी डिटेल्स नीचे"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "परिवहन एवं संचार; अन्तर्राष्ट्रीय व्यापार (विश्व)",
+            "marks": 0,
+            "topics": [
+              "लैंड ट्रांसपोर्ट — रेलवेज़ (ट्रांस-साइबेरियन, ट्रांस-कैनेडियन, ऑस्ट्रेलियन ट्रांस-कॉन्टिनेंटल)",
+              "वॉटर ट्रांसपोर्ट — सी रूट्स (इम्पोर्टेंस, बिज़ीएस्ट रूट्स)",
+              "एयर ट्रांसपोर्ट — USA वर्ल्ड के 60% एयर ट्रैफिक का यूज़ करता है (2 रीज़न्स: इकोनॉमिक पावर, लार्ज एयरक्राफ्ट मैन्युफैक्चरर्स, लार्ज डोमेस्टिक एयर मार्केट, मैक्सिमम एयरपोर्ट्स)",
+              "पाइपलाइन ट्रांसपोर्ट — लिक्विड्स और गैसेस के लिए इम्पोर्टेंस",
+              "कैनाल्स — स्वेज़ कैनाल और पनामा कैनाल",
+              "इंटरनेट — ग्लोबल विलेज कॉन्सेप्ट",
+              "इंटरनेशनल ट्रेड — WTO 1995 में फॉर्म्ड"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Geography — B",
+        "category": "B",
+        "total_marks": 0,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "6",
+            "name": "जनसंख्या – वितरण, घनत्व, वृद्धि और संघटन",
+            "marks": 0,
+            "topics": [
+              "इंडिया पॉपुलेशन डेंसिटी 2011 = 382 पर्सन्स पर sq km",
+              "1921 = ईयर ऑफ ग्रेट डिवाइड (डेथ रेट डिक्लाइन होना शुरू हुआ)",
+              "पॉपुलेशन ग्रोथ फेज़ेस — 4 फेज़ेस",
+              "1951-1981 = इंडिया में पॉपुलेशन एक्सप्लोज़न का पीरियड",
+              "वर्किंग पॉपुलेशन कैटेगरीज़: कल्टीवेटर्स, एग्रीकल्चरल लेबरर्स, हाउसहोल्ड इंडस्ट्री, अदर वर्कर्स",
+              "मेन वर्कर = 183+ दिन प्रति वर्ष; मार्जिनल वर्कर = 183 दिनों से कम",
+              "सेक्स रेशियो इंडिया (2011) = 943 फीमेल्स प्रति 1000 मेल्स",
+              "माइग्रेशन — पुश और पुल फैक्टर्स",
+              "बेटी बचाओ बेटी पढ़ाओ — रीज़न्स: डिक्लाइनिंग सेक्स रेशियो, फीमेल फीटीसाइड",
+              "नेशनल यूथ पॉलिसी = फरवरी 2014",
+              "सेकेंडरी/टर्शरी सेक्टर ग्रोइंग — रीज़न्स (2011 सेंसस)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "मानव बस्तियाँ",
+            "marks": 0,
+            "topics": [
+              "इंडिया में रूरल सेटलमेंट्स — 4 टाइप्स: (1) कॉम्पैक्ट/न्यूक्लिएटेड, (2) सेमी-कॉम्पैक्ट, (3) हैमलेटेड/पल्ली, (4) डिस्पर्स्ड/स्कैटर्ड",
+              "नागालैंड में डिस्पर्स्ड सेटलमेंट्स पाए जाते हैं",
+              "अर्बन सेटलमेंट्स — डेफिनिशन, कैरेक्टरिस्टिक्स",
+              "स्मार्ट सिटीज़ मिशन — ऑब्जेक्टिव्स: सस्टेनेबल इंफ्रास्ट्रक्चर, क्लीन एनर्जी, 100 स्मार्ट सिटीज़ सिलेक्टेड",
+              "अर्बन पॉपुलेशन डिस्ट्रीब्यूशन इंडिया — महाराष्ट्र, तमिलनाडु, उत्तर प्रदेश में लार्ज अर्बन पॉपुलेशन",
+              "मेट्रोपॉलिटन सिटीज़ (10 लाख+), मेगासिटीज़ (1 करोड़+)",
+              "एशिया का लार्जेस्ट स्लम: धारावी, मुंबई"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "भूसंसाधन तथा कृषि; जल संसाधन; खनिज तथा ऊर्जा संसाधन; भारत के संदर्भ में नियोजन और सतत् पोषणीय विकास",
+            "marks": 0,
+            "topics": [
+              "लैंड रिसोर्सेस — फैलो लैंड, करंट फैलो, फॉरेस्ट, नेट सोन एरिया",
+              "वॉटर रिसोर्सेस — सरफेस वॉटर (रिवर्स, लेक्स) और ग्राउंड वॉटर",
+              "हाईएस्ट ग्राउंड वॉटर यूज़ेज स्टेट्स: पंजाब, हरियाणा, राजस्थान",
+              "वॉटर कंज़र्वेशन स्ट्रक्चर्स — कुल/कुह्ल, टांका, बावली/जोहड़, बैम्बू ड्रिप, फड",
+              "नेशनल वॉटर पॉलिसी 2012",
+              "वॉटरशेड मैनेजमेंट डेफिनिशन",
+              "मिनरल रिसोर्सेस — आयरन ओर, कोल, पेट्रोलियम, न्यूक्लियर, नॉन-फेरस",
+              "इंडिया के 4 मिनरल बेल्ट्स",
+              "एग्रीकल्चर — फूड क्रॉप्स और कैश क्रॉप्स",
+              "मैन्युफैक्चरिंग इंडस्ट्रीज़ और इंडस्ट्रियल रीजन्स",
+              "हिल एरिया डेवलपमेंट प्रोग्राम (5वीं फाइव ईयर प्लान)",
+              "ड्रॉट-प्रोन एरिया प्रोग्राम (DPAP)",
+              "PMKSY — प्रधानमंत्री कृषि सिंचाई योजना",
+              "किसान पोर्टल इम्पोर्टेंस",
+              "इंडियन एग्रीकल्चर प्रॉब्लम्स"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "परिवहन तथा संचार; अन्तर्राष्ट्रीय व्यापार",
+            "marks": 0,
+            "topics": [
+              "रोडवेज़ — नेशनल हाईवेज़, NHAI (नेशनल हाईवे अथॉरिटी ऑफ इंडिया) 1995 में ऑपरेशनलाइज़्ड",
+              "NH7 (अब NH44) — वाराणसी से कन्याकुमारी — इंडिया का लॉन्गेस्ट नेशनल हाईवे",
+              "रेलवेज़ — 18 ज़ोन्स; इंडियन रेलवेज़ वर्ल्ड के लार्जेस्ट नेटवर्क्स में से एक",
+              "नेशनल वॉटरवेज़ — NW1 (गंगा: इलाहाबाद से हल्दिया), NW2 (ब्रह्मपुत्र), NW3 (केरल बैकवॉटर्स)",
+              "इंडिया में पाइपलाइन ट्रांसपोर्ट",
+              "इंडिया के मेजर पोर्ट्स — मुंबई, कांडला, मर्मगाओ, कोच्चि, पारादीप, विशाखापत्तनम, चेन्नई, हल्दिया, एन्नोर",
+              "इंदिरा गांधी कैनाल — हरिके बैराज (फिरोज़पुर, पंजाब) से राजस्थान (बाड़मेर) तक",
+              "इंटरनेशनल ट्रेड इंडिया — कंपोज़िशन और डायरेक्शन",
+              "WTO — वर्ल्ड ट्रेड ऑर्गेनाइज़ेशन, 1995 में फॉर्म्ड"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "भौगोलिक परिप्रेक्ष्य में चयनित कुछ मुद्दे एवं समस्याएँ",
+            "marks": 0,
+            "topics": [
+              "एयर पॉल्यूशन — मेजर सोर्सेस, ह्यूमन हेल्थ पर इफेक्ट्स, कंट्रोल मेज़र्स",
+              "वॉटर पॉल्यूशन — कॉज़ेस और इफेक्ट्स",
+              "नॉइज़ पॉल्यूशन — सोर्सेस और इफेक्ट्स",
+              "लैंड डीग्रेडेशन — कॉज़ेस और रेमेडीज़",
+              "बायो-एनर्जी — यूटिलिटी और इम्पोर्टेंस",
+              "नॉन-कन्वेंशनल एनर्जी सोर्सेस — सोलर, विंड, बायोगैस, टाइडल, जियोथर्मल, हाइड्रोजन",
+              "कन्वेंशनल एनर्जी — कोल, पेट्रोलियम, नेचुरल गैस, हाइडल, न्यूक्लियर",
+              "सोलर एनर्जी एज़ नॉन-कन्वेंशनल — इसके फेवर में 3 आर्ग्युमेंट्स",
+              "फार्मर्स सुसाइड्स — कॉज़ के रूप में इंडेब्टेडनेस, क्रॉप फेलियर से रिलेशन",
+              "हिल एरिया डेवलपमेंट प्रोग्राम — 5वीं फाइव ईयर प्लान में स्टार्टेड"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "मानव भूगोल – प्रकृति एवं विषय-क्षेत्र",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 1,
+      "unit_name": "",
+      "part": "A",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी-मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "ह्यूमन ज्योग्राफी की डेफिनिशन — रेटज़ल, सेंपल, विडाल डी ला ब्लाश",
+        "एनवायरनमेंटल डिटरमिनिज़्म — रेटज़ल, सेंपल",
+        "पॉसिबिलिज़्म — विडाल डी ला ब्लाश (2 कैरेक्टरिस्टिक्स: ह्यूमन के पास चॉइसेस हैं, मैन एनवायरनमेंट को मॉडिफाई करता है)",
+        "नियो-डिटरमिनिज़्म (स्टॉप एंड गो) — ग्रिफिन और टेलर (2 कैरेक्टरिस्टिक्स: न पूरी तरह डिटरमिनिस्टिक न पूरी तरह पॉसिबिलिस्टिक, मिडल पाथ)",
+        "ह्यूमनिस्टिक अप्रोच — प्रोफ. अमर्त्य सेन से एसोसिएटेड",
+        "रेडिकल अप्रोच — 1970s, पॉवर्टी और इनइक्वॉलिटी पर फोकस",
+        "वेलफेयर/बिहेवियरल अप्रोच"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "स्टॉप एंड गो डिटरमिनिज़्म 2 कैरेक्टरिस्टिक्स (VSA), ह्यूमन ज्योग्राफी डेफिनिशन (VSA), पॉसिबिलिज़्म 2 कैरेक्टरिस्टिक्स (VSA), नियो-डिटरमिनिज़्म 2 कैरेक्टरिस्टिक्स (VSA), स्कूल्स कंपेरिज़न (शॉर्ट)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "विश्व जनसंख्या – वितरण, घनत्व और वृद्धि; मानव विकास",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 2,
+      "unit_name": "",
+      "part": "A",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "वर्ल्ड पॉपुलेशन डिस्ट्रीब्यूशन — डेंसली vs स्पार्सली पॉपुलेटेड एरियाज़",
+        "पॉपुलेशन डेंसिटी फॉर्मूलाज़ — अरिथमेटिक, एग्रीकल्चरल (फ़िज़ियोलॉजिकल), वेजिटेटिव",
+        "नेचुरल ग्रोथ = बर्थ रेट - डेथ रेट",
+        "पॉपुलेशन का नेगेटिव ग्रोथ",
+        "डेमोग्राफिक ट्रांज़िशन थ्योरी — 4 स्टेजेस",
+        "माइग्रेशन — इमिग्रेशन/एमिग्रेशन डेफिनिशन्स",
+        "ह्यूमन डेवलपमेंट इंडेक्स (HDI) — UNDP एनुअली HDR पब्लिश करता है",
+        "ह्यूमन डेवलपमेंट के 4 अप्रोचेस: इनकम, वेलफेयर, बेसिक नीड्स, कैपेबिलिटी/एम्पावरमेंट",
+        "ग्रोथ vs डेवलपमेंट डिफरेंस",
+        "इनकम अप्रोच vs वेलफेयर अप्रोच कंपेरिज़न"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "पॉपुलेशन डेंसिटी = टोटल पॉपुलेशन / टोटल एरिया",
+        "एग्रीकल्चरल डेंसिटी = एग्रीकल्चरल पॉपुलेशन / नेट सोन एरिया",
+        "वेजिटेटिव डेंसिटी = टोटल पॉपुलेशन / नेट कल्टिवेबल एरिया",
+        "नेचुरल ग्रोथ = बर्थ रेट - डेथ रेट",
+        "क्रूड डेथ रेट = (ईयर में डेथ्स / पॉपुलेशन) x 1000"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "पॉपुलेशन डेंसिटी फॉर्मूला (VSA), ह्यूमन डेवलपमेंट के 4 अप्रोचेस (VSA — बार-बार आता है), ग्रोथ vs डेवलपमेंट 2 डिफरेंसेस (VSA/शॉर्ट), इनकम vs वेलफेयर अप्रोच कंपेयर (VSA), नेचुरल/नेगेटिव ग्रोथ डेफिनिशन (VSA), पॉपुलेशन डिस्ट्रीब्यूशन वर्ल्ड फैक्टर्स (शॉर्ट)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "मानव बस्तियाँ (विश्व)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 3,
+      "unit_name": "",
+      "part": "A",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "रूरल सेटलमेंट पैटर्न्स — लीनियर, रेक्टेंगुलर, सर्कुलर, T-शेप्ड, स्टार-शेप्ड, क्रॉस-शेप्ड",
+        "आइसोलेटेड (एकाकी) सेटलमेंट्स — डेफिनिशन और लोकेशन (हिल्स, फॉरेस्ट्स, डेज़र्ट्स)",
+        "अर्बन सेटलमेंट्स — डेफिनिशन और 2 कैरेक्टरिस्टिक्स",
+        "टाउन टाइप्स — एडमिनिस्ट्रेटिव (न्यू दिल्ली), गैरिसन/कैंटोनमेंट (अंबाला, नैनीताल), एजुकेशनल, इंडस्ट्रियल, रिलिजियस/पिलग्रिमेज, कमर्शियल/मार्केट",
+        "इंडिया में मेडीवल टाउन्स — फीचर्स",
+        "हैमलेटेड सेटलमेंट्स — फीचर्स",
+        "अर्बन एरियाज़ की प्रॉब्लम्स — हाउसिंग, अनएम्प्लॉयमेंट, स्लम्स, पॉल्यूशन, ट्रैफिक"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "आइसोलेटेड सेटलमेंट डेफिनिशन (VSA), अर्बन सेटलमेंट 2 कैरेक्टरिस्टिक्स (VSA), गैरिसन vs एडमिनिस्ट्रेटिव टाउन MCQ, हैमलेटेड सेटलमेंट्स 2 फीचर्स (VSA), मेडीवल टाउन्स 2 फीचर्स (VSA), स्मार्ट सिटीज़ मिशन (VSA under Unit 7)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "प्राथमिक, द्वितीयक, तृतीयक और चतुर्थक क्रियाएँ",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 4,
+      "unit_name": "",
+      "part": "A",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम — एग्रीकल्चर टाइप्स कंपेरिज़न टेबल बनाओ",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "प्राइमरी एक्टिविटीज़ — हंटिंग/गैदरिंग (ओल्डेस्ट), पैस्टोरल, माइनिंग, फिशिंग, एग्रीकल्चर",
+        "सेकेंडरी एक्टिविटीज़ — मैन्युफैक्चरिंग (कॉटेज/स्मॉल/लार्ज स्केल)",
+        "टर्शरी एक्टिविटीज़ — सर्विसेज़, ट्रेड, ट्रांसपोर्ट",
+        "क्वाटर्नरी एक्टिविटीज़ — R&D, IT, नॉलेज-बेस्ड, हाई इनोवेशन लेवल",
+        "क्विनरी एक्टिविटीज़ — गोल्ड कॉलर वर्कर्स, टॉप-लेवल डिसीज़न मेकिंग",
+        "एग्रीकल्चर टाइप्स — सभी डिटेल्स नीचे"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "प्लांटेशन एग्रीकल्चर 3 फीचर्स (शॉर्ट), डेयरी फार्मिंग 2-3 फीचर्स (VSA/शॉर्ट), मेडिटेरेनियन एग्रीकल्चर 2 फीचर्स (VSA), नोमैडिक हर्डिंग 2 फीचर्स (VSA), कमर्शियल लाइवस्टॉक vs नोमैडिक 3 डिफरेंसेस (शॉर्ट), प्राइमरी vs सेकेंडरी 4 डिफरेंसेस (लॉन्ग), कॉटेज इंडस्ट्री डेफिनिशन (VSA), मैन्युफैक्चरिंग इंडस्ट्री डेफिनिशन (VSA), ड्रायलैंड फार्मिंग — शुगरकेन नहीं उगाई जाती (MCQ/T-F), प्रिमिटिव सब्सिस्टेंस = नोमैडिक हर्डिंग (MCQ), क्वाटर्नरी एक्टिविटीज़ डेफिनिशन (MCQ/VSA)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "परिवहन एवं संचार; अन्तर्राष्ट्रीय व्यापार (विश्व)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 5,
+      "unit_name": "",
+      "part": "A",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "लैंड ट्रांसपोर्ट — रेलवेज़ (ट्रांस-साइबेरियन, ट्रांस-कैनेडियन, ऑस्ट्रेलियन ट्रांस-कॉन्टिनेंटल)",
+        "वॉटर ट्रांसपोर्ट — सी रूट्स (इम्पोर्टेंस, बिज़ीएस्ट रूट्स)",
+        "एयर ट्रांसपोर्ट — USA वर्ल्ड के 60% एयर ट्रैफिक का यूज़ करता है (2 रीज़न्स: इकोनॉमिक पावर, लार्ज एयरक्राफ्ट मैन्युफैक्चरर्स, लार्ज डोमेस्टिक एयर मार्केट, मैक्सिमम एयरपोर्ट्स)",
+        "पाइपलाइन ट्रांसपोर्ट — लिक्विड्स और गैसेस के लिए इम्पोर्टेंस",
+        "कैनाल्स — स्वेज़ कैनाल और पनामा कैनाल",
+        "इंटरनेट — ग्लोबल विलेज कॉन्सेप्ट",
+        "इंटरनेशनल ट्रेड — WTO 1995 में फॉर्म्ड"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "नॉर्दर्न अटलांटिक सी रूट 3 फीचर्स (शॉर्ट), मेडिटेरेनियन-इंडियन ओशन 3 फीचर्स (शॉर्ट), पाइपलाइन ट्रांसपोर्ट 4 इम्पोर्टेंस (लॉन्ग), USA 60% एयर ट्रैफिक 2 रीज़न्स (VSA), इंटरनेट ग्लोबल विलेज 2 आर्ग्युमेंट्स (VSA), इंटरनेशनल पोर्ट्स 4 फीचर्स (लॉन्ग), स्वेज़ कैनाल vs पनामा कैनाल कंपेरिज़न (शॉर्ट)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "जनसंख्या – वितरण, घनत्व, वृद्धि और संघटन",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 6,
+      "unit_name": "",
+      "part": "B",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "इंडिया पॉपुलेशन डेंसिटी 2011 = 382 पर्सन्स पर sq km",
+        "1921 = ईयर ऑफ ग्रेट डिवाइड (डेथ रेट डिक्लाइन होना शुरू हुआ)",
+        "पॉपुलेशन ग्रोथ फेज़ेस — 4 फेज़ेस",
+        "1951-1981 = इंडिया में पॉपुलेशन एक्सप्लोज़न का पीरियड",
+        "वर्किंग पॉपुलेशन कैटेगरीज़: कल्टीवेटर्स, एग्रीकल्चरल लेबरर्स, हाउसहोल्ड इंडस्ट्री, अदर वर्कर्स",
+        "मेन वर्कर = 183+ दिन प्रति वर्ष; मार्जिनल वर्कर = 183 दिनों से कम",
+        "सेक्स रेशियो इंडिया (2011) = 943 फीमेल्स प्रति 1000 मेल्स",
+        "माइग्रेशन — पुश और पुल फैक्टर्स",
+        "बेटी बचाओ बेटी पढ़ाओ — रीज़न्स: डिक्लाइनिंग सेक्स रेशियो, फीमेल फीटीसाइड",
+        "नेशनल यूथ पॉलिसी = फरवरी 2014",
+        "सेकेंडरी/टर्शरी सेक्टर ग्रोइंग — रीज़न्स (2011 सेंसस)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "पॉपुलेशन डेंसिटी 382/sq km (MCQ/Q5), पॉपुलेशन ग्रोथ फेज़ेस इंडिया (शॉर्ट/लॉन्ग), Phase-III एक्सप्लेनेशन (शॉर्ट), ऑक्यूपेशनल कंपोज़िशन इंडिया मीनिंग (VSA), मेन vs मार्जिनल वर्कर्स डेफिनिशन (VSA), बेटी बचाओ बेटी पढ़ाओ रीज़न (VSA), सेकेंडरी/टर्शरी सेक्टर पार्टिसिपेशन इंक्रीज़िंग — 2 रीज़न्स (VSA), लार्ज रूरल पॉपुलेशन इन सम स्टेट्स — 3 रीज़न्स (शॉर्ट)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "मानव बस्तियाँ",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 7,
+      "unit_name": "",
+      "part": "B",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी-मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "इंडिया में रूरल सेटलमेंट्स — 4 टाइप्स: (1) कॉम्पैक्ट/न्यूक्लिएटेड, (2) सेमी-कॉम्पैक्ट, (3) हैमलेटेड/पल्ली, (4) डिस्पर्स्ड/स्कैटर्ड",
+        "नागालैंड में डिस्पर्स्ड सेटलमेंट्स पाए जाते हैं",
+        "अर्बन सेटलमेंट्स — डेफिनिशन, कैरेक्टरिस्टिक्स",
+        "स्मार्ट सिटीज़ मिशन — ऑब्जेक्टिव्स: सस्टेनेबल इंफ्रास्ट्रक्चर, क्लीन एनर्जी, 100 स्मार्ट सिटीज़ सिलेक्टेड",
+        "अर्बन पॉपुलेशन डिस्ट्रीब्यूशन इंडिया — महाराष्ट्र, तमिलनाडु, उत्तर प्रदेश में लार्ज अर्बन पॉपुलेशन",
+        "मेट्रोपॉलिटन सिटीज़ (10 लाख+), मेगासिटीज़ (1 करोड़+)",
+        "एशिया का लार्जेस्ट स्लम: धारावी, मुंबई"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "रूरल सेटलमेंट्स इंडिया — कितने टाइप्स? (VSA — 4 टाइप्स नामों के साथ), हैमलेटेड सेटलमेंट्स 2 फीचर्स (VSA), अर्बन सेटलमेंट 2 कैरेक्टरिस्टिक्स (VSA), स्मार्ट सिटीज़ मिशन — क्या है और ऑब्जेक्टिव्स (VSA), अर्बन पॉपुलेशन डिस्ट्रीब्यूशन इंडिया (शॉर्ट), मेडीवल टाउन्स 2 फीचर्स (VSA)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "भूसंसाधन तथा कृषि; जल संसाधन; खनिज तथा ऊर्जा संसाधन; भारत के संदर्भ में नियोजन और सतत् पोषणीय विकास",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 8,
+      "unit_name": "",
+      "part": "B",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम-हार्ड — हाईएस्ट मार्क्स यूनिट (20 मार्क्स)",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "लैंड रिसोर्सेस — फैलो लैंड, करंट फैलो, फॉरेस्ट, नेट सोन एरिया",
+        "वॉटर रिसोर्सेस — सरफेस वॉटर (रिवर्स, लेक्स) और ग्राउंड वॉटर",
+        "हाईएस्ट ग्राउंड वॉटर यूज़ेज स्टेट्स: पंजाब, हरियाणा, राजस्थान",
+        "वॉटर कंज़र्वेशन स्ट्रक्चर्स — कुल/कुह्ल, टांका, बावली/जोहड़, बैम्बू ड्रिप, फड",
+        "नेशनल वॉटर पॉलिसी 2012",
+        "वॉटरशेड मैनेजमेंट डेफिनिशन",
+        "मिनरल रिसोर्सेस — आयरन ओर, कोल, पेट्रोलियम, न्यूक्लियर, नॉन-फेरस",
+        "इंडिया के 4 मिनरल बेल्ट्स",
+        "एग्रीकल्चर — फूड क्रॉप्स और कैश क्रॉप्स",
+        "मैन्युफैक्चरिंग इंडस्ट्रीज़ और इंडस्ट्रियल रीजन्स",
+        "हिल एरिया डेवलपमेंट प्रोग्राम (5वीं फाइव ईयर प्लान)",
+        "ड्रॉट-प्रोन एरिया प्रोग्राम (DPAP)",
+        "PMKSY — प्रधानमंत्री कृषि सिंचाई योजना",
+        "किसान पोर्टल इम्पोर्टेंस",
+        "इंडियन एग्रीकल्चर प्रॉब्लम्स"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "ग्राउंड वॉटर यूज़ स्टेट्स (VSA), वॉटर कंज़र्वेशन 2 मेज़र्स (VSA), वॉटरशेड मैनेजमेंट (VSA), मिनरल बेल्ट्स इंडिया 4 (लॉन्ग/शॉर्ट), व्हीट कंडीशन्स + स्टेट्स (शॉर्ट), कॉटन महाराष्ट्र, जूट WB (MCQ/फिल ब्लैंक), टी NE इंडिया एरिया (Q20 मैप), कॉफी कर्नाटक (MCQ/Q20 मैप), शुगरकेन UP (Q20 मैप), इंडिया व्हीट 2nd नॉट 1st (T-F), इंडियन एग्रीकल्चर 3 प्रॉब्लम्स (शॉर्ट), PMKSY 4 ऑब्जेक्टिव्स (लॉन्ग), DPAP + ड्रायलैंड फार्मिंग 4 पॉइंट्स (लॉन्ग), किसान पोर्टल इम्पोर्टेंस 3 (शॉर्ट), हिल एरिया डेवलपमेंट प्रोग्राम (शॉर्ट/VSA), मुंबई हाई (Q20 मैप), रानीगंज, बैलाडीला, बीना ऑयल रिफाइनरी (Q20 मैप), अमरकंटक नर्मदा ओरिजिन (Q20 मैप), इंदिरा गांधी कैनाल (Q20 मैप)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "परिवहन तथा संचार; अन्तर्राष्ट्रीय व्यापार",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 9,
+      "unit_name": "",
+      "part": "B",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "रोडवेज़ — नेशनल हाईवेज़, NHAI (नेशनल हाईवे अथॉरिटी ऑफ इंडिया) 1995 में ऑपरेशनलाइज़्ड",
+        "NH7 (अब NH44) — वाराणसी से कन्याकुमारी — इंडिया का लॉन्गेस्ट नेशनल हाईवे",
+        "रेलवेज़ — 18 ज़ोन्स; इंडियन रेलवेज़ वर्ल्ड के लार्जेस्ट नेटवर्क्स में से एक",
+        "नेशनल वॉटरवेज़ — NW1 (गंगा: इलाहाबाद से हल्दिया), NW2 (ब्रह्मपुत्र), NW3 (केरल बैकवॉटर्स)",
+        "इंडिया में पाइपलाइन ट्रांसपोर्ट",
+        "इंडिया के मेजर पोर्ट्स — मुंबई, कांडला, मर्मगाओ, कोच्चि, पारादीप, विशाखापत्तनम, चेन्नई, हल्दिया, एन्नोर",
+        "इंदिरा गांधी कैनाल — हरिके बैराज (फिरोज़पुर, पंजाब) से राजस्थान (बाड़मेर) तक",
+        "इंटरनेशनल ट्रेड इंडिया — कंपोज़िशन और डायरेक्शन",
+        "WTO — वर्ल्ड ट्रेड ऑर्गेनाइज़ेशन, 1995 में फॉर्म्ड"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "NHAI ईयर 1995 (फिल ब्लैंक), इंडियन रेलवेज़ ज़ोन्स 18 (Q5), पोर्ट्स MCQ — लैंडलॉक्ड नहीं भोपाल (रिवर सिटी), विशाखापत्तनम = डीपेस्ट लैंडलॉक्ड हार्बर, कांडला लोकेशन गल्फ ऑफ कच्छ (MCQ), मर्मगाओ/हल्दिया/पारादीप/बीना इंडिया मैप पर (Q20), इंटरनेशनल ट्रेड फीचर्स इंडिया (शॉर्ट), इंदिरा गांधी कैनाल फ्रॉम हरिके बैराज फिरोज़पुर (Q5)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "भौगोलिक परिप्रेक्ष्य में चयनित कुछ मुद्दे एवं समस्याएँ",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 10,
+      "unit_name": "",
+      "part": "B",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी-मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "एयर पॉल्यूशन — मेजर सोर्सेस, ह्यूमन हेल्थ पर इफेक्ट्स, कंट्रोल मेज़र्स",
+        "वॉटर पॉल्यूशन — कॉज़ेस और इफेक्ट्स",
+        "नॉइज़ पॉल्यूशन — सोर्सेस और इफेक्ट्स",
+        "लैंड डीग्रेडेशन — कॉज़ेस और रेमेडीज़",
+        "बायो-एनर्जी — यूटिलिटी और इम्पोर्टेंस",
+        "नॉन-कन्वेंशनल एनर्जी सोर्सेस — सोलर, विंड, बायोगैस, टाइडल, जियोथर्मल, हाइड्रोजन",
+        "कन्वेंशनल एनर्जी — कोल, पेट्रोलियम, नेचुरल गैस, हाइडल, न्यूक्लियर",
+        "सोलर एनर्जी एज़ नॉन-कन्वेंशनल — इसके फेवर में 3 आर्ग्युमेंट्स",
+        "फार्मर्स सुसाइड्स — कॉज़ के रूप में इंडेब्टेडनेस, क्रॉप फेलियर से रिलेशन",
+        "हिल एरिया डेवलपमेंट प्रोग्राम — 5वीं फाइव ईयर प्लान में स्टार्टेड"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "एयर पॉल्यूशन मेजर सोर्सेस (VSA), एयर पॉल्यूशन हेल्थ इफेक्ट्स 2 पॉइंट्स (VSA), नॉइज़ पॉल्यूशन सोर्सेस (VSA), बायो-एनर्जी यूटिलिटी 3 पॉइंट्स (शॉर्ट), सोलर एनर्जी 3 आर्ग्युमेंट्स (शॉर्ट/लॉन्ग), हिल एरिया डेवलपमेंट प्रोग्राम — क्या है और कब शुरू (VSA/शॉर्ट), फार्मर्स सुसाइड्स इंडेब्टेडनेस कनेक्शन (शॉर्ट), नॉन-कन्वेंशनल एनर्जी 3 एग्ज़ांपल्स (MCQ/VSA)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Geography Class 12 — 10 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "Q6 से Q20 तक सभी क्वेश्चन्स में इंटरनल चॉइस (अथवा/OR) दिया जाता है।",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [
+      "स्टॉप एंड गो डिटरमिनिज़्म / पॉसिबिलिज़्म / ह्यूमन ज्योग्राफी डेफिनिशन (Q: , 2)",
+      "डेथ रेट फॉर्मूला / नेचुरल ग्रोथ / नेगेटिव ग्रोथ पॉपुलेशन (Q: , 2)",
+      "ह्यूमन डेवलपमेंट के 4 अप्रोचेस / ग्रोथ vs डेवलपमेंट (Q: , 2)",
+      "मेडिटेरेनियन / प्लांटेशन / डेयरी / नोमैडिक हर्डिंग एग्रीकल्चर फीचर्स (Q: , 2-3)",
+      "कोऑपरेटिव फार्मिंग / शिफ्टिंग कल्टीवेशन डेफिनिशन (Q: , 2)",
+      "वर्किंग पॉपुलेशन कैटेगरीज़ / मेन vs मार्जिनल वर्कर्स इंडिया (Q: , 2)",
+      "आइसोलेटेड सेटलमेंट / अर्बन सेटलमेंट फीचर्स (Q: , 2)",
+      "ग्राउंड वॉटर यूज़ स्टेट्स / वॉटर कंज़र्वेशन मेज़र्स (टांका, जोहड़ आदि) (Q: , 2)",
+      "एयर पॉल्यूशन मेजर सोर्सेस / हेल्थ इफेक्ट्स / कंट्रोल (Q: , 2)",
+      "वर्ल्ड पॉपुलेशन डिस्ट्रीब्यूशन को इन्फ्लुएंस करने वाले ज्योग्राफिकल फैक्टर्स (3 पॉइंट्स) (Q: , 3)",
+      "प्लांटेशन / डेयरी / नोमैडिक हर्डिंग कंपेरिज़न (3 फीचर्स) (Q: , 3)",
+      "नॉर्दर्न अटलांटिक सी रूट / मेडिटेरेनियन-इंडियन ओशन सी रूट (3 फीचर्स) (Q: , 3)",
+      "कुछ इंडियन स्टेट्स में लार्ज रूरल पॉपुलेशन रीज़न्स (3 रीज़न्स) (Q: , 3)",
+      "इंडियन एग्रीकल्चर प्रॉब्लम्स / किसान पोर्टल इम्पोर्टेंस (3 पॉइंट्स) (Q: , 3)",
+      "पॉपुलेशन ग्रोथ फेज़ेस इंडिया / Phase III / इफेक्ट्स (3 पॉइंट्स) (Q: , 3)",
+      "बायो-एनर्जी यूटिलिटी / सोलर एनर्जी 3 आर्ग्युमेंट्स (Q: , 3)",
+      "प्राइमरी vs सेकेंडरी एक्टिविटीज़ 4 डिफरेंसेस (टेबल फॉर्मैट बेस्ट) (Q: , 4)",
+      "DPAP ड्रॉट प्रोन एरिया प्रोग्राम + ड्रायलैंड फार्मिंग 4 पॉइंट्स (Q: , 4)",
+      "PMKSY — प्रधानमंत्री कृषि सिंचाई योजना 4 ब्रॉड ऑब्जेक्टिव्स (Q: , 4)",
+      "पाइपलाइन ट्रांसपोर्ट इम्पोर्टेंस 4 पॉइंट्स (Q: , 4)",
+      "वर्ल्ड मैप — स्वेज़ कैनाल, केप टाउन से लंदन, ट्रांस-साइबेरियन, कॉफी ब्राज़ील, डेयरी यूरोप (Q: , 1 each)",
+      "इंडिया मैप — मुंबई हाई, रानीगंज, टी असम, इंदिरा गांधी कैनाल, केरल लिटरेसी, बैलाडीला, बीना रिफाइनरी (Q: , 1 each)"
+    ],
+    "chapters_mostly_theory": [
+      "मानव भूगोल – प्रकृति एवं विषय-क्षेत्र",
+      "विश्व जनसंख्या – वितरण, घनत्व और वृद्धि; मानव विकास",
+      "मानव बस्तियाँ (विश्व)",
+      "प्राथमिक, द्वितीयक, तृतीयक और चतुर्थक क्रियाएँ",
+      "परिवहन एवं संचार; अन्तर्राष्ट्रीय व्यापार (विश्व)",
+      "जनसंख्या – वितरण, घनत्व, वृद्धि और संघटन",
+      "मानव बस्तियाँ",
+      "भूसंसाधन तथा कृषि; जल संसाधन; खनिज तथा ऊर्जा संसाधन; भारत के संदर्भ में नियोजन और सतत् पोषणीय विकास",
+      "परिवहन तथा संचार; अन्तर्राष्ट्रीय व्यापार",
+      "भौगोलिक परिप्रेक्ष्य में चयनित कुछ मुद्दे एवं समस्याएँ"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "मानव भूगोल – प्रकृति एवं विषय-क्षेत्र",
+      "विश्व जनसंख्या – वितरण, घनत्व और वृद्धि; मानव विकास",
+      "मानव बस्तियाँ (विश्व)",
+      "प्राथमिक, द्वितीयक, तृतीयक और चतुर्थक क्रियाएँ",
+      "परिवहन एवं संचार; अन्तर्राष्ट्रीय व्यापार (विश्व)",
+      "जनसंख्या – वितरण, घनत्व, वृद्धि और संघटन",
+      "मानव बस्तियाँ",
+      "भूसंसाधन तथा कृषि; जल संसाधन; खनिज तथा ऊर्जा संसाधन; भारत के संदर्भ में नियोजन और सतत् पोषणीय विकास",
+      "परिवहन तथा संचार; अन्तर्राष्ट्रीय व्यापार",
+      "भौगोलिक परिप्रेक्ष्य में चयनित कुछ मुद्दे एवं समस्याएँ"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "स्टॉप एंड गो डिटरमिनिज़्म / पॉसिबिलिज़्म / ह्यूमन ज्योग्राफी डेफिनिशन (Q: , 2)",
+      "डेथ रेट फॉर्मूला / नेचुरल ग्रोथ / नेगेटिव ग्रोथ पॉपुलेशन (Q: , 2)",
+      "ह्यूमन डेवलपमेंट के 4 अप्रोचेस / ग्रोथ vs डेवलपमेंट (Q: , 2)",
+      "मेडिटेरेनियन / प्लांटेशन / डेयरी / नोमैडिक हर्डिंग एग्रीकल्चर फीचर्स (Q: , 2-3)",
+      "कोऑपरेटिव फार्मिंग / शिफ्टिंग कल्टीवेशन डेफिनिशन (Q: , 2)",
+      "वर्किंग पॉपुलेशन कैटेगरीज़ / मेन vs मार्जिनल वर्कर्स इंडिया (Q: , 2)",
+      "आइसोलेटेड सेटलमेंट / अर्बन सेटलमेंट फीचर्स (Q: , 2)",
+      "ग्राउंड वॉटर यूज़ स्टेट्स / वॉटर कंज़र्वेशन मेज़र्स (टांका, जोहड़ आदि) (Q: , 2)",
+      "एयर पॉल्यूशन मेजर सोर्सेस / हेल्थ इफेक्ट्स / कंट्रोल (Q: , 2)",
+      "वर्ल्ड पॉपुलेशन डिस्ट्रीब्यूशन को इन्फ्लुएंस करने वाले ज्योग्राफिकल फैक्टर्स (3 पॉइंट्स) (Q: , 3)",
+      "प्लांटेशन / डेयरी / नोमैडिक हर्डिंग कंपेरिज़न (3 फीचर्स) (Q: , 3)",
+      "नॉर्दर्न अटलांटिक सी रूट / मेडिटेरेनियन-इंडियन ओशन सी रूट (3 फीचर्स) (Q: , 3)",
+      "कुछ इंडियन स्टेट्स में लार्ज रूरल पॉपुलेशन रीज़न्स (3 रीज़न्स) (Q: , 3)",
+      "इंडियन एग्रीकल्चर प्रॉब्लम्स / किसान पोर्टल इम्पोर्टेंस (3 पॉइंट्स) (Q: , 3)",
+      "पॉपुलेशन ग्रोथ फेज़ेस इंडिया / Phase III / इफेक्ट्स (3 पॉइंट्स) (Q: , 3)",
+      "बायो-एनर्जी यूटिलिटी / सोलर एनर्जी 3 आर्ग्युमेंट्स (Q: , 3)",
+      "प्राइमरी vs सेकेंडरी एक्टिविटीज़ 4 डिफरेंसेस (टेबल फॉर्मैट बेस्ट) (Q: , 4)",
+      "DPAP ड्रॉट प्रोन एरिया प्रोग्राम + ड्रायलैंड फार्मिंग 4 पॉइंट्स (Q: , 4)",
+      "PMKSY — प्रधानमंत्री कृषि सिंचाई योजना 4 ब्रॉड ऑब्जेक्टिव्स (Q: , 4)",
+      "पाइपलाइन ट्रांसपोर्ट इम्पोर्टेंस 4 पॉइंट्स (Q: , 4)",
+      "वर्ल्ड मैप — स्वेज़ कैनाल, केप टाउन से लंदन, ट्रांस-साइबेरियन, कॉफी ब्राज़ील, डेयरी यूरोप (Q: , 1 each)",
+      "इंडिया मैप — मुंबई हाई, रानीगंज, टी असम, इंदिरा गांधी कैनाल, केरल लिटरेसी, बैलाडीला, बीना रिफाइनरी (Q: , 1 each)"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "key_facts_quick_revision": {
+      "geography_schools": {
+        "Environmental_Determinism": "रेटज़ल, सेंपल — पर्यावरण मानव को कंट्रोल करता है",
+        "Possibilism": "विडाल डी ला ब्लाश — मानव के पास चॉइसेस हैं, एनवायरनमेंट मॉडिफाई कर सकता है",
+        "Neo_Determinism_Stop_and_Go": "ग्रिफिन, टेलर — मिडल पाथ, कुछ हद तक डिटरमिनिज़्म",
+        "Humanistic": "अमर्त्य सेन — इंडिविजुअल वेलफेयर और चॉइसेस",
+        "Radical": "1970s — पॉवर्टी, इनइक्वॉलिटी पर फोकस"
+      },
+      "important_years_and_numbers": {
+        "India_population_density_2011": "382 पर्सन्स पर sq km",
+        "India_railway_zones": "18",
+        "NHAI_established": "1995",
+        "WTO_formed": "1995",
+        "National_Youth_Policy": "फरवरी 2014",
+        "National_Water_Policy": "2012",
+        "Atomic_Energy_Commission": "1948",
+        "Suez_Canal_length_km": "156",
+        "Panama_Canal_length_km": "82",
+        "Suez_Canal_opened": "1869",
+        "Marginal_worker_days": "प्रति वर्ष 183 दिनों से कम",
+        "Main_worker_days": "प्रति वर्ष 183 या अधिक दिन",
+        "NH44_route": "वाराणसी से कन्याकुमारी (इंडिया का लॉन्गेस्ट NH)"
+      },
+      "true_false_quick_facts": {
+        "90_percent_world_pop_in_10_percent_land": "सत्य (True)",
+        "Hunting_oldest_economic_activity": "सत्य (True)",
+        "Coffee_is_plantation_crop": "सत्य (True)",
+        "Rice_main_food_crop_India": "सत्य (True)",
+        "India_largest_wheat_producer": "असत्य (False — चाइना लार्जेस्ट है, इंडिया 2nd है)",
+        "Public_sector_owned_by_private": "असत्य (False — गवर्नमेंट ओन्ड)",
+        "Singapore_entrepot_for_Europe": "असत्य (False — SE एशिया के लिए)",
+        "Panama_connects_Atlantic_to_Pacific": "सत्य (True)",
+        "Demand_for_transport_influenced_by_population_size": "सत्य (True)",
+        "Dispersed_settlements_found_in_Nagaland": "सत्य (True)",
+        "More_ports_on_western_coast_than_eastern_coast": "असत्य (False — ईस्टर्न कोस्ट पर ज़्यादा पोर्ट्स)"
+      },
+      "crop_to_state_mapping": {
+        "Largest_rice_producer": "पश्चिम बंगाल",
+        "Largest_wheat_producer": "उत्तर प्रदेश",
+        "Largest_cotton_producer": "महाराष्ट्र",
+        "Largest_jute_producer": "पश्चिम बंगाल (मेन फाइबर क्रॉप)",
+        "Largest_tea_producer": "असम",
+        "Largest_coffee_producer": "कर्नाटक (कूर्ग/मदिकेरी)",
+        "Largest_sugarcane_producer": "उत्तर प्रदेश",
+        "Largest_rubber_producer": "केरल"
+      },
+      "mineral_to_location_mapping": {
+        "Bailadila_iron_ore": "छत्तीसगढ़",
+        "Khetri_copper": "राजस्थान",
+        "Neyveli_lignite": "तमिलनाडु",
+        "Jharia_best_coking_coal": "झारखंड",
+        "Raniganj_coal": "पश्चिम बंगाल",
+        "Singrauli_coal": "MP-UP बॉर्डर",
+        "Talcher_coal": "ओडिशा",
+        "Mumbai_High_petroleum": "ऑफशोर महाराष्ट्र वेस्ट कोस्ट",
+        "Jamnagar_oil_refinery": "गुजरात",
+        "Bina_oil_refinery": "मध्य प्रदेश",
+        "Haldia_oil_refinery_and_port": "पश्चिम बंगाल",
+        "Balaghat_manganese": "मध्य प्रदेश",
+        "Amarkantak_Narmada_origin": "मध्य प्रदेश"
+      },
+      "port_facts": {
+        "Largest_port": "मुंबई (नेचुरल हार्बर)",
+        "Kandla_location": "गल्फ ऑफ कच्छ, गुजरात (पेट्रोलियम)",
+        "Paradwip_specialty": "आयरन ओर एक्सपोर्ट — ओडिशा",
+        "Haldia_purpose": "कोलकाता पोर्ट पर कंजेशन रिड्यूस करना",
+        "Ennore_type": "आर्टिफिशियल हार्बर, चेन्नई के पास"
+      },
+      "exam_strategy": {
+        "time_management": {
+          "Q1_to_Q5_25min": "28 मार्क्स के ऑब्जेक्टिव — 25 मिनट। MCQ/फिल ब्लैंक/T-F सिर्फ आंसर लिखना है।",
+          "Q6_to_Q13_VSA_35min": "8 VSA x 2 मार्क्स। हर क्वेश्चन 4-5 मिनट। 30 वर्ड्स लिमिट — सीधा 2-3 पॉइंट।",
+          "Q14_to_Q17_Short_30min": "4 शॉर्ट x 3 मार्क्स। 7-8 मिनट each। नंबर्ड पॉइंट्स में लिखो।",
+          "Q18_Long_15min": "1 लॉन्ग आंसर x 4 मार्क्स। 15 मिनट। 120 वर्ड्स। डिफरेंसेस के लिए टेबल फॉर्मैट।",
+          "Q19_Q20_Maps_25min": "वर्ल्ड + इंडिया मैप = 10 मार्क्स। 12-13 मिनट each। पेंसिल से एरोज़, पेन से नाम।",
+          "Revision_10min": "स्पेलिंग्स चेक — पारादीप, मर्मगाओ, विशाखापत्तनम, अमरकंटक, बैलाडीला।"
+        },
+        "tips": [
+          "Q1-Q5 के सब 28 क्वेश्चन्स अटेम्प्ट करो — नो नेगेटिव मार्किंग, एक भी ब्लैंक मत छोड़ना",
+          "Q6-Q20 में हर क्वेश्चन में OR ऑप्शन है — पहले दोनों पढ़कर आसान वाला चूज़ करो",
+          "VSA में 30 वर्ड्स की लिमिट — ज़्यादा लिखने की ज़रूरत नहीं, 2-3 नंबर्ड पॉइंट्स काफी हैं",
+          "शॉर्ट आंसर में नंबर्ड/बुलेटेड पॉइंट्स पैराग्राफ से बेटर",
+          "लॉन्ग आंसर (Q18) में इंट्रो + 4 नंबर्ड पॉइंट्स + शॉर्ट कंक्लूज़न — डिफरेंसेस के लिए टेबल फॉर्मैट",
+          "एग्रीकल्चर MCQ: ड्रायलैंड फार्मिंग में शुगरकेन नहीं होती — याद रखो",
+          "इंडिया लार्जेस्ट व्हीट प्रोड्यूसर नहीं है — चाइना है (असत्य लिखना आंसर में)",
+          "गैरिसन टाउन्स: अंबाला, नैनीताल; एडमिनिस्ट्रेटिव: न्यू दिल्ली; लार्जेस्ट स्लम: धारावी",
+          "WTO = 1995, NHAI = 1995, नेशनल यूथ पॉलिसी = फरवरी 2014 — फिल ब्लैंक में आते हैं",
+          "HDI के 4 अप्रोचेस: इनकम, वेलफेयर, बेसिक नीड्स, कैपेबिलिटी — हर साल आता है",
+          "मैप प्रैक्टिस डेली करो — 10 मार्क्स सिर्फ मैप्स से मिलते हैं",
+          "सेट नंबर (A/B/C/D) आंसर शीट पे पहले क्लियरली लिखो"
+        ]
+      },
+      "paper_difficulty_analysis": {
+        "overall_breakdown": {
+          "easy_percent": 40,
+          "medium_percent": 45,
+          "tough_percent": 15
+        },
+        "section_wise": {
+          "Q1_to_Q5_objective": "ईज़ी — अगर फैक्ट्स याद हैं तो 24-28 मार्क्स कन्फर्म",
+          "Q6_to_Q13_VSA": "ईज़ी टू मीडियम — डेफिनिशन्स और 2-3 पॉइंट्स",
+          "Q14_to_Q17_Short": "मीडियम — 3 पॉइंट्स वाले कंपेरेटिव क्वेश्चन्स",
+          "Q18_Long": "मीडियम — DPAP/PMKSY/प्राइमरी vs सेकेंडरी स्टैंडर्ड क्वेश्चन्स",
+          "Q19_Q20_Maps": "मीडियम — रेगुलर प्रैक्टिस से ईज़ी हो जाता है"
+        },
+        "unit_difficulty": [
+          {
+            "unit": 1,
+            "difficulty": "ईज़ी",
+            "note": "डेफिनिशन्स याद करो"
+          },
+          {
+            "unit": 2,
+            "difficulty": "मीडियम",
+            "note": "डेंसिटी फॉर्मूलाज़ + HDI 4 अप्रोचेस"
+          },
+          {
+            "unit": 3,
+            "difficulty": "ईज़ी",
+            "note": "सेटलमेंट टाइप्स + टाउन MCQ"
+          },
+          {
+            "unit": 4,
+            "difficulty": "मीडियम",
+            "note": "एग्रीकल्चर टाइप्स कंपेरिज़न टेबल बनाओ"
+          },
+          {
+            "unit": 5,
+            "difficulty": "मीडियम",
+            "note": "सी रूट्स + कैनाल्स फैक्ट्स"
+          },
+          {
+            "unit": 6,
+            "difficulty": "मीडियम",
+            "note": "पॉपुलेशन ग्रोथ फेज़ेस + वर्कर कैटेगरीज़"
+          },
+          {
+            "unit": 7,
+            "difficulty": "ईज़ी",
+            "note": "स्मार्ट सिटीज़ + सेटलमेंट टाइप्स 4"
+          },
+          {
+            "unit": 8,
+            "difficulty": "मीडियम-हार्ड",
+            "note": "20 मार्क्स यूनिट — सब कवर करो"
+          },
+          {
+            "unit": 9,
+            "difficulty": "मीडियम",
+            "note": "पोर्ट्स + हाईवेज़ फैक्ट्स"
+          },
+          {
+            "unit": 10,
+            "difficulty": "ईज़ी-मीडियम",
+            "note": "पॉल्यूशन + नॉन-कन्वेंशनल एनर्जी"
+          }
+        ]
+      },
+      "marks_targets": {
+        "for_passing_23_marks": {
+          "strategy": "Q1-Q5 ऑब्जेक्टिव में 20+ मार्क्स आसान। Q6-Q8 VSA 3-4 अटेम्प्ट (6-8 मार्क्स)। टोटल 26-28 मार्क्स कम्फर्टेबली।",
+          "focus_areas": [
+            "Q1-Q5 सब अटेम्प्ट करो — नो नेगेटिव मार्किंग",
+            "यूनिट 1 (ज्योग्राफी स्कूल्स), यूनिट 3 (सेटलमेंट्स) — ईज़ी",
+            "यूनिट 10 (एयर पॉल्यूशन) — ईज़ी VSA",
+            "मैप में जो पता है वो लिखो"
+          ],
+          "safely_skip": [
+            "यूनिट 4 डीप एग्रीकल्चर कंपेरिज़न्स",
+            "कॉम्प्लेक्स सी रूट डेरिवेशन्स"
+          ]
+        },
+        "for_40_to_50_marks": {
+          "strategy": "ऑब्जेक्टिव (25+) + VSA 5-6 (10-12) + शॉर्ट 2 (6) + मैप 6-8 = 47-51.",
+          "focus_areas": [
+            "यूनिट 8 रिसोर्सेस — सबसे इम्पोर्टेंट 20 मार्क्स",
+            "यूनिट 5 वर्ल्ड ट्रांसपोर्ट — सी रूट्स शॉर्ट आंसर",
+            "यूनिट 4 एग्रीकल्चर — प्लांटेशन/डेयरी/नोमैडिक कंपेरिज़न",
+            "मैप Q19 — सी रूट्स + स्वेज़ + ट्रांस-साइबेरियन",
+            "मैप Q20 — मुंबई हाई, रानीगंज, बैलाडीला, टी NE इंडिया, इंदिरा गांधी कैनाल"
+          ]
+        },
+        "for_60_plus": {
+          "strategy": "ऑब्जेक्टिव सब (28) + VSA सब (16) + शॉर्ट 3-4 (9-12) + लॉन्ग (4) + मैप 8-10 = 65-70.",
+          "focus_areas": [
+            "पॉपुलेशन ग्रोथ फेज़ेस इंडिया — Phase III क्लियरली एक्सप्लेन करो",
+            "प्राइमरी vs सेकेंडरी 4 डिफरेंसेस — टेबल फॉर्मैट",
+            "DPAP / PMKSY लॉन्ग आंसर 4 क्लियर पॉइंट्स",
+            "वर्ल्ड मैप — सभी एग्रीकल्चर एरियाज़, सी रूट्स, रेलवेज़ प्रैक्टिस",
+            "इंडिया मैप — सभी मिनरल्स, पोर्ट्स, एग्रीकल्चर एरियाज़ लोकेट करो"
+          ]
+        }
+      },
+      "reference_books": {
+        "primary": [
+          {
+            "name": "NCERT ज्योग्राफी क्लास 12 पार्ट 1 — मानव भूगोल के मूल सिद्धांत",
+            "publisher": "NCERT",
+            "why": "बेस बुक। MPBSE सिलेबस NCERT पर बेस्ड। सारे एग्ज़ांपल्स और केस स्टडीज़ पढ़ना ज़रूरी।"
+          },
+          {
+            "name": "NCERT ज्योग्राफी क्लास 12 पार्ट 2 — भारत: लोग और अर्थव्यवस्था",
+            "publisher": "NCERT",
+            "why": "इंडिया पार्ट के लिए एसेंशियल। मैप्स, टेबल्स, प्रोग्राम्स सब NCERT से पूछे जाते हैं।"
+          }
+        ],
+        "supplementary": [
+          {
+            "name": "MP बोर्ड प्रीवियस ईयर पेपर्स 2022-2026 (सेट A, B, C, D)",
+            "publisher": "MPBSE",
+            "why": "mpboardonline.com से डाउनलोड करो। सेम क्वेश्चन टाइप्स रिपीट होते हैं — मैप्स एस्पेशियली।"
+          },
+          {
+            "name": "MP बोर्ड मॉडल पेपर 2026 — ज्योग्राफी",
+            "publisher": "MPBSE",
+            "why": "ऑफिशियल मॉडल पेपर — एग्ज़ैक्ट फॉर्मैट और क्वेश्चन स्टाइल समझो।"
+          },
+          {
+            "name": "नवबोध / संजीव पास बुक — MP बोर्ड ज्योग्राफी क्लास 12",
+            "publisher": "लोकल MP बोर्ड पब्लिशर्स",
+            "why": "MP बोर्ड के लिए स्पेशल गाइड्स चैप्टर-वाइज़ सॉल्व्ड क्वेश्चन्स के साथ।"
+          }
+        ]
+      },
+      "exam_day_rules": {
+        "admit_card_compulsory": true,
+        "electronic_devices_allowed": false,
+        "reach_before_minutes": 30,
+        "extra_time_given": false,
+        "extra_time_note": "MPBSE में कोई एक्स्ट्रा रीडिंग टाइम नहीं — 3 घंटे में ही सब करो।",
+        "duration_total": "3 घंटे (180 मिनट)",
+        "pen_rules": "ब्लू या ब्लैक पेन से आंसर्स। पेंसिल सिर्फ मैप्स/डायग्राम्स के लिए।",
+        "map_rules": "मैप में पेंसिल से लोकेशन मार्क, पेन से नाम क्लियरली लिखो। मैप आंसर बुक के साथ अटैच करो।",
+        "set_note": "सेट नंबर (A/B/C/D) क्लियरली आंसर शीट पे पहले लिखो।",
+        "language_note": "हिंदी और इंग्लिश दोनों अलाउड। डिस्क्रेपेंसी पे हिंदी वर्ज़न फाइनल।",
+        "passing_criteria": "70 में से लगभग 23 मार्क्स (33%) मिनिमम।",
+        "official_website": "mpbse.nic.in"
+      }
+    },
+    "map_preparation": {
+      "world_map_Q19_common_locations": [
+        {
+          "location": "कॉफी प्रोड्यूसिंग रीजन",
+          "place": "ब्राज़ील (SE ब्राज़ील, अमेज़न बेसिन के साउथ में)"
+        },
+        {
+          "location": "केप टाउन से लंदन सी रूट",
+          "place": "S. अफ्रीका के आसपास, W. अफ्रीका कोस्ट से UK तक"
+        },
+        {
+          "location": "लंदन से न्यूयॉर्क सी रूट",
+          "place": "नॉर्थ अटलांटिक — सबसे फ्रीक्वेंटली आस्क्ड"
+        },
+        {
+          "location": "न्यूयॉर्क से केप टाउन सी रूट",
+          "place": "साउथ अटलांटिक ओशन"
+        },
+        {
+          "location": "लंदन से बैटल हार्बर सी रूट",
+          "place": "नॉर्थ अटलांटिक — कनाडा साइड"
+        },
+        {
+          "location": "स्वेज़ कैनाल",
+          "place": "NE इजिप्ट — मेडिटेरेनियन और रेड सी के बीच"
+        },
+        {
+          "location": "पनामा कैनाल",
+          "place": "सेंट्रल अमेरिका — अटलांटिक और पैसिफिक के बीच"
+        },
+        {
+          "location": "ट्रांस-साइबेरियन रेलवे",
+          "place": "रूस — मॉस्को से व्लादिवोस्तोक"
+        },
+        {
+          "location": "ऑस्ट्रेलियन ट्रांस-कॉन्टिनेंटल रेलवे",
+          "place": "पर्थ (W) से सिडनी (E) — हॉरिजोंटल"
+        },
+        {
+          "location": "ट्रांस-कैनेडियन रेलवे",
+          "place": "वैंकूवर से हैलिफैक्स — कनाडा के पार हॉरिजोंटल"
+        },
+        {
+          "location": "डेयरी फार्मिंग एरिया यूरोप",
+          "place": "NW यूरोप — नीदरलैंड्स, डेनमार्क, जर्मनी"
+        },
+        {
+          "location": "डेयरी फार्मिंग एरिया N. अमेरिका",
+          "place": "NE USA और SE कनाडा"
+        },
+        {
+          "location": "मिक्स्ड फार्मिंग एरिया यूरोप",
+          "place": "NW यूरोप — UK, फ्रांस, जर्मनी"
+        },
+        {
+          "location": "मिक्स्ड फार्मिंग एरिया S. अमेरिका",
+          "place": "ला प्लाटा/पम्पास रीजन — अर्जेंटीना/उरुग्वे"
+        },
+        {
+          "location": "एक्सटेंसिव कमर्शियल ग्रेन फार्मिंग N. अमेरिका",
+          "place": "ग्रेट प्लेन्स — USA/कनाडा प्रेरीज़"
+        },
+        {
+          "location": "नोमैडिक हर्डिंग N. अफ्रीका",
+          "place": "सहारा डेज़र्ट और N. अफ्रीका कोस्ट"
+        },
+        {
+          "location": "कमर्शियल लाइवस्टॉक रेयरिंग अफ्रीका",
+          "place": "साउथ अफ्रीका में वेल्ड्स"
+        },
+        {
+          "location": "कमर्शियल लाइवस्टॉक रेयरिंग ऑस्ट्रेलिया",
+          "place": "SE और SW ऑस्ट्रेलिया — डाउन्स"
+        },
+        {
+          "location": "कमर्शियल लाइवस्टॉक रेयरिंग S. अमेरिका",
+          "place": "पम्पास — अर्जेंटीना"
+        },
+        {
+          "location": "सब्सिस्टेंस गैदरिंग N. अमेरिका",
+          "place": "N. कनाडा और अलास्का"
+        },
+        {
+          "location": "हैलिफैक्स",
+          "place": "NE कनाडा"
+        },
+        {
+          "location": "योकोहामा",
+          "place": "जापान (टोक्यो के पास)"
+        },
+        {
+          "location": "ब्यूनस आयर्स",
+          "place": "SE अर्जेंटीना (पम्पास)"
+        },
+        {
+          "location": "सेंट पीटर्सबर्ग",
+          "place": "NW रूस (बाल्टिक सी कोस्ट)"
+        },
+        {
+          "location": "मेडागास्कर",
+          "place": "अफ्रीका के ईस्ट कोस्ट पर लार्ज आइलैंड"
+        }
+      ],
+      "india_map_Q20_common_locations": [
+        {
+          "location": "मुंबई हाई",
+          "place": "ऑफशोर पेट्रोलियम — वेस्ट कोस्ट महाराष्ट्र"
+        },
+        {
+          "location": "रानीगंज कोल फील्ड",
+          "place": "पश्चिम बंगाल (आसनसोल के पास)"
+        },
+        {
+          "location": "झरिया कोल फील्ड",
+          "place": "झारखंड (धनबाद एरिया) — बेस्ट कोकिंग कोल"
+        },
+        {
+          "location": "सिंगरौली कोल",
+          "place": "MP-UP बॉर्डर एरिया"
+        },
+        {
+          "location": "तलचर कोल",
+          "place": "ओडिशा"
+        },
+        {
+          "location": "नेवेली लिग्नाइट",
+          "place": "तमिलनाडु"
+        },
+        {
+          "location": "बैलाडीला आयरन ओर माइन",
+          "place": "छत्तीसगढ़ (बस्तर)"
+        },
+        {
+          "location": "खेतड़ी कॉपर",
+          "place": "राजस्थान (झुंझुनू डिस्ट्रिक्ट)"
+        },
+        {
+          "location": "बालाघाट मैंगनीज़",
+          "place": "मध्य प्रदेश"
+        },
+        {
+          "location": "जामनगर ऑयल रिफाइनरी",
+          "place": "गुजरात (सौराष्ट्र)"
+        },
+        {
+          "location": "हल्दिया ऑयल रिफाइनरी और पोर्ट",
+          "place": "पश्चिम बंगाल"
+        },
+        {
+          "location": "बीना ऑयल रिफाइनरी",
+          "place": "मध्य प्रदेश (सागर डिस्ट्रिक्ट)"
+        },
+        {
+          "location": "अमरकंटक — नर्मदा रिवर ओरिजिन",
+          "place": "मध्य प्रदेश (अनूपपुर)"
+        },
+        {
+          "location": "टी प्रोड्यूसिंग एरिया",
+          "place": "असम (NE इंडिया) + W. बंगाल (दार्जिलिंग)"
+        },
+        {
+          "location": "कॉफी प्रोड्यूसिंग एरिया",
+          "place": "कर्नाटक (कूर्ग/मदिकेरी — SW कर्नाटक)"
+        },
+        {
+          "location": "लार्जेस्ट शुगरकेन स्टेट",
+          "place": "उत्तर प्रदेश (गंगा प्लेन्स)"
+        },
+        {
+          "location": "हाईएस्ट लिटरेसी वाला स्टेट",
+          "place": "केरल (SW इंडिया)"
+        },
+        {
+          "location": "इंदिरा गांधी कैनाल",
+          "place": "राजस्थान — फिरोज़पुर पंजाब से स्टार्ट होकर बाड़मेर तक"
+        },
+        {
+          "location": "मर्मगाओ पोर्ट",
+          "place": "गोवा (W कोस्ट)"
+        },
+        {
+          "location": "पारादीप पोर्ट",
+          "place": "ओडिशा (E कोस्ट)"
+        },
+        {
+          "location": "हल्दिया पोर्ट",
+          "place": "पश्चिम बंगाल (E कोस्ट)"
+        },
+        {
+          "location": "विशाखापत्तनम पोर्ट",
+          "place": "आंध्र प्रदेश (E कोस्ट)"
+        },
+        {
+          "location": "चेन्नई पोर्ट",
+          "place": "तमिलनाडु (E कोस्ट) — ओल्डेस्ट आर्टिफिशियल पोर्ट"
+        },
+        {
+          "location": "कांडला पोर्ट",
+          "place": "गुजरात (गल्फ ऑफ कच्छ, W कोस्ट)"
+        },
+        {
+          "location": "कोच्चि पोर्ट",
+          "place": "केरल (W कोस्ट, बैकवॉटर्स)"
+        }
+      ],
+      "map_tips": [
+        "वर्ल्ड मैप में रिवर्स नहीं होती — सिर्फ सी रूट्स, एग्रीकल्चर एरियाज़, रेलवेज़, सिटीज़, कैनाल्स",
+        "इंडिया मैप में एरोज़ से लोकेशन पॉइंट करो — नाम क्लियरली पेन से लिखो",
+        "केप टाउन से लंदन रूट — S. अफ्रीका के टिप (केप ऑफ गुड होप) से नॉर्थ-वेस्ट",
+        "ट्रांस-साइबेरियन = रूस की रेलवे (मॉस्को से व्लादिवोस्तोक) — वर्ल्ड की लॉन्गेस्ट",
+        "ऑस्ट्रेलियन ट्रांस-कॉन्टिनेंटल = पर्थ (वेस्ट कोस्ट) से सिडनी (ईस्ट कोस्ट) — हॉरिजोंटल",
+        "स्वेज़ कैनाल = NE इजिप्ट में मेडिटेरेनियन सी और रेड सी के बीच",
+        "पनामा कैनाल = सेंट्रल अमेरिका में अटलांटिक ओशन और पैसिफिक ओशन के बीच",
+        "बैलाडीला = छत्तीसगढ़ (आयरन ओर) — झारखंड नहीं (कॉमन कन्फ्यूज़न)",
+        "बीना ऑयल रिफाइनरी = मध्य प्रदेश — Q20 में फ्रीक्वेंटली पूछा जाता है",
+        "अमरकंटक = नर्मदा रिवर ओरिजिन मध्य प्रदेश में — छत्तीसगढ़ नहीं",
+        "इंदिरा गांधी कैनाल हरिके बैराज फिरोज़पुर, पंजाब से स्टार्ट होती है — राजस्थान से नहीं",
+        "हल्दिया = पश्चिम बंगाल में ऑयल रिफाइनरी और पोर्ट दोनों — ड्यूल यूज़ साइट",
+        "नेवेली = लिग्नाइट (ब्राउन कोल) तमिलनाडु में — झारखंड में नहीं"
+      ]
+    },
+    "repeat_topics_every_year": [
+      {
+        "topic": "स्टॉप एंड गो डिटरमिनिज़्म / पॉसिबिलिज़्म / ह्यूमन ज्योग्राफी डेफिनिशन",
+        "typical_Q": "Q6 या Q9 VSA",
+        "marks": 2
+      },
+      {
+        "topic": "डेथ रेट फॉर्मूला / नेचुरल ग्रोथ / नेगेटिव ग्रोथ पॉपुलेशन",
+        "typical_Q": "Q7 VSA",
+        "marks": 2
+      },
+      {
+        "topic": "ह्यूमन डेवलपमेंट के 4 अप्रोचेस / ग्रोथ vs डेवलपमेंट",
+        "typical_Q": "Q8 VSA",
+        "marks": 2,
+        "note": "हर साल आता है — इनकम, वेलफेयर, बेसिक नीड्स, कैपेबिलिटी"
+      },
+      {
+        "topic": "मेडिटेरेनियन / प्लांटेशन / डेयरी / नोमैडिक हर्डिंग एग्रीकल्चर फीचर्स",
+        "typical_Q": "Q9 VSA या Q14 शॉर्ट",
+        "marks": "2-3"
+      },
+      {
+        "topic": "कोऑपरेटिव फार्मिंग / शिफ्टिंग कल्टीवेशन डेफिनिशन",
+        "typical_Q": "Q9 VSA",
+        "marks": 2
+      },
+      {
+        "topic": "वर्किंग पॉपुलेशन कैटेगरीज़ / मेन vs मार्जिनल वर्कर्स इंडिया",
+        "typical_Q": "Q10 VSA",
+        "marks": 2
+      },
+      {
+        "topic": "आइसोलेटेड सेटलमेंट / अर्बन सेटलमेंट फीचर्स",
+        "typical_Q": "Q11 VSA",
+        "marks": 2
+      },
+      {
+        "topic": "ग्राउंड वॉटर यूज़ स्टेट्स / वॉटर कंज़र्वेशन मेज़र्स (टांका, जोहड़ आदि)",
+        "typical_Q": "Q12 VSA",
+        "marks": 2
+      },
+      {
+        "topic": "एयर पॉल्यूशन मेजर सोर्सेस / हेल्थ इफेक्ट्स / कंट्रोल",
+        "typical_Q": "Q13 VSA",
+        "marks": 2
+      },
+      {
+        "topic": "वर्ल्ड पॉपुलेशन डिस्ट्रीब्यूशन को इन्फ्लुएंस करने वाले ज्योग्राफिकल फैक्टर्स (3 पॉइंट्स)",
+        "typical_Q": "Q14 शॉर्ट",
+        "marks": 3
+      },
+      {
+        "topic": "प्लांटेशन / डेयरी / नोमैडिक हर्डिंग कंपेरिज़न (3 फीचर्स)",
+        "typical_Q": "Q14 या Q15 शॉर्ट",
+        "marks": 3
+      },
+      {
+        "topic": "नॉर्दर्न अटलांटिक सी रूट / मेडिटेरेनियन-इंडियन ओशन सी रूट (3 फीचर्स)",
+        "typical_Q": "Q15 शॉर्ट",
+        "marks": 3
+      },
+      {
+        "topic": "कुछ इंडियन स्टेट्स में लार्ज रूरल पॉपुलेशन रीज़न्स (3 रीज़न्स)",
+        "typical_Q": "Q16 शॉर्ट",
+        "marks": 3
+      },
+      {
+        "topic": "इंडियन एग्रीकल्चर प्रॉब्लम्स / किसान पोर्टल इम्पोर्टेंस (3 पॉइंट्स)",
+        "typical_Q": "Q17 शॉर्ट",
+        "marks": 3
+      },
+      {
+        "topic": "पॉपुलेशन ग्रोथ फेज़ेस इंडिया / Phase III / इफेक्ट्स (3 पॉइंट्स)",
+        "typical_Q": "Q15 या Q16 शॉर्ट",
+        "marks": 3
+      },
+      {
+        "topic": "बायो-एनर्जी यूटिलिटी / सोलर एनर्जी 3 आर्ग्युमेंट्स",
+        "typical_Q": "Q17 शॉर्ट",
+        "marks": 3
+      },
+      {
+        "topic": "प्राइमरी vs सेकेंडरी एक्टिविटीज़ 4 डिफरेंसेस (टेबल फॉर्मैट बेस्ट)",
+        "typical_Q": "Q18 लॉन्ग",
+        "marks": 4
+      },
+      {
+        "topic": "DPAP ड्रॉट प्रोन एरिया प्रोग्राम + ड्रायलैंड फार्मिंग 4 पॉइंट्स",
+        "typical_Q": "Q18 लॉन्ग",
+        "marks": 4
+      },
+      {
+        "topic": "PMKSY — प्रधानमंत्री कृषि सिंचाई योजना 4 ब्रॉड ऑब्जेक्टिव्स",
+        "typical_Q": "Q18 लॉन्ग",
+        "marks": 4
+      },
+      {
+        "topic": "पाइपलाइन ट्रांसपोर्ट इम्पोर्टेंस 4 पॉइंट्स",
+        "typical_Q": "Q18 लॉन्ग",
+        "marks": 4
+      },
+      {
+        "topic": "वर्ल्ड मैप — स्वेज़ कैनाल, केप टाउन से लंदन, ट्रांस-साइबेरियन, कॉफी ब्राज़ील, डेयरी यूरोप",
+        "typical_Q": "Q19 मैप",
+        "marks": "1 each"
+      },
+      {
+        "topic": "इंडिया मैप — मुंबई हाई, रानीगंज, टी असम, इंदिरा गांधी कैनाल, केरल लिटरेसी, बैलाडीला, बीना रिफाइनरी",
+        "typical_Q": "Q20 मैप",
+        "marks": "1 each"
+      }
+    ]
+  },
+  "important_diagrams_masterlist": {
+    "note": "Geography — maps/diagrams.",
+    "must_practise": [
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "कॉफी प्रोड्यूसिंग रीजन",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "केप टाउन से लंदन सी रूट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "लंदन से न्यूयॉर्क सी रूट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "न्यूयॉर्क से केप टाउन सी रूट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "लंदन से बैटल हार्बर सी रूट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "स्वेज़ कैनाल",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "पनामा कैनाल",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "ट्रांस-साइबेरियन रेलवे",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "ऑस्ट्रेलियन ट्रांस-कॉन्टिनेंटल रेलवे",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "ट्रांस-कैनेडियन रेलवे",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "डेयरी फार्मिंग एरिया यूरोप",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "डेयरी फार्मिंग एरिया N. अमेरिका",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "मिक्स्ड फार्मिंग एरिया यूरोप",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "मिक्स्ड फार्मिंग एरिया S. अमेरिका",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "एक्सटेंसिव कमर्शियल ग्रेन फार्मिंग N. अमेरिका",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "नोमैडिक हर्डिंग N. अफ्रीका",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "कमर्शियल लाइवस्टॉक रेयरिंग अफ्रीका",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "कमर्शियल लाइवस्टॉक रेयरिंग ऑस्ट्रेलिया",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "कमर्शियल लाइवस्टॉक रेयरिंग S. अमेरिका",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "सब्सिस्टेंस गैदरिंग N. अमेरिका",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "हैलिफैक्स",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "योकोहामा",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "ब्यूनस आयर्स",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "सेंट पीटर्सबर्ग",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "मेडागास्कर",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "मुंबई हाई",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "रानीगंज कोल फील्ड",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "झरिया कोल फील्ड",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "सिंगरौली कोल",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "तलचर कोल",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "नेवेली लिग्नाइट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "बैलाडीला आयरन ओर माइन",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "खेतड़ी कॉपर",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "बालाघाट मैंगनीज़",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "जामनगर ऑयल रिफाइनरी",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "हल्दिया ऑयल रिफाइनरी और पोर्ट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "बीना ऑयल रिफाइनरी",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "अमरकंटक — नर्मदा रिवर ओरिजिन",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "टी प्रोड्यूसिंग एरिया",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "कॉफी प्रोड्यूसिंग एरिया",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "लार्जेस्ट शुगरकेन स्टेट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "हाईएस्ट लिटरेसी वाला स्टेट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "इंदिरा गांधी कैनाल",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "मर्मगाओ पोर्ट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "पारादीप पोर्ट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "हल्दिया पोर्ट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "विशाखापत्तनम पोर्ट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "चेन्नई पोर्ट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "कांडला पोर्ट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "कोच्चि पोर्ट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "वर्ल्ड मैप में रिवर्स नहीं होती — सिर्फ सी रूट्स, एग्रीकल्चर एरियाज़, रेलवेज़, सिटीज़, कैनाल्स",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "इंडिया मैप में एरोज़ से लोकेशन पॉइंट करो — नाम क्लियरली पेन से लिखो",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "केप टाउन से लंदन रूट — S. अफ्रीका के टिप (केप ऑफ गुड होप) से नॉर्थ-वेस्ट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "ट्रांस-साइबेरियन = रूस की रेलवे (मॉस्को से व्लादिवोस्तोक) — वर्ल्ड की लॉन्गेस्ट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "ऑस्ट्रेलियन ट्रांस-कॉन्टिनेंटल = पर्थ (वेस्ट कोस्ट) से सिडनी (ईस्ट कोस्ट) — हॉरिजोंटल",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "स्वेज़ कैनाल = NE इजिप्ट में मेडिटेरेनियन सी और रेड सी के बीच",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "पनामा कैनाल = सेंट्रल अमेरिका में अटलांटिक ओशन और पैसिफिक ओशन के बीच",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "बैलाडीला = छत्तीसगढ़ (आयरन ओर) — झारखंड नहीं (कॉमन कन्फ्यूज़न)",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "बीना ऑयल रिफाइनरी = मध्य प्रदेश — Q20 में फ्रीक्वेंटली पूछा जाता है",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "अमरकंटक = नर्मदा रिवर ओरिजिन मध्य प्रदेश में — छत्तीसगढ़ नहीं",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "इंदिरा गांधी कैनाल हरिके बैराज फिरोज़पुर, पंजाब से स्टार्ट होती है — राजस्थान से नहीं",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "हल्दिया = पश्चिम बंगाल में ऑयल रिफाइनरी और पोर्ट दोनों — ड्यूल यूज़ साइट",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "नेवेली = लिग्नाइट (ब्राउन कोल) तमिलनाडु में — झारखंड में नहीं",
+        "note": ""
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Not typically applicable for Geography (humanities subject).",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Geography",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Geography",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 30,
+    "passing_marks": 0,
+    "practical_exam_separate": true,
+    "practical_exam_note": "",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": true,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 0,
+    "medium_percent": 0,
+    "hard_percent": 0,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [],
+    "time_allocation": []
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": []
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": false,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 0,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "mpbse.nic.in",
+    "extra_time_given": false,
+    "extra_time_note": ""
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": ""
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

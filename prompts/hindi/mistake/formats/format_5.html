@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Nunito', sans-serif; background: #ffffff; min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 24px 16px; }
+  .card { background: #ffffff; border: 0.5px solid #d1d5db; border-radius: 12px; max-width: 340px; width: 100%; overflow: hidden; box-shadow: 0 1px 6px rgba(0,0,0,0.05); }
+  .card-header { background: #E1F5EE; padding: 11px 13px 10px; border-bottom: 0.5px solid #5DCAA5; }
+  .header-top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 7px; }
+  .header-left { display: flex; align-items: center; gap: 6px; }
+  .header-icon { width: 26px; height: 26px; border-radius: 7px; background: rgba(159,225,203,0.33); border: 0.5px solid #5DCAA5; display: flex; align-items: center; justify-content: center; font-size: 13px; flex-shrink: 0; }
+  .header-subject { font-size: 12px; font-weight: 500; color: #085041; }
+  .header-badge { font-size: 10px; padding: 2px 8px; border-radius: 100px; background: #fef3c7; color: #92400e; border: 0.5px solid rgba(251,191,36,0.3); white-space: nowrap; }
+  .header-divider { height: 0.5px; background: rgba(93,202,165,0.25); margin-bottom: 8px; }
+  .question-label { font-size: 9.5px; font-weight: 500; letter-spacing: 0.4px; text-transform: uppercase; color: #0F6E56; margin-bottom: 3px; }
+  .question { font-size: 12.5px; font-weight: 500; color: #04342C; line-height: 1.4; }
+  .card-body { padding: 11px 13px; display: flex; flex-direction: column; gap: 9px; }
+  .compare { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  .box { border-radius: 8px; padding: 9px 10px; border: 0.5px solid transparent; }
+  .box-wrong { background: #FCEBEB; border-color: #F09595; }
+  .box-right { background: #f0fdf4; border-color: #86efac; }
+  .box-label { font-size: 10px; font-weight: 500; letter-spacing: 0.3px; text-transform: uppercase; margin-bottom: 5px; display: flex; align-items: center; gap: 4px; }
+  .box-wrong .box-label { color: #A32D2D; }
+  .box-right .box-label { color: #15803d; }
+  .box-value { font-size: 12px; font-weight: 500; margin-bottom: 4px; line-height: 1.4; }
+  .box-wrong .box-value { color: #E24B4A; }
+  .box-right .box-value { color: #16a34a; }
+  .box-note { font-size: 10.5px; font-weight: 500; color: #888; line-height: 1.4; }
+  .rule { background: rgba(159,225,203,0.13); border-radius: 8px; border: 0.5px solid #5DCAA5; border-left: 2px solid #1D9E75; padding: 8px 10px; font-size: 11.5px; font-weight: 400; color: #085041; line-height: 1.55; }
+  .rule strong { font-weight: 500; color: #04342C; }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="card-header">
+    <div class="header-top">
+      <div class="header-left">
+        <div class="header-icon">✉️</div>
+        <div><div class="header-subject">हिंदी · पत्र लेखन</div></div>
+      </div>
+      <div class="header-badge">⚠ एक आम गलती</div>
+    </div>
+    <div class="header-divider"></div>
+    <div class="question-label">विषय</div>
+    <div class="question">औपचारिक पत्र में संबोधन न लिखना — अंक कटने का कारण</div>
+  </div>
+  <div class="card-body">
+    <div class="compare">
+      <div class="box box-wrong">
+        <div class="box-label">✗ गलत</div>
+        <div class="box-value">सीधे विषय-वस्तु लिख दी</div>
+        <div class="box-note">प्रारूप के अंक कट जाते हैं</div>
+      </div>
+      <div class="box box-right">
+        <div class="box-label">✓ सही</div>
+        <div class="box-value">सेवा में → विषय → महोदय → विषय-वस्तु → हस्ताक्षर</div>
+        <div class="box-note">प्रारूप के पूरे अंक मिलते हैं</div>
+      </div>
+    </div>
+    <div class="rule">
+      <strong>याद रखें:</strong> पत्र लिखने से पहले जाँचें — संबोधन, विषय, दिनांक, हस्ताक्षर — चारों हैं? यह जाँच प्रारूप के अंक सुनिश्चित करती है।
+    </div>
+  </div>
+</div>
+</body>
+</html>

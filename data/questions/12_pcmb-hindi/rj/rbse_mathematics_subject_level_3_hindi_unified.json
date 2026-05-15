@@ -1,0 +1,1912 @@
+{
+  "board": "RBSE",
+  "class": "12",
+  "subject": "गणित (Mathematics)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 80,
+    "practical_paper": 0,
+    "internal_assessment": 20,
+    "total": 100,
+    "passing_marks_theory": 26,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": true,
+    "extra_time_note": "हाँ — 15 मिनट रीडिंग टाइम मिलता है। इस समय में पेपर पढ़िए और 'अथवा' विकल्पों का चुनाव कीजिए।",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 30,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "RBSE में कई sets होते हैं। हर set में same questions, सिर्फ़ order अलग।",
+    "sets_same_or_different": "",
+    "language_of_attempt": "हिंदी या अंग्रेज़ी — दोनों allowed। गणितीय संकेतन (notation) एक समान रहेगा।",
+    "all_compulsory_note": "खंड C (दीर्घ उत्तरीय) एवं खंड D (निबंधात्मक) में internal choice (अथवा विकल्प) मिलता है।",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "RBSE गणित का पाठ्यक्रम NCERT पर आधारित है। NCERT के सभी उदाहरण एवं अभ्यास प्रश्न solve कीजिए। SP Examination Idea Mathematics (Science Publications, जयपुर) भी ज़रूरी है।",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "RBSE कक्षा 12 गणित पेपर में 6 प्रकार के प्रश्न: MCQ (1 अंक), रिक्त स्थान (1 अंक), अति लघु (1 अंक), लघु (2 अंक), दीर्घ (4 अंक), निबंधात्मक (5 अंक)। कुल 80 अंक, 30 प्रश्न।",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (बहुविकल्पीय प्रश्न)",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 18,
+        "attempt": 18,
+        "negative_marking": false,
+        "how_to_attempt": "सिर्फ़ सही विकल्प (अ)/(ब)/(स)/(द) लिखना है। कोई working नहीं चाहिए। 1 अंक के लिए 30 सेकंड से ज़्यादा मत लगाइए।",
+        "mostly_from": "संबंध/फलन के प्रकार, आव्यूह संक्रियाएँ, सारणिक के गुण, सीमा, अवकलज नियम, समाकलन के प्रकार, सदिश का अदिश/सदिश गुणनफल, त्रिविमीय ज्यामिति में कोण/दूरी, प्रायिकता के सूत्र।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "रिक्त स्थान",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "सीधा सूत्र-मान, विशिष्ट पद (जैसे प्रांत, परिसर), या संख्यात्मक उत्तर लिखना होता है।",
+        "mostly_from": "संबंधों की संख्या, सारणिक का मान, अवकलज सूत्र, समाकलन परिणाम, दूरी सूत्र।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "अति लघु उत्तरीय (VSA)",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "सीधा सूत्र का अनुप्रयोग। एक step में उत्तर।",
+        "mostly_from": "सरल अवकलज, सरल समाकलन, आव्यूह की कोटि, सदिश का परिमाण, आधारभूत प्रायिकता।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "1 step या 1-2 पंक्तियाँ",
+        "notes": ""
+      },
+      {
+        "type": "लघु उत्तरीय",
+        "question_number": "",
+        "section": "B",
+        "marks_each": 2,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "2 अंक = 2 स्पष्ट steps। Working स्पष्ट रूप से दिखाइए। सूत्र + प्रतिस्थापन + उत्तर।",
+        "mostly_from": "सभी अध्याय — छोटी उपपत्तियाँ, 2-3 step संख्यात्मक, आव्यूह संक्रियाएँ, सांतत्य/अवकलनीयता की जाँच, छोटे समाकलन, सदिश संक्रियाएँ, आधारभूत प्रायिकता के प्रश्न।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "3-5 पंक्तियाँ",
+        "notes": ""
+      },
+      {
+        "type": "दीर्घ उत्तरीय",
+        "question_number": "",
+        "section": "C",
+        "marks_each": 4,
+        "total_in_paper": 5,
+        "attempt": 5,
+        "negative_marking": false,
+        "how_to_attempt": "4 अंक = पूरी working दिखाते हुए क्रमांकित steps। हर step = partial अंक। समाकलन के लिए: प्रतिस्थापन स्पष्ट रूप से दिखाइए। आव्यूहों के लिए: पंक्ति संक्रियाएँ स्पष्ट रूप से लिखिए।",
+        "mostly_from": "सारणिक (क्रैमर नियम), खंडशः समाकलन/प्रतिस्थापन, अवकलज के अनुप्रयोग (उच्चिष्ठ/निम्निष्ठ), अवकल समीकरण, त्रिविमीय ज्यामिति (रेखा/समतल के समीकरण), प्रायिकता (बेज़ प्रमेय)।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "आधा पृष्ठ से एक पृष्ठ",
+        "notes": ""
+      },
+      {
+        "type": "निबंधात्मक / अति दीर्घ उत्तरीय",
+        "question_number": "",
+        "section": "D",
+        "marks_each": 5,
+        "total_in_paper": 2,
+        "attempt": 2,
+        "negative_marking": false,
+        "how_to_attempt": "5 अंक = पूरी उपपत्ति/व्युत्पादन सभी steps सहित। मानक सूत्र/प्रमेय से शुरू कीजिए। सभी मध्यवर्ती steps दिखाइए। अंतिम उत्तर बॉक्स में।",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "एक से डेढ़ पृष्ठ",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "RBSE गणित थ्योरी पेपर = 80 अंक। 4 खंड। 30 प्रश्न। अवधि: 3 घंटे 15 मिनट (15 मिनट रीडिंग टाइम अतिरिक्त)। कोई प्रैक्टिकल नहीं — 20 अंक आंतरिक मूल्यांकन।",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "खंड C (दीर्घ उत्तरीय) एवं खंड D (निबंधात्मक) में internal choice (अथवा विकल्प) मिलता है।",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 40,
+      "medium_percent": 40,
+      "hard_percent": 20,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "unit_wise_from_screenshot",
+        "name": "unit wise from screenshot",
+        "type": "unit_wise_from_screenshot",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "A",
+        "name": "खंड A — वस्तुनिष्ठ (MCQ + रिक्त स्थान + अति लघु उत्तरीय)",
+        "type": "खंड A — वस्तुनिष्ठ (MCQ + रिक्त स्थान + अति लघु उत्तरीय)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 3,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 30,
+        "word_limit": "",
+        "breakdown": "MCQ: {'count': 18, 'marks_each': 1, 'total': 18, 'note': '18 MCQ × 1 अंक = 18 अंक (RBSE गणित में MCQ = प्रत्येक 1 अंक, 0.5 नहीं)'}; fill_in_blanks: {'count': 6, 'marks_each': 1, 'total': 6, 'note': '6 रिक्त स्थान × 1 अंक = 6 अंक'}; very_short_answer: {'count': 6, 'marks_each': 1, 'total': 6, 'note': '6 अति लघु उत्तरीय × 1 अंक = 6 अंक'}",
+        "notes": "RBSE गणित में खंड A के अंक भौतिकी/रसायन से अलग हैं — प्रत्येक MCQ 1 अंक (0.5 नहीं)।"
+      },
+      {
+        "section_id": "B",
+        "name": "खंड B — लघु उत्तरीय",
+        "type": "खंड B — लघु उत्तरीय",
+        "question_numbers": "",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "10 लघु उत्तरीय प्रश्न × 2 अंक = 20 अंक। सभी अनिवार्य।",
+        "notes": "10 लघु उत्तरीय प्रश्न × 2 अंक = 20 अंक। सभी अनिवार्य।"
+      },
+      {
+        "section_id": "C",
+        "name": "खंड C — दीर्घ उत्तरीय",
+        "type": "खंड C — दीर्घ उत्तरीय",
+        "question_numbers": "",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "attempt_required": 5,
+        "marks_per_question": 4,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "5 दीर्घ उत्तरीय प्रश्न × 4 अंक = 20 अंक। Internal अथवा विकल्प मिलता है।",
+        "notes": "5 दीर्घ उत्तरीय प्रश्न × 4 अंक = 20 अंक। Internal अथवा विकल्प मिलता है।"
+      },
+      {
+        "section_id": "D",
+        "name": "खंड D — निबंधात्मक / अति दीर्घ उत्तरीय",
+        "type": "खंड D — निबंधात्मक / अति दीर्घ उत्तरीय",
+        "question_numbers": "",
+        "total_questions": 2,
+        "total_sub_questions": 0,
+        "attempt_required": 2,
+        "marks_per_question": 5,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "2 निबंधात्मक प्रश्न × 5 अंक = 10 अंक। Internal अथवा विकल्प मिलता है। आमतौर पर समाकलन से आता है।",
+        "notes": "2 निबंधात्मक प्रश्न × 5 अंक = 10 अंक। Internal अथवा विकल्प मिलता है। आमतौर पर समाकलन से आता है।"
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 80,
+    "total_practical": 0,
+    "internal_assessment": 20,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "unit_wise_from_screenshot",
+        "name": "unit wise from screenshot",
+        "question_numbers": "",
+        "type": "unit_wise_from_screenshot",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "A",
+        "name": "खंड A — वस्तुनिष्ठ (MCQ + रिक्त स्थान + अति लघु उत्तरीय)",
+        "question_numbers": "",
+        "type": "खंड A — वस्तुनिष्ठ (MCQ + रिक्त स्थान + अति लघु उत्तरीय)",
+        "total_questions": 0,
+        "total_sub_questions": 3,
+        "marks_per_question": 0,
+        "total_marks": 30,
+        "word_limit": "",
+        "breakdown": "MCQ: {'count': 18, 'marks_each': 1, 'total': 18, 'note': '18 MCQ × 1 अंक = 18 अंक (RBSE गणित में MCQ = प्रत्येक 1 अंक, 0.5 नहीं)'}; fill_in_blanks: {'count': 6, 'marks_each': 1, 'total': 6, 'note': '6 रिक्त स्थान × 1 अंक = 6 अंक'}; very_short_answer: {'count': 6, 'marks_each': 1, 'total': 6, 'note': '6 अति लघु उत्तरीय × 1 अंक = 6 अंक'}"
+      },
+      {
+        "section_id": "B",
+        "name": "खंड B — लघु उत्तरीय",
+        "question_numbers": "",
+        "type": "खंड B — लघु उत्तरीय",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "10 लघु उत्तरीय प्रश्न × 2 अंक = 20 अंक। सभी अनिवार्य।"
+      },
+      {
+        "section_id": "C",
+        "name": "खंड C — दीर्घ उत्तरीय",
+        "question_numbers": "",
+        "type": "खंड C — दीर्घ उत्तरीय",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "5 दीर्घ उत्तरीय प्रश्न × 4 अंक = 20 अंक। Internal अथवा विकल्प मिलता है।"
+      },
+      {
+        "section_id": "D",
+        "name": "खंड D — निबंधात्मक / अति दीर्घ उत्तरीय",
+        "question_numbers": "",
+        "type": "खंड D — निबंधात्मक / अति दीर्घ उत्तरीय",
+        "total_questions": 2,
+        "total_sub_questions": 0,
+        "marks_per_question": 5,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "2 निबंधात्मक प्रश्न × 5 अंक = 10 अंक। Internal अथवा विकल्प मिलता है। आमतौर पर समाकलन से आता है।"
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 80,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "5",
+      "name": "सांतत्य और अवकलनीयता (Continuity and Differentiability)",
+      "marks": 36,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "12",
+        "name": "रैखिक प्रोग्रामन (Linear Programming)",
+        "marks": 4
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "संबंध एवं फलन (Relations and Functions)",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "प्रतिलोम त्रिकोणमितीय फलन (Inverse Trigonometric Functions)",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "आव्यूह (Matrices)",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "सारणिक (Determinants)",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "सांतत्य और अवकलनीयता (Continuity and Differentiability)",
+        "marks": 36,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "अवकलज के अनुप्रयोग (Applications of Derivatives)",
+        "marks": 36,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "समाकलन (Integrals)",
+        "marks": 36,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "name": "समाकलनों के अनुप्रयोग (Applications of the Integrals)",
+        "marks": 36,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "name": "अवकल समीकरण (Differential Equations)",
+        "marks": 36,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "10",
+        "name": "सदिश बीजगणित (Vector Algebra)",
+        "marks": 16,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "11",
+        "name": "त्रिविमीय ज्यामिति (Three Dimensional Geometry)",
+        "marks": 16,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "name": "रैखिक प्रोग्रामन (Linear Programming)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "13",
+        "name": "प्रायिकता (Probability)",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Mathematics Class 12 — 13 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Mathematics",
+        "category": "Main",
+        "total_marks": 257,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "संबंध एवं फलन (Relations and Functions)",
+            "marks": 7,
+            "topics": [
+              "संबंधों के प्रकार — स्वतुल्य, सममित, संक्रामक, तुल्यता",
+              "फलनों के प्रकार — एकैकी (injective), आच्छादक (surjective), एकैकी-आच्छादी (bijective)",
+              "फलनों का संयोजन",
+              "फलन का प्रतिलोम",
+              "द्विआधारी संक्रियाएँ"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "प्रतिलोम त्रिकोणमितीय फलन (Inverse Trigonometric Functions)",
+            "marks": 7,
+            "topics": [
+              "प्रतिलोम त्रिकोणमितीय फलनों का प्रांत एवं परिसर",
+              "प्रतिलोम त्रिकोणमितीय फलनों के गुण",
+              "मुख्य मान — sin⁻¹, cos⁻¹, tan⁻¹",
+              "प्रतिलोम त्रिकोणमितीय व्यंजकों का सरलीकरण"
+            ],
+            "note": "इकाई 1 का कुल = 7 अंक, अध्याय 1 एवं अध्याय 2 में बँटे हुए"
+          },
+          {
+            "chapter_id": "3",
+            "name": "आव्यूह (Matrices)",
+            "marks": 10,
+            "topics": [
+              "आव्यूहों के प्रकार — पंक्ति, स्तंभ, वर्ग, शून्य, तत्समक, विकर्ण, सममित, विषम सममित",
+              "आव्यूह संक्रियाएँ — योग, अदिश गुणन, आव्यूह गुणन",
+              "आव्यूह का परिवर्त (Transpose) — गुण",
+              "सममित एवं विषम सममित आव्यूह",
+              "प्रारंभिक पंक्ति/स्तंभ रूपांतरण",
+              "व्युत्क्रमणीय आव्यूह"
+            ],
+            "note": "इकाई 2 (बीजगणित) = 10 अंक, अध्याय 3 एवं अध्याय 4 में बँटे हुए"
+          },
+          {
+            "chapter_id": "4",
+            "name": "सारणिक (Determinants)",
+            "marks": 10,
+            "topics": [
+              "सारणिकों के गुण",
+              "सारणिकों का उपयोग करके त्रिभुज का क्षेत्रफल",
+              "आव्यूह का सहखंडज एवं व्युत्क्रम",
+              "अनुप्रयोग — क्रैमर नियम एवं आव्यूह विधि से रैखिक समीकरण निकाय",
+              "समीकरण निकाय की संगतता"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "सांतत्य और अवकलनीयता (Continuity and Differentiability)",
+            "marks": 36,
+            "topics": [
+              "सांतत्य — परिभाषा, एक बिंदु पर जाँच, हर अवकलनीय फलन सांतत्य है",
+              "अवकलनीयता — LHD, RHD",
+              "अवकलन का श्रृंखला नियम",
+              "संयुक्त, अंतर्निहित, प्राचलिक फलनों के अवकलज",
+              "लघुगणकीय एवं चरघातांकी फलनों के अवकलज",
+              "द्वितीय कोटि के अवकलज",
+              "रोल प्रमेय एवं माध्यमान प्रमेय (लाग्राँज)"
+            ],
+            "note": "इकाई 3 (कलन) का कुल = 36 अंक, अध्याय 5, 6, 7, 8, 9 में बँटे हुए"
+          },
+          {
+            "chapter_id": "6",
+            "name": "अवकलज के अनुप्रयोग (Applications of Derivatives)",
+            "marks": 36,
+            "topics": [
+              "परिवर्तन की दर",
+              "वर्धमान एवं ह्रासमान फलन",
+              "स्पर्श रेखाएँ एवं अभिलंब",
+              "उच्चिष्ठ एवं निम्निष्ठ — प्रथम अवकलज परीक्षण, द्वितीय अवकलज परीक्षण",
+              "अवकलनों द्वारा सन्निकटन"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "समाकलन (Integrals)",
+            "marks": 36,
+            "topics": [
+              "अनिश्चित समाकलन — मानक सूत्र",
+              "विधियाँ — प्रतिस्थापन, खंडशः समाकलन",
+              "आंशिक भिन्न",
+              "विशेष रूपों का समाकलन",
+              "निश्चित समाकलन — गुणधर्म",
+              "निश्चित समाकलन योगफल की सीमा के रूप में"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "समाकलनों के अनुप्रयोग (Applications of the Integrals)",
+            "marks": 36,
+            "topics": [
+              "निश्चित समाकलन द्वारा वक्रों के अंतर्गत क्षेत्रफल",
+              "दो वक्रों के बीच का क्षेत्रफल",
+              "मानक आकृतियों का क्षेत्रफल — वृत्त, परवलय, दीर्घवृत्त"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "अवकल समीकरण (Differential Equations)",
+            "marks": 36,
+            "topics": [
+              "अवकल समीकरण की कोटि एवं घात",
+              "व्यापक एवं विशिष्ट हल",
+              "विधियाँ — चर पृथक्करण, समघात, रैखिक प्रथम कोटि (समाकलन गुणक)",
+              "अवकल समीकरण का निर्माण"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "सदिश बीजगणित (Vector Algebra)",
+            "marks": 16,
+            "topics": [
+              "सदिशों के प्रकार — मात्रक, शून्य, स्थिति, संरेख, समान",
+              "सदिशों का योग — त्रिभुज एवं समांतर चतुर्भुज नियम",
+              "अदिश (डॉट) गुणनफल — सदिशों के बीच कोण, प्रक्षेप",
+              "सदिश (क्रॉस) गुणनफल — समांतर चतुर्भुज/त्रिभुज का क्षेत्रफल",
+              "अदिश त्रिक गुणनफल"
+            ],
+            "note": "इकाई 4 (सदिश + त्रिविमीय ज्यामिति) = 16 अंक, अध्याय 10 एवं अध्याय 11 में बँटे हुए"
+          },
+          {
+            "chapter_id": "11",
+            "name": "त्रिविमीय ज्यामिति (Three Dimensional Geometry)",
+            "marks": 16,
+            "topics": [
+              "दिक्-कोज्या एवं दिक्-अनुपात",
+              "3D में रेखा का समीकरण — सदिश एवं कार्तीय रूप",
+              "दो रेखाओं के बीच कोण",
+              "बिंदु से रेखा की दूरी",
+              "समतल का समीकरण — विभिन्न रूप",
+              "समतल एवं रेखा के बीच कोण",
+              "बिंदु से समतल की दूरी",
+              "विषम रेखाओं (skew lines) के बीच न्यूनतम दूरी"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "रैखिक प्रोग्रामन (Linear Programming)",
+            "marks": 4,
+            "topics": [
+              "शब्द-समस्याओं से LPP का सूत्रण",
+              "आलेखीय विधि — सुसंगत क्षेत्र",
+              "कोने बिंदु विधि — प्रत्येक कोने पर उद्देश्य फलन का मान ज्ञात करना",
+              "उद्देश्य फलन का अधिकतम एवं न्यूनतम",
+              "परिबद्ध एवं अपरिबद्ध सुसंगत क्षेत्र"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "प्रायिकता (Probability)",
+            "marks": 7,
+            "topics": [
+              "सप्रतिबंध प्रायिकता — P(A|B) = P(A∩B)/P(B)",
+              "गुणन प्रमेय",
+              "स्वतंत्र घटनाएँ",
+              "बेज़ प्रमेय",
+              "यादृच्छिक चर — विविक्त प्रायिकता बंटन",
+              "यादृच्छिक चर का माध्य एवं प्रसरण",
+              "द्विपद बंटन — P(X=r) = ⁿCr · pʳ · qⁿ⁻ʳ"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "संबंध एवं फलन (Relations and Functions)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 1,
+      "unit_name": 1,
+      "part": "",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "सरल-मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "संबंधों के प्रकार — स्वतुल्य, सममित, संक्रामक, तुल्यता",
+        "फलनों के प्रकार — एकैकी (injective), आच्छादक (surjective), एकैकी-आच्छादी (bijective)",
+        "फलनों का संयोजन",
+        "फलन का प्रतिलोम",
+        "द्विआधारी संक्रियाएँ"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "संबंध तुल्यता है — सिद्ध कीजिए (लघु/दीर्घ), एकैकी-आच्छादक की जाँच (लघु), फलनों का संयोजन (लघु), द्विआधारी संक्रिया के गुण (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "प्रतिलोम त्रिकोणमितीय फलन (Inverse Trigonometric Functions)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 2,
+      "unit_name": 1,
+      "part": "",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "इकाई 1 का कुल = 7 अंक, अध्याय 1 एवं अध्याय 2 में बँटे हुए",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "इकाई 1 का कुल = 7 अंक, अध्याय 1 एवं अध्याय 2 में बँटे हुए",
+      "important_topics": [
+        "प्रतिलोम त्रिकोणमितीय फलनों का प्रांत एवं परिसर",
+        "प्रतिलोम त्रिकोणमितीय फलनों के गुण",
+        "मुख्य मान — sin⁻¹, cos⁻¹, tan⁻¹",
+        "प्रतिलोम त्रिकोणमितीय व्यंजकों का सरलीकरण"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "sin⁻¹x + cos⁻¹x = π/2",
+        "tan⁻¹x + tan⁻¹y = tan⁻¹((x+y)/(1-xy)), यदि xy < 1",
+        "2tan⁻¹x = sin⁻¹(2x/(1+x²)) = cos⁻¹((1-x²)/(1+x²)) = tan⁻¹(2x/(1-x²))"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "प्रतिलोम त्रिकोणमितीय व्यंजक का सरलीकरण/सिद्ध कीजिए (लघु/दीर्घ), मुख्य मान (MCQ/अति लघु), प्रांत-परिसर (MCQ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "आव्यूह (Matrices)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 3,
+      "unit_name": 2,
+      "part": "",
+      "weightage_marks": 10,
+      "typical_breakdown": "",
+      "difficulty": "सरल-मध्यम",
+      "difficulty_reason": "इकाई 2 (बीजगणित) = 10 अंक, अध्याय 3 एवं अध्याय 4 में बँटे हुए",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "इकाई 2 (बीजगणित) = 10 अंक, अध्याय 3 एवं अध्याय 4 में बँटे हुए",
+      "important_topics": [
+        "आव्यूहों के प्रकार — पंक्ति, स्तंभ, वर्ग, शून्य, तत्समक, विकर्ण, सममित, विषम सममित",
+        "आव्यूह संक्रियाएँ — योग, अदिश गुणन, आव्यूह गुणन",
+        "आव्यूह का परिवर्त (Transpose) — गुण",
+        "सममित एवं विषम सममित आव्यूह",
+        "प्रारंभिक पंक्ति/स्तंभ रूपांतरण",
+        "व्युत्क्रमणीय आव्यूह"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "आव्यूह गुणन (लघु), सममित/विषम सममित की उपपत्ति (लघु), परिवर्त के गुण (लघु/MCQ), प्रारंभिक रूपांतरण से व्युत्क्रम ज्ञात कीजिए (दीर्घ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "सारणिक (Determinants)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 4,
+      "unit_name": 2,
+      "part": "",
+      "weightage_marks": 10,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "सारणिकों के गुण",
+        "सारणिकों का उपयोग करके त्रिभुज का क्षेत्रफल",
+        "आव्यूह का सहखंडज एवं व्युत्क्रम",
+        "अनुप्रयोग — क्रैमर नियम एवं आव्यूह विधि से रैखिक समीकरण निकाय",
+        "समीकरण निकाय की संगतता"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "A⁻¹ = (1/|A|) × adj(A)",
+        "क्रैमर नियम: x = D₁/D, y = D₂/D, z = D₃/D",
+        "त्रिभुज का क्षेत्रफल = (1/2)|x₁(y₂-y₃) + x₂(y₃-y₁) + x₃(y₁-y₂)|"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "आव्यूह विधि से समीकरण निकाय हल कीजिए (दीर्घ/निबंधात्मक), सारणिक विस्तार के गुण (लघु), व्युत्क्रम ज्ञात कीजिए (दीर्घ), संगतता की जाँच (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "सांतत्य और अवकलनीयता (Continuity and Differentiability)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 5,
+      "unit_name": 3,
+      "part": "",
+      "weightage_marks": 36,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "इकाई 3 (कलन) का कुल = 36 अंक, अध्याय 5, 6, 7, 8, 9 में बँटे हुए",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "इकाई 3 (कलन) का कुल = 36 अंक, अध्याय 5, 6, 7, 8, 9 में बँटे हुए",
+      "important_topics": [
+        "सांतत्य — परिभाषा, एक बिंदु पर जाँच, हर अवकलनीय फलन सांतत्य है",
+        "अवकलनीयता — LHD, RHD",
+        "अवकलन का श्रृंखला नियम",
+        "संयुक्त, अंतर्निहित, प्राचलिक फलनों के अवकलज",
+        "लघुगणकीय एवं चरघातांकी फलनों के अवकलज",
+        "द्वितीय कोटि के अवकलज",
+        "रोल प्रमेय एवं माध्यमान प्रमेय (लाग्राँज)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "d/dx(sin x) = cos x, d/dx(cos x) = -sin x",
+        "d/dx(tan x) = sec²x, d/dx(cot x) = -cosec²x",
+        "d/dx(eˣ) = eˣ, d/dx(ln x) = 1/x",
+        "श्रृंखला नियम: d/dx[f(g(x))] = f'(g(x)) · g'(x)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "अंतर्निहित अवकलन (लघु/दीर्घ), प्राचलिक अवकलन (दीर्घ), द्वितीय कोटि अवकलज (दीर्घ), रोल/लाग्राँज प्रमेय (लघु/दीर्घ), सांतत्य की जाँच (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "अवकलज के अनुप्रयोग (Applications of Derivatives)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 6,
+      "unit_name": 3,
+      "part": "",
+      "weightage_marks": 36,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम-कठिन",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "परिवर्तन की दर",
+        "वर्धमान एवं ह्रासमान फलन",
+        "स्पर्श रेखाएँ एवं अभिलंब",
+        "उच्चिष्ठ एवं निम्निष्ठ — प्रथम अवकलज परीक्षण, द्वितीय अवकलज परीक्षण",
+        "अवकलनों द्वारा सन्निकटन"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "उच्चिष्ठ/निम्निष्ठ समस्याएँ — अनुकूलन (दीर्घ/निबंधात्मक), वर्धमान/ह्रासमान अंतराल (लघु/दीर्घ), स्पर्श रेखा एवं अभिलंब समीकरण (लघु), परिवर्तन की दर (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "समाकलन (Integrals)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 7,
+      "unit_name": 3,
+      "part": "",
+      "weightage_marks": 36,
+      "typical_breakdown": "",
+      "difficulty": "कठिन",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "अनिश्चित समाकलन — मानक सूत्र",
+        "विधियाँ — प्रतिस्थापन, खंडशः समाकलन",
+        "आंशिक भिन्न",
+        "विशेष रूपों का समाकलन",
+        "निश्चित समाकलन — गुणधर्म",
+        "निश्चित समाकलन योगफल की सीमा के रूप में"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "∫xⁿ dx = xⁿ⁺¹/(n+1) + C",
+        "∫eˣ dx = eˣ + C",
+        "∫(1/x) dx = ln|x| + C",
+        "खंडशः समाकलन: ∫u·v dx = u·∫v dx - ∫(u'·∫v dx) dx",
+        "ILATE नियम — प्रतिलोम त्रिकोणमितीय, लघुगणकीय, बीजगणितीय, त्रिकोणमितीय, चरघातांकी",
+        "∫ₐᵇ f(x) dx = F(b) - F(a)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "खंडशः समाकलन (दीर्घ/निबंधात्मक), गुणधर्मों से निश्चित समाकलन (दीर्घ), आंशिक भिन्न समाकलन (दीर्घ), मानक प्रतिस्थापन समाकलन (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "समाकलनों के अनुप्रयोग (Applications of the Integrals)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 8,
+      "unit_name": 3,
+      "part": "",
+      "weightage_marks": 36,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "निश्चित समाकलन द्वारा वक्रों के अंतर्गत क्षेत्रफल",
+        "दो वक्रों के बीच का क्षेत्रफल",
+        "मानक आकृतियों का क्षेत्रफल — वृत्त, परवलय, दीर्घवृत्त"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "क्षेत्रफल = ∫ₐᵇ f(x) dx (जब f(x) ≥ 0)",
+        "वक्रों के बीच क्षेत्रफल = ∫ₐᵇ [f(x) - g(x)] dx"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "परवलय/रेखा/वृत्त के अंतर्गत क्षेत्रफल (दीर्घ/निबंधात्मक), दो वक्रों के बीच क्षेत्रफल (दीर्घ), आलेख + समाकलन (दीर्घ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "अवकल समीकरण (Differential Equations)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 9,
+      "unit_name": 3,
+      "part": "",
+      "weightage_marks": 36,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "अवकल समीकरण की कोटि एवं घात",
+        "व्यापक एवं विशिष्ट हल",
+        "विधियाँ — चर पृथक्करण, समघात, रैखिक प्रथम कोटि (समाकलन गुणक)",
+        "अवकल समीकरण का निर्माण"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "चर पृथक्करण: f(y)dy = g(x)dx → दोनों पक्षों का समाकलन कीजिए",
+        "रैखिक DE: dy/dx + Py = Q → IF = e^(∫P dx)",
+        "हल: y × IF = ∫Q × IF dx + C"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "समाकलन गुणक से रैखिक DE हल कीजिए (दीर्घ), चर पृथक्करण DE (लघु/दीर्घ), दिए गए हल से DE बनाइए (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "सदिश बीजगणित (Vector Algebra)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 10,
+      "unit_name": 4,
+      "part": "",
+      "weightage_marks": 16,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "इकाई 4 (सदिश + त्रिविमीय ज्यामिति) = 16 अंक, अध्याय 10 एवं अध्याय 11 में बँटे हुए",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "इकाई 4 (सदिश + त्रिविमीय ज्यामिति) = 16 अंक, अध्याय 10 एवं अध्याय 11 में बँटे हुए",
+      "important_topics": [
+        "सदिशों के प्रकार — मात्रक, शून्य, स्थिति, संरेख, समान",
+        "सदिशों का योग — त्रिभुज एवं समांतर चतुर्भुज नियम",
+        "अदिश (डॉट) गुणनफल — सदिशों के बीच कोण, प्रक्षेप",
+        "सदिश (क्रॉस) गुणनफल — समांतर चतुर्भुज/त्रिभुज का क्षेत्रफल",
+        "अदिश त्रिक गुणनफल"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "a⃗ · b⃗ = |a||b|cosθ (डॉट गुणनफल)",
+        "a⃗ × b⃗ = |a||b|sinθ n̂ (क्रॉस गुणनफल)",
+        "समांतर चतुर्भुज का क्षेत्रफल = |a⃗ × b⃗|",
+        "त्रिभुज का क्षेत्रफल = (1/2)|a⃗ × b⃗|",
+        "अदिश त्रिक गुणनफल: a⃗ · (b⃗ × c⃗)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "डॉट गुणनफल / सदिशों के बीच कोण (लघु), क्रॉस गुणनफल / क्षेत्रफल (लघु/दीर्घ), सदिश का प्रक्षेप (लघु/अति लघु), सदिशों को समतलीय सिद्ध कीजिए (दीर्घ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "त्रिविमीय ज्यामिति (Three Dimensional Geometry)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 11,
+      "unit_name": 4,
+      "part": "",
+      "weightage_marks": 16,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम-कठिन",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "दिक्-कोज्या एवं दिक्-अनुपात",
+        "3D में रेखा का समीकरण — सदिश एवं कार्तीय रूप",
+        "दो रेखाओं के बीच कोण",
+        "बिंदु से रेखा की दूरी",
+        "समतल का समीकरण — विभिन्न रूप",
+        "समतल एवं रेखा के बीच कोण",
+        "बिंदु से समतल की दूरी",
+        "विषम रेखाओं (skew lines) के बीच न्यूनतम दूरी"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "बिंदु (x₁,y₁,z₁) एवं दिक्-अनुपात (a,b,c) से होकर रेखा: (x-x₁)/a = (y-y₁)/b = (z-z₁)/c",
+        "समतल का समीकरण: ax + by + cz = d",
+        "बिंदु से समतल की दूरी: |ax₁+by₁+cz₁-d|/√(a²+b²+c²)",
+        "विषम रेखाओं के बीच न्यूनतम दूरी का सूत्र"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "3 बिंदुओं से होकर गुज़रने वाले समतल का समीकरण (दीर्घ), विषम रेखाओं के बीच न्यूनतम दूरी (दीर्घ/निबंधात्मक), बिंदु से समतल की दूरी (लघु/दीर्घ), रेखा एवं समतल के बीच कोण (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "रैखिक प्रोग्रामन (Linear Programming)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 12,
+      "unit_name": 5,
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "सरल",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "शब्द-समस्याओं से LPP का सूत्रण",
+        "आलेखीय विधि — सुसंगत क्षेत्र",
+        "कोने बिंदु विधि — प्रत्येक कोने पर उद्देश्य फलन का मान ज्ञात करना",
+        "उद्देश्य फलन का अधिकतम एवं न्यूनतम",
+        "परिबद्ध एवं अपरिबद्ध सुसंगत क्षेत्र"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "LPP आलेखीय हल — अधिकतमीकरण/न्यूनतमीकरण (दीर्घ उत्तरीय — हर साल पक्का)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "प्रायिकता (Probability)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 13,
+      "unit_name": 6,
+      "part": "",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "सप्रतिबंध प्रायिकता — P(A|B) = P(A∩B)/P(B)",
+        "गुणन प्रमेय",
+        "स्वतंत्र घटनाएँ",
+        "बेज़ प्रमेय",
+        "यादृच्छिक चर — विविक्त प्रायिकता बंटन",
+        "यादृच्छिक चर का माध्य एवं प्रसरण",
+        "द्विपद बंटन — P(X=r) = ⁿCr · pʳ · qⁿ⁻ʳ"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "P(A|B) = P(A∩B)/P(B)",
+        "P(A∩B) = P(A)·P(B|A) = P(B)·P(A|B)",
+        "बेज़ प्रमेय: P(Aᵢ|B) = P(Aᵢ)P(B|Aᵢ) / Σ P(Aⱼ)P(B|Aⱼ)",
+        "द्विपद: P(X=r) = ⁿCr·pʳ·qⁿ⁻ʳ, माध्य = np, प्रसरण = npq"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "बेज़ प्रमेय पर समस्या (दीर्घ), द्विपद बंटन (लघु/दीर्घ), सप्रतिबंध प्रायिकता (लघु), बंटन का माध्य एवं प्रसरण (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Mathematics Class 12 — 13 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "खंड C (दीर्घ उत्तरीय) एवं खंड D (निबंधात्मक) में internal choice (अथवा विकल्प) मिलता है।",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "आव्यूह (Matrices)",
+      "सारणिक (Determinants)",
+      "सांतत्य और अवकलनीयता (Continuity and Differentiability)",
+      "अवकलज के अनुप्रयोग (Applications of Derivatives)",
+      "समाकलन (Integrals)",
+      "समाकलनों के अनुप्रयोग (Applications of the Integrals)",
+      "अवकल समीकरण (Differential Equations)",
+      "सदिश बीजगणित (Vector Algebra)",
+      "त्रिविमीय ज्यामिति (Three Dimensional Geometry)"
+    ],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [
+      "आव्यूह (Matrices) (10 marks)",
+      "सारणिक (Determinants) (10 marks)",
+      "सांतत्य और अवकलनीयता (Continuity and Differentiability) (36 marks)",
+      "अवकलज के अनुप्रयोग (Applications of Derivatives) (36 marks)",
+      "समाकलन (Integrals) (36 marks)",
+      "समाकलनों के अनुप्रयोग (Applications of the Integrals) (36 marks)",
+      "अवकल समीकरण (Differential Equations) (36 marks)",
+      "सदिश बीजगणित (Vector Algebra) (16 marks)",
+      "त्रिविमीय ज्यामिति (Three Dimensional Geometry) (16 marks)"
+    ],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [
+      "खंडशः समाकलन (∫u·v dx) (Q: , 4-5)",
+      "गुणधर्मों से निश्चित समाकलन (Q: , 4)",
+      "आव्यूह विधि से समीकरण निकाय का हल (Q: , 4-5)",
+      "रैखिक प्रोग्रामन — आलेखीय विधि से अधिकतम/न्यूनतम (Q: , 4)",
+      "उच्चिष्ठ/निम्निष्ठ अनुप्रयोग समस्याएँ (Q: , 4)",
+      "बेज़ प्रमेय / सप्रतिबंध प्रायिकता (Q: , 4)",
+      "3 बिंदुओं से गुज़रने वाले समतल का समीकरण / रेखा समीकरण (Q: , 4)",
+      "अवकल समीकरण — रैखिक / चर पृथक्करण (Q: , 2-4)",
+      "प्रतिलोम त्रिकोणमितीय सरलीकरण / मुख्य मान (Q: , 1-2)",
+      "सांतत्य / अवकलनीयता की जाँच (Q: , 2)",
+      "समाकलन द्वारा वक्र के अंतर्गत क्षेत्रफल (Q: , 4-5)"
+    ],
+    "chapters_mostly_theory": [
+      "संबंध एवं फलन (Relations and Functions)",
+      "प्रतिलोम त्रिकोणमितीय फलन (Inverse Trigonometric Functions)",
+      "आव्यूह (Matrices)",
+      "सारणिक (Determinants)",
+      "सांतत्य और अवकलनीयता (Continuity and Differentiability)",
+      "अवकलज के अनुप्रयोग (Applications of Derivatives)",
+      "समाकलन (Integrals)",
+      "समाकलनों के अनुप्रयोग (Applications of the Integrals)",
+      "अवकल समीकरण (Differential Equations)",
+      "सदिश बीजगणित (Vector Algebra)",
+      "त्रिविमीय ज्यामिति (Three Dimensional Geometry)",
+      "रैखिक प्रोग्रामन (Linear Programming)",
+      "प्रायिकता (Probability)"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "संबंध एवं फलन (Relations and Functions)",
+      "प्रतिलोम त्रिकोणमितीय फलन (Inverse Trigonometric Functions)",
+      "आव्यूह (Matrices)",
+      "सारणिक (Determinants)",
+      "सांतत्य और अवकलनीयता (Continuity and Differentiability)",
+      "अवकलज के अनुप्रयोग (Applications of Derivatives)",
+      "समाकलन (Integrals)",
+      "समाकलनों के अनुप्रयोग (Applications of the Integrals)",
+      "अवकल समीकरण (Differential Equations)",
+      "सदिश बीजगणित (Vector Algebra)",
+      "त्रिविमीय ज्यामिति (Three Dimensional Geometry)",
+      "प्रायिकता (Probability)"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "संबंध एवं फलन (Relations and Functions)",
+      "प्रतिलोम त्रिकोणमितीय फलन (Inverse Trigonometric Functions)",
+      "आव्यूह (Matrices)",
+      "सारणिक (Determinants)",
+      "सांतत्य और अवकलनीयता (Continuity and Differentiability)",
+      "अवकलज के अनुप्रयोग (Applications of Derivatives)",
+      "समाकलन (Integrals)",
+      "समाकलनों के अनुप्रयोग (Applications of the Integrals)",
+      "अवकल समीकरण (Differential Equations)",
+      "सदिश बीजगणित (Vector Algebra)",
+      "त्रिविमीय ज्यामिति (Three Dimensional Geometry)",
+      "प्रायिकता (Probability)"
+    ],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "संबंध एवं फलन (Relations and Functions)",
+      "प्रतिलोम त्रिकोणमितीय फलन (Inverse Trigonometric Functions)",
+      "आव्यूह (Matrices)",
+      "सारणिक (Determinants)",
+      "सांतत्य और अवकलनीयता (Continuity and Differentiability)",
+      "अवकलज के अनुप्रयोग (Applications of Derivatives)",
+      "समाकलन (Integrals)",
+      "समाकलनों के अनुप्रयोग (Applications of the Integrals)",
+      "अवकल समीकरण (Differential Equations)",
+      "सदिश बीजगणित (Vector Algebra)",
+      "त्रिविमीय ज्यामिति (Three Dimensional Geometry)",
+      "रैखिक प्रोग्रामन (Linear Programming)",
+      "प्रायिकता (Probability)"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "खंडशः समाकलन (∫u·v dx) (Q: , 4-5)",
+      "गुणधर्मों से निश्चित समाकलन (Q: , 4)",
+      "आव्यूह विधि से समीकरण निकाय का हल (Q: , 4-5)",
+      "रैखिक प्रोग्रामन — आलेखीय विधि से अधिकतम/न्यूनतम (Q: , 4)",
+      "उच्चिष्ठ/निम्निष्ठ अनुप्रयोग समस्याएँ (Q: , 4)",
+      "बेज़ प्रमेय / सप्रतिबंध प्रायिकता (Q: , 4)",
+      "3 बिंदुओं से गुज़रने वाले समतल का समीकरण / रेखा समीकरण (Q: , 4)",
+      "अवकल समीकरण — रैखिक / चर पृथक्करण (Q: , 2-4)",
+      "प्रतिलोम त्रिकोणमितीय सरलीकरण / मुख्य मान (Q: , 1-2)",
+      "सांतत्य / अवकलनीयता की जाँच (Q: , 2)",
+      "समाकलन द्वारा वक्र के अंतर्गत क्षेत्रफल (Q: , 4-5)"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Mathematics.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Formulas for Mathematics Class 12.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "2",
+        "chapter_name": "प्रतिलोम त्रिकोणमितीय फलन (Inverse Trigonometric Functions)",
+        "formulas": [
+          "sin⁻¹x + cos⁻¹x = π/2",
+          "tan⁻¹x + tan⁻¹y = tan⁻¹((x+y)/(1-xy)), यदि xy < 1",
+          "2tan⁻¹x = sin⁻¹(2x/(1+x²)) = cos⁻¹((1-x²)/(1+x²)) = tan⁻¹(2x/(1-x²))"
+        ]
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "सारणिक (Determinants)",
+        "formulas": [
+          "A⁻¹ = (1/|A|) × adj(A)",
+          "क्रैमर नियम: x = D₁/D, y = D₂/D, z = D₃/D",
+          "त्रिभुज का क्षेत्रफल = (1/2)|x₁(y₂-y₃) + x₂(y₃-y₁) + x₃(y₁-y₂)|"
+        ]
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "सांतत्य और अवकलनीयता (Continuity and Differentiability)",
+        "formulas": [
+          "d/dx(sin x) = cos x, d/dx(cos x) = -sin x",
+          "d/dx(tan x) = sec²x, d/dx(cot x) = -cosec²x",
+          "d/dx(eˣ) = eˣ, d/dx(ln x) = 1/x",
+          "श्रृंखला नियम: d/dx[f(g(x))] = f'(g(x)) · g'(x)"
+        ]
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "समाकलन (Integrals)",
+        "formulas": [
+          "∫xⁿ dx = xⁿ⁺¹/(n+1) + C",
+          "∫eˣ dx = eˣ + C",
+          "∫(1/x) dx = ln|x| + C",
+          "खंडशः समाकलन: ∫u·v dx = u·∫v dx - ∫(u'·∫v dx) dx",
+          "ILATE नियम — प्रतिलोम त्रिकोणमितीय, लघुगणकीय, बीजगणितीय, त्रिकोणमितीय, चरघातांकी",
+          "∫ₐᵇ f(x) dx = F(b) - F(a)"
+        ]
+      },
+      {
+        "chapter_id": "8",
+        "chapter_name": "समाकलनों के अनुप्रयोग (Applications of the Integrals)",
+        "formulas": [
+          "क्षेत्रफल = ∫ₐᵇ f(x) dx (जब f(x) ≥ 0)",
+          "वक्रों के बीच क्षेत्रफल = ∫ₐᵇ [f(x) - g(x)] dx"
+        ]
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "अवकल समीकरण (Differential Equations)",
+        "formulas": [
+          "चर पृथक्करण: f(y)dy = g(x)dx → दोनों पक्षों का समाकलन कीजिए",
+          "रैखिक DE: dy/dx + Py = Q → IF = e^(∫P dx)",
+          "हल: y × IF = ∫Q × IF dx + C"
+        ]
+      },
+      {
+        "chapter_id": "10",
+        "chapter_name": "सदिश बीजगणित (Vector Algebra)",
+        "formulas": [
+          "a⃗ · b⃗ = |a||b|cosθ (डॉट गुणनफल)",
+          "a⃗ × b⃗ = |a||b|sinθ n̂ (क्रॉस गुणनफल)",
+          "समांतर चतुर्भुज का क्षेत्रफल = |a⃗ × b⃗|",
+          "त्रिभुज का क्षेत्रफल = (1/2)|a⃗ × b⃗|",
+          "अदिश त्रिक गुणनफल: a⃗ · (b⃗ × c⃗)"
+        ]
+      },
+      {
+        "chapter_id": "11",
+        "chapter_name": "त्रिविमीय ज्यामिति (Three Dimensional Geometry)",
+        "formulas": [
+          "बिंदु (x₁,y₁,z₁) एवं दिक्-अनुपात (a,b,c) से होकर रेखा: (x-x₁)/a = (y-y₁)/b = (z-z₁)/c",
+          "समतल का समीकरण: ax + by + cz = d",
+          "बिंदु से समतल की दूरी: |ax₁+by₁+cz₁-d|/√(a²+b²+c²)",
+          "विषम रेखाओं के बीच न्यूनतम दूरी का सूत्र"
+        ]
+      },
+      {
+        "chapter_id": "13",
+        "chapter_name": "प्रायिकता (Probability)",
+        "formulas": [
+          "P(A|B) = P(A∩B)/P(B)",
+          "P(A∩B) = P(A)·P(B|A) = P(B)·P(A|B)",
+          "बेज़ प्रमेय: P(Aᵢ|B) = P(Aᵢ)P(B|Aᵢ) / Σ P(Aⱼ)P(B|Aⱼ)",
+          "द्विपद: P(X=r) = ⁿCr·pʳ·qⁿ⁻ʳ, माध्य = np, प्रसरण = npq"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Calculus Derivatives",
+        "formulas": [
+          "d/dx(xⁿ) = nxⁿ⁻¹",
+          "d/dx(sin x) = cos x",
+          "d/dx(cos x) = -sin x",
+          "d/dx(tan x) = sec²x",
+          "d/dx(eˣ) = eˣ",
+          "d/dx(ln x) = 1/x",
+          "d/dx(sin⁻¹x) = 1/√(1-x²)",
+          "d/dx(cos⁻¹x) = -1/√(1-x²)",
+          "d/dx(tan⁻¹x) = 1/(1+x²)"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Calculus Integrals",
+        "formulas": [
+          "∫xⁿ dx = xⁿ⁺¹/(n+1) + C",
+          "∫sin x dx = -cos x + C",
+          "∫cos x dx = sin x + C",
+          "∫sec²x dx = tan x + C",
+          "∫eˣ dx = eˣ + C",
+          "∫(1/x) dx = ln|x| + C",
+          "∫(1/√(1-x²)) dx = sin⁻¹x + C",
+          "∫(1/(1+x²)) dx = tan⁻¹x + C",
+          "खंडशः समाकलन: ∫u v dx = u∫v dx - ∫(du/dx · ∫v dx) dx  [ILATE नियम]"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Vectors 3D",
+        "formulas": [
+          "a⃗ · b⃗ = |a||b|cosθ",
+          "|a⃗ × b⃗| = |a||b|sinθ",
+          "समांतर चतुर्भुज का क्षेत्रफल = |a⃗ × b⃗|",
+          "दिक्-कोज्याएँ: l² + m² + n² = 1",
+          "बिंदु से समतल की दूरी: |ax₁+by₁+cz₁+d|/√(a²+b²+c²)"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Probability",
+        "formulas": [
+          "P(A|B) = P(A∩B)/P(B)",
+          "P(A∩B) = P(A)·P(B|A)",
+          "द्विपद: P(X=r) = ⁿCr·pʳ·qⁿ⁻ʳ",
+          "द्विपद का माध्य = np",
+          "द्विपद का प्रसरण = npq"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Mathematics.",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Mathematics.",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Mathematics Class 12 — no practical.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 40,
+    "medium_percent": 40,
+    "hard_percent": 20,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "खंड A के 30 प्रश्न (30 अंक) = पेपर का 37%। सभी attempt कीजिए — कोई negative marking नहीं",
+      "अध्याय 12 (LPP) = 4 अंक का पक्का आसान प्रश्न — रोज़ 15 मिनट के अभ्यास से 4 अंक पक्के",
+      "समाकलन (अध्याय 7) = खंड D के 5-अंक निबंधात्मक का स्रोत — खंडशः समाकलन का रोज़ अभ्यास कीजिए",
+      "खंडशः समाकलन में ILATE नियम use कीजिए — प्रतिलोम त्रिकोणमितीय > लघुगणकीय > बीजगणितीय > त्रिकोणमितीय > चरघातांकी",
+      "हर step स्पष्ट रूप से लिखिए — गणित में हर step के लिए partial अंक मिलते हैं",
+      "कैलकुलेटर allowed नहीं — rough work स्पष्ट रूप से कीजिए, गणना की गलतियों से बचने के लिए",
+      "LPP में graph paper पर कोने बिंदु स्पष्ट रूप से अंकित कीजिए एवं सुसंगत क्षेत्र shade कीजिए",
+      "बेज़ प्रमेय में tree diagram बनाइए — प्रायिकता की गणना स्पष्ट हो जाती है",
+      "निश्चित समाकलन में सीमाओं का प्रतिस्थापन करना मत भूलिए",
+      "आव्यूह विधि में पहले D ≠ 0 check कीजिए — फिर D₁, D₂, D₃ की गणना कीजिए",
+      "Set संख्या एवं प्रश्न संख्या स्पष्ट रूप से लिखिए",
+      "रीडिंग टाइम में खंड D के दो 'अथवा' विकल्पों में से आसान वाला चुनिए"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "पेपर पढ़िए — खंड C/D के 'अथवा' विकल्पों का चुनाव कीजिए, कठिन प्रश्नों की पहचान कीजिए।"
+      },
+      {
+        "section_id": "section_A_35min",
+        "recommended_minutes": 0,
+        "note": "30 प्रश्न × 1 अंक। MCQ/रिक्त स्थान — सिर्फ़ विकल्प/सूत्र लिखिए। प्रति प्रश्न 1 मिनट।"
+      },
+      {
+        "section_id": "section_B_30min",
+        "recommended_minutes": 0,
+        "note": "10 लघु उत्तरीय × प्रत्येक 3 मिनट। सूत्र + steps + उत्तर। 2 अंक = 2 स्पष्ट steps।"
+      },
+      {
+        "section_id": "section_C_40min",
+        "recommended_minutes": 0,
+        "note": "5 दीर्घ उत्तरीय × प्रत्येक 8 मिनट। क्रमांकित steps। LPP यहाँ आता है — आलेख स्पष्ट रूप से बनाइए।"
+      },
+      {
+        "section_id": "section_D_30min",
+        "recommended_minutes": 0,
+        "note": "2 निबंधात्मक प्रश्न × प्रत्येक 15 मिनट। पूरा व्युत्पादन। सभी steps।"
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "Steps check कीजिए, सूत्र verify कीजिए, LPP आलेख के कोने बिंदु check कीजिए।"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 26 marks",
+        "target_marks": 26,
+        "strategy": "खंड A के 30 प्रश्न (30 अंक) में से 20+ आसान हैं। खंड B में 3-4 सरल लघु उत्तरीय (6-8 अंक)। कुल = 26+ अंक पक्के।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "खंड A पूरा attempt कीजिए — कोई negative marking नहीं, 30 अंक",
+          "अध्याय 12 (LPP) — 4 अंक पक्के, आलेखीय विधि का अभ्यास",
+          "अध्याय 13 (प्रायिकता) — सप्रतिबंध प्रायिकता आसान",
+          "अध्याय 3/4 (आव्यूह/सारणिक) — MCQs आसान",
+          "अध्याय 7 (समाकलन) — मानक सूत्रों से MCQ/रिक्त स्थान"
+        ],
+        "chapters_to_skip_safely": [
+          "जटिल त्रिविमीय ज्यामिति की बड़ी उपपत्तियाँ",
+          "अवकल समीकरण समाकलन गुणक",
+          "बेज़ प्रमेय की जटिल समस्याएँ"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "50",
+        "target_marks": 50,
+        "strategy": "खंड A (25+) + खंड B के 7-8 (14-16) + खंड C के 2-3 (8-12) + खंड D का 1 (5) = 52-58 अंक।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "अध्याय 12 LPP (4 अंक) — आसान एवं पक्का",
+          "अध्याय 7 समाकलन — खंडशः समाकलन का अभ्यास (खंड C/D)",
+          "अध्याय 4 सारणिक — समीकरणों के लिए आव्यूह विधि (खंड C)",
+          "अध्याय 5/6 कलन — सांतत्य, अवकलज (खंड B)",
+          "अध्याय 13 प्रायिकता — बेज़ प्रमेय (खंड C)"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "70 marks plus",
+        "target_marks": 70,
+        "strategy": "खंड A पूरा (28-30) + खंड B पूरा (18-20) + खंड C के 4-5 (16-20) + खंड D के 1-2 (5-10) = 67-80 अंक।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "सभी कलन अध्याय (इकाई 3 = 36 अंक) — गहन तैयारी",
+          "समाकलन — सभी विधियाँ: प्रतिस्थापन, खंडशः, आंशिक भिन्न, निश्चित",
+          "त्रिविमीय ज्यामिति — सभी मानक समस्याएँ",
+          "सभी खंड C/D प्रकार की समस्याएँ पूरे steps सहित"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping 75 plus",
+        "target_marks": 75,
+        "strategy": "सभी 4 खंडों में अधिकतम अंक। कलन परिपूर्ण कीजिए।",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "खंड A में कोई भी प्रश्न खाली मत छोड़िए",
+          "समाकलन के सभी विशेष रूप याद कीजिए",
+          "उच्चिष्ठ/निम्निष्ठ शब्द-समस्याएँ — अनुकूलन तकनीक",
+          "बेज़ प्रमेय की समस्याएँ — tree diagram use कीजिए",
+          "हर step स्पष्ट रूप से दिखाइए — partial अंकों में बहुत फ़ायदा होता है"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [
+      "आव्यूह (Matrices) (10 marks)",
+      "सारणिक (Determinants) (10 marks)",
+      "सांतत्य और अवकलनीयता (Continuity and Differentiability) (36 marks)",
+      "अवकलज के अनुप्रयोग (Applications of Derivatives) (36 marks)",
+      "समाकलन (Integrals) (36 marks)",
+      "समाकलनों के अनुप्रयोग (Applications of the Integrals) (36 marks)",
+      "अवकल समीकरण (Differential Equations) (36 marks)",
+      "सदिश बीजगणित (Vector Algebra) (16 marks)",
+      "त्रिविमीय ज्यामिति (Three Dimensional Geometry) (16 marks)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 20,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "SP Examination Idea — गणित कक्षा 12 (अंग्रेज़ी)",
+        "author": "",
+        "publisher": "Science Publications, जयपुर",
+        "purpose": "Primary",
+        "note": "RBSE के लिए #1 reference book। Chapter-wise MCQ, रिक्त स्थान, अति लघु, लघु, दीर्घ — सब हैं।"
+      },
+      {
+        "name": "NCERT गणित कक्षा 12 (भाग I + II)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "आधार पुस्तक। RBSE पाठ्यक्रम NCERT पर आधारित। सभी NCERT अभ्यास प्रश्न solve कीजिए।"
+      },
+      {
+        "name": "पिछले वर्षों के प्रश्न पत्र 2018-2025 (RBSE)",
+        "author": "",
+        "publisher": "RBSE Official",
+        "purpose": "Supplementary",
+        "note": "Official वेबसाइट से download कीजिए। वही प्रश्न प्रकार बार-बार repeat होते हैं — विशेषतः LPP एवं समाकलन।"
+      },
+      {
+        "name": "RBSE Model Paper 2026",
+        "author": "",
+        "publisher": "RBSE Official",
+        "purpose": "Supplementary",
+        "note": "Download: rajeduboard.rajasthan.gov.in > Books/Old Papers/Model Questions > Model Papers 2026"
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "rajeduboard.rajasthan.gov.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 मिनट रीडिंग टाइम मिलता है — इस समय में सिर्फ़ पेपर पढ़िए, उत्तर लिखना नहीं।"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "set_number_compulsory: True",
+      "reading_time_note: 15 मिनट रीडिंग टाइम में सिर्फ़ पेपर पढ़िए — लिखना नहीं।",
+      "sequence_compulsory: False",
+      "rough_work: Rough work उत्तर पुस्तिका के अंतिम पृष्ठ पर कीजिए — स्पष्ट रूप से 'ROUGH WORK' लिखिए।",
+      "no_negative_marking: True",
+      "steps_marking: हर step के अंक होते हैं — व्युत्पादन अधूरा हो तो भी जो steps सही हैं उनके अंक मिलेंगे।",
+      "calculators: कैलकुलेटर allowed नहीं है — सभी गणनाएँ हाथ से कीजिए। Rough work स्पष्ट रूप से कीजिए।",
+      "final_answer_box: अंतिम उत्तर underline या box कीजिए — examiner का ध्यान जाता है।"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['नीला', 'काला'] pencil_use: सिर्फ़ आलेखों/चित्रों के लिए। LPP आलेख पेंसिल से बनाना बेहतर है। उत्तर पेन से लिखना ज़रूरी। graph_note: LPP में आलेख स्पष्ट रूप से बनाइए — कोने बिंदु पेंसिल से स्पष्ट रूप से अंकित कीजिए।"
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "steps_compulsory: गणित में steps दिखाना अनिवार्य है। सिर्फ़ अंतिम उत्तर लिखने से पूरे अंक नहीं मिलेंगे। partial_marking: True partial_marking_note: समाकलन में प्रतिस्थापन सही किया पर अंतिम उत्तर ग़लत — फिर भी 4 में से 2 अंक मिलेंगे। formula_first: हर संख्यात्मक में पहले सूत्र लिखना recommended — भले ही सूत्र ग़लत न हो — अंक मिलते हैं। units_in_geometry: त्रिविमीय ज्यामिति में कोणों एवं दूरियों की इकाइयाँ स्पष्ट रूप से लिखिए। lpp_graph: LPP में सुसंगत क्षेत्र shade कीजिए, कोने बिंदु स्पष्ट रूप से अंकित कीजिए, हर कोने पर उद्देश्य फलन का मान लिखना ज़रूरी है।",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

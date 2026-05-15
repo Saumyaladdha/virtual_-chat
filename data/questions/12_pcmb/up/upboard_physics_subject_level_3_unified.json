@@ -1,0 +1,2843 @@
+{
+  "board": "UP Board",
+  "class": "12",
+  "subject": "Physics (with Experiments)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 70,
+    "practical_paper": 30,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 23,
+    "passing_marks_practical": 10,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": false,
+    "extra_time_note": "3 hours 15 minutes. First 15 minutes reserved for reading the question paper only — no writing allowed during reading time.",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 30,
+    "total_questions_to_attempt": 30,
+    "total_objective_questions": 6,
+    "total_sets": 7,
+    "sets_note": "UP Board makes multiple sets (346 JS, 346 JT, 346 JU, 346 JV, 346 JW etc.) — all sets have equivalent questions.",
+    "sets_same_or_different": "Medium to Difficult. A total of 7 sets were made. Questions designed to test Analytical Skills. Change in trend observed from previous years.",
+    "language_of_attempt": "",
+    "all_compulsory_note": "Internal choices (OR options) are given in Section D and Section E only. You must attempt only ONE from each OR pair.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "UP Board syllabus fully based on NCERT. NCERT must be read completely.",
+    "official_scheme_note": "Available on upmsp.edu.in — practice at least 1 model paper before exam.",
+    "reference_books_note": "",
+    "prescribed_textbooks": [
+      "NCERT Physics Part I",
+      "NCERT Physics Part II"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "Available on upmsp.edu.in — practice at least 1 model paper before exam.",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "UP Board Physics paper has 5 sections A-E: A MCQ (6×1), B VSA (6×1), C SA-I (4×2), D SA-II (10×3 with OR), E Long Answer (4×5 with OR). Total 70 marks theory.",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "Section A — Multiple Choice Questions (MCQ)",
+        "question_number": "A",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "6 MCQ x 1 mark = 6 marks. Questions cover all units — mostly definitions, units, formulas, basic concepts. Level: Easy to Medium. Attempt ALL — no negative marking.",
+        "mostly_from": "All units — Electrostatics, Current Electricity, Magnetism, EM Induction, EM Waves, Optics, Dual Nature, Atoms & Nuclei, Semiconductors",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Section B — Very Short Answer (VSA)",
+        "question_number": "B",
+        "section": "B",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "6 VSA x 1 mark = 6 marks. Direct fact-based questions. Write unit, definition, law statement, or formula. No explanation needed. Level: Medium.",
+        "mostly_from": "All units. Frequently: units of physical quantities, Lenz's law, de-Broglie formula, work function, Bohr's postulates, wavefront definition, coherent source",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Section C — Short Answer Type I",
+        "question_number": "C",
+        "section": "C",
+        "marks_each": 2,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "4 questions x 2 marks = 8 marks. Answer in 4-6 lines. Include small diagram if relevant. Level: Medium.",
+        "mostly_from": "Isotopes/isobars/isotones, EM wave properties, Huygens principle, polarisation, Rutherford model demerits, capacitor/diode characteristics, equipotential surfaces",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Section D — Short Answer Type II",
+        "question_number": "D",
+        "section": "D",
+        "marks_each": 3,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "10 questions x 3 marks = 30 marks. HIGHEST MARKS SECTION. Internal OR choices given. Answer in 60-100 words with diagram. Level: Medium to Difficult.",
+        "mostly_from": "Gauss's law applications, Kirchhoff's laws, Wheatstone bridge, Solenoid/Biot-Savart, LCR resonance, lens/mirror formula, de-Broglie, Bohr energy levels, PN junction, transformer",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Section E — Long Answer (Essay Type)",
+        "question_number": "E",
+        "section": "E",
+        "marks_each": 5,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "4 questions x 5 marks = 20 marks. Internal OR choices given. Full derivations + compulsory diagrams. Level: Medium to Difficult. 5 marks = diagram (1) + derivation steps (3) + result+application (1).",
+        "mostly_from": "Gauss's law proof+applications, Biot-Savart/Ampere's law, Lens maker's formula, YDSE fringe width, Bohr's model radius proof, PN junction rectifier, Transformer, Photoelectric effect",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "Internal choices (OR options) are given in Section D and Section E only. You must attempt only ONE from each OR pair.",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Internal choices (OR options) are given in Section D and Section E only. You must attempt only ONE from each OR pair.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 30,
+      "medium_percent": 50,
+      "hard_percent": 20,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Multiple Choice Questions (MCQ)",
+        "type": "Multiple Choice Questions (1 mark)",
+        "question_numbers": "Section A",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "6 MCQ x 1 mark = 6 marks. Questions cover all units — mostly definitions, units, formulas, basic concepts. Level: Easy to Medium. Attempt ALL — no negative marking.",
+        "notes": "All units — Electrostatics, Current Electricity, Magnetism, EM Induction, EM Waves, Optics, Dual Nature, Atoms & Nuclei, Semiconductors"
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Very Short Answer (VSA)",
+        "type": "Very Short Answer (1 mark)",
+        "question_numbers": "Section B",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "6 VSA x 1 mark = 6 marks. Direct fact-based questions. Write unit, definition, law statement, or formula. No explanation needed. Level: Medium.",
+        "notes": "All units. Frequently: units of physical quantities, Lenz's law, de-Broglie formula, work function, Bohr's postulates, wavefront definition, coherent source"
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Short Answer Type I",
+        "type": "Short Answer Type I (2 marks)",
+        "question_numbers": "Section C",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 2,
+        "total_marks": 8,
+        "word_limit": "",
+        "breakdown": "4 questions x 2 marks = 8 marks. Answer in 4-6 lines. Include small diagram if relevant. Level: Medium.",
+        "notes": "Isotopes/isobars/isotones, EM wave properties, Huygens principle, polarisation, Rutherford model demerits, capacitor/diode characteristics, equipotential surfaces"
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Short Answer Type II",
+        "type": "Short Answer Type II (3 marks)",
+        "question_numbers": "Section D",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 3,
+        "total_marks": 30,
+        "word_limit": "",
+        "breakdown": "10 questions x 3 marks = 30 marks. HIGHEST MARKS SECTION. Internal OR choices given. Answer in 60-100 words with diagram. Level: Medium to Difficult.",
+        "notes": "Gauss's law applications, Kirchhoff's laws, Wheatstone bridge, Solenoid/Biot-Savart, LCR resonance, lens/mirror formula, de-Broglie, Bohr energy levels, PN junction, transformer"
+      },
+      {
+        "section_id": "E",
+        "name": "Section E — Long Answer (Essay Type)",
+        "type": "Long Answer (5 marks)",
+        "question_numbers": "Section E",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 5,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "4 questions x 5 marks = 20 marks. Internal OR choices given. Full derivations + compulsory diagrams. Level: Medium to Difficult. 5 marks = diagram (1) + derivation steps (3) + result+application (1).",
+        "notes": "Gauss's law proof+applications, Biot-Savart/Ampere's law, Lens maker's formula, YDSE fringe width, Bohr's model radius proof, PN junction rectifier, Transformer, Photoelectric effect"
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 70,
+    "total_practical": 30,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "A(6) + B(6) + C(8) + D(30) + E(20) = 70 theory + 30 practical = 100",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Multiple Choice Questions (MCQ)",
+        "question_numbers": "Section A",
+        "type": "Multiple Choice Questions (1 mark)",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "6 MCQ x 1 mark = 6 marks. Questions cover all units — mostly definitions, units, formulas, basic concepts. Level: Easy to Medium. Attempt ALL — no negative marking."
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Very Short Answer (VSA)",
+        "question_numbers": "Section B",
+        "type": "Very Short Answer (1 mark)",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "6 VSA x 1 mark = 6 marks. Direct fact-based questions. Write unit, definition, law statement, or formula. No explanation needed. Level: Medium."
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Short Answer Type I",
+        "question_numbers": "Section C",
+        "type": "Short Answer Type I (2 marks)",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 8,
+        "word_limit": "",
+        "breakdown": "4 questions x 2 marks = 8 marks. Answer in 4-6 lines. Include small diagram if relevant. Level: Medium."
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Short Answer Type II",
+        "question_numbers": "Section D",
+        "type": "Short Answer Type II (3 marks)",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 30,
+        "word_limit": "",
+        "breakdown": "10 questions x 3 marks = 30 marks. HIGHEST MARKS SECTION. Internal OR choices given. Answer in 60-100 words with diagram. Level: Medium to Difficult."
+      },
+      {
+        "section_id": "E",
+        "name": "Section E — Long Answer (Essay Type)",
+        "question_numbers": "Section E",
+        "type": "Long Answer (5 marks)",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 5,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "4 questions x 5 marks = 20 marks. Internal OR choices given. Full derivations + compulsory diagrams. Level: Medium to Difficult. 5 marks = diagram (1) + derivation steps (3) + result+application (1)."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "UP Board Physics unit-wise blueprint (9 units across 19 chapters).",
+    "total_theory_marks": 70,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "",
+      "name": "Optics",
+      "marks": 13,
+      "note": "Highest-weightage unit"
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "",
+        "name": "Electromagnetic Waves",
+        "marks": 4
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Electrostatics",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "Current Electricity",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "Magnetic Effect of Current and Magnetism",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "Electromagnetic Induction and Alternating Currents",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "Electromagnetic Waves",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "1",
+        "name": "Optics",
+        "marks": 13,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "Dual Nature of Matter and Radiation",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "Atoms and Nuclei",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "Electronic Devices",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 70,
+      "one_mark_questions": 12,
+      "two_mark_total": 8,
+      "three_mark_total": 30,
+      "four_mark_total": 0,
+      "five_mark_total": 20
+    }
+  },
+  "syllabus": {
+    "note": "UP Board Physics Class 12 — 19 chapters across 9 units (Section A units 1-5 + Section B units 1-4).",
+    "books": [
+      {
+        "book_name": "NCERT Physics Part I & Part II",
+        "category": "chapter",
+        "total_marks": 70,
+        "note": "UP Board syllabus fully based on NCERT.",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Electric Charge, Electric Field and Electric Dipole",
+            "marks": 0,
+            "topics": [
+              "Electric charge properties: conservation, quantisation q = ne, additivity",
+              "Coulomb's law — F = Kq1q2/r^2",
+              "Superposition principle for multiple charges",
+              "Electric field intensity E = F/q0 — units N/C or V/m",
+              "Electric field due to point charge, dipole at axial and equatorial points",
+              "Electric dipole — dipole moment p = q x d (SI unit: C-m)",
+              "Torque on dipole in uniform electric field: tau = pE sin(theta)",
+              "Continuous charge distribution: linear (lambda), surface (sigma), volume (rho)"
+            ],
+            "note": "Unit: Electrostatics | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "2",
+            "name": "Electric Flux and Gauss Theorem",
+            "marks": 0,
+            "topics": [
+              "Electric flux: phi = E.A = EA cos(theta), SI unit: N.m^2/C",
+              "Gauss's theorem: phi = q/epsilon_0",
+              "E due to infinitely long straight charged wire: E = lambda/2*pi*epsilon_0*r",
+              "E due to uniformly charged infinite plane sheet: E = sigma/2*epsilon_0",
+              "E due to uniformly charged hollow sphere (inside = 0, outside = q/4pi*epsilon_0*r^2, on surface = q/4pi*epsilon_0*R^2)"
+            ],
+            "note": "Unit: Electrostatics | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "3",
+            "name": "Electrostatic Potential and Electric Capacitance",
+            "marks": 0,
+            "topics": [
+              "Electric potential V = W/q, potential due to point charge V = q/4*pi*epsilon_0*r",
+              "Potential due to dipole at axial and equatorial points",
+              "Equipotential surfaces — properties (E perpendicular to them)",
+              "Relation between E and V: E = -dV/dr",
+              "Capacitor — parallel plate capacitor C = epsilon_0*A/d",
+              "Energy stored: U = (1/2)CV^2 = Q^2/2C = (1/2)QV",
+              "Capacitors in series: 1/C = 1/C1 + 1/C2 + ...",
+              "Capacitors in parallel: C = C1 + C2 + ...",
+              "Effect of dielectric: C = K*epsilon_0*A/d",
+              "Energy density in electric field: u = (1/2)*epsilon_0*E^2"
+            ],
+            "note": "Unit: Electrostatics | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "4",
+            "name": "Electric Conduction and Ohms Law",
+            "marks": 0,
+            "topics": [
+              "Electric current I = nAev_d",
+              "Drift velocity v_d = eE*tau/m, mobility mu = v_d/E",
+              "Ohm's law V = IR, resistance R = rho*l/A",
+              "Resistivity rho and conductivity sigma = 1/rho",
+              "Temperature dependence: R_T = R_0(1 + alpha*T)",
+              "V-I characteristics (linear and non-linear)",
+              "Electrical energy and power: P = VI = I^2*R = V^2/R"
+            ],
+            "note": "Unit: Current Electricity | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "5",
+            "name": "Kirchhoffs Laws and Electric Circuit",
+            "marks": 0,
+            "topics": [
+              "Kirchhoff's Current Law (KCL): Sum of currents at junction = 0",
+              "Kirchhoff's Voltage Law (KVL): Sum of EMFs = Sum of IR drops in loop",
+              "Wheatstone bridge: P/Q = R/S (balance condition)",
+              "Meter bridge practical application",
+              "EMF and internal resistance: V = E - Ir",
+              "Cells in series and parallel",
+              "Potentiometer — comparison of EMFs"
+            ],
+            "note": "Unit: Current Electricity | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "6",
+            "name": "Moving Charges and Magnetism",
+            "marks": 0,
+            "topics": [
+              "Oersted's experiment",
+              "Biot-Savart law: dB = (mu_0/4pi) x (Idl sin(theta)/r^2)",
+              "B at centre of circular loop: B = mu_0*I/2R",
+              "Ampere's circuital law: contour integral B.dl = mu_0*I",
+              "B inside long solenoid: B = mu_0*n*I",
+              "Lorentz force on moving charge: F = qv x B",
+              "Force on current-carrying conductor: F = BIl sin(theta)",
+              "Force between two parallel conductors — definition of ampere",
+              "Torque on current loop: tau = nBIA sin(alpha)",
+              "Moving coil galvanometer — principle, working, sensitivity",
+              "Conversion to ammeter (shunt resistance) and voltmeter (high resistance)"
+            ],
+            "note": "Unit: Magnetic Effect of Current and Magnetism | Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "7",
+            "name": "Magnetic Materials",
+            "marks": 0,
+            "topics": [
+              "Magnetic dipole moment M = NIA",
+              "Paramagnetic substances — properties, examples (Al, O2, Pt)",
+              "Diamagnetic substances — properties, examples (Bi, Cu, water)",
+              "Ferromagnetic substances — properties, examples (Fe, Ni, Co)",
+              "Magnetic susceptibility, permeability, intensity",
+              "Hysteresis loop and its uses",
+              "Bar magnet as equivalent solenoid"
+            ],
+            "note": "Unit: Magnetic Effect of Current and Magnetism | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "8",
+            "name": "Electromagnetic Induction",
+            "marks": 0,
+            "topics": [
+              "Faraday's laws of EM induction: e = -d(phi)/dt",
+              "Lenz's law — direction of induced current",
+              "Induced EMF in moving conductor: e = Blv",
+              "Self-inductance: e = -L dI/dt",
+              "Coefficient of self-inductance of solenoid: L = mu_0*n^2*A*l",
+              "Mutual inductance M",
+              "AC generator — principle, working, EMF: e = e_0 sin(omega*t)",
+              "Eddy currents — uses and minimization"
+            ],
+            "note": "Unit: Electromagnetic Induction and Alternating Currents | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "9",
+            "name": "Alternating Current",
+            "marks": 0,
+            "topics": [
+              "AC — peak value (V_0), rms value (V_rms = V_0/sqrt(2)), average value",
+              "Phasor diagrams for R, L, C",
+              "AC circuits: R only, L only, C only",
+              "LCR series circuit: Z = sqrt(R^2 + (X_L - X_C)^2)",
+              "Phase angle: tan(phi) = (X_L - X_C)/R",
+              "Resonance: omega_0 = 1/sqrt(LC), f_0 = 1/2pi*sqrt(LC)",
+              "Power in AC: P = V_rms * I_rms * cos(phi)",
+              "Power factor cos(phi), Wattless current",
+              "Transformer: N1/N2 = V1/V2 = I2/I1",
+              "Step-up and step-down transformer",
+              "Efficiency and losses in transformer"
+            ],
+            "note": "Unit: Electromagnetic Induction and Alternating Currents | Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "10",
+            "name": "Electromagnetic Waves",
+            "marks": 0,
+            "topics": [
+              "Need for displacement current — Maxwell's modification to Ampere's law",
+              "EM waves — characteristics (transverse, travel at speed c = 3x10^8 m/s)",
+              "EM spectrum order: radio > microwave > IR > visible > UV > X-rays > gamma",
+              "Properties and uses of each type",
+              "E_0 = c*B_0 (relationship between electric and magnetic amplitudes)",
+              "Energy and momentum carried by EM waves"
+            ],
+            "note": "Unit: Electromagnetic Waves | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "11",
+            "name": "Reflection and Refraction of Light and Mirror",
+            "marks": 0,
+            "topics": [
+              "Laws of reflection",
+              "Spherical mirrors — concave, convex",
+              "Mirror formula: 1/v + 1/u = 1/f",
+              "Linear magnification: m = -v/u",
+              "Refraction — Snell's law: n1 sin(i) = n2 sin(r)",
+              "Total internal reflection — critical angle: sin(C) = 1/n",
+              "Optical fibres — working principle",
+              "Refraction at spherical surfaces: n2/v - n1/u = (n2 - n1)/R"
+            ],
+            "note": "Unit: Optics | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "12",
+            "name": "Refraction of Light on Spherical Surfaces and Lenses",
+            "marks": 0,
+            "topics": [
+              "Lens formula: 1/v - 1/u = 1/f",
+              "Lens maker's formula: 1/f = (mu - 1)(1/R1 - 1/R2)",
+              "Power of lens: P = 1/f (in diopters)",
+              "Thin lenses in contact: 1/F = 1/f1 + 1/f2",
+              "Magnification for lenses: m = v/u",
+              "Effect of medium and radius on focal length"
+            ],
+            "note": "Unit: Optics | Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "13",
+            "name": "Refraction and Dispersion of Light by Prism and Optical Instruments",
+            "marks": 0,
+            "topics": [
+              "Refraction through prism — angle of deviation",
+              "Minimum deviation: mu = sin((A+Dm)/2) / sin(A/2)",
+              "Dispersion — angular and mean dispersion",
+              "Compound microscope — magnification formula",
+              "Astronomical telescope (refracting) — magnification = f_0/f_e",
+              "Reflecting telescope — advantages over refracting"
+            ],
+            "note": "Unit: Optics | Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "14",
+            "name": "Nature of Light and Interference",
+            "marks": 0,
+            "topics": [
+              "Wave theory of light — Huygens' principle of secondary wavelets",
+              "Wavefront — plane, spherical, cylindrical",
+              "Reflection and refraction on basis of Huygens' principle",
+              "Interference — constructive (2n*lambda) and destructive ((2n+1)*lambda/2)",
+              "Young's Double Slit Experiment (YDSE)",
+              "Fringe width: beta = lambda*D/d",
+              "Coherent sources condition",
+              "Intensity in YDSE"
+            ],
+            "note": "Unit: Optics | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "15",
+            "name": "Diffraction and Polarisation of Light",
+            "marks": 0,
+            "topics": [
+              "Diffraction — phenomenon of bending of light at edges",
+              "Single slit diffraction — width of central maximum = 2*lambda*D/a",
+              "Angular width of central maximum = 2*lambda/a",
+              "Polarisation — plane polarised light",
+              "Polarisation by reflection — Brewster's law: tan(i_B) = mu",
+              "Malus's law: I = I_0 cos^2(theta)",
+              "Uses of Polaroids"
+            ],
+            "note": "Unit: Optics | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "16",
+            "name": "Photoelectric Effect and Matter Waves",
+            "marks": 0,
+            "topics": [
+              "Photoelectric effect — Hertz and Lenard observations",
+              "Laws of photoelectric emission",
+              "Einstein's photoelectric equation: KE_max = hv - phi = h(v - v_0)",
+              "Work function phi, threshold frequency v_0, threshold wavelength lambda_0",
+              "Stopping potential V_s: eV_s = KE_max",
+              "Photon — energy E = hv, momentum p = h/lambda, E = pc",
+              "de-Broglie hypothesis — dual nature of matter",
+              "de-Broglie wavelength: lambda = h/mv = h/p",
+              "In terms of KE: lambda = h/sqrt(2mE_k)",
+              "In terms of accelerating voltage: lambda = h/sqrt(2meV)"
+            ],
+            "note": "Unit: Dual Nature of Matter and Radiation | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "17",
+            "name": "Atomic Structure and Hydrogen Spectrum",
+            "marks": 0,
+            "topics": [
+              "Thomson's model — plum pudding",
+              "Rutherford's alpha-scattering experiment and nuclear model",
+              "Drawbacks of Rutherford model (no reason for discrete spectrum, spiraling electron)",
+              "Bohr's three postulates",
+              "Bohr's radius: r_n = n^2*h^2*epsilon_0 / (pi*m*e^2) = 0.529*n^2 angstrom",
+              "Energy of nth orbit: E_n = -13.6/n^2 eV",
+              "Hydrogen spectrum — Lyman, Balmer, Paschen, Brackett, Pfund series",
+              "Rydberg formula: 1/lambda = R(1/n1^2 - 1/n2^2)"
+            ],
+            "note": "Unit: Atoms and Nuclei | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "18",
+            "name": "Nuclei",
+            "marks": 0,
+            "topics": [
+              "Nuclear composition: protons (Z) + neutrons (N), mass number A = Z + N",
+              "Isotopes (same Z, different A), isobars (same A, different Z), isotones (same N)",
+              "Nuclear radius: R = R_0 * A^(1/3), R_0 = 1.2 fm",
+              "Nuclear density — independent of mass number A",
+              "Mass defect: delta_m = Z*m_p + (A-Z)*m_n - M_actual",
+              "Binding energy: BE = delta_m * c^2",
+              "Binding energy per nucleon vs mass number graph",
+              "Nuclear fission — heavy nucleus splits (e.g. U-235)",
+              "Nuclear fusion — light nuclei combine (e.g. in sun)",
+              "Nuclear reactor — controlled fission"
+            ],
+            "note": "Unit: Atoms and Nuclei | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "19",
+            "name": "Semiconductor and Junction Diode",
+            "marks": 0,
+            "topics": [
+              "Energy bands in solids — conduction band, valence band, forbidden gap",
+              "Conductors (overlap), insulators (large gap ~6 eV), semiconductors (small gap ~1 eV)",
+              "Intrinsic semiconductor — electron-hole pairs due to thermal energy",
+              "Extrinsic semiconductor — doped",
+              "p-type: doped with trivalent (acceptor), majority carriers = holes",
+              "n-type: doped with pentavalent (donor), majority carriers = electrons",
+              "p-n junction — depletion layer, potential barrier (~0.7V for Si, ~0.3V for Ge)",
+              "Forward bias — barrier reduced, current flows",
+              "Reverse bias — barrier increased, only tiny reverse saturation current",
+              "I-V characteristics in forward and reverse bias",
+              "Half wave rectifier — one diode, only positive half",
+              "Full wave rectifier — two diodes, both halves converted to DC",
+              "Input/output waveforms for rectifiers"
+            ],
+            "note": "Unit: Electronic Devices | Difficulty: Easy-Medium"
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Electric Charge, Electric Field and Electric Dipole",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Electrostatics",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Electric charge properties: conservation, quantisation q = ne, additivity",
+        "Coulomb's law — F = Kq1q2/r^2",
+        "Superposition principle for multiple charges",
+        "Electric field intensity E = F/q0 — units N/C or V/m",
+        "Electric field due to point charge, dipole at axial and equatorial points",
+        "Electric dipole — dipole moment p = q x d (SI unit: C-m)",
+        "Torque on dipole in uniform electric field: tau = pE sin(theta)",
+        "Continuous charge distribution: linear (lambda), surface (sigma), volume (rho)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Electric field due to dipole at axial point",
+        "Electric field due to dipole at equatorial point",
+        "Torque on electric dipole in uniform electric field — tau = pE sin(theta) [2025, frequently asked]",
+        "Force between two point charges in vector form"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "F = (1/4πε₀)(q₁q₂/r²) — Coulomb's law",
+        "E = F/q₀ = (1/4πε₀)(q/r²) — Electric field intensity",
+        "τ = pE sinθ — Torque on dipole in uniform field",
+        "C = ε₀A/d — Capacitance of parallel plate capacitor",
+        "U = (1/2)CV² = Q²/2C — Energy stored in capacitor",
+        "E = σ/ε₀ — Electric field due to infinite plane sheet (outside)",
+        "E = σ/2ε₀ — Electric field due to infinite plane sheet (each side)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Define electric dipole and give formula for its dipole moment. Find expression for torque acting on electric dipole in uniform electric field. [2025]",
+        "Establish the formula of magnetic dipole moment. [2025 Set-1]"
+      ],
+      "key_mcq_answers": [
+        "Fundamental charge e = 1.6 × 10⁻¹⁹ C",
+        "E inside a hollow conducting sphere = Zero",
+        "Dielectric constant of metal (conductor) = Infinite",
+        "Angle between equipotential surface and E field = 90°",
+        "SI unit of electric field = N/C or V/m",
+        "SI unit of electric dipole moment = C·m",
+        "SI unit of electric flux = N·m²/C",
+        "E due to dipole proportional to 1/r³"
+      ],
+      "key_fill_blanks": [
+        "Dimensional formula of charge = AT",
+        "Quantization of charge: q = ±ne",
+        "E due to infinite plane sheet = σ/2ε₀ (each side)",
+        "E inside a conductor = zero",
+        "Potential inside a hollow sphere = same as on surface",
+        "Like charges repel, unlike charges attract"
+      ],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Properties of electric charge, Coulomb's law combinations, dipole moment"
+      ],
+      "vsa_frequently_asked": [
+        "Define electric dipole, write dipole moment formula"
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "Derive torque on electric dipole in uniform electric field [2025]"
+      ],
+      "long_answer_5mark_questions": [
+        "Gauss's law applications (separate chapter below)"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Electric Flux and Gauss Theorem",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Electrostatics",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Electric flux: phi = E.A = EA cos(theta), SI unit: N.m^2/C",
+        "Gauss's theorem: phi = q/epsilon_0",
+        "E due to infinitely long straight charged wire: E = lambda/2*pi*epsilon_0*r",
+        "E due to uniformly charged infinite plane sheet: E = sigma/2*epsilon_0",
+        "E due to uniformly charged hollow sphere (inside = 0, outside = q/4pi*epsilon_0*r^2, on surface = q/4pi*epsilon_0*R^2)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Proof of Gauss's theorem",
+        "E due to infinitely long straight charged wire using Gauss's law [2025]",
+        "E due to uniformly charged infinite plane sheet",
+        "E due to uniformly charged hollow spherical shell — all 3 regions [2025, 2024, 2023, 2022 — every year]"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "F = (1/4πε₀)(q₁q₂/r²) — Coulomb's law",
+        "E = F/q₀ = (1/4πε₀)(q/r²) — Electric field intensity",
+        "τ = pE sinθ — Torque on dipole in uniform field",
+        "C = ε₀A/d — Capacitance of parallel plate capacitor",
+        "U = (1/2)CV² = Q²/2C — Energy stored in capacitor",
+        "E = σ/ε₀ — Electric field due to infinite plane sheet (outside)",
+        "E = σ/2ε₀ — Electric field due to infinite plane sheet (each side)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Write Gauss's law. Derive formula for electric field due to a linear charge distribution. [2025 Set-1]",
+        "State and prove Gauss's law in electrostatics. Using it find E due to uniformly charged thin spherical shell. [2024, 2023]",
+        "State Gauss's theorem. Find E due to point source charge q and deduce Coulomb's law between source and test charge. [2024]",
+        "State Gauss's law in electrostatics. Find E due to uniformly charged thin spherical shell at (i) external (ii) internal (iii) surface. [Model Paper]"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "mcq_frequently_asked": [],
+      "vsa_frequently_asked": [],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "Write Gauss's law. Derive formula for E due to linear charge distribution. [2025]"
+      ],
+      "long_answer_5mark_questions": [
+        "State Gauss's law. Using it find E due to uniformly charged thin spherical shell at external, internal, and surface points. [2025, 2024, 2023, 2022 — EVERY YEAR]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Electrostatic Potential and Electric Capacitance",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Electrostatics",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Electric potential V = W/q, potential due to point charge V = q/4*pi*epsilon_0*r",
+        "Potential due to dipole at axial and equatorial points",
+        "Equipotential surfaces — properties (E perpendicular to them)",
+        "Relation between E and V: E = -dV/dr",
+        "Capacitor — parallel plate capacitor C = epsilon_0*A/d",
+        "Energy stored: U = (1/2)CV^2 = Q^2/2C = (1/2)QV",
+        "Capacitors in series: 1/C = 1/C1 + 1/C2 + ...",
+        "Capacitors in parallel: C = C1 + C2 + ...",
+        "Effect of dielectric: C = K*epsilon_0*A/d",
+        "Energy density in electric field: u = (1/2)*epsilon_0*E^2"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Capacitance of parallel plate capacitor C = epsilon_0*A/d",
+        "Energy stored in capacitor: U = (1/2)CV^2",
+        "Series and parallel combination of capacitors",
+        "Capacitance with dielectric medium"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "F = (1/4πε₀)(q₁q₂/r²) — Coulomb's law",
+        "E = F/q₀ = (1/4πε₀)(q/r²) — Electric field intensity",
+        "τ = pE sinθ — Torque on dipole in uniform field",
+        "C = ε₀A/d — Capacitance of parallel plate capacitor",
+        "U = (1/2)CV² = Q²/2C — Energy stored in capacitor",
+        "E = σ/ε₀ — Electric field due to infinite plane sheet (outside)",
+        "E = σ/2ε₀ — Electric field due to infinite plane sheet (each side)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Deduce equation of potential energy of charged condenser and show energy density = (1/2)*epsilon_0*E^2. [2025 Set-3]",
+        "Show that Farad = Coulomb^2 / (Newton x metre^2). [2025 Set-3]",
+        "Four capacitors of equal capacity connected in series with 20V battery. Middle earthed. Calculate potential at P and Q. [2024]",
+        "What are capacitors? Derive expression for capacitance of parallel plate capacitor. On which factors does capacitance depend? [2024, 2022]"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "mcq_frequently_asked": [],
+      "vsa_frequently_asked": [
+        "Do two equipotential surfaces intersect? Answer with reason. [2025, 2024]"
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "Find expression for capacity of parallel plate capacitor. How can capacity be increased? [2024]. What is electrical capacity? Find unit. [2024]"
+      ],
+      "long_answer_5mark_questions": [
+        "Deduce equation of potential energy of charged condenser and show energy density = (1/2)*epsilon_0*E^2. [2025 Set-3]. With given circuit find equivalent capacitance, charge on capacitor, total stored energy. [2024]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Electric Conduction and Ohms Law",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 2,
+      "unit_name": "Current Electricity",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Electric current I = nAev_d",
+        "Drift velocity v_d = eE*tau/m, mobility mu = v_d/E",
+        "Ohm's law V = IR, resistance R = rho*l/A",
+        "Resistivity rho and conductivity sigma = 1/rho",
+        "Temperature dependence: R_T = R_0(1 + alpha*T)",
+        "V-I characteristics (linear and non-linear)",
+        "Electrical energy and power: P = VI = I^2*R = V^2/R"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Relation between drift velocity and electric current: I = nAev_d [2022, 2024, 2025]",
+        "Ohm's law derivation from drift velocity concept",
+        "Resistivity formula from microscopic view"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "V = IR — Ohm's law",
+        "I = nAev_d — Drift velocity and current relation",
+        "R = ρl/A — Resistance formula",
+        "P/Q = R/S — Wheatstone bridge balance condition",
+        "R = S(100-L)/L — Meter bridge formula",
+        "E₁/E₂ = l₁/l₂ — Potentiometer EMF comparison"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Define drift velocity and mobility of electrons. Length 1m, PD = 4V, n = 5x10^24 m^-3, resistivity = 50x10^-8 ohm-m. Calculate drift velocity. [2025]",
+        "Write equation relating specific conductivity (sigma) and drift velocity (v_d). [2024]",
+        "Establish relation between drift velocity and electric current. [2022]"
+      ],
+      "key_mcq_answers": [
+        "Ideal voltmeter resistance = Infinite",
+        "Ideal ammeter resistance = Zero",
+        "KCL (Kirchhoff's 1st law) = conservation of charge",
+        "KVL (Kirchhoff's 2nd law) = conservation of energy",
+        "Wire length doubled, same material = resistance 4 times",
+        "Specific resistance (resistivity) depends on material only, not dimensions",
+        "In series: current same throughout; In parallel: voltage same"
+      ],
+      "key_fill_blanks": [
+        "SI unit of resistivity = Ω·m",
+        "SI unit of conductivity = S·m⁻¹",
+        "Drift velocity formula: v_d = eEτ/m",
+        "Meter bridge formula: R = S(100-L)/L"
+      ],
+      "key_true_false": [],
+      "mcq_frequently_asked": [],
+      "vsa_frequently_asked": [
+        "Write unit of specific resistance. [2025]. Define drift velocity. [2025]"
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "Define drift velocity and mobility. Calculate drift velocity numerically. [2025, 2024]"
+      ],
+      "long_answer_5mark_questions": [
+        "Establish relation between drift velocity and electric current. [2022, 2024]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Kirchhoffs Laws and Electric Circuit",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 2,
+      "unit_name": "Current Electricity",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Kirchhoff's Current Law (KCL): Sum of currents at junction = 0",
+        "Kirchhoff's Voltage Law (KVL): Sum of EMFs = Sum of IR drops in loop",
+        "Wheatstone bridge: P/Q = R/S (balance condition)",
+        "Meter bridge practical application",
+        "EMF and internal resistance: V = E - Ir",
+        "Cells in series and parallel",
+        "Potentiometer — comparison of EMFs"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Wheatstone bridge balance condition derivation",
+        "Relation between EMF, terminal voltage and internal resistance",
+        "Combination of cells in series and parallel"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "V = IR — Ohm's law",
+        "I = nAev_d — Drift velocity and current relation",
+        "R = ρl/A — Resistance formula",
+        "P/Q = R/S — Wheatstone bridge balance condition",
+        "R = S(100-L)/L — Meter bridge formula",
+        "E₁/E₂ = l₁/l₂ — Potentiometer EMF comparison"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Write Kirchhoff's laws related to electric circuit by drawing suitable circuit diagram. [2025, 2024, 2023]",
+        "Obtain formula for internal resistance of a cell in terms of E, V and R. [2025]",
+        "Kirchhoff's law for electrical circuits. In balanced Wheatstone bridge find potentials at B and D and i1, i2. [2024]",
+        "What is Wheatstone bridge? Find i1, i2, ig in given circuit. [2023]"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "mcq_frequently_asked": [],
+      "vsa_frequently_asked": [
+        "Write Kirchhoff's laws related to electric circuit with diagram. [2025, 2024, 2023]"
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "Obtain formula for internal resistance of cell. [2025]. Circuit numericals using Kirchhoff's laws. [2024]"
+      ],
+      "long_answer_5mark_questions": [
+        "State Kirchhoff's laws. Find potentials in balanced Wheatstone bridge circuit. [2024, 2023]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Moving Charges and Magnetism",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "Magnetic Effect of Current and Magnetism",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Oersted's experiment",
+        "Biot-Savart law: dB = (mu_0/4pi) x (Idl sin(theta)/r^2)",
+        "B at centre of circular loop: B = mu_0*I/2R",
+        "Ampere's circuital law: contour integral B.dl = mu_0*I",
+        "B inside long solenoid: B = mu_0*n*I",
+        "Lorentz force on moving charge: F = qv x B",
+        "Force on current-carrying conductor: F = BIl sin(theta)",
+        "Force between two parallel conductors — definition of ampere",
+        "Torque on current loop: tau = nBIA sin(alpha)",
+        "Moving coil galvanometer — principle, working, sensitivity",
+        "Conversion to ammeter (shunt resistance) and voltmeter (high resistance)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "B at centre of circular current loop: B = mu_0*I/2R [2025, 2024, 2022]",
+        "B inside long solenoid using Ampere's law: B = mu_0*n*I [2025, 2024]",
+        "Biot-Savart derivation for infinite straight wire [2024]",
+        "Torque on current loop in uniform magnetic field",
+        "Force between two parallel current-carrying conductors — ampere definition"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "dB = (μ₀/4π)(Idl sinθ/r²) — Biot-Savart law",
+        "B = μ₀I/2R — B at centre of circular current loop",
+        "B = μ₀nI — B inside long solenoid",
+        "B = μ₀I/2πr — B due to infinite straight wire",
+        "F = qvB sinθ — Lorentz force on moving charge",
+        "τ = nBIA sinα — Torque on current loop in magnetic field",
+        "f = qB/2πm — Cyclotron frequency",
+        "F/l = μ₀I₁I₂/2πd — Force per unit length between parallel conductors"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "What is radial magnetic field? Explain principle of moving coil galvanometer with diagram. How can its sensitivity be increased? [2025 Set-3]",
+        "What is solenoid? Obtain expression for magnetic field inside long current-carrying solenoid. [2025]",
+        "Explain Biot-Savart's law. Determine B at centre of circular current carrying coil. [2024]",
+        "Write down Biot-Savart law and find expression for B produced by current-carrying conductor of infinite length. [2024 Set-4]",
+        "Deduce expression for intensity of B inside long current-carrying solenoid with Ampere's law. [2025 Set-3]"
+      ],
+      "key_mcq_answers": [
+        "Parallel conductors same direction current: Attractive force",
+        "Parallel conductors opposite direction current: Repulsive force",
+        "To convert galvanometer to ammeter: connect low resistance (shunt) in parallel",
+        "To convert galvanometer to voltmeter: connect high resistance in series",
+        "SI unit of magnetic field B = Tesla (T)",
+        "1 Tesla = 1 Wb/m²",
+        "Magnetic field is a vector quantity",
+        "Paramagnetic susceptibility χ ∝ 1/T (Curie's law)"
+      ],
+      "key_fill_blanks": [
+        "B inside solenoid = μ₀nI",
+        "B at centre of circular loop = μ₀I/2R",
+        "Cyclotron frequency = qB/2πm",
+        "Magnetic dipole moment of current loop = NIA"
+      ],
+      "key_true_false": [],
+      "mcq_frequently_asked": [],
+      "vsa_frequently_asked": [
+        "Write expression for magnetic field at inside axis of long solenoid. [Model Paper]"
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "What is radial magnetic field? Explain moving coil galvanometer with diagram. How to increase sensitivity? [2025]. Write Biot-Savart law and find B due to infinite straight wire. [2024]"
+      ],
+      "long_answer_5mark_questions": [
+        "What is solenoid? Obtain expression for B inside long current-carrying solenoid. [2025]. Explain Biot-Savart's law. Determine B at centre of circular current coil. [2024, 2022]. State Ampere's circuital law. Use it to find B near infinitely long wire. [2025 Set-3]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Magnetic Materials",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "Magnetic Effect of Current and Magnetism",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Magnetic dipole moment M = NIA",
+        "Paramagnetic substances — properties, examples (Al, O2, Pt)",
+        "Diamagnetic substances — properties, examples (Bi, Cu, water)",
+        "Ferromagnetic substances — properties, examples (Fe, Ni, Co)",
+        "Magnetic susceptibility, permeability, intensity",
+        "Hysteresis loop and its uses",
+        "Bar magnet as equivalent solenoid"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "dB = (μ₀/4π)(Idl sinθ/r²) — Biot-Savart law",
+        "B = μ₀I/2R — B at centre of circular current loop",
+        "B = μ₀nI — B inside long solenoid",
+        "B = μ₀I/2πr — B due to infinite straight wire",
+        "F = qvB sinθ — Lorentz force on moving charge",
+        "τ = nBIA sinα — Torque on current loop in magnetic field",
+        "f = qB/2πm — Cyclotron frequency",
+        "F/l = μ₀I₁I₂/2πd — Force per unit length between parallel conductors"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "What is atomic model of magnetism? Differentiate between paramagnetic, diamagnetic and ferromagnetic substances. Give one example of each. [2025, 2024, 2023]",
+        "Define paramagnetic, diamagnetic and ferromagnetic materials. [2024]"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "How does magnetic susceptibility (chi) of paramagnetic change with T? [chi proportional to 1/T] [2025]"
+      ],
+      "vsa_frequently_asked": [
+        "Differentiate between paramagnetic, diamagnetic, ferromagnetic. Give one example each."
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "What is atomic model of magnetism? Differentiate paramagnetic, diamagnetic, ferromagnetic. Give one example of each. [2025, 2024, 2023]"
+      ],
+      "long_answer_5mark_questions": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Electromagnetic Induction",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 4,
+      "unit_name": "Electromagnetic Induction and Alternating Currents",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Faraday's laws of EM induction: e = -d(phi)/dt",
+        "Lenz's law — direction of induced current",
+        "Induced EMF in moving conductor: e = Blv",
+        "Self-inductance: e = -L dI/dt",
+        "Coefficient of self-inductance of solenoid: L = mu_0*n^2*A*l",
+        "Mutual inductance M",
+        "AC generator — principle, working, EMF: e = e_0 sin(omega*t)",
+        "Eddy currents — uses and minimization"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Self-inductance of solenoid: L = mu_0*n^2*Al",
+        "AC generator EMF derivation: e = e_0 sin(omega*t)",
+        "Mutual inductance between two coils"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "e = -dΦ/dt — Faraday's law of EMI",
+        "L = μ₀n²Al — Self-inductance of solenoid",
+        "V_rms = V₀/√2 ≈ 0.707V₀",
+        "Z = √(R² + (X_L - X_C)²) — LCR series impedance",
+        "tanφ = (X_L - X_C)/R — Phase angle",
+        "f₀ = 1/2π√(LC) — Resonance frequency",
+        "P = V_rms × I_rms × cosφ — Power in AC circuit",
+        "N₁/N₂ = V₁/V₂ = I₂/I₁ — Transformer equation"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Self-inductance of coil = 6 mH, rate of flow of current = 10^3 A/s. Find induced EMF. [2025 Set-4]",
+        "Explain phenomenon of self induction and mutual induction. Mention units. [2023]",
+        "Explaining difference between self and mutual inductance. Plane coil, area = 100 cm^2, B = 2 Wb/m^2, omega = 20 rad/s. Find max induced EMF. [2024]"
+      ],
+      "key_mcq_answers": [
+        "SI unit of self-inductance = Henry (H)",
+        "SI unit of mutual inductance = Henry (H)",
+        "V_rms = V₀/√2 ≈ 0.707 V₀",
+        "I_rms = I₀/√2",
+        "Power factor of pure capacitor circuit = 0 (wattless current)",
+        "Power factor of pure inductor circuit = 0",
+        "Power factor of pure resistor = 1",
+        "At resonance in LCR: X_L = X_C, Z = R (minimum impedance)",
+        "Transformer works on AC only, not DC",
+        "Step-up transformer: N₁ < N₂, V₁ < V₂, I₁ > I₂"
+      ],
+      "key_fill_blanks": [
+        "V_rms = V₀/√2",
+        "Resonant frequency: f₀ = 1/2π√(LC)",
+        "Step-up transformer: N₁/N₂ = V₁/V₂ = I₂/I₁",
+        "Lenz's law is based on conservation of energy"
+      ],
+      "key_true_false": [],
+      "mcq_frequently_asked": [],
+      "vsa_frequently_asked": [
+        "State the law that gives polarity of induced EMF (Lenz's law). [Model Paper]. Define 1 henry. [2023]"
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "Explain self induction and mutual induction. Mention units. [2023]. Numerical on induced EMF. [2024]"
+      ],
+      "long_answer_5mark_questions": [
+        "Explain difference between self and mutual inductance. Numerical on max EMF in rotating coil. [2024]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Alternating Current",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 4,
+      "unit_name": "Electromagnetic Induction and Alternating Currents",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "AC — peak value (V_0), rms value (V_rms = V_0/sqrt(2)), average value",
+        "Phasor diagrams for R, L, C",
+        "AC circuits: R only, L only, C only",
+        "LCR series circuit: Z = sqrt(R^2 + (X_L - X_C)^2)",
+        "Phase angle: tan(phi) = (X_L - X_C)/R",
+        "Resonance: omega_0 = 1/sqrt(LC), f_0 = 1/2pi*sqrt(LC)",
+        "Power in AC: P = V_rms * I_rms * cos(phi)",
+        "Power factor cos(phi), Wattless current",
+        "Transformer: N1/N2 = V1/V2 = I2/I1",
+        "Step-up and step-down transformer",
+        "Efficiency and losses in transformer"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Derivation of V_rms = V_0/sqrt(2)",
+        "LCR series circuit impedance and phase angle",
+        "Resonance frequency: f = 1/2pi*sqrt(LC)",
+        "Transformer equation: N1/N2 = V1/V2 = I2/I1 [every year]",
+        "Power factor formula"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "e = -dΦ/dt — Faraday's law of EMI",
+        "L = μ₀n²Al — Self-inductance of solenoid",
+        "V_rms = V₀/√2 ≈ 0.707V₀",
+        "Z = √(R² + (X_L - X_C)²) — LCR series impedance",
+        "tanφ = (X_L - X_C)/R — Phase angle",
+        "f₀ = 1/2π√(LC) — Resonance frequency",
+        "P = V_rms × I_rms × cosφ — Power in AC circuit",
+        "N₁/N₂ = V₁/V₂ = I₂/I₁ — Transformer equation"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Draw series resonance circuit for LCR. Derive formula for resonant frequency. How does resonant frequency depend on R? [2025]",
+        "What is principle of transformer? Explain step-up transformer by drawing circuit diagram. [2025 Set-1]",
+        "A lamp 50W and 100V connected to AC mains 200V, 50Hz. Calculate capacity of condenser required in series. [2025]",
+        "What is meant by wattless current? A capacitor of 15 muF connected to AC 220V, 50Hz. Find reactance and rms value of AC current. [2025 Set-3]",
+        "In AC circuit L, C and R connected in series. Give (i) impedance (ii) phase difference (iii) nature of impedance at resonance. In given circuit find rms voltage and phase difference between voltage and current. [2023]",
+        "On which principle does transformer work? What are step-up and step-down transformers? Two main losses in transformer? Ratio of turns 10:1, supply 220V, secondary connected with 220 ohm. Find current in primary. [2025 Set-4]",
+        "Explaining difference between self and mutual inductance. Plane coil area 100 cm^2 rotating in B = 2 Wb/m^2, omega = 20 rad/s. Find max induced EMF. [2024]"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Resistance 8 ohm + inductive reactance 6 ohm in series AC. Impedance = [10 ohm]. Peak voltage in 220V AC source = [about 310 V]. Power consumed in purely capacitive circuit = [zero]. [2025]"
+      ],
+      "vsa_frequently_asked": [
+        "What is wattless current? Voltmeter reads 220V in AC circuit. Write peak value. [2024]"
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "Draw series resonance circuit for LCR. Derive formula for resonant frequency. How does f_0 depend on R? [2025]. Describe series LCR resonant circuit. [2024]"
+      ],
+      "long_answer_5mark_questions": [
+        "What is principle of transformer? Explain step-up transformer with circuit diagram. [2025]. Numerical on turns ratio, primary/secondary voltage and current. [2024, 2023, 2022 — every year]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Electromagnetic Waves",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 5,
+      "unit_name": "Electromagnetic Waves",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Need for displacement current — Maxwell's modification to Ampere's law",
+        "EM waves — characteristics (transverse, travel at speed c = 3x10^8 m/s)",
+        "EM spectrum order: radio > microwave > IR > visible > UV > X-rays > gamma",
+        "Properties and uses of each type",
+        "E_0 = c*B_0 (relationship between electric and magnetic amplitudes)",
+        "Energy and momentum carried by EM waves"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "What is displacement current? Write modified equation of Ampere's law. [2025 Set-3]",
+        "What are EM waves? Write characteristics. B_y = 8x10^-6 sin(2x10^11 t + 300pi*x) T. Find wavelength and equation for electric field. Mention direction of propagation. [2024]",
+        "What is EM wave? Draw propagation diagram. Show E and B amplitudes. [2025 Set-4]",
+        "Name waves of longest wavelength and highest frequency in EM waves. What is displacement current? [2024]"
+      ],
+      "key_mcq_answers": [
+        "EM waves travel in vacuum — no medium needed",
+        "Speed of EM waves in vacuum = 3 × 10⁸ m/s",
+        "EM waves are transverse in nature",
+        "E and B vectors perpendicular to each other and to direction of propagation",
+        "E₀ = cB₀ (relationship between amplitudes)",
+        "EM spectrum increasing wavelength: γ-rays → X-rays → UV → Visible → IR → Microwaves → Radio waves",
+        "EM wave of minimum frequency = Radio waves",
+        "EM wave of maximum frequency = Gamma rays"
+      ],
+      "key_fill_blanks": [
+        "Speed of light c = 3 × 10⁸ m/s",
+        "In EM wave: E₀ = cB₀",
+        "Displacement current = ε₀(dΦ_E/dt)"
+      ],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "EM wave of minimum frequency = [Microwaves]. Frequency range of UV radiation. [2025]"
+      ],
+      "vsa_frequently_asked": [
+        "Do EM waves carry energy and momentum? [Model Paper]. Define wavefront of a wave."
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "What is displacement current? Write modified equation of Ampere's law. [2025]. EM wave equation given — find wavelength and equation for oscillating E field. [2024]"
+      ],
+      "long_answer_5mark_questions": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Reflection and Refraction of Light and Mirror",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Optics",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Laws of reflection",
+        "Spherical mirrors — concave, convex",
+        "Mirror formula: 1/v + 1/u = 1/f",
+        "Linear magnification: m = -v/u",
+        "Refraction — Snell's law: n1 sin(i) = n2 sin(r)",
+        "Total internal reflection — critical angle: sin(C) = 1/n",
+        "Optical fibres — working principle",
+        "Refraction at spherical surfaces: n2/v - n1/u = (n2 - n1)/R"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "1/v + 1/u = 1/f — Mirror formula",
+        "1/v - 1/u = 1/f — Lens formula",
+        "1/f = (μ-1)(1/R₁ - 1/R₂) — Lens maker's formula",
+        "μ = sin((A+D_m)/2) / sin(A/2) — Prism refractive index at min deviation",
+        "sinC = 1/μ — Critical angle for TIR",
+        "β = λD/d — YDSE fringe width",
+        "Angular width of central maxima in single slit = 2λ/a",
+        "tan i_B = μ — Brewster's angle"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "What is optical fibre? With ray diagram explain transmission of light. Which phenomenon is used? [2025 Set-1]",
+        "Derive formula for refraction of light from spherical surface and use it to derive lens maker's formula. [2024]"
+      ],
+      "key_mcq_answers": [
+        "Convex lens has maximum focal length for red light (lowest refractive index for red)",
+        "Critical angle: sin C = 1/μ",
+        "TIR occurs when light travels from denser to rarer medium at angle > critical angle",
+        "Power of lens: P = 1/f(metres), unit = Diopter (D)",
+        "Convex lens: P is positive; Concave lens: P is negative",
+        "Magnification of astronomical telescope = -f₀/f_e (inverted image)"
+      ],
+      "key_fill_blanks": [
+        "Lens maker formula: 1/f = (μ-1)(1/R₁ - 1/R₂)",
+        "YDSE fringe width: β = λD/d",
+        "Brewster's angle: tan i_B = μ",
+        "Width of central maximum in single slit: 2λD/a"
+      ],
+      "key_true_false": [],
+      "mcq_frequently_asked": [],
+      "vsa_frequently_asked": [
+        "What is total internal reflection? [2025]"
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "Derive formula 1/v + 1/u = 1/f for concave mirror with ray diagram."
+      ],
+      "long_answer_5mark_questions": [
+        "What is optical fibre? With ray diagram explain transmission of light. Which phenomenon used here? [2025]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "Refraction of Light on Spherical Surfaces and Lenses",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Optics",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Lens formula: 1/v - 1/u = 1/f",
+        "Lens maker's formula: 1/f = (mu - 1)(1/R1 - 1/R2)",
+        "Power of lens: P = 1/f (in diopters)",
+        "Thin lenses in contact: 1/F = 1/f1 + 1/f2",
+        "Magnification for lenses: m = v/u",
+        "Effect of medium and radius on focal length"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Lens maker's formula: 1/f = (mu-1)(1/R1 - 1/R2) [2025, 2024, 2023, 2022 — EVERY YEAR]",
+        "Thin lens formula from refraction at two spherical surfaces",
+        "Focal length of two thin lenses in contact"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "1/v + 1/u = 1/f — Mirror formula",
+        "1/v - 1/u = 1/f — Lens formula",
+        "1/f = (μ-1)(1/R₁ - 1/R₂) — Lens maker's formula",
+        "μ = sin((A+D_m)/2) / sin(A/2) — Prism refractive index at min deviation",
+        "sinC = 1/μ — Critical angle for TIR",
+        "β = λD/d — YDSE fringe width",
+        "Angular width of central maxima in single slit = 2λ/a",
+        "tan i_B = μ — Brewster's angle"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "If medium on both sides of lens is same, derive formula for focal length of thin lens in terms of refractive index and radius of curvature. If lens of glass immersed in liquid having refractive index more than glass, how does nature and focal length change? [2025]",
+        "Derive formula for refraction of light from spherical surface. Using this derive 1/f = (n-1)(1/R1 - 1/R2). Show focal length of concave lens is negative. [2024]",
+        "Establish relation between focal length of thin lens and refractive index. Show focal length of concave lens will be negative. [2023]"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Maximum focal length of convex lens for [red light]. Double convex lens R each surface, mu=1.5. Find f. [2025]"
+      ],
+      "vsa_frequently_asked": [],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "Derive lens maker's formula. State effect of refractive index and radii on focal length. [2025, 2024, 2023, 2022]"
+      ],
+      "long_answer_5mark_questions": [
+        "Derive formula for refraction through spherical surface. Using this derive lens maker's formula. [2024]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "Refraction and Dispersion of Light by Prism and Optical Instruments",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Optics",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Refraction through prism — angle of deviation",
+        "Minimum deviation: mu = sin((A+Dm)/2) / sin(A/2)",
+        "Dispersion — angular and mean dispersion",
+        "Compound microscope — magnification formula",
+        "Astronomical telescope (refracting) — magnification = f_0/f_e",
+        "Reflecting telescope — advantages over refracting"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Prism formula for refractive index at minimum deviation",
+        "Magnifying power of compound microscope: M = m_0 x m_e",
+        "Magnifying power of astronomical telescope: M = f_0/f_e"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "1/v + 1/u = 1/f — Mirror formula",
+        "1/v - 1/u = 1/f — Lens formula",
+        "1/f = (μ-1)(1/R₁ - 1/R₂) — Lens maker's formula",
+        "μ = sin((A+D_m)/2) / sin(A/2) — Prism refractive index at min deviation",
+        "sinC = 1/μ — Critical angle for TIR",
+        "β = λD/d — YDSE fringe width",
+        "Angular width of central maxima in single slit = 2λ/a",
+        "tan i_B = μ — Brewster's angle"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Draw ray diagram of reflecting telescope. Explain its working. [2025 Set-1]",
+        "By drawing ray diagram explain image formation in compound microscope. Establish formula for magnifying power for it. [2024]",
+        "Explain image formation in reflecting telescope with ray diagram. Compare its qualities with refracting telescope. [2024, 2023]",
+        "Focal lengths of objective and eyepiece of telescope are 40 cm and 4 cm. Object placed 200 cm from objective. Distance between lenses for normal vision? Also find magnification. [2024]"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Prism angle A, minimum deviation equals prism angle. Find mu. [2025]"
+      ],
+      "vsa_frequently_asked": [],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "Draw ray diagram of reflecting telescope. Explain working. [2025]. Magnification of telescope is 9, adjusted for parallel rays. Distance between lenses = 20 cm. Find focal lengths of both. [2023]"
+      ],
+      "long_answer_5mark_questions": [
+        "By drawing ray diagram explain image formation in compound microscope. Establish formula for magnifying power. [2024]. Explain image formation in reflecting telescope. Compare with refracting telescope. [2024, 2023]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "Nature of Light and Interference",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Optics",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Wave theory of light — Huygens' principle of secondary wavelets",
+        "Wavefront — plane, spherical, cylindrical",
+        "Reflection and refraction on basis of Huygens' principle",
+        "Interference — constructive (2n*lambda) and destructive ((2n+1)*lambda/2)",
+        "Young's Double Slit Experiment (YDSE)",
+        "Fringe width: beta = lambda*D/d",
+        "Coherent sources condition",
+        "Intensity in YDSE"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Snell's law using Huygens' principle [2025, 2024]",
+        "YDSE fringe width formula: beta = lambda*D/d [every year, extremely high frequency]",
+        "Conditions for constructive and destructive interference",
+        "Intensity at any point in YDSE"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "1/v + 1/u = 1/f — Mirror formula",
+        "1/v - 1/u = 1/f — Lens formula",
+        "1/f = (μ-1)(1/R₁ - 1/R₂) — Lens maker's formula",
+        "μ = sin((A+D_m)/2) / sin(A/2) — Prism refractive index at min deviation",
+        "sinC = 1/μ — Critical angle for TIR",
+        "β = λD/d — YDSE fringe width",
+        "Angular width of central maxima in single slit = 2λ/a",
+        "tan i_B = μ — Brewster's angle"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Write Huygens' principle of secondary wavelets and explain laws of refraction of light on its basis. [2025 Set-1, 2024 Set-3]",
+        "What is interference of light? Deduce expression for shifting of interfering fringes by thin transparent plate. If central fringe intensity is I_0, what will be intensity when one slit is closed? [Model Paper]",
+        "Using monochromatic light of wavelength lambda, in YDSE, at point where path diff = lambda, intensity = K units. Find intensity at point where path diff = lambda/3. [2025 Set-2]",
+        "Explain difference between interference and diffraction of light. Write expression for width of central maxima in single slit diffraction. [2025 Set-2]"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "mcq_frequently_asked": [],
+      "vsa_frequently_asked": [],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [],
+      "long_answer_5mark_questions": [
+        "State Huygens' principle of secondary wavelets. Explain laws of refraction on its basis. [2025, 2024]. What is interference? Deduce expression for fringe width in YDSE. [2025, 2024, 2023, 2022 — EVERY YEAR]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 15,
+      "name": "Diffraction and Polarisation of Light",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Optics",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Diffraction — phenomenon of bending of light at edges",
+        "Single slit diffraction — width of central maximum = 2*lambda*D/a",
+        "Angular width of central maximum = 2*lambda/a",
+        "Polarisation — plane polarised light",
+        "Polarisation by reflection — Brewster's law: tan(i_B) = mu",
+        "Malus's law: I = I_0 cos^2(theta)",
+        "Uses of Polaroids"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "1/v + 1/u = 1/f — Mirror formula",
+        "1/v - 1/u = 1/f — Lens formula",
+        "1/f = (μ-1)(1/R₁ - 1/R₂) — Lens maker's formula",
+        "μ = sin((A+D_m)/2) / sin(A/2) — Prism refractive index at min deviation",
+        "sinC = 1/μ — Critical angle for TIR",
+        "β = λD/d — YDSE fringe width",
+        "Angular width of central maxima in single slit = 2λ/a",
+        "tan i_B = μ — Brewster's angle"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "What do you understand by polarised light? When third polaroid rotated between two crossed polaroids, discuss change in intensity. [2025 Set-1]",
+        "Explain diffraction of monochromatic light at single slit. Find expression for angular width of central maxima. [Model Paper, 2025]",
+        "Elucidate diffraction of monochromatic light by narrow slit. Determine expression for angular width of central maximum. [2025 Set-2]"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "mcq_frequently_asked": [],
+      "vsa_frequently_asked": [
+        "What do you understand by coherent source? [2024 Set-2]"
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "What is plane polarised light? How ordinary, partially polarised and totally polarised light distinguished with polaroid? [2025 Set-3]. Pictorial representation of polarised and unpolarised light. [2024]"
+      ],
+      "long_answer_5mark_questions": [
+        "Explain diffraction of monochromatic light at single slit. Find expression for angular width of central maxima. [2025, Model Paper]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 16,
+      "name": "Photoelectric Effect and Matter Waves",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 2,
+      "unit_name": "Dual Nature of Matter and Radiation",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Photoelectric effect — Hertz and Lenard observations",
+        "Laws of photoelectric emission",
+        "Einstein's photoelectric equation: KE_max = hv - phi = h(v - v_0)",
+        "Work function phi, threshold frequency v_0, threshold wavelength lambda_0",
+        "Stopping potential V_s: eV_s = KE_max",
+        "Photon — energy E = hv, momentum p = h/lambda, E = pc",
+        "de-Broglie hypothesis — dual nature of matter",
+        "de-Broglie wavelength: lambda = h/mv = h/p",
+        "In terms of KE: lambda = h/sqrt(2mE_k)",
+        "In terms of accelerating voltage: lambda = h/sqrt(2meV)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Einstein's photoelectric equation: KE_max = hv - phi",
+        "de-Broglie wavelength in terms of kinetic energy: lambda = h/sqrt(2mE) [2025, 2024]",
+        "de-Broglie wavelength for accelerated particle: lambda = h/sqrt(2mqV)"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "KE_max = hν - φ — Einstein's photoelectric equation",
+        "eV_s = KE_max — Stopping potential relation",
+        "λ = h/mv — de-Broglie wavelength",
+        "λ = h/√(2mE_k) — de-Broglie in terms of KE",
+        "λ = h/√(2meV) — de-Broglie for accelerated particle"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "What is photoelectric effect? Write its laws. Establish Einstein's equation (1/2)mv^2 = h(v - v_0). [2025 Set-1]",
+        "Work function = 4.0 eV. Radiation of frequency 3x10^15 Hz incident. Calculate max velocity of photoelectron. [2025 Set-2]",
+        "What is concept of matter-wave of de-Broglie? Establish relation for de-Broglie wavelength in terms of kinetic energy. [2025]",
+        "Which nature of light supported by photoelectric effect? Write Einstein equation. Briefly explain laws. [2024]",
+        "Find max KE of photoelectrons when light of wavelength 3300 A falls on metal with work function 1.9 eV. [2025 Set-3]"
+      ],
+      "key_mcq_answers": [
+        "Photoelectric effect proves particle nature of light (photon)",
+        "de-Broglie hypothesis proves wave nature of matter",
+        "Stopping potential depends on frequency of light, NOT on intensity",
+        "Photoelectric current depends on intensity, NOT on frequency",
+        "Above threshold frequency: KE_max increases linearly with frequency",
+        "Work function unit = eV or J",
+        "Planck's constant h = 6.626 × 10⁻³⁴ J·s"
+      ],
+      "key_fill_blanks": [
+        "Einstein photoelectric equation: KE_max = hν - φ",
+        "de-Broglie wavelength: λ = h/mv",
+        "de-Broglie in terms of KE: λ = h/√(2mE_k)"
+      ],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Threshold wavelength 2000 A. At 1000 A KE of photoelectron = ? [2025]. Louis de-Broglie wavelength with KE options. [2024]"
+      ],
+      "vsa_frequently_asked": [
+        "Write Einstein equation for photoelectric effect. [2024]. Write de-Broglie formula for matter waves. [2024]. Define work function. [2023]"
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "Which nature of light is supported by photoelectric effect? Write Einstein equation. [2024]. What is concept of matter-wave? Establish de-Broglie wavelength relation. [2025]"
+      ],
+      "long_answer_5mark_questions": [
+        "What is photoelectric effect? Write laws. Establish Einstein's equation. [2025, 2024, 2023]. Establish de-Broglie wavelength relation in terms of KE. [2025, 2024]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 17,
+      "name": "Atomic Structure and Hydrogen Spectrum",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "Atoms and Nuclei",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Thomson's model — plum pudding",
+        "Rutherford's alpha-scattering experiment and nuclear model",
+        "Drawbacks of Rutherford model (no reason for discrete spectrum, spiraling electron)",
+        "Bohr's three postulates",
+        "Bohr's radius: r_n = n^2*h^2*epsilon_0 / (pi*m*e^2) = 0.529*n^2 angstrom",
+        "Energy of nth orbit: E_n = -13.6/n^2 eV",
+        "Hydrogen spectrum — Lyman, Balmer, Paschen, Brackett, Pfund series",
+        "Rydberg formula: 1/lambda = R(1/n1^2 - 1/n2^2)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Expression for radius of nth Bohr orbit — proof that r_n proportional to n^2 [2025, 2024 — very important]",
+        "Energy of electron in nth Bohr orbit",
+        "de-Broglie explanation of Bohr's quantisation condition"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "E_n = -13.6/n² eV — Energy of nth Bohr orbit (hydrogen)",
+        "r_n = 0.529n² Å — Radius of nth Bohr orbit (hydrogen)",
+        "1/λ = R(1/n₁² - 1/n₂²) — Rydberg formula for spectral lines",
+        "BE = Δm × 931.5 MeV/u — Binding energy from mass defect",
+        "T₁/₂ = 0.693/λ — Half-life of radioactive decay",
+        "N = N₀e^(-λt) — Radioactive decay law"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Write Bohr's postulates for hydrogen atom. Prove that orbital radius r is directly proportional to square of principal quantum number n. [2025 Set-2, 2024]",
+        "Describe atomic model of Rutherford. How did Bohr model remove its drawbacks? [2025 Set-3]",
+        "What is Bohr's quantum condition postulate? How is it explained by de-Broglie? Shortcomings of Bohr's atomic model? [2024]",
+        "Explain postulates of Bohr's model for hydrogen atom. Show number of spectral lines for Lyman (emission) and absorption spectra for n=1 to n=4 transitions. [2024 Set-3]"
+      ],
+      "key_mcq_answers": [
+        "Bohr radius of H (n=1) = 0.529 Å",
+        "Ground state energy of hydrogen = -13.6 eV",
+        "Ionisation energy of hydrogen from ground state = 13.6 eV",
+        "Isotopes: same Z (atomic number), different A (mass number)",
+        "Isobars: same A, different Z",
+        "Isotones: same N (neutrons), different Z",
+        "Most stable nucleus = Iron-56 (highest BE/nucleon ≈ 8.75 MeV)",
+        "Nuclear density is independent of mass number A"
+      ],
+      "key_fill_blanks": [
+        "Energy of nth Bohr orbit: E_n = -13.6/n² eV",
+        "Half-life: T₁/₂ = 0.693/λ",
+        "Nuclear radius: R = R₀ × A^(1/3), R₀ = 1.2 fm"
+      ],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Demerits of Rutherford model. [2025]. Difference in angular momentum of electron between two successive orbits is h/2pi. [2025]"
+      ],
+      "vsa_frequently_asked": [
+        "What are demerits of Rutherford model of atom? [2025]. When emission and absorption spectrum of hydrogen observed? [2023]"
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "What is Bohr's quantum condition? How is it explained by de-Broglie? Shortcomings of Bohr's model? [2024]"
+      ],
+      "long_answer_5mark_questions": [
+        "Write Bohr's postulates for hydrogen atom. Prove orbital radius r proportional to n^2. [2025, 2024]. Describe Rutherford's alpha-scattering experiment. What conclusions about atomic structure? [2024]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 18,
+      "name": "Nuclei",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "Atoms and Nuclei",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Nuclear composition: protons (Z) + neutrons (N), mass number A = Z + N",
+        "Isotopes (same Z, different A), isobars (same A, different Z), isotones (same N)",
+        "Nuclear radius: R = R_0 * A^(1/3), R_0 = 1.2 fm",
+        "Nuclear density — independent of mass number A",
+        "Mass defect: delta_m = Z*m_p + (A-Z)*m_n - M_actual",
+        "Binding energy: BE = delta_m * c^2",
+        "Binding energy per nucleon vs mass number graph",
+        "Nuclear fission — heavy nucleus splits (e.g. U-235)",
+        "Nuclear fusion — light nuclei combine (e.g. in sun)",
+        "Nuclear reactor — controlled fission"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Binding energy calculation from mass defect",
+        "Show nuclear density is independent of mass number",
+        "Q-value of nuclear reaction",
+        "Analysis of B.E./nucleon vs A graph — why iron is most stable"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "E_n = -13.6/n² eV — Energy of nth Bohr orbit (hydrogen)",
+        "r_n = 0.529n² Å — Radius of nth Bohr orbit (hydrogen)",
+        "1/λ = R(1/n₁² - 1/n₂²) — Rydberg formula for spectral lines",
+        "BE = Δm × 931.5 MeV/u — Binding energy from mass defect",
+        "T₁/₂ = 0.693/λ — Half-life of radioactive decay",
+        "N = N₀e^(-λt) — Radioactive decay law"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Represent graphically binding energy per nucleon against mass number. Explain why lighter nuclei are usually suitable for nuclear fusion. [2025 Important Q19]",
+        "What is nuclear fission? In fission of U-235 nucleus 200 MeV produced. Power 4 MW obtained. How many nuclei fissioned per sec? [2025 Set-1]",
+        "Define mass defect and binding energy. Explain fission and fusion with B.E./nucleon vs A graph. [2023, 2024]",
+        "Atomic mass of 8O^16 = 16.0000 amu. Calculate binding energy per nucleon. [2024 Set-4]",
+        "Most important conclusions of Rutherford's alpha-particle scattering. Define isotopic, isobaric and isotonic nuclei. Find energy equivalent to 1 amu. [2024]"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Energy emitted when two nuclei of masses m1 and m2 fused to make mass m. [2025]. Nuclear reaction identification. [2025]"
+      ],
+      "vsa_frequently_asked": [
+        "Differentiate between isotopes and isobars. [2025]. On which principle does nuclear reactor work? [2024]. Calculate charge on nucleus 7N^14 in coulombs. [2023]"
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "Explain binding energy of nucleus. In nuclear reaction 3Li^6 + 0n^1 -> 2He^4 + 1H^3, calculate energy released. [2024]"
+      ],
+      "long_answer_5mark_questions": [
+        "Represent graphically B.E. per nucleon vs mass number. Explain why lighter nuclei suitable for nuclear fusion. [2025 Important Q19]. What is nuclear fission? U-235 gives 200 MeV per fission, power = 4 MW. How many nuclei fissioned per sec? [2025 Set-1 Or]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 19,
+      "name": "Semiconductor and Junction Diode",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 4,
+      "unit_name": "Electronic Devices",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Energy bands in solids — conduction band, valence band, forbidden gap",
+        "Conductors (overlap), insulators (large gap ~6 eV), semiconductors (small gap ~1 eV)",
+        "Intrinsic semiconductor — electron-hole pairs due to thermal energy",
+        "Extrinsic semiconductor — doped",
+        "p-type: doped with trivalent (acceptor), majority carriers = holes",
+        "n-type: doped with pentavalent (donor), majority carriers = electrons",
+        "p-n junction — depletion layer, potential barrier (~0.7V for Si, ~0.3V for Ge)",
+        "Forward bias — barrier reduced, current flows",
+        "Reverse bias — barrier increased, only tiny reverse saturation current",
+        "I-V characteristics in forward and reverse bias",
+        "Half wave rectifier — one diode, only positive half",
+        "Full wave rectifier — two diodes, both halves converted to DC",
+        "Input/output waveforms for rectifiers"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Circuit diagram and working of FULL WAVE rectifier with waveforms [2025, 2024, 2023, 2022 — EVERY YEAR]",
+        "Energy band diagram for conductor, insulator, semiconductor",
+        "I-V characteristic curve of p-n junction diode (forward + reverse)"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "I_E = I_B + I_C — Transistor current relation",
+        "β = I_C/I_B — Current gain (common emitter)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "How is p-n junction diode used as full wave rectifier? Explain its working by drawing simple circuit diagram. [2025 Set-1]",
+        "Explain working of p-n junction diode as half wave rectifier. Or Explain alpha-particle scattering. [2025 Set-2]",
+        "What are energy bands in solids? Differentiate conductors, insulators and semiconductors on basis of energy bands. Explain effects of temperature. [2025 Set-5]",
+        "Explain formation of depletion layer at p-n junction. Explain potential barrier and avalanche breakdown. [2024 Or]",
+        "On basis of energy band diagram explain difference between conductor, semiconductor and insulator. What is need of doping? Write value of current in ideal diodes D1 and D2 in given circuit. [2024 Set-5]",
+        "Compare features of p-type and n-type semiconductors. Draw circuit diagram of half wave rectifier and explain. Or State Gauss' law and find E due to point charge, deduce Coulomb's law. [2024 Set-5]"
+      ],
+      "key_mcq_answers": [
+        "Pure semiconductor at 0K = insulator (no free carriers)",
+        "Doping increases conductivity of semiconductor",
+        "n-type: majority carriers = electrons; minority = holes",
+        "p-type: majority carriers = holes; minority = electrons",
+        "Ideal p-n junction in reverse bias = infinite resistance",
+        "Ideal p-n junction in forward bias = zero resistance",
+        "Forbidden gap Si ≈ 1.1 eV; Ge ≈ 0.7 eV; Insulator > 3 eV",
+        "Full wave rectifier uses 2 diodes; Bridge rectifier uses 4 diodes"
+      ],
+      "key_fill_blanks": [
+        "Full wave rectifier uses two p-n junction diodes",
+        "I_E = I_B + I_C (transistor current relation)",
+        "β = I_C/I_B — current gain of transistor"
+      ],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Pure semiconductor at 0K behaves as [insulator]. When impurity doped, conductivity [increases]. Resistance of ideal p-n junction in reverse bias = [infinite]. Diffusion current in p-n junction is greater when junction [unbiased]. [2025, 2024]"
+      ],
+      "vsa_frequently_asked": [
+        "What are majority charge carriers in p-type and n-type? [2023]. Temperature of semiconductor = 0K. Comment on conductivity. [2025]. How much charge is on a hole? [2024]"
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "What is resistance of ideal p-n junction in forward and reverse bias? Draw circuit diagram of half-wave rectifier. [2024]. Explain p-n junction in forward bias with diagram. [2024]"
+      ],
+      "long_answer_5mark_questions": [
+        "How is p-n junction diode used as full wave rectifier? Explain working with simple circuit. [2025, 2024, 2023, 2022 — EVERY YEAR]. What are energy bands in solids? Differentiate conductors, insulators, semiconductors. Explain temperature effects. [2025, 2024]"
+      ],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "UP Board Physics — 19 chapters across 9 units.",
+    "can_chapter_have_zero_questions": true,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "High-importance chapters have questions every year. Others can be deprioritized but not skipped.",
+    "or_questions_note": "Internal OR choice in Section D (3-mark) and Section E (5-mark).",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Electric Flux and Gauss Theorem",
+      "Electrostatic Potential and Electric Capacitance",
+      "Electric Conduction and Ohms Law",
+      "Moving Charges and Magnetism",
+      "Alternating Current",
+      "Refraction of Light on Spherical Surfaces and Lenses",
+      "Nature of Light and Interference",
+      "Photoelectric Effect and Matter Waves",
+      "Atomic Structure and Hydrogen Spectrum",
+      "Nuclei",
+      "Semiconductor and Junction Diode"
+    ],
+    "chapters_never_skip_reason": "Marked high_importance in syllabus — questions every year.",
+    "chapters_with_highest_weightage": [
+      "Section B - Optics (13 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "Section A - Electromagnetic Waves (4 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "Lens Maker's Formula derivation (Every year, Section D or E)",
+      "Full wave rectifier using p-n junction (Every year, Section E)",
+      "Gauss's law and spherical shell application (Every year, Section D or E)",
+      "Transformer working and numerical (Every year, Section E)",
+      "YDSE fringe width derivation (Every year, Section E)",
+      "Einstein's photoelectric equation (Every year, Section D or E)",
+      "Biot-Savart law, B at centre of circular coil (3 of last 4 years, Section E)",
+      "Huygens principle and Snell's law proof (3 consecutive years, Section E)",
+      "Bohr's model and orbital radius proof (3 consecutive years, Section E)",
+      "Binding energy per nucleon graph + fission/fusion (3 consecutive years, Section E)",
+      "Kirchhoff's laws with circuit diagram (3 consecutive years, Section B or D)",
+      "Drift velocity and electric current I = nAev_d (3 of last 4 years, Section D or E)",
+      "Para/Dia/Ferromagnetic differentiation (Every year, Section B or D)",
+      "LCR resonance circuit and resonant frequency (3 consecutive years, Section D)",
+      "de-Broglie wavelength (Every year, Section B, D or E)"
+    ],
+    "chapters_mostly_theory": [],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [
+      "Electric Charge, Electric Field and Electric Dipole",
+      "Electric Flux and Gauss Theorem",
+      "Electrostatic Potential and Electric Capacitance",
+      "Electric Conduction and Ohms Law",
+      "Kirchhoffs Laws and Electric Circuit",
+      "Moving Charges and Magnetism",
+      "Electromagnetic Induction",
+      "Alternating Current",
+      "Refraction of Light on Spherical Surfaces and Lenses",
+      "Refraction and Dispersion of Light by Prism and Optical Instruments",
+      "Nature of Light and Interference",
+      "Photoelectric Effect and Matter Waves",
+      "Atomic Structure and Hydrogen Spectrum",
+      "Nuclei",
+      "Semiconductor and Junction Diode"
+    ],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Lens Maker's Formula derivation (Section D or E, Every year)",
+      "Full wave rectifier using p-n junction (Section E, Every year)",
+      "Gauss's law and spherical shell application (Section D or E, Every year)",
+      "Transformer working and numerical (Section E, Every year)",
+      "YDSE fringe width derivation (Section E, Every year)",
+      "Einstein's photoelectric equation (Section D or E, Every year)",
+      "Biot-Savart law, B at centre of circular coil (Section E, 3 of last 4 years)",
+      "Huygens principle and Snell's law proof (Section E, 3 consecutive years)",
+      "Bohr's model and orbital radius proof (Section E, 3 consecutive years)",
+      "Binding energy per nucleon graph + fission/fusion (Section E, 3 consecutive years)",
+      "Kirchhoff's laws with circuit diagram (Section B or D, 3 consecutive years)",
+      "Drift velocity and electric current I = nAev_d (Section D or E, 3 of last 4 years)",
+      "Para/Dia/Ferromagnetic differentiation (Section B or D, Every year)",
+      "LCR resonance circuit and resonant frequency (Section D, 3 consecutive years)",
+      "de-Broglie wavelength (Section B, D or E, Every year)"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "most_important_questions": [
+      "Rank 1: Define electric dipole and give formula for dipole moment. Find expression for torque acting on electric dipole in uniform electric field. - Electric Charge, Electric Field and Electric Dipole (3 marks, Section D, 2025)",
+      "Rank 2: Write Gauss's law. Derive formula for electric field due to a linear charge distribution (E = lambda / 2*pi*epsilon_0*r). - Electric Flux and Gauss Theorem (3 marks, Section D, 2025, 2024, 2023, 2022)",
+      "Rank 3: State Gauss's law in electrostatics. Using it find electric field due to uniformly charged thin spherical shell — at external, internal and surface points. - Electric Flux and Gauss Theorem (5 marks, Section E, 2025, 2024, 2023, 2022 — Every Year)",
+      "Rank 4: Establish relation between drift velocity and electric current: I = nAev_d. - Electric Conduction and Ohms Law (3 or 5 marks, Section D or E, 2022, 2024, 2025)",
+      "Rank 5: State Biot-Savart's law. With help of this law determine magnetic field at centre of circular current carrying coil. - Moving Charges and Magnetism (5 marks, Section E, 2024, 2022, 2025)",
+      "Rank 6: What is solenoid? Obtain expression for magnetic field inside long current-carrying solenoid using Ampere's law: B = mu_0*n*I. - Moving Charges and Magnetism (5 marks, Section E, 2025, 2024)",
+      "Rank 7: Draw series resonance circuit for LCR. Derive formula for resonant frequency f_0 = 1/2pi*sqrt(LC). How does resonant frequency depend on resistance? - Alternating Current (3 marks, Section D, 2025, 2024, 2023)",
+      "Rank 8: What is principle of transformer? Explain step-up transformer by drawing circuit diagram. Numerical on turns ratio and power. - Alternating Current (5 marks, Section E, 2025, 2024, 2023, 2022 — Every Year)",
+      "Rank 9: If medium on both sides of lens is same, derive formula for focal length of thin lens in terms of refractive index and radius of curvature (Lens Maker's formula). - Refraction of Light on Spherical Surfaces and Lenses (3 or 5 marks, Section D or E, 2022, 2023, 2024, 2025 — Every Year)",
+      "Rank 10: State Huygens' principle of secondary wavelets and explain laws of refraction of light on its basis. - Nature of Light and Interference (5 marks, Section E, 2025, 2024, 2023)",
+      "Rank 11: What is interference of light? Deduce expression for fringe width (beta = lambda*D/d) in Young's double slit experiment. - Nature of Light and Interference (5 marks, Section E, 2025, 2024, 2023, 2022 — Every Year)",
+      "Rank 12: Explain the diffraction of monochromatic light at a single slit. Find expression for angular width of central maxima (= 2*lambda/a). - Diffraction and Polarisation of Light (5 marks, Section E, 2025, Model Paper)",
+      "Rank 13: What is photoelectric effect? Write its laws. Establish Einstein's photoelectric equation: (1/2)mv^2 = h(v - v_0). - Photoelectric Effect and Matter Waves (5 marks, Section E, 2025, 2024, 2023 — Every Year)",
+      "Rank 14: What is concept of matter-wave of de-Broglie? Establish relation for de-Broglie wavelength in terms of kinetic energy: lambda = h/sqrt(2mE). - Photoelectric Effect and Matter Waves (5 marks, Section E, 2025, 2024)",
+      "Rank 15: Write Bohr's postulates for hydrogen atom. Prove that orbital radius r is directly proportional to square of principal quantum number n (r proportional to n^2). - Atomic Structure and Hydrogen Spectrum (5 marks, Section E, 2025, 2024)",
+      "Rank 16: Explain image formation in reflecting telescope with ray diagram. Compare its qualities with refracting telescope. - Refraction and Dispersion of Light by Prism and Optical Instruments (5 marks, Section E, 2025, 2024, 2023)",
+      "Rank 17: Represent graphically binding energy per nucleon against mass number. Explain why lighter nuclei are usually suitable for nuclear fusion. - Nuclei (5 marks, Section E, 2025, 2024, 2023)",
+      "Rank 18: How is p-n junction diode used as full wave rectifier? Explain working by drawing simple circuit diagram. Draw input/output voltage waveforms. - Semiconductor and Junction Diode (5 marks, Section E, 2025, 2024, 2023, 2022 — Every Year)",
+      "Rank 19: What are energy bands in solids? Differentiate between conductors, insulators and semiconductors on basis of energy bands. Explain effects of temperature. - Semiconductor and Junction Diode (5 marks, Section E, 2025, 2024)",
+      "Rank 20: By drawing ray diagram explain image formation in compound microscope. Establish formula for magnifying power. - Refraction and Dispersion of Light by Prism and Optical Instruments (5 marks, Section E, 2024, 2025)"
+    ]
+  },
+  "important_diagrams_masterlist": {
+    "note": "Diagrams compulsory in Section D and E derivations.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Direct formulas fill in blank aur short answer mein puchhe jaate hain. Formula sheet exam mein allowed nahi.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "1",
+        "chapter_name": "Electrostatics",
+        "formulas": [
+          "F = (1/4πε₀)(q₁q₂/r²) — Coulomb's law",
+          "E = F/q₀ = (1/4πε₀)(q/r²) — Electric field intensity",
+          "τ = pE sinθ — Torque on dipole in uniform field",
+          "C = ε₀A/d — Capacitance of parallel plate capacitor",
+          "U = (1/2)CV² = Q²/2C — Energy stored in capacitor",
+          "E = σ/ε₀ — Electric field due to infinite plane sheet (outside)",
+          "E = σ/2ε₀ — Electric field due to infinite plane sheet (each side)"
+        ]
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Current Electricity",
+        "formulas": [
+          "V = IR — Ohm's law",
+          "I = nAev_d — Drift velocity and current relation",
+          "R = ρl/A — Resistance formula",
+          "P/Q = R/S — Wheatstone bridge balance condition",
+          "R = S(100-L)/L — Meter bridge formula",
+          "E₁/E₂ = l₁/l₂ — Potentiometer EMF comparison"
+        ]
+      },
+      {
+        "chapter_id": "6",
+        "chapter_name": "Magnetic Effect of Current and Magnetism",
+        "formulas": [
+          "dB = (μ₀/4π)(Idl sinθ/r²) — Biot-Savart law",
+          "B = μ₀I/2R — B at centre of circular current loop",
+          "B = μ₀nI — B inside long solenoid",
+          "B = μ₀I/2πr — B due to infinite straight wire",
+          "F = qvB sinθ — Lorentz force on moving charge",
+          "τ = nBIA sinα — Torque on current loop in magnetic field",
+          "f = qB/2πm — Cyclotron frequency",
+          "F/l = μ₀I₁I₂/2πd — Force per unit length between parallel conductors"
+        ]
+      },
+      {
+        "chapter_id": "8",
+        "chapter_name": "Electromagnetic Induction and Alternating Currents",
+        "formulas": [
+          "e = -dΦ/dt — Faraday's law of EMI",
+          "L = μ₀n²Al — Self-inductance of solenoid",
+          "V_rms = V₀/√2 ≈ 0.707V₀",
+          "Z = √(R² + (X_L - X_C)²) — LCR series impedance",
+          "tanφ = (X_L - X_C)/R — Phase angle",
+          "f₀ = 1/2π√(LC) — Resonance frequency",
+          "P = V_rms × I_rms × cosφ — Power in AC circuit",
+          "N₁/N₂ = V₁/V₂ = I₂/I₁ — Transformer equation"
+        ]
+      },
+      {
+        "chapter_id": "11",
+        "chapter_name": "Optics",
+        "formulas": [
+          "1/v + 1/u = 1/f — Mirror formula",
+          "1/v - 1/u = 1/f — Lens formula",
+          "1/f = (μ-1)(1/R₁ - 1/R₂) — Lens maker's formula",
+          "μ = sin((A+D_m)/2) / sin(A/2) — Prism refractive index at min deviation",
+          "sinC = 1/μ — Critical angle for TIR",
+          "β = λD/d — YDSE fringe width",
+          "Angular width of central maxima in single slit = 2λ/a",
+          "tan i_B = μ — Brewster's angle"
+        ]
+      },
+      {
+        "chapter_id": "16",
+        "chapter_name": "Dual Nature of Matter and Radiation",
+        "formulas": [
+          "KE_max = hν - φ — Einstein's photoelectric equation",
+          "eV_s = KE_max — Stopping potential relation",
+          "λ = h/mv — de-Broglie wavelength",
+          "λ = h/√(2mE_k) — de-Broglie in terms of KE",
+          "λ = h/√(2meV) — de-Broglie for accelerated particle"
+        ]
+      },
+      {
+        "chapter_id": "17",
+        "chapter_name": "Atoms and Nuclei",
+        "formulas": [
+          "E_n = -13.6/n² eV — Energy of nth Bohr orbit (hydrogen)",
+          "r_n = 0.529n² Å — Radius of nth Bohr orbit (hydrogen)",
+          "1/λ = R(1/n₁² - 1/n₂²) — Rydberg formula for spectral lines",
+          "BE = Δm × 931.5 MeV/u — Binding energy from mass defect",
+          "T₁/₂ = 0.693/λ — Half-life of radioactive decay",
+          "N = N₀e^(-λt) — Radioactive decay law"
+        ]
+      },
+      {
+        "chapter_id": "19",
+        "chapter_name": "Electronic Devices",
+        "formulas": [
+          "I_E = I_B + I_C — Transistor current relation",
+          "β = I_C/I_B — Current gain (common emitter)"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Physics",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Physics",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 30,
+    "passing_marks": 10,
+    "practical_exam_separate": true,
+    "practical_exam_note": "Practical of 30 marks conducted separately. Separate passing in theory (23/70) and practical (10/30).",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": true,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium to Difficult",
+    "note": "Medium to Difficult. 7 sets. Analytical skill-based questions newly introduced.",
+    "easy_percent": 30,
+    "medium_percent": 50,
+    "hard_percent": 20,
+    "most_scoring_sections": [
+      "Easy to Medium — if syllabus read once, 4-5 out of 6 MCQs correct."
+    ],
+    "most_difficult_sections": [
+      "Medium to Difficult — standard derivations + analytical questions (new trend since 2025).",
+      "Medium to Difficult — full derivations, must be practiced multiple times with timing."
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Section D carries 30 marks — this is the highest-scoring section. Prepare EVERY standard 3-mark derivation.",
+      "Section E: 4 OR choices given — read all 8 options during reading time, choose wisely.",
+      "Draw diagrams FIRST in long answers — 1 mark for diagram even if derivation is incomplete.",
+      "For numericals: always write 'Given:', 'Formula:', 'Substitution:', 'Answer with unit:' separately.",
+      "For proofs: always start by writing the law or theorem statement. Then numbered derivation steps.",
+      "No negative marking anywhere — attempt ALL questions in Sections A, B, C compulsorily.",
+      "EM Waves chapter (Section D) — pure theory, easy 3 marks — must prepare fully.",
+      "Semiconductor full wave rectifier — comes EVERY year in Section E — must prepare completely.",
+      "Lens Maker's formula — comes EVERY year — must know derivation from memory.",
+      "For transformer numerical: N1/N2 = V1/V2 = I2/I1 — one-step formula gives 3 marks.",
+      "Binding energy per nucleon graph — draw carefully with labels (iron peak at A=56, 8.75 MeV).",
+      "YDSE: fringe width formula beta = lambda*D/d — must remember with derivation."
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "Read all questions carefully. Decide ALL OR choices in Section D and E. Do NOT write anything."
+      },
+      {
+        "section_id": "section_A_10min",
+        "recommended_minutes": 5,
+        "note": "6 MCQs x 1.5 min each. Write option letter only."
+      },
+      {
+        "section_id": "section_B_10min",
+        "recommended_minutes": 5,
+        "note": "6 VSA x 1.5 min each. One-line answer — formula or definition directly."
+      },
+      {
+        "section_id": "section_C_20min",
+        "recommended_minutes": 5,
+        "note": "4 questions x 5 min each. 4-6 lines + small diagram if needed."
+      },
+      {
+        "section_id": "section_D_60min",
+        "recommended_minutes": 6,
+        "note": "10 questions x 6 min each. 30 MARKS — most important. Numbered derivation steps + diagram compulsory."
+      },
+      {
+        "section_id": "section_E_60min",
+        "recommended_minutes": 15,
+        "note": "4 questions x 15 min each. Full derivation + complete labeled diagram + result statement."
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "Check question numbers written correctly. Check diagram labels. Verify numerical units and significant figures."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 23,
+        "strategy": "Section A (6) + Section B (6) + Section C (8) = 20 marks if basics clear. Section D 1-2 easy questions = 3-6 marks. Total = 23-26.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All 12 questions in Section A+B — attempt all (no negative marking)",
+          "All 4 questions in Section C — 2 marks each, 4-6 lines needed",
+          "Section D: attempt 3-4 easy ones — Kirchhoff's laws, drift velocity, LCR resonance, para/dia/ferro",
+          "Section E: attempt 1 if prepared — full wave rectifier is easiest"
+        ],
+        "chapters_to_skip_safely": [
+          "Complex proofs like Gauss's law full derivation",
+          "YDSE numerical problems",
+          "Bohr's model full derivation with radius proof"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "40_marks",
+        "target_marks": 40,
+        "strategy": "Section A+B+C (20) + Section D 5-6 questions (15-18) + Section E 1 question (5) = 40-43 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Section D: Drift velocity, Kirchhoff's, Biot-Savart, LCR resonance, lens formula, Bohr energy, semiconductor I-V",
+          "Section E: Prepare full wave rectifier + transformer + one optics derivation (lens maker's formula)"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "55_marks_plus",
+        "target_marks": 55,
+        "strategy": "Full A+B+C (20) + Section D 8-9 questions (24-27) + Section E 2-3 questions (10-15) = 54-62 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All standard 3-mark derivations in Section D",
+          "Section E: Prepare all 8 key 5-mark derivations",
+          "Numericals: drift velocity, capacitor energy, LCR circuit, photoelectric effect"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping",
+        "target_marks": 65,
+        "strategy": "All sections with neat diagrams and complete steps. Section D (30M) + Section E (20M) = 50 marks — this is where toppers score.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All diagrams: neat, properly labeled",
+          "Numericals: write Given, Formula, Substitution, Result with unit",
+          "Section D OR choices: always pick more prepared option",
+          "Section E: decide OR choices in first 15 min reading time"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "All diagrams: neat, properly labeled",
+          "Numericals: write Given, Formula, Substitution, Result with unit",
+          "Section D OR choices: always pick more prepared option",
+          "Section E: decide OR choices in first 15 min reading time"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "No separate internal assessment — 30 marks practical covers non-theory component.",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Physics Class 12 (Part I + Part II)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Base textbook. UP Board syllabus fully based on NCERT. All derivations are from NCERT. Must read at least once."
+      },
+      {
+        "name": "UP Board Chapterwise Question Bank — Physics Class 12",
+        "author": "",
+        "publisher": "Standard Publication",
+        "purpose": "Primary",
+        "note": "Chapterwise MCQ, VSA, SA, LA + previous year questions + model papers. Based on NEP 2020, Latest 2025-26 syllabus."
+      },
+      {
+        "name": "Previous Year Board Papers 2020-2025",
+        "author": "",
+        "publisher": "UP Board Official",
+        "purpose": "Supplementary",
+        "note": "Papers from 2020-2025 (multiple sets each year). Pattern samajhne ke liye zaroor solve karo. Repeat topics clearly visible from past years."
+      },
+      {
+        "name": "UP Board Model Paper 2026",
+        "author": "",
+        "publisher": "UP Board Official",
+        "purpose": "Supplementary",
+        "note": "Available on upmsp.edu.in. Must practice at least 1 model paper before exam."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": false,
+    "extra_time_note": "3 hours 15 minutes (195 minutes)"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "question_number_note: Haan — har answer ke upar question number likhna zaroori hai. Examiner dhundhta hai. Nahi likha toh marks confusion ho sakta hai.",
+      "set_number_compulsory: True",
+      "set_number_note: Haan — apna set number (JS/JT/JU/JV/JW etc.) answer sheet ke cover page par compulsory likhna hota hai.",
+      "question_copy_compulsory: False",
+      "question_copy_note: Answer sheet mein poora question likhna zaroori nahi. Sirf question number likho aur answer shuru karo.",
+      "rough_work: Answer sheet ka last page rough work ke liye. Clearly ROUGH WORK likho. Rough work pe marks nahi milte lekin kaam aata hai.",
+      "supplementary_sheet: Supplementary sheet lene se marks nahi katenge. Zaroorat ho toh lo. Lekin unnecessary blank pages waste mat karo.",
+      "sequence_compulsory: False",
+      "sequence_note: Questions ka sequence follow karna zaroori nahi. Jo aata ho pehle karo. Lekin question number clearly likho.",
+      "last_to_first: Haan — paper last se bhi start kar sakte ho. Koi rule nahi ki sequence follow karo.",
+      "long_answer_position: Long answers (Section D aur E) hamesha paper ke last mein nahi hote. Jo bhi section easy lage pehle karo.",
+      "section_name_before_section: Section ka naam likhna compulsory nahi lekin recommended hai. Examiner ko navigate karna easy hota hai.",
+      "line_after_each_question: Zaroori nahi. Lekin do lines draw karne se answer clearly separate dikhta hai — good practice.",
+      "cutting_overwriting: Cuts se marks directly nahi katenge. Ek clean line se kato. Clean cutting acceptable hai.",
+      "short_before_long: Pehle short answers attempt karo phir long — marks nahi katenge. Jo bhi order suit kare.",
+      "sub_questions: Sub questions matlab ek question ke andar (a), (b), (c), (d) parts hote hain. Har part ke marks alag alag hote hain."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Blue pen se main answer, black se headings/underline. Ya sirf ek color bhi chalega."
+    },
+    "rough_work_rules": "Answer sheet ka last page rough work ke liye. Clearly ROUGH WORK likho. Rough work pe marks nahi milte lekin kaam aata hai.",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

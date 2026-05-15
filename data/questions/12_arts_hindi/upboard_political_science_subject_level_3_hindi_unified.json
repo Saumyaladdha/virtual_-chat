@@ -1,0 +1,1527 @@
+{
+  "board": "यूपी बोर्ड",
+  "class": "12",
+  "subject": "राजनीति विज्ञान / नागरिक शास्त्र (Nagrik Shastra / Rajneeti Shastra)",
+  "subject_code": "323",
+  "exam_year": "2026-27",
+  "marks_structure": {
+    "theory_paper": 100,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 33,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": false,
+    "extra_time_note": "हाँ — 15 मिनट रीडिंग टाइम मिलता है। इस टाइम में पेपर पढ़ो, OR ऑप्शन्स में से कौनसा अटेम्प्ट करोगे डिसाइड करो, और 250-वर्ड लॉन्ग आंसर्स का आउटलाइन सोच लो।",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 29,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "यूपी बोर्ड में मल्टीपल सेट्स होते हैं (जैसे, 323 ES in 2024)। हर सेट में सेम क्वेश्चन्स, ऑर्डर अलग।",
+    "sets_same_or_different": "",
+    "language_of_attempt": "हिंदी या इंग्लिश दोनों अलाउड। क्वेश्चन पेपर बाइलिंगुअल आता है (323 ES = English/Hindi set)।",
+    "all_compulsory_note": "इंटरनल चॉइस (OR ऑप्शन) सिर्फ Q31 और Q32 में मिलता है — दोनों लॉन्ग आंसर क्वेश्चन्स में।",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "यूपी बोर्ड पॉलिटिकल साइंस का सिलेबस NCERT पर बेस्ड है — 'समकालीन विश्व राजनीति' (पार्ट A) और 'स्वतंत्रता के बाद भारतीय राजनीति' (पार्ट B)। दोनों NCERT बुक्स सब चैप्टर्स सॉल्व करो। प्रीवियस ईयर पेपर्स (PYQ) 2018-2025 से रिवीज़न ज़रूर करो।",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "यूपी बोर्ड क्लास 12 पॉलिटिकल साइंस में 5 टाइप्स के क्वेश्चन्स: MCQ (1), VSA (2), SA-I (5), SA-II (6), LA (8)। टोटल = 100 मार्क्स, 32 क्वेश्चन्स।",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (बहुविकल्पीय)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "करेक्ट ऑप्शन आंसर-बुक में लिखना। एक्सप्लेनेशन की ज़रूरत नहीं।",
+        "mostly_from": "डेट्स, लीडर्स के नाम, ऑर्गेनाइज़ेशन फाउंडिंग ईयर्स, ट्रीटीज़, कॉन्स्टिट्यूशनल आर्टिकल्स, कंट्री-इवेंट मैच, बेसिक डेफिनिशन्स।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "सिर्फ ऑप्शन (a)/(b)/(c)/(d) लिखना",
+        "notes": ""
+      },
+      {
+        "type": "अति लघु उत्तरीय (VSA / Very Short Answer)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 2,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "दो फैक्चुअल पॉइंट्स लिखना — जैसे 'दो देश के नाम', 'दो संस्थाओं के नाम', 'कब और कहाँ'। हर पार्ट 1 मार्क।",
+        "mostly_from": "लिस्ट-टाइप क्वेश्चन्स — टू कंट्रीज़, टू ऑर्गेनाइज़ेशन्स, टू लीडर्स, टू रीज़न्स, डेट + प्लेस, असैसिन + ईयर।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "लगभग 10 शब्द (एक वाक्य)",
+        "notes": ""
+      },
+      {
+        "type": "लघु उत्तरीय-I (Short Answer-I)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 5,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "कॉन्सेप्ट क्लियर करो + 3-4 पॉइंट्स + एग्ज़ांपल/डेट। 5 मार्क्स = डेफिनिशन (1) + मेन पॉइंट्स (3) + कंक्लूज़न/एग्ज़ांपल (1)।",
+        "mostly_from": "कॉज़ेस-कॉन्सीक्वेंसेस क्वेश्चन्स, ब्रीफ नोट्स (संक्षिप्त टिप्पणी), कंपेरिज़न्स, प्रोसेस एक्सप्लेनेशन्स।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "लगभग 50 शब्द (5-7 लाइन्स)",
+        "notes": ""
+      },
+      {
+        "type": "लघु उत्तरीय-II (Short Answer-II)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 6,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "इंट्रोडक्शन (1) + मेन बॉडी विद 4-5 पॉइंट्स (4) + कंक्लूज़न (1)। डेट्स, एग्ज़ांपल्स, लीडर्स के नाम ज़रूर इन्क्लूड करो।",
+        "mostly_from": "प्रोसेस + हिंड्रेंसेस, रोल + रेलेवेंस, पॉलिटिकल इवेंट्स का एनालिसिस, सक्सेस/फेलियर के पीछे फैक्टर्स।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "लगभग 100-125 शब्द (10-12 लाइन्स)",
+        "notes": ""
+      },
+      {
+        "type": "दीर्घ उत्तरीय (Long Answer)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 8,
+        "total_in_paper": 2,
+        "attempt": 2,
+        "negative_marking": false,
+        "how_to_attempt": "इंट्रोडक्शन (1) + पार्ट 1 डिटेल्ड (3) + पार्ट 2 डिटेल्ड (3) + एग्ज़ांपल्स/डेट्स (0.5) + कंक्लूज़न विद ओपिनियन (0.5)। पैराग्राफ फॉर्मैट में लिखो, हेडिंग्स नहीं।",
+        "mostly_from": "फॉरेन पॉलिसी एनालिसिस, इमरजेंसी कॉज़ेस+कॉन्सीक्वेंसेस, नेबर रिलेशन्स, रीजनल ऑर्गेनाइज़ेशन्स, नेहरू का दौर।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "लगभग 250 शब्द (20-25 लाइन्स)",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "यूपी बोर्ड सिविक्स थ्योरी पेपर = 100 मार्क्स। 32 क्वेश्चन्स। ड्यूरेशन: 3 घंटे 15 मिनट (15 मिनट रीडिंग टाइम एक्स्ट्रा)। बाइलिंगुअल पेपर (हिंदी+इंग्लिश)।",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "इंटरनल चॉइस (OR ऑप्शन) सिर्फ Q31 और Q32 में मिलता है — दोनों लॉन्ग आंसर क्वेश्चन्स में।",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 30,
+      "medium_percent": 0,
+      "hard_percent": 20,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "by_question_type",
+        "name": "by question type",
+        "type": "by_question_type",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "by_section",
+        "name": "by section",
+        "type": "by_section",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "दोनों खंड इक्वल वेटेज। क्वेश्चन्स हर टाइप में दोनों सेक्शन्स से मिलते-जुलते आते हैं।",
+        "notes": "दोनों खंड इक्वल वेटेज। क्वेश्चन्स हर टाइप में दोनों सेक्शन्स से मिलते-जुलते आते हैं।"
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 100,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "by_question_type",
+        "name": "by question type",
+        "question_numbers": "",
+        "type": "by_question_type",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "by_section",
+        "name": "by section",
+        "question_numbers": "",
+        "type": "by_section",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "दोनों खंड इक्वल वेटेज। क्वेश्चन्स हर टाइप में दोनों सेक्शन्स से मिलते-जुलते आते हैं।"
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 100,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "1",
+      "name": "शीत युद्ध का अंत + सत्ता के समकालीन केंद्र + समकालीन दक्षिण एशिया",
+      "marks": 20,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "2",
+        "name": "अंतर्राष्ट्रीय संगठन + समकालीन विश्व में सुरक्षा",
+        "marks": 15
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "शीत युद्ध का अंत + सत्ता के समकालीन केंद्र + समकालीन दक्षिण एशिया",
+        "marks": 20,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "अंतर्राष्ट्रीय संगठन + समकालीन विश्व में सुरक्षा",
+        "marks": 15,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "पर्यावरण और प्राकृतिक संसाधन + वैश्वीकरण",
+        "marks": 15,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "राष्ट्र-निर्माण की चुनौतियाँ + एक दल के प्रभुत्व का दौर",
+        "marks": 16,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "नियोजित विकास की राजनीति + भारत के विदेश संबंध + कांग्रेस प्रणाली",
+        "marks": 18,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "लोकतांत्रिक व्यवस्था का संकट + क्षेत्रीय आकांक्षाएँ + भारतीय राजनीति: नए बदलाव",
+        "marks": 16,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 100,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Political Science Class 12 — 6 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Political Science",
+        "category": "Main",
+        "total_marks": 100,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "शीत युद्ध का अंत + सत्ता के समकालीन केंद्र + समकालीन दक्षिण एशिया",
+            "marks": 20,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "अंतर्राष्ट्रीय संगठन + समकालीन विश्व में सुरक्षा",
+            "marks": 15,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "पर्यावरण और प्राकृतिक संसाधन + वैश्वीकरण",
+            "marks": 15,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "राष्ट्र-निर्माण की चुनौतियाँ + एक दल के प्रभुत्व का दौर",
+            "marks": 16,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "नियोजित विकास की राजनीति + भारत के विदेश संबंध + कांग्रेस प्रणाली",
+            "marks": 18,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "लोकतांत्रिक व्यवस्था का संकट + क्षेत्रीय आकांक्षाएँ + भारतीय राजनीति: नए बदलाव",
+            "marks": 16,
+            "topics": [],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "शीत युद्ध का अंत + सत्ता के समकालीन केंद्र + समकालीन दक्षिण एशिया",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 1,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 20,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "SAFTA/SAARC MCQ, EU-ASEAN कंपेरिज़न (LA), भारत-चीन रिलेशन्स (SA-II), पाकिस्तान लोकतंत्र बाधक कारण (SA-I), शॉक थेरेपी (VSA), भारत-रूस रिलेशन्स (SA-I)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "अंतर्राष्ट्रीय संगठन + समकालीन विश्व में सुरक्षा",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 2,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 15,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "UN में भारत की स्थायी सदस्यता के तर्क (SA-I 5 मार्क्स), UN ऑर्गन्स MCQ, IAEA (SA-I), आतंकवाद के कारण (SA-I), UN की भूमिका एक-ध्रुवीय विश्व में (SA-II 6 मार्क्स), अस्त्र नियंत्रण VSA",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "पर्यावरण और प्राकृतिक संसाधन + वैश्वीकरण",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 3,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 15,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी-मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "चिपको आंदोलन (SA-I — शुरुआत कहाँ + महिलाओं की भूमिका), पृथ्वी सम्मेलन 1992 (VSA), विश्व की साझी विरासत (SA-I), पर्यावरण सुरक्षा वैश्विक राजनीति में (SA-I), वैश्वीकरण के दुष्परिणाम (VSA 1+1)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "राष्ट्र-निर्माण की चुनौतियाँ + एक दल के प्रभुत्व का दौर",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 4,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 16,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "देशी रियासतों के विलय की प्रक्रिया और बाधाएँ (SA-II 6 मार्क्स), इंस्ट्रूमेंट ऑफ एक्सेशन VSA (दो असहमत रियासत), नेहरू का राष्ट्र-निर्माण दृष्टिकोण (SA-I 5), प्रथम शिक्षा मंत्री MCQ, गांधी हत्या VSA, प्रथम चुनाव VSA",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "नियोजित विकास की राजनीति + भारत के विदेश संबंध + कांग्रेस प्रणाली",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 5,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 18,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम-हार्ड",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "विदेश नीति पर LA (8 मार्क्स) — घरेलू+अंतर्राष्ट्रीय फैक्टर्स, पंचशील MCQ (चीन के साथ), बैंक राष्ट्रीयकरण MCQ (1969), पोखरण-I/II, कांग्रेस विभाजन के कारण (SA-II 6), हरित क्रांति के सकारात्मक+नकारात्मक परिणाम (SA-I 2.5+2.5), NITI आयोग डेट MCQ",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "लोकतांत्रिक व्यवस्था का संकट + क्षेत्रीय आकांक्षाएँ + भारतीय राजनीति: नए बदलाव",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 6,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 16,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम-हार्ड",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "आपातकाल के कारण+परिणाम (LA 8 मार्क्स मोस्ट कॉमन), शाह कमीशन (LA 8 मार्क्स — कब+क्यों+निष्कर्ष), असम आंदोलन (SA-II 6), मंडल कमीशन MCQ, BJP की सफलता के कारण (SA-II 6), ऑपरेशन ब्लू स्टार VSA, पूर्वोत्तर क्षेत्रीय आकांक्षा (SA-I 5)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Political Science Class 12 — 6 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "इंटरनल चॉइस (OR ऑप्शन) सिर्फ Q31 और Q32 में मिलता है — दोनों लॉन्ग आंसर क्वेश्चन्स में।",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "शीत युद्ध का अंत + सत्ता के समकालीन केंद्र + समकालीन दक्षिण एशिया",
+      "अंतर्राष्ट्रीय संगठन + समकालीन विश्व में सुरक्षा",
+      "पर्यावरण और प्राकृतिक संसाधन + वैश्वीकरण",
+      "राष्ट्र-निर्माण की चुनौतियाँ + एक दल के प्रभुत्व का दौर",
+      "नियोजित विकास की राजनीति + भारत के विदेश संबंध + कांग्रेस प्रणाली",
+      "लोकतांत्रिक व्यवस्था का संकट + क्षेत्रीय आकांक्षाएँ + भारतीय राजनीति: नए बदलाव"
+    ],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [
+      "शीत युद्ध का अंत + सत्ता के समकालीन केंद्र + समकालीन दक्षिण एशिया (20 marks)",
+      "अंतर्राष्ट्रीय संगठन + समकालीन विश्व में सुरक्षा (15 marks)",
+      "पर्यावरण और प्राकृतिक संसाधन + वैश्वीकरण (15 marks)",
+      "राष्ट्र-निर्माण की चुनौतियाँ + एक दल के प्रभुत्व का दौर (16 marks)",
+      "नियोजित विकास की राजनीति + भारत के विदेश संबंध + कांग्रेस प्रणाली (18 marks)",
+      "लोकतांत्रिक व्यवस्था का संकट + क्षेत्रीय आकांक्षाएँ + भारतीय राजनीति: नए बदलाव (16 marks)"
+    ],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [],
+    "chapters_mostly_theory": [
+      "शीत युद्ध का अंत + सत्ता के समकालीन केंद्र + समकालीन दक्षिण एशिया",
+      "अंतर्राष्ट्रीय संगठन + समकालीन विश्व में सुरक्षा",
+      "पर्यावरण और प्राकृतिक संसाधन + वैश्वीकरण",
+      "राष्ट्र-निर्माण की चुनौतियाँ + एक दल के प्रभुत्व का दौर",
+      "नियोजित विकास की राजनीति + भारत के विदेश संबंध + कांग्रेस प्रणाली",
+      "लोकतांत्रिक व्यवस्था का संकट + क्षेत्रीय आकांक्षाएँ + भारतीय राजनीति: नए बदलाव"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "शीत युद्ध का अंत + सत्ता के समकालीन केंद्र + समकालीन दक्षिण एशिया",
+      "अंतर्राष्ट्रीय संगठन + समकालीन विश्व में सुरक्षा",
+      "पर्यावरण और प्राकृतिक संसाधन + वैश्वीकरण",
+      "राष्ट्र-निर्माण की चुनौतियाँ + एक दल के प्रभुत्व का दौर",
+      "नियोजित विकास की राजनीति + भारत के विदेश संबंध + कांग्रेस प्रणाली",
+      "लोकतांत्रिक व्यवस्था का संकट + क्षेत्रीय आकांक्षाएँ + भारतीय राजनीति: नए बदलाव"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "शीत युद्ध का अंत + सत्ता के समकालीन केंद्र + समकालीन दक्षिण एशिया",
+      "अंतर्राष्ट्रीय संगठन + समकालीन विश्व में सुरक्षा",
+      "पर्यावरण और प्राकृतिक संसाधन + वैश्वीकरण",
+      "राष्ट्र-निर्माण की चुनौतियाँ + एक दल के प्रभुत्व का दौर",
+      "नियोजित विकास की राजनीति + भारत के विदेश संबंध + कांग्रेस प्रणाली",
+      "लोकतांत्रिक व्यवस्था का संकट + क्षेत्रीय आकांक्षाएँ + भारतीय राजनीति: नए बदलाव"
+    ],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "शीत युद्ध का अंत + सत्ता के समकालीन केंद्र + समकालीन दक्षिण एशिया",
+      "अंतर्राष्ट्रीय संगठन + समकालीन विश्व में सुरक्षा",
+      "पर्यावरण और प्राकृतिक संसाधन + वैश्वीकरण",
+      "राष्ट्र-निर्माण की चुनौतियाँ + एक दल के प्रभुत्व का दौर",
+      "नियोजित विकास की राजनीति + भारत के विदेश संबंध + कांग्रेस प्रणाली",
+      "लोकतांत्रिक व्यवस्था का संकट + क्षेत्रीय आकांक्षाएँ + भारतीय राजनीति: नए बदलाव"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "key_terms_and_facts_masterlist": {
+      "note": "ये लिस्ट MCQ/VSA/Fill में सीधा पूछी जाती है। सब याद करो — 15-20 मार्क्स इससे पक्के आते हैं।",
+      "important_dates": [
+        {
+          "event": "UN फाउंडिंग",
+          "date": "24 अक्टूबर 1945"
+        },
+        {
+          "event": "UN टोटल मेंबर्स",
+          "count": 193
+        },
+        {
+          "event": "UN सिक्योरिटी काउंसिल परमानेंट मेंबर्स",
+          "members": "USA, UK, रूस, चीन, फ्रांस (5)"
+        },
+        {
+          "event": "ICJ जजेस",
+          "count": 15
+        },
+        {
+          "event": "IAEA फाउंडिंग",
+          "date": "29 जुलाई 1957"
+        },
+        {
+          "event": "NAM फाउंडिंग",
+          "date": "सितंबर 1961, बेलग्रेड"
+        },
+        {
+          "event": "NAM फाउंडर्स",
+          "leaders": "नेहरू (भारत), टीटो (यूगोस्लाविया), नासिर (मिस्र), सुकार्नो (इंडोनेशिया), नक्रूमा (घाना)"
+        },
+        {
+          "event": "पंचशील समझौता",
+          "date": "29 अप्रैल 1954",
+          "parties": "भारत-चीन"
+        },
+        {
+          "event": "भारत-चीन युद्ध",
+          "year": 1962
+        },
+        {
+          "event": "भारत-पाक युद्ध (ताशकंद)",
+          "year": 1965
+        },
+        {
+          "event": "ताशकंद एग्रीमेंट",
+          "date": "जनवरी 1966"
+        },
+        {
+          "event": "भारत-पाक युद्ध (बांग्लादेश)",
+          "year": 1971
+        },
+        {
+          "event": "शिमला एग्रीमेंट",
+          "date": "2 जुलाई 1972"
+        },
+        {
+          "event": "इंडस वॉटर ट्रीटी",
+          "date": "1960",
+          "parties": "भारत-पाकिस्तान (वर्ल्ड बैंक मीडिएटेड)"
+        },
+        {
+          "event": "SAARC फाउंडिंग",
+          "date": "8 दिसंबर 1985, ढाका"
+        },
+        {
+          "event": "SAFTA इफेक्टिव",
+          "date": "1 जनवरी 2006"
+        },
+        {
+          "event": "ASEAN फाउंडिंग",
+          "date": "8 अगस्त 1967, बैंकॉक"
+        },
+        {
+          "event": "EU फॉर्मेशन (माश्त्रीख्त ट्रीटी)",
+          "year": 1993
+        },
+        {
+          "event": "WTO फाउंडिंग",
+          "date": "1 जनवरी 1995"
+        },
+        {
+          "event": "USSR विघटन",
+          "date": "25 दिसंबर 1991"
+        },
+        {
+          "event": "बर्लिन वॉल फॉल",
+          "year": 1989
+        },
+        {
+          "event": "अर्थ समिट (रियो)",
+          "year": 1992
+        },
+        {
+          "event": "क्योटो प्रोटोकॉल",
+          "year": 1997
+        },
+        {
+          "event": "मॉन्ट्रियल प्रोटोकॉल",
+          "year": 1987
+        },
+        {
+          "event": "ब्रंटलैंड रिपोर्ट",
+          "year": 1987
+        },
+        {
+          "event": "चिपको आंदोलन",
+          "year": 1973
+        },
+        {
+          "event": "नर्मदा बचाओ आंदोलन",
+          "year": 1985
+        },
+        {
+          "event": "फर्स्ट जनरल इलेक्शन",
+          "years": "1951-52"
+        },
+        {
+          "event": "फर्स्ट CEC",
+          "name": "सुकुमार सेन"
+        },
+        {
+          "event": "गांधी हत्या",
+          "date": "30 जनवरी 1948, बिड़ला हाउस दिल्ली, नाथूराम गोडसे द्वारा"
+        },
+        {
+          "event": "स्टेट्स रिऑर्गेनाइज़ेशन एक्ट",
+          "year": 1956
+        },
+        {
+          "event": "बैंक राष्ट्रीयकरण (14 बैंक)",
+          "date": "19 जुलाई 1969 (इंदिरा गांधी)"
+        },
+        {
+          "event": "अतिरिक्त बैंक राष्ट्रीयकरण (6 बैंक)",
+          "year": 1980
+        },
+        {
+          "event": "पोखरण-I (स्माइलिंग बुद्धा)",
+          "date": "18 मई 1974"
+        },
+        {
+          "event": "पोखरण-II",
+          "date": "11 और 13 मई 1998"
+        },
+        {
+          "event": "आपातकाल पीरियड",
+          "dates": "25 जून 1975 — 21 मार्च 1977"
+        },
+        {
+          "event": "ऑपरेशन ब्लू स्टार",
+          "dates": "3-8 जून 1984, गोल्डन टेंपल अमृतसर"
+        },
+        {
+          "event": "इंदिरा गांधी हत्या",
+          "date": "31 अक्टूबर 1984"
+        },
+        {
+          "event": "बाबरी मस्जिद डिमोलिशन",
+          "date": "6 दिसंबर 1992"
+        },
+        {
+          "event": "BJP फॉर्मेशन",
+          "date": "6 अप्रैल 1980"
+        },
+        {
+          "event": "मंडल कमीशन इम्प्लीमेंटेशन",
+          "year": "1990 (V.P. सिंह)"
+        },
+        {
+          "event": "NITI आयोग",
+          "date": "1 जनवरी 2015"
+        },
+        {
+          "event": "नेपाल डेमोक्रेटिक रिपब्लिक बना",
+          "year": 2008
+        }
+      ],
+      "key_leaders_and_roles": [
+        {
+          "name": "मौलाना अबुल कलाम आज़ाद",
+          "role": "स्वतंत्र भारत के प्रथम शिक्षा मंत्री"
+        },
+        {
+          "name": "जवाहरलाल नेहरू",
+          "role": "प्रथम PM (1947-64), NAM फाउंडर, विदेश नीति वास्तुकार"
+        },
+        {
+          "name": "सरदार वल्लभभाई पटेल",
+          "role": "देशी रियासतों का विलय, 'आयरन मैन ऑफ इंडिया'"
+        },
+        {
+          "name": "डॉ. B.R. अंबेडकर",
+          "role": "संविधान निर्माता, दलित नेता"
+        },
+        {
+          "name": "सुकुमार सेन",
+          "role": "प्रथम चुनाव आयुक्त"
+        },
+        {
+          "name": "लाल बहादुर शास्त्री",
+          "role": "PM 1964-66, 'जय जवान जय किसान' नारा, ताशकंद"
+        },
+        {
+          "name": "इंदिरा गांधी",
+          "role": "PM 1966-77, 1980-84, बैंक राष्ट्रीयकरण, आपातकाल, पोखरण-I"
+        },
+        {
+          "name": "मोरारजी देसाई",
+          "role": "प्रथम गैर-कांग्रेस PM (जनता पार्टी 1977-79)"
+        },
+        {
+          "name": "जयप्रकाश नारायण (JP)",
+          "role": "संपूर्ण क्रांति, बिहार आंदोलन, आपातकाल विरोध"
+        },
+        {
+          "name": "डॉ. राम मनोहर लोहिया",
+          "role": "समाजवादी नेता, 'मैनकाइंड' और 'जन' के संस्थापक, गैर-कांग्रेसिज़्म"
+        },
+        {
+          "name": "राजीव गांधी",
+          "role": "PM 1984-89, कंप्यूटर/IT क्रांति की शुरुआत"
+        },
+        {
+          "name": "V.P. सिंह",
+          "role": "PM 1989-90, मंडल कमीशन इम्प्लीमेंट"
+        },
+        {
+          "name": "P.V. नरसिम्हा राव",
+          "role": "PM 1991-96, आर्थिक उदारीकरण (LPG रिफॉर्म्स)"
+        },
+        {
+          "name": "अटल बिहारी वाजपेयी",
+          "role": "PM 1996, 1998-2004, NDA, पोखरण-II, 'मैनकाइंड' के संपादक नहीं — गौर करें"
+        },
+        {
+          "name": "मनमोहन सिंह",
+          "role": "PM 2004-14, UPA"
+        },
+        {
+          "name": "नरेंद्र मोदी",
+          "role": "PM 2014-present, NDA"
+        },
+        {
+          "name": "सुकार्नो",
+          "role": "इंडोनेशिया के राष्ट्रपति, NAM संस्थापक"
+        },
+        {
+          "name": "टीटो",
+          "role": "यूगोस्लाविया नेता, NAM संस्थापक"
+        },
+        {
+          "name": "नासिर",
+          "role": "मिस्र राष्ट्रपति, NAM संस्थापक"
+        },
+        {
+          "name": "मिखाइल गोर्बाचेव",
+          "role": "USSR नेता, पेरेस्त्रोइका + ग्लासनोस्त"
+        },
+        {
+          "name": "डेंग शियाओपिंग",
+          "role": "चीन के 1978 आर्थिक सुधार"
+        },
+        {
+          "name": "गौरा देवी",
+          "role": "चिपको आंदोलन में महिला नेतृत्व (रेणी विलेज)"
+        },
+        {
+          "name": "सुंदरलाल बहुगुणा",
+          "role": "चिपको आंदोलन नेता"
+        },
+        {
+          "name": "मेधा पाटकर",
+          "role": "नर्मदा बचाओ आंदोलन"
+        }
+      ],
+      "important_commissions_and_reports": [
+        {
+          "name": "फज़ल अली कमीशन (SRC)",
+          "year": 1953,
+          "purpose": "राज्यों का भाषा आधार पर पुनर्गठन"
+        },
+        {
+          "name": "शाह कमीशन",
+          "year": 1977,
+          "purpose": "आपातकाल की जाँच",
+          "head": "जस्टिस J.C. शाह",
+          "appointed_by": "जनता पार्टी सरकार (मोरारजी देसाई)"
+        },
+        {
+          "name": "मंडल कमीशन",
+          "year_submitted": 1980,
+          "implemented": 1990,
+          "purpose": "OBC आरक्षण 27%",
+          "head": "B.P. मंडल"
+        },
+        {
+          "name": "सरकारिया कमीशन",
+          "year": 1983,
+          "purpose": "केंद्र-राज्य संबंध"
+        },
+        {
+          "name": "ब्रंटलैंड रिपोर्ट (आवर कॉमन फ्यूचर)",
+          "year": 1987,
+          "purpose": "सस्टेनेबल डेवलपमेंट"
+        }
+      ],
+      "key_operations_and_movements": [
+        {
+          "name": "ऑपरेशन पोलो",
+          "year": 1948,
+          "purpose": "हैदराबाद का विलय"
+        },
+        {
+          "name": "ऑपरेशन ब्लू स्टार",
+          "year": 1984,
+          "purpose": "गोल्डन टेंपल से मिलिटेंट्स हटाना"
+        },
+        {
+          "name": "ऑपरेशन इन्फिनिट रीच",
+          "year": 1998,
+          "country": "USA (अफगानिस्तान/सूडान पर)"
+        },
+        {
+          "name": "ऑपरेशन एंड्यूरिंग फ्रीडम",
+          "year": 2001,
+          "country": "USA (अफगानिस्तान)"
+        },
+        {
+          "name": "चिपको आंदोलन",
+          "year": 1973,
+          "leaders": "सुंदरलाल बहुगुणा, गौरा देवी"
+        },
+        {
+          "name": "नर्मदा बचाओ आंदोलन",
+          "year": 1985,
+          "leader": "मेधा पाटकर"
+        },
+        {
+          "name": "JP मूवमेंट (संपूर्ण क्रांति)",
+          "years": "1974-75",
+          "leader": "जयप्रकाश नारायण"
+        },
+        {
+          "name": "असम आंदोलन",
+          "years": "1979-85",
+          "outcome": "असम अकॉर्ड 1985"
+        },
+        {
+          "name": "बॉम्बे प्लान",
+          "year": 1944,
+          "purpose": "इंडस्ट्रियलिस्ट्स का आर्थिक विकास प्लान"
+        }
+      ],
+      "key_agreements_and_treaties": [
+        {
+          "name": "पंचशील",
+          "year": 1954,
+          "parties": "भारत-चीन"
+        },
+        {
+          "name": "इंडस वॉटर ट्रीटी",
+          "year": 1960,
+          "parties": "भारत-पाकिस्तान"
+        },
+        {
+          "name": "ताशकंद एग्रीमेंट",
+          "year": 1966,
+          "parties": "भारत-पाकिस्तान (शास्त्री-अयूब खान)"
+        },
+        {
+          "name": "शिमला एग्रीमेंट",
+          "year": 1972,
+          "parties": "भारत-पाकिस्तान (इंदिरा-भुट्टो)"
+        },
+        {
+          "name": "असम अकॉर्ड",
+          "year": 1985
+        },
+        {
+          "name": "मिज़ो अकॉर्ड",
+          "year": 1986
+        },
+        {
+          "name": "माश्त्रीख्त ट्रीटी",
+          "year": 1993,
+          "formed": "यूरोपियन यूनियन"
+        }
+      ]
+    },
+    "unit_facts": {
+      "highest_marks_unit": "यूनिट 1 (20 मार्क्स) — एंड ऑफ बाइपोलैरिटी + पावर सेंटर्स + साउथ एशिया",
+      "second_highest": "यूनिट 5 (18 मार्क्स) — प्लांड डेवलपमेंट + फॉरेन रिलेशन्स + कांग्रेस सिस्टम",
+      "equal_weightage_sections": "खंड क (वर्ल्ड पॉलिटिक्स) = 50 मार्क्स, खंड ख (इंडियन पॉलिटिक्स) = 50 मार्क्स",
+      "most_LA_source_units": [
+        5,
+        6
+      ],
+      "most_MCQ_source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "easy_scoring_units": [
+        3,
+        2
+      ],
+      "analysis_heavy_units": [
+        5,
+        6
+      ],
+      "units_never_skip": [
+        5,
+        6,
+        4,
+        1
+      ],
+      "topics_repeat_every_year": [
+        {
+          "topic": "UN सिक्योरिटी काउंसिल परमानेंट मेंबर्स / रिफॉर्म",
+          "question_type": "MCQ/SA-I",
+          "marks": "1-5"
+        },
+        {
+          "topic": "पंचशील समझौता (चीन, 1954)",
+          "question_type": "MCQ/VSA",
+          "marks": "1-2"
+        },
+        {
+          "topic": "आपातकाल 1975 — कॉज़ेस/कॉन्सीक्वेंसेस",
+          "question_type": "LA",
+          "marks": 8
+        },
+        {
+          "topic": "नेहरू की फॉरेन पॉलिसी / NAM",
+          "question_type": "SA-II/LA",
+          "marks": "6-8"
+        },
+        {
+          "topic": "हरित क्रांति — पॉज़िटिव + नेगेटिव",
+          "question_type": "SA-I",
+          "marks": 5
+        },
+        {
+          "topic": "देशी रियासतों का विलय",
+          "question_type": "SA-II",
+          "marks": 6
+        },
+        {
+          "topic": "भारत-चीन/पाकिस्तान रिलेशन्स",
+          "question_type": "SA-II/LA",
+          "marks": "6-8"
+        },
+        {
+          "topic": "चिपको आंदोलन / एनवायरनमेंटल मूवमेंट्स",
+          "question_type": "SA-I",
+          "marks": 5
+        },
+        {
+          "topic": "मंडल कमीशन",
+          "question_type": "MCQ/VSA",
+          "marks": "1-2"
+        },
+        {
+          "topic": "BJP राइज़ / कोएलिशन पॉलिटिक्स",
+          "question_type": "SA-II",
+          "marks": 6
+        },
+        {
+          "topic": "कांग्रेस स्प्लिट 1969",
+          "question_type": "SA-II",
+          "marks": 6
+        },
+        {
+          "topic": "SAARC / SAFTA / रीजनल ऑर्गेनाइज़ेशन्स",
+          "question_type": "MCQ/SA-I",
+          "marks": "1-5"
+        },
+        {
+          "topic": "वैश्वीकरण कॉन्सीक्वेंसेस",
+          "question_type": "VSA/SA-I",
+          "marks": "2-5"
+        },
+        {
+          "topic": "ऑपरेशन ब्लू स्टार / पंजाब क्राइसिस",
+          "question_type": "VSA",
+          "marks": 2
+        },
+        {
+          "topic": "गांधी असैसिनेशन (गोडसे, 30 जन 1948)",
+          "question_type": "VSA",
+          "marks": 2
+        }
+      ]
+    },
+    "paper_objectives_weightage": {
+      "note": "यूपी बोर्ड ब्लूप्रिंट के हिसाब से क्वेश्चन्स इन तीन ऑब्जेक्टिव्स पर बनाए जाते हैं:",
+      "knowledge_based": {
+        "percent": 40,
+        "note": "फैक्ट्स, डेट्स, डेफिनिशन्स, नाम — याद करने वाले क्वेश्चन्स (MCQ, VSA में ज़्यादा)"
+      },
+      "understanding_based": {
+        "percent": 40,
+        "note": "कॉन्सेप्ट्स समझाना, कारण बताना, तुलना करना (शॉर्ट आंसर I/II में ज़्यादा)"
+      },
+      "application_based": {
+        "percent": 20,
+        "note": "एनालिसिस, इवैल्यूएशन, ओपिनियन विद जस्टिफिकेशन (लॉन्ग आंसर में ज़्यादा)"
+      }
+    },
+    "paper_difficulty_weightage": {
+      "easy_percent": 30,
+      "normal_percent": 50,
+      "hard_percent": 20,
+      "note": "बोर्ड ब्लूप्रिंट कन्फर्म करता है — 80% क्वेश्चन्स ईज़ी/नॉर्मल होते हैं। सिर्फ 20% टफ। अगर बेसिक NCERT + PYQ कर लिए तो 70+ मार्क्स ईज़िली आते हैं।"
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not typically applicable for Political Science.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not typically applicable for Political Science (humanities subject).",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Political Science",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Political Science",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Political Science — no practical.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "सेक्शन A (वर्ल्ड पॉलिटिक्स) और सेक्शन B (इंडियन पॉलिटिक्स) दोनों इक्वल वेटेज। इंडियन पॉलिटिक्स थोड़ी टफ होती है एनालिसिस के लिए, वर्ल्ड पॉलिटिक्स में फैक्ट्स ज़्यादा।",
+    "easy_percent": 30,
+    "medium_percent": 0,
+    "hard_percent": 20,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "सारे 10 MCQ अटेम्प्ट करो — नो नेगेटिव मार्किंग, गेसिंग अलाउड",
+      "VSA 1+1 फॉर्मैट वाले होते हैं — दोनों पार्ट्स का आंसर दो, हाफ क्रेडिट मत मिस करो",
+      "यूनिट 3 (वैश्वीकरण/पर्यावरण) = सबसे ईज़ी, ऑलमोस्ट गारंटीड स्कोरिंग",
+      "लॉन्ग आंसर (Q31/32) में दोनों पार्ट्स (4+4) अटेम्प्ट करो, एक भी छोड़ना मत",
+      "डेट्स और लीडर्स के नाम की लिस्ट अलग बनाओ — डायरेक्ट MCQ+VSA में आते हैं",
+      "आपातकाल (1975) का टॉपिक हर साल LA या SA-II में आता है — ज़रूर प्रिपेयर करो",
+      "फॉरेन पॉलिसी टॉपिक LA में कॉमन — नेहरू+NAM+पंचशील+1962 याद करो",
+      "हिंग्लिश चलेगा — हिंदी या इंग्लिश दोनों में लिख सकते हो, मिक्स भी अलाउड",
+      "प्रीवियस ईयर पेपर्स (2018-2025) ज़रूर सॉल्व करो — पैटर्न सेम रहता है",
+      "वर्ड लिमिट पार करने से मार्क्स कट नहीं, पर टाइम वेस्ट होता है — अप्रॉक्सिमेटली रखो",
+      "डायग्राम्स या फ्लोचार्ट्स बनाओ जहाँ पॉसिबल (फॉरेन रिलेशन्स टाइमलाइन, कोएलिशन पॉलिटिक्स)",
+      "आंसर नंबरिंग क्लियर रखना — Q no. + रोमन न्यूमरल (i), (ii) पार्ट्स के लिए"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "पेपर पढ़ो, 32 क्वेश्चन्स स्कैन करो। LA (Q31, Q32) के OR ऑप्शन्स में से ईज़ियर चूज़ कर लो। SA-II के टॉपिक्स देख लो।"
+      },
+      {
+        "section_id": "MCQ_Q1_to_Q10_15min",
+        "recommended_minutes": 0,
+        "note": "10 MCQ × 1.5 मिनट। सीधा ऑप्शन लिखना है। डाउट हो तो भी आंसर दो — नो नेगेटिव मार्किंग।"
+      },
+      {
+        "section_id": "VSA_Q11_to_Q20_25min",
+        "recommended_minutes": 0,
+        "note": "10 VSA × 2.5 मिनट। 1-लाइन आंसर्स, 1+1 फॉर्मैट आमतौर पर। डेट्स और नाम क्लियरली।"
+      },
+      {
+        "section_id": "SA_I_Q21_to_Q26_50min",
+        "recommended_minutes": 0,
+        "note": "6 क्वेश्चन्स × 8 मिनट। 50 शब्द, 5-7 लाइन्स। कॉन्सेप्ट + 3-4 पॉइंट्स + एग्ज़ांपल।"
+      },
+      {
+        "section_id": "SA_II_Q27_to_Q30_50min",
+        "recommended_minutes": 0,
+        "note": "4 क्वेश्चन्स × 12 मिनट। 100-125 शब्द। 3+3 स्प्लिट। पॉइंट्स को पैराग्राफ फॉर्मैट में लिखो।"
+      },
+      {
+        "section_id": "LA_Q31_Q32_40min",
+        "recommended_minutes": 0,
+        "note": "2 क्वेश्चन्स × 20 मिनट। 250 शब्द each। इंट्रो + बॉडी + कंक्लूज़न। OR वाइज़ली चूज़ करो।"
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "क्वेश्चन नंबर्स चेक करो, डेट्स वेरीफाई, स्पेलिंग ऑफ नेम्स (फॉरेन लीडर्स!), पेज नंबर्स क्लियर।"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 33",
+        "target_marks": 33,
+        "strategy": "10 MCQ (7-8) + 10 VSA (12-15) + 4 SA-I ईज़ी (15-18) = 34-40 मार्क्स पक्के",
+        "focus_chapters": [],
+        "focus_areas": [
+          "यूनिट 3 (वैश्वीकरण + पर्यावरण) — ईज़ी थ्योरी, डायरेक्ट क्वेश्चन्स",
+          "यूनिट 2 (अंतर्राष्ट्रीय संगठन) — UN फैक्ट्स, डेट्स, मेंबर्स — ईज़ी MCQ + VSA",
+          "यूनिट 4 (राष्ट्र-निर्माण) — गांधी, नेहरू, पटेल के फैक्चुअल पॉइंट्स",
+          "की डेट्स और लीडर्स याद करो — MCQ+VSA में डायरेक्टली आते हैं",
+          "सारे 10 MCQ अटेम्प्ट करो — नो नेगेटिव मार्किंग"
+        ],
+        "chapters_to_skip_safely": [
+          "यूनिट 5 फुल फॉरेन पॉलिसी LA",
+          "यूनिट 6 आपातकाल फुल एनालिसिस",
+          "कॉम्प्लेक्स रीजनल पॉलिटिक्स (नॉर्थईस्ट, पंजाब)"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "50",
+        "target_marks": 50,
+        "strategy": "MCQ फुल (9-10) + VSA फुल (17-20) + SA-I 4-5 (20-25) + 1 SA-II (5-6) = 51-61 मार्क्स",
+        "focus_chapters": [],
+        "focus_areas": [
+          "चिपको आंदोलन, हरित क्रांति, पंचायत राज (SA-I स्कोरिंग)",
+          "UN रिफॉर्म, इंडिया'ज़ क्लेम फॉर परमानेंट सीट (SA-I 5 मार्क्स पक्का)",
+          "यूनिट 4 — देशी रियासतों का विलय (SA-II 6 मार्क्स)",
+          "आपातकाल (1975) बेसिक कॉज़ेस (LA प्रिपेयर)",
+          "प्रीवियस ईयर पेपर्स लास्ट 5 ईयर्स सॉल्व करो"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "70 marks",
+        "target_marks": 70,
+        "strategy": "MCQ 10 + VSA 20 + SA-I फुल (25-30) + SA-II 3-4 (18-24) + 1 LA (6-8) = 75-90 मार्क्स",
+        "focus_chapters": [],
+        "focus_areas": [
+          "नेहरू की फॉरेन पॉलिसी डिटेल्ड (LA 8 मार्क्स)",
+          "आपातकाल 1975 — कॉज़ेस + कॉन्सीक्वेंसेस + इम्पैक्ट ऑन पॉलिटिक्स (LA 8 मार्क्स)",
+          "इंडिया के नेबर्स के साथ रिलेशन्स — पॉज़िटिव+नेगेटिव (LA 8 मार्क्स)",
+          "कांग्रेस स्प्लिट 1969 एनालिसिस (SA-II 6)",
+          "BJP राइज़ फैक्टर्स (SA-II 6)",
+          "EU vs ASEAN कंपेरिज़न (LA 8 मार्क्स — 4+4 स्प्लिट)",
+          "NDA/UPA कोएलिशन पॉलिटिक्स"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping 85",
+        "target_marks": 85,
+        "strategy": "सारे 32 क्वेश्चन्स में मैक्सिमम मार्क्स। दोनों LA परफेक्ट विद ओपिनियन + जस्टिफिकेशन।",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "250-वर्ड लॉन्ग आंसर्स में इंट्रोडक्शन + बॉडी + कंक्लूज़न स्ट्रक्चर",
+          "एग्ज़ांपल्स और डेट्स ज़रूर इन्क्लूड करो — मार्कर-फ्रेंडली",
+          "एप्लिकेशन-बेस्ड क्वेश्चन्स (20% वेटेज) प्रिपेयर करो — करंट अफेयर्स कनेक्ट करो",
+          "बोथ OR ऑप्शन्स कम्फर्टेबल होंगे ताकि चॉइस हो",
+          "रिवीज़न के लिए शॉर्ट नोट्स बनाओ",
+          "PYQ लास्ट 10 ईयर्स सॉल्व करो — पैटर्न्स रिपीट होते हैं"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [
+      "शीत युद्ध का अंत + सत्ता के समकालीन केंद्र + समकालीन दक्षिण एशिया (20 marks)",
+      "अंतर्राष्ट्रीय संगठन + समकालीन विश्व में सुरक्षा (15 marks)",
+      "पर्यावरण और प्राकृतिक संसाधन + वैश्वीकरण (15 marks)",
+      "राष्ट्र-निर्माण की चुनौतियाँ + एक दल के प्रभुत्व का दौर (16 marks)",
+      "नियोजित विकास की राजनीति + भारत के विदेश संबंध + कांग्रेस प्रणाली (18 marks)",
+      "लोकतांत्रिक व्यवस्था का संकट + क्षेत्रीय आकांक्षाएँ + भारतीय राजनीति: नए बदलाव (16 marks)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "समकालीन विश्व राजनीति (NCERT क्लास 12 पार्ट A)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "सेक्शन A (खंड क) के 50 मार्क्स का बेस। सब 9 चैप्टर्स ज़रूर पढ़ो।"
+      },
+      {
+        "name": "स्वतंत्रता के बाद भारतीय राजनीति (NCERT क्लास 12 पार्ट B)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "सेक्शन B (खंड ख) के 50 मार्क्स का बेस। सब 9 चैप्टर्स ज़रूर पढ़ो।"
+      },
+      {
+        "name": "यूपी बोर्ड नागरिक शास्त्र क्लास 12 (हिंदी मीडियम ऑफिशियल टेक्स्टबुक)",
+        "author": "",
+        "publisher": "UPMSP प्रिस्क्राइब्ड",
+        "purpose": "Primary",
+        "note": "हिंदी मीडियम स्टूडेंट्स के लिए NCERT का हिंदी ट्रांसलेशन। क्वेश्चन्स फॉर्मैट इसी से मैच करते हैं।"
+      },
+      {
+        "name": "प्रीवियस ईयर पेपर्स 2018-2025 (यूपी बोर्ड)",
+        "author": "",
+        "publisher": "UPMSP ऑफिशियल",
+        "purpose": "Supplementary",
+        "note": "upmsp.edu.in से डाउनलोड करो। सेम क्वेश्चन्स रिपीट होते हैं — एस्पेशियली VSA और MCQ।"
+      },
+      {
+        "name": "यूपी बोर्ड मॉडल पेपर 2026",
+        "author": "",
+        "publisher": "UPMSP ऑफिशियल",
+        "purpose": "Supplementary",
+        "note": "ऑफिशियल मॉडल पेपर upmsp.edu.in से मिलता है।"
+      },
+      {
+        "name": "नूतन / नवबोध / उपकार नागरिक शास्त्र गाइड (क्लास 12)",
+        "author": "",
+        "publisher": "वेरियस UP पब्लिशर्स",
+        "purpose": "Supplementary",
+        "note": "एडिशनल सॉल्व्ड क्वेश्चन्स, चैप्टर-वाइज़ टेस्ट्स। रेफरेंस बुक के लिए हेल्पफुल।"
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 मिनट रीडिंग टाइम मिलता है — इस टाइम में सिर्फ पेपर पढ़ो, आंसर्स लिखना नहीं।"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "set_number_compulsory: True",
+      "reading_time_note: 15 मिनट रीडिंग टाइम में सिर्फ पेपर पढ़ो — लिखना नहीं।",
+      "sequence_compulsory: False",
+      "sequence_note: क्वेश्चन्स किसी भी ऑर्डर में अटेम्प्ट कर सकते हो, बस Q no. क्लियरली लिखो।",
+      "language_rule: हिंदी, इंग्लिश, या हिंग्लिश में लिख सकते हो। सेम क्वेश्चन के पार्ट्स कंसिस्टेंट रखो।",
+      "no_negative_marking: True",
+      "mcq_attempt_all: नो नेगेटिव मार्किंग — सारे 10 MCQ अटेम्प्ट करो",
+      "vsa_both_parts: VSA में 1+1 फॉर्मैट के दोनों पार्ट्स अटेम्प्ट करो — हाफ मार्क्स लेने से बेटर फुल मार्क्स",
+      "long_answer_both_parts: LA 8 मार्क्स = 4+4। दोनों पार्ट्स अटेम्प्ट करो — एक पार्ट छोड़ने से 4 मार्क्स डायरेक्ट कट"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['ब्लू', 'ब्लैक'] pencil_use: सिर्फ मैप्स/डायग्राम्स/टाइमलाइन के लिए। आंसर्स पेन से लिखना ज़रूरी। note: रेड/ग्रीन पेन सिर्फ टीचर्स यूज़ करते हैं — स्टूडेंट्स के लिए अलाउड नहीं।"
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "word_limit_strict: False word_limit_note: वर्ड लिमिट अप्रॉक्सिमेट है — 10-15% अप/डाउन चलता है। पर ज़्यादा भी मत लिखो (टाइम वेस्ट)। paragraph_format: SA-II और LA में पैराग्राफ फॉर्मैट। बुलेट पॉइंट्स अवॉइड करो जब तक एक्सप्लिसिटली न पूछा जाए। headings: लॉन्ग आंसर्स में सब-हेडिंग्स ठीक हैं — कंटेंट ऑर्गेनाइज़्ड दिखता है dates_and_names: डेट्स, प्रॉपर नाउन्स, कंट्री नेम्स, ट्रीटी नेम्स क्लियरली लिखो — मार्कर के लिए ईज़ी हो partial_marking: True partial_marking_note: इनकम्प्लीट आंसर्स पर भी पार्शियल मार्क्स मिलते हैं — कुछ न कुछ ज़रूर लिखो",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

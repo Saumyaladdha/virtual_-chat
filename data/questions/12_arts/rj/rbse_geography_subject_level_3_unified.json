@@ -1,0 +1,2217 @@
+{
+  "board": "RBSE",
+  "class": "12",
+  "subject": "Geography (Bhugol)",
+  "subject_code": "SS-14 Geog.",
+  "exam_year": "2026-27",
+  "marks_structure": {
+    "theory_paper": 56,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": "Theory mein 33% = approximately 19 marks laane zaroori. RBSE pass criteria 33% hai.",
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": false,
+    "extra_time_note": "15 minute reading time + 10 minute internal revision time — dono mein likhna nahi, sirf plan karo.",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 18,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "RBSE mein multiple sets/booklet numbers hote hain (e.g., SS-14-Geog. in 2023-26). Har set mein same questions, order alag.",
+    "sets_same_or_different": "",
+    "language_of_attempt": "Hindi ya English dono allowed. Paper bilingual aata hai (Hindi + English both printed). Note: Hindi-English mein kahin antar ho toh Hindi version sahi maana jayega (official rule).",
+    "all_compulsory_note": "Internal choice (OR / Athva) sirf Section C (Q12-14) aur Section D (Q15-16) mein milta hai.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "RBSE Geography Class 12 ka syllabus NCERT 'Fundamentals of Human Geography', 'India: People and Economy', aur 'Practical Work in Geography II' par based hai. SP Examination Idea Bhugol (Science Publications, Jaipur) bhi zaroor solve karo.",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "RBSE Class 12 Bhugol mein 7 types ke questions: MCQ (0.5), Fill blanks (0.5), VSA (1), SA (1.5), LA (3), Essay (4), Map (2). Total = 56 marks, 18 questions (Q1-Q3 mein kai sub-parts hote hain).",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (Bahuvikalpatmak / Objective)",
+        "question_number": "",
+        "section": "A (Q1)",
+        "marks_each": 0.5,
+        "total_in_paper": 18,
+        "attempt": 18,
+        "negative_marking": false,
+        "how_to_attempt": "Sirf correct option (A/B/C/D ya अ/ब/स/द) likhna. No explanation. 0.5 mark ke liye time waste mat karo.",
+        "mostly_from": "Geographers ke naam (Ratzel, Blache, Taylor, Semple), definitions, economic activities, agriculture types, minerals, ports, census facts, industries classification.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Fill in the Blanks (Rikta Sthan)",
+        "question_number": "",
+        "section": "A (Q2)",
+        "marks_each": 0.5,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "Ek shabd, ek naam, ek sankhya ya ek naam likhna. Spelling sahi zaroori.",
+        "mostly_from": "Specific terms, geographers, industry types, agriculture specialties, census data, schemes.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Very Short Answer (Ati Laghuuttaratmak / VSA)",
+        "question_number": "",
+        "section": "A (Q3)",
+        "marks_each": 1,
+        "total_in_paper": 9,
+        "attempt": 9,
+        "negative_marking": false,
+        "how_to_attempt": "Definition, formula, ek-do line ka answer. 1+1 format ho toh dono parts likho. Kuch VSA mein 2×½ split hota hai — dono sub-parts answer karo.",
+        "mostly_from": "Definitions (HDI, population density, shifting agriculture), reasons (why sluice gates in Panama), components (of population growth), names of ores.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Lagbhag 20 shabd (ek vakya ya ek line)",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer (Laghuuttaratmak)",
+        "question_number": "",
+        "section": "B (Q4-Q11)",
+        "marks_each": 1.5,
+        "total_in_paper": 8,
+        "attempt": 8,
+        "negative_marking": false,
+        "how_to_attempt": "Concept + 2-3 points + example. 1.5 marks = 3 key points ya 2×¾ format (do parts).",
+        "mostly_from": "Brief explanations, comparisons, advantages/disadvantages, reasons — from all 12 content chapters.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Lagbhag 50 shabd (4-5 lines)",
+        "notes": ""
+      },
+      {
+        "type": "Long Answer (Deergh Uttareeya)",
+        "question_number": "",
+        "section": "C (Q12-Q14)",
+        "marks_each": 3,
+        "total_in_paper": 3,
+        "attempt": 3,
+        "negative_marking": false,
+        "how_to_attempt": "Introduction (½) + main points 3-4 (2) + example/conclusion (½). Diagrams bana sakte ho.",
+        "mostly_from": "Characteristics, classifications, process explanations — examples ke saath.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Lagbhag 100 shabd (10-12 lines)",
+        "notes": ""
+      },
+      {
+        "type": "Essay Type (Nibandhatmak)",
+        "question_number": "",
+        "section": "D (Q15-Q16)",
+        "marks_each": 4,
+        "total_in_paper": 2,
+        "attempt": 2,
+        "negative_marking": false,
+        "how_to_attempt": "Introduction (½) + 4 main points with sub-points (3) + diagram/example (¼) + conclusion (¼). Paragraph format.",
+        "mostly_from": "Industries characteristics, water management, agriculture types, large topics requiring detailed treatment.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Lagbhag 150-200 shabd (20-25 lines)",
+        "notes": ""
+      },
+      {
+        "type": "Map Work (Manchitra Karya)",
+        "question_number": "",
+        "section": "E (Q17-Q18)",
+        "marks_each": 2,
+        "total_in_paper": 2,
+        "attempt": 2,
+        "negative_marking": false,
+        "how_to_attempt": "Pencil se pehle mark karo, phir blue pen se naam likho. Arrow se point show karo. Outline map question-paper ke saath milta hai, use answer-book ke saath nathhi karo.",
+        "mostly_from": [
+          "World map: Sea ports (Mumbai, Sydney, Cape Town, Hong Kong, Perth, Rotterdam, Singapore, New York, Vancouver, Colombo, San Francisco)",
+          "World map: Airports (Mumbai, Chicago, London, Sydney, New York, Cape Town)",
+          "India map: Iron-steel centres (Jamshedpur, Salem, Vijaynagar, Vishakhapatnam, Bhilai, Bhadrawati)",
+          "India map: Iron ore mines (Ratnagiri, Durg, Bailadila, Ballari, Mayurbhanj)",
+          "India map: Oil refineries (Koyali, Bina, Mangaluru, Chennai, Mathura)",
+          "India map: Ports (Kandla, Kolkata, Paradip, Vishakhapatnam, Chennai, Mumbai, Marmagao, JNPT)"
+        ],
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "RBSE Geography theory paper = 56 marks. 5 sections. 18 questions. Duration: 3 hours 15 minutes (15 min reading + 10 min revision extra). Bilingual (Hindi+English).",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Internal choice (OR / Athva) sirf Section C (Q12-14) aur Section D (Q15-16) mein milta hai.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 0,
+      "medium_percent": 0,
+      "hard_percent": 0,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "by_question_type_2026_pattern",
+        "name": "by question type 2026 pattern",
+        "type": "by_question_type_2026_pattern",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "old_blueprint_2018_2023_pattern",
+        "name": "old blueprint 2018 2023 pattern",
+        "type": "old_blueprint_2018_2023_pattern",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "Purana pattern (GEOGRAPHY_RAJASTHAN_BOARD.pdf ke blueprint ke hisaab se), 2023 tak use hota tha.",
+        "notes": "Purana pattern (GEOGRAPHY_RAJASTHAN_BOARD.pdf ke blueprint ke hisaab se), 2023 tak use hota tha."
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 56,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "by_question_type_2026_pattern",
+        "name": "by question type 2026 pattern",
+        "question_numbers": "",
+        "type": "by_question_type_2026_pattern",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "old_blueprint_2018_2023_pattern",
+        "name": "old blueprint 2018 2023 pattern",
+        "question_numbers": "",
+        "type": "old_blueprint_2018_2023_pattern",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "Purana pattern (GEOGRAPHY_RAJASTHAN_BOARD.pdf ke blueprint ke hisaab se), 2023 tak use hota tha."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 56,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "2",
+      "name": "Vishv ki Jansankhya (World Population)",
+      "marks": 6,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "6",
+        "name": "Paryavaran (Environment)",
+        "marks": 2
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Manav Bhugol ka Parichay (Introduction to Human Geography)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "Vishv ki Jansankhya (World Population)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "Vishv mein Manav Adhivas (Human Settlements in World)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "Vishv mein Manav Vyavasay (Human Occupations in World)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "Vishv mein Parivahan, Sanchar evam Vyapar (Transport, Communication & Trade)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "Paryavaran (Environment)",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "Manchitra Karya — Vishv (World Map Work)",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "name": "Bharat Jansankhya (India Population)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "name": "Sansadhan (Resources)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "10",
+        "name": "Krishi, Vinirman, Udyog, Parivahan (Agriculture, Manufacturing, Industries, Transport — India)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "11",
+        "name": "Vikas evam Niyojan (Development & Planning)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "name": "Jansankhya evam Arthvyavastha — Rajasthan (Population & Economy of Rajasthan)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "13",
+        "name": "Manchitra Karya — Bharat (India Map Work)",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "name": "Manchitra Karya — Rajasthan (Rajasthan Map Work)",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 56,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Geography Class 12 — 14 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Geography",
+        "category": "Main",
+        "total_marks": 56,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Manav Bhugol ka Parichay (Introduction to Human Geography)",
+            "marks": 4,
+            "topics": [
+              "Manav bhugol ki prakriti — synthesized study of relations between human societies and earth's surface",
+              "Vidal de la Blache ki paribhasha",
+              "Manav bhugol ki upshakhayen (sub-fields): Social, Cultural, Economic, Political, Urban, Behavioral, Medical, Military, Gender, Electoral, Resource, Historical geography",
+              "Manav bhugol ke uppagam (approaches): Determinism (Ratzel), Possibilism (Vidal de la Blache), Neo-determinism / Stop-and-go determinism (Griffith Taylor)",
+              "Manav bhugol ka vikas — paramparik, kalyankari, vyavahari, rasikavad (Radicalism), manavtavad, naari-vaad (Feminism)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "Vishv ki Jansankhya (World Population)",
+            "marks": 6,
+            "topics": [
+              "Jansankhya ka vitaran (distribution) — bhautik (physical), aarthik (economic), saamajik-saanskritik (socio-cultural) karan",
+              "Jansankhya ghanatva (population density) = persons per unit area",
+              "Jansankhya vriddhi (growth) ke ghatak — janam dar, mrityu dar, pravasan (migration)",
+              "Pravasan (migration) — pratikarsh karak (push factors: unemployment, disasters) aur aakarsh karak (pull factors: better opportunities, amenities)",
+              "Jansankhya sankraman siddhant (Demographic Transition Theory) — 3 avasthaayen (stages)",
+              "Avastha 1: High fertility, high mortality",
+              "Avastha 2: High fertility, declining mortality (rapid growth)",
+              "Avastha 3: Low fertility, low mortality (stable)",
+              "Kaaryasheel (working) jansankhya — 15-59 aayu varg",
+              "Manav Vikas (Human Development) — Prof. Mahbub-ul-Haq ki sankalpana",
+              "HDI ke teen tatva: Lambi aayu (life expectancy), gyan (knowledge/literacy), uchch jeevan-star (standard of living)",
+              "UNDP dwara HDR (Human Development Report) har saal prakashit",
+              "Manav vikas ke upagam: Aay (income), kalyan (welfare), mulbhoot aavshyaktaayen (basic needs), samarthya (capability — Amartya Sen)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "Vishv mein Manav Adhivas (Human Settlements in World)",
+            "marks": 4,
+            "topics": [
+              "Adhivas ke prakar: Grameen (rural) aur Nagariya (urban)",
+              "Grameen adhivas ke pratiroop (patterns): Rekhiy (linear), Aayaatakaar (rectangular), Vritaakaar (circular), Teer-tara (arrow-star), Shatrunj (chess), Sheershasthaan",
+              "Nagariya adhivas ki visheshtayen: Vishal aakaar, prashasakiya karya, adhik jansankhya, gair-krishi karya",
+              "Bastiyon ke prakar: Gucchit (clustered/compact), Ardh-gucchit (semi-clustered), Palliyon (hamleted), Praknirinit (dispersed)",
+              "Palli bastiyon ke sthaniya naam: Panna, Para, Palli, Nagla, Dhani (Bharat mein)",
+              "Nagariya kendron ke prakar: Mahanagar (>10 lakh jansankhya), Megalopolis, Million city, Conurbation",
+              "Ganday basti (slums) — leaning buildings, unhealthy conditions, no sanitation",
+              "Garrison nagar — sainik chhawniyan (cantonments). Udaharan: Ambala, Mhow, Jalandhar",
+              "Gantis (urban settlements) ka vikas — prachin kaal se (pracheen kaal, madhyakal, adhunik)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "Vishv mein Manav Vyavasay (Human Occupations in World)",
+            "marks": 6,
+            "topics": [
+              "Aarthik kriyaayen (economic activities) — 5 types:",
+              "1. Prathamik (Primary) — prakriti par nirbhar: krishi, pashupalan, khanan, matsyapalan, vanikii",
+              "2. Dwityak (Secondary) — raw material ko valuable products mein convert karna: manufacturing, construction",
+              "3. Tritiyak (Tertiary) — services: parivahan, sanchar, vyapar, bank, shiksha",
+              "4. Chaturthak (Quaternary) — knowledge-based: research, IT, consultancy",
+              "5. Pancham (Quinary) — highest-level decision making: CEO-level, researchers, senior officials",
+              "Krishi ke prakar: Sthanantarit (shifting), Chalvaasi pashucharan (nomadic herding), Vistrit vanijya anaj krishi (extensive commercial grain farming), Misshrit krishi (mixed farming), Ropan krishi (plantation), Bhumadhyasagariya krishi (Mediterranean), Nirvah krishi (subsistence), Vanijya krishi (commercial)",
+              "Sthanantarit krishi ke naam: Jhuming (NE India), Milpa (Mexico), Roca (Brazil), Ladang (Malaysia/Indonesia), Kumari (Sri Lanka)",
+              "Udyogon ke prakar — aakar ke aadhaar par: Cottage (kutir), Small-scale, Large-scale",
+              "Raw-material ke aadhaar par: Krishi-based, Khanij-based, Pashu-based, Van-based",
+              "Swachhand (Foot-loose) udyog — kahin bhi sthapit kiye ja sakte hain, specific location ki zaroorat nahi",
+              "High-tech udyog — manufacturing ki latest generation, knowledge-intensive"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "Vishv mein Parivahan, Sanchar evam Vyapar (Transport, Communication & Trade)",
+            "marks": 4,
+            "topics": [
+              "Parivahan (transport) ke sadhan: Sadak (road), Rail, Jal (water), Vayu (air), Pipeline",
+              "Sabse sadhan rail tantra: Europe (Ghana/densest)",
+              "Bade Trunk Marg (Big Trunk Route) — North Atlantic sea route (vishvatam/busiest trade route)",
+              "Pattanon ke prakar: Samudri (sea), Ferry (feri), Packet station, Entrepot (antrepo), Naval, Port of call",
+              "Antrepot pattan: Maal re-exported hota hai. Udaharan: Singapore (Asia), Rotterdam (Europe), Copenhagen",
+              "Panama Nahar (1914) — North Atlantic aur North Pacific ko jodti. Sluice gates/locks system. Distance reduction.",
+              "Swej Nahar (Suez Canal, 1869) — Mediterranean aur Red Sea ko jodti. No locks (sea-level canal).",
+              "Aantrik jal-marg (Inland waterways): Great Lakes (North America), Rhine (Europe), Danube (Europe), Volga (Russia), Mississippi (USA), Ganga (India)",
+              "Sanchar ke sadhan — tar, morse code, telex, internet, cyber space",
+              "Cyber space — computer-aided communication via WWW",
+              "E-mail, e-commerce, e-education, e-governance",
+              "Vyapar ke prakar: Dwipakshiy (Bilateral), Bahupakshiy (Multilateral)",
+              "Antarrashtriya vyapar ke sansthan: GATT (1947-1994), WTO (1995-), UNCTAD",
+              "GATT ka WTO mein roopantaran: 1 January 1995",
+              "WTO ka mukhyalay: Geneva, Switzerland"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "Paryavaran (Environment)",
+            "marks": 2,
+            "topics": [
+              "Paryavaran pradushan (environmental pollution) — vayu, jal, dhvani, bhumi, mahasagariya (marine), visphotak (nuclear)",
+              "Pradushan sthaan-vishishth (location-specific): Vayu pradushan, Dhvani pradushan, Bhu-pradushan. Jal pradushan flows.",
+              "Amliya varsha (acid rain) — CO2, SO2, NO2 gases jal ke saath milkar pH <7 barsati hai",
+              "Bharat ki nadiyon mein pradushan ka mukhya strot: Jaiv aur jeevanavik sandushan (organic and bacterial contamination)",
+              "Udyog jo jal pradushan karte hain: Chamda (leather), Lugdi aur kagaz (pulp & paper), Vastra (textile), Rasayan (chemical)",
+              "Sustainable development (Satat poshaniya vikas) — Brundtland Report (1987)",
+              "Sustainable development ke upay: resource conservation, renewable energy, recycling, population control"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "Manchitra Karya — Vishv (World Map Work)",
+            "marks": 2,
+            "topics": [
+              "World outline map par ankan",
+              "Samudri pattan (sea ports): Mumbai, New York, Sydney, Cape Town, Hong Kong, Perth, Rotterdam, Singapore, San Francisco, Vancouver, Colombo, London, Shanghai",
+              "Hawaii pattan (airports): Mumbai, New York, London, Sydney, Chicago, Cape Town, Tokyo",
+              "Pramukh samudri marg: North Atlantic, North Pacific, Mediterranean-Suez",
+              "Pramukh nahar: Suez, Panama",
+              "Pramukh antrik jalmarg: Great Lakes (N. America), Rhine, Mississippi"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "Bharat Jansankhya (India Population)",
+            "marks": 5,
+            "topics": [
+              "Bharat ki jansankhya — 2011 Census ke hisaab se 121.08 crore",
+              "Bharat ki pehli jansankhya ganana (census): 1872",
+              "Regular decennial census shuruaat: 1881",
+              "Rnatmak (negative) growth wala dashak: 1911-1921 (influenza mahamari, famine)",
+              "Bharat ka shetrafal: 32,87,263 varg km (world's 7th largest)",
+              "Jansankhya ghanatva (2011): 382 persons/sq km",
+              "Sarvadhik jansankhya ghanatva wala rajya (2011): Bihar (1106 persons/sq km)",
+              "Dwitiya sarvadhik: West Bengal (1028) / Kerala earlier",
+              "Nimun-tam ghanatva: Arunachal Pradesh",
+              "Ling-anupaat (sex ratio) — 2011: 940 females/1000 males",
+              "Pravasan ki dhaaraayen: Grameen se grameen, grameen se nagariya, nagariya se nagariya, nagariya se grameen",
+              "Nagariya jansankhya vriddhi ke karan: Shiksha prasaar, audyogikaran, nagarikaran, parivahan-sanchar, gaonvon ki apeksha adhik suvidha",
+              "Nagariya jansankhya vriddhi 2011-2021 mein sabse kam: Kerala",
+              "Pradhanmantri Awaas Yojana — housing scheme",
+              "Beti Bachao Beti Padhao — linganupat improvement ke liye",
+              "Shramik (worker) categories 2011: Mukhya (main), Sehaayak (marginal), Gair-shramik (non-workers)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "Sansadhan (Resources)",
+            "marks": 5,
+            "topics": [
+              "Sansadhan ke prakar: Paramparik (conventional) aur Aparamparik (non-conventional)",
+              "Paramparik: Koyla, petrol, natural gas, jal-vidyut",
+              "Aparamparik: Saur urja (solar), Pavan urja (wind), Bio-urja, Bhu-taapiya (geothermal), Jwaariya (tidal)",
+              "Nav-karniya (renewable): Saur, pavan, jal, van, pashu, manav",
+              "Anav-karniya (non-renewable): Koyla, petroleum, natural gas, khanij",
+              "Bharat ki khanij patiyan (mineral belts):",
+              "1. Uttar-Purvi patti (NE): Chhota Nagpur plateau — koyla, loha, manganese",
+              "2. Dakshin-Purvi patti (SE): Karnataka-Tamil Nadu — loha, manganese",
+              "3. Dakshin-Paschimi patti (SW): Gujarat-Maharashtra — petroleum, oil",
+              "4. Uttar-Paschimi patti (NW): Rajasthan-Gujarat — copper, zinc",
+              "Loha ayask (iron ore) ke prakar: Hematite, Magnetite, Limonite, Siderite",
+              "Hematite aur Magnetite: Loha ke ayask",
+              "Bauxite: Aluminium ka ayask",
+              "Bharat mein koyla nirman hua: Gondwana aur Tertiary bhuvigyaniy kaal (geological periods)",
+              "Parmaanu Urja Aayog (Atomic Energy Commission): Sthapana 1948",
+              "Punkaran (Recycling) — dhatuon ke scrap, katran ko piglakar punn: upyog",
+              "Van sansadhan ka mahatva: Sabhyata vikas, shuskta rokthaam, marusthali vistar rokna, rojgar, Van Rashtriy Sampatti"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "Krishi, Vinirman, Udyog, Parivahan (Agriculture, Manufacturing, Industries, Transport — India)",
+            "marks": 5,
+            "topics": [
+              "Bharatiya krishi ke prakar: Nirvah krishi (subsistence), Vanijya krishi (commercial), Ropan (plantation), Shushkabhumi (dry-land), Ardraabhumi (wet-land), Misshrit (mixed)",
+              "Krishi pratiroop: Kharif (monsoon ke saath — rice, bajra, jowar, cotton, sugarcane), Rabi (winter — wheat, mustard, gram, barley), Zaid (summer — watermelon, cucumber)",
+              "Shushka bhumi krishi (dry land farming): <75 cm rainfall areas; bajra, jowar, moong, gram",
+              "Bharat ki krishi ki samasyayen: Chhote farm, monsoon dependence, technology ki kami, subsidies issue, market problems, land degradation",
+              "Krishi mein takniki vikas: Harit kranti (Green Revolution) 1960s, HYV seeds, fertilizers, irrigation, mechanization",
+              "Bharatiya udyog ke prakar — aakar par: Bada (large), Madhyam (medium), Chhota/laghu (small), Kutir (cottage)",
+              "Kutir udyog visheshta: Sadharan auzaron dwara paarivarik star par utpaadan",
+              "Swachhand (foot-loose) udyog: kahin bhi",
+              "Aadhaarbhoot udyog: Lauh-ispaat (iron-steel)",
+              "Bharat ki pehli safal modern cotton mill: Bombay/Mumbai (1854)",
+              "Fruit processing, confectioneries: Food processing industry",
+              "Parivahan ke sadhan: Sadak (road), Rail, Jal (water), Vayu (air), Pipeline",
+              "Bharat ke sadak jaal ka vishv mein sthaan: Dusra (2nd largest, after USA)",
+              "Rashtriya Rajmarg (National Highway): Kendra sarkar dwara nirmit v anurakshit",
+              "Border Road Organisation (BRO): Sainik drishti se mahatva poorn sadak",
+              "Rail patri ki chaudai: Broad gauge (1.676m), Meter gauge (1m), Narrow gauge (0.762m), Light narrow (0.610m)",
+              "Pipeline: Liquid aur gaseous padarth (jal, petrol, natural gas)",
+              "Nagpur Yojana: Sadak parivahan (1943 plan)",
+              "Samudri pattan (sea ports): Kutch ki khadi ke muhane par — Kandla",
+              "Mumbai port ka dabaav kam karne ke liye: Jawaharlal Nehru Port (JNPT) banaya gaya"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "Vikas evam Niyojan (Development & Planning)",
+            "marks": 4,
+            "topics": [
+              "Vikas ka matlab: Guna-atmak (qualitative) parivartan, sirf quantitative nahi",
+              "Niyojan (planning) — uddeshy-prapti ke liye resources ka vyavasthit upyog",
+              "Pradeshik niyojan (regional planning) — specific region ke liye",
+              "Bharat mein pradeshik asantulan (regional imbalance) — North-South, urban-rural, developed-underdeveloped states",
+              "Pahadi kshetron ke liye vikas upay: Sadkein, shiksha, swasthya, paryatan vikas, krishi-vanikii, ecotourism",
+              "Drought Prone Area Programme (DPAP): Fourth Five Year Plan (1969-74) mein shuru",
+              "Jhabua zila (Madhya Pradesh) — bhu-nirmnikaran (land degradation) case study",
+              "Bhu-nirmnikaran rokne ke upay: vanrodhan (afforestation), contour farming, terracing, check dams, watershed management",
+              "Van kshetra, gair-krishi karya aur parti bhumi mein vriddhi ke karan: urbanization, industrial expansion, forest conservation policies, fallow land allowed",
+              "Sustainable development ke upay: Resource conservation, renewable energy, population control, organic farming",
+              "Vikas ko prabhavit karne wale arth-vyavastha parivartan: Primary to secondary shift, urbanization, industrialization, services sector growth",
+              "Bharat mein paryatan ke laabh: Rojgar, vidhesh mudra, sanskritik aadan-pradan, kshetriya vikas",
+              "Paryatan ko prabhavit karne wale karak: Jalvayu, prakritik sundarta, aitihasik sthal, suvidhayen, suraksha"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "Jansankhya evam Arthvyavastha — Rajasthan (Population & Economy of Rajasthan)",
+            "marks": 5,
+            "topics": [
+              "Rajasthan ki jansankhya — 2011 Census: 6.86 crore (6.89% of India)",
+              "Rajasthan ka kshetrafal: 3,42,239 varg km (largest state by area)",
+              "Ling-anupaat Rajasthan 2011: 928 — Bharat avg (940) se kam",
+              "Rajasthan mein linganupaat kam hone ke karan: Pitrasattatmak (patriarchal) parivaar, putra ko prathamikta (son preference), baal-vivaah (child marriage), matritva bojh (maternal burden), dahej ke liye hatya (dowry deaths), khaan-paan v swasthya seva mein kami, shiksha ki kami",
+              "Rajasthan ki krishi: Shushk-ardh shushk kshetra, monsoon par nirbhar",
+              "Rajasthan ki fasal: Kharif (bajra, jowar, gwar, cotton, groundnut), Rabi (gehun, chana, sarso, jau)",
+              "Rajasthan ki Dairy Industry — Sahakaari samitiyon ka network, Saras (RCDF), milk-based products",
+              "Dairy vikas ke upay: Sahakaari samitiyan, pashu-nasl sudhar, sheetgruh (cold storage), grameen parivaron ko poonji, saral vitran",
+              "Rajasthan mein sinchai ki sthiti: IGNP, tubewell, nehar, kuan",
+              "Indira Gandhi Nahar Pariyojana (IGNP) — vastavik nirman 1958, Kanwar Sen ne sankalpana di",
+              "IGNP Rajasthan ke 7 zilon ko sinchit karti hai — marubhumi ko haraabhara kiya",
+              "Aravari Pani Sansad: Rajasthan ki jal-sambhar (watershed) prabandhan yojana",
+              "Jal sanrakshan ke upay: Boond-boond sinchai (drip), yojana ka prabhavi kriyanvayan, anicut (check dam) nirman, watershed development",
+              "Haryali — Kendra sarkar dwara prayojit jal sambhar (watershed) vikas yojana",
+              "Rajasthan ke pramukh udyog: Vastra (Bhilwara), cement, sugar, marble, khanan",
+              "Pramukh khanij: Makrana marble, zinc (Zawar), copper (Khetri), limestone, gypsum"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "Manchitra Karya — Bharat (India Map Work)",
+            "marks": 2,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "14",
+            "name": "Manchitra Karya — Rajasthan (Rajasthan Map Work)",
+            "marks": 2,
+            "topics": [],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Manav Bhugol ka Parichay (Introduction to Human Geography)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 1,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Manav bhugol ki prakriti — synthesized study of relations between human societies and earth's surface",
+        "Vidal de la Blache ki paribhasha",
+        "Manav bhugol ki upshakhayen (sub-fields): Social, Cultural, Economic, Political, Urban, Behavioral, Medical, Military, Gender, Electoral, Resource, Historical geography",
+        "Manav bhugol ke uppagam (approaches): Determinism (Ratzel), Possibilism (Vidal de la Blache), Neo-determinism / Stop-and-go determinism (Griffith Taylor)",
+        "Manav bhugol ka vikas — paramparik, kalyankari, vyavahari, rasikavad (Radicalism), manavtavad, naari-vaad (Feminism)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Sambhavvaad ke prantha kaun? (MCQ), Blache ki paribhasha (MCQ/VSA), Ratzel vs Blache (SA), Neo-determinism ki vyakhya (SA 1.5), Marxian theory based school (VSA), Economic geography ka upshetra (MCQ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Vishv ki Jansankhya (World Population)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 2,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Jansankhya ka vitaran (distribution) — bhautik (physical), aarthik (economic), saamajik-saanskritik (socio-cultural) karan",
+        "Jansankhya ghanatva (population density) = persons per unit area",
+        "Jansankhya vriddhi (growth) ke ghatak — janam dar, mrityu dar, pravasan (migration)",
+        "Pravasan (migration) — pratikarsh karak (push factors: unemployment, disasters) aur aakarsh karak (pull factors: better opportunities, amenities)",
+        "Jansankhya sankraman siddhant (Demographic Transition Theory) — 3 avasthaayen (stages)",
+        "Avastha 1: High fertility, high mortality",
+        "Avastha 2: High fertility, declining mortality (rapid growth)",
+        "Avastha 3: Low fertility, low mortality (stable)",
+        "Kaaryasheel (working) jansankhya — 15-59 aayu varg",
+        "Manav Vikas (Human Development) — Prof. Mahbub-ul-Haq ki sankalpana",
+        "HDI ke teen tatva: Lambi aayu (life expectancy), gyan (knowledge/literacy), uchch jeevan-star (standard of living)",
+        "UNDP dwara HDR (Human Development Report) har saal prakashit",
+        "Manav vikas ke upagam: Aay (income), kalyan (welfare), mulbhoot aavshyaktaayen (basic needs), samarthya (capability — Amartya Sen)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Jansankhya ghanatva aur vitaran ka difference (Essay 4), Pravasan ke karan (SA/VSA), HDI kisne di (MCQ), Demographic transition stages (fill blank), Working population (VSA)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Vishv mein Manav Adhivas (Human Settlements in World)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 3,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Adhivas ke prakar: Grameen (rural) aur Nagariya (urban)",
+        "Grameen adhivas ke pratiroop (patterns): Rekhiy (linear), Aayaatakaar (rectangular), Vritaakaar (circular), Teer-tara (arrow-star), Shatrunj (chess), Sheershasthaan",
+        "Nagariya adhivas ki visheshtayen: Vishal aakaar, prashasakiya karya, adhik jansankhya, gair-krishi karya",
+        "Bastiyon ke prakar: Gucchit (clustered/compact), Ardh-gucchit (semi-clustered), Palliyon (hamleted), Praknirinit (dispersed)",
+        "Palli bastiyon ke sthaniya naam: Panna, Para, Palli, Nagla, Dhani (Bharat mein)",
+        "Nagariya kendron ke prakar: Mahanagar (>10 lakh jansankhya), Megalopolis, Million city, Conurbation",
+        "Ganday basti (slums) — leaning buildings, unhealthy conditions, no sanitation",
+        "Garrison nagar — sainik chhawniyan (cantonments). Udaharan: Ambala, Mhow, Jalandhar",
+        "Gantis (urban settlements) ka vikas — prachin kaal se (pracheen kaal, madhyakal, adhunik)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Ganday bastiyon ki do samasyayen (VSA), Mahanagar ki paribhasha (VSA), Teer-tara pratiroop drawing (SA), Garrison town udaharan (MCQ), Hamleted settlement local names (fill blank), Migration aur slums ka sambandh (VSA)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Vishv mein Manav Vyavasay (Human Occupations in World)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 4,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Aarthik kriyaayen (economic activities) — 5 types:",
+        "1. Prathamik (Primary) — prakriti par nirbhar: krishi, pashupalan, khanan, matsyapalan, vanikii",
+        "2. Dwityak (Secondary) — raw material ko valuable products mein convert karna: manufacturing, construction",
+        "3. Tritiyak (Tertiary) — services: parivahan, sanchar, vyapar, bank, shiksha",
+        "4. Chaturthak (Quaternary) — knowledge-based: research, IT, consultancy",
+        "5. Pancham (Quinary) — highest-level decision making: CEO-level, researchers, senior officials",
+        "Krishi ke prakar: Sthanantarit (shifting), Chalvaasi pashucharan (nomadic herding), Vistrit vanijya anaj krishi (extensive commercial grain farming), Misshrit krishi (mixed farming), Ropan krishi (plantation), Bhumadhyasagariya krishi (Mediterranean), Nirvah krishi (subsistence), Vanijya krishi (commercial)",
+        "Sthanantarit krishi ke naam: Jhuming (NE India), Milpa (Mexico), Roca (Brazil), Ladang (Malaysia/Indonesia), Kumari (Sri Lanka)",
+        "Udyogon ke prakar — aakar ke aadhaar par: Cottage (kutir), Small-scale, Large-scale",
+        "Raw-material ke aadhaar par: Krishi-based, Khanij-based, Pashu-based, Van-based",
+        "Swachhand (Foot-loose) udyog — kahin bhi sthapit kiye ja sakte hain, specific location ki zaroorat nahi",
+        "High-tech udyog — manufacturing ki latest generation, knowledge-intensive"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Bushman tribe economic activities (SA-I), Shifting agriculture critique (SA-I), Mediterranean vs Mixed farming (MCQ), Quaternary activities example (MCQ/VSA), Foot-loose industries definition (SA), Plantation agriculture 3 characteristics (Essay 4), Nomadic grazing region improvement suggestions (SA-II 3)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Vishv mein Parivahan, Sanchar evam Vyapar (Transport, Communication & Trade)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 5,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Parivahan (transport) ke sadhan: Sadak (road), Rail, Jal (water), Vayu (air), Pipeline",
+        "Sabse sadhan rail tantra: Europe (Ghana/densest)",
+        "Bade Trunk Marg (Big Trunk Route) — North Atlantic sea route (vishvatam/busiest trade route)",
+        "Pattanon ke prakar: Samudri (sea), Ferry (feri), Packet station, Entrepot (antrepo), Naval, Port of call",
+        "Antrepot pattan: Maal re-exported hota hai. Udaharan: Singapore (Asia), Rotterdam (Europe), Copenhagen",
+        "Panama Nahar (1914) — North Atlantic aur North Pacific ko jodti. Sluice gates/locks system. Distance reduction.",
+        "Swej Nahar (Suez Canal, 1869) — Mediterranean aur Red Sea ko jodti. No locks (sea-level canal).",
+        "Aantrik jal-marg (Inland waterways): Great Lakes (North America), Rhine (Europe), Danube (Europe), Volga (Russia), Mississippi (USA), Ganga (India)",
+        "Sanchar ke sadhan — tar, morse code, telex, internet, cyber space",
+        "Cyber space — computer-aided communication via WWW",
+        "E-mail, e-commerce, e-education, e-governance",
+        "Vyapar ke prakar: Dwipakshiy (Bilateral), Bahupakshiy (Multilateral)",
+        "Antarrashtriya vyapar ke sansthan: GATT (1947-1994), WTO (1995-), UNCTAD",
+        "GATT ka WTO mein roopantaran: 1 January 1995",
+        "WTO ka mukhyalay: Geneva, Switzerland"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Cyber space meaning (SA), GATT vs WTO (fill/SA), Panama-Suez comparison (LA 3), Big Trunk Route (MCQ/SA), Pipeline advantages (Essay 4), Ports types by cargo (LA), Antrepot (MCQ), WTO headquarter (MCQ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Paryavaran (Environment)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 6,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Paryavaran pradushan (environmental pollution) — vayu, jal, dhvani, bhumi, mahasagariya (marine), visphotak (nuclear)",
+        "Pradushan sthaan-vishishth (location-specific): Vayu pradushan, Dhvani pradushan, Bhu-pradushan. Jal pradushan flows.",
+        "Amliya varsha (acid rain) — CO2, SO2, NO2 gases jal ke saath milkar pH <7 barsati hai",
+        "Bharat ki nadiyon mein pradushan ka mukhya strot: Jaiv aur jeevanavik sandushan (organic and bacterial contamination)",
+        "Udyog jo jal pradushan karte hain: Chamda (leather), Lugdi aur kagaz (pulp & paper), Vastra (textile), Rasayan (chemical)",
+        "Sustainable development (Satat poshaniya vikas) — Brundtland Report (1987)",
+        "Sustainable development ke upay: resource conservation, renewable energy, recycling, population control"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Acid rain ke do karan (SA 2), Location-specific pollution (MCQ), Leather/paper/textile pollution type (MCQ), Namami Gange (MCQ), Sustainable development meaning (VSA/SA)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Manchitra Karya — Vishv (World Map Work)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 7,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "Easy (agar practice ho toh)",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "World outline map par ankan",
+        "Samudri pattan (sea ports): Mumbai, New York, Sydney, Cape Town, Hong Kong, Perth, Rotterdam, Singapore, San Francisco, Vancouver, Colombo, London, Shanghai",
+        "Hawaii pattan (airports): Mumbai, New York, London, Sydney, Chicago, Cape Town, Tokyo",
+        "Pramukh samudri marg: North Atlantic, North Pacific, Mediterranean-Suez",
+        "Pramukh nahar: Suez, Panama",
+        "Pramukh antrik jalmarg: Great Lakes (N. America), Rhine, Mississippi"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Bharat Jansankhya (India Population)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 8,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Bharat ki jansankhya — 2011 Census ke hisaab se 121.08 crore",
+        "Bharat ki pehli jansankhya ganana (census): 1872",
+        "Regular decennial census shuruaat: 1881",
+        "Rnatmak (negative) growth wala dashak: 1911-1921 (influenza mahamari, famine)",
+        "Bharat ka shetrafal: 32,87,263 varg km (world's 7th largest)",
+        "Jansankhya ghanatva (2011): 382 persons/sq km",
+        "Sarvadhik jansankhya ghanatva wala rajya (2011): Bihar (1106 persons/sq km)",
+        "Dwitiya sarvadhik: West Bengal (1028) / Kerala earlier",
+        "Nimun-tam ghanatva: Arunachal Pradesh",
+        "Ling-anupaat (sex ratio) — 2011: 940 females/1000 males",
+        "Pravasan ki dhaaraayen: Grameen se grameen, grameen se nagariya, nagariya se nagariya, nagariya se grameen",
+        "Nagariya jansankhya vriddhi ke karan: Shiksha prasaar, audyogikaran, nagarikaran, parivahan-sanchar, gaonvon ki apeksha adhik suvidha",
+        "Nagariya jansankhya vriddhi 2011-2021 mein sabse kam: Kerala",
+        "Pradhanmantri Awaas Yojana — housing scheme",
+        "Beti Bachao Beti Padhao — linganupat improvement ke liye",
+        "Shramik (worker) categories 2011: Mukhya (main), Sehaayak (marginal), Gair-shramik (non-workers)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Bharat ka kshetrafal (VSA), Pehli census (MCQ), Rnatmak vriddhi dashak (MCQ), Nagariya jansankhya vriddhi karan (SA 2 marks), PMAY uddeshya (VSA), Jansankhya ghanatva 2011 (fill), Ling-anupaat (MCQ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Sansadhan (Resources)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 9,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Sansadhan ke prakar: Paramparik (conventional) aur Aparamparik (non-conventional)",
+        "Paramparik: Koyla, petrol, natural gas, jal-vidyut",
+        "Aparamparik: Saur urja (solar), Pavan urja (wind), Bio-urja, Bhu-taapiya (geothermal), Jwaariya (tidal)",
+        "Nav-karniya (renewable): Saur, pavan, jal, van, pashu, manav",
+        "Anav-karniya (non-renewable): Koyla, petroleum, natural gas, khanij",
+        "Bharat ki khanij patiyan (mineral belts):",
+        "1. Uttar-Purvi patti (NE): Chhota Nagpur plateau — koyla, loha, manganese",
+        "2. Dakshin-Purvi patti (SE): Karnataka-Tamil Nadu — loha, manganese",
+        "3. Dakshin-Paschimi patti (SW): Gujarat-Maharashtra — petroleum, oil",
+        "4. Uttar-Paschimi patti (NW): Rajasthan-Gujarat — copper, zinc",
+        "Loha ayask (iron ore) ke prakar: Hematite, Magnetite, Limonite, Siderite",
+        "Hematite aur Magnetite: Loha ke ayask",
+        "Bauxite: Aluminium ka ayask",
+        "Bharat mein koyla nirman hua: Gondwana aur Tertiary bhuvigyaniy kaal (geological periods)",
+        "Parmaanu Urja Aayog (Atomic Energy Commission): Sthapana 1948",
+        "Punkaran (Recycling) — dhatuon ke scrap, katran ko piglakar punn: upyog",
+        "Van sansadhan ka mahatva: Sabhyata vikas, shuskta rokthaam, marusthali vistar rokna, rojgar, Van Rashtriy Sampatti"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Renewable resources (VSA 2 se), Recycling (VSA), AEC founding (VSA), Van sansadhan mahatva (SA), Hematite ayask type (MCQ), Bauxite ayask (MCQ), Saur + Pavan urja (LA 3), Khanij patiyan (LA 3)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Krishi, Vinirman, Udyog, Parivahan (Agriculture, Manufacturing, Industries, Transport — India)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 10,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard (sabse zyada marks source)",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Bharatiya krishi ke prakar: Nirvah krishi (subsistence), Vanijya krishi (commercial), Ropan (plantation), Shushkabhumi (dry-land), Ardraabhumi (wet-land), Misshrit (mixed)",
+        "Krishi pratiroop: Kharif (monsoon ke saath — rice, bajra, jowar, cotton, sugarcane), Rabi (winter — wheat, mustard, gram, barley), Zaid (summer — watermelon, cucumber)",
+        "Shushka bhumi krishi (dry land farming): <75 cm rainfall areas; bajra, jowar, moong, gram",
+        "Bharat ki krishi ki samasyayen: Chhote farm, monsoon dependence, technology ki kami, subsidies issue, market problems, land degradation",
+        "Krishi mein takniki vikas: Harit kranti (Green Revolution) 1960s, HYV seeds, fertilizers, irrigation, mechanization",
+        "Bharatiya udyog ke prakar — aakar par: Bada (large), Madhyam (medium), Chhota/laghu (small), Kutir (cottage)",
+        "Kutir udyog visheshta: Sadharan auzaron dwara paarivarik star par utpaadan",
+        "Swachhand (foot-loose) udyog: kahin bhi",
+        "Aadhaarbhoot udyog: Lauh-ispaat (iron-steel)",
+        "Bharat ki pehli safal modern cotton mill: Bombay/Mumbai (1854)",
+        "Fruit processing, confectioneries: Food processing industry",
+        "Parivahan ke sadhan: Sadak (road), Rail, Jal (water), Vayu (air), Pipeline",
+        "Bharat ke sadak jaal ka vishv mein sthaan: Dusra (2nd largest, after USA)",
+        "Rashtriya Rajmarg (National Highway): Kendra sarkar dwara nirmit v anurakshit",
+        "Border Road Organisation (BRO): Sainik drishti se mahatva poorn sadak",
+        "Rail patri ki chaudai: Broad gauge (1.676m), Meter gauge (1m), Narrow gauge (0.762m), Light narrow (0.610m)",
+        "Pipeline: Liquid aur gaseous padarth (jal, petrol, natural gas)",
+        "Nagpur Yojana: Sadak parivahan (1943 plan)",
+        "Samudri pattan (sea ports): Kutch ki khadi ke muhane par — Kandla",
+        "Mumbai port ka dabaav kam karne ke liye: Jawaharlal Nehru Port (JNPT) banaya gaya"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Rice cultivation (Essay 4 — crop introduction + climate + area), Indian agriculture problems (Essay 4), Sugar industry near sugarcane — why (LA 3), Solar + Wind energy India (LA 3), National Highways importance (SA 1.5), Dry land farming (SA), Tourism benefits + factors (Essay 4), Road classification (LA), Ports classification (LA), Cottage industries (MCQ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Vikas evam Niyojan (Development & Planning)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 11,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Vikas ka matlab: Guna-atmak (qualitative) parivartan, sirf quantitative nahi",
+        "Niyojan (planning) — uddeshy-prapti ke liye resources ka vyavasthit upyog",
+        "Pradeshik niyojan (regional planning) — specific region ke liye",
+        "Bharat mein pradeshik asantulan (regional imbalance) — North-South, urban-rural, developed-underdeveloped states",
+        "Pahadi kshetron ke liye vikas upay: Sadkein, shiksha, swasthya, paryatan vikas, krishi-vanikii, ecotourism",
+        "Drought Prone Area Programme (DPAP): Fourth Five Year Plan (1969-74) mein shuru",
+        "Jhabua zila (Madhya Pradesh) — bhu-nirmnikaran (land degradation) case study",
+        "Bhu-nirmnikaran rokne ke upay: vanrodhan (afforestation), contour farming, terracing, check dams, watershed management",
+        "Van kshetra, gair-krishi karya aur parti bhumi mein vriddhi ke karan: urbanization, industrial expansion, forest conservation policies, fallow land allowed",
+        "Sustainable development ke upay: Resource conservation, renewable energy, population control, organic farming",
+        "Vikas ko prabhavit karne wale arth-vyavastha parivartan: Primary to secondary shift, urbanization, industrialization, services sector growth",
+        "Bharat mein paryatan ke laabh: Rojgar, vidhesh mudra, sanskritik aadan-pradan, kshetriya vikas",
+        "Paryatan ko prabhavit karne wale karak: Jalvayu, prakritik sundarta, aitihasik sthal, suvidhayen, suraksha"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Regional planning meaning + India imbalance (SA-II 3), Hilly areas development suggestions (Essay 4 — 1+3 split), Jhabua land degradation measures (LA 3), Sustainable development + 3 measures (Essay 4), Tourism factors + benefits (Essay 4)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "Jansankhya evam Arthvyavastha — Rajasthan (Population & Economy of Rajasthan)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 12,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Rajasthan ki jansankhya — 2011 Census: 6.86 crore (6.89% of India)",
+        "Rajasthan ka kshetrafal: 3,42,239 varg km (largest state by area)",
+        "Ling-anupaat Rajasthan 2011: 928 — Bharat avg (940) se kam",
+        "Rajasthan mein linganupaat kam hone ke karan: Pitrasattatmak (patriarchal) parivaar, putra ko prathamikta (son preference), baal-vivaah (child marriage), matritva bojh (maternal burden), dahej ke liye hatya (dowry deaths), khaan-paan v swasthya seva mein kami, shiksha ki kami",
+        "Rajasthan ki krishi: Shushk-ardh shushk kshetra, monsoon par nirbhar",
+        "Rajasthan ki fasal: Kharif (bajra, jowar, gwar, cotton, groundnut), Rabi (gehun, chana, sarso, jau)",
+        "Rajasthan ki Dairy Industry — Sahakaari samitiyon ka network, Saras (RCDF), milk-based products",
+        "Dairy vikas ke upay: Sahakaari samitiyan, pashu-nasl sudhar, sheetgruh (cold storage), grameen parivaron ko poonji, saral vitran",
+        "Rajasthan mein sinchai ki sthiti: IGNP, tubewell, nehar, kuan",
+        "Indira Gandhi Nahar Pariyojana (IGNP) — vastavik nirman 1958, Kanwar Sen ne sankalpana di",
+        "IGNP Rajasthan ke 7 zilon ko sinchit karti hai — marubhumi ko haraabhara kiya",
+        "Aravari Pani Sansad: Rajasthan ki jal-sambhar (watershed) prabandhan yojana",
+        "Jal sanrakshan ke upay: Boond-boond sinchai (drip), yojana ka prabhavi kriyanvayan, anicut (check dam) nirman, watershed development",
+        "Haryali — Kendra sarkar dwara prayojit jal sambhar (watershed) vikas yojana",
+        "Rajasthan ke pramukh udyog: Vastra (Bhilwara), cement, sugar, marble, khanan",
+        "Pramukh khanij: Makrana marble, zinc (Zawar), copper (Khetri), limestone, gypsum"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Rajasthan linganupat kam hone ke karan (VSA 2 se), IGNP concept kisne di (MCQ), Aravari Pani Sansad (MCQ), Dairy industry development (Essay 4), Irrigation development (Essay 4), Haryali scheme (VSA)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "Manchitra Karya — Bharat (India Map Work)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 13,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "Medium (agar location yaad ho toh easy)",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "Manchitra Karya — Rajasthan (Rajasthan Map Work)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 14,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "Easy (Rajasthan students ke liye familiar)",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Geography — 14 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "Internal choice (OR / Athva) sirf Section C (Q12-14) aur Section D (Q15-16) mein milta hai.",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "High-weightage chapters.",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [
+      "Manav Bhugol ka Parichay (Introduction to Human Geography) (4 marks)",
+      "Vishv mein Manav Adhivas (Human Settlements in World) (4 marks)",
+      "Vishv mein Parivahan, Sanchar evam Vyapar (Transport, Communication & Trade) (4 marks)",
+      "Paryavaran (Environment) (2 marks)",
+      "Manchitra Karya — Vishv (World Map Work) (2 marks)",
+      "Vikas evam Niyojan (Development & Planning) (4 marks)",
+      "Manchitra Karya — Bharat (India Map Work) (2 marks)",
+      "Manchitra Karya — Rajasthan (Rajasthan Map Work) (2 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "Human geography theorists (Ratzel, Blache, Taylor) (Q: , 0.5-1)",
+      "HDI — concept + approaches (Q: , 0.5-1.5)",
+      "Shifting agriculture (Ladang/Milpa/Jhuming) (Q: , 0.5-1)",
+      "Population density + distribution (Q: , 1.5-4)",
+      "Industries classification (cottage/large/foot-loose) (Q: , 1.5-4)",
+      "India road network + National Highways (Q: , 1.5-3)",
+      "Port types + specific ports (Q: , 0.5-3)",
+      "Rice / Wheat cultivation in India (Q: , 4)",
+      "Water conservation + watershed (Q: , 3-4)",
+      "Indira Gandhi Canal (Kanwar Sen, IGNP) (Q: , 0.5-1.5)",
+      "Rajasthan sex ratio + causes (Q: , 1-2)",
+      "Dairy industry Rajasthan (Q: , 4)",
+      "Acid rain / pollution types (Q: , 0.5-2)",
+      "GATT → WTO transition (Q: , 0.5-2)",
+      "Map: World ports (Cape Town, Sydney, Perth, Hong Kong) (Q: , 2)",
+      "Map: India Iron-steel / Oil refineries (Q: , 2)"
+    ],
+    "chapters_mostly_theory": [],
+    "chapters_mostly_diagram_based": [
+      "Manav Bhugol ka Parichay (Introduction to Human Geography)",
+      "Vishv ki Jansankhya (World Population)",
+      "Vishv mein Manav Adhivas (Human Settlements in World)",
+      "Vishv mein Manav Vyavasay (Human Occupations in World)",
+      "Vishv mein Parivahan, Sanchar evam Vyapar (Transport, Communication & Trade)",
+      "Paryavaran (Environment)",
+      "Manchitra Karya — Vishv (World Map Work)",
+      "Bharat Jansankhya (India Population)",
+      "Sansadhan (Resources)",
+      "Krishi, Vinirman, Udyog, Parivahan (Agriculture, Manufacturing, Industries, Transport — India)",
+      "Vikas evam Niyojan (Development & Planning)",
+      "Jansankhya evam Arthvyavastha — Rajasthan (Population & Economy of Rajasthan)",
+      "Manchitra Karya — Bharat (India Map Work)",
+      "Manchitra Karya — Rajasthan (Rajasthan Map Work)"
+    ],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "Manav Bhugol ka Parichay (Introduction to Human Geography)",
+      "Vishv ki Jansankhya (World Population)",
+      "Vishv mein Manav Adhivas (Human Settlements in World)",
+      "Vishv mein Manav Vyavasay (Human Occupations in World)",
+      "Vishv mein Parivahan, Sanchar evam Vyapar (Transport, Communication & Trade)",
+      "Paryavaran (Environment)",
+      "Manchitra Karya — Vishv (World Map Work)",
+      "Bharat Jansankhya (India Population)",
+      "Sansadhan (Resources)",
+      "Krishi, Vinirman, Udyog, Parivahan (Agriculture, Manufacturing, Industries, Transport — India)",
+      "Vikas evam Niyojan (Development & Planning)",
+      "Jansankhya evam Arthvyavastha — Rajasthan (Population & Economy of Rajasthan)",
+      "Manchitra Karya — Bharat (India Map Work)",
+      "Manchitra Karya — Rajasthan (Rajasthan Map Work)"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Human geography theorists (Ratzel, Blache, Taylor) (Q: , 0.5-1)",
+      "HDI — concept + approaches (Q: , 0.5-1.5)",
+      "Shifting agriculture (Ladang/Milpa/Jhuming) (Q: , 0.5-1)",
+      "Population density + distribution (Q: , 1.5-4)",
+      "Industries classification (cottage/large/foot-loose) (Q: , 1.5-4)",
+      "India road network + National Highways (Q: , 1.5-3)",
+      "Port types + specific ports (Q: , 0.5-3)",
+      "Rice / Wheat cultivation in India (Q: , 4)",
+      "Water conservation + watershed (Q: , 3-4)",
+      "Indira Gandhi Canal (Kanwar Sen, IGNP) (Q: , 0.5-1.5)",
+      "Rajasthan sex ratio + causes (Q: , 1-2)",
+      "Dairy industry Rajasthan (Q: , 4)",
+      "Acid rain / pollution types (Q: , 0.5-2)",
+      "GATT → WTO transition (Q: , 0.5-2)",
+      "Map: World ports (Cape Town, Sydney, Perth, Hong Kong) (Q: , 2)",
+      "Map: India Iron-steel / Oil refineries (Q: , 2)"
+    ],
+    "one_mark_question_facts": {
+      "note": "Objective section of paper covers MCQs, fill blanks, T/F, match, one-word.",
+      "common_formats": [
+        "MCQ",
+        "Fill in the Blanks",
+        "True/False",
+        "Match the Pairs",
+        "One Word"
+      ]
+    },
+    "key_terms_masterlist": {
+      "note": "MCQ aur Fill blanks mein in terms se 10-15 marks directly aate hain. Sab yaad karo.",
+      "geographers_and_theorists": [
+        {
+          "name": "Friedrich Ratzel",
+          "contribution": "Father of Human Geography, Determinism (Nishchayavaad)"
+        },
+        {
+          "name": "Vidal de la Blache",
+          "contribution": "Possibilism (Sambhavvaad), 'Manav bhugol manav samajon aur dharatlon ke beech sambandon ka sanshleshit adhyayan hai'"
+        },
+        {
+          "name": "Ellen C. Semple",
+          "contribution": "American school, Ratzel's disciple, Environmental influences"
+        },
+        {
+          "name": "Griffith Taylor",
+          "contribution": "Neo-determinism / Stop-and-go determinism. Navnishchayavaad"
+        },
+        {
+          "name": "Dr. Mahbub-ul-Haq",
+          "contribution": "Human Development concept, HDI (with UNDP, 1990)"
+        },
+        {
+          "name": "Prof. Amartya Sen",
+          "contribution": "Capability approach to human development"
+        },
+        {
+          "name": "Kanwar Sen",
+          "contribution": "Indira Gandhi Canal (IGNP) ki sankalpana"
+        },
+        {
+          "name": "K.V. Sundaram Moni",
+          "contribution": "Regional planning and imbalance in India (NCERT reference)"
+        }
+      ],
+      "important_definitions": [
+        {
+          "term": "Possibilism",
+          "definition": "Prakriti avsar pradaan karti hai aur manav unka upyog karta hai (Blache)"
+        },
+        {
+          "term": "Determinism",
+          "definition": "Manav jeevan prakriti se poornataya niyantrit hota hai (Ratzel)"
+        },
+        {
+          "term": "Neo-determinism",
+          "definition": "Stop-and-go philosophy — prakriti aur sanskriti ka santulit sambandh (Taylor)"
+        },
+        {
+          "term": "HDI",
+          "definition": "3 dimensions: Health (life expectancy), Education (literacy), Standard of living (GNI per capita). Ranges 0-1."
+        },
+        {
+          "term": "Working population",
+          "definition": "15-59 aayu varg ke stree-purush jo aarthik kriya-kalapon mein sammilit hain"
+        },
+        {
+          "term": "Mahanagar",
+          "definition": "10 lakh (1 million) se adhik jansankhya wala nagar"
+        },
+        {
+          "term": "Shifting agriculture",
+          "definition": "Aadim jantajiyon dwara vanon ko jalakar khet banaye jaate hain. 2-3 varsh baad sthaan badalte hain"
+        },
+        {
+          "term": "Cyber space",
+          "definition": "Computerkrit space sanchar jo internet (WWW) dwara aavritta hai. E-mail, e-commerce etc. pradaan karta hai"
+        },
+        {
+          "term": "GATT",
+          "definition": "General Agreement on Tariffs and Trade. 30 October 1947, 96 deshon dwara 1-1-1948 se laagu. 1-1-1995 ko WTO mein badla"
+        },
+        {
+          "term": "Acid rain",
+          "definition": "Varsha jisme CO2, SO2, NO2 gases jal ke saath milkar pH <7 barsati hai"
+        },
+        {
+          "term": "Sustainable development",
+          "definition": "Aise vikas jo vartamaan aavshyaktayen poori kare aur bhavishya pidhi ke liye resources surakshit rakhe (Brundtland 1987)"
+        },
+        {
+          "term": "Foot-loose industries",
+          "definition": "Aise udyog jo kahin bhi sthapit kiye ja sakte hain — specific raw material ya market ki zaroorat nahi"
+        },
+        {
+          "term": "Recycling (Punchakran)",
+          "definition": "Dhatuon ke scrap, katran, ko pighlaakar punn: upyog mein lana"
+        },
+        {
+          "term": "Garrison town",
+          "definition": "Sainik chhawniyan (cantonment). Example: Ambala, Mhow, Jalandhar"
+        },
+        {
+          "term": "Entrepot port",
+          "definition": "Pattan jahaan maal import hoke fir re-export hota hai. Singapore, Rotterdam."
+        }
+      ],
+      "key_dates_and_facts": [
+        {
+          "event": "Atomic Energy Commission sthapana",
+          "date": "1948"
+        },
+        {
+          "event": "GATT sthapana",
+          "date": "30 October 1947, 1 January 1948 se laagu"
+        },
+        {
+          "event": "GATT → WTO",
+          "date": "1 January 1995"
+        },
+        {
+          "event": "WTO headquarter",
+          "location": "Geneva, Switzerland"
+        },
+        {
+          "event": "Bharat ki pehli jansankhya ganana",
+          "date": "1872"
+        },
+        {
+          "event": "Regular decennial census start",
+          "date": "1881"
+        },
+        {
+          "event": "Bharat mein negative growth decade",
+          "years": "1911-1921"
+        },
+        {
+          "event": "Bharat ka kshetrafal",
+          "value": "32,87,263 varg km"
+        },
+        {
+          "event": "Bharat ke sadak jaal ka vishv rank",
+          "rank": "2nd"
+        },
+        {
+          "event": "Ropan agriculture in Malaysia/Indonesia",
+          "name": "Ladang"
+        },
+        {
+          "event": "Shifting in NE India",
+          "name": "Jhuming"
+        },
+        {
+          "event": "Shifting in Mexico",
+          "name": "Milpa"
+        },
+        {
+          "event": "Shifting in Brazil",
+          "name": "Roca"
+        },
+        {
+          "event": "Shifting in Sri Lanka",
+          "name": "Kumari"
+        },
+        {
+          "event": "1st HDR publication",
+          "year": 1990
+        },
+        {
+          "event": "Brundtland Report 'Our Common Future'",
+          "year": 1987
+        },
+        {
+          "event": "Rajasthan area",
+          "value": "3,42,239 sq km"
+        },
+        {
+          "event": "Rajasthan sex ratio 2011",
+          "value": 928
+        },
+        {
+          "event": "Bharat sex ratio 2011",
+          "value": 940
+        },
+        {
+          "event": "Bharat population 2011",
+          "value": "121.08 crore"
+        },
+        {
+          "event": "1st successful cotton mill in India",
+          "location": "Mumbai, 1854"
+        },
+        {
+          "event": "India highest density state 2011",
+          "state": "Bihar (1106)"
+        },
+        {
+          "event": "India lowest growth 2011-21",
+          "state": "Kerala"
+        },
+        {
+          "event": "DPAP start",
+          "plan": "4th Five Year Plan (1969-74)"
+        },
+        {
+          "event": "Nagpur Plan (road transport)",
+          "year": 1943
+        }
+      ],
+      "matching_pairs_frequently_asked": [
+        {
+          "item": "Determinism",
+          "match": "Ratzel"
+        },
+        {
+          "item": "Possibilism",
+          "match": "Vidal de la Blache"
+        },
+        {
+          "item": "Neo-determinism",
+          "match": "Griffith Taylor"
+        },
+        {
+          "item": "HDI",
+          "match": "Mahbub-ul-Haq"
+        },
+        {
+          "item": "Capability approach",
+          "match": "Amartya Sen"
+        },
+        {
+          "item": "IGNP concept",
+          "match": "Kanwar Sen"
+        },
+        {
+          "item": "Nagpur Plan",
+          "match": "Road transport"
+        },
+        {
+          "item": "Hematite/Magnetite",
+          "match": "Iron (Loha) ore"
+        },
+        {
+          "item": "Bauxite",
+          "match": "Aluminium ore"
+        },
+        {
+          "item": "Kandla port",
+          "match": "Head of Gulf of Kutch"
+        },
+        {
+          "item": "Ladang",
+          "match": "Malaysia/Indonesia shifting"
+        },
+        {
+          "item": "Milpa",
+          "match": "Mexico shifting"
+        },
+        {
+          "item": "Singapore",
+          "match": "Asia's entrepot port"
+        },
+        {
+          "item": "Namami Gange",
+          "match": "Ganga cleaning national mission"
+        },
+        {
+          "item": "Aravari Pani Sansad",
+          "match": "Rajasthan watershed management"
+        },
+        {
+          "item": "Mediterranean agriculture",
+          "match": "Citrus fruits"
+        },
+        {
+          "item": "Rice (Chawal)",
+          "match": "Kharif crop"
+        },
+        {
+          "item": "Wheat / Mustard / Gram",
+          "match": "Rabi crops"
+        },
+        {
+          "item": "Panna, Para, Palli, Nagla, Dhani",
+          "match": "Hamleted settlements"
+        },
+        {
+          "item": "Ranigunj, Jharia",
+          "match": "Mining towns"
+        },
+        {
+          "item": "Ambala",
+          "match": "Garrison town"
+        },
+        {
+          "item": "Roorkee",
+          "match": "Educational town"
+        }
+      ]
+    },
+    "paper_objectives_weightage": {
+      "note": "Official blueprint ke hisaab se paper 4 objectives par banaya jaata hai:",
+      "knowledge_Gyan": {
+        "marks": 14,
+        "percent": 25.0,
+        "note": "Facts, definitions, naam, dates — yaad-based questions (MCQ, Fill, VSA mein zyada)"
+      },
+      "understanding_Avbodh": {
+        "marks": 20,
+        "percent": 35.71,
+        "note": "Concepts samjhana, karan batana, tulna karna — SA-I, SA-II mein zyada. SABSE BADA component hai."
+      },
+      "application_Gyanopyog": {
+        "marks": 14,
+        "percent": 25.0,
+        "note": "Knowledge ka application, suggestions, analysis — Essay aur SA-II mein"
+      },
+      "skill_Kaushal_Maulikta": {
+        "marks": 8,
+        "percent": 14.29,
+        "note": "Map work (World, India) + originality wale answers. Map = 4 marks guaranteed skill."
+      }
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Geography — maps/diagrams/frameworks.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not typically applicable for Geography (humanities subject).",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Geography",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Geography",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Geography — no practical.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "Ch 10 (India Krishi+Udyog+Parivahan) = sabse bada content area (5 marks) aur essay mein bhi common. Ch 4 (Vishv Vyavasay = 6 marks) bhi high priority.",
+    "easy_percent": 0,
+    "medium_percent": 0,
+    "hard_percent": 0,
+    "most_scoring_sections": [
+      "Easy — MCQ/Fill/VSA mein facts, names, dates. 20-22 marks aasaan agar basics clear.",
+      "Easy-Medium — 50 words, concept + points. 10-12 marks scoring.",
+      "Easy (with practice) — 4 marks guaranteed."
+    ],
+    "most_difficult_sections": [
+      "Medium-Hard — 150-200 words detail required. 5-8 marks scoring."
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Section A ke 37+ objective questions mein 22-23 marks pakke — no negative marking, sab attempt karo",
+      "Map work guaranteed 4 marks — har hafte 10 locations practice karo",
+      "Essay mein intro + 4 points + conclusion format — examples + dates add karo",
+      "Spelling VERY IMPORTANT — Ratzel, Blache, Bauxite, Kandla — galat spelling se marks kat te hain",
+      "Hindi-English mein confusion ho toh Hindi use karo — Hindi version hi official maani jaati hai",
+      "Map attach karna BHOOLNA MAT — outline map answer-book ke saath nathhi karo",
+      "Pencil se map mark pehle, phir pen se naam — corrections allowed",
+      "OR option choose karne se pehle dono padho — easier wala select karo",
+      "Fill blanks mein ek shabd likhna — extra baat na likho, time waste",
+      "Graph/diagram jahaan possible ho (demographic transition, pyramid) zaroor banao",
+      "Answers ko numbering + sub-heading de do — marker friendly"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "Paper padho, OR options mein se easier choose karo. Maps ke locations yaad karne ki koshish karo."
+      },
+      {
+        "section_id": "Section_A_40min",
+        "recommended_minutes": 40,
+        "note": "Q1 (MCQ) + Q2 (Fill) + Q3 (VSA) — total 23 marks. 40 min mein aaram se. Confused mein bhi guess karo."
+      },
+      {
+        "section_id": "Section_B_50min",
+        "recommended_minutes": 6,
+        "note": "8 SA × 6 min. Concept + 2-3 points + example. 50 shabd limit."
+      },
+      {
+        "section_id": "Section_C_30min",
+        "recommended_minutes": 10,
+        "note": "3 LA × 10 min. 100 shabd. OR wisely choose. Points + examples."
+      },
+      {
+        "section_id": "Section_D_30min",
+        "recommended_minutes": 15,
+        "note": "2 Essay × 15 min. 150-200 shabd. Intro + 4 points + conclusion."
+      },
+      {
+        "section_id": "Section_E_15min",
+        "recommended_minutes": 7,
+        "note": "2 maps × 7 min. Pencil mark → pen naam. Neat presentation."
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "Question numbers check, map attached check, spelling verify (geographers, places)."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 19",
+        "target_marks": 19,
+        "strategy": "Section A full (MCQ 7-8 + Fill 4-5 + VSA 6-7 = 17-20 marks aasan) + 2 map sthaan (1 mark) + 1-2 SA = 20-24 marks. Pass guaranteed.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "MCQ ke liye geographers' naam + matching pairs rat lo — 5-6 marks pakke",
+          "Fill blanks ke liye key terms list yaad karo — 3-4 marks pakke",
+          "VSA mein definitions — shifting agriculture, HDI, cyber space, recycling — easy 5-6 marks",
+          "Map: 2 world ports + 2 India locations = 2 marks aasan",
+          "Chapter 6 (Paryavaran) aur Chapter 1 (Parichay) easy theory — zaroor prepare"
+        ],
+        "chapters_to_skip_safely": [
+          "Long Essay full mechanism",
+          "Rajasthan deep content (agar time nahi)",
+          "Rajasthan map-work (2026 mein nahi aaya)"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "35",
+        "target_marks": 35,
+        "strategy": "Section A full (22-23) + 5-6 SA (8-10) + 1 LA (2-3) + 2 map (3-4) = 35-40 marks",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Ch 2 (Jansankhya) — HDI, demographic transition, migration — scoring",
+          "Ch 4 (Vyavasay) — agriculture types matching, occupations pyramid — scoring",
+          "Ch 10 (India agriculture + industries) — Rice/Wheat, cotton mill, road classification",
+          "Section C mein 1-2 question attempt karo (3 marks each)",
+          "Map practice regular karo — 20 ports/cities list banao"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45 marks plus",
+        "target_marks": 45,
+        "strategy": "Section A full (22-23) + Section B 7-8 (10-12) + Section C 3 (8-9) + Section D 1-2 essay (6-8) + Map full (4) = 48-55",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Essay topics master karo: Rice cultivation, Industries 4 characteristics, Water conservation, Solar+Wind energy",
+          "LA topics: Trading centres, Outsourcing, Port classification, Suez vs Panama",
+          "India map: All 10+ locations ready (iron-steel, ports, refineries)",
+          "World map: 10+ ports and airports ready",
+          "Chapter 12 (Rajasthan) full prepare — IGNP + Dairy + Irrigation"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping 52 plus",
+        "target_marks": 52,
+        "strategy": "Sare 56 marks target. Section A full (23) + Section B full (12) + Section C full (9) + Section D full (8) + Map full (4) = 56.",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "Essay mein diagrams/flowcharts add karo — visual presentation",
+          "Data + percentages + years sabhi answers mein include karo",
+          "Rajasthan content mein local examples (Bhilwara, Makrana, Khetri) zaroor",
+          "Previous 5-6 years ke PYQs solve karo — questions repeat hote hain",
+          "Map practice daily — muscle memory banao",
+          "Writing speed improve karo — 56 marks 3 hrs mein aaram se complete"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Fundamentals of Human Geography (Class 12 Part A)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Chapter 1-6 ka base (World Human Geography). Sab chapters zaroor padho."
+      },
+      {
+        "name": "NCERT India: People and Economy (Class 12 Part B)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Chapter 8-11 ka base (India). Agriculture + Industries + Transport ka detail."
+      },
+      {
+        "name": "NCERT Practical Work in Geography II (Class 12 Part C)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Map work + data interpretation ke liye."
+      },
+      {
+        "name": "Rajasthan Adhyayan (RBSE official textbook)",
+        "author": "",
+        "publisher": "Rajasthan State Textbook Board, Jaipur",
+        "purpose": "Primary",
+        "note": "Chapter 12 (Rajasthan) ka authoritative source."
+      },
+      {
+        "name": "SP Examination Idea Bhugol Class 12",
+        "author": "",
+        "publisher": "Science Publications, Jaipur (L.L. Agarwal)",
+        "purpose": "Supplementary",
+        "note": "RBSE ke liye #1 reference. Chapter-wise MCQ, Fill, VSA, SA, LA sab hain. Previous papers solved."
+      },
+      {
+        "name": "Previous Year Papers 2018-2026 (RBSE)",
+        "author": "",
+        "publisher": "RBSE Official",
+        "purpose": "Supplementary",
+        "note": "rajeduboard.rajasthan.gov.in se download. 30-40% questions same-similar repeat hote hain."
+      },
+      {
+        "name": "RBSE Model Paper 2026-27",
+        "author": "",
+        "publisher": "RBSE Official",
+        "purpose": "Supplementary",
+        "note": "Official model paper: rajeduboard.rajasthan.gov.in > Old Papers/Model Questions."
+      },
+      {
+        "name": "Nootan Bhugol Class 12 (Hindi medium)",
+        "author": "",
+        "publisher": "Nageen Prakashan",
+        "purpose": "Supplementary",
+        "note": "Chapter summaries + objective questions — quick revision ke liye."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "rajeduboard.rajasthan.gov.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 min reading time + 10 min internal revision time. Total 195 min."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "roll_number_on_paper: Question paper par pehle roll number likho (compulsory)",
+      "question_number_compulsory: True",
+      "sequence_compulsory: False",
+      "internal_parts_together: Jis prashn mein parts hain (i, ii, iii), un sabhi ke answers ek saath likho",
+      "language_rule: Hindi ya English — consistent rakho. Mixed chalega but readable ho. Hindi-English conflict mein Hindi version official.",
+      "no_negative_marking: True",
+      "mcq_attempt_all: Sare 18 MCQ attempt karo — no negative marking",
+      "map_spelling: Map mein name spelling galat = 0 marks for that point. Pehle likhne ki practice karo.",
+      "long_answer_structure: Intro + body + conclusion — partial marks milte hain agar structure clear"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['Blue', 'Black'] pencil_use: Map work ke liye zaroori — pehle pencil se mark, fir pen se naam. Diagrams/flowcharts ke liye bhi. map_marking: Pencil se location dot/mark karo pehle (correctable). Phir blue pen se neat name. Arrow optional but neat dikhta hai."
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "word_limits_approximate: Word limits approximate hain (20/50/100/150-200) — 10-15% up/down acceptable paragraph_format: SA, LA, Essay mein paragraph format. Bullet points avoid karo jab tak asked na ho. diagrams: Teer-tara pattern, demographic transition graph, map sketches — jahaan zaroori ho wahan banao spelling_important: Geographer names, place names (Ratzel, Blache, Bauxite, Kandla, Makrana) — spelling sahi zaroori. Galat spelling = marks cut. partial_marking: True partial_marking_note: Incomplete answers par bhi partial marks milte hain — kuch na kuch zaroor likho",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

@@ -1,0 +1,2181 @@
+{
+  "board": "RBSE (राजस्थान माध्यमिक शिक्षा बोर्ड)",
+  "class": "10",
+  "subject": "विज्ञान",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 0,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 0,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 0,
+    "extra_time_given": false,
+    "extra_time_note": "",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 0,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "",
+    "all_compulsory_note": "",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "",
+    "new_pattern_note": "",
+    "types": []
+  },
+  "paper_pattern": {
+    "note": "",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 0,
+      "medium_percent": 0,
+      "hard_percent": 0,
+      "note": ""
+    },
+    "sections": []
+  },
+  "marks_distribution": {
+    "total_theory": 0,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": []
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 80,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "5",
+      "name": "जैव प्रक्रम",
+      "marks": 8,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "8",
+        "name": "आनुवंशिकता एवं विकास",
+        "marks": 4
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "रासायनिक अभिक्रियाएँ एवं समीकरण",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "अम्ल, क्षार एवं लवण",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "धातु एवं अधातु",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "कार्बन एवं उसके यौगिक",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "जैव प्रक्रम",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "नियंत्रण एवं समन्वय",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "जीवों में जनन",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "name": "आनुवंशिकता एवं विकास",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "name": "प्रकाश — परावर्तन एवं अपवर्तन",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "10",
+        "name": "मानव नेत्र तथा रंगबिरंगा संसार",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "11",
+        "name": "विद्युत",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "name": "विद्युत धारा के चुम्बकीय प्रभाव",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "13",
+        "name": "हमारा पर्यावरण",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Science Class 10 — 13 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Science",
+        "category": "Main",
+        "total_marks": 80,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "रासायनिक अभिक्रियाएँ एवं समीकरण",
+            "marks": 6,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "अम्ल, क्षार एवं लवण",
+            "marks": 7,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "धातु एवं अधातु",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "कार्बन एवं उसके यौगिक",
+            "marks": 7,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "जैव प्रक्रम",
+            "marks": 8,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "नियंत्रण एवं समन्वय",
+            "marks": 6,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "जीवों में जनन",
+            "marks": 7,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "आनुवंशिकता एवं विकास",
+            "marks": 4,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "प्रकाश — परावर्तन एवं अपवर्तन",
+            "marks": 8,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "मानव नेत्र तथा रंगबिरंगा संसार",
+            "marks": 4,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "विद्युत",
+            "marks": 7,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "विद्युत धारा के चुम्बकीय प्रभाव",
+            "marks": 6,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "हमारा पर्यावरण",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "रासायनिक अभिक्रियाएँ एवं समीकरण",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Science Class 10",
+      "unit_id": 1,
+      "unit_name": "रासायनिक अभिक्रियाएँ एवं समीकरण",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "अम्ल, क्षार एवं लवण",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Science Class 10",
+      "unit_id": 2,
+      "unit_name": "अम्ल, क्षार एवं लवण",
+      "part": "",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "धातु एवं अधातु",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Science Class 10",
+      "unit_id": 3,
+      "unit_name": "धातु एवं अधातु",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "कार्बन एवं उसके यौगिक",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Science Class 10",
+      "unit_id": 4,
+      "unit_name": "कार्बन एवं उसके यौगिक",
+      "part": "",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "जैव प्रक्रम",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Science Class 10",
+      "unit_id": 5,
+      "unit_name": "जैव प्रक्रम",
+      "part": "",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "नियंत्रण एवं समन्वय",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Science Class 10",
+      "unit_id": 6,
+      "unit_name": "नियंत्रण एवं समन्वय",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "जीवों में जनन",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Science Class 10",
+      "unit_id": 7,
+      "unit_name": "जीवों में जनन",
+      "part": "",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "आनुवंशिकता एवं विकास",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Science Class 10",
+      "unit_id": 8,
+      "unit_name": "आनुवंशिकता एवं विकास",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "प्रकाश — परावर्तन एवं अपवर्तन",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Science Class 10",
+      "unit_id": 9,
+      "unit_name": "प्रकाश — परावर्तन एवं अपवर्तन",
+      "part": "",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "मानव नेत्र तथा रंगबिरंगा संसार",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Science Class 10",
+      "unit_id": 10,
+      "unit_name": "मानव नेत्र तथा रंगबिरंगा संसार",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "विद्युत",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Science Class 10",
+      "unit_id": 11,
+      "unit_name": "विद्युत",
+      "part": "",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "विद्युत धारा के चुम्बकीय प्रभाव",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Science Class 10",
+      "unit_id": 12,
+      "unit_name": "विद्युत धारा के चुम्बकीय प्रभाव",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "हमारा पर्यावरण",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Science Class 10",
+      "unit_id": 13,
+      "unit_name": "हमारा पर्यावरण",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Science Class 10 — 13 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "जैव प्रक्रम",
+      "प्रकाश — परावर्तन एवं अपवर्तन"
+    ],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [
+      "जैव प्रक्रम (8 marks)",
+      "प्रकाश — परावर्तन एवं अपवर्तन (8 marks)"
+    ],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [
+      "परिनालिका क्षेत्र चित्र (बनाना) (Q: , )",
+      "पुनर्भरण तंत्र — रिक्त स्थान (Q: , )",
+      "अनुमस्तिष्क — मुद्रा/संतुलन MCQ (Q: , )",
+      "R = 2f (दर्पण सूत्र) MCQ (Q: , )",
+      "R या P से फोकस दूरी — संख्यात्मक (Q: , )",
+      "किरण चित्र — अवतल दर्पण या उत्तल लेंस (Q: , )",
+      "जैव प्रक्रम निबंध चित्र सहित (श्वसन/पाचन/प्रकाश संश्लेषण) (Q: , )",
+      "ओम का नियम — परिभाषा + V-I ग्राफ + परिपथ चित्र (Q: , )",
+      "अम्ल/क्षार — PoP / बेकिंग सोडा / क्लोर-क्षार अभिक्रियाएं (Q: , )",
+      "जनन चित्र (नर/मादा तंत्र या लिंग निर्धारण) (Q: , )",
+      "दाहिने हाथ का अंगूठे का नियम MCQ (Q: , )",
+      "थायरॉइड/पीयूष ग्रंथि MCQ (Q: , )",
+      "मिसेल संरचना + साबुन की सफाई क्रिया (Q: , )",
+      "ओजोन निर्माण + CFC अपक्षय (Q: , )"
+    ],
+    "chapters_mostly_theory": [
+      "रासायनिक अभिक्रियाएँ एवं समीकरण",
+      "अम्ल, क्षार एवं लवण",
+      "धातु एवं अधातु",
+      "कार्बन एवं उसके यौगिक",
+      "जैव प्रक्रम",
+      "नियंत्रण एवं समन्वय",
+      "जीवों में जनन",
+      "आनुवंशिकता एवं विकास",
+      "प्रकाश — परावर्तन एवं अपवर्तन",
+      "मानव नेत्र तथा रंगबिरंगा संसार",
+      "विद्युत",
+      "विद्युत धारा के चुम्बकीय प्रभाव",
+      "हमारा पर्यावरण"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "रासायनिक अभिक्रियाएँ एवं समीकरण",
+      "अम्ल, क्षार एवं लवण",
+      "कार्बन एवं उसके यौगिक",
+      "जैव प्रक्रम",
+      "नियंत्रण एवं समन्वय",
+      "जीवों में जनन",
+      "प्रकाश — परावर्तन एवं अपवर्तन",
+      "विद्युत",
+      "विद्युत धारा के चुम्बकीय प्रभाव"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "रासायनिक अभिक्रियाएँ एवं समीकरण",
+      "अम्ल, क्षार एवं लवण",
+      "कार्बन एवं उसके यौगिक",
+      "जैव प्रक्रम",
+      "नियंत्रण एवं समन्वय",
+      "जीवों में जनन",
+      "प्रकाश — परावर्तन एवं अपवर्तन",
+      "विद्युत",
+      "विद्युत धारा के चुम्बकीय प्रभाव"
+    ],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "रासायनिक अभिक्रियाएँ एवं समीकरण",
+      "अम्ल, क्षार एवं लवण",
+      "धातु एवं अधातु",
+      "कार्बन एवं उसके यौगिक",
+      "जैव प्रक्रम",
+      "नियंत्रण एवं समन्वय",
+      "जीवों में जनन",
+      "आनुवंशिकता एवं विकास",
+      "प्रकाश — परावर्तन एवं अपवर्तन",
+      "मानव नेत्र तथा रंगबिरंगा संसार",
+      "विद्युत",
+      "विद्युत धारा के चुम्बकीय प्रभाव",
+      "हमारा पर्यावरण"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "परिनालिका क्षेत्र चित्र (बनाना) (Q: , )",
+      "पुनर्भरण तंत्र — रिक्त स्थान (Q: , )",
+      "अनुमस्तिष्क — मुद्रा/संतुलन MCQ (Q: , )",
+      "R = 2f (दर्पण सूत्र) MCQ (Q: , )",
+      "R या P से फोकस दूरी — संख्यात्मक (Q: , )",
+      "किरण चित्र — अवतल दर्पण या उत्तल लेंस (Q: , )",
+      "जैव प्रक्रम निबंध चित्र सहित (श्वसन/पाचन/प्रकाश संश्लेषण) (Q: , )",
+      "ओम का नियम — परिभाषा + V-I ग्राफ + परिपथ चित्र (Q: , )",
+      "अम्ल/क्षार — PoP / बेकिंग सोडा / क्लोर-क्षार अभिक्रियाएं (Q: , )",
+      "जनन चित्र (नर/मादा तंत्र या लिंग निर्धारण) (Q: , )",
+      "दाहिने हाथ का अंगूठे का नियम MCQ (Q: , )",
+      "थायरॉइड/पीयूष ग्रंथि MCQ (Q: , )",
+      "मिसेल संरचना + साबुन की सफाई क्रिया (Q: , )",
+      "ओजोन निर्माण + CFC अपक्षय (Q: , )"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "topic_importance_ranking": {
+      "rank_1_highest": [
+        {
+          "topic": "प्रकाश — परावर्तन एवं अपवर्तन",
+          "marks": 8,
+          "reason": "किरण चित्र + संख्यात्मक + MCQ — अभ्यास से सबसे स्कोरिंग"
+        },
+        {
+          "topic": "जैव प्रक्रम",
+          "marks": 8,
+          "reason": "निबंध प्रश्न + चित्र हर साल आते हैं"
+        }
+      ],
+      "rank_2_high": [
+        {
+          "topic": "अम्ल, क्षार एवं लवण",
+          "marks": 7
+        },
+        {
+          "topic": "कार्बन एवं उसके यौगिक",
+          "marks": 7
+        },
+        {
+          "topic": "जीवों में जनन",
+          "marks": 7
+        },
+        {
+          "topic": "विद्युत",
+          "marks": 7
+        }
+      ],
+      "rank_3_medium": [
+        {
+          "topic": "रासायनिक अभिक्रियाएँ एवं समीकरण",
+          "marks": 6
+        },
+        {
+          "topic": "नियंत्रण एवं समन्वय",
+          "marks": 6
+        },
+        {
+          "topic": "विद्युत धारा के चुम्बकीय प्रभाव",
+          "marks": 6
+        },
+        {
+          "topic": "हमारा पर्यावरण",
+          "marks": 5
+        },
+        {
+          "topic": "धातु एवं अधातु",
+          "marks": 5
+        }
+      ],
+      "rank_4_lower": [
+        {
+          "topic": "आनुवंशिकता एवं विकास",
+          "marks": 4
+        },
+        {
+          "topic": "मानव नेत्र तथा रंगबिरंगा संसार",
+          "marks": 4
+        }
+      ]
+    },
+    "chapter_wise_pyq_analysis": {
+      "ch1_chemical_reactions_equations": {
+        "syllabus_marks_2026": 6,
+        "mcq_asked": [
+          {
+            "q": "संतुलित समीकरण में Fe का गुणांक: Fe + H2O → Fe3O4 + H2",
+            "ans": "3"
+          },
+          {
+            "q": "2PbO + C → 2Pb + CO2 — सत्य कथन",
+            "ans": "iii) कार्बन ऑक्सीकृत AND iv) लेड ऑक्साइड अपचयित"
+          }
+        ],
+        "fill_blank_asked": [
+          {
+            "q": "Mg रिबन जलाने पर बना यौगिक",
+            "ans": "मैग्नीशियम ऑक्साइड (MgO)"
+          }
+        ],
+        "short_essay_asked": [
+          {
+            "q": "संयोजन अभिक्रिया + वियोजन अभिक्रिया — एक-एक उदाहरण",
+            "marks": 3
+          },
+          {
+            "q": "CuO + H2 → Cu + H2O: i) कोयले से निकलने वाली गैस ii) संतुलित समीकरण iii) प्रयोगशाला उपकरण का चित्र",
+            "marks": 4
+          },
+          {
+            "q": "i) अपचयन परिभाषा ii) Fe + CuSO4 → संतुलित समीकरण iii) लोहे की कीलें कॉपर सल्फेट में उपकरण चित्र",
+            "marks": 4
+          }
+        ],
+        "key_facts": {
+          "combination": "A + B → AB. C + O2 → CO2",
+          "decomposition": "AB → A + B. 2H2O → 2H2 + O2",
+          "oxidation": "ऑक्सीजन की प्राप्ति या हाइड्रोजन का हास",
+          "reduction": "ऑक्सीजन का हास या हाइड्रोजन की प्राप्ति",
+          "black_coating_silver": "संक्षारण — Ag2S",
+          "reactivity_order_Al_Fe_Zn": "Fe < Zn < Al (आरोही क्रम)",
+          "esterification": "CH3COOH + C2H5OH → CH3COOC2H5 + H2O (अम्ल उत्प्रेरक)",
+          "CuO_plus_H2": "CuO + H2 → Cu + H2O. CuO अपचयित (H पाता है), H2 ऑक्सीकृत (H खोता है)"
+        }
+      },
+      "ch2_acids_bases_salts": {
+        "syllabus_marks_2026": 7,
+        "importance": "अत्यंत उच्च",
+        "mcq_asked": [
+          {
+            "q": "उदासीन विलयन का pH",
+            "ans": "7"
+          },
+          {
+            "q": "दही में उपस्थित अम्ल",
+            "ans": "लैक्टिक अम्ल"
+          },
+          {
+            "q": "जस्ता + तनु H2SO4 से निकलने वाली गैस",
+            "ans": "H2"
+          }
+        ],
+        "fill_blank_asked": [
+          {
+            "q": "सिरके में अम्ल का रासायनिक नाम",
+            "ans": "एसीटिक अम्ल (एथेनोइक अम्ल CH3COOH)"
+          },
+          {
+            "q": "HCl के आयनीकरण से बनने वाला ऋणायन",
+            "ans": "Cl-"
+          }
+        ],
+        "very_short_asked": [
+          {
+            "q": "उदासीनीकरण अभिक्रिया परिभाषित करो",
+            "ans": "अम्ल + क्षार → लवण + जल"
+          },
+          {
+            "q": "CaO + H2O → [X] + ऊष्मा। X का नाम",
+            "ans": "कैल्शियम हाइड्रॉक्साइड / बुझा चूना"
+          },
+          {
+            "q": "शुद्ध जल का pH",
+            "ans": "7"
+          }
+        ],
+        "long_essay_asked": [
+          {
+            "q": "i) घ्राणेंद्रिय सूचक उदाहरण ii) CO2 + चूने का पानी → [A] सफेद अवक्षेप; अधिक CO2 → [B]. सूत्र + समीकरण",
+            "marks": 4
+          },
+          {
+            "q": "i) शुद्ध जल का pH ii) Na2CO3 + HCl → [A] (सामान्य नमक). नाम + अभिक्रियाएं + NaOH निर्माण",
+            "marks": 4
+          },
+          {
+            "q": "i) प्लास्टर ऑफ पेरिस का सूत्र ii) जल से क्यों कठोर होता है? समीकरण",
+            "marks": 3
+          },
+          {
+            "q": "i) बेकिंग सोडा का रासायनिक नाम ii) केक स्पंजी क्यों? समीकरण",
+            "marks": 3
+          },
+          {
+            "q": "क्लोर-क्षार प्रक्रिया समीकरण सहित समझाइए",
+            "marks": 3
+          },
+          {
+            "q": "बेकिंग सोडा पर ऊष्मा का प्रभाव + समीकरण",
+            "marks": 3
+          }
+        ],
+        "key_facts": {
+          "pH_neutral": 7,
+          "acid_vinegar": "एथेनोइक अम्ल (CH3COOH)",
+          "acid_curd": "लैक्टिक अम्ल",
+          "acid_lemon": "साइट्रिक अम्ल",
+          "acid_ant_sting": "फॉर्मिक अम्ल (मेथेनोइक अम्ल)",
+          "slaked_lime": "CaO + H2O → Ca(OH)2 + ऊष्मा",
+          "lime_water_CO2": "CO2 + Ca(OH)2 → CaCO3 (सफेद) + H2O. अधिक: CaCO3 + CO2 + H2O → Ca(HCO3)2 (विलेय)",
+          "plaster_of_paris": "CaSO4·½H2O. कठोरीकरण: 2(CaSO4·½H2O) + 3H2O → 2CaSO4·2H2O",
+          "baking_soda": "NaHCO3. गर्म करने पर: 2NaHCO3 → Na2CO3 + H2O + CO2↑ (CO2 केक को स्पंजी बनाती है)",
+          "washing_soda": "Na2CO3·10H2O",
+          "common_salt": "NaCl",
+          "chlor_alkali": "2NaCl + 2H2O (विद्युत अपघटन) → 2NaOH + Cl2↑ + H2↑",
+          "olfactory_indicator": "प्याज / लौंग (अम्ल/क्षार में गंध बदलती है)",
+          "Zn_H2SO4": "Zn + H2SO4 → ZnSO4 + H2↑"
+        }
+      },
+      "ch3_metals_nonmetals": {
+        "syllabus_marks_2026": 5,
+        "mcq_asked": [
+          {
+            "q": "विद्युत का सर्वश्रेष्ठ चालक",
+            "ans": "चाँदी (D)"
+          },
+          {
+            "q": "ऊष्मा का सर्वश्रेष्ठ चालक",
+            "ans": "तांबा (A)"
+          },
+          {
+            "q": "चाँदी पर काली परत",
+            "ans": "संक्षारण (B)"
+          },
+          {
+            "q": "Al, Fe, Zn की आरोही अभिक्रियाशीलता",
+            "ans": "Fe < Zn < Al"
+          }
+        ],
+        "fill_blank_asked": [
+          {
+            "q": "सोना और लोहे में अधिक तन्य",
+            "ans": "सोना"
+          }
+        ],
+        "very_short_asked": [
+          {
+            "q": "आयोडीन, हीरा, सोडियम में सबसे कठोर",
+            "ans": "हीरा"
+          },
+          {
+            "q": "पीतल में तांबे के साथ दूसरी धातु",
+            "ans": "जस्ता"
+          },
+          {
+            "q": "S, Br, I में द्रव अधातु",
+            "ans": "ब्रोमीन"
+          }
+        ],
+        "short_answer_asked": [
+          {
+            "q": "भर्जन और निस्तापन परिभाषित करो",
+            "marks": 2
+          },
+          {
+            "q": "2NaOH + Zn → Na2ZnO2 + [X]. X का नाम + सूत्र",
+            "marks": 2,
+            "ans": "हाइड्रोजन (H2)"
+          },
+          {
+            "q": "नम CO2 में तांबा — सतह पर प्रभाव",
+            "marks": 2,
+            "ans": "हरी परत (Cu(OH)2·CuCO3 — वर्दिग्रिस)"
+          }
+        ],
+        "key_facts": {
+          "best_conductor_electricity": "चाँदी > तांबा > सोना",
+          "best_conductor_heat": "तांबा",
+          "hardest": "हीरा",
+          "most_ductile": "सोना",
+          "liquid_nonmetal": "ब्रोमीन",
+          "reactivity_series_key": "K > Na > Ca > Mg > Al > Zn > Fe > Pb > H > Cu > Ag > Au",
+          "Fe_Zn_Al": "Fe < Zn < Al (आरोही अभिक्रियाशीलता)",
+          "roasting": "सल्फाइड अयस्क को अधिक वायु में गर्म करना (mp से नीचे) → ऑक्साइड अयस्क",
+          "calcination": "कार्बोनेट/हाइड्रॉक्साइड अयस्क को सीमित वायु में गर्म करना → ऑक्साइड अयस्क",
+          "brass_alloy": "Cu + Zn",
+          "bronze_alloy": "Cu + Sn",
+          "NaOH_Zn": "2NaOH + Zn → Na2ZnO2 + H2 (हाइड्रोजन गैस निकलती है)"
+        }
+      },
+      "ch4_carbon_compounds": {
+        "syllabus_marks_2026": 7,
+        "importance": "अत्यंत उच्च",
+        "mcq_asked": [
+          {
+            "q": "कीटोन में क्रियात्मक समूह",
+            "ans": ">C=O (कार्बोनिल)"
+          },
+          {
+            "q": "संतृप्त हाइड्रोकार्बन",
+            "ans": "C2H6 (एथेन)"
+          },
+          {
+            "q": "CH4 में सहसंयोजक बंध",
+            "ans": "4"
+          },
+          {
+            "q": "फॉस्फोरस की M कक्षा में इलेक्ट्रॉन",
+            "ans": "5"
+          },
+          {
+            "q": "CH3COOH + CH3CH2OH → [A] + H2O. A = ?",
+            "ans": "CH3-CO-O-C2H5 (एथिल एसीटेट)"
+          }
+        ],
+        "fill_blank_asked": [
+          {
+            "q": "C3H8 में सहसंयोजक बंध",
+            "ans": "10"
+          }
+        ],
+        "very_short_asked": [
+          {
+            "q": "मेथेन का इलेक्ट्रॉन बिंदु संरचना बनाओ"
+          },
+          {
+            "q": "कार्बोक्सिलिक अम्ल में क्रियात्मक समूह का सूत्र",
+            "ans": "-COOH"
+          }
+        ],
+        "short_essay_asked": [
+          {
+            "q": "एथेनॉल की संतुलित अभिक्रियाएं: i) Na के साथ ii) सांद्र H2SO4 के साथ 443K पर",
+            "marks": 2
+          },
+          {
+            "q": "एथीन का इलेक्ट्रॉन बिंदु संरचना बनाओ",
+            "marks": 2
+          },
+          {
+            "q": "साबुन का मिसेल संरचना चित्र बनाओ",
+            "marks": 2
+          },
+          {
+            "q": "न्यूलैंड का अष्टक नियम समझाइए",
+            "marks": 2
+          },
+          {
+            "q": "मिसेल संरचना + साबुन और अपमार्जक की सफाई क्रिया",
+            "marks": 4
+          },
+          {
+            "q": "एथेनोइक अम्ल: i) एस्टरीकरण अभिक्रिया ii) क्षार के साथ अभिक्रिया — समीकरण",
+            "marks": 4
+          }
+        ],
+        "key_facts": {
+          "alkane": "CnH2n+2 — संतृप्त (एकल बंध). CH4, C2H6, C3H8",
+          "alkene": "CnH2n — असंतृप्त (द्विबंध). C2H4 (एथीन)",
+          "alkyne": "CnH2n-2 — असंतृप्त (त्रिबंध). C2H2 (एथाइन)",
+          "functional_groups": {
+            "alcohol": "-OH",
+            "aldehyde": "-CHO",
+            "ketone": ">C=O",
+            "carboxylic_acid": "-COOH",
+            "ester": "-COO-"
+          },
+          "ethanol_Na": "2C2H5OH + 2Na → 2C2H5ONa + H2",
+          "ethanol_H2SO4_443K": "C2H5OH → C2H4 + H2O (निर्जलीकरण → एथीन)",
+          "esterification": "CH3COOH + C2H5OH (H+) → CH3COOC2H5 + H2O",
+          "soap_micelle": "जलरागी सिर (पानी को पसंद करता है) पानी की ओर। जलविरागी पूँछ (तेल को पसंद करती है) गंदगी की ओर।",
+          "covalent_bonds_CH4": 4,
+          "covalent_bonds_C2H6": 7,
+          "covalent_bonds_C3H8": 10,
+          "P_electrons_shells": "K=2, L=8, M=5 (कुल 15 इलेक्ट्रॉन)"
+        }
+      },
+      "ch5_life_processes": {
+        "syllabus_marks_2026": 8,
+        "importance": "सर्वोच्च",
+        "mcq_asked": [
+          {
+            "q": "वृक्क किस तंत्र का भाग है",
+            "ans": "उत्सर्जन (C)"
+          },
+          {
+            "q": "हृदय किस तंत्र का भाग है",
+            "ans": "परिसंचरण (D)"
+          },
+          {
+            "q": "रक्षक कोशिकाएं क्या करती हैं",
+            "ans": "रंध्र खोलती/बंद करती हैं (C)"
+          }
+        ],
+        "fill_blank_asked": [
+          {
+            "q": "लार में उपस्थित एंजाइम को लार ___ कहते हैं",
+            "ans": "एमाइलेज"
+          }
+        ],
+        "very_short_asked": [
+          {
+            "q": "श्वसन परिभाषित करो",
+            "ans": "भोजन का ऑक्सीकरण करके ऊर्जा निकालना (C6H12O6 + O2 → CO2 + H2O + ऊर्जा)"
+          }
+        ],
+        "short_answer_asked": [
+          {
+            "q": "वायवीय और अवायवीय श्वसन में अंतर",
+            "marks": 2
+          },
+          {
+            "q": "पौधों में प्रकाशानुवर्ती गतियाँ समझाइए",
+            "marks": 2
+          }
+        ],
+        "essay_asked": [
+          {
+            "q": "i) अमीबा में पोषण ii) अग्न्याशयिक एंजाइम का नाम iii) रसांकुर का कार्य",
+            "marks": 4
+          },
+          {
+            "q": "i) पैरामीशियम में पोषण ii) जठर एंजाइम iii) बाघ की छोटी आंत छोटी क्यों?",
+            "marks": 4
+          },
+          {
+            "q": "i) वायवीय श्वसन परिभाषा ii) श्वसन तंत्र में वायु मार्ग iii) श्वसन तंत्र का नामांकित चित्र",
+            "marks": 4
+          },
+          {
+            "q": "i) पाचन परिभाषा ii) अग्न्याशयिक रस की भूमिका iii) मानव आहार नाल का नामांकित चित्र",
+            "marks": 4
+          },
+          {
+            "q": "i) प्रकाश संश्लेषण की घटनाएं ii) पत्ती की अनुप्रस्थ काट का नामांकित चित्र",
+            "marks": 4
+          },
+          {
+            "q": "i) रंध्र का खुलना/बंद होना ii) रंध्री छिद्र का नामांकित चित्र",
+            "marks": 4
+          }
+        ],
+        "key_facts": {
+          "salivary_amylase": "स्टार्च → माल्टोज",
+          "pancreatic_enzymes": "ट्रिप्सिन (प्रोटीन), लाइपेज (वसा), एमाइलेज (स्टार्च)",
+          "gastric_enzyme": "पेप्सिन — जठर ग्रंथियों द्वारा स्रावित — प्रोटीन पाचन",
+          "aerobic_respiration": "C6H12O6 + 6O2 → 6CO2 + 6H2O + 38 ATP (माइटोकोंड्रिया में)",
+          "anaerobic_yeast": "C6H12O6 → 2C2H5OH + 2CO2 + 2 ATP",
+          "anaerobic_muscle": "C6H12O6 → 2C3H6O3 (लैक्टिक अम्ल) + 2 ATP",
+          "amoeba_nutrition": "पूर्ण भक्षी — कूटपाद से भक्षकता",
+          "paramecium_nutrition": "पूर्ण भक्षी — पक्ष्माभ से भोजन मुखरंध्र में",
+          "villi": "छोटी आंत में अंगुली जैसे उभार — अवशोषण के लिए पृष्ठ क्षेत्र बढ़ाते हैं",
+          "tiger_short_intestine": "माँसाहारी — मांस आसानी से पचता है, लंबी आंत नहीं चाहिए",
+          "air_passage": "नासिका → नासागुहा → ग्रसनी → स्वरयंत्र → श्वासनली → ब्रोंकाई → ब्रोंकिओल्स → वायुकोश",
+          "photosynthesis": "6CO2 + 6H2O + सूर्यप्रकाश → C6H12O6 + 6O2 (हरितलवक में)",
+          "phototrophism": "प्रकाश की ओर झुकना (धनात्मक — तना) या दूर (ऋणात्मक — जड़)",
+          "guard_cells": "रंध्र के आसपास — परासरण द्वारा खुलने/बंद होने को नियंत्रित करती हैं"
+        }
+      },
+      "ch6_control_coordination": {
+        "syllabus_marks_2026": 6,
+        "mcq_asked": [
+          {
+            "q": "वृद्धि अवरोधक हार्मोन",
+            "ans": "एब्सिसिक अम्ल (C)"
+          },
+          {
+            "q": "संतुलन और मुद्रा के लिए मस्तिष्क का भाग",
+            "ans": "अनुमस्तिष्क (C)"
+          },
+          {
+            "q": "वृद्धि के लिए उपापचय नियंत्रित करने वाली अंतःस्रावी ग्रंथि",
+            "ans": "थायरॉइड ग्रंथि (B)"
+          },
+          {
+            "q": "सभी अंगों की वृद्धि उत्तेजित करने वाली ग्रंथि",
+            "ans": "पीयूष ग्रंथि (A)"
+          },
+          {
+            "q": "पादप हार्मोन का उदाहरण",
+            "ans": "साइटोकाइनिन (D)"
+          },
+          {
+            "q": "परितारिका की पेशियाँ नियंत्रित करती हैं",
+            "ans": "पुतली का आकार (C)"
+          }
+        ],
+        "fill_blank_asked": [
+          {
+            "q": "___ तंत्र हार्मोन की क्रिया को नियंत्रित करता है",
+            "ans": "पुनर्भरण (Feedback)"
+          }
+        ],
+        "very_short_asked": [
+          {
+            "q": "चलना, साइकिल चलाना, पेन उठाना नियंत्रित करने वाला मस्तिष्क भाग",
+            "ans": "अनुमस्तिष्क"
+          }
+        ],
+        "essay_asked": [
+          {
+            "q": "अंडाशय द्वारा स्रावित हार्मोन का नाम + दो कार्य",
+            "marks": 3
+          },
+          {
+            "q": "कौन सा मस्तिष्क भाग अनैच्छिक क्रियाएं नियंत्रित करता है? उदाहरण",
+            "marks": 3
+          },
+          {
+            "q": "वृषण द्वारा स्रावित हार्मोन का नाम + दो कार्य",
+            "marks": 3
+          }
+        ],
+        "key_facts": {
+          "growth_inhibitor": "एब्सिसिक अम्ल (ABA) — रंध्र बंद करता है",
+          "growth_promoters": "ऑक्सिन (कोशिका दीर्घन), जिबरेलिन (तना दीर्घन), साइटोकाइनिन (कोशिका विभाजन)",
+          "cerebellum": "संतुलन, मुद्रा, समन्वय",
+          "cerebrum": "सोचना, स्मृति, ऐच्छिक क्रियाएं",
+          "medulla_oblongata": "अनैच्छिक — श्वसन, हृदयस्पंदन, वमन",
+          "pituitary": "मास्टर ग्रंथि — सभी ग्रंथियों को नियंत्रित करती है",
+          "thyroid": "थायरॉक्सिन — उपापचय नियमन",
+          "adrenal": "एड्रीनेलिन — लड़ो या भागो",
+          "ovary_hormone": "एस्ट्रोजन — महिला द्वितीयक यौन लक्षण",
+          "testes_hormone": "टेस्टोस्टेरोन — पुरुष द्वितीयक यौन लक्षण",
+          "feedback_mechanism": "हार्मोन बढ़ने पर स्राव रुकता है (स्व-नियमन)",
+          "insulin": "अग्न्याशय से — पादप हार्मोन नहीं"
+        }
+      },
+      "ch7_reproduction": {
+        "syllabus_marks_2026": 7,
+        "importance": "अत्यंत उच्च — चित्र आवश्यक",
+        "mcq_asked": [
+          {
+            "q": "पुनरुद्भवन से जनन करने वाला जीव",
+            "ans": "प्लेनेरिया (A)"
+          },
+          {
+            "q": "पुंकेसर + स्त्रीकेसर दोनों वाला पुष्प",
+            "ans": "द्विलिंगी (C)"
+          }
+        ],
+        "fill_blank_asked": [
+          {
+            "q": "कायिक प्रवर्धन से पौधे आनुवंशिक रूप से जनक के ___ होते हैं",
+            "ans": "समान"
+          }
+        ],
+        "very_short_asked": [
+          {
+            "q": "बहु-विखंडन दिखाने वाला जीव",
+            "ans": "प्लाज्मोडियम"
+          },
+          {
+            "q": "द्विलिंगी पुष्प का उदाहरण",
+            "ans": "गुड़हल / सरसों / गुलाब"
+          },
+          {
+            "q": "सफेद मटर के फूल का विपरीत लक्षण",
+            "ans": "बैंगनी/जामुनी फूल"
+          }
+        ],
+        "short_essay_asked": [
+          {
+            "q": "एकलिंगी पुष्प परिभाषित करो + दो उदाहरण",
+            "marks": 2
+          },
+          {
+            "q": "वर्तिकाग्र पर पराग कणों के अंकुरण का नामांकित चित्र",
+            "marks": 2
+          },
+          {
+            "q": "नर जनन तंत्र के दो अंगों के कार्य",
+            "marks": 2
+          },
+          {
+            "q": "मनुष्य में लिंग निर्धारण का रेखाचित्र बनाओ",
+            "marks": 2
+          },
+          {
+            "q": "गर्भनिरोधन की दो विधियाँ",
+            "marks": 2
+          },
+          {
+            "q": "माहवारी का कारण + अवधि",
+            "marks": 3
+          },
+          {
+            "q": "मानव नर जनन तंत्र का नामांकित चित्र बनाओ",
+            "marks": 3
+          },
+          {
+            "q": "मानव मादा जनन तंत्र का नामांकित चित्र बनाओ",
+            "marks": 3
+          }
+        ],
+        "key_facts": {
+          "regeneration": "प्लेनेरिया, हाइड्रा",
+          "multiple_fission": "प्लाज्मोडियम",
+          "binary_fission": "अमीबा, जीवाणु",
+          "budding": "हाइड्रा, यीस्ट",
+          "unisexual_flower": "केवल एक लिंग — पपीता, तरबूज, मक्का",
+          "bisexual_flower": "पुंकेसर + स्त्रीकेसर दोनों — गुड़हल, सरसों, गुलाब",
+          "menstruation": "अंडाणु निषेचित नहीं → गर्भाशय की परत झड़ती है। अवधि: 2–8 दिन। चक्र: ~28 दिन।",
+          "sex_determination": "XX = मादा, XY = नर। पिता X या Y गुणसूत्र देता है।",
+          "male_organs": "वृषण (शुक्राणु + टेस्टोस्टेरोन), शुक्रवाहिका, शुक्राशय, मूत्रमार्ग, शिश्न",
+          "female_organs": "अंडाशय (अंडाणु + एस्ट्रोजन), फेलोपियन नली (निषेचन), गर्भाशय, योनि",
+          "contraception": "अवरोध (कंडोम), हार्मोनल (गोलियाँ), IUD, शल्य (वेसेक्टोमी/ट्यूबेक्टोमी)"
+        }
+      },
+      "ch8_heredity_evolution": {
+        "syllabus_marks_2026": 4,
+        "mcq_asked": [
+          {
+            "q": "RrYy का फीनोटाइप",
+            "ans": "गोल, पीला (C)"
+          },
+          {
+            "q": "F2 एकसंकर का जीनोटाइप अनुपात",
+            "ans": "1:2:1 (A)"
+          },
+          {
+            "q": "पुरुषों में लिंग गुणसूत्र",
+            "ans": "XY (B)"
+          }
+        ],
+        "short_essay_asked": [
+          {
+            "q": "TT × tt का F2 तक वंशागति आरेख बनाओ",
+            "marks": 2
+          },
+          {
+            "q": "समजात और समरूप अंग परिभाषित करो",
+            "marks": 3
+          }
+        ],
+        "key_facts": {
+          "RrYy_phenotype": "गोल + पीला (R और Y दोनों प्रभावी)",
+          "monohybrid_genotype_F2": "1:2:1 (TT:Tt:tt)",
+          "monohybrid_phenotype_F2": "3:1 (लंबा:बौना)",
+          "dihybrid_phenotype_F2": "9:3:3:1",
+          "dwarf_F2_percentage": "25%",
+          "sex_chromosomes": "नर = XY, मादा = XX",
+          "homologous_organs": "समान संरचना, भिन्न कार्य (व्हेल का पंख, चमगादड़ का पंख, मानव हाथ)",
+          "analogous_organs": "भिन्न संरचना, समान कार्य (पक्षी का पंख बनाम कीट का पंख)"
+        }
+      },
+      "ch9_reflection_refraction": {
+        "syllabus_marks_2026": 8,
+        "importance": "सर्वोच्च — संख्यात्मक + चित्र",
+        "mcq_asked": [
+          {
+            "q": "अभिलंब से 30° पर आपतित किरण, x कोण",
+            "ans": "30° (D) — परावर्तन नियम"
+          },
+          {
+            "q": "गोलीय दर्पण के R और f का संबंध",
+            "ans": "R = 2f (C)"
+          },
+          {
+            "q": "प्रिज्म में सबसे कम विचलन वाला प्रकाश",
+            "ans": "लाल (A)"
+          },
+          {
+            "q": "व्यक्ति समतल दर्पण से 3m — व्यक्ति और प्रतिबिंब के बीच दूरी",
+            "ans": "6m (B)"
+          },
+          {
+            "q": "sin i = a, sin r = b → μ = ?",
+            "ans": "a/b (C) — μ = sin i / sin r"
+          },
+          {
+            "q": "सूर्योदय जल्दी/सूर्यास्त देर से कारण",
+            "ans": "वायुमंडलीय अपवर्तन (B)"
+          }
+        ],
+        "fill_blank_asked": [
+          {
+            "q": "गोलीय दर्पण का h'/h अनुपात कहलाता है",
+            "ans": "आवर्धन (m)"
+          },
+          {
+            "q": "___ लेंस दूरदृष्टि दोष ठीक करता है",
+            "ans": "उत्तल (Convex)"
+          }
+        ],
+        "very_short_asked": [
+          {
+            "q": "लेंस का आवर्धन परिभाषित करो",
+            "ans": "m = h'/h = v/u (प्रतिबिंब आकार से वस्तु आकार का अनुपात)"
+          },
+          {
+            "q": "वाहनों में पीछे देखने का दर्पण",
+            "ans": "उत्तल दर्पण"
+          },
+          {
+            "q": "अपवर्तनांक क्या है? सूत्र",
+            "ans": "μ = sin i / sin r = c/v"
+          },
+          {
+            "q": "स्वच्छ आकाश नीला क्यों?",
+            "ans": "रेले प्रकीर्णन — नीला प्रकाश छोटे कणों द्वारा सबसे अधिक प्रकीर्णित"
+          },
+          {
+            "q": "निकट दृष्टि दोष क्या है?",
+            "ans": "प्रतिबिंब रेटिना के सामने बनता है — अवतल लेंस से ठीक होता है"
+          }
+        ],
+        "short_essay_asked": [
+          {
+            "q": "तारे क्यों टिमटिमाते हैं? खतरे के संकेत लाल क्यों?",
+            "marks": 3
+          }
+        ],
+        "essay_asked": [
+          {
+            "q": "i) F पर वस्तु — अवतल दर्पण किरण चित्र ii) R=14cm → फोकस दूरी",
+            "marks": 4
+          },
+          {
+            "q": "i) F1 और 2F1 के बीच वस्तु — उत्तल लेंस किरण चित्र ii) P=+2.5D → फोकस दूरी",
+            "marks": 4
+          },
+          {
+            "q": "i) अवतल दर्पण f=16cm से 24cm पर वस्तु → प्रतिबिंब दूरी ii) ध्रुव और F के बीच वस्तु — किरण चित्र",
+            "marks": 4
+          },
+          {
+            "q": "i) गोलीय दर्पण क्या है ii) ध्रुव परिभाषित करो iii) P=+4.0D → फोकस दूरी",
+            "marks": 4
+          }
+        ],
+        "key_numericals": [
+          {
+            "problem": "R = 14 cm → f = ?",
+            "solution": "f = R/2 = 7 cm"
+          },
+          {
+            "problem": "P = +2.5 D → f = ?",
+            "solution": "f = 1/P = 1/2.5 = 0.4 m = 40 cm (उत्तल)"
+          },
+          {
+            "problem": "P = +2.0 D → f = ?",
+            "solution": "f = 0.5 m = 50 cm"
+          },
+          {
+            "problem": "P = +4.0 D → f = ?",
+            "solution": "f = 0.25 m = 25 cm"
+          },
+          {
+            "problem": "वस्तु 24cm, f=16cm अवतल दर्पण → v = ?",
+            "solution": "1/v + 1/(-24) = 1/(-16) → v = -48 cm (48cm सामने)"
+          },
+          {
+            "problem": "व्यक्ति 3m समतल दर्पण से → व्यक्ति से प्रतिबिंब दूरी?",
+            "solution": "प्रतिबिंब 3m पीछे → कुल = 3+3 = 6m"
+          }
+        ],
+        "key_facts": {
+          "law_of_reflection": "आपतन कोण = परावर्तन कोण",
+          "mirror_formula": "1/v + 1/u = 1/f",
+          "R_2f": "R = 2f",
+          "lens_formula": "1/v - 1/u = 1/f",
+          "power": "P = 1/f(m). इकाई = डाइऑप्टर (D). उत्तल = +ve, अवतल = -ve",
+          "magnification_mirror": "m = -v/u",
+          "refractive_index": "μ = sin i / sin r = c/v",
+          "concave_mirror_uses": "मशाल, हेडलाइट, शेविंग/मेकअप दर्पण",
+          "convex_mirror_uses": "पीछे देखने का दर्पण (넓은 क्षेत्र दिखाता है)",
+          "concave_lens": "अपसारी — निकट दृष्टि दोष ठीक करता है",
+          "convex_lens": "अभिसारी — दूर दृष्टि दोष ठीक करता है",
+          "spectrum_VIBGYOR": "बैंगनी सबसे अधिक झुकता है, लाल सबसे कम",
+          "blue_sky": "रेले प्रकीर्णन — नीला (छोटी तरंगदैर्ध्य) अधिक प्रकीर्णित",
+          "twinkling_stars": "वायुमंडलीय अपवर्तन — गतिशील वायु परतें",
+          "red_danger_signals": "सबसे लंबी तरंगदैर्ध्य — कम प्रकीर्णन — दूर से दिखती है"
+        }
+      },
+      "ch10_human_eye": {
+        "syllabus_marks_2026": 4,
+        "mcq_asked": [
+          {
+            "q": "परितारिका की पेशियाँ नियंत्रित करती हैं",
+            "ans": "पुतली का आकार (C)"
+          }
+        ],
+        "very_short_asked": [
+          {
+            "q": "निकट दृष्टि दोष क्या है?",
+            "ans": "निकट दृष्टिता, प्रतिबिंब रेटिना के सामने, अवतल लेंस से ठीक"
+          },
+          {
+            "q": "पुतली का आकार नियंत्रित करने वाला भाग",
+            "ans": "परितारिका"
+          }
+        ],
+        "key_facts": {
+          "iris": "पुतली का आकार नियंत्रित करती है",
+          "pupil": "छिद्र — प्रकाश प्रवेश नियंत्रित करता है",
+          "lens": "क्रिस्टलीय — रेटिना पर प्रतिबिंब केंद्रित करता है",
+          "retina": "पर्दा — रॉड (मंद प्रकाश), शंकु (रंग)",
+          "myopia": "निकट दृष्टि — अवतल लेंस। प्रतिबिंब रेटिना के सामने।",
+          "hypermetropia": "दूर दृष्टि — उत्तल लेंस। प्रतिबिंब रेटिना के पीछे।",
+          "accommodation": "आँख की फोकस दूरी बदलने की क्षमता (पक्ष्माभी पेशियाँ)"
+        }
+      },
+      "ch11_electricity": {
+        "syllabus_marks_2026": 7,
+        "importance": "अत्यंत उच्च — संख्यात्मक + चित्र",
+        "mcq_asked": [
+          {
+            "q": "kWh किसकी इकाई है",
+            "ans": "विद्युत ऊर्जा (B)"
+          },
+          {
+            "q": "प्रतिरोधक के समांतर युक्ति y (ओम नियम परिपथ)",
+            "ans": "वोल्टमीटर (A)"
+          },
+          {
+            "q": "भूतार का उपयोग",
+            "ans": "सुरक्षा उपाय (B)"
+          }
+        ],
+        "fill_blank_asked": [
+          {
+            "q": "विद्युत तार तांबे के बनाए जाते हैं क्योंकि ___",
+            "ans": "यह विद्युत का अच्छा चालक है"
+          },
+          {
+            "q": "P=5Ω, Q=8×10⁻⁴ Ω·m. लंबाई आधी → नया P और Q?",
+            "ans": "P=2.5Ω, Q=4×10⁻⁴ Ω·m"
+          }
+        ],
+        "very_short_asked": [
+          {
+            "q": "विद्युत विभवांतर परिभाषित करो",
+            "ans": "प्रति इकाई आवेश पर किया गया कार्य V=W/Q. इकाई=वोल्ट"
+          },
+          {
+            "q": "जूल के ऊष्मीय नियम पर आधारित दो युक्तियाँ",
+            "ans": "विद्युत इस्त्री, गीजर / टोस्टर / हीटर"
+          },
+          {
+            "q": "विभवांतर मापने का यंत्र",
+            "ans": "वोल्टमीटर (समांतर में जोड़ा जाता है)"
+          }
+        ],
+        "short_essay_asked": [
+          {
+            "q": "श्रेणी में तीन प्रतिरोधकों का सूत्र व्युत्पन्न करो",
+            "marks": 2
+          },
+          {
+            "q": "घरेलू उपकरण समांतर क्रम में क्यों जोड़े जाते हैं?",
+            "marks": 2
+          },
+          {
+            "q": "10Ω से 2 सेकंड में 3A → उत्पन्न ऊष्मा?",
+            "marks": 2,
+            "ans": "H = I²Rt = 9×10×2 = 180 J"
+          },
+          {
+            "q": "घरेलू परिपथ में विद्युत फ्यूज क्यों उपयोग होता है?",
+            "marks": 2
+          }
+        ],
+        "long_essay_asked": [
+          {
+            "q": "ओम का नियम + प्रतिरोध परिभाषा + SI इकाई + निक्रोम के लिए V-I ग्राफ",
+            "marks": 3
+          },
+          {
+            "q": "ऊष्मीय प्रभाव + कारक + ओम नियम अध्ययन के लिए परिपथ चित्र",
+            "marks": 3
+          },
+          {
+            "q": "i) विभवांतर परिभाषा + SI इकाई ii) युक्ति + संयोजन iii) V-I ग्राफ",
+            "marks": 3
+          }
+        ],
+        "key_facts": {
+          "ohms_law": "V = IR",
+          "resistance_formula": "R = ρL/A (लंबाई आधी → R आधा)",
+          "series": "Rs = R1 + R2 + R3",
+          "parallel": "1/Rp = 1/R1 + 1/R2 + 1/R3",
+          "joules_law": "H = I²Rt",
+          "power": "P = VI = I²R = V²/R",
+          "energy": "E = Pt. 1 kWh = 3.6×10⁶ J",
+          "voltmeter": "समांतर संयोजन — विभवांतर मापता है",
+          "ammeter": "श्रेणी संयोजन — धारा मापता है",
+          "fuse": "श्रेणी — अधिक धारा पर पिघलता है — सुरक्षा",
+          "earth_wire": "सुरक्षा — विद्युत आघात से बचाता है",
+          "parallel_advantage": "प्रत्येक उपकरण को समान वोल्टेज; स्वतंत्र स्विचिंग; एक फेल हो तो बाकी काम करते हैं"
+        }
+      },
+      "ch12_magnetic_effects": {
+        "syllabus_marks_2026": 6,
+        "mcq_asked": [
+          {
+            "q": "दाहिने हाथ के अंगूठे का नियम — अंगूठा किस दिशा में",
+            "ans": "धारा की दिशा (A)"
+          },
+          {
+            "q": "चालक पर बल की दिशा (धारा ऊपर, क्षेत्र दाईं ओर)",
+            "ans": "पृष्ठ से बाहर (C)"
+          }
+        ],
+        "fill_blank_asked": [
+          {
+            "q": "चुम्बक के समान ध्रुव एक-दूसरे को ___ करते हैं",
+            "ans": "प्रतिकर्षित"
+          },
+          {
+            "q": "कुंडली में फेरों की संख्या बढ़ाने पर चुम्बकीय क्षेत्र की शक्ति ___",
+            "ans": "बढ़ती है"
+          }
+        ],
+        "very_short_asked": [
+          {
+            "q": "दो चुम्बकीय क्षेत्र रेखाएं प्रतिच्छेद क्यों नहीं करतीं?",
+            "ans": "प्रतिच्छेद पर दो दिशाएं होंगी — असंभव, एक बिंदु पर एक ही दिशा"
+          },
+          {
+            "q": "फ्लेमिंग का बायाँ हाथ का नियम",
+            "ans": "अंगूठा=बल, तर्जनी=क्षेत्र, मध्यमा=धारा (तीन अंगुलियाँ लंबवत)"
+          },
+          {
+            "q": "विद्युत चुम्बकीय प्रेरण परिभाषित करो",
+            "ans": "बदलते चुम्बकीय फ्लक्स के कारण EMF/धारा उत्पन्न होना"
+          }
+        ],
+        "short_essay_asked": [
+          {
+            "q": "परिनालिका के अंदर और बाहर चुम्बकीय क्षेत्र का चित्र बनाओ",
+            "marks": 2
+          },
+          {
+            "q": "दंड चुम्बक की चुम्बकीय क्षेत्र रेखाएं बनाओ",
+            "marks": 2
+          }
+        ],
+        "key_facts": {
+          "right_hand_thumb_rule": "अंगूठा = धारा की दिशा, मुड़ी हुई अंगुलियाँ = चुम्बकीय क्षेत्र की दिशा",
+          "flemings_LHR": "मोटर नियम — अंगूठा=बल, तर्जनी=B क्षेत्र, मध्यमा=धारा",
+          "flemings_RHR": "जनित्र नियम — अंगूठा=गति, तर्जनी=B क्षेत्र, मध्यमा=प्रेरित धारा",
+          "solenoid": "अंदर: समान समांतर क्षेत्र रेखाएं। बाहर: दंड चुम्बक जैसा।",
+          "like_poles": "प्रतिकर्षण",
+          "unlike_poles": "आकर्षण",
+          "EM_induction": "फैराडे का नियम — बदलता चुम्बकीय फ्लक्स EMF प्रेरित करता है",
+          "electric_motor": "विद्युत → यांत्रिक (फ्लेमिंग LHR उपयोग)",
+          "electric_generator": "यांत्रिक → विद्युत (फ्लेमिंग RHR उपयोग)"
+        }
+      },
+      "ch13_our_environment": {
+        "syllabus_marks_2026": 5,
+        "mcq_asked": [
+          {
+            "q": "ऊर्जा का नवीकरणीय स्रोत",
+            "ans": "पवन ऊर्जा (A)"
+          },
+          {
+            "q": "विषमपोषियों के लिए सौर ऊर्जा स्थिर करता है",
+            "ans": "उत्पादक (D)"
+          },
+          {
+            "q": "राजस्थान में पुरानी जल संचयन अवधारणा",
+            "ans": "खडीन (A)"
+          }
+        ],
+        "fill_blank_asked": [
+          {
+            "q": "जैविक प्रक्रियाओं द्वारा अपघटित होने वाले पदार्थ ___ कहलाते हैं",
+            "ans": "जैव निम्नीकरणीय"
+          },
+          {
+            "q": "खाद्य श्रृंखलाओं का शाखाओं वाला जाल ___ कहलाता है",
+            "ans": "खाद्य जाल"
+          }
+        ],
+        "very_short_asked": [
+          {
+            "q": "जीवाश्म ईंधन का एक नुकसान",
+            "ans": "वायु प्रदूषण / CO2 उत्सर्जन / भूमंडलीय ताप"
+          },
+          {
+            "q": "पारितंत्र का एक अजैविक घटक",
+            "ans": "जल / सूर्यप्रकाश / मिट्टी / तापमान"
+          },
+          {
+            "q": "पारितंत्र में उपभोक्ता का एक उदाहरण",
+            "ans": "हिरण / खरगोश / टिड्डा"
+          }
+        ],
+        "short_essay_asked": [
+          {
+            "q": "पर्यावरण के विभिन्न घटकों के बीच ऊर्जा का प्रवाह",
+            "marks": 2
+          },
+          {
+            "q": "खाद्य श्रृंखला के विभिन्न पोषण स्तरों का वर्णन",
+            "marks": 2
+          },
+          {
+            "q": "कचरा समस्या प्रबंधन के दो तरीके",
+            "marks": 2
+          },
+          {
+            "q": "ऊपरी वायुमंडल में ओजोन निर्माण + समीकरण",
+            "marks": 3
+          },
+          {
+            "q": "ओजोन को कौन सा रसायन नष्ट करता है? क्या कदम उठाए गए?",
+            "marks": 3
+          }
+        ],
+        "key_facts": {
+          "food_chain": "उत्पादक → प्राथमिक उपभोक्ता → द्वितीयक उपभोक्ता → तृतीयक उपभोक्ता",
+          "trophic_levels": "T1=पौधे, T2=शाकाहारी, T3=माँसाहारी, T4=शीर्ष माँसाहारी",
+          "energy_transfer": "केवल 10% ऊर्जा अगले स्तर को (90% ऊष्मा के रूप में नष्ट)",
+          "biodegradable": "सूक्ष्मजीवों द्वारा अपघटित — सब्जियाँ, कागज, जैव अपशिष्ट",
+          "non_biodegradable": "प्लास्टिक, धातु, काँच",
+          "renewable_energy": "सौर, पवन, जल, ज्वारीय",
+          "non_renewable": "कोयला, पेट्रोलियम, प्राकृतिक गैस",
+          "ozone_formation": "O2 + UV → O + O; O + O2 → O3",
+          "ozone_depletion": "CFCs (क्लोरोफ्लोरोकार्बन) — AC, रेफ्रिजरेटर से",
+          "montreal_protocol": "CFCs प्रतिबंधित करने का अंतर्राष्ट्रीय समझौता",
+          "water_harvesting_rajasthan": "खडीन — पुरानी पारंपरिक विधि",
+          "biotic": "पौधे, जंतु, सूक्ष्मजीव",
+          "abiotic": "जल, मिट्टी, वायु, सूर्यप्रकाश, तापमान"
+        }
+      }
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Science.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not applicable for Science.",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Science.",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Science.",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Science Class 10 — no practical exam.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 0,
+    "medium_percent": 0,
+    "hard_percent": 0,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [],
+    "time_allocation": []
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 26",
+        "target_marks": 26,
+        "strategy": "खंड A के वस्तुनिष्ठ प्रश्नों से ~20+ अंक संभव हैं। ऊपर से 1-2 लघु उत्तर करो।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "MCQ सावधानी से पढ़ो — 15+ अंक",
+          "रिक्त स्थान — अम्ल नाम, सूत्र, एक-शब्द तथ्य",
+          "अति लघु — परिभाषाएं"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45",
+        "target_marks": 45,
+        "strategy": "खंड A पूरा (25+ अंक) + खंड B में 8 प्रश्न (16 अंक) + 1 निबंध",
+        "focus_chapters": [],
+        "focus_areas": [
+          "प्रकाशिकी किरण चित्र (4 अंक आसान)",
+          "जैव प्रक्रम निबंध चित्र सहित",
+          "ओम का नियम + V-I ग्राफ"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60 plus",
+        "target_marks": 60,
+        "strategy": "",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [
+      "जैव प्रक्रम (8 marks)",
+      "प्रकाश — परावर्तन एवं अपवर्तन (8 marks)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": []
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "rajeduboard.rajasthan.gov.in",
+    "extra_time_given": false,
+    "extra_time_note": ""
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": ""
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

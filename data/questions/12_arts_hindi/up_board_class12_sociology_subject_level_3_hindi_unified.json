@@ -1,0 +1,2106 @@
+{
+  "board": "यूपी बोर्ड",
+  "class": "12",
+  "subject": "समाजशास्त्र (Samajshastra)",
+  "subject_code": "340",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 100,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 33,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 0,
+    "extra_time_given": false,
+    "extra_time_note": "",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 29,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "हिंदी या इंग्लिश — दोनों अलाउड। मिक्स्ड भी चलेगा। पेपर में दोनों वर्ज़न्स छपे होते हैं (हिंदी पहले, इंग्लिश उसी क्वेश्चन नंबर पर नीचे)।",
+    "all_compulsory_note": "",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "यूपी बोर्ड क्लास 12 सोशियोलॉजी में 4 टाइप्स: MCQ (1 मार्क), VSA (3 मार्क्स, 25 शब्द), SA (6 मार्क्स, 50 शब्द), LA (8 मार्क्स विद OR, 150 शब्द)। NO मैप, NO डेट्स, NO प्रैक्टिकल।",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (बहुविकल्पीय प्रश्न)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "सारे 10 अटेम्प्ट करो — नो नेगेटिव मार्किंग। MCQ मोस्टली: 'बुक X के लेखक?', 'Y कॉन्सेप्ट किसने दिया?', 'Z कब स्थापित हुआ?', 'W की मुख्य विशेषता?' — थियोरिस्ट/कॉन्सेप्ट पेयर्स मेमोराइज़ करो।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "अति लघु उत्तरीय (Very Short Answer)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 3,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "10 VSA × 3 = 30 मार्क्स — सबसे इम्पोर्टेंट सेक्शन। 3-4 लाइन्स में कंप्लीट डेफिनिशन + 1 एग्ज़ांपल या फीचर। 'X को परिभाषित करें', 'Y से आप क्या समझते हैं', 'Z के प्रकार लिखें' टाइप।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "~25 शब्द",
+        "notes": ""
+      },
+      {
+        "type": "लघु उत्तरीय (Short Answer)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 6,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "50 शब्द में 5-6 लाइन्स — इंट्रो (1 लाइन) + 3-4 नंबर्ड पॉइंट्स (3-4 लाइन्स) + कंक्लूज़न (1 लाइन)। 'X पर चर्चा करें', 'Y का वर्णन करें', 'Z समझाएँ' — स्ट्रक्चर्ड आंसर।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "~50 शब्द",
+        "notes": ""
+      },
+      {
+        "type": "दीर्घ उत्तरीय (Long Answer)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 8,
+        "total_in_paper": 3,
+        "attempt": 3,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "150 शब्द = 12-15 लाइन्स। इंट्रो पैरा + 4-5 सब-पॉइंट्स विद सब-हेडिंग्स + कंक्लूज़न। OR ऑप्शन का फायदा उठाओ — दोनों देखो, ईज़ियर पिक करो। डायग्राम्स/फ्लोचार्ट्स ऑप्शनल बट प्रेज़ेंटेशन हेल्प्स।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "~150 शब्द",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "यूपी बोर्ड सोशियोलॉजी = 100 मार्क्स थ्योरी (नो मैप/डेट्स/प्रैक्टिकल), 29 क्वेश्चन्स, 3 घंटे 15 मिनट (15 मिनट रीडिंग)। पैटर्न 2022-2024 कंसिस्टेंट।",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "सिर्फ Q27, Q28, Q29 (तीनों LA) में 'अथवा/OR' ऑप्शन मिलता है। MCQ, VSA, SA सब कंपल्सरी — नो चॉइस।",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 50,
+      "medium_percent": 40,
+      "hard_percent": 10,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "MCQ",
+        "name": "MCQ",
+        "type": "MCQ",
+        "question_numbers": "Q1-Q10",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "N/A — सिर्फ ऑप्शन (A/B/C/D या i/ii/iii/iv) लिखना",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "VSA",
+        "name": "VSA",
+        "type": "VSA",
+        "question_numbers": "Q11-Q20",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 3,
+        "total_marks": 30,
+        "word_limit": "~25 शब्द",
+        "breakdown": "ये यूपी बोर्ड का सबसे हाई-वेट सिंगल सेक्शन — 30 मार्क्स पूरा यहाँ है। डेफिनिशन्स और शॉर्ट कॉन्सेप्ट्स पर फोकस।",
+        "notes": "ये यूपी बोर्ड का सबसे हाई-वेट सिंगल सेक्शन — 30 मार्क्स पूरा यहाँ है। डेफिनिशन्स और शॉर्ट कॉन्सेप्ट्स पर फोकस।"
+      },
+      {
+        "section_id": "SA",
+        "name": "SA",
+        "type": "SA",
+        "question_numbers": "Q21-Q26",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 6,
+        "total_marks": 36,
+        "word_limit": "~50 शब्द",
+        "breakdown": "सबसे बिगेस्ट सेक्शन बाय मार्क्स। 50 शब्द में स्ट्रक्चर्ड आंसर — इंट्रो + 3-4 पॉइंट्स + कंक्लूज़न।",
+        "notes": "सबसे बिगेस्ट सेक्शन बाय मार्क्स। 50 शब्द में स्ट्रक्चर्ड आंसर — इंट्रो + 3-4 पॉइंट्स + कंक्लूज़न।"
+      },
+      {
+        "section_id": "LA",
+        "name": "LA",
+        "type": "LA",
+        "question_numbers": "Q27, Q28, Q29",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "attempt_required": 3,
+        "marks_per_question": 8,
+        "total_marks": 24,
+        "word_limit": "~150 शब्द",
+        "breakdown": "",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 100,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "MCQ",
+        "name": "MCQ",
+        "question_numbers": "",
+        "type": "MCQ",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "N/A — सिर्फ ऑप्शन (A/B/C/D या i/ii/iii/iv) लिखना",
+        "breakdown": ""
+      },
+      {
+        "section_id": "VSA",
+        "name": "VSA",
+        "question_numbers": "",
+        "type": "VSA",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 30,
+        "word_limit": "~25 शब्द",
+        "breakdown": "ये यूपी बोर्ड का सबसे हाई-वेट सिंगल सेक्शन — 30 मार्क्स पूरा यहाँ है। डेफिनिशन्स और शॉर्ट कॉन्सेप्ट्स पर फोकस।"
+      },
+      {
+        "section_id": "SA",
+        "name": "SA",
+        "question_numbers": "",
+        "type": "SA",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 6,
+        "total_marks": 36,
+        "word_limit": "~50 शब्द",
+        "breakdown": "सबसे बिगेस्ट सेक्शन बाय मार्क्स। 50 शब्द में स्ट्रक्चर्ड आंसर — इंट्रो + 3-4 पॉइंट्स + कंक्लूज़न।"
+      },
+      {
+        "section_id": "LA",
+        "name": "LA",
+        "question_numbers": "",
+        "type": "LA",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "marks_per_question": 8,
+        "total_marks": 24,
+        "word_limit": "~150 शब्द",
+        "breakdown": ""
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 100,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "6",
+      "name": "सांस्कृतिक विभिन्नताओं की चुनौतियाँ",
+      "marks": 10,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "भारतीय समाज का परिचय",
+        "marks": 4
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "भारतीय समाज का परिचय",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand क: भारतीय समाज"
+      },
+      {
+        "chapter_id": "2",
+        "name": "भारतीय समाज की जनसांख्यिकी संरचना",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand क: भारतीय समाज"
+      },
+      {
+        "chapter_id": "3",
+        "name": "सामाजिक संस्थायें: निरंतरता और परिवर्तन",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand क: भारतीय समाज"
+      },
+      {
+        "chapter_id": "4",
+        "name": "बाजार एक सामाजिक संस्था के रूप में",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand क: भारतीय समाज"
+      },
+      {
+        "chapter_id": "5",
+        "name": "सामाजिक असमानता और बहिष्कार",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand क: भारतीय समाज"
+      },
+      {
+        "chapter_id": "6",
+        "name": "सांस्कृतिक विभिन्नताओं की चुनौतियाँ",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand क: भारतीय समाज"
+      },
+      {
+        "chapter_id": "7",
+        "name": "परियोजना कार्य के लिए सुझाव",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand क: भारतीय समाज"
+      },
+      {
+        "chapter_id": "8",
+        "name": "संरचनात्मक परिवर्तन",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand ख: परिवर्तन एवं विकास"
+      },
+      {
+        "chapter_id": "9",
+        "name": "सांस्कृतिक परिवर्तन",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand ख: परिवर्तन एवं विकास"
+      },
+      {
+        "chapter_id": "10",
+        "name": "संविधान एवं सामाजिक परिवर्तन",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand ख: परिवर्तन एवं विकास"
+      },
+      {
+        "chapter_id": "11",
+        "name": "ग्रामीण समाज में परिवर्तन और विकास",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand ख: परिवर्तन एवं विकास"
+      },
+      {
+        "chapter_id": "12",
+        "name": "औद्योगिक समाज में परिवर्तन और विकास",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand ख: परिवर्तन एवं विकास"
+      },
+      {
+        "chapter_id": "13",
+        "name": "भूमण्डलीकरण और सामाजिक परिवर्तन",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand ख: परिवर्तन एवं विकास"
+      },
+      {
+        "chapter_id": "14",
+        "name": "जनसम्पर्क माध्यम और सूचना",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand ख: परिवर्तन एवं विकास"
+      },
+      {
+        "chapter_id": "15",
+        "name": "सामाजिक आन्दोलन",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand ख: परिवर्तन एवं विकास"
+      }
+    ],
+    "totals": {
+      "total_marks": 100,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Sociology Class 12 — 0 units/chapters.",
+    "books": [
+      {
+        "book_name": "Khand क: भारतीय समाज",
+        "category": "Khand क: भारतीय समाज",
+        "total_marks": 50,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "भारतीय समाज का परिचय",
+            "marks": 4,
+            "topics": [
+              "उपनिवेशवाद और नए बाज़ारों का आविर्भाव (emergence of new markets)",
+              "राष्ट्रीयता (nationality/nationalism)",
+              "समुदाय (community), राष्ट्र-राज्य (nation-state)",
+              "औपनिवेशिक शासन का भारतीय समाज पर प्रभाव",
+              "भारतीय समाज पर समाजशास्त्रीय दृष्टिकोण"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "भारतीय समाज की जनसांख्यिकी संरचना",
+            "marks": 6,
+            "topics": [
+              "डेमोग्राफी — मीनिंग, टाइप्स (फॉर्मल + सोशल)",
+              "जनसंख्या का माल्थस सिद्धांत (ज्यामितीय वृद्धि vs अरिथमेटिक खाद्य आपूर्ति) — 'एस्से ऑन पॉपुलेशन' (1798)",
+              "डेमोग्राफिक ट्रांज़िशन थ्योरी (4 स्टेजेस)",
+              "सेक्स रेशियो, साक्षरता, आयु संरचना, जन्म/मृत्यु दर",
+              "ग्रामीण-शहरी अंतर + संयोजन (Rural-Urban continuum)",
+              "साप्ताहिक आदिवासी बाज़ार",
+              "नगरीकरण परिभाषा"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "सामाजिक संस्थायें: निरंतरता और परिवर्तन",
+            "marks": 8,
+            "topics": [
+              "परिवार (family) — संयुक्त परिवार (पारंपरिक भारतीय रूप), एकल परिवार, विस्तृत परिवार",
+              "नातेदारी (kinship) — प्राथमिक, द्वितीयक, तृतीयक; प्रकार",
+              "जाति व्यवस्था (Caste system) — जाति-आधारित बाज़ार और व्यावसायिक प्रणाली",
+              "जाति 'क्लोज़्ड क्लास' के रूप में — मैकाइवर और पेज",
+              "संस्कृतीकरण (M.N. श्रीनिवास), प्रभुत्वशाली जाति (M.N. श्रीनिवास)",
+              "जनजातीय समाज (Tribal society) — विशेषताएँ, साप्ताहिक आदिवासी बाज़ार",
+              "जनजातीय समुदाय — गोंड, संथाल, मुंडा, ओराँव, भील"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "बाजार एक सामाजिक संस्था के रूप में",
+            "marks": 6,
+            "topics": [
+              "बाज़ार सामाजिक संस्था के रूप में (सिर्फ आर्थिक नहीं)",
+              "भूमंडलीकरण/Globalization — स्थानीय, क्षेत्रीय, राष्ट्रीय, अंतर्राष्ट्रीय बाज़ारों के बीच संबंध",
+              "पूँजीवाद और बाज़ारों की समाजशास्त्रीय समझ",
+              "प्री-कोलोनियल बाज़ार vs औपनिवेशिक परिवर्तन",
+              "साप्ताहिक बाज़ार, हाट, पीरियोडिक बाज़ार"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "सामाजिक असमानता और बहिष्कार",
+            "marks": 8,
+            "topics": [
+              "जातिगत पूर्वाग्रह (caste prejudice)",
+              "अनुसूचित जातियाँ (SC), अन्य पिछड़े वर्ग (OBC)",
+              "जनजातीय समुदायों की उपेक्षा (neglect of tribal communities)",
+              "महिलाओं की समानता के लिए संघर्ष (struggle for women's equality)",
+              "धार्मिक अल्पसंख्यकों का संरक्षण (protection of religious minorities)",
+              "अन्यथा सक्षम (दिव्यांग) — differently-abled people care",
+              "SC/ST/OBC/अल्पसंख्यकों के लिए संवैधानिक प्रावधान"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "सांस्कृतिक विभिन्नताओं की चुनौतियाँ",
+            "marks": 10,
+            "topics": [
+              "सांप्रदायिकता (communalism), क्षेत्रवाद (regionalism), जातिवाद (casteism) — लोकतंत्र की बाधाएँ",
+              "मल्टी-कल्चरल और असमान समाजों में राज्य की भूमिका",
+              "हमारी समानताएँ (our commonalities / unity)",
+              "राष्ट्र-राज्य और धर्म संबंधी मुद्दे (state-religion issues)",
+              "राज्य vs सिविल सोसाइटी",
+              "सांप्रदायिकता, धर्मनिरपेक्षता, राष्ट्र-राज्य",
+              "विविधता में एकता — भारत की मिश्रित संस्कृति"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "परियोजना कार्य के लिए सुझाव",
+            "marks": 8,
+            "topics": [
+              "शोध विधियाँ — सर्वेक्षण प्रणाली (Survey method)",
+              "साक्षात्कार (Interview) — स्ट्रक्चर्ड, अनस्ट्रक्चर्ड, इसके मेरिट्स और डिमेरिट्स",
+              "अवलोकन / प्रेक्षण (Observation) — पार्टिसिपेंट और नॉन-पार्टिसिपेंट",
+              "सैंपलिंग मेथड्स, प्रश्नावली",
+              "छोटे शोध प्रोजेक्ट टॉपिक्स — स्थानीय क्षेत्र में दहेज, प्रवासन, किसान मुद्दे, महिला शिक्षा आदि",
+              "समसामयिक (contemporary) विधियाँ"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "Khand ख: परिवर्तन एवं विकास",
+        "category": "Khand ख: परिवर्तन एवं विकास",
+        "total_marks": 50,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "8",
+            "name": "संरचनात्मक परिवर्तन",
+            "marks": 5,
+            "topics": [
+              "उपनिवेशवाद (Colonialism) — भारतीय समाज पर प्रभाव",
+              "औद्योगीकरण (Industrialisation)",
+              "नगरीकरण (Urbanisation)",
+              "औपनिवेशिक आर्थिक शोषण — विऔद्योगीकरण, संपत्ति का अपवाह (drain of wealth)",
+              "नए सामाजिक वर्गों का उदय"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "सांस्कृतिक परिवर्तन",
+            "marks": 6,
+            "topics": [
+              "सामाजिक परिवर्तन के प्रकार — सोरोकिन का आइडिएशनल-सेंसेशनल-आइडियलिस्टिक (MCQ 2023)",
+              "संस्कृतीकरण — M.N. श्रीनिवास कॉन्सेप्ट",
+              "पश्चिमीकरण (Westernization) — M.N. श्रीनिवास कॉन्सेप्ट",
+              "आधुनिकीकरण (Modernization)",
+              "सामाजिक सुधार आंदोलन — ब्रह्म समाज (राजा राम मोहन राय, 1828), आर्य समाज (दयानंद सरस्वती, 1875), प्रार्थना समाज, रामकृष्ण मिशन (विवेकानंद)",
+              "सामाजिक सुधार कानून — सती उन्मूलन एक्ट (1829), विधवा पुनर्विवाह एक्ट (1856), बाल विवाह निरोधक एक्ट (शारदा एक्ट 1929), दहेज निरोधक एक्ट (1961)",
+              "संस्कृति = पर्यावरण का मानव-निर्मित भाग (हर्सकोविट्स)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "संविधान एवं सामाजिक परिवर्तन",
+            "marks": 7,
+            "topics": [
+              "संविधान सामाजिक परिवर्तन के साधन के रूप में",
+              "पंचायती राज — 73वाँ संशोधन (1992), 3-स्तरीय (ग्राम/क्षेत्र/ज़िला पंचायत)",
+              "ग्राम पंचायत के कार्य — आर्थिक, सामाजिक, विकासात्मक",
+              "ग्राम पंचायत अध्यक्ष = ग्राम प्रधान",
+              "पंचायती राज की सामाजिक परिवर्तन चुनौतियाँ",
+              "राजनीतिक दल (political parties)",
+              "दबाव समूह (Pressure groups) — प्रकार और भूमिका",
+              "जनतांत्रिक राजनीति (democratic politics)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "ग्रामीण समाज में परिवर्तन और विकास",
+            "marks": 7,
+            "topics": [
+              "भूमि सुधार (Land reforms) — ज़मींदारी उन्मूलन (1950s), टेनेंसी रिफॉर्म, सीलिंग, कंसॉलिडेशन, सहकारी खेती",
+              "हरित क्रांति (Green Revolution) — 1960s, HYV सीड्स, केमिकल फर्टिलाइज़र्स, सिंचाई; गाँवों पर प्रभाव",
+              "हरित क्रांति के सामाजिक परिणाम — क्षेत्रीय असमानता (पंजाब-हरियाणा vs पूर्व), वर्ग ध्रुवीकरण, बाद में किसान आत्महत्या",
+              "उभरता किसान समाज",
+              "भारतीय कृषि समाज में जाति और वर्ग",
+              "भूमंडलीकरण, उदारीकरण का ग्रामीण भारत पर प्रभाव",
+              "किसान आत्महत्या, ग्रामीण संकट"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "औद्योगिक समाज में परिवर्तन और विकास",
+            "marks": 6,
+            "topics": [
+              "नियोजित औद्योगीकरण — पंचवर्षीय योजनाएँ, नेहरू-महालनोबिस मॉडल",
+              "उदारीकरण (Liberalisation) — 1991 सुधार, LPG (उदारीकरण, निजीकरण, भूमंडलीकरण)",
+              "व्यवसाय प्राप्त करना (getting employment) — फॉर्मल vs इनफॉर्मल सेक्टर",
+              "कार्य पद्धति (work methods) — वर्क कल्चर में परिवर्तन",
+              "औद्योगिक श्रमिक — वर्ग, संघर्ष",
+              "पब्लिक से प्राइवेट सेक्टर में शिफ्ट"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "भूमण्डलीकरण और सामाजिक परिवर्तन",
+            "marks": 5,
+            "topics": [
+              "भूमंडलीकरण के आयाम — आर्थिक, सांस्कृतिक, राजनीतिक, तकनीकी",
+              "बहुराष्ट्रीय निगम (MNCs)",
+              "आउटसोर्सिंग, ऑफशोरिंग",
+              "सांस्कृतिक होमोजेनाइज़ेशन vs स्थानीय प्रतिरोध",
+              "भारतीय समाज पर प्रभाव — उपभोक्तावाद, मीडिया, श्रम"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "14",
+            "name": "जनसम्पर्क माध्यम और सूचना",
+            "marks": 6,
+            "topics": [
+              "जनसंचार माध्यमों के प्रकार — दूरदर्शन (TV), रेडियो (आकाशवाणी), समाचार पत्र",
+              "प्रिंट मीडिया vs इलेक्ट्रॉनिक मीडिया vs डिजिटल/न्यू मीडिया",
+              "जनसंचार माध्यमों की बदलती प्रकृति",
+              "सोशल मीडिया, इंटरनेट, मोबाइल",
+              "औपनिवेशिक और उत्तर-औपनिवेशिक भारत में जनसंचार माध्यम"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "15",
+            "name": "सामाजिक आन्दोलन",
+            "marks": 8,
+            "topics": [
+              "सामाजिक आंदोलनों का वर्गीकरण — सुधारवादी, क्रांतिकारी, मुक्तिदायक (redemptive)",
+              "वर्ग-आधारित आंदोलन — मज़दूर आंदोलन, किसान आंदोलन (तेलंगाना, तेभागा, भूदान, नक्सलबाड़ी)",
+              "जाति-आधारित आंदोलन — दलित आंदोलन (अंबेडकर, दलित पैंथर्स), पिछड़ी जाति आंदोलन, ऊँची जाति की प्रतिक्रिया",
+              "स्वतंत्र भारत में महिला आंदोलन — प्रथम लहर (19वीं सदी सामाजिक सुधार), द्वितीय लहर (समानता, 1970s), तृतीय लहर (विविध मुद्दे)",
+              "जनजातीय आंदोलन — संथाल (1855), बिरसा मुंडा, झारखंड, बोडोलैंड, गोरखालैंड",
+              "पर्यावरण आंदोलन — चिपको (1973, सुंदरलाल बहुगुणा, चंडी प्रसाद भट्ट; ऐतिहासिक उत्पत्ति = अमृता देवी बिश्नोई 1730), नर्मदा बचाओ आंदोलन (मेधा पाटकर), साइलेंट वैली",
+              "दहेज प्रथा — कारण, प्रभाव (कन्या भ्रूण हत्या, उत्पीड़न, वधू जलाना), दहेज निरोधक एक्ट 1961, समाधान"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "भारतीय समाज का परिचय",
+      "unit_or_chapter": "chapter",
+      "book": "इंडियन सोसाइटी",
+      "unit_id": 1,
+      "unit_name": "भारतीय समाज का परिचय",
+      "part": "Khand क: भारतीय समाज",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "उपनिवेशवाद और नए बाज़ारों का आविर्भाव (emergence of new markets)",
+        "राष्ट्रीयता (nationality/nationalism)",
+        "समुदाय (community), राष्ट्र-राज्य (nation-state)",
+        "औपनिवेशिक शासन का भारतीय समाज पर प्रभाव",
+        "भारतीय समाज पर समाजशास्त्रीय दृष्टिकोण"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "भारतीय समाज की जनसांख्यिकी संरचना",
+      "unit_or_chapter": "chapter",
+      "book": "इंडियन सोसाइटी",
+      "unit_id": 2,
+      "unit_name": "भारतीय समाज की जनसांख्यिकी संरचना",
+      "part": "Khand क: भारतीय समाज",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "डेमोग्राफी — मीनिंग, टाइप्स (फॉर्मल + सोशल)",
+        "जनसंख्या का माल्थस सिद्धांत (ज्यामितीय वृद्धि vs अरिथमेटिक खाद्य आपूर्ति) — 'एस्से ऑन पॉपुलेशन' (1798)",
+        "डेमोग्राफिक ट्रांज़िशन थ्योरी (4 स्टेजेस)",
+        "सेक्स रेशियो, साक्षरता, आयु संरचना, जन्म/मृत्यु दर",
+        "ग्रामीण-शहरी अंतर + संयोजन (Rural-Urban continuum)",
+        "साप्ताहिक आदिवासी बाज़ार",
+        "नगरीकरण परिभाषा"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "सामाजिक संस्थायें: निरंतरता और परिवर्तन",
+      "unit_or_chapter": "chapter",
+      "book": "इंडियन सोसाइटी",
+      "unit_id": 3,
+      "unit_name": "सामाजिक संस्थायें: निरंतरता और परिवर्तन",
+      "part": "Khand क: भारतीय समाज",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "परिवार (family) — संयुक्त परिवार (पारंपरिक भारतीय रूप), एकल परिवार, विस्तृत परिवार",
+        "नातेदारी (kinship) — प्राथमिक, द्वितीयक, तृतीयक; प्रकार",
+        "जाति व्यवस्था (Caste system) — जाति-आधारित बाज़ार और व्यावसायिक प्रणाली",
+        "जाति 'क्लोज़्ड क्लास' के रूप में — मैकाइवर और पेज",
+        "संस्कृतीकरण (M.N. श्रीनिवास), प्रभुत्वशाली जाति (M.N. श्रीनिवास)",
+        "जनजातीय समाज (Tribal society) — विशेषताएँ, साप्ताहिक आदिवासी बाज़ार",
+        "जनजातीय समुदाय — गोंड, संथाल, मुंडा, ओराँव, भील"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "बाजार एक सामाजिक संस्था के रूप में",
+      "unit_or_chapter": "chapter",
+      "book": "इंडियन सोसाइटी",
+      "unit_id": 4,
+      "unit_name": "बाजार एक सामाजिक संस्था के रूप में",
+      "part": "Khand क: भारतीय समाज",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "बाज़ार सामाजिक संस्था के रूप में (सिर्फ आर्थिक नहीं)",
+        "भूमंडलीकरण/Globalization — स्थानीय, क्षेत्रीय, राष्ट्रीय, अंतर्राष्ट्रीय बाज़ारों के बीच संबंध",
+        "पूँजीवाद और बाज़ारों की समाजशास्त्रीय समझ",
+        "प्री-कोलोनियल बाज़ार vs औपनिवेशिक परिवर्तन",
+        "साप्ताहिक बाज़ार, हाट, पीरियोडिक बाज़ार"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "सामाजिक असमानता और बहिष्कार",
+      "unit_or_chapter": "chapter",
+      "book": "इंडियन सोसाइटी",
+      "unit_id": 5,
+      "unit_name": "सामाजिक असमानता और बहिष्कार",
+      "part": "Khand क: भारतीय समाज",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "जातिगत पूर्वाग्रह (caste prejudice)",
+        "अनुसूचित जातियाँ (SC), अन्य पिछड़े वर्ग (OBC)",
+        "जनजातीय समुदायों की उपेक्षा (neglect of tribal communities)",
+        "महिलाओं की समानता के लिए संघर्ष (struggle for women's equality)",
+        "धार्मिक अल्पसंख्यकों का संरक्षण (protection of religious minorities)",
+        "अन्यथा सक्षम (दिव्यांग) — differently-abled people care",
+        "SC/ST/OBC/अल्पसंख्यकों के लिए संवैधानिक प्रावधान"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "सांस्कृतिक विभिन्नताओं की चुनौतियाँ",
+      "unit_or_chapter": "chapter",
+      "book": "इंडियन सोसाइटी",
+      "unit_id": 6,
+      "unit_name": "सांस्कृतिक विभिन्नताओं की चुनौतियाँ",
+      "part": "Khand क: भारतीय समाज",
+      "weightage_marks": 10,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "सांप्रदायिकता (communalism), क्षेत्रवाद (regionalism), जातिवाद (casteism) — लोकतंत्र की बाधाएँ",
+        "मल्टी-कल्चरल और असमान समाजों में राज्य की भूमिका",
+        "हमारी समानताएँ (our commonalities / unity)",
+        "राष्ट्र-राज्य और धर्म संबंधी मुद्दे (state-religion issues)",
+        "राज्य vs सिविल सोसाइटी",
+        "सांप्रदायिकता, धर्मनिरपेक्षता, राष्ट्र-राज्य",
+        "विविधता में एकता — भारत की मिश्रित संस्कृति"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "परियोजना कार्य के लिए सुझाव",
+      "unit_or_chapter": "chapter",
+      "book": "इंडियन सोसाइटी",
+      "unit_id": 7,
+      "unit_name": "परियोजना कार्य के लिए सुझाव",
+      "part": "Khand क: भारतीय समाज",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "शोध विधियाँ — सर्वेक्षण प्रणाली (Survey method)",
+        "साक्षात्कार (Interview) — स्ट्रक्चर्ड, अनस्ट्रक्चर्ड, इसके मेरिट्स और डिमेरिट्स",
+        "अवलोकन / प्रेक्षण (Observation) — पार्टिसिपेंट और नॉन-पार्टिसिपेंट",
+        "सैंपलिंग मेथड्स, प्रश्नावली",
+        "छोटे शोध प्रोजेक्ट टॉपिक्स — स्थानीय क्षेत्र में दहेज, प्रवासन, किसान मुद्दे, महिला शिक्षा आदि",
+        "समसामयिक (contemporary) विधियाँ"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "संरचनात्मक परिवर्तन",
+      "unit_or_chapter": "chapter",
+      "book": "सोशल चेंज एंड डेवलपमेंट इन इंडिया",
+      "unit_id": 8,
+      "unit_name": "संरचनात्मक परिवर्तन",
+      "part": "Khand ख: परिवर्तन एवं विकास",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "उपनिवेशवाद (Colonialism) — भारतीय समाज पर प्रभाव",
+        "औद्योगीकरण (Industrialisation)",
+        "नगरीकरण (Urbanisation)",
+        "औपनिवेशिक आर्थिक शोषण — विऔद्योगीकरण, संपत्ति का अपवाह (drain of wealth)",
+        "नए सामाजिक वर्गों का उदय"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "सांस्कृतिक परिवर्तन",
+      "unit_or_chapter": "chapter",
+      "book": "सोशल चेंज एंड डेवलपमेंट इन इंडिया",
+      "unit_id": 9,
+      "unit_name": "सांस्कृतिक परिवर्तन",
+      "part": "Khand ख: परिवर्तन एवं विकास",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "सामाजिक परिवर्तन के प्रकार — सोरोकिन का आइडिएशनल-सेंसेशनल-आइडियलिस्टिक (MCQ 2023)",
+        "संस्कृतीकरण — M.N. श्रीनिवास कॉन्सेप्ट",
+        "पश्चिमीकरण (Westernization) — M.N. श्रीनिवास कॉन्सेप्ट",
+        "आधुनिकीकरण (Modernization)",
+        "सामाजिक सुधार आंदोलन — ब्रह्म समाज (राजा राम मोहन राय, 1828), आर्य समाज (दयानंद सरस्वती, 1875), प्रार्थना समाज, रामकृष्ण मिशन (विवेकानंद)",
+        "सामाजिक सुधार कानून — सती उन्मूलन एक्ट (1829), विधवा पुनर्विवाह एक्ट (1856), बाल विवाह निरोधक एक्ट (शारदा एक्ट 1929), दहेज निरोधक एक्ट (1961)",
+        "संस्कृति = पर्यावरण का मानव-निर्मित भाग (हर्सकोविट्स)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "संविधान एवं सामाजिक परिवर्तन",
+      "unit_or_chapter": "chapter",
+      "book": "सोशल चेंज एंड डेवलपमेंट इन इंडिया",
+      "unit_id": 10,
+      "unit_name": "संविधान एवं सामाजिक परिवर्तन",
+      "part": "Khand ख: परिवर्तन एवं विकास",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "संविधान सामाजिक परिवर्तन के साधन के रूप में",
+        "पंचायती राज — 73वाँ संशोधन (1992), 3-स्तरीय (ग्राम/क्षेत्र/ज़िला पंचायत)",
+        "ग्राम पंचायत के कार्य — आर्थिक, सामाजिक, विकासात्मक",
+        "ग्राम पंचायत अध्यक्ष = ग्राम प्रधान",
+        "पंचायती राज की सामाजिक परिवर्तन चुनौतियाँ",
+        "राजनीतिक दल (political parties)",
+        "दबाव समूह (Pressure groups) — प्रकार और भूमिका",
+        "जनतांत्रिक राजनीति (democratic politics)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "ग्रामीण समाज में परिवर्तन और विकास",
+      "unit_or_chapter": "chapter",
+      "book": "सोशल चेंज एंड डेवलपमेंट इन इंडिया",
+      "unit_id": 11,
+      "unit_name": "ग्रामीण समाज में परिवर्तन और विकास",
+      "part": "Khand ख: परिवर्तन एवं विकास",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "भूमि सुधार (Land reforms) — ज़मींदारी उन्मूलन (1950s), टेनेंसी रिफॉर्म, सीलिंग, कंसॉलिडेशन, सहकारी खेती",
+        "हरित क्रांति (Green Revolution) — 1960s, HYV सीड्स, केमिकल फर्टिलाइज़र्स, सिंचाई; गाँवों पर प्रभाव",
+        "हरित क्रांति के सामाजिक परिणाम — क्षेत्रीय असमानता (पंजाब-हरियाणा vs पूर्व), वर्ग ध्रुवीकरण, बाद में किसान आत्महत्या",
+        "उभरता किसान समाज",
+        "भारतीय कृषि समाज में जाति और वर्ग",
+        "भूमंडलीकरण, उदारीकरण का ग्रामीण भारत पर प्रभाव",
+        "किसान आत्महत्या, ग्रामीण संकट"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "औद्योगिक समाज में परिवर्तन और विकास",
+      "unit_or_chapter": "chapter",
+      "book": "सोशल चेंज एंड डेवलपमेंट इन इंडिया",
+      "unit_id": 12,
+      "unit_name": "औद्योगिक समाज में परिवर्तन और विकास",
+      "part": "Khand ख: परिवर्तन एवं विकास",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "नियोजित औद्योगीकरण — पंचवर्षीय योजनाएँ, नेहरू-महालनोबिस मॉडल",
+        "उदारीकरण (Liberalisation) — 1991 सुधार, LPG (उदारीकरण, निजीकरण, भूमंडलीकरण)",
+        "व्यवसाय प्राप्त करना (getting employment) — फॉर्मल vs इनफॉर्मल सेक्टर",
+        "कार्य पद्धति (work methods) — वर्क कल्चर में परिवर्तन",
+        "औद्योगिक श्रमिक — वर्ग, संघर्ष",
+        "पब्लिक से प्राइवेट सेक्टर में शिफ्ट"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "भूमण्डलीकरण और सामाजिक परिवर्तन",
+      "unit_or_chapter": "chapter",
+      "book": "सोशल चेंज एंड डेवलपमेंट इन इंडिया",
+      "unit_id": 13,
+      "unit_name": "भूमण्डलीकरण और सामाजिक परिवर्तन",
+      "part": "Khand ख: परिवर्तन एवं विकास",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "भूमंडलीकरण के आयाम — आर्थिक, सांस्कृतिक, राजनीतिक, तकनीकी",
+        "बहुराष्ट्रीय निगम (MNCs)",
+        "आउटसोर्सिंग, ऑफशोरिंग",
+        "सांस्कृतिक होमोजेनाइज़ेशन vs स्थानीय प्रतिरोध",
+        "भारतीय समाज पर प्रभाव — उपभोक्तावाद, मीडिया, श्रम"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "जनसम्पर्क माध्यम और सूचना",
+      "unit_or_chapter": "chapter",
+      "book": "सोशल चेंज एंड डेवलपमेंट इन इंडिया",
+      "unit_id": 14,
+      "unit_name": "जनसम्पर्क माध्यम और सूचना",
+      "part": "Khand ख: परिवर्तन एवं विकास",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "जनसंचार माध्यमों के प्रकार — दूरदर्शन (TV), रेडियो (आकाशवाणी), समाचार पत्र",
+        "प्रिंट मीडिया vs इलेक्ट्रॉनिक मीडिया vs डिजिटल/न्यू मीडिया",
+        "जनसंचार माध्यमों की बदलती प्रकृति",
+        "सोशल मीडिया, इंटरनेट, मोबाइल",
+        "औपनिवेशिक और उत्तर-औपनिवेशिक भारत में जनसंचार माध्यम"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 15,
+      "name": "सामाजिक आन्दोलन",
+      "unit_or_chapter": "chapter",
+      "book": "सोशल चेंज एंड डेवलपमेंट इन इंडिया",
+      "unit_id": 15,
+      "unit_name": "सामाजिक आन्दोलन",
+      "part": "Khand ख: परिवर्तन एवं विकास",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "सामाजिक आंदोलनों का वर्गीकरण — सुधारवादी, क्रांतिकारी, मुक्तिदायक (redemptive)",
+        "वर्ग-आधारित आंदोलन — मज़दूर आंदोलन, किसान आंदोलन (तेलंगाना, तेभागा, भूदान, नक्सलबाड़ी)",
+        "जाति-आधारित आंदोलन — दलित आंदोलन (अंबेडकर, दलित पैंथर्स), पिछड़ी जाति आंदोलन, ऊँची जाति की प्रतिक्रिया",
+        "स्वतंत्र भारत में महिला आंदोलन — प्रथम लहर (19वीं सदी सामाजिक सुधार), द्वितीय लहर (समानता, 1970s), तृतीय लहर (विविध मुद्दे)",
+        "जनजातीय आंदोलन — संथाल (1855), बिरसा मुंडा, झारखंड, बोडोलैंड, गोरखालैंड",
+        "पर्यावरण आंदोलन — चिपको (1973, सुंदरलाल बहुगुणा, चंडी प्रसाद भट्ट; ऐतिहासिक उत्पत्ति = अमृता देवी बिश्नोई 1730), नर्मदा बचाओ आंदोलन (मेधा पाटकर), साइलेंट वैली",
+        "दहेज प्रथा — कारण, प्रभाव (कन्या भ्रूण हत्या, उत्पीड़न, वधू जलाना), दहेज निरोधक एक्ट 1961, समाधान"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Sociology Class 12 — 0 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "सिर्फ Q27, Q28, Q29 (तीनों LA) में 'अथवा/OR' ऑप्शन मिलता है। MCQ, VSA, SA सब कंपल्सरी — नो चॉइस।",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "सांस्कृतिक विभिन्नताओं की चुनौतियाँ"
+    ],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [
+      "सांस्कृतिक विभिन्नताओं की चुनौतियाँ (10 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "भारतीय समाज का परिचय (4 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "माल्थस जनसंख्या सिद्धांत / एस्से ऑन पॉपुलेशन (Q: MCQ, 1)",
+      "हर्सकोविट्स — संस्कृति पर्यावरण का मानव-निर्मित भाग है (Q: MCQ, 1)",
+      "राष्ट्रीय एकीकरण की बाधा = जातिवाद (Q: MCQ, 1)",
+      "नातेदारी परिभाषा / प्रकार (Q: VSA, 3)",
+      "सामाजिक परिवर्तन परिभाषा (Q: VSA, 3)",
+      "उदारीकरण (Q: VSA, 3)",
+      "भारत में भूमि सुधार (Q: SA, 6)",
+      "ग्राम पंचायत के कार्य/महत्व (Q: SA, 6)",
+      "गाँवों पर हरित क्रांति का प्रभाव (Q: LA, 8)",
+      "दहेज प्रथा के कारण और प्रभाव (Q: LA, 8)"
+    ],
+    "chapters_mostly_theory": [
+      "भारतीय समाज का परिचय",
+      "भारतीय समाज की जनसांख्यिकी संरचना",
+      "सामाजिक संस्थायें: निरंतरता और परिवर्तन",
+      "बाजार एक सामाजिक संस्था के रूप में",
+      "सामाजिक असमानता और बहिष्कार",
+      "सांस्कृतिक विभिन्नताओं की चुनौतियाँ",
+      "परियोजना कार्य के लिए सुझाव",
+      "संरचनात्मक परिवर्तन",
+      "सांस्कृतिक परिवर्तन",
+      "संविधान एवं सामाजिक परिवर्तन",
+      "ग्रामीण समाज में परिवर्तन और विकास",
+      "औद्योगिक समाज में परिवर्तन और विकास",
+      "भूमण्डलीकरण और सामाजिक परिवर्तन",
+      "जनसम्पर्क माध्यम और सूचना",
+      "सामाजिक आन्दोलन"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "सांस्कृतिक विभिन्नताओं की चुनौतियाँ"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "सांस्कृतिक विभिन्नताओं की चुनौतियाँ"
+    ],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "भारतीय समाज का परिचय",
+      "भारतीय समाज की जनसांख्यिकी संरचना",
+      "सामाजिक संस्थायें: निरंतरता और परिवर्तन",
+      "बाजार एक सामाजिक संस्था के रूप में",
+      "सामाजिक असमानता और बहिष्कार",
+      "सांस्कृतिक विभिन्नताओं की चुनौतियाँ",
+      "परियोजना कार्य के लिए सुझाव",
+      "संरचनात्मक परिवर्तन",
+      "सांस्कृतिक परिवर्तन",
+      "संविधान एवं सामाजिक परिवर्तन",
+      "ग्रामीण समाज में परिवर्तन और विकास",
+      "औद्योगिक समाज में परिवर्तन और विकास",
+      "भूमण्डलीकरण और सामाजिक परिवर्तन",
+      "जनसम्पर्क माध्यम और सूचना",
+      "सामाजिक आन्दोलन"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "माल्थस जनसंख्या सिद्धांत / एस्से ऑन पॉपुलेशन (Q: MCQ, 1)",
+      "हर्सकोविट्स — संस्कृति पर्यावरण का मानव-निर्मित भाग है (Q: MCQ, 1)",
+      "राष्ट्रीय एकीकरण की बाधा = जातिवाद (Q: MCQ, 1)",
+      "नातेदारी परिभाषा / प्रकार (Q: VSA, 3)",
+      "सामाजिक परिवर्तन परिभाषा (Q: VSA, 3)",
+      "उदारीकरण (Q: VSA, 3)",
+      "भारत में भूमि सुधार (Q: SA, 6)",
+      "ग्राम पंचायत के कार्य/महत्व (Q: SA, 6)",
+      "गाँवों पर हरित क्रांति का प्रभाव (Q: LA, 8)",
+      "दहेज प्रथा के कारण और प्रभाव (Q: LA, 8)"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "theorists_and_concepts_masterlist": {
+      "note": "सोशियोलॉजी के MCQ (10 मार्क्स) और VSA (30 मार्क्स) में 70% क्वेश्चन्स थियोरिस्ट + कॉन्सेप्ट पेयर्स पर बेस्ड होते हैं। ये सोशियोलॉजी का 'नेम्ड रिएक्शन्स' / 'हिस्टोरिकल डेट्स' इक्विवेलेंट है — यूपी बोर्ड का स्कोरिंग बैकबोन। 40+ थियोरिस्ट्स याद करो।",
+      "foundational_sociologists": [
+        {
+          "theorist": "ऑगस्त कॉम्ट (1798-1857)",
+          "key_contributions": "फादर ऑफ सोशियोलॉजी; 'सोशियोलॉजी' शब्द गढ़ा (1838); तीन अवस्थाओं का नियम"
+        },
+        {
+          "theorist": "एमिल दुर्खीम (1858-1917)",
+          "key_contributions": "सामाजिक तथ्य; डिवीज़न ऑफ लेबर इन सोसाइटी; सुसाइड (4 प्रकार); मैकेनिकल vs ऑर्गेनिक सॉलिडैरिटी"
+        },
+        {
+          "theorist": "मैक्स वेबर (1864-1920)",
+          "key_contributions": "वेर्स्तेहेन (understanding); ब्यूरोक्रेसी; प्रोटेस्टेंट एथिक एंड स्पिरिट ऑफ कैपिटलिज़्म; अथॉरिटी प्रकार (पारंपरिक/करिश्माई/लीगल-रेशनल)"
+        },
+        {
+          "theorist": "कार्ल मार्क्स (1818-1883)",
+          "key_contributions": "वर्ग संघर्ष; ऐतिहासिक भौतिकवाद; पूँजीवाद-समाजवाद-साम्यवाद; अलगाव (Alienation)"
+        },
+        {
+          "theorist": "हर्बर्ट स्पेंसर (1820-1903)",
+          "key_contributions": "सोशल डार्विनिज़्म; ऑर्गेनिक एनालॉजी; समाज पर लागू 'सर्वाइवल ऑफ द फिटेस्ट'"
+        },
+        {
+          "theorist": "पितिरिम सोरोकिन (1889-1968)",
+          "key_contributions": "सामाजिक परिवर्तन प्रकार — आइडिएशनल, सेंसेशनल/सेंसेट, आइडियलिस्टिक (MCQ 2023 में पूछा); सोशल एंड कल्चरल डायनामिक्स"
+        },
+        {
+          "theorist": "किंग्सले डेविस (1908-1997)",
+          "key_contributions": "डेमोग्राफिक ट्रांज़िशन थ्योरी; 'ह्यूमन सोसाइटी' पुस्तक"
+        },
+        {
+          "theorist": "थॉमस माल्थस (1766-1834)",
+          "key_contributions": "'एस्से ऑन पॉपुलेशन' (1798); जनसंख्या ज्यामितीय रूप से बढ़ती है (1,2,4,8) पर भोजन अंकगणितीय रूप से (1,2,3,4); पॉज़िटिव + प्रिवेंटिव चेक्स — MCQ हर वर्ष पूछा जाता है"
+        },
+        {
+          "theorist": "हर्सकोविट्स (मेलविल, 1895-1963)",
+          "key_contributions": "'संस्कृति पर्यावरण का मानव-निर्मित भाग है' — MCQ 2023 और 2024 दोनों में पूछा"
+        }
+      ],
+      "indian_sociologists": [
+        {
+          "theorist": "M.N. श्रीनिवास (1916-1999)",
+          "key_contributions": "संस्कृतीकरण (1952); पश्चिमीकरण; प्रभुत्वशाली जाति; 'रिमेम्बर्ड विलेज'; कूर्गों में धर्म और समाज — MCQ 2023"
+        },
+        {
+          "theorist": "G.S. घुर्ये (1893-1983)",
+          "key_contributions": "फादर ऑफ इंडियन सोशियोलॉजी; 'कास्ट एंड रेस इन इंडिया'; जनजाति 'पिछड़े हिंदू' के रूप में"
+        },
+        {
+          "theorist": "D.P. मुखर्जी (1894-1961)",
+          "key_contributions": "भारतीय परंपरा + मार्क्सवादी दृष्टिकोण"
+        },
+        {
+          "theorist": "A.R. देसाई (1915-1994)",
+          "key_contributions": "भारतीय समाज पर मार्क्सवादी दृष्टिकोण; 'सोशल बैकग्राउंड ऑफ इंडियन नेशनलिज़्म'"
+        },
+        {
+          "theorist": "डॉ. B.R. अंबेडकर (1891-1956)",
+          "key_contributions": "अनाइहिलेशन ऑफ कास्ट; दलित आंदोलन की नींव; संविधान निर्माण"
+        },
+        {
+          "theorist": "R.K. मुखर्जी (1889-1968)",
+          "key_contributions": "'इंडियन वर्किंग क्लास'; आर्थिक समाजशास्त्र"
+        },
+        {
+          "theorist": "D.N. मजूमदार (1903-1960)",
+          "key_contributions": "जनजातीय अध्ययन; एंथ्रोपोलॉजी-सोशियोलॉजी ब्रिज"
+        },
+        {
+          "theorist": "S.C. दूबे (1922-1996)",
+          "key_contributions": "'इंडियन विलेज' अध्ययन"
+        },
+        {
+          "theorist": "योगेंद्र सिंह",
+          "key_contributions": "'मॉडर्नाइज़ेशन ऑफ इंडियन ट्रेडिशन'"
+        },
+        {
+          "theorist": "आंद्रे बेतेई",
+          "key_contributions": "तंजौर गाँव में जाति, वर्ग, सत्ता"
+        },
+        {
+          "theorist": "T.K. ओम्मन",
+          "key_contributions": "नागरिकता और राष्ट्र-राज्य अध्ययन"
+        }
+      ],
+      "other_theorists_mcq_relevant": [
+        {
+          "theorist": "मैकाइवर और पेज",
+          "key_contributions": "'जाति एक क्लोज़्ड क्लास है' — MCQ 2023; 'सोसाइटी: एन इंट्रोडक्टरी एनालिसिस'"
+        },
+        {
+          "theorist": "रॉस",
+          "key_contributions": "सामाजिक नियंत्रण कॉन्सेप्ट"
+        },
+        {
+          "theorist": "ऑगबर्न",
+          "key_contributions": "कल्चरल लैग थ्योरी"
+        },
+        {
+          "theorist": "रेडफील्ड (रॉबर्ट)",
+          "key_contributions": "फोक-अर्बन कंटिन्यूअम; 'लिटिल कम्युनिटी'"
+        },
+        {
+          "theorist": "राजा राम मोहन राय",
+          "key_contributions": "ब्रह्म समाज (1828) — MCQ 2024; सती उन्मूलन"
+        },
+        {
+          "theorist": "दयानंद सरस्वती",
+          "key_contributions": "आर्य समाज (1875); 'वेदों की ओर लौटो'"
+        },
+        {
+          "theorist": "स्वामी विवेकानंद",
+          "key_contributions": "रामकृष्ण मिशन; हिंदू धर्म का पुनरुत्थान"
+        },
+        {
+          "theorist": "ईश्वर चंद्र विद्यासागर",
+          "key_contributions": "विधवा पुनर्विवाह एक्ट (1856)"
+        },
+        {
+          "theorist": "केशव चंद्र सेन",
+          "key_contributions": "ब्रह्म समाज नेता"
+        },
+        {
+          "theorist": "ज्योतिराव फुले",
+          "key_contributions": "सत्यशोधक समाज; जाति-विरोधी सुधारक"
+        },
+        {
+          "theorist": "सुंदरलाल बहुगुणा",
+          "key_contributions": "चिपको आंदोलन — MCQ 2024; 'इकोलॉजी इज़ परमानेंट इकोनॉमी'"
+        },
+        {
+          "theorist": "चंडी प्रसाद भट्ट",
+          "key_contributions": "चिपको आंदोलन सह-नेता"
+        },
+        {
+          "theorist": "अमृता देवी बिश्नोई",
+          "key_contributions": "खेजरली पेड़ संरक्षण 1730 — चिपको का ऐतिहासिक पूर्ववर्ती"
+        },
+        {
+          "theorist": "मेधा पाटकर",
+          "key_contributions": "नर्मदा बचाओ आंदोलन"
+        },
+        {
+          "theorist": "बाबा आम्टे",
+          "key_contributions": "कुष्ठ रोग + नर्मदा सक्रियता"
+        }
+      ],
+      "key_concepts_with_year_if_relevant": [
+        {
+          "concept": "संस्कृतीकरण",
+          "coined_by": "M.N. श्रीनिवास (1952)"
+        },
+        {
+          "concept": "पश्चिमीकरण",
+          "coined_by": "M.N. श्रीनिवास"
+        },
+        {
+          "concept": "प्रभुत्वशाली जाति",
+          "coined_by": "M.N. श्रीनिवास"
+        },
+        {
+          "concept": "कल्चरल लैग",
+          "coined_by": "W.F. ऑगबर्न"
+        },
+        {
+          "concept": "वेर्स्तेहेन",
+          "coined_by": "मैक्स वेबर"
+        },
+        {
+          "concept": "एनोमी",
+          "coined_by": "एमिल दुर्खीम"
+        },
+        {
+          "concept": "डेमोग्राफिक ट्रांज़िशन",
+          "coined_by": "वॉरेन थॉम्पसन, किंग्सले डेविस द्वारा विकसित"
+        },
+        {
+          "concept": "जनसंख्या सिद्धांत (एस्से ऑन पॉपुलेशन)",
+          "coined_by": "थॉमस माल्थस (1798)"
+        },
+        {
+          "concept": "ब्रह्म समाज",
+          "founder_year": "राजा राम मोहन राय, 1828"
+        },
+        {
+          "concept": "आर्य समाज",
+          "founder_year": "स्वामी दयानंद सरस्वती, 1875"
+        },
+        {
+          "concept": "रामकृष्ण मिशन",
+          "founder_year": "स्वामी विवेकानंद, 1897"
+        },
+        {
+          "concept": "दहेज निरोधक एक्ट",
+          "year": "1961 — MCQ 2024"
+        },
+        {
+          "concept": "सती उन्मूलन एक्ट",
+          "year": "1829 लॉर्ड विलियम बेंटिंक द्वारा"
+        },
+        {
+          "concept": "विधवा पुनर्विवाह एक्ट",
+          "year": "1856"
+        },
+        {
+          "concept": "बाल विवाह निरोधक एक्ट (शारदा एक्ट)",
+          "year": "1929"
+        },
+        {
+          "concept": "पंचायती राज (73वाँ संशोधन)",
+          "year": "1992"
+        },
+        {
+          "concept": "आर्थिक उदारीकरण (LPG सुधार)",
+          "year": "1991"
+        },
+        {
+          "concept": "हरित क्रांति",
+          "period": "1960s, M.S. स्वामीनाथन के नेतृत्व में"
+        },
+        {
+          "concept": "चिपको आंदोलन",
+          "year": "1973 (रेणी गाँव, उत्तराखंड)"
+        },
+        {
+          "concept": "नर्मदा बचाओ आंदोलन",
+          "year": "1985 से आगे"
+        },
+        {
+          "concept": "संथाल विद्रोह",
+          "year": "1855-56"
+        },
+        {
+          "concept": "ज़मींदारी उन्मूलन",
+          "period": "1948-1956 (विभिन्न राज्य एक्ट्स)"
+        },
+        {
+          "concept": "विश्व महिला दिवस",
+          "date": "8 मार्च — MCQ 2023"
+        }
+      ]
+    },
+    "pyq_analysis_2023_2024": {
+      "summary": "2 साल के पेपर्स (2023, 2024-FN) एनालिसिस से पैटर्न एक्स्ट्रीमली कंसिस्टेंट। 60-70% क्वेश्चन्स टॉपिक/कॉन्सेप्ट ईयर-ऑन-ईयर रिपीट करते हैं।",
+      "most_repeated_MCQ_topics": [
+        "माल्थस जनसंख्या सिद्धांत (एस्से ऑन पॉपुलेशन) — 2023, 2024",
+        "हर्सकोविट्स 'संस्कृति मानव-निर्मित' — 2023, 2024",
+        "राष्ट्र निर्माण की बाधा = जातिवाद — 2023, 2024",
+        "संस्कृतीकरण = M.N. श्रीनिवास — 2023",
+        "जाति क्लोज़्ड क्लास = मैकाइवर और पेज — 2023",
+        "सोरोकिन सामाजिक परिवर्तन — 2023",
+        "ब्रह्म समाज 1828 — 2024",
+        "चिपको = बहुगुणा — 2024",
+        "दहेज निरोधक 1961 — 2024"
+      ],
+      "most_repeated_VSA_topics": [
+        "नातेदारी परिभाषा/प्रकार — 2023, 2024 दोनों",
+        "सामाजिक परिवर्तन परिभाषा — 2023, 2024 दोनों",
+        "उदारीकरण — 2023, 2024 दोनों",
+        "जातिगत पूर्वाग्रह — 2023",
+        "दिव्यांग — 2023, 2024",
+        "सांप्रदायिकता — 2023",
+        "क्षेत्रवाद — 2024",
+        "नगरीकरण — 2024",
+        "जनजातीय समुदाय विशेषताएँ — 2023",
+        "पर्यावरण आंदोलन कारण — 2023"
+      ],
+      "most_repeated_SA_topics": [
+        "भारत में भूमि सुधार — 2023, 2024 दोनों",
+        "ग्राम पंचायत कार्य/महत्व — 2023, 2024 दोनों",
+        "भारतीय परिवार में परिवर्तन — 2023",
+        "विविधता में एकता — 2023",
+        "भारतीय लोकतंत्र नोट — 2023",
+        "पर्यावरण आंदोलन — 2024",
+        "साक्षात्कार गुण/दोष — 2024",
+        "दिव्यांग समस्याएँ — 2024",
+        "लोकतंत्र + राजनीतिक दल — 2024",
+        "जनजातीय आंदोलन परिणाम — 2023"
+      ],
+      "most_repeated_LA_topics": [
+        "गाँवों पर हरित क्रांति का प्रभाव — 2023, 2024 दोनों (वार्षिक)",
+        "दहेज प्रथा के कारण और प्रभाव — 2023, 2024 दोनों (वार्षिक)",
+        "जाति व्यवस्था में परिवर्तन — 2023",
+        "भारत में किसान आंदोलन — 2023",
+        "सामाजिक सर्वेक्षण का उद्देश्य — 2023",
+        "पश्चिमीकरण गुण/दोष — 2023",
+        "औद्योगिक समाज परिवर्तन निबंध — 2024",
+        "जनजातीय कल्याण सरकारी प्रयास — 2024",
+        "जनसंचार माध्यम बदलती प्रकृति — 2024",
+        "भारत में महिला आंदोलन — 2024"
+      ],
+      "high_probability_2026_picks": [
+        "MCQ: माल्थस OR हर्सकोविट्स OR संस्कृतीकरण (M.N. श्रीनिवास) OR दहेज एक्ट 1961 OR चिपको बहुगुणा — 4-5 गारंटीड",
+        "VSA: नातेदारी, सामाजिक परिवर्तन, उदारीकरण, दिव्यांग — इनमें से 3-4 रिपीट",
+        "SA: भूमि सुधार, ग्राम पंचायत, भारतीय परिवार में परिवर्तन, विविधता में एकता — इनमें से 2-3 रिपीट",
+        "LA Q27: हरित क्रांति ↔ जाति व्यवस्था में परिवर्तन OR औद्योगिक समाज (GR पक्का प्रिपेयर करके जाओ)",
+        "LA Q28: दहेज ↔ जनजातीय कल्याण OR सामाजिक सर्वेक्षण (दहेज पक्का प्रिपेयर करके जाओ)",
+        "LA Q29: जनसंचार माध्यम ↔ महिला आंदोलन (दोनों प्रिपेयर करो)"
+      ],
+      "guaranteed_preparation_list": {
+        "memorize_40_theorist_concept_pairs": "theorists_and_concepts_masterlist सेक्शन देखें",
+        "memorize_10_VSA_definitions": "नातेदारी, सामाजिक परिवर्तन, उदारीकरण, नगरीकरण, दिव्यांग, सांप्रदायिकता, क्षेत्रवाद, जातिगत पूर्वाग्रह, दबाव समूह, जनजाति",
+        "prepare_6_SA_topics": "भूमि सुधार, ग्राम पंचायत, भारतीय परिवार में परिवर्तन, पर्यावरण आंदोलन, लोकतंत्र + दल, साक्षात्कार मेथडोलॉजी",
+        "prepare_4_LA_topics": "हरित क्रांति, दहेज, महिला आंदोलन, जनसंचार माध्यम",
+        "total_target": "उपरोक्त प्रेप के साथ = 85+ मार्क्स कम्फर्टेबली अचीवेबल"
+      }
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not typically applicable for Sociology.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not typically applicable for Sociology (humanities subject).",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Sociology",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Sociology",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Sociology — no practical.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 50,
+    "medium_percent": 40,
+    "hard_percent": 10,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "VSA (Q11-Q20) में 30 मार्क्स हैं — सबसे पहले फोकस यहाँ दो। हर डेफिनिशन में थियोरिस्ट का नाम शामिल करो।",
+      "थियोरिस्ट-कॉन्सेप्ट पेयर्स की एक टेबल बनाओ — 40+ पेयर्स। रिवीज़न के टाइम 2-3 बार दोहरा लो।",
+      "MCQ में 'बुक X के लेखक' क्वेश्चन्स — एस्से ऑन पॉपुलेशन = माल्थस, संस्कृतीकरण = श्रीनिवास। रट्टे-चिपकाओ स्टाइल।",
+      "LA में OR ऑप्शन का स्मार्ट यूज़ — Q27 में हरित क्रांति पक्का प्रिपेयर करके जाओ (ये 2023, 2024 दोनों में आया)। Q28 में दहेज पक्का करके जाओ।",
+      "हरित क्रांति और दहेज — ये 2 टॉपिक्स तो प्रतिवर्ष आते हैं। 150-वर्ड रेडी आंसर मेमोराइज़ करो।",
+      "इंडियन एग्ज़ांपल्स दो — हरित क्रांति के लिए पंजाब-हरियाणा, साक्षरता के लिए केरल, प्रवासन के लिए पंजाब, नर्मदा के लिए महाराष्ट्र।",
+      "चिपको आंदोलन: MCQ आंसर = सुंदरलाल बहुगुणा (चंडी प्रसाद भट्ट भी सह-नेता)। ऐतिहासिक पूर्ववर्ती अमृता देवी बिश्नोई 1730 — ये फैक्चुअल डिटेल बोनस।",
+      "पंचायती राज — 73वाँ संशोधन 1992, 3-स्तरीय संरचना, अध्यक्ष के रूप में ग्राम प्रधान — VSA/SA में ज़रूर आता है।",
+      "हिंदी/इंग्लिश मिक्स्ड OK — टर्म्स इंग्लिश में (Sanskritization, Verstehen, Demography), एक्सप्लेनेशन हिंदी में।",
+      "क्लीन हैंडराइटिंग यूपी बोर्ड में इम्पोर्टेंट — नीट प्रेज़ेंटेशन के अलग मार्क्स।",
+      "Q29 महिला आंदोलन अगर आए तो 3 लहरें बताओ: 1st लहर (19वीं सदी सामाजिक सुधार), 2nd लहर (1970s समानता), 3rd लहर (विविध)।"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "पेपर पूरा पढ़ो। Q27/28/29 OR ऑप्शन्स दोनों देखो, डिसाइड करो कौनसा अटेम्प्ट करोगे। VSA के टर्म्स मेंटल में ड्राफ्ट करो।"
+      },
+      {
+        "section_id": "Q1_Q10_MCQ_12min",
+        "recommended_minutes": 0,
+        "note": "10 MCQ × 1.2 मिनट। थियोरिस्ट-कॉन्सेप्ट डायरेक्ट मैच। नो नेगेटिव मार्किंग।"
+      },
+      {
+        "section_id": "Q11_Q20_VSA_40min",
+        "recommended_minutes": 0,
+        "note": "10 VSA × 4 मिनट। 25 शब्द = 3-4 लाइन्स। सबसे हाई वेट — 30 मार्क्स!"
+      },
+      {
+        "section_id": "Q21_Q26_SA_60min",
+        "recommended_minutes": 0,
+        "note": "6 SA × 10 मिनट। 50 शब्द = 5-6 लाइन्स। हेडिंग + 3-4 पॉइंट्स + कंक्लूज़न।"
+      },
+      {
+        "section_id": "Q27_Q29_LA_50min",
+        "recommended_minutes": 0,
+        "note": "3 LA × 17 मिनट। 150 शब्द = 12-15 लाइन्स। इंट्रो + सब-हेडिंग्स + कंक्लूज़न।"
+      },
+      {
+        "section_id": "revision_13min",
+        "recommended_minutes": 0,
+        "note": "क्वेश्चन नंबर्स चेक करो, थियोरिस्ट एट्रिब्यूशन्स, हैंडराइटिंग क्लैरिटी।"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 33",
+        "target_marks": 33,
+        "strategy": "MCQ 7-8 (~8 मार्क्स) + VSA 6-7 (~18-21 मार्क्स) + SA 2-3 (~12-18 मार्क्स) = 38-47 मार्क्स। सेफ पास।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "MCQ — थियोरिस्ट-कॉन्सेप्ट पेयर्स (माल्थस, श्रीनिवास, हर्सकोविट्स, सोरोकिन, मैकाइवर) = 4-5 क्वेश्चन्स ईज़िली",
+          "VSA — 10 कॉमन डेफिनिशन्स: वर्ग, नातेदारी, जनजाति, नगरीकरण, सामाजिक परिवर्तन, उदारीकरण, दिव्यांग, सांप्रदायिकता, क्षेत्रवाद, दबाव समूह = 30 मार्क्स अवसर",
+          "SA — हरित क्रांति, भूमि सुधार, ग्राम पंचायत, दहेज — इनमें से कोई 2-3 प्रिपेयर्ड तो 12-18 मार्क्स पक्के",
+          "LA — स्किप अगर टाइम कम है, OR एक ईज़ी LA करो (दहेज OR हरित क्रांति)"
+        ],
+        "chapters_to_skip_safely": [
+          "कॉम्प्लेक्स रिसर्च मेथडोलॉजी डिटेल्स",
+          "माल्थस/श्रीनिवास/हर्सकोविट्स से परे एडवांस्ड थियोरिस्ट्स",
+          "माइनर सोशल मूवमेंट्स"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60",
+        "target_marks": 60,
+        "strategy": "MCQ 8-9 + VSA 9-10 + SA 5-6 + LA 2 = 70+ पॉसिबल।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "सभी 40 थियोरिस्ट्स-कॉन्सेप्ट्स याद करो (मास्टरलिस्ट देखें)",
+          "VSA सभी 10 डेफिनिशन्स मास्टर करो — 30 मार्क्स",
+          "SA — प्रिपेयर करो: हरित क्रांति, भूमि सुधार, ग्राम पंचायत, महिला आंदोलन, जनजातीय आंदोलन, पर्यावरण आंदोलन, विविधता में एकता, भारतीय लोकतंत्र, साक्षात्कार मेथडोलॉजी, सर्वेक्षण मेथडोलॉजी",
+          "LA — सभी 3 अटेम्प्ट विद OR ऑप्शन स्मार्टली यूज़्ड। फोकस ऑन: हरित क्रांति, दहेज, महिला आंदोलन, जनसंचार माध्यम"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "80 marks",
+        "target_marks": 80,
+        "strategy": "फुल अटेम्प्ट सभी 29 क्वेश्चन्स = 100 पॉसिबल।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "सभी 15 यूनिट्स मास्टर्ड विद थियोरिस्ट एट्रिब्यूशन्स",
+          "सभी 50+ थियोरिस्ट-कॉन्सेप्ट पेयर्स",
+          "डेटा/वर्ष: 1828 ब्रह्म, 1829 सती, 1856 विधवा, 1929 शारदा, 1961 दहेज, 1991 LPG, 1992 पंचायती राज",
+          "LA — 6 टॉपिक्स पूरी तरह प्रिपेयर्ड (हरित क्रांति, दहेज, महिला, जनजातीय, किसान, औद्योगिक समाज)",
+          "भारतीय केस स्टडीज़ — पंजाब हरित क्रांति, नर्मदा बचाओ, चिपको, तेलंगाना किसान आंदोलन, दलित पैंथर्स"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "इंडियन सोसाइटी (क्लास 12, पार्ट 1)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "खंड क का पूरा बेस। 7 यूनिट्स — उपनिवेशवाद इंट्रो से सांस्कृतिक विविधता चुनौतियों तक और प्रोजेक्ट मेथडोलॉजी।"
+      },
+      {
+        "name": "सोशल चेंज एंड डेवलपमेंट इन इंडिया (क्लास 12, पार्ट 2)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "खंड ख का पूरा बेस। 8 यूनिट्स — संरचनात्मक परिवर्तन से सामाजिक आंदोलन तक।"
+      },
+      {
+        "name": "यूपी बोर्ड क्लास 12 सोशियोलॉजी प्रीवियस ईयर पेपर्स 2018-2025",
+        "author": "",
+        "publisher": "UPMSP / upboardonline.com",
+        "purpose": "Supplementary",
+        "note": "60-70% क्वेश्चन्स रिकर। 5-ईयर एनालिसिस से पैटर्न पकड़ो।"
+      },
+      {
+        "name": "यूपी बोर्ड मॉडल पेपर 2025-26 (340 सीरीज़)",
+        "author": "",
+        "publisher": "UPMSP",
+        "purpose": "Supplementary",
+        "note": "एग्ज़ैक्ट 2026 डिफिकल्टी लेवल और क्वेश्चन फ्रेज़िंग के लिए।"
+      },
+      {
+        "name": "अरिहंत / नवोदय / शिवदास यूपी बोर्ड सोशियोलॉजी सॉल्व्ड",
+        "author": "",
+        "publisher": "मल्टीपल",
+        "purpose": "Supplementary",
+        "note": "हिंदी मीडियम मॉडल आंसर्स + थियोरिस्ट-कॉन्सेप्ट टेबल्स। LA आंसर टेम्पलेट्स इन्क्लूडेड।"
+      },
+      {
+        "name": "IGNOU BSOE सोशियोलॉजी मटेरियल (सप्लीमेंटरी)",
+        "author": "",
+        "publisher": "IGNOU",
+        "purpose": "Supplementary",
+        "note": "भारतीय समाजशास्त्रियों (श्रीनिवास, घुर्ये, देसाई) में डीप डाइव — 85+ टार्गेटिंग हाई-स्कोरर्स के लिए यूज़फुल।"
+      },
+      {
+        "name": "समाजशास्त्री थियोरिस्ट्स क्विक-रिवीज़न चार्ट",
+        "author": "",
+        "publisher": "सेल्फ-मेड / पब्लिशर",
+        "purpose": "Supplementary",
+        "note": "40+ थियोरिस्ट-कॉन्सेप्ट पेयर्स। 40+ मार्क्स (MCQ+VSA कंबाइंड) के लिए मोस्ट क्रिटिकल।"
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 मिनट रीडिंग टाइम — लिखना अलाउड नहीं इस टाइम में।"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "roll_number_on_answer_book: True",
+      "sequence_compulsory: False",
+      "sequence_note: सीक्वेंस फॉलो करना ज़रूरी नहीं — MCQ पहले अटेम्प्ट करो, फिर VSA ईज़ी ones, फिर SA, फिर LA।",
+      "no_negative_marking: True",
+      "mcq_attempt_all: सारे 10 MCQ अटेम्प्ट करो — नो नेगेटिव। थियोरिस्ट-कॉन्सेप्ट पेयर्स याद हों तो 8-9 MCQ ईज़िली करेक्ट।",
+      "vsa_high_weight: Q11-Q20 (30 मार्क्स) — हाईएस्ट सिंगल वेट। डेफिनिशन्स में थियोरिस्ट का नाम ज़रूर इन्क्लूड करो। जैसे, 'संस्कृतीकरण — M.N. श्रीनिवास ने प्रस्तुत किया। ये वो प्रक्रिया है जिसमें निम्न जाति उच्च जाति के रीति-रिवाज अपनाकर अपना सामाजिक स्टेटस बढ़ाती है।'"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['ब्लू', 'ब्लैक'] pencil_use: सोशियोलॉजी में पेंसिल की ज़रूरत बेयरली होती है। अगर फ्लोचार्ट/डायग्राम बनाना हो (जैसे, किनशिप चार्ट, डेमोग्राफिक ट्रांज़िशन कर्व) तो पेंसिल OK।"
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "word_limits: 25 / 50 / 150 — रिस्पेक्ट करो। सोशियोलॉजी यूपी बोर्ड में वर्ड लिमिट स्ट्रिक्ट है — ज़्यादा लिखने से प्रेज़ेंटेशन डाउन। headings_subheadings: SA में 3-4 नंबर्ड पॉइंट्स। LA में 4-5 सब-हेडिंग्स + इंट्रो + कंक्लूज़न। theorist_attribution: हमेशा कॉन्सेप्ट के साथ थियोरिस्ट का नाम लिखो (जैसे, 'संस्कृतीकरण — M.N. श्रीनिवास', 'जाति क्लोज़्ड क्लास के रूप में — मैकाइवर और पेज')। एग्ज़ामिनर को दिखना चाहिए। examples_in_answers: इंडियन कॉन्टेक्स्ट के एग्ज़ांपल्स दो — UP/बिहार जनजातीय समुदाय, पंजाब हरित क्रांति, नर्मदा बचाओ आदि। partial_marking: True partial_marking_note: हर पॉइंट सेपरेटली इवैल्यूएट होता है — एक गलत पॉइंट से बाकी कट नहीं। hindi_english_mix: टेक्निकल टर्म्स इंग्लिश में (Sanskritization, Westernization, Liberalization, Demography) + एक्सप्लेनेशन हिंदी में — कॉमन और एक्सेप्टेबल।",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

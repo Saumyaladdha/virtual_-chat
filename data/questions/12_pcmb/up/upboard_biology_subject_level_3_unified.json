@@ -1,0 +1,2218 @@
+{
+  "board": "UP Board",
+  "class": "12",
+  "subject": "Biology ",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 70,
+    "practical_paper": 30,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 23,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": false,
+    "extra_time_note": "3 hours 15 minutes. First 15 minutes reserved for reading the question paper only — no writing allowed in reading time.",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 9,
+    "total_questions_to_attempt": 9,
+    "total_objective_questions": 4,
+    "total_sets": 7,
+    "sets_note": "UP Board makes multiple sets (348 KG, 348 KH, 348 KI, 348 KJ, 348 KK, 348 KL etc.) — all equivalent in difficulty.",
+    "sets_same_or_different": "Medium to Difficult. A total of 7 sets were made. Level of questions was almost the same across all sets.",
+    "language_of_attempt": "",
+    "all_compulsory_note": "Internal OR choices are given in Long Answer questions (Q7, Q8, Q9). Attempt only ONE from each OR pair.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "UP Board syllabus fully based on NCERT. NCERT must be read completely.",
+    "official_scheme_note": "Available on upmsp.edu.in — practice at least 1 model paper before exam.",
+    "reference_books_note": "",
+    "prescribed_textbooks": [
+      "NCERT Biology Part I",
+      "NCERT Biology Part II"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "Available on upmsp.edu.in — practice at least 1 model paper before exam.",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "UP Board Biology paper has 4 question types: Multiple Choice (Q1), Very Short Answer (Q2), Short Answer Type I (Q3), Short Answer Type II (Q4-Q6 multi-part), Long Answer (Q7-Q9 with OR choice). Total 70 marks.",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "Question 1 — Multiple Choice Questions",
+        "question_number": "Q1",
+        "section": "Q1",
+        "marks_each": 1,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "4 Multiple Choice Question × 1 mark = 4 marks. Level: Easy to Medium. Covers all 5 units.",
+        "mostly_from": "Reproduction, Genetics, Biotechnology, Ecology, Human Welfare",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Question 2 — Very Short Answer (Very Short Answer)",
+        "question_number": "Q2",
+        "section": "Q2",
+        "marks_each": 1,
+        "total_in_paper": 5,
+        "attempt": 5,
+        "negative_marking": false,
+        "how_to_attempt": "5 Very Short Answer × 1 mark = 5 marks. Direct concept-based. Level: Easy to Medium.",
+        "mostly_from": "Definitions, full forms, names of organisms, hormones, terms across all units",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Question 3 — Short Answer Type I (Short Answer Type I)",
+        "question_number": "Q3",
+        "section": "Q3",
+        "marks_each": 2,
+        "total_in_paper": 5,
+        "attempt": 5,
+        "negative_marking": false,
+        "how_to_attempt": "5 questions × 2 marks = 10 marks. Level: Easy to Medium. Concise answers with labelled diagrams wherever needed.",
+        "mostly_from": "Definitions with examples, differentiation tables, short notes, processes",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Questions 4-6 — Short Answer Type II (Short Answer Type II)",
+        "question_number": "Q4-Q6",
+        "section": "Q4-Q6",
+        "marks_each": 3,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "Q4, Q5, Q6 — each contains multiple sub-parts of 3 marks each. Total = 36 marks. Level: Moderate to Difficult. Diagrams compulsory where relevant. Each sub-part of 3 marks = explanation (1.5) + diagram/example/equation (1.5). Multi-part answers in format [1+2], [2+1], [1+1+1], [1½+1½].",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Questions 7-9 — Long Answer (Long Answer)",
+        "question_number": "Q7-Q9",
+        "section": "Q7-Q9",
+        "marks_each": 5,
+        "total_in_paper": 3,
+        "attempt": 3,
+        "negative_marking": false,
+        "how_to_attempt": "3 questions × 5 marks = 15 marks. OR choice given in each. Level: Easy to Medium. Full essays, detailed mechanisms, complete labelled diagrams compulsory.",
+        "mostly_from": "Pollination and fertilisation, transcription/translation, biodiversity conservation, ecosystem energy flow, reproductive systems, human evolution, Mendel's laws dihybrid cross, biotechnology applications",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "Internal OR choices are given in Long Answer questions (Q7, Q8, Q9). Attempt only ONE from each OR pair.",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Internal OR choices are given in Long Answer questions (Q7, Q8, Q9). Attempt only ONE from each OR pair.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 30,
+      "medium_percent": 50,
+      "hard_percent": 20,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "Q1",
+        "name": "Question 1 — Multiple Choice Questions",
+        "type": "Multiple Choice Question",
+        "question_numbers": "Q1",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 1,
+        "total_marks": 4,
+        "word_limit": "",
+        "breakdown": "4 Multiple Choice Question × 1 mark = 4 marks. Level: Easy to Medium. Covers all 5 units.",
+        "notes": "Reproduction, Genetics, Biotechnology, Ecology, Human Welfare"
+      },
+      {
+        "section_id": "Q2",
+        "name": "Question 2 — Very Short Answer (Very Short Answer)",
+        "type": "Very Short Answer",
+        "question_numbers": "Q2",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "attempt_required": 5,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": "5 Very Short Answer × 1 mark = 5 marks. Direct concept-based. Level: Easy to Medium.",
+        "notes": "Definitions, full forms, names of organisms, hormones, terms across all units"
+      },
+      {
+        "section_id": "Q3",
+        "name": "Question 3 — Short Answer Type I (Short Answer Type I)",
+        "type": "Short Answer Type I",
+        "question_numbers": "Q3",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "attempt_required": 5,
+        "marks_per_question": 2,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "5 questions × 2 marks = 10 marks. Level: Easy to Medium. Concise answers with labelled diagrams wherever needed.",
+        "notes": "Definitions with examples, differentiation tables, short notes, processes"
+      },
+      {
+        "section_id": "Q4-Q6",
+        "name": "Questions 4-6 — Short Answer Type II (Short Answer Type II)",
+        "type": "Short Answer Type II",
+        "question_numbers": "Q4-Q6",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 3,
+        "total_marks": 36,
+        "word_limit": "",
+        "breakdown": "Q4, Q5, Q6 — each contains multiple sub-parts of 3 marks each. Total = 36 marks. Level: Moderate to Difficult. Diagrams compulsory where relevant. Each sub-part of 3 marks = explanation (1.5) + diagram/example/equation (1.5). Multi-part answers in format [1+2], [2+1], [1+1+1], [1½+1½].",
+        "notes": ""
+      },
+      {
+        "section_id": "Q7-Q9",
+        "name": "Questions 7-9 — Long Answer (Long Answer)",
+        "type": "Long Answer",
+        "question_numbers": "Q7-Q9",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "attempt_required": 3,
+        "marks_per_question": 5,
+        "total_marks": 15,
+        "word_limit": "",
+        "breakdown": "3 questions × 5 marks = 15 marks. OR choice given in each. Level: Easy to Medium. Full essays, detailed mechanisms, complete labelled diagrams compulsory.",
+        "notes": "Pollination and fertilisation, transcription/translation, biodiversity conservation, ecosystem energy flow, reproductive systems, human evolution, Mendel's laws dihybrid cross, biotechnology applications"
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 70,
+    "total_practical": 30,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "Q1(4) + Q2(5) + Q3(10) + Q4-Q6(36) + Q7-Q9(15) = 70 theory + 30 practical = 100",
+    "sections": [
+      {
+        "section_id": "Q1",
+        "name": "Question 1 — Multiple Choice Questions",
+        "question_numbers": "Q1",
+        "type": "Multiple Choice Question",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 4,
+        "word_limit": "",
+        "breakdown": "4 Multiple Choice Question × 1 mark = 4 marks. Level: Easy to Medium. Covers all 5 units."
+      },
+      {
+        "section_id": "Q2",
+        "name": "Question 2 — Very Short Answer (Very Short Answer)",
+        "question_numbers": "Q2",
+        "type": "Very Short Answer",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": "5 Very Short Answer × 1 mark = 5 marks. Direct concept-based. Level: Easy to Medium."
+      },
+      {
+        "section_id": "Q3",
+        "name": "Question 3 — Short Answer Type I (Short Answer Type I)",
+        "question_numbers": "Q3",
+        "type": "Short Answer Type I",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "5 questions × 2 marks = 10 marks. Level: Easy to Medium. Concise answers with labelled diagrams wherever needed."
+      },
+      {
+        "section_id": "Q4-Q6",
+        "name": "Questions 4-6 — Short Answer Type II (Short Answer Type II)",
+        "question_numbers": "Q4-Q6",
+        "type": "Short Answer Type II",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 36,
+        "word_limit": "",
+        "breakdown": "Each sub-part of 3 marks = explanation (1.5) + diagram/example/equation (1.5). Multi-part answers in format [1+2], [2+1], [1+1+1], [1½+1½]."
+      },
+      {
+        "section_id": "Q7-Q9",
+        "name": "Questions 7-9 — Long Answer (Long Answer)",
+        "question_numbers": "Q7-Q9",
+        "type": "Long Answer",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "marks_per_question": 5,
+        "total_marks": 15,
+        "word_limit": "",
+        "breakdown": "3 questions × 5 marks = 15 marks. OR choice given in each. Level: Easy to Medium. Full essays, detailed mechanisms, complete labelled diagrams compulsory."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "UP Board Biology unit-wise blueprint.",
+    "total_theory_marks": 70,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "2",
+      "name": "Genetics and Evolution",
+      "marks": 18,
+      "note": "Highest weightage unit"
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "4",
+        "name": "Biotechnology and its Applications",
+        "marks": 10
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Reproduction",
+        "marks": 14,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Chapters: Ch1: Sexual Reproduction in Flowering Plants; Ch2: Human Reproduction; Ch3: Reproductive Health"
+      },
+      {
+        "chapter_id": "2",
+        "name": "Genetics and Evolution",
+        "marks": 18,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Chapters: Ch4: Principles of Inheritance and Variation; Ch5: Molecular Basis of Inheritance; Ch6: Evolution"
+      },
+      {
+        "chapter_id": "3",
+        "name": "Biology and Human Welfare",
+        "marks": 14,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Chapters: Ch7: Human Health and Diseases; Ch8: Microbes in Human Welfare"
+      },
+      {
+        "chapter_id": "4",
+        "name": "Biotechnology and its Applications",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Chapters: Ch9: Biotechnology — Principles and Processes; Ch10: Biotechnology and Its Applications"
+      },
+      {
+        "chapter_id": "5",
+        "name": "Ecology and Environment",
+        "marks": 14,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Chapters: Ch11: Organisms and Population; Ch12: Ecosystem; Ch13: Biodiversity and Its Conservation"
+      }
+    ],
+    "totals": {
+      "total_marks": 70,
+      "one_mark_questions": 9,
+      "two_mark_total": 10,
+      "three_mark_total": 36,
+      "four_mark_total": 0,
+      "five_mark_total": 15
+    }
+  },
+  "syllabus": {
+    "note": "UP Board Biology Class 12 — 13 chapters, 5 units.",
+    "books": [
+      {
+        "book_name": "NCERT Biology Part I & Part II",
+        "category": "chapter",
+        "total_marks": 70,
+        "note": "UP Board syllabus fully based on NCERT.",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Sexual Reproduction in Flowering Plants",
+            "marks": 0,
+            "topics": [
+              "Flower structure — calyx, corolla, androecium, gynoecium, thalamus",
+              "Male gametophyte — microsporogenesis, pollen grain structure (exine/intine)",
+              "Female gametophyte — megasporogenesis, development of embryo sac (7-celled, 8-nucleate)",
+              "Pollination — types: self-pollination (autogamy, geitonogamy), cross-pollination (xenogamy)",
+              "Agencies of pollination: wind (anemophily), water (hydrophily), insects (entomophily)",
+              "Outbreeding devices, pollen-pistil interaction",
+              "Double fertilisation — syngamy (egg + male gamete → zygote) + triple fusion (2 polar nuclei + male gamete → endosperm)",
+              "Post-fertilisation events — development of endosperm, embryo, seed, fruit",
+              "Apomixis, parthenocarpy, polyembryony",
+              "Significance of seed dispersal and fruit formation"
+            ],
+            "note": "Unit: Reproduction | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "2",
+            "name": "Human Reproduction",
+            "marks": 0,
+            "topics": [
+              "Male reproductive system — testis (seminiferous tubules, Leydig cells, Sertoli cells), epididymis, vas deferens, prostate, seminal vesicles, urethra",
+              "Spermatogenesis — process of sperm formation in testis",
+              "Structure of sperm — head (acrosome, nucleus), middle piece (mitochondria), tail (flagellum)",
+              "Female reproductive system — ovaries, fallopian tubes, uterus, cervix, vagina",
+              "Oogenesis — formation of ovum",
+              "Menstrual cycle — follicular phase, ovulation, luteal phase (approx 28 days)",
+              "Fertilisation — in fallopian tube, formation of zygote",
+              "Embryo development — morula, blastocyst, implantation",
+              "Placenta — functions (nutrition, excretion, hormone production)",
+              "Parturition (birth), lactation"
+            ],
+            "note": "Unit: Reproduction | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "3",
+            "name": "Reproductive Health",
+            "marks": 0,
+            "topics": [
+              "Need for reproductive health — STDs (Sexually Transmitted Diseases)",
+              "Birth control — need and methods: barrier (condom, diaphragm), IUDs, oral contraceptives, surgical (vasectomy, tubectomy)",
+              "Medical Termination of Pregnancy (MTP) — legal and ethical issues",
+              "Amniocentesis — prenatal diagnosis, legal restrictions",
+              "Infertility — causes and assisted reproductive technologies",
+              "ART: IVF (In Vitro Fertilisation), ZIFT (Zygote Intra Fallopian Transfer), GIFT (Gamete Intra Fallopian Transfer)",
+              "IUI (Intra Uterine Insemination)"
+            ],
+            "note": "Unit: Reproduction | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "4",
+            "name": "Principles of Inheritance and Variation",
+            "marks": 0,
+            "topics": [
+              "Mendel's laws — Law of Dominance, Law of Segregation, Law of Independent Assortment",
+              "Monohybrid cross — F1 and F2 ratios (3:1 phenotypic, 1:2:1 genotypic)",
+              "Dihybrid cross — 9:3:3:1 phenotypic ratio using checker board",
+              "Test cross and back cross",
+              "Incomplete dominance (e.g. snapdragon — pink F1)",
+              "Co-dominance (e.g. ABO blood groups)",
+              "Multiple allelism — ABO blood groups (IA, IB, i alleles)",
+              "Pleiotropy",
+              "Chromosomal theory of inheritance — Morgan's experiments on Drosophila",
+              "Linkage and crossing over",
+              "Sex determination — XY in humans, ZW in birds, XO in grasshopper, haplo-diploid in honeybees",
+              "Mutation — point mutation, chromosomal aberration",
+              "Sex-linked inheritance — haemophilia, colour blindness",
+              "Mendelian disorders — thalassaemia",
+              "Chromosomal disorders — Down's syndrome (trisomy 21), Turner's syndrome (45 X0), Klinefelter's syndrome (47 XXY)"
+            ],
+            "note": "Unit: Genetics and Evolution | Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "5",
+            "name": "Molecular Basis of Inheritance",
+            "marks": 0,
+            "topics": [
+              "DNA as genetic material — Griffith's experiment, Hershey-Chase experiment",
+              "Structure of DNA — Watson and Crick double helix model",
+              "DNA packaging — nucleosome structure",
+              "DNA replication — semi-conservative model, enzymes involved",
+              "Transcription in prokaryotes — RNA polymerase, template strand, coding strand",
+              "Types of RNA — mRNA, tRNA, rRNA",
+              "Translation — ribosomes, codons, anticodons, polysomes",
+              "Genetic code — characteristics (triplet, degenerate, universal, non-overlapping)",
+              "Gene expression and regulation — lac operon (E. coli)",
+              "Genome and Human Genome Project (HGP)",
+              "DNA fingerprinting"
+            ],
+            "note": "Unit: Genetics and Evolution | Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "6",
+            "name": "Evolution",
+            "marks": 0,
+            "topics": [
+              "Origin of life — Oparin and Haldane hypothesis, Miller and Urey experiment",
+              "Evidences for biological evolution — palaeontology, comparative anatomy (homologous and analogous organs), embryology, molecular evidence",
+              "Darwin's theory — natural selection, survival of the fittest",
+              "Hardy-Weinberg principle — gene pool, gene frequency",
+              "Mechanisms of evolution — mutation, natural selection, genetic drift, gene flow",
+              "Adaptive radiation",
+              "Types of natural selection — stabilising, directional, disruptive",
+              "Human evolution — Australopithecines, Homo habilis, Homo erectus, Homo sapiens"
+            ],
+            "note": "Unit: Genetics and Evolution | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "7",
+            "name": "Human Health and Diseases",
+            "marks": 0,
+            "topics": [
+              "Pathogens causing human diseases",
+              "Malaria — Plasmodium, life cycle, Anopheles mosquito vector",
+              "Dengue — Aedes mosquito, break-bone fever",
+              "Typhoid — Salmonella typhi, Widal test",
+              "Pneumonia — Streptococcus pneumoniae",
+              "Common cold — rhinovirus",
+              "Amoebiasis — Entamoeba histolytica",
+              "Filariasis — Wuchereria bancrofti",
+              "Ascariasis — Ascaris lumbricoides",
+              "Ringworm — Microsporum, Trichophyton",
+              "Immunology — innate and acquired immunity, antibodies, lymphocytes (B and T cells)",
+              "Vaccines — active and passive immunisation, types of vaccines",
+              "Cancer — types, causes, treatment",
+              "HIV/AIDS — transmission, symptoms, ELISA test",
+              "Drug and alcohol abuse — effects on body"
+            ],
+            "note": "Unit: Biology and Human Welfare | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "8",
+            "name": "Microbes in Human Welfare",
+            "marks": 0,
+            "topics": [
+              "Microbes in food processing — Lactobacillus in curd, baker's yeast (Saccharomyces cerevisiae) in bread, fermented beverages",
+              "Industrial products — antibiotics (Penicillin from Penicillium notatum), enzymes, organic acids, vitamins",
+              "Microbes in sewage treatment — primary and secondary treatment, BOD",
+              "Microbes in energy generation — biogas (methanogens), biogas plant",
+              "Biocontrol agents — Bacillus thuringiensis (Bt), NPV (Nuclear Polyhedrosis Virus)",
+              "Biofertilisers — Rhizobium, Azotobacter, Azospirillum, mycorrhiza, Anabaena"
+            ],
+            "note": "Unit: Biology and Human Welfare | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "9",
+            "name": "Biotechnology — Principles and Processes",
+            "marks": 0,
+            "topics": [
+              "Genetic engineering — recombinant DNA technology (rDNA technology)",
+              "Restriction enzymes (endonucleases) — type I, II, III; functions, examples (EcoRI, BamHI)",
+              "Cloning vectors — plasmids, bacteriophage, cosmids; characteristics of cloning vectors",
+              "Gel electrophoresis — separation of DNA fragments",
+              "PCR — Polymerase Chain Reaction; Taq polymerase",
+              "Transformation — introducing recombinant DNA into host cell",
+              "Tools of genetic engineering: restriction enzymes, ligases, polymerases"
+            ],
+            "note": "Unit: Biotechnology and its Applications | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "10",
+            "name": "Biotechnology and Its Applications",
+            "marks": 0,
+            "topics": [
+              "Biotechnology in health — human insulin production (Humulin), vaccines, gene therapy",
+              "Genetically Modified Organisms (GMOs) — Bt crops (Bt cotton, Bt brinjal, Bt maize)",
+              "Bt toxin — Cry proteins from Bacillus thuringiensis",
+              "Transgenic animals — mice, cows; uses in medicine and research",
+              "Gene therapy — ADA deficiency example",
+              "Biopiracy and biosafety issues",
+              "Golden rice, Flavr Savr tomato",
+              "rDNA technology applications in medicine",
+              "Human Genome Project (HGP) — goals, features"
+            ],
+            "note": "Unit: Biotechnology and its Applications | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "11",
+            "name": "Organisms and Population",
+            "marks": 0,
+            "topics": [
+              "Ecology — levels of organisation: organism, population, community, ecosystem, biome, biosphere",
+              "Population attributes — birth rate, death rate, age distribution, sex ratio",
+              "Population growth models — exponential growth (J-shaped curve: dN/dt = rN) and logistic growth (S-shaped curve: dN/dt = rN(K-N)/K)",
+              "Population interactions: mutualism, competition, predation, parasitism, commensalism, amensalism",
+              "Competitive exclusion principle (Gause's principle)",
+              "Adaptations of organisms to environment"
+            ],
+            "note": "Unit: Ecology and Environment | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "12",
+            "name": "Ecosystem",
+            "marks": 0,
+            "topics": [
+              "Ecosystem — structure and function: biotic and abiotic components",
+              "Producers, consumers, decomposers",
+              "Food chain and food web",
+              "Energy flow — 10% law (Lindeman's law), energy pyramids",
+              "Ecological pyramids — pyramid of number, biomass, energy",
+              "Productivity — gross and net primary productivity",
+              "Decomposition — steps: fragmentation, leaching, catabolism, humification, mineralisation",
+              "Nutrient cycling — carbon cycle, phosphorus cycle",
+              "Ecosystem services"
+            ],
+            "note": "Unit: Ecology and Environment | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "13",
+            "name": "Biodiversity and Its Conservation",
+            "marks": 0,
+            "topics": [
+              "Biodiversity — concept, levels: genetic, species, ecosystem diversity",
+              "Patterns of biodiversity — latitudinal gradients, species-area relationship",
+              "Importance of biodiversity — ecosystem services",
+              "Loss of biodiversity — causes: habitat loss, overexploitation, alien species, co-extinction",
+              "Biodiversity conservation — in situ (national parks, wildlife sanctuaries, biosphere reserves, sacred groves) and ex situ (zoos, botanical gardens, seed banks)",
+              "Hotspots — Eastern Himalayas, Western Ghats, Indo-Burma, Sri Lanka",
+              "Endangered organisms, Red Data Book, IUCN"
+            ],
+            "note": "Unit: Ecology and Environment | Difficulty: Easy-Medium"
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Sexual Reproduction in Flowering Plants",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Reproduction",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Flower structure — calyx, corolla, androecium, gynoecium, thalamus",
+        "Male gametophyte — microsporogenesis, pollen grain structure (exine/intine)",
+        "Female gametophyte — megasporogenesis, development of embryo sac (7-celled, 8-nucleate)",
+        "Pollination — types: self-pollination (autogamy, geitonogamy), cross-pollination (xenogamy)",
+        "Agencies of pollination: wind (anemophily), water (hydrophily), insects (entomophily)",
+        "Outbreeding devices, pollen-pistil interaction",
+        "Double fertilisation — syngamy (egg + male gamete → zygote) + triple fusion (2 polar nuclei + male gamete → endosperm)",
+        "Post-fertilisation events — development of endosperm, embryo, seed, fruit",
+        "Apomixis, parthenocarpy, polyembryony",
+        "Significance of seed dispersal and fruit formation"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "LS of a flower (labelled — calyx, corolla, androecium, gynoecium, thalamus, pedicel)",
+        "TS of anther showing microsporangium layers (epidermis, endothecium, middle layer, tapetum)",
+        "Structure of mature pollen grain (exine, intine, germ pore)",
+        "LS of ovule (orthotropous) — micropyle, integuments, nucellus, embryo sac, chalaza, funiculus",
+        "Graafian follicle structure (labelled)",
+        "Embryo sac — 7-celled 8-nucleate structure",
+        "Double fertilisation diagram"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Describe the formation of female gametophyte in angiospermic plant with diagram. [2025 Set-1, 2024, 2023 — every year]",
+        "What is pollination? How many types of pollination are there? Describe with examples. [2025, 2024, 2023]",
+        "Draw labelled diagram of female reproductive system / TS of anther. [2025, 2024]",
+        "What is double fertilisation? What is its importance? [2025 Sets 1, 3]",
+        "Describe the process and importance of artificial hybridisation in brief. [2025 Set-3]",
+        "Write short note on pollination types. Describe types of pollination in flowering plants. [2025 Set-3 Or, 2025 Set-6]",
+        "Trace the events that would take place in flowers from the time of fall of pollen grain on stigma up to completion of fertilisation with diagram. [2025 Set-4]",
+        "Describe the structure of an angiospermic flower. [2022]",
+        "Describe the structure of typical angiosperm ovule and process of formation of embryo sac. [2022]"
+      ],
+      "key_mcq_answers": [
+        "Innermost layer of microsporangium = Tapetum. Endosperm of angiospermic plant = triploid. Initiating codon = AUG."
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "very_short_answer_questions": [
+        "What is double fertilisation? What is apomixis? Name the layer destroyed by pollen grains."
+      ],
+      "short_answer_2mark_questions": [
+        "What is parthenocarpy? Give example. What are cleistogamous flowers? Explain with example."
+      ],
+      "short_answer_3mark_questions": [
+        "Draw labelled diagram of TS of anther. Describe microsporogenesis. Describe structure of ovule with diagram. What is pollination? How many types?"
+      ],
+      "long_answer_5mark_questions": [
+        "Describe the formation of female gametophyte in angiospermic plant with diagram. [2025, 2024, 2023 — every year]. Describe pollination and its types in detail."
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Human Reproduction",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Reproduction",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Male reproductive system — testis (seminiferous tubules, Leydig cells, Sertoli cells), epididymis, vas deferens, prostate, seminal vesicles, urethra",
+        "Spermatogenesis — process of sperm formation in testis",
+        "Structure of sperm — head (acrosome, nucleus), middle piece (mitochondria), tail (flagellum)",
+        "Female reproductive system — ovaries, fallopian tubes, uterus, cervix, vagina",
+        "Oogenesis — formation of ovum",
+        "Menstrual cycle — follicular phase, ovulation, luteal phase (approx 28 days)",
+        "Fertilisation — in fallopian tube, formation of zygote",
+        "Embryo development — morula, blastocyst, implantation",
+        "Placenta — functions (nutrition, excretion, hormone production)",
+        "Parturition (birth), lactation"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "Sectional view of human testis (labelled — seminiferous tubules, Leydig cells, efferent ductules)",
+        "Structure of human sperm (labelled — acrosome, nucleus, mitochondria, tail/flagellum)",
+        "Sectional view of human ovary (labelled — primary follicle, Graafian follicle, corpus luteum)",
+        "Diagram of female reproductive system (labelled)",
+        "Diagram of human male reproductive system (labelled)"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Describe the structure of human sperm with well-labelled diagram. [2025 Set-4, 2024 Set-3]",
+        "Draw labelled diagram of sectional view of mammary gland. [2025 Set-3]",
+        "What is placenta? Write its functions. [2025, 2024]",
+        "Describe the female reproductive system of humans with diagram. [2022, 2025]",
+        "Describe the human male reproductive system and explain the process of sperm formation. [3+2 marks] [2024]",
+        "What is megasporogenesis? Describe with diagram the development of female gametophyte in angiospermic plant. [2024 Set-3]",
+        "Write the full form of LAB and highlight its importance. [2025 Set-1]",
+        "Describe briefly the role of hormones in follicular and luteal phase of menstrual cycle in female primates. [2025 Set-4]"
+      ],
+      "key_mcq_answers": [
+        "Process by which sperms are released from seminiferous tubules = spermiation. Hormone synthesised by Leydig cells = testosterone."
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "very_short_answer_questions": [
+        "What is ovulation? Name the hormone secreted by corpus luteum. What are the cells providing nutrition to sperms (Sertoli cells)?"
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "Describe the structure of human sperm with labelled diagram. [2025 Sets 4, 5]. Draw labelled diagram of sectional view of mammary gland. [2025 Set-3]. What is placenta? Write its functions. [2025, 2024]"
+      ],
+      "long_answer_5mark_questions": [
+        "Describe the female reproductive system of humans with diagram. [2022, 2025]. Describe the human male reproductive system and explain process of sperm formation. [2024]. Describe post-fertilisation events in flowering plant. [2022]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Reproductive Health",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Reproduction",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Need for reproductive health — STDs (Sexually Transmitted Diseases)",
+        "Birth control — need and methods: barrier (condom, diaphragm), IUDs, oral contraceptives, surgical (vasectomy, tubectomy)",
+        "Medical Termination of Pregnancy (MTP) — legal and ethical issues",
+        "Amniocentesis — prenatal diagnosis, legal restrictions",
+        "Infertility — causes and assisted reproductive technologies",
+        "ART: IVF (In Vitro Fertilisation), ZIFT (Zygote Intra Fallopian Transfer), GIFT (Gamete Intra Fallopian Transfer)",
+        "IUI (Intra Uterine Insemination)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Write full form of IVF. [2025 Sets 1, 2 — every year Very Short Answer]",
+        "Write full form of MTP and ZIFT. [2024 Set-1]",
+        "What is amniocentesis? Comment upon it. [2025, 2024]",
+        "Describe the different methods of family planning in detail. [2025 Set-1 Or, 2+3 marks]",
+        "Write a note on Intra-Uterine Devices (IUDs) and their applications. [2025 Set-3]",
+        "Write short note on test-tube baby programme. [2023 Set-3]"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "very_short_answer_questions": [
+        "Write full form of IVF. Write full form of ART / MTP / ZIFT / GIFT. What is amniocentesis?"
+      ],
+      "short_answer_2mark_questions": [
+        "Write a note on Intra-Uterine Devices (IUD's) and their applications. [2025 Set-3]"
+      ],
+      "short_answer_3mark_questions": [
+        "Write full form of ART. What is its importance in human life? [2025 Set-2]. Describe the principle of immunisation in brief. Add a note on passive immunisation. [2025 Set-5]"
+      ],
+      "long_answer_5mark_questions": [
+        "Describe the different methods of family planning in detail. [2025 Set-1 Or]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Principles of Inheritance and Variation",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 2,
+      "unit_name": "Genetics and Evolution",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Mendel's laws — Law of Dominance, Law of Segregation, Law of Independent Assortment",
+        "Monohybrid cross — F1 and F2 ratios (3:1 phenotypic, 1:2:1 genotypic)",
+        "Dihybrid cross — 9:3:3:1 phenotypic ratio using checker board",
+        "Test cross and back cross",
+        "Incomplete dominance (e.g. snapdragon — pink F1)",
+        "Co-dominance (e.g. ABO blood groups)",
+        "Multiple allelism — ABO blood groups (IA, IB, i alleles)",
+        "Pleiotropy",
+        "Chromosomal theory of inheritance — Morgan's experiments on Drosophila",
+        "Linkage and crossing over",
+        "Sex determination — XY in humans, ZW in birds, XO in grasshopper, haplo-diploid in honeybees",
+        "Mutation — point mutation, chromosomal aberration",
+        "Sex-linked inheritance — haemophilia, colour blindness",
+        "Mendelian disorders — thalassaemia",
+        "Chromosomal disorders — Down's syndrome (trisomy 21), Turner's syndrome (45 X0), Klinefelter's syndrome (47 XXY)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "Monohybrid cross with checker board",
+        "Dihybrid cross with checker board (9:3:3:1)",
+        "Pedigree chart for haemophilia / colour blindness",
+        "Diagram showing sex chromosomes in different organisms"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Explain the dihybrid cross with the help of checker board. [2025 Set-5, 2024, 2023, 2022 — every year 5 marks]",
+        "Describe Mendel's law of dominance. [2025, 2024, 2023 — every year 3 marks]",
+        "Write short note on colour blindness. [2025 Set-1, 2024]",
+        "What do you mean by sex-linked inheritance? Explain with haemophilia. [2025 Sets 5, 7]",
+        "Describe the chromosome theory of genetics (Morgan's work). [2024]",
+        "Define sex-linked inheritance. Explain it with any one type in humans. [2025 Set-5]",
+        "Differentiate between co-dominance and incomplete dominance. [2025 Set-2]",
+        "Explain Mendel's law of segregation. [2025 Sets 3, 6]",
+        "What is multiple allelism? Give example. [2025 Sets 3, 6]",
+        "Describe the Hardy-Weinberg principle. [2024 Set-1]",
+        "What do you understand by chromosomal aberration? Describe any two aberrations. [2024]"
+      ],
+      "key_mcq_answers": [
+        "Tt alleles are pair of heterozygous long. Mendel's finding rediscovered by de Vries, Correns, von Tschermak. Sickle cell anaemia = point mutation."
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "very_short_answer_questions": [
+        "What are alleles? What is the unit of genetics? How many contrasting characters in pea studied by Mendel (7 pairs)?"
+      ],
+      "short_answer_2mark_questions": [
+        "Differentiate between dominance and recessiveness. Write difference between homozygous and heterozygous. What is multiple allelism? Give example."
+      ],
+      "short_answer_3mark_questions": [
+        "Describe Mendel's law of dominance. [2025, 2024, 2023 — every year]. Write short note on colour blindness. Describe co-dominance and incomplete dominance. Define sex-linked inheritance with haemophilia. [2025 Set-5]"
+      ],
+      "long_answer_5mark_questions": [
+        "Explain the dihybrid cross with checker board. [2025, 2024, 2023, 2022 — every year]. Describe the chromosomal theory of genetics. [2024]. What do you mean by sex-linked inheritance? Describe inheritance of two sex-linked characters in humans. [2024, 2025]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Molecular Basis of Inheritance",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 2,
+      "unit_name": "Genetics and Evolution",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "DNA as genetic material — Griffith's experiment, Hershey-Chase experiment",
+        "Structure of DNA — Watson and Crick double helix model",
+        "DNA packaging — nucleosome structure",
+        "DNA replication — semi-conservative model, enzymes involved",
+        "Transcription in prokaryotes — RNA polymerase, template strand, coding strand",
+        "Types of RNA — mRNA, tRNA, rRNA",
+        "Translation — ribosomes, codons, anticodons, polysomes",
+        "Genetic code — characteristics (triplet, degenerate, universal, non-overlapping)",
+        "Gene expression and regulation — lac operon (E. coli)",
+        "Genome and Human Genome Project (HGP)",
+        "DNA fingerprinting"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "DNA double helix model (Watson and Crick) — labelled",
+        "Nucleosome structure (labelled)",
+        "Semi-conservative DNA replication (Meselson-Stahl experiment)",
+        "Transcription in prokaryotes (template strand, RNA polymerase, mRNA)",
+        "lac operon with/without lactose — diagram",
+        "PCR (Polymerase Chain Reaction) diagram"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "What is transcription? Describe the process of transcription in bacteria with diagram. [2025 Set-1, Set-2, 2024, 2022 — every year]",
+        "Describe the structure of double helical DNA given by Watson and Crick with a diagram. [2025 Set-4, 2024 Set-1, 2022]",
+        "Describe the semi-conservation method of DNA replication with suitable diagrams. [2025 Set-5]",
+        "Write a brief account of different components of nucleotide. [2025 Set-1, 2023]",
+        "Describe lac operon with diagram. [2025 Set-2 Or, 2024, 2023]",
+        "Write names of all types of RNA found in prokaryotes. [2025 Set-1 Very Short Answer]",
+        "Write the difference between DNA and RNA. [every year 2 marks]",
+        "Describe the Hershey and Chase experiment with labelled diagram. [2025 Set-4 Or, 2022]",
+        "Explain DNA fingerprinting in brief. [2025 Sets 3, 4]",
+        "Describe the polymerase chain reaction with line diagram. [2024 Or, 2023]"
+      ],
+      "key_mcq_answers": [
+        "Bacteriophage contains DNA or RNA genetic material = DNA or RNA. Molecular scissors = restriction enzyme. PCR stands for Polymerase Chain Reaction."
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "very_short_answer_questions": [
+        "Write names of all types of RNA found in prokaryotes (mRNA, tRNA, rRNA). Write names of any two DNA bases. What is a nucleoside?"
+      ],
+      "short_answer_2mark_questions": [
+        "Write difference between DNA and RNA. [every year]. Give brief account of different components of nucleotide. [2025, 2023]"
+      ],
+      "short_answer_3mark_questions": [
+        "Describe the functions of RNA polymerase found in nucleus. Write complete form of LAB and highlight its importance. What do you understand by central dogma? [2025, 2023]. Describe main characteristic features of genetic code. [2025 Set-5]"
+      ],
+      "long_answer_5mark_questions": [
+        "What is transcription? Describe the process of transcription in bacteria with diagram. [2025, 2024, 2022 — every year]. Describe the structure of double helical DNA given by Watson and Crick with diagram. [2025 Set-4, 2024, 2022]. Write an essay on rDNA technology. [2022]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Evolution",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 2,
+      "unit_name": "Genetics and Evolution",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Origin of life — Oparin and Haldane hypothesis, Miller and Urey experiment",
+        "Evidences for biological evolution — palaeontology, comparative anatomy (homologous and analogous organs), embryology, molecular evidence",
+        "Darwin's theory — natural selection, survival of the fittest",
+        "Hardy-Weinberg principle — gene pool, gene frequency",
+        "Mechanisms of evolution — mutation, natural selection, genetic drift, gene flow",
+        "Adaptive radiation",
+        "Types of natural selection — stabilising, directional, disruptive",
+        "Human evolution — Australopithecines, Homo habilis, Homo erectus, Homo sapiens"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Write an essay on evidence for evolution of life on earth. [2025 Set-2, 2024, 2023]",
+        "Write an essay on biological evolution. [2025 Set-1 Or, 2025 Set-2]",
+        "Describe Hardy-Weinberg principle. [2024 Set-1]",
+        "Write an essay on human evolution. [2023 Set-4]",
+        "What do you mean by adaptation? Describe various adaptations found in living organisms with examples. [2025 Set-5 Or]",
+        "What is natural selection? Explain with example. [2024]",
+        "Write short notes: (i) Genetic code (ii) SL Miller's experiment regarding origin of life. [2025 Set-3 Or]"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "very_short_answer_questions": [
+        "Give a classical example of adaptive radiation. Who proposed that evolution occurs due to use and disuse of organs? (Lamarck)"
+      ],
+      "short_answer_2mark_questions": [
+        "What is homology? Describe with example. Write a note on adaptive radiation."
+      ],
+      "short_answer_3mark_questions": [
+        "What is natural selection? Give an example. [2024]. Describe Darwinism. Comment on origin of life. [2024 Set-1]"
+      ],
+      "long_answer_5mark_questions": [
+        "Write an essay on evidence for evolution of life on earth. [2025, 2024, 2023 — every year]. Write an essay on biological evolution / human evolution. [2025, 2023]. Describe Hardy-Weinberg principle. [2024 Or]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Human Health and Diseases",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "Biology and Human Welfare",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Pathogens causing human diseases",
+        "Malaria — Plasmodium, life cycle, Anopheles mosquito vector",
+        "Dengue — Aedes mosquito, break-bone fever",
+        "Typhoid — Salmonella typhi, Widal test",
+        "Pneumonia — Streptococcus pneumoniae",
+        "Common cold — rhinovirus",
+        "Amoebiasis — Entamoeba histolytica",
+        "Filariasis — Wuchereria bancrofti",
+        "Ascariasis — Ascaris lumbricoides",
+        "Ringworm — Microsporum, Trichophyton",
+        "Immunology — innate and acquired immunity, antibodies, lymphocytes (B and T cells)",
+        "Vaccines — active and passive immunisation, types of vaccines",
+        "Cancer — types, causes, treatment",
+        "HIV/AIDS — transmission, symptoms, ELISA test",
+        "Drug and alcohol abuse — effects on body"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "Life cycle of malaria parasite (Plasmodium) — labelled diagram",
+        "Diagram of antibody molecule (labelled)",
+        "Diagram showing primary and secondary lymphoid organs"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "What do you understand by AIDS? Describe symptoms, pathogen transmission and control. [Model Paper]",
+        "What is cancer? Mention its prevention and cure. [2025 Set-3]",
+        "Write short notes on primary and secondary lymphoid organs. [2025 Set-5]",
+        "Differentiate between innate immunity and acquired immunity giving suitable examples. [2025 Set-4]",
+        "Draw only a clean labelled diagram of life cycle of malaria parasite. [2023]",
+        "Comment on sickle-cell anaemia. [2022]",
+        "How does elephantiasis (Filariasis) occur? [2025]",
+        "What are the effects of drug and alcohol abuse on the body? [2025]",
+        "Write short notes on (i) Vaccination (ii) Bio-fertiliser. [2025 Set-3]",
+        "Describe the different components of an ecosystem. [2025 Set-1 Or]"
+      ],
+      "key_mcq_answers": [
+        "Vector of dengue = Aedes. Non-infectious disease = Cancer. Name of pathogen of typhoid = Salmonella. Overproduction of WBC = leukaemia."
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "very_short_answer_questions": [
+        "Name any two species of Plasmodium. What is antitoxin? Name any ectoparasite found on humans."
+      ],
+      "short_answer_2mark_questions": [
+        "Write short notes on primary and secondary lymphoid organs. Differentiate between innate and acquired immunity. Draw well-labelled diagram of antibody molecule."
+      ],
+      "short_answer_3mark_questions": [
+        "Comment on infectious diseases. How does elephantiasis (filariasis) occur? [2025]. What are the effects of drug and alcohol abuse on the body? [2025]. Draw well-labelled diagram of life cycle of malaria parasite. [2023]"
+      ],
+      "long_answer_5mark_questions": [
+        "What do you understand by AIDS? Describe symptoms, pathogen transmission and control. [Model Paper]. What is cancer? Describe causes and treatment in detail. [2024, 2023]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Microbes in Human Welfare",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "Biology and Human Welfare",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Microbes in food processing — Lactobacillus in curd, baker's yeast (Saccharomyces cerevisiae) in bread, fermented beverages",
+        "Industrial products — antibiotics (Penicillin from Penicillium notatum), enzymes, organic acids, vitamins",
+        "Microbes in sewage treatment — primary and secondary treatment, BOD",
+        "Microbes in energy generation — biogas (methanogens), biogas plant",
+        "Biocontrol agents — Bacillus thuringiensis (Bt), NPV (Nuclear Polyhedrosis Virus)",
+        "Biofertilisers — Rhizobium, Azotobacter, Azospirillum, mycorrhiza, Anabaena"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "Structure of a typical biogas plant (labelled)",
+        "Diagram of sewage treatment plant"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Write an essay on the role of microorganisms in human welfare. [2025 Set-5 Or, 2022, 2023 — every year]",
+        "Describe the structure of a typical biogas plant with help of a suitable diagram. [2025 Set-3, 2023]",
+        "Describe the industrial use of microorganism in short. [2025 Set-1]",
+        "What is biofertiliser? A farmer is advised to add a culture of which bacterium before sowing? [2025 Set-5]",
+        "Describe the role of microorganisms in sewage treatment. [2025 Set-5]",
+        "Describe the role of microbes in industrial products synthesis. [2022 Or]",
+        "Give a detailed account on how microbes can be used to decrease the use of chemical fertilisers and pesticides. [2022]"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "very_short_answer_questions": [
+        "Name any decomposer of ecosystem. Name the bacteria that converts milk into curd (Lactobacillus). Who is the father of green revolution in India?"
+      ],
+      "short_answer_2mark_questions": [
+        "Write a note on humus. Write two useful functions of Lactic Acid Bacteria (LAB). What are biofertilisers? State role of microorganism in their production."
+      ],
+      "short_answer_3mark_questions": [
+        "Describe the industrial use of microorganism in short. [2025 Set-1]. Write short note on baker's yeast. What is biofertiliser? How does a farmer use it? [2025 Set-5]. Describe role of microorganisms in sewage treatment in brief. [2025 Set-5]"
+      ],
+      "long_answer_5mark_questions": [
+        "Write an essay on the role of microorganisms in human welfare. [2025 Set-5 Or, 2022, 2023 — every year]. Describe the structure of a typical biogas plant with help of suitable diagram. [2025 Set-3, 2023]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Biotechnology — Principles and Processes",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 4,
+      "unit_name": "Biotechnology and its Applications",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Genetic engineering — recombinant DNA technology (rDNA technology)",
+        "Restriction enzymes (endonucleases) — type I, II, III; functions, examples (EcoRI, BamHI)",
+        "Cloning vectors — plasmids, bacteriophage, cosmids; characteristics of cloning vectors",
+        "Gel electrophoresis — separation of DNA fragments",
+        "PCR — Polymerase Chain Reaction; Taq polymerase",
+        "Transformation — introducing recombinant DNA into host cell",
+        "Tools of genetic engineering: restriction enzymes, ligases, polymerases"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "PCR (Polymerase Chain Reaction) with line diagram — steps: denaturation, annealing, extension",
+        "Gel electrophoresis diagram",
+        "Plasmid as cloning vector (ori, antibiotic resistance gene, restriction sites)"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "What are restriction enzymes? Write down their functions. [2025, 2023 — every year]",
+        "Describe the polymerase chain reaction with line diagram. [2024 Or, 2023]",
+        "What is Taq polymerase? What is its function in biotechnology? [2025 Set-1]",
+        "What are cloning vectors? Briefly explain characteristics of cloning vectors. [2025 Set-4]",
+        "Write a note on cloning vectors. [2025 Set-2]",
+        "Explain the difference between exonuclease and endonuclease enzymes. [2025 Set-4]",
+        "Describe the important enzymes required for genetic engineering. [2025 Set-5]",
+        "Brief description of experimental steps of cloning and expression of human gene in E. coli. [Model Paper]"
+      ],
+      "key_mcq_answers": [
+        "Molecular scissors = restriction enzyme. PCR = Polymerase Chain Reaction. Ti plasmid vector delivers gene into plant. Enzyme which joins DNA fragments = ligase."
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "very_short_answer_questions": [
+        "What is a nucleoside? What are molecular scissors (restriction enzymes)? What does ELISA stand for?"
+      ],
+      "short_answer_2mark_questions": [
+        "What are restriction enzymes? Write down their functions. [2025, 2023 — every year]. What are cloning vectors? Briefly explain characteristics. [2025]"
+      ],
+      "short_answer_3mark_questions": [
+        "What is Taq polymerase? What is its function in biotechnology? [2025 Set-1]. Describe the role of restriction enzyme in recombinant DNA technology. [2025 Set-1]. Write a note on transforming principle. [2025 Set-1]. What are transgenic animals? Describe benefits of transgenic animals in brief. [2025 Set-4]"
+      ],
+      "long_answer_5mark_questions": [
+        "Describe polymerase chain reaction with line diagram. [2024 Or, 2023]. Write an essay on rDNA technology. [2022]. Brief description of experimental steps of cloning and expression of human gene in E. coli. [Model Paper Or]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Biotechnology and Its Applications",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 4,
+      "unit_name": "Biotechnology and its Applications",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Biotechnology in health — human insulin production (Humulin), vaccines, gene therapy",
+        "Genetically Modified Organisms (GMOs) — Bt crops (Bt cotton, Bt brinjal, Bt maize)",
+        "Bt toxin — Cry proteins from Bacillus thuringiensis",
+        "Transgenic animals — mice, cows; uses in medicine and research",
+        "Gene therapy — ADA deficiency example",
+        "Biopiracy and biosafety issues",
+        "Golden rice, Flavr Savr tomato",
+        "rDNA technology applications in medicine",
+        "Human Genome Project (HGP) — goals, features"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Write a note on Bt cotton. [2025 Sets 1, 2]",
+        "What are transgenic animals? How are they produced? Mention their usefulness to mankind. [2025 Set-5 Short Answer Type II]",
+        "What is gene therapy? Illustrate using example of ADA deficiency. [2025 Set-5]",
+        "How does production of insulin take place in genetically modified organism? [2025 Set-5]",
+        "Write important goals of Human Genome Project (HGP). [2025 Set-5]",
+        "Write an essay on the importance of biotechnology in agriculture. [2025 Set-4]",
+        "Describe applications of rDNA technology in medicine. [2025 Set-4]",
+        "What do you understand by Bt? Explain with example of Bt cotton. [2024 Set-1]",
+        "What is recombinant DNA technology? Write its two uses beneficial to human beings. [2022]",
+        "Comment on human insulin. [2025 Set-3, 2023]"
+      ],
+      "key_mcq_answers": [
+        "Bt cotton formed from bacteria. Genetically modified plant = Bt cotton, Bt rice, Bt maize. PCR stands for Polymerase Chain Reaction."
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "very_short_answer_questions": [
+        "Write complete form of GMO. What does ELISA stand for? Name any transgenic animal. Write full form of PCR."
+      ],
+      "short_answer_2mark_questions": [],
+      "short_answer_3mark_questions": [
+        "Write a note on Bt cotton. [2025 Sets 1, 2]. What are transgenic animals? Describe benefits briefly. [2025 Set-4]. Write a note on gene therapy using ADA deficiency example. [2025 Set-5]. How does production of insulin take place in genetically modified organism? [2025 Set-5]. Write the important goals of Human Genome Project (HGP). [2025 Set-5]"
+      ],
+      "long_answer_5mark_questions": [
+        "Write an essay on the importance of biotechnology in agriculture. [2025 Set-4]. Describe applications of rDNA technology in medicine. [2025 Set-4]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Organisms and Population",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 5,
+      "unit_name": "Ecology and Environment",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Ecology — levels of organisation: organism, population, community, ecosystem, biome, biosphere",
+        "Population attributes — birth rate, death rate, age distribution, sex ratio",
+        "Population growth models — exponential growth (J-shaped curve: dN/dt = rN) and logistic growth (S-shaped curve: dN/dt = rN(K-N)/K)",
+        "Population interactions: mutualism, competition, predation, parasitism, commensalism, amensalism",
+        "Competitive exclusion principle (Gause's principle)",
+        "Adaptations of organisms to environment"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "Exponential growth curve (J-shaped) and logistic growth curve (S-shaped) on same graph",
+        "Age pyramid diagrams (expanding, stable, declining population)"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Give a brief account of different population growth models. [2025 Set-3, 2024 Set-3 — every year]",
+        "What is population? Describe its attributes in detail. [2025 Set-1 Or, 2025 Set-3 Or]",
+        "Describe the different population interactions with suitable examples. [2022 Or, 2024 Or]",
+        "Describe exponential growth. [2025, 2024]",
+        "Comment upon Gause's competitive exclusion principle. [2025 Set-3, 2024 Set-3]",
+        "Describe mutualism with help of wasp-fig relationship. [2025 Set-5]"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "very_short_answer_questions": [
+        "Name any ectoparasite found on human. Give a classical example of commensalism. Write the name of indicator of industrial pollution."
+      ],
+      "short_answer_2mark_questions": [
+        "Define population and community. Comment on Gause's competitive exclusion principle. What is age pyramid? Give diagrammatic representation."
+      ],
+      "short_answer_3mark_questions": [
+        "Describe exponential growth. [2025, 2024]. Define any two: commensalism, logistic growth, parasitism. [2025 Set-5]. Describe mutualism with help of wasp-fig relationship. [2025 Set-5]"
+      ],
+      "long_answer_5mark_questions": [
+        "Give a brief account of different population growth models. [2025 Set-3, 2024]. What is population? Describe its attributes in detail. [2025 Sets 1, 3 Or]. Describe in detail energy flow in an ecosystem. [2025 Set-4 Or]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "Ecosystem",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 5,
+      "unit_name": "Ecology and Environment",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Ecosystem — structure and function: biotic and abiotic components",
+        "Producers, consumers, decomposers",
+        "Food chain and food web",
+        "Energy flow — 10% law (Lindeman's law), energy pyramids",
+        "Ecological pyramids — pyramid of number, biomass, energy",
+        "Productivity — gross and net primary productivity",
+        "Decomposition — steps: fragmentation, leaching, catabolism, humification, mineralisation",
+        "Nutrient cycling — carbon cycle, phosphorus cycle",
+        "Ecosystem services"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "Energy flow diagram in ecosystem (showing trophic levels and 10% law)",
+        "Trophic levels diagram with line (food chain)",
+        "Ecological pyramids — pyramid of numbers, biomass, energy"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Describe energy flow in an ecosystem with diagrams. [2025 Set-4 Or, 2024, 2023, 2022 — every year]",
+        "Describe the different components of an ecosystem. [2025 Set-1 Or]",
+        "Describe the components of a water ecosystem in detail. [2025 Set-2]",
+        "Describe biogas plant with diagram. [2025 Set-3, 2023]",
+        "Write an essay on the importance of biotechnology in agriculture. [2025 Set-4]",
+        "Draw different trophic levels in an ecosystem with line diagram. [2024 Set-3]"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "very_short_answer_questions": [
+        "Differentiate between gross primary productivity and net primary productivity. Write term used for green plants in ecosystem terminology (producers/autotrophs)."
+      ],
+      "short_answer_2mark_questions": [
+        "Write a note on food web. Differentiate between primary productivity and secondary productivity. Explain flow of energy in community."
+      ],
+      "short_answer_3mark_questions": [
+        "Draw different trophic levels in ecosystem with line diagram. [2024]. Write the importance of species diversity in ecosystem. [2025 Set-3]. Write short notes on carrying capacity and DNA palindrome. [2025 Set-4]"
+      ],
+      "long_answer_5mark_questions": [
+        "Describe energy flow in an ecosystem with diagrams. [2025 Set-4 Or, 2024, 2023, 2022 — every year]. Describe the different components of an ecosystem. [2025 Set-1 Or]. Describe the components of a water ecosystem in detail. [2025 Set-2]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "Biodiversity and Its Conservation",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 5,
+      "unit_name": "Ecology and Environment",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Biodiversity — concept, levels: genetic, species, ecosystem diversity",
+        "Patterns of biodiversity — latitudinal gradients, species-area relationship",
+        "Importance of biodiversity — ecosystem services",
+        "Loss of biodiversity — causes: habitat loss, overexploitation, alien species, co-extinction",
+        "Biodiversity conservation — in situ (national parks, wildlife sanctuaries, biosphere reserves, sacred groves) and ex situ (zoos, botanical gardens, seed banks)",
+        "Hotspots — Eastern Himalayas, Western Ghats, Indo-Burma, Sri Lanka",
+        "Endangered organisms, Red Data Book, IUCN"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "What do you understand by biodiversity conservation? Differentiate between in situ and ex situ conservation. [2025 Sets 1, 2, 2024, 2023 — every year 5 marks]",
+        "Write an essay on biodiversity conservation. [2025 Set-2, 2024 Or]",
+        "What are the major causes of loss of biodiversity? [2025 Set-5]",
+        "Explain the difference between in situ and ex situ conservation. [every year 2 marks]",
+        "What do you mean by biodiversity? Describe its different methods of conservation in detail. [2024]",
+        "Write short notes on: Red Data Book. [2025 Sets 4, 5]"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "very_short_answer_questions": [
+        "Give names of any two artificial ecosystems. Write causes of biodiversity loss. What is a biodiversity hotspot?"
+      ],
+      "short_answer_2mark_questions": [
+        "Write short note on biodiversity hotspots. Explain the difference between in situ and ex situ conservation. [every year]"
+      ],
+      "short_answer_3mark_questions": [
+        "What are the major causes of loss of biodiversity? [2025 Sets 4, 5]. Write short notes on Red Data Book. [2025 Sets 4, 5]. Write a note on biosphere. [2025 Set-6]"
+      ],
+      "long_answer_5mark_questions": [
+        "What do you understand by biodiversity conservation? Differentiate between in situ and ex situ conservation. [2025 Sets 1, 2, 3, 2024, 2023 — every year]. Write an essay on biodiversity conservation. [2025 Set-2, 2024 Or]"
+      ],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "UP Board Biology — 13 chapters across 5 units. Diagrams compulsory.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "All chapters covered by blueprint. No chapter can be skipped.",
+    "or_questions_note": "Internal OR choice only in Q7, Q8, Q9 (Long Answer).",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Sexual Reproduction in Flowering Plants",
+      "Human Reproduction",
+      "Principles of Inheritance and Variation",
+      "Molecular Basis of Inheritance",
+      "Microbes in Human Welfare",
+      "Biotechnology — Principles and Processes",
+      "Ecosystem",
+      "Biodiversity and Its Conservation"
+    ],
+    "chapters_never_skip_reason": "Marked high_importance in syllabus — questions every year.",
+    "chapters_with_highest_weightage": [
+      "Unit 2: Genetics and Evolution (18 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "Unit 4: Biotechnology (10 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "Female gametophyte formation in angiospermic plant with diagram (5 marks)",
+      "Pollination — types and description (3 or 5 marks)",
+      "Dihybrid cross with checker board (9:3:3:1) (5 marks)",
+      "Transcription in bacteria with diagram (5 marks)",
+      "Watson and Crick DNA double helix structure with diagram (5 marks)",
+      "Biodiversity conservation: in situ vs ex situ (2 or 5 marks)",
+      "Energy flow in ecosystem with diagrams (5 marks)",
+      "Role of microorganisms in human welfare (essay) (5 marks)",
+      "Biological evolution / evidence for evolution (essay) (5 marks)",
+      "Population growth models (exponential and logistic) (5 marks)",
+      "Mendel's laws (dominance/segregation) (3 marks)",
+      "Difference between DNA and RNA (2 marks)",
+      "Restriction enzymes — types and functions (2 marks)",
+      "Double fertilisation — definition and importance (1 or 2 marks)",
+      "Bt cotton — what it is, how it works (3 marks)"
+    ],
+    "chapters_mostly_theory": [],
+    "chapters_mostly_diagram_based": [
+      "Sexual Reproduction in Flowering Plants",
+      "Human Reproduction",
+      "Principles of Inheritance and Variation",
+      "Molecular Basis of Inheritance",
+      "Human Health and Diseases",
+      "Microbes in Human Welfare",
+      "Biotechnology — Principles and Processes",
+      "Organisms and Population",
+      "Ecosystem"
+    ],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Female gametophyte formation in angiospermic plant with diagram (Every year, 5 marks)",
+      "Pollination — types and description (Every year, 3 or 5 marks)",
+      "Dihybrid cross with checker board (9:3:3:1) (Every year, 5 marks)",
+      "Transcription in bacteria with diagram (Every year, 5 marks)",
+      "Watson and Crick DNA double helix structure with diagram (Every year, 5 marks)",
+      "Biodiversity conservation: in situ vs ex situ (Every year, 2 or 5 marks)",
+      "Energy flow in ecosystem with diagrams (Every year, 5 marks)",
+      "Role of microorganisms in human welfare (essay) (Every year, 5 marks)",
+      "Biological evolution / evidence for evolution (essay) (3 consecutive years, 5 marks)",
+      "Population growth models (exponential and logistic) (Every year, 5 marks)",
+      "Mendel's laws (dominance/segregation) (Every year, 3 marks)",
+      "Difference between DNA and RNA (Every year, 2 marks)",
+      "Restriction enzymes — types and functions (Every year, 2 marks)",
+      "Double fertilisation — definition and importance (Every year, 1 or 2 marks)",
+      "Bt cotton — what it is, how it works (Every year, 3 marks)"
+    ],
+    "one_mark_question_facts": {
+      "note": "Sirf sahi option (i)/(ii)/(iii)/(iv) likhna. Koi explanation nahi.",
+      "common_formats": []
+    },
+    "most_important_questions": [
+      "Rank 1: Describe the formation of female gametophyte in angiospermic plant with diagram (7-celled, 8-nucleate embryo sac). - Sexual Reproduction in Flowering Plants (5 marks, 2025, 2024, 2023 — Every Year)",
+      "Rank 2: What is pollination? How many types of pollination are there? Describe with examples. - Sexual Reproduction in Flowering Plants (5 marks, 2025, 2024, 2023 — Every Year)",
+      "Rank 3: Explain the dihybrid cross with the help of checker board (9:3:3:1 ratio). - Principles of Inheritance and Variation (5 marks, 2025, 2024, 2023, 2022 — Every Year)",
+      "Rank 4: What is transcription? Describe the process of transcription in bacteria with diagram. - Molecular Basis of Inheritance (5 marks, 2025, 2024, 2022 — Every Year)",
+      "Rank 5: Describe the structure of double helical DNA given by Watson and Crick with a diagram. - Molecular Basis of Inheritance (5 marks, 2025, 2024, 2022 — Every Year)",
+      "Rank 6: What do you understand by biodiversity conservation? Differentiate between in situ and ex situ conservation. - Biodiversity and Its Conservation (5 marks, 2025, 2024, 2023 — Every Year)",
+      "Rank 7: Describe energy flow in an ecosystem with diagrams (showing trophic levels and 10% Lindeman's law). - Ecosystem (5 marks, 2025, 2024, 2023, 2022 — Every Year)",
+      "Rank 8: Write an essay on the role of microorganisms in human welfare. - Microbes in Human Welfare (5 marks, 2025, 2022, 2023 — Every Year)",
+      "Rank 9: Write an essay on evidence for evolution of life on earth / biological evolution. - Evolution (5 marks, 2025, 2024, 2023 — Every Year)",
+      "Rank 10: Give a brief account of different population growth models (exponential and logistic with diagrams). - Organisms and Population (5 marks, 2025, 2024 — Every Year)",
+      "Rank 11: Describe Mendel's law of dominance OR Mendel's law of segregation. - Principles of Inheritance and Variation (3 marks, 2025, 2024, 2023 — Every Year)",
+      "Rank 12: What is double fertilisation? What is its importance? (syngamy + triple fusion) - Sexual Reproduction in Flowering Plants (2 or 3 marks, 2025, 2024, 2023 — Every Year)",
+      "Rank 13: Write difference between DNA and RNA. - Molecular Basis of Inheritance (2 marks, 2025, 2024, 2023, 2022 — Every Year)",
+      "Rank 14: What are restriction enzymes? Write their types and functions. - Biotechnology — Principles and Processes (2 marks, 2025, 2023 — Every Year)",
+      "Rank 15: Describe the structure of a typical biogas plant with diagram. - Microbes in Human Welfare (3 or 5 marks, 2025, 2023 — Every Year)",
+      "Rank 16: Describe the female reproductive system of humans with labelled diagram. - Human Reproduction (5 marks, 2025, 2022)",
+      "Rank 17: Write short note on colour blindness (sex-linked inheritance). OR Describe haemophilia inheritance. - Principles of Inheritance and Variation (3 marks, 2025, 2024, 2023)",
+      "Rank 18: Describe lac operon with diagram (with and without lactose). - Molecular Basis of Inheritance (3 or 5 marks, 2025, 2024, 2023)",
+      "Rank 19: What is Bt cotton? What is Bt toxin? How is it useful? Explain with example of Bt cotton. - Biotechnology and Its Applications (3 marks, 2025, 2024 — Every Year)",
+      "Rank 20: Write an essay on the importance of biotechnology in agriculture. OR Describe applications of rDNA technology in medicine. - Biotechnology and Its Applications (5 marks, 2025, 2024, 2022)"
+    ]
+  },
+  "important_diagrams_masterlist": {
+    "note": "Diagram is COMPULSORY in UP Board Biology. Answer considered inaccurate and incomplete without diagram.",
+    "must_practise": [
+      {
+        "chapter_id": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
+        "diagram_name": "LS of a flower (labelled — calyx, corolla, androecium, gynoecium, thalamus, pedicel)",
+        "note": ""
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
+        "diagram_name": "TS of anther showing microsporangium layers (epidermis, endothecium, middle layer, tapetum)",
+        "note": ""
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
+        "diagram_name": "Structure of mature pollen grain (exine, intine, germ pore)",
+        "note": ""
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
+        "diagram_name": "LS of ovule (orthotropous) — micropyle, integuments, nucellus, embryo sac, chalaza, funiculus",
+        "note": ""
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
+        "diagram_name": "Graafian follicle structure (labelled)",
+        "note": ""
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
+        "diagram_name": "Embryo sac — 7-celled 8-nucleate structure",
+        "note": ""
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
+        "diagram_name": "Double fertilisation diagram",
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "Human Reproduction",
+        "diagram_name": "Sectional view of human testis (labelled — seminiferous tubules, Leydig cells, efferent ductules)",
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "Human Reproduction",
+        "diagram_name": "Structure of human sperm (labelled — acrosome, nucleus, mitochondria, tail/flagellum)",
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "Human Reproduction",
+        "diagram_name": "Sectional view of human ovary (labelled — primary follicle, Graafian follicle, corpus luteum)",
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "Human Reproduction",
+        "diagram_name": "Diagram of female reproductive system (labelled)",
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "Human Reproduction",
+        "diagram_name": "Diagram of human male reproductive system (labelled)",
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
+        "diagram_name": "Monohybrid cross with checker board",
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
+        "diagram_name": "Dihybrid cross with checker board (9:3:3:1)",
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
+        "diagram_name": "Pedigree chart for haemophilia / colour blindness",
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
+        "diagram_name": "Diagram showing sex chromosomes in different organisms",
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
+        "diagram_name": "DNA double helix model (Watson and Crick) — labelled",
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
+        "diagram_name": "Nucleosome structure (labelled)",
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
+        "diagram_name": "Semi-conservative DNA replication (Meselson-Stahl experiment)",
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
+        "diagram_name": "Transcription in prokaryotes (template strand, RNA polymerase, mRNA)",
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
+        "diagram_name": "lac operon with/without lactose — diagram",
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
+        "diagram_name": "PCR (Polymerase Chain Reaction) diagram",
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Human Health and Diseases",
+        "diagram_name": "Life cycle of malaria parasite (Plasmodium) — labelled diagram",
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Human Health and Diseases",
+        "diagram_name": "Diagram of antibody molecule (labelled)",
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Human Health and Diseases",
+        "diagram_name": "Diagram showing primary and secondary lymphoid organs",
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "chapter_name": "Microbes in Human Welfare",
+        "diagram_name": "Structure of a typical biogas plant (labelled)",
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "chapter_name": "Microbes in Human Welfare",
+        "diagram_name": "Diagram of sewage treatment plant",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Biotechnology — Principles and Processes",
+        "diagram_name": "PCR (Polymerase Chain Reaction) with line diagram — steps: denaturation, annealing, extension",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Biotechnology — Principles and Processes",
+        "diagram_name": "Gel electrophoresis diagram",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Biotechnology — Principles and Processes",
+        "diagram_name": "Plasmid as cloning vector (ori, antibiotic resistance gene, restriction sites)",
+        "note": ""
+      },
+      {
+        "chapter_id": "11",
+        "chapter_name": "Organisms and Population",
+        "diagram_name": "Exponential growth curve (J-shaped) and logistic growth curve (S-shaped) on same graph",
+        "note": ""
+      },
+      {
+        "chapter_id": "11",
+        "chapter_name": "Organisms and Population",
+        "diagram_name": "Age pyramid diagrams (expanding, stable, declining population)",
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "chapter_name": "Ecosystem",
+        "diagram_name": "Energy flow diagram in ecosystem (showing trophic levels and 10% law)",
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "chapter_name": "Ecosystem",
+        "diagram_name": "Trophic levels diagram with line (food chain)",
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "chapter_name": "Ecosystem",
+        "diagram_name": "Ecological pyramids — pyramid of numbers, biomass, energy",
+        "note": ""
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Key formulas / laws for population ecology, energy flow, genetics, molecular biology.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "11",
+        "chapter_name": "Organisms and Population",
+        "formulas": [
+          "Exponential growth: dN/dt = rN  (J-shaped curve)",
+          "Logistic growth: dN/dt = rN(K-N)/K  (S-shaped curve, K = carrying capacity)",
+          "Birth rate = number of births per capita per unit time",
+          "Death rate = number of deaths per capita per unit time"
+        ]
+      },
+      {
+        "chapter_id": "12",
+        "chapter_name": "Ecosystem",
+        "formulas": [
+          "10% Law (Lindeman): only 10% of energy is transferred from one trophic level to next",
+          "GPP (Gross Primary Productivity) = total rate of photosynthesis",
+          "NPP (Net Primary Productivity) = GPP - Respiration losses"
+        ]
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Principles of Inheritance and Variation",
+        "formulas": [
+          "Monohybrid F2 phenotypic ratio = 3:1 (dominant:recessive)",
+          "Monohybrid F2 genotypic ratio = 1:2:1 (AA:Aa:aa)",
+          "Dihybrid F2 phenotypic ratio = 9:3:3:1",
+          "Test cross = F1 hybrid x homozygous recessive parent"
+        ]
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
+        "formulas": [
+          "Central dogma: DNA → (Transcription) → mRNA → (Translation) → Protein",
+          "Complementary base pairs in DNA: A=T (2 H-bonds), G≡C (3 H-bonds)",
+          "Nucleoside = Sugar + Nitrogenous base",
+          "Nucleotide = Sugar + Nitrogenous base + Phosphate group"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Biology",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Biology",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 30,
+    "passing_marks": 0,
+    "practical_exam_separate": true,
+    "practical_exam_note": "Practical of 30 marks is conducted separately. Passing required separately in theory (23/70) and practical.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": true,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "Medium to Difficult. 7 sets. Level same across all sets.",
+    "easy_percent": 30,
+    "medium_percent": 50,
+    "hard_percent": 20,
+    "most_scoring_sections": [
+      "Easy to Medium — direct facts, full forms, definitions.",
+      "Easy to Medium — short answers, standard differences.",
+      "Easy to Medium — same essays come every year, well-prepared students score full marks."
+    ],
+    "most_difficult_sections": [
+      "Medium to Difficult — application-based, diagrams needed."
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Diagram is COMPULSORY in Biology UP Board — 'answer will be inaccurate and incomplete without diagram'.",
+      "For Long Answer questions: draw diagram FIRST, then write text — even if time runs out, diagram marks milenge.",
+      "Short Answer Type II format carefully: if [1+2] given then 1 mark part aur 2 marks part alag-alag likhna.",
+      "Difference questions: ALWAYS use table format — extra marks milne ki probability zyaada.",
+      "OR choice in Questions 7, 8, 9: reading time mein decide karo — mid-exam mein change mat karo.",
+      "Scientific names (Plasmodium, Bacillus thuringiensis, Lactobacillus) — underline ya italic karo.",
+      "Full forms har saal aate hain Very Short Answer mein: IVF, ART, MTP, ZIFT, GIFT, PCR, GMO, ADA, HGP, LAB.",
+      "Unit 1 (Reproduction) + Unit 2 (Genetics) = 32 marks combined — prepare thoroughly.",
+      "Female gametophyte, dihybrid cross, transcription — ye teeno har saal Long Answer mein aate hain — must prepare.",
+      "Biodiversity conservation + energy flow — ye dono har saal Long Answer mein aate hain — must prepare."
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "Read all questions. Decide OR choices in Q7, Q8, Q9. Note which Short Answer Type II parts you are most confident about."
+      },
+      {
+        "section_id": "Q1_MCQ_5min",
+        "recommended_minutes": 5,
+        "note": "4 Multiple Choice Question × 1.5 min = 5-6 min."
+      },
+      {
+        "section_id": "Q2_VSA_8min",
+        "recommended_minutes": 5,
+        "note": "5 Very Short Answer × 1.5 min = 7-8 min."
+      },
+      {
+        "section_id": "Q3_SA1_25min",
+        "recommended_minutes": 5,
+        "note": "5 Short Answer Type I × 5 min = 25 min."
+      },
+      {
+        "section_id": "Q4_Q5_Q6_SA2_55min",
+        "recommended_minutes": 7,
+        "note": "Short Answer Type II parts 3 marks each × ~7 min each. Diagram pehle, then write."
+      },
+      {
+        "section_id": "Q7_Q8_Q9_LA_45min",
+        "recommended_minutes": 15,
+        "note": "3 Long Answer × 15 min each = 45 min. Full diagram + essay."
+      },
+      {
+        "section_id": "revision_7min",
+        "recommended_minutes": 0,
+        "note": "Check all diagram labels. Check if OR attempted only ONE. Check question numbers."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 23,
+        "strategy": "Q1 Multiple Choice Question (4) + Q2 Very Short Answer (5) + Q3 Short Answer Type I easy parts (6-8) + 1-2 Long Answer easy questions (5-10) = 20-27 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Q1+Q2: All 9 marks — attempt all. Know: full forms (IVF, ART, PCR, GMO), Leydig cells hormone, Tapetum function, double fertilisation definition",
+          "Q3 Short Answer Type I: Difference DNA vs RNA (every year), restriction enzymes definition, in situ vs ex situ (2 marks)",
+          "Long Answer (Questions 7, 8, 9): Biodiversity conservation essay — straight theory, comes every year, no diagram needed",
+          "Long Answer Or: Role of microorganisms in human welfare — theory-based, no complex diagrams"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "40_marks",
+        "target_marks": 40,
+        "strategy": "Q1+Q2 (9) + Q3 Short Answer Type I all 5 (10) + Short Answer Type II questions (Q4, Q5, Q6) 4-5 parts (12-15) + 1-2 Long Answer (5-10) = 36-44 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All Q3 Short Answer Type I: DNA vs RNA, restriction enzymes, hotspots, double fertilisation, exponential growth",
+          "Short Answer Type II questions (Q4, Q5, Q6): Mendel's law (3 marks, every year), Bt cotton (3 marks), pollination types (3 marks), microbes in sewage treatment",
+          "Long Answer: Biodiversity conservation + energy flow in ecosystem — both every year, prepare both"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "55_marks_plus",
+        "target_marks": 55,
+        "strategy": "Q1+Q2 (9) + Q3 full (10) + Short Answer Type II questions (Q4, Q5, Q6) full (36 available, attempt all) + 3 Long Answer (15) = 70 if perfect.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Prepare all 5 standard Long Answer essays: female gametophyte, pollination, dihybrid cross, transcription in bacteria, biodiversity conservation, energy flow",
+          "Diagrams: labelled DNA double helix, female gametophyte, TS anther, human reproductive systems, lac operon, population growth curves",
+          "Short Answer Type II: All standard 3-mark answers from genetics, biotechnology, ecology"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "No separate internal assessment — 30 marks practical covers non-theory component.",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Biology Class 12 (Part I + Part II)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Base textbook. UP Board syllabus fully based on NCERT. All diagrams, processes and mechanisms from NCERT. Must read once completely."
+      },
+      {
+        "name": "UP Board Chapterwise Question Bank — Biology Class 12",
+        "author": "",
+        "publisher": "Standard Publication",
+        "purpose": "Primary",
+        "note": "Chapterwise Multiple Choice Question, Very Short Answer, Short Answer Type I, Short Answer Type II, Long Answer questions + 20 Most Important Questions + previous year papers 2020-2025 + model papers. Based on NEP 2020, latest 2025-26 syllabus."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": false,
+    "extra_time_note": "3 hours 15 minutes (195 minutes)",
+    "reading_time_minutes": 15,
+    "reading_time_rule": "First 15 minutes for reading only. No writing. Decide OR choices in Q7, Q8, Q9 during reading time.",
+    "diagram_mandatory_note": "Illustrate answers with labelled diagrams wherever necessary. Answer will be considered inaccurate and incomplete without a diagram.",
+    "passing_criteria": "Separate passing in theory (70 marks) and practical (30 marks)."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "question_number_note: Har answer ke upar question number AND part number (Q4a, Q4b etc.) clearly likhna zaroori hai.",
+      "set_number_compulsory: True",
+      "set_number_note: Apna set number (348 KG / KH / KI etc.) answer sheet ke cover page par compulsory likhna hota hai.",
+      "question_copy_compulsory: False",
+      "rough_work: Answer sheet ke last page par rough work karo. ROUGH WORK clearly likho.",
+      "sequence_compulsory: False",
+      "sequence_note: Jo aata ho pehle karo. Lekin question number clearly likho.",
+      "line_after_each_question: Har answer ke baad do lines draw karo — answers clearly separate dikhte hain.",
+      "sub_questions: Short Answer Type II questions mein (a), (b), (c), (d) parts hain. Har part ka answer clearly number karo."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Blue pen se main answer. Diagrams pencil se. Headings black pen se underline."
+    },
+    "rough_work_rules": "Answer sheet ke last page par rough work karo. ROUGH WORK clearly likho.",
+    "diagram_rules": "Draw a neat labelled diagram wherever required. The answer will be considered inaccurate and incomplete without a diagram.",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

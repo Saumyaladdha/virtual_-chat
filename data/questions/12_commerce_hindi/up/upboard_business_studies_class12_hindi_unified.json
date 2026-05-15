@@ -1,0 +1,2897 @@
+{
+  "board": "UP Board",
+  "class": "12",
+  "subject": "व्यवसाय अध्ययन (Business Studies)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 100,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 33,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": false,
+    "extra_time_note": "कुल 3 घंटे 15 मिनट। पहले 15 मिनट केवल रीडिंग टाइम — लिखना allowed नहीं।",
+    "internal_assessment_note": "उत्तीर्ण होने के लिए 100 में से न्यूनतम 33 अंक आवश्यक हैं।"
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 30,
+    "total_questions_to_attempt": 30,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "अंग्रेज़ी या हिंदी दोनों allowed। विसंगति की स्थिति में हिंदी संस्करण ही अंतिम माना जाएगा।",
+    "all_compulsory_note": "दीर्घ उत्तरीय प्रश्नों (Q27-Q30) में प्रत्येक में 'अथवा' विकल्प है।",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "",
+    "new_pattern_note": "",
+    "types": []
+  },
+  "paper_pattern": {
+    "note": "",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "दीर्घ उत्तरीय प्रश्नों (Q27-Q30) में प्रत्येक में 'अथवा' विकल्प है।",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 0,
+      "medium_percent": 0,
+      "hard_percent": 0,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "section_mcq",
+        "name": "बहुविकल्पीय प्रश्न",
+        "type": "बहुविकल्पीय प्रश्न",
+        "question_numbers": "प्रश्न 1 से 10",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "10 MCQ, सभी अनिवार्य। CBQ (Competency Based Questions) भी शामिल। उत्तर पुस्तिका में केवल सही विकल्प का अक्षर लिखिए। सरल से मध्यम स्तर।",
+        "notes": "10 MCQ, सभी अनिवार्य। CBQ (Competency Based Questions) भी शामिल। उत्तर पुस्तिका में केवल सही विकल्प का अक्षर लिखिए। सरल से मध्यम स्तर।"
+      },
+      {
+        "section_id": "section_vsa",
+        "name": "अति लघु उत्तरीय प्रश्न",
+        "type": "अति लघु उत्तरीय प्रश्न",
+        "question_numbers": "प्रश्न 11 से 20",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "20-30 शब्द",
+        "breakdown": "10 प्रश्न × 2 अंक = 20 अंक। सभी अनिवार्य। छोटी परिभाषाएँ, 2 विशेषताएँ, या एक लघु व्याख्या। सरल से मध्यम।",
+        "notes": "10 प्रश्न × 2 अंक = 20 अंक। सभी अनिवार्य। छोटी परिभाषाएँ, 2 विशेषताएँ, या एक लघु व्याख्या। सरल से मध्यम।"
+      },
+      {
+        "section_id": "section_sa",
+        "name": "लघु उत्तरीय प्रश्न",
+        "type": "लघु उत्तरीय प्रश्न",
+        "question_numbers": "प्रश्न 21 से 26",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 5,
+        "total_marks": 30,
+        "word_limit": "80-100 शब्द",
+        "breakdown": "6 प्रश्न × 5 अंक = 30 अंक। कुछ प्रश्नों में अंक-विभाजन (2+3 या 4+1)। कोई internal choice नहीं। सरल से मध्यम। तुलना/अंतर सारणी अच्छे अंक दिलाती है।",
+        "notes": "6 प्रश्न × 5 अंक = 30 अंक। कुछ प्रश्नों में अंक-विभाजन (2+3 या 4+1)। कोई internal choice नहीं। सरल से मध्यम। तुलना/अंतर सारणी अच्छे अंक दिलाती है।"
+      },
+      {
+        "section_id": "section_la",
+        "name": "दीर्घ उत्तरीय प्रश्न",
+        "type": "दीर्घ उत्तरीय प्रश्न",
+        "question_numbers": "प्रश्न 27 से 30",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 10,
+        "total_marks": 40,
+        "word_limit": "200-250 शब्द",
+        "breakdown": "4 प्रश्न × 10 अंक = 40 अंक। प्रत्येक में 'अथवा' विकल्प। कुछ में अंक-विभाजन (4+6, 7+3 आदि)। मध्यम से कठिन। विस्तृत व्याख्या, क्रमांकित बिंदु एवं उदाहरण आवश्यक।",
+        "notes": "4 प्रश्न × 10 अंक = 40 अंक। प्रत्येक में 'अथवा' विकल्प। कुछ में अंक-विभाजन (4+6, 7+3 आदि)। मध्यम से कठिन। विस्तृत व्याख्या, क्रमांकित बिंदु एवं उदाहरण आवश्यक।"
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 100,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "section_mcq",
+        "name": "बहुविकल्पीय प्रश्न",
+        "question_numbers": "प्रश्न 1 से 10",
+        "type": "बहुविकल्पीय प्रश्न",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "10 MCQ, सभी अनिवार्य। CBQ (Competency Based Questions) भी शामिल। उत्तर पुस्तिका में केवल सही विकल्प का अक्षर लिखिए। सरल से मध्यम स्तर।"
+      },
+      {
+        "section_id": "section_vsa",
+        "name": "अति लघु उत्तरीय प्रश्न",
+        "question_numbers": "प्रश्न 11 से 20",
+        "type": "अति लघु उत्तरीय प्रश्न",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "20-30 शब्द",
+        "breakdown": "10 प्रश्न × 2 अंक = 20 अंक। सभी अनिवार्य। छोटी परिभाषाएँ, 2 विशेषताएँ, या एक लघु व्याख्या। सरल से मध्यम।"
+      },
+      {
+        "section_id": "section_sa",
+        "name": "लघु उत्तरीय प्रश्न",
+        "question_numbers": "प्रश्न 21 से 26",
+        "type": "लघु उत्तरीय प्रश्न",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 5,
+        "total_marks": 30,
+        "word_limit": "80-100 शब्द",
+        "breakdown": "6 प्रश्न × 5 अंक = 30 अंक। कुछ प्रश्नों में अंक-विभाजन (2+3 या 4+1)। कोई internal choice नहीं। सरल से मध्यम। तुलना/अंतर सारणी अच्छे अंक दिलाती है।"
+      },
+      {
+        "section_id": "section_la",
+        "name": "दीर्घ उत्तरीय प्रश्न",
+        "question_numbers": "प्रश्न 27 से 30",
+        "type": "दीर्घ उत्तरीय प्रश्न",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 10,
+        "total_marks": 40,
+        "word_limit": "200-250 शब्द",
+        "breakdown": "4 प्रश्न × 10 अंक = 40 अंक। प्रत्येक में 'अथवा' विकल्प। कुछ में अंक-विभाजन (4+6, 7+3 आदि)। मध्यम से कठिन। विस्तृत व्याख्या, क्रमांकित बिंदु एवं उदाहरण आवश्यक।"
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 100,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "10",
+      "name": "विपणन",
+      "marks": 16,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "प्रबंधन की प्रकृति एवं महत्व",
+        "marks": 5
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "प्रबंधन की प्रकृति एवं महत्व",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: प्रबंधन के सिद्धांत एवं कार्य"
+      },
+      {
+        "chapter_id": "2",
+        "name": "प्रबंधन के सिद्धांत",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: प्रबंधन के सिद्धांत एवं कार्य"
+      },
+      {
+        "chapter_id": "3",
+        "name": "व्यावसायिक वातावरण",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: प्रबंधन के सिद्धांत एवं कार्य"
+      },
+      {
+        "chapter_id": "4",
+        "name": "नियोजन",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: प्रबंधन के सिद्धांत एवं कार्य"
+      },
+      {
+        "chapter_id": "5",
+        "name": "संगठन",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: प्रबंधन के सिद्धांत एवं कार्य"
+      },
+      {
+        "chapter_id": "6",
+        "name": "नियुक्तिकरण (Staffing)",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: प्रबंधन के सिद्धांत एवं कार्य"
+      },
+      {
+        "chapter_id": "7",
+        "name": "निर्देशन",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: प्रबंधन के सिद्धांत एवं कार्य"
+      },
+      {
+        "chapter_id": "8",
+        "name": "नियंत्रण",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: प्रबंधन के सिद्धांत एवं कार्य"
+      },
+      {
+        "chapter_id": "9",
+        "name": "व्यावसायिक वित्त",
+        "marks": 12,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग B: व्यावसायिक वित्त एवं विपणन"
+      },
+      {
+        "chapter_id": "10",
+        "name": "विपणन",
+        "marks": 16,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग B: व्यावसायिक वित्त एवं विपणन"
+      },
+      {
+        "chapter_id": "11",
+        "name": "उपभोक्ता संरक्षण",
+        "marks": 12,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग B: व्यावसायिक वित्त एवं विपणन"
+      }
+    ],
+    "totals": {
+      "total_marks": 100,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Business Studies Class 12 — 11 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Business Studies — भाग A: प्रबंधन के सिद्धांत एवं कार्य",
+        "category": "भाग A: प्रबंधन के सिद्धांत एवं कार्य",
+        "total_marks": 60,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "प्रबंधन की प्रकृति एवं महत्व",
+            "marks": 5,
+            "topics": [
+              "प्रबंधन — अवधारणा, परिभाषाएँ (टेलर, कुंट्ज़ एवं वेहरिख)",
+              "प्रबंधन की विशेषताएँ (7 विशेषताएँ)",
+              "प्रबंधन के उद्देश्य: संगठनात्मक, सामाजिक, व्यक्तिगत",
+              "प्रबंधन का महत्व (5 बिंदु)",
+              "प्रबंधन की प्रकृति: कला, विज्ञान, पेशा",
+              "प्रबंधन के स्तर: उच्च स्तर, मध्य स्तर, संचालन स्तर",
+              "प्रबंधन के कार्य: नियोजन, संगठन, नियुक्तिकरण, निर्देशन, नियंत्रण",
+              "समन्वय — अर्थ, महत्व, प्रबंधन का सार",
+              "21वीं सदी में प्रबंधन"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "प्रबंधन के सिद्धांत",
+            "marks": 5,
+            "topics": [
+              "प्रबंधन के सिद्धांतों की अवधारणा एवं प्रकृति",
+              "प्रबंधन के सिद्धांतों का महत्व",
+              "एफ. डब्ल्यू. टेलर का वैज्ञानिक प्रबंधन — परिभाषा, सिद्धांत (4), तकनीकें (6)",
+              "कार्यात्मक फ़ोरमैनशिप — 8 फ़ोरमैन",
+              "कार्य का मानकीकरण एवं सरलीकरण",
+              "विधि अध्ययन, गति अध्ययन, समय अध्ययन, थकान अध्ययन",
+              "विभेदक दर मज़दूरी पद्धति",
+              "हेनरी फ़ेयॉल के प्रबंधन के 14 सिद्धांत",
+              "फ़ेयॉल बनाम टेलर: तुलना"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "व्यावसायिक वातावरण",
+            "marks": 10,
+            "topics": [
+              "व्यावसायिक वातावरण का अर्थ (आर्थर एम. वेईमर की परिभाषा)",
+              "व्यावसायिक वातावरण का महत्व (6 बिंदु)",
+              "आयाम: आर्थिक, सामाजिक, तकनीकी, राजनीतिक, क़ानूनी",
+              "भारत में आर्थिक वातावरण",
+              "उदारीकरण — अर्थ एवं विशेषताएँ",
+              "निजीकरण — अर्थ",
+              "वैश्वीकरण — अर्थ",
+              "विमुद्रीकरण — अर्थ, विशेषताएँ, प्रभाव",
+              "1991 के आर्थिक सुधार: LPG नीति"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "नियोजन",
+            "marks": 7,
+            "topics": [
+              "नियोजन का अर्थ एवं परिभाषा (एम. ई. हर्ली)",
+              "नियोजन की विशेषताएँ (7 विशेषताएँ)",
+              "नियोजन का महत्व",
+              "नियोजन की सीमाएँ: आंतरिक एवं बाह्य",
+              "नियोजन की प्रक्रिया (7 चरण)",
+              "नियोजन के प्रकार: कॉर्पोरेट, सामरिक, व्यूहरचनात्मक आदि",
+              "योजना के प्रकार: एकल प्रयोग योजना बनाम स्थायी योजना",
+              "उद्देश्य, रणनीति, नीति, प्रक्रियाएँ, विधियाँ, नियम, कार्यक्रम, बजट"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "संगठन",
+            "marks": 10,
+            "topics": [
+              "अर्थ एवं परिभाषाएँ (थियो हैमन, लुई एलन)",
+              "संगठन की प्रक्रिया: 4 चरण",
+              "संगठन का महत्व",
+              "संगठनात्मक संरचना: कार्यात्मक एवं संभागीय",
+              "औपचारिक संगठन — अर्थ, विशेषताएँ, गुण, दोष",
+              "अनौपचारिक संगठन — अर्थ, विशेषताएँ, गुण, दोष",
+              "अधिकार-अधिकारण: अर्थ, तत्व (अधिकार, उत्तरदायित्व, जवाबदेही)",
+              "अधिकार-अधिकारण का महत्व",
+              "केंद्रीकरण एवं विकेंद्रीकरण — अर्थ, महत्व",
+              "विकेंद्रीकरण के सिद्धांत",
+              "प्रबंधन का विस्तार (Span of Management)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "नियुक्तिकरण (Staffing)",
+            "marks": 7,
+            "topics": [
+              "नियुक्तिकरण का अर्थ एवं महत्व (कुंट्ज़ एवं ओ'डॉनेल की परिभाषा)",
+              "मानव संसाधन प्रबंधन के अंग के रूप में नियुक्तिकरण",
+              "मानव संसाधन प्रबंधन का विकास",
+              "नियुक्तिकरण प्रक्रिया — 8 चरण",
+              "भर्ती: अर्थ, स्रोत (आंतरिक एवं बाह्य), गुण एवं दोष",
+              "चयन: अर्थ, चयन प्रक्रिया (8 चरण)",
+              "प्रशिक्षण एवं विकास — अर्थ, महत्व, अंतर",
+              "प्रशिक्षण की विधियाँ: कार्य पर (शिक्षुता, इंटर्नशिप, कार्य घूर्णन) एवं कार्य से बाहर"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "निर्देशन",
+            "marks": 10,
+            "topics": [
+              "निर्देशन का अर्थ एवं परिभाषा (थियो हैमन)",
+              "निर्देशन की विशेषताएँ एवं महत्व",
+              "निर्देशन के सिद्धांत",
+              "निर्देशन के तत्व: पर्यवेक्षण, अभिप्रेरणा, नेतृत्व, संप्रेषण",
+              "पर्यवेक्षण — अर्थ, महत्व (वाइटलेस की परिभाषा)",
+              "अभिप्रेरणा — अर्थ, प्रक्रिया, महत्व (विलियम स्कॉट)",
+              "मैस्लो का आवश्यकता पदानुक्रम सिद्धांत — 5 स्तर",
+              "वित्तीय एवं ग़ैर-वित्तीय प्रोत्साहन",
+              "नेतृत्व — अर्थ, विशेषताएँ, महत्व, शैलियाँ",
+              "संप्रेषण — अर्थ, तत्व, महत्व, प्रक्रिया",
+              "औपचारिक एवं अनौपचारिक संप्रेषण (Grapevine)",
+              "संप्रेषण में बाधाएँ: अर्थ-संबंधी, मनोवैज्ञानिक, संगठनात्मक, व्यक्तिगत",
+              "संप्रेषण बाधाओं को दूर करने के उपाय"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "नियंत्रण",
+            "marks": 6,
+            "topics": [
+              "अर्थ एवं परिभाषाएँ (कुंट्ज़ एवं ओ'डॉनेल)",
+              "नियंत्रण का महत्व",
+              "नियंत्रण की सीमाएँ",
+              "नियोजन एवं नियंत्रण का संबंध",
+              "नियंत्रण की प्रक्रिया (चरण)"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Business Studies — भाग B: व्यावसायिक वित्त एवं विपणन",
+        "category": "भाग B: व्यावसायिक वित्त एवं विपणन",
+        "total_marks": 40,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "9",
+            "name": "व्यावसायिक वित्त",
+            "marks": 12,
+            "topics": [
+              "व्यावसायिक वित्त का अर्थ",
+              "वित्तीय प्रबंधन — अवधारणा, भूमिका, उद्देश्य (वेस्टन एवं ब्रिघम)",
+              "वित्तीय निर्णय: निवेश, वित्त-व्यवस्था, लाभांश",
+              "वित्तीय नियोजन — अर्थ, महत्व, उद्देश्य",
+              "पूँजी संरचना — अर्थ, प्रभावित करने वाले कारक",
+              "स्थायी पूँजी एवं कार्यशील पूँजी — अर्थ, अंतर",
+              "स्थायी पूँजी की आवश्यकता को प्रभावित करने वाले कारक",
+              "कार्यशील पूँजी की आवश्यकता को प्रभावित करने वाले कारक"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "विपणन",
+            "marks": 16,
+            "topics": [
+              "विपणन की अवधारणा (फ़िलिप कोटलर की परिभाषा)",
+              "विपणन प्रबंधन — अर्थ, दर्शन (5)",
+              "विपणन के कार्य",
+              "विपणन मिश्रण — अर्थ एवं 4 तत्व (4 Ps: उत्पाद, मूल्य, स्थान, संवर्धन)",
+              "उत्पाद — अर्थ, प्रकार",
+              "ब्रांडिंग — अर्थ, अच्छे ब्रांड नाम की विशेषताएँ",
+              "पैकेजिंग — अर्थ, स्तर, महत्व, कार्य",
+              "लेबलिंग — अर्थ एवं कार्य",
+              "मूल्य निर्धारण — अर्थ, कारक",
+              "भौतिक वितरण — घटक",
+              "संवर्धन मिश्रण — विज्ञापन, व्यक्तिगत विक्रय, विक्रय संवर्धन, जन-संपर्क",
+              "विज्ञापन — अर्थ, विशेषताएँ, गुण, दोष",
+              "व्यक्तिगत विक्रय — अर्थ, विशेषताएँ, गुण",
+              "विक्रय संवर्धन — अर्थ, गुण, सीमाएँ, गतिविधियाँ",
+              "जन-संपर्क — अर्थ, भूमिका, विशेषताएँ"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "उपभोक्ता संरक्षण",
+            "marks": 12,
+            "topics": [
+              "उपभोक्ता संरक्षण की अवधारणा एवं महत्व",
+              "उपभोक्ता संरक्षण की आवश्यकता",
+              "उपभोक्ता संरक्षण अधिनियम, 2019 — परिचय, क्षेत्र",
+              "उपभोक्ता कौन है (परिभाषा)",
+              "उपभोक्ता के अधिकार (6 अधिकार)",
+              "उपभोक्ता की ज़िम्मेदारियाँ",
+              "उपभोक्ता संरक्षण के तरीक़े एवं साधन",
+              "निवारण एजेंसियाँ: ज़िला आयोग (₹1 करोड़ तक), राज्य आयोग (₹1–10 करोड़), राष्ट्रीय आयोग (₹10 करोड़ से अधिक)",
+              "CPA के अंतर्गत उपलब्ध उपाय",
+              "उपभोक्ता संगठन एवं NGO"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "प्रबंधन की प्रकृति एवं महत्व",
+      "unit_or_chapter": "chapter",
+      "book": "व्यवसाय अध्ययन (Business Studies)",
+      "unit_id": 1,
+      "unit_name": "प्रबंधन की प्रकृति एवं महत्व",
+      "part": "भाग A: प्रबंधन के सिद्धांत एवं कार्य",
+      "weightage_marks": 5,
+      "typical_breakdown": "7-13",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "प्रबंधन — अवधारणा, परिभाषाएँ (टेलर, कुंट्ज़ एवं वेहरिख)",
+        "प्रबंधन की विशेषताएँ (7 विशेषताएँ)",
+        "प्रबंधन के उद्देश्य: संगठनात्मक, सामाजिक, व्यक्तिगत",
+        "प्रबंधन का महत्व (5 बिंदु)",
+        "प्रबंधन की प्रकृति: कला, विज्ञान, पेशा",
+        "प्रबंधन के स्तर: उच्च स्तर, मध्य स्तर, संचालन स्तर",
+        "प्रबंधन के कार्य: नियोजन, संगठन, नियुक्तिकरण, निर्देशन, नियंत्रण",
+        "समन्वय — अर्थ, महत्व, प्रबंधन का सार",
+        "21वीं सदी में प्रबंधन"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "प्रबंधन के सिद्धांत",
+      "unit_or_chapter": "chapter",
+      "book": "व्यवसाय अध्ययन (Business Studies)",
+      "unit_id": 2,
+      "unit_name": "प्रबंधन के सिद्धांत",
+      "part": "भाग A: प्रबंधन के सिद्धांत एवं कार्य",
+      "weightage_marks": 5,
+      "typical_breakdown": "13-18",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "प्रबंधन के सिद्धांतों की अवधारणा एवं प्रकृति",
+        "प्रबंधन के सिद्धांतों का महत्व",
+        "एफ. डब्ल्यू. टेलर का वैज्ञानिक प्रबंधन — परिभाषा, सिद्धांत (4), तकनीकें (6)",
+        "कार्यात्मक फ़ोरमैनशिप — 8 फ़ोरमैन",
+        "कार्य का मानकीकरण एवं सरलीकरण",
+        "विधि अध्ययन, गति अध्ययन, समय अध्ययन, थकान अध्ययन",
+        "विभेदक दर मज़दूरी पद्धति",
+        "हेनरी फ़ेयॉल के प्रबंधन के 14 सिद्धांत",
+        "फ़ेयॉल बनाम टेलर: तुलना"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "व्यावसायिक वातावरण",
+      "unit_or_chapter": "chapter",
+      "book": "व्यवसाय अध्ययन (Business Studies)",
+      "unit_id": 3,
+      "unit_name": "व्यावसायिक वातावरण",
+      "part": "भाग A: प्रबंधन के सिद्धांत एवं कार्य",
+      "weightage_marks": 10,
+      "typical_breakdown": "19-24",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "व्यावसायिक वातावरण का अर्थ (आर्थर एम. वेईमर की परिभाषा)",
+        "व्यावसायिक वातावरण का महत्व (6 बिंदु)",
+        "आयाम: आर्थिक, सामाजिक, तकनीकी, राजनीतिक, क़ानूनी",
+        "भारत में आर्थिक वातावरण",
+        "उदारीकरण — अर्थ एवं विशेषताएँ",
+        "निजीकरण — अर्थ",
+        "वैश्वीकरण — अर्थ",
+        "विमुद्रीकरण — अर्थ, विशेषताएँ, प्रभाव",
+        "1991 के आर्थिक सुधार: LPG नीति"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "नियोजन",
+      "unit_or_chapter": "chapter",
+      "book": "व्यवसाय अध्ययन (Business Studies)",
+      "unit_id": 4,
+      "unit_name": "नियोजन",
+      "part": "भाग A: प्रबंधन के सिद्धांत एवं कार्य",
+      "weightage_marks": 7,
+      "typical_breakdown": "25-30",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "नियोजन का अर्थ एवं परिभाषा (एम. ई. हर्ली)",
+        "नियोजन की विशेषताएँ (7 विशेषताएँ)",
+        "नियोजन का महत्व",
+        "नियोजन की सीमाएँ: आंतरिक एवं बाह्य",
+        "नियोजन की प्रक्रिया (7 चरण)",
+        "नियोजन के प्रकार: कॉर्पोरेट, सामरिक, व्यूहरचनात्मक आदि",
+        "योजना के प्रकार: एकल प्रयोग योजना बनाम स्थायी योजना",
+        "उद्देश्य, रणनीति, नीति, प्रक्रियाएँ, विधियाँ, नियम, कार्यक्रम, बजट"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "संगठन",
+      "unit_or_chapter": "chapter",
+      "book": "व्यवसाय अध्ययन (Business Studies)",
+      "unit_id": 5,
+      "unit_name": "संगठन",
+      "part": "भाग A: प्रबंधन के सिद्धांत एवं कार्य",
+      "weightage_marks": 10,
+      "typical_breakdown": "31-39",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "अर्थ एवं परिभाषाएँ (थियो हैमन, लुई एलन)",
+        "संगठन की प्रक्रिया: 4 चरण",
+        "संगठन का महत्व",
+        "संगठनात्मक संरचना: कार्यात्मक एवं संभागीय",
+        "औपचारिक संगठन — अर्थ, विशेषताएँ, गुण, दोष",
+        "अनौपचारिक संगठन — अर्थ, विशेषताएँ, गुण, दोष",
+        "अधिकार-अधिकारण: अर्थ, तत्व (अधिकार, उत्तरदायित्व, जवाबदेही)",
+        "अधिकार-अधिकारण का महत्व",
+        "केंद्रीकरण एवं विकेंद्रीकरण — अर्थ, महत्व",
+        "विकेंद्रीकरण के सिद्धांत",
+        "प्रबंधन का विस्तार (Span of Management)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "नियुक्तिकरण (Staffing)",
+      "unit_or_chapter": "chapter",
+      "book": "व्यवसाय अध्ययन (Business Studies)",
+      "unit_id": 6,
+      "unit_name": "नियुक्तिकरण (Staffing)",
+      "part": "भाग A: प्रबंधन के सिद्धांत एवं कार्य",
+      "weightage_marks": 7,
+      "typical_breakdown": "39-46",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "नियुक्तिकरण का अर्थ एवं महत्व (कुंट्ज़ एवं ओ'डॉनेल की परिभाषा)",
+        "मानव संसाधन प्रबंधन के अंग के रूप में नियुक्तिकरण",
+        "मानव संसाधन प्रबंधन का विकास",
+        "नियुक्तिकरण प्रक्रिया — 8 चरण",
+        "भर्ती: अर्थ, स्रोत (आंतरिक एवं बाह्य), गुण एवं दोष",
+        "चयन: अर्थ, चयन प्रक्रिया (8 चरण)",
+        "प्रशिक्षण एवं विकास — अर्थ, महत्व, अंतर",
+        "प्रशिक्षण की विधियाँ: कार्य पर (शिक्षुता, इंटर्नशिप, कार्य घूर्णन) एवं कार्य से बाहर"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "निर्देशन",
+      "unit_or_chapter": "chapter",
+      "book": "व्यवसाय अध्ययन (Business Studies)",
+      "unit_id": 7,
+      "unit_name": "निर्देशन",
+      "part": "भाग A: प्रबंधन के सिद्धांत एवं कार्य",
+      "weightage_marks": 10,
+      "typical_breakdown": "47-55",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "निर्देशन का अर्थ एवं परिभाषा (थियो हैमन)",
+        "निर्देशन की विशेषताएँ एवं महत्व",
+        "निर्देशन के सिद्धांत",
+        "निर्देशन के तत्व: पर्यवेक्षण, अभिप्रेरणा, नेतृत्व, संप्रेषण",
+        "पर्यवेक्षण — अर्थ, महत्व (वाइटलेस की परिभाषा)",
+        "अभिप्रेरणा — अर्थ, प्रक्रिया, महत्व (विलियम स्कॉट)",
+        "मैस्लो का आवश्यकता पदानुक्रम सिद्धांत — 5 स्तर",
+        "वित्तीय एवं ग़ैर-वित्तीय प्रोत्साहन",
+        "नेतृत्व — अर्थ, विशेषताएँ, महत्व, शैलियाँ",
+        "संप्रेषण — अर्थ, तत्व, महत्व, प्रक्रिया",
+        "औपचारिक एवं अनौपचारिक संप्रेषण (Grapevine)",
+        "संप्रेषण में बाधाएँ: अर्थ-संबंधी, मनोवैज्ञानिक, संगठनात्मक, व्यक्तिगत",
+        "संप्रेषण बाधाओं को दूर करने के उपाय"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "नियंत्रण",
+      "unit_or_chapter": "chapter",
+      "book": "व्यवसाय अध्ययन (Business Studies)",
+      "unit_id": 8,
+      "unit_name": "नियंत्रण",
+      "part": "भाग A: प्रबंधन के सिद्धांत एवं कार्य",
+      "weightage_marks": 6,
+      "typical_breakdown": "55-58",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "अर्थ एवं परिभाषाएँ (कुंट्ज़ एवं ओ'डॉनेल)",
+        "नियंत्रण का महत्व",
+        "नियंत्रण की सीमाएँ",
+        "नियोजन एवं नियंत्रण का संबंध",
+        "नियंत्रण की प्रक्रिया (चरण)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "व्यावसायिक वित्त",
+      "unit_or_chapter": "chapter",
+      "book": "व्यवसाय अध्ययन (Business Studies)",
+      "unit_id": 9,
+      "unit_name": "व्यावसायिक वित्त",
+      "part": "भाग B: व्यावसायिक वित्त एवं विपणन",
+      "weightage_marks": 12,
+      "typical_breakdown": "59-66",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "व्यावसायिक वित्त का अर्थ",
+        "वित्तीय प्रबंधन — अवधारणा, भूमिका, उद्देश्य (वेस्टन एवं ब्रिघम)",
+        "वित्तीय निर्णय: निवेश, वित्त-व्यवस्था, लाभांश",
+        "वित्तीय नियोजन — अर्थ, महत्व, उद्देश्य",
+        "पूँजी संरचना — अर्थ, प्रभावित करने वाले कारक",
+        "स्थायी पूँजी एवं कार्यशील पूँजी — अर्थ, अंतर",
+        "स्थायी पूँजी की आवश्यकता को प्रभावित करने वाले कारक",
+        "कार्यशील पूँजी की आवश्यकता को प्रभावित करने वाले कारक"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "विपणन",
+      "unit_or_chapter": "chapter",
+      "book": "व्यवसाय अध्ययन (Business Studies)",
+      "unit_id": 10,
+      "unit_name": "विपणन",
+      "part": "भाग B: व्यावसायिक वित्त एवं विपणन",
+      "weightage_marks": 16,
+      "typical_breakdown": "66-78",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "विपणन की अवधारणा (फ़िलिप कोटलर की परिभाषा)",
+        "विपणन प्रबंधन — अर्थ, दर्शन (5)",
+        "विपणन के कार्य",
+        "विपणन मिश्रण — अर्थ एवं 4 तत्व (4 Ps: उत्पाद, मूल्य, स्थान, संवर्धन)",
+        "उत्पाद — अर्थ, प्रकार",
+        "ब्रांडिंग — अर्थ, अच्छे ब्रांड नाम की विशेषताएँ",
+        "पैकेजिंग — अर्थ, स्तर, महत्व, कार्य",
+        "लेबलिंग — अर्थ एवं कार्य",
+        "मूल्य निर्धारण — अर्थ, कारक",
+        "भौतिक वितरण — घटक",
+        "संवर्धन मिश्रण — विज्ञापन, व्यक्तिगत विक्रय, विक्रय संवर्धन, जन-संपर्क",
+        "विज्ञापन — अर्थ, विशेषताएँ, गुण, दोष",
+        "व्यक्तिगत विक्रय — अर्थ, विशेषताएँ, गुण",
+        "विक्रय संवर्धन — अर्थ, गुण, सीमाएँ, गतिविधियाँ",
+        "जन-संपर्क — अर्थ, भूमिका, विशेषताएँ"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "उपभोक्ता संरक्षण",
+      "unit_or_chapter": "chapter",
+      "book": "व्यवसाय अध्ययन (Business Studies)",
+      "unit_id": 11,
+      "unit_name": "उपभोक्ता संरक्षण",
+      "part": "भाग B: व्यावसायिक वित्त एवं विपणन",
+      "weightage_marks": 12,
+      "typical_breakdown": "79-84",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "उपभोक्ता संरक्षण की अवधारणा एवं महत्व",
+        "उपभोक्ता संरक्षण की आवश्यकता",
+        "उपभोक्ता संरक्षण अधिनियम, 2019 — परिचय, क्षेत्र",
+        "उपभोक्ता कौन है (परिभाषा)",
+        "उपभोक्ता के अधिकार (6 अधिकार)",
+        "उपभोक्ता की ज़िम्मेदारियाँ",
+        "उपभोक्ता संरक्षण के तरीक़े एवं साधन",
+        "निवारण एजेंसियाँ: ज़िला आयोग (₹1 करोड़ तक), राज्य आयोग (₹1–10 करोड़), राष्ट्रीय आयोग (₹10 करोड़ से अधिक)",
+        "CPA के अंतर्गत उपलब्ध उपाय",
+        "उपभोक्ता संगठन एवं NGO"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Business Studies Class 12 — 11 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "दीर्घ उत्तरीय प्रश्नों (Q27-Q30) में प्रत्येक में 'अथवा' विकल्प है।",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "व्यावसायिक वातावरण",
+      "संगठन",
+      "निर्देशन",
+      "व्यावसायिक वित्त",
+      "विपणन",
+      "उपभोक्ता संरक्षण"
+    ],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [
+      "व्यावसायिक वातावरण (10 marks)",
+      "संगठन (10 marks)",
+      "निर्देशन (10 marks)",
+      "व्यावसायिक वित्त (12 marks)",
+      "विपणन (16 marks)",
+      "उपभोक्ता संरक्षण (12 marks)"
+    ],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [],
+    "chapters_mostly_theory": [
+      "प्रबंधन की प्रकृति एवं महत्व",
+      "प्रबंधन के सिद्धांत",
+      "व्यावसायिक वातावरण",
+      "नियोजन",
+      "संगठन",
+      "नियुक्तिकरण (Staffing)",
+      "निर्देशन",
+      "नियंत्रण",
+      "व्यावसायिक वित्त",
+      "विपणन",
+      "उपभोक्ता संरक्षण"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "व्यावसायिक वातावरण",
+      "नियोजन",
+      "संगठन",
+      "नियुक्तिकरण (Staffing)",
+      "निर्देशन",
+      "नियंत्रण",
+      "व्यावसायिक वित्त",
+      "विपणन",
+      "उपभोक्ता संरक्षण"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "व्यावसायिक वातावरण",
+      "नियोजन",
+      "संगठन",
+      "नियुक्तिकरण (Staffing)",
+      "निर्देशन",
+      "नियंत्रण",
+      "व्यावसायिक वित्त",
+      "विपणन",
+      "उपभोक्ता संरक्षण"
+    ],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "प्रबंधन की प्रकृति एवं महत्व",
+      "प्रबंधन के सिद्धांत",
+      "व्यावसायिक वातावरण",
+      "नियोजन",
+      "संगठन",
+      "नियुक्तिकरण (Staffing)",
+      "निर्देशन",
+      "नियंत्रण",
+      "व्यावसायिक वित्त",
+      "विपणन",
+      "उपभोक्ता संरक्षण"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "twenty_most_important_questions": {
+      "note": "अरिहंत की चुनी हुई 20 प्रश्नों की सूची — पैटर्न विश्लेषण के आधार पर UP Board 2026 में आने की सबसे अधिक संभावना।",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "औपचारिक संगठन क्या है?",
+          "marks": 2,
+          "chapter": "अध्याय 5 संगठन"
+        },
+        {
+          "q_no": 2,
+          "q": "भर्ती के आंतरिक स्रोत क्या हैं?",
+          "marks": 5,
+          "chapter": "अध्याय 6 नियुक्तिकरण"
+        },
+        {
+          "q_no": 3,
+          "q": "औपचारिक एवं अनौपचारिक संप्रेषण में अंतर स्पष्ट कीजिए।",
+          "marks": 5,
+          "chapter": "अध्याय 7 निर्देशन"
+        },
+        {
+          "q_no": 4,
+          "q": "नियोजन एवं नियंत्रण के संबंध की विवेचना कीजिए।",
+          "marks": 5,
+          "chapter": "अध्याय 8 नियंत्रण"
+        },
+        {
+          "q_no": 5,
+          "q": "कार्यशील पूँजी क्या है? कार्यशील पूँजी को प्रभावित करने वाले कारकों की व्याख्या कीजिए।",
+          "marks": 5,
+          "chapter": "अध्याय 9 व्यावसायिक वित्त",
+          "imp": true
+        },
+        {
+          "q_no": 6,
+          "q": "प्रबंधन के कार्यों की व्याख्या कीजिए।",
+          "marks": 10,
+          "chapter": "अध्याय 1 प्रबंधन",
+          "imp": true
+        },
+        {
+          "q_no": 7,
+          "q": "चयन प्रक्रिया के विभिन्न चरणों की रूपरेखा बताइए।",
+          "marks": 10,
+          "chapter": "अध्याय 6 नियुक्तिकरण",
+          "imp": true
+        },
+        {
+          "q_no": 8,
+          "q": "प्रबंधन के महत्व की व्याख्या कीजिए।",
+          "marks": 10,
+          "chapter": "अध्याय 1 प्रबंधन"
+        },
+        {
+          "q_no": 9,
+          "q": "एफ. डब्ल्यू. टेलर के वैज्ञानिक प्रबंधन के कोई पाँच सिद्धांत लिखिए।",
+          "marks": 5,
+          "chapter": "अध्याय 2 सिद्धांत",
+          "imp": true
+        },
+        {
+          "q_no": 10,
+          "q": "कर्मचारियों की भर्ती एवं चयन में अंतर स्पष्ट कीजिए।",
+          "marks": 5,
+          "chapter": "अध्याय 6 नियुक्तिकरण",
+          "imp": true
+        },
+        {
+          "q_no": 11,
+          "q": "संगठन (Organising) के चरण क्या हैं?",
+          "marks": 5,
+          "chapter": "अध्याय 5 संगठन"
+        },
+        {
+          "q_no": 12,
+          "q": "व्यावसायिक वातावरण क्या है? इसके महत्व की व्याख्या कीजिए।",
+          "marks": 10,
+          "chapter": "अध्याय 3 व्यावसायिक वातावरण",
+          "imp": true
+        },
+        {
+          "q_no": 13,
+          "q": "नियंत्रण को परिभाषित कीजिए। नियंत्रण प्रक्रिया के विभिन्न चरणों को बताइए।",
+          "marks": 10,
+          "chapter": "अध्याय 8 नियंत्रण",
+          "imp": true
+        },
+        {
+          "q_no": 14,
+          "q": "'उत्पाद मिश्रण' शब्द की व्याख्या कीजिए एवं उसके घटकों का वर्णन कीजिए।",
+          "marks": 10,
+          "chapter": "अध्याय 10 विपणन",
+          "imp": true
+        },
+        {
+          "q_no": 15,
+          "q": "वित्तीय प्रबंधन को परिभाषित कीजिए एवं इसके उद्देश्यों की व्याख्या कीजिए।",
+          "marks": 10,
+          "chapter": "अध्याय 9 व्यावसायिक वित्त",
+          "imp": true
+        },
+        {
+          "q_no": 16,
+          "q": "केंद्रीकरण क्या है? इसके लाभ एवं हानियाँ बताइए।",
+          "marks": 10,
+          "chapter": "अध्याय 5 संगठन"
+        },
+        {
+          "q_no": 17,
+          "q": "मैस्लो का आवश्यकता पदानुक्रम सिद्धांत क्या है? सभी पाँच स्तरों की व्याख्या कीजिए।",
+          "marks": 10,
+          "chapter": "अध्याय 7 निर्देशन",
+          "imp": true
+        },
+        {
+          "q_no": 18,
+          "q": "प्रभावी संप्रेषण में बाधाओं एवं उन्हें दूर करने के उपायों का वर्णन कीजिए।",
+          "marks": 10,
+          "chapter": "अध्याय 7 निर्देशन",
+          "imp": true
+        },
+        {
+          "q_no": 19,
+          "q": "केंद्रीकरण एवं विकेंद्रीकरण में अंतर स्पष्ट कीजिए।",
+          "marks": 5,
+          "chapter": "अध्याय 5 संगठन"
+        },
+        {
+          "q_no": 20,
+          "q": "उपभोक्ता संरक्षण अधिनियम 2019 क्या है? निवारण तंत्र की व्याख्या कीजिए।",
+          "marks": 10,
+          "chapter": "अध्याय 11 उपभोक्ता संरक्षण",
+          "imp": true
+        }
+      ]
+    },
+    "board_paper_2025_questions": {
+      "set": "350",
+      "duration": "3 घंटे 15 मिनट",
+      "total_marks": 100,
+      "mcq_q1_q10": [
+        "प्रश्न 1. कर्मचारियों को सर्वाधिक प्रोत्साहन देने वाला प्रबंधन का कार्य — उत्तर: (ब) अभिप्रेरणा",
+        "प्रश्न 2. वैज्ञानिक प्रबंधन से लाभ — उत्तर: (अ) बढ़ता है",
+        "प्रश्न 3. भारत में आर्थिक उदारीकरण नीति किस वर्ष लागू की गई — उत्तर: (अ) 1991",
+        "प्रश्न 4. बजट से अभिप्राय — उत्तर: (द) संख्यात्मक रूप में व्यक्त अपेक्षित परिणामों का विवरण",
+        "प्रश्न 5. ......कर्मचारियों की इच्छा पर निर्भर करता है — उत्तर: (स) अनौपचारिक संगठन",
+        "प्रश्न 6. नियुक्तिकरण किसकी ज़िम्मेदारी है — उत्तर: (द) ये सभी",
+        "प्रश्न 7. अभिप्रेरित कर्मचारियों को पुरस्कृत किया जाता है — उत्तर: (ब) सकारात्मक",
+        "प्रश्न 8. प्रबंधन का नियंत्रण किया जाता है — उत्तर: (द) सभी स्तरों के प्रबंधकों द्वारा",
+        "प्रश्न 9. कार्यशील पूँजी का स्रोत — उत्तर: (द) ये सभी (देनदार, बैंक ओवरड्राफ़्ट, नक़द विक्रय)",
+        "प्रश्न 10. विपणन पर व्यय किया गया धन — उत्तर: (द) निवेश"
+      ],
+      "vsa_q11_q20": [
+        "प्रश्न 11. गति अध्ययन से क्या अभिप्राय है? (2)",
+        "प्रश्न 12. नियोजन में 'प्रक्रिया' क्या है? (2)",
+        "प्रश्न 13. औपचारिक संगठन की कोई दो विशेषताएँ बताइए। (2)",
+        "प्रश्न 14. कार्य-घूर्णन से क्या अभिप्राय है? (2)",
+        "प्रश्न 15. अच्छे नेतृत्व की दो विशेषताएँ लिखिए। (2)",
+        "प्रश्न 16. नियंत्रण प्रक्रिया के किन्हीं दो चरणों के नाम लिखिए। (2)",
+        "प्रश्न 17. पूँजी संरचना के दो मुख्य उद्देश्य क्या हैं? (2)",
+        "प्रश्न 18. पैकेजिंग के दो लाभ लिखिए। (2)",
+        "प्रश्न 19. संप्रेषण प्रक्रिया में शामिल दो तत्व लिखिए। (2)",
+        "प्रश्न 20. उपभोक्ता संरक्षण अधिनियम, 2019 के तहत उपभोक्ताओं को उपलब्ध दो उपाय बताइए। (2)"
+      ],
+      "sa_q21_q26": [
+        "प्रश्न 21. वैज्ञानिक प्रबंधन के कोई पाँच सिद्धांत लिखिए। (5)",
+        "प्रश्न 22. कर्मचारियों की भर्ती एवं चयन में अंतर स्पष्ट कीजिए। (5)",
+        "प्रश्न 23. संगठन के चरण क्या हैं? (5)",
+        "प्रश्न 24. भर्ती के आंतरिक स्रोत क्या हैं? (5)",
+        "प्रश्न 25. 'औपचारिक' एवं 'अनौपचारिक' संप्रेषण में अंतर स्पष्ट कीजिए। (5)",
+        "प्रश्न 26. पूँजी संरचना क्या है? इसे निर्धारित करने वाले तीन कारकों का वर्णन कीजिए। (2+3)"
+      ],
+      "la_q27_q30": [
+        "प्रश्न 27. प्रबंधन के कार्यों की व्याख्या कीजिए। (10) अथवा प्रबंधन कला एवं विज्ञान का समन्वय है। विस्तार से समझाइए।",
+        "प्रश्न 28. चयन प्रक्रिया के विभिन्न चरणों की रूपरेखा बताइए। (10) अथवा भर्ती के विभिन्न स्रोतों की व्याख्या कीजिए।",
+        "प्रश्न 29. नियंत्रण को परिभाषित कीजिए। नियंत्रण प्रक्रिया के विभिन्न चरणों को बताइए। (4+6) अथवा 'उत्पाद मिश्रण' की व्याख्या कीजिए एवं उसके घटकों का वर्णन कीजिए। (4+6)",
+        "प्रश्न 30. 'उत्पाद मिश्रण' की व्याख्या कीजिए एवं उसके घटकों का वर्णन कीजिए। (4+6)"
+      ],
+      "answers_mcq": "1.(ब) 2.(अ) 3.(अ) 4.(द) 5.(स) 6.(द) 7.(ब) 8.(द) 9.(द) 10.(द)"
+    },
+    "board_paper_2024_questions": {
+      "note": "सामान्य निर्देश: संरचना के लिए 2025 पेपर देखें। वही पैटर्न है।",
+      "mcq_q1_q10_highlights": [
+        "प्रश्न 1. हेनरी फ़ेयॉल का जन्म — उत्तर: (द) फ़्रांस",
+        "प्रश्न 2. नियोजन है — उत्तर: (द) सभी पदों के लिए",
+        "प्रश्न 3. उपक्रम में संगठन की स्थापना की जाती है — उत्तर: (अ) उच्च प्रबंधन द्वारा",
+        "प्रश्न 4. व्यावसायिक वातावरण का अध्ययन नहीं है — उत्तर: (द) पूँजी-उत्पादन अनुपात",
+        "प्रश्न 5. कौन-सी नेतृत्व शैली अनुपयुक्त है — उत्तर: (ब) नौकरशाही शैली",
+        "प्रश्न 6. नियंत्रण प्रक्रिया में शामिल है — उत्तर: (स) विचलनों का विश्लेषण",
+        "प्रश्न 7. प्रशिक्षण की विशेषता नहीं — उत्तर: (द) प्राकृतिक प्रक्रिया",
+        "प्रश्न 8. संगठन का सिद्धांत नहीं — उत्तर: (द) आवश्यकताओं का पदानुक्रम सिद्धांत",
+        "प्रश्न 9. भर्ती का बाह्य स्रोत नहीं — उत्तर: (अ) विज्ञापन [नोट: विज्ञापन बाह्य स्रोत है]",
+        "प्रश्न 10. कार्य पर प्रशिक्षण की विधि नहीं — उत्तर: (अ) इंटर्नशिप प्रशिक्षण [नोट: यह कार्य पर प्रशिक्षण है]"
+      ],
+      "la_q27_q30": [
+        "प्रश्न 27. केंद्रीकरण क्या है? इसके लाभ एवं हानियाँ बताइए। (2+4+4) अथवा विकेंद्रीकरण के सिद्धांतों का वर्णन कीजिए। विकेंद्रीकरण एवं अधिकार-अधिकारण में अंतर। (7+3)",
+        "प्रश्न 28. व्यावसायिक वातावरण क्या है? इसके महत्व की व्याख्या कीजिए। (4+6) अथवा व्यावसायिक वातावरण के विभिन्न कारकों की व्याख्या। (10)"
+      ]
+    },
+    "comparison_tables": {
+      "note": "लघु एवं दीर्घ उत्तरीय प्रश्नों में अक्सर पूछी जाने वाली उच्च-अंक वाली तुलना सारणियाँ।",
+      "fayol_vs_taylor": {
+        "headers": [
+          "आधार",
+          "हेनरी फ़ेयॉल",
+          "एफ. डब्ल्यू. टेलर"
+        ],
+        "rows": [
+          [
+            "दृष्टिकोण",
+            "ऊपर से नीचे — उच्च प्रबंधन से संबंधित",
+            "नीचे से ऊपर — कारख़ाने के स्तर से संबंधित"
+          ],
+          [
+            "केंद्र-बिंदु",
+            "प्रबंधकीय दक्षता",
+            "उत्पादन दक्षता / श्रमिक दक्षता"
+          ],
+          [
+            "आधार",
+            "व्यक्तिगत अवलोकन एवं अनुभव",
+            "वैज्ञानिक प्रयोग"
+          ],
+          [
+            "सिद्धांत",
+            "प्रबंधन के 14 सिद्धांत",
+            "वैज्ञानिक प्रबंधन के 4 सिद्धांत"
+          ],
+          [
+            "उपाधि",
+            "आधुनिक प्रबंधन के जनक",
+            "वैज्ञानिक प्रबंधन के जनक"
+          ],
+          [
+            "प्रयोज्यता",
+            "सार्वभौमिक — सभी संगठनों पर लागू",
+            "सीमित — मुख्यतः कारख़ाना/उत्पादन स्थापना"
+          ],
+          [
+            "परिप्रेक्ष्य",
+            "समष्टि — समग्र प्रबंधन",
+            "व्यष्टि — कार्य एवं श्रमिक स्तर"
+          ]
+        ]
+      },
+      "centralisation_vs_decentralisation": {
+        "headers": [
+          "आधार",
+          "केंद्रीकरण",
+          "विकेंद्रीकरण"
+        ],
+        "rows": [
+          [
+            "अर्थ",
+            "अधिकार उच्च स्तर पर सुरक्षित रखा जाता है",
+            "निम्न स्तरों को अधिकार-अधिकारण"
+          ],
+          [
+            "निर्णय-निर्माण",
+            "उच्च प्रबंधन निर्णय लेता है",
+            "निम्न प्रबंधन भी निर्णयों में भाग लेता है"
+          ],
+          [
+            "उपयुक्त",
+            "छोटे संगठन",
+            "बड़े संगठन"
+          ],
+          [
+            "कर्मचारी की पहल",
+            "सीमित",
+            "प्रोत्साहित"
+          ],
+          [
+            "संप्रेषण",
+            "अधिकांशतः अधोमुखी",
+            "ऊर्ध्वमुखी एवं अधोमुखी दोनों"
+          ]
+        ]
+      },
+      "formal_vs_informal_organisation": {
+        "headers": [
+          "आधार",
+          "औपचारिक संगठन",
+          "अनौपचारिक संगठन"
+        ],
+        "rows": [
+          [
+            "उत्पत्ति",
+            "प्रबंधन द्वारा सोच-समझकर निर्मित",
+            "सामाजिक अंतःक्रिया से उत्पन्न"
+          ],
+          [
+            "प्रकृति",
+            "आधिकारिक, व्यवस्थित",
+            "अनाधिकारिक, स्वतःस्फूर्त"
+          ],
+          [
+            "नियम",
+            "परिभाषित नियम एवं प्रक्रियाएँ",
+            "कोई परिभाषित नियम नहीं"
+          ],
+          [
+            "संप्रेषण",
+            "आधिकारिक माध्यमों का पालन",
+            "मुक्त एवं अनौपचारिक"
+          ],
+          [
+            "स्थायित्व",
+            "अधिक स्थिर एवं स्थायी",
+            "कम स्थिर, बदल सकता है"
+          ]
+        ]
+      },
+      "training_vs_development": {
+        "headers": [
+          "आधार",
+          "प्रशिक्षण",
+          "विकास"
+        ],
+        "rows": [
+          [
+            "केंद्र-बिंदु",
+            "विशिष्ट कार्य कौशल",
+            "समग्र व्यक्तित्व एवं करियर विकास"
+          ],
+          [
+            "अवधि",
+            "लघु-कालिक",
+            "दीर्घ-कालिक"
+          ],
+          [
+            "क्षेत्र",
+            "संकीर्ण — कार्य-विशिष्ट",
+            "व्यापक — दृष्टिकोण एवं मूल्य शामिल"
+          ],
+          [
+            "किसके लिए",
+            "श्रमिक एवं नए कर्मचारी",
+            "प्रबंधक एवं कार्यकारी"
+          ],
+          [
+            "उद्देश्य",
+            "वर्तमान निष्पादन में सुधार",
+            "भविष्य की भूमिकाओं की तैयारी"
+          ]
+        ]
+      }
+    },
+    "fast_track_revision": {
+      "key_definitions": {
+        "प्रबंधन": "सभी प्रबंधकों द्वारा संगठन के लक्ष्यों को प्रभावी एवं कुशलतापूर्वक प्राप्त करने हेतु निष्पादित परस्पर संबंधित कार्यों की प्रक्रिया। (कुंट्ज़: एक ऐसा आंतरिक वातावरण बनाना जहाँ व्यक्ति प्रभावी रूप से कार्य करें।)",
+        "समन्वय": "वह शक्ति जो प्रबंधन के सभी कार्यों को एक साथ बाँधती है। यह विभिन्न विभागों की गतिविधियों को सामान्य लक्ष्यों की ओर समकालीन करती है। यह प्रबंधन का 'सार' है।",
+        "वैज्ञानिक_प्रबंधन": "यह जानना कि आप अपने लोगों से क्या करवाना चाहते हैं, और यह देखना कि वे इसे सर्वोत्तम एवं सबसे सस्ते तरीक़े से करें। (एफ. डब्ल्यू. टेलर)",
+        "नियोजन": "अग्रिम रूप से तय करना कि क्या, कब, कैसे एवं किसके द्वारा किया जाएगा। यह हमारी वर्तमान स्थिति एवं वांछित स्थिति के बीच की खाई को पाटता है। (एम. ई. हर्ली: नीतियों, प्रक्रियाओं एवं कार्यक्रमों के विकल्पों में से चयन)",
+        "संगठन": "गतिविधियों की पहचान एवं समूहीकरण, अधिकार-उत्तरदायित्व संबंधों की परिभाषा देने की प्रक्रिया जिससे संगठनात्मक लक्ष्य प्राप्त किए जा सकें। (लुई एलन)",
+        "अधिकार_अधिकारण": "उच्चाधिकारी से अधीनस्थ को निर्धारित सीमा के भीतर कार्य करने हेतु अधिकार का अधोमुखी हस्तांतरण। (थियो हैमन) अधिकार हस्तांतरित किया जाता है; उत्तरदायित्व कभी नहीं।",
+        "विकेंद्रीकरण": "निम्नतम स्तर तक उन सभी अधिकारों का व्यवस्थित अधिकार-अधिकारण जिन्हें केंद्रीय बिंदुओं पर ही प्रयोग किया जाना आवश्यक नहीं है। (लुई एलन)",
+        "नियुक्तिकरण": "संगठन में विभिन्न पदों पर नियुक्ति हेतु आवश्यक कर्मियों की भर्ती एवं विकास की प्रक्रिया। (कुंट्ज़ एवं ओ'डॉनेल)",
+        "भर्ती": "संभावित कर्मचारियों को खोजने एवं उन्हें नौकरी के लिए आवेदन करने हेतु प्रोत्साहित करने की प्रक्रिया।",
+        "चयन": "मुख्यतः साक्षात्कार एवं चयन परीक्षणों द्वारा आवेदकों में से सर्वश्रेष्ठ प्रत्याशी को चुनने की प्रक्रिया।",
+        "प्रशिक्षण": "किसी विशिष्ट कार्य को करने हेतु व्यक्ति के कौशल एवं ज्ञान को बढ़ाने हेतु की जाने वाली गतिविधि।",
+        "विकास": "वर्तमान कार्य से परे कर्मचारी के समग्र विकास हेतु गतिविधि।",
+        "निर्देशन": "उन प्रक्रियाओं एवं तकनीकों का समूह जिनका उपयोग निर्देश जारी करने एवं निर्णय लेने में किया जाता है ताकि कार्य मूल रूप से योजना के अनुसार संचालित हो। (थियो हैमन)",
+        "अभिप्रेरणा": "वांछित लक्ष्यों की प्राप्ति हेतु लोगों को कार्य के लिए उत्साहित करने की प्रक्रिया। (विलियम स्कॉट)",
+        "नेतृत्व": "समूह के उद्देश्यों के लिए लोगों को स्वेच्छा से प्रयास करने हेतु प्रभावित करने की गतिविधि। (जॉर्ज टेरी)",
+        "संप्रेषण": "एक व्यक्ति से दूसरे व्यक्ति तक सूचना एवं समझ को पहुँचाने की प्रक्रिया।",
+        "नियंत्रण": "प्रबंधकीय नियंत्रण से अभिप्राय मानक के विरुद्ध उपलब्धि का मापन एवं विचलनों का सुधार है ताकि उद्देश्यों की प्राप्ति सुनिश्चित हो। (कुंट्ज़ एवं ओ'डॉनेल)",
+        "वित्तीय_प्रबंधन": "वित्तीय निर्णय-निर्माण का वह क्षेत्र जो व्यक्तिगत उद्देश्यों एवं उपक्रम के लक्ष्यों में सामंजस्य स्थापित करता है। (वेस्टन एवं ब्रिघम)",
+        "विपणन": "एक सामाजिक प्रक्रिया जिसके द्वारा व्यक्ति एवं समूह मूल्यवान उत्पादों एवं सेवाओं का निर्माण करके एवं उन्हें स्वतंत्र रूप से आदान-प्रदान करके अपनी आवश्यकताएँ एवं इच्छाएँ प्राप्त करते हैं। (फ़िलिप कोटलर)",
+        "विपणन_मिश्रण": "लक्षित बाज़ार में अपने विपणन उद्देश्यों को प्राप्त करने हेतु उपक्रम द्वारा प्रयुक्त विपणन उपकरणों का समूह — 4Ps: उत्पाद, मूल्य, स्थान, संवर्धन। (फ़िलिप कोटलर)",
+        "उपभोक्ता": "कोई भी व्यक्ति जो उपभोग हेतु वस्तुएँ ख़रीदता है, जिसके लिए मूल्य पूर्णतः या आंशिक रूप से चुकाया या वचन दिया गया हो, अथवा आस्थगित भुगतान योजना के तहत हो। (CPA 2019)",
+        "व्यावसायिक_वातावरण": "किसी व्यावसायिक उपक्रम के नियंत्रण से बाहर उन सभी व्यक्तियों, संस्थाओं एवं अन्य शक्तियों का योग जो उसके निष्पादन को प्रभावित कर सकते हैं। (आर्थर एम. वेईमर)"
+      },
+      "key_facts_for_mcq": {
+        "वैज्ञानिक_प्रबंधन_के_जनक": "एफ. डब्ल्यू. टेलर",
+        "आधुनिक_प्रबंधन_सिद्धांत_के_जनक": "हेनरी फ़ेयॉल",
+        "फ़ेयॉल_का_जन्म": "फ़्रांस",
+        "टेलर_का_जन्म": "अमेरिका",
+        "फ़ेयॉल_के_सिद्धांतों_की_संख्या": "14",
+        "टेलर_की_तकनीकें": "कार्यात्मक फ़ोरमैनशिप (8 फ़ोरमैन), समय अध्ययन, गति अध्ययन, थकान अध्ययन, विधि अध्ययन, मानकीकरण, सरलीकरण, विभेदक दर मज़दूरी पद्धति",
+        "कार्यात्मक_फ़ोरमैनशिप_के_फ़ोरमैन": "8 (नियोजन हेतु 4: मार्ग लिपिक, निर्देश कार्ड लिपिक, समय एवं लागत लिपिक, अनुशासक; क्रियान्वयन हेतु 4: गति पर्यवेक्षक, गैंग पर्यवेक्षक, मरम्मत पर्यवेक्षक, निरीक्षक)",
+        "समन्वय_है": "प्रबंधन का सार (कार्य नहीं)",
+        "नियोजन_है": "प्रबंधन का प्रथम/प्राथमिक कार्य",
+        "प्रबंधन_का_सार": "समन्वय",
+        "मैस्लो_आवश्यकता_पदानुक्रम": "5 स्तर: शारीरिक → सुरक्षा → अपनत्व/सामाजिक → सम्मान → आत्म-सिद्धि (नीचे से ऊपर)",
+        "वित्तीय_प्रोत्साहन": "वेतन एवं भत्ते, बोनस, लाभ-हिस्सेदारी, सह-भागीदारी, उत्पादकता से जुड़ी मज़दूरी, सेवानिवृत्ति लाभ, विशेषाधिकार",
+        "ग़ैर_वित्तीय_प्रोत्साहन": "स्थिति, कार्य समृद्धि, कार्य सुरक्षा, कर्मचारी भागीदारी, संगठनात्मक परिवेश, करियर उन्नति, कर्मचारी पहचान, कर्मचारी सशक्तीकरण",
+        "नेतृत्व_शैलियाँ": "निरंकुश, लोकतांत्रिक/सहभागी, मुक्त-हस्त (Laissez-faire)",
+        "संप्रेषण_बाधाएँ": "अर्थ-संबंधी, मनोवैज्ञानिक, संगठनात्मक, व्यक्तिगत",
+        "Grapevine": "अनौपचारिक संप्रेषण — तेज़ पर विकृत हो सकता है",
+        "तीन_वित्तीय_निर्णय": "निवेश निर्णय (पूँजी बजटिंग), वित्त-व्यवस्था निर्णय (पूँजी संरचना), लाभांश निर्णय",
+        "कार्यशील_पूँजी_के_स्रोत": "देनदार, बैंक ओवरड्राफ़्ट, नक़द विक्रय",
+        "विपणन_के_4_Ps": "उत्पाद, मूल्य, स्थान (भौतिक वितरण), संवर्धन",
+        "संवर्धन_मिश्रण_के_4": "विज्ञापन, व्यक्तिगत विक्रय, विक्रय संवर्धन, जन-संपर्क",
+        "AGMARK": "कृषि उत्पादों के लिए गुणवत्ता प्रमाणन चिह्न",
+        "ISI": "औद्योगिक/उपभोक्ता वस्तुओं के लिए गुणवत्ता प्रमाणन चिह्न",
+        "FPO": "प्रसंस्कृत खाद्य उत्पादों के लिए गुणवत्ता प्रमाणन चिह्न",
+        "Hallmark": "आभूषणों (सोना एवं चाँदी) के लिए गुणवत्ता प्रमाणन चिह्न",
+        "ज़िला_आयोग_की_सीमा": "₹1 करोड़ तक",
+        "राज्य_आयोग_की_सीमा": "₹1 करोड़ से अधिक, ₹10 करोड़ तक",
+        "राष्ट्रीय_आयोग_की_सीमा": "₹10 करोड़ से अधिक",
+        "CPA_2019_राज्य_से_अपील": "30 दिनों के भीतर राष्ट्रीय आयोग में अपील",
+        "उपभोक्ता_के_6_अधिकार": "सुरक्षा का अधिकार, सूचना का अधिकार, आश्वासन का अधिकार, सुने जाने का अधिकार, निवारण का अधिकार, उपभोक्ता शिक्षा का अधिकार",
+        "LPG_नीति_का_वर्ष": "1991",
+        "विमुद्रीकरण_नवंबर_2016": "8 नवंबर 2016 को ₹500 एवं ₹1000 के नोट बंद",
+        "नियोजन_एक_सेतु": "नियोजन हमारी वर्तमान स्थिति एवं वांछित स्थिति के बीच की खाई को पाटता है",
+        "अधिकार_अधिकारण_के_तत्व": "अधिकार, उत्तरदायित्व, जवाबदेही"
+      },
+      "important_thinkers": {
+        "एफ_डब्ल्यू_टेलर": "वैज्ञानिक प्रबंधन के जनक; 4 सिद्धांत; 8 कार्यात्मक फ़ोरमैन; विभेदक दर मज़दूरी पद्धति",
+        "हेनरी_फ़ेयॉल": "आधुनिक प्रबंधन / प्रशासनिक प्रबंधन के जनक; 14 सिद्धांत; फ़्रांस में जन्म",
+        "हेरॉल्ड_कुंट्ज़": "'प्रबंधन दूसरों से कार्य कराने की कला है'",
+        "कुंट्ज़_एवं_वेहरिख": "प्रबंधन एक ऐसे परिवेश की रचना एवं रख-रखाव की प्रक्रिया है जिसमें समूहों में कार्य करने वाले व्यक्ति चुने गए लक्ष्यों को कुशलतापूर्वक प्राप्त करते हैं",
+        "पीटर_ड्रकर": "प्रबंधन गुरु — प्रबंधन को बहु-उद्देशीय अंग के रूप में परिभाषित किया",
+        "जॉर्ज_टेरी": "'नेतृत्व समूह के उद्देश्यों के लिए लोगों को स्वेच्छा से प्रयास करने हेतु प्रभावित करने की गतिविधि है'",
+        "अब्राहम_मैस्लो": "आवश्यकता पदानुक्रम सिद्धांत — मानवीय आवश्यकताओं के 5 स्तर",
+        "विलियम_स्कॉट": "'अभिप्रेरणा वांछित लक्ष्यों की प्राप्ति हेतु लोगों को कार्य के लिए उत्साहित करने की प्रक्रिया है'",
+        "थियो_हैमन": "निर्देशन की परिभाषा; अधिकार-अधिकारण की परिभाषा; संगठन की परिभाषा",
+        "लुई_एलन": "संगठन एवं अधिकार-अधिकारण की परिभाषाएँ; विकेंद्रीकरण की परिभाषा",
+        "चेस्टर_बार्नार्ड": "औपचारिक संगठन की परिभाषा",
+        "कीथ_डेविस": "अनौपचारिक संगठन की परिभाषा",
+        "फ़िलिप_कोटलर": "विपणन की परिभाषा एवं विपणन मिश्रण (4Ps)",
+        "आर्थर_एम_वेईमर": "व्यावसायिक वातावरण की परिभाषा",
+        "एम_ई_हर्ली": "नियोजन की परिभाषा",
+        "वेस्टन_एवं_ब्रिघम": "वित्तीय प्रबंधन की परिभाषा",
+        "वॉकर_एवं_बॉन": "वित्तीय नियोजन की परिभाषा",
+        "वाइटलेस": "पर्यवेक्षण की परिभाषा",
+        "स्टैनली_वेन्स": "'प्रबंधन दूसरों से कार्य कराने की कला है' — यह कथन इनका नहीं है (हेरॉल्ड कुंट्ज़ का है)"
+      }
+    },
+    "source_papers": [
+      "UP Board आधिकारिक पाठ्यक्रम 2025-26 (NEP 2020 आधारित, NCERT)",
+      "Arihant AVTAR Chapterwise Question Bank — Business Studies कक्षा 12 (अंग्रेज़ी, 2025-26)",
+      "UP Board बोर्ड पेपर 2025 (Set 350), 2024, 2023, 2022",
+      "NCERT Business Studies कक्षा 12 भाग I एवं भाग II"
+    ],
+    "mcq_question_bank": {
+      "marks_each": 1,
+      "total_in_bank": 30,
+      "note": "UP Board पिछले पेपर 2020-2025 + CBQ प्रकार। परीक्षा में: प्रश्न 1-10 अनिवार्य (10 MCQ)। कथन-आधारित एवं Competency Based Questions (CBQ) शामिल।",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "कर्मचारियों को सर्वाधिक प्रोत्साहन देने वाला प्रबंधन का कार्य है",
+          "options": [
+            "(अ) नियुक्तिकरण",
+            "(ब) अभिप्रेरणा",
+            "(स) संगठन",
+            "(द) नियंत्रण"
+          ],
+          "answer": "(ब) अभिप्रेरणा",
+          "year": "2025",
+          "chapter": "अध्याय 7 निर्देशन"
+        },
+        {
+          "q_no": 2,
+          "q": "वैज्ञानिक प्रबंधन से लाभ",
+          "options": [
+            "(अ) बढ़ता है",
+            "(ब) घटता है",
+            "(स) प्रभावित नहीं होता",
+            "(द) (अ) और (ब) दोनों"
+          ],
+          "answer": "(अ) बढ़ता है",
+          "year": "2025",
+          "chapter": "अध्याय 2 सिद्धांत"
+        },
+        {
+          "q_no": 3,
+          "q": "भारत में आर्थिक उदारीकरण नीति किस वर्ष लागू की गई?",
+          "options": [
+            "(अ) 1991",
+            "(ब) 1995",
+            "(स) 2001",
+            "(द) 2005"
+          ],
+          "answer": "(अ) 1991",
+          "year": "2025",
+          "chapter": "अध्याय 3 व्यावसायिक वातावरण"
+        },
+        {
+          "q_no": 4,
+          "q": "बजट से अभिप्राय है",
+          "options": [
+            "(अ) निष्पादन का नियोजित लक्ष्य",
+            "(ब) भावी गतिविधियों का योग",
+            "(स) संसाधनों का व्यवस्थित आवंटन",
+            "(द) संख्यात्मक रूप में व्यक्त अपेक्षित परिणामों का विवरण"
+          ],
+          "answer": "(द) संख्यात्मक रूप में व्यक्त अपेक्षित परिणामों का विवरण",
+          "year": "2025",
+          "chapter": "अध्याय 4 नियोजन"
+        },
+        {
+          "q_no": 5,
+          "q": ".......... कर्मचारियों की इच्छा पर निर्भर करता है।",
+          "options": [
+            "(अ) औपचारिक संगठन",
+            "(ब) कार्यात्मक संगठन",
+            "(स) अनौपचारिक संगठन",
+            "(द) संभागीय संगठन"
+          ],
+          "answer": "(स) अनौपचारिक संगठन",
+          "year": "2025",
+          "chapter": "अध्याय 5 संगठन"
+        },
+        {
+          "q_no": 6,
+          "q": "नियुक्तिकरण किसकी ज़िम्मेदारी है?",
+          "options": [
+            "(अ) निम्न प्रबंधन",
+            "(ब) मध्य प्रबंधन",
+            "(स) उच्च प्रबंधन",
+            "(द) ये सभी"
+          ],
+          "answer": "(द) ये सभी",
+          "year": "2025",
+          "chapter": "अध्याय 6 नियुक्तिकरण"
+        },
+        {
+          "q_no": 7,
+          "q": "अभिप्रेरित कर्मचारियों को पुरस्कृत किया जाता है",
+          "options": [
+            "(अ) नकारात्मक",
+            "(ब) सकारात्मक",
+            "(स) आंतरिक",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(ब) सकारात्मक",
+          "year": "2025",
+          "chapter": "अध्याय 7 निर्देशन"
+        },
+        {
+          "q_no": 8,
+          "q": "प्रबंधन का नियंत्रण किया जाता है",
+          "options": [
+            "(अ) निम्न स्तर के प्रबंधकों द्वारा",
+            "(ब) मध्य स्तर के प्रबंधकों द्वारा",
+            "(स) उच्च स्तर के प्रबंधकों द्वारा",
+            "(द) सभी स्तरों के प्रबंधकों द्वारा"
+          ],
+          "answer": "(द) सभी स्तरों के प्रबंधकों द्वारा",
+          "year": "2025",
+          "chapter": "अध्याय 8 नियंत्रण"
+        },
+        {
+          "q_no": 9,
+          "q": "कार्यशील पूँजी का स्रोत है",
+          "options": [
+            "(अ) देनदार",
+            "(ब) बैंक ओवरड्राफ़्ट",
+            "(स) नक़द विक्रय",
+            "(द) ये सभी"
+          ],
+          "answer": "(द) ये सभी",
+          "year": "2025",
+          "chapter": "अध्याय 9 व्यावसायिक वित्त"
+        },
+        {
+          "q_no": 10,
+          "q": "विपणन पर व्यय किया गया धन है",
+          "options": [
+            "(अ) अपव्यय",
+            "(ब) अनावश्यक व्यय",
+            "(स) ग्राहकों पर बोझ",
+            "(द) निवेश"
+          ],
+          "answer": "(द) निवेश",
+          "year": "2025",
+          "chapter": "अध्याय 10 विपणन"
+        },
+        {
+          "q_no": 11,
+          "q": "'प्रबंधन दूसरों से कार्य कराने की कला है।' यह कथन किसका है?",
+          "options": [
+            "(अ) स्टैनली वेन्स",
+            "(ब) पीटर एफ. ड्रकर",
+            "(स) हेनरी फ़ेयॉल",
+            "(द) हेरॉल्ड कुंट्ज़"
+          ],
+          "answer": "(द) हेरॉल्ड कुंट्ज़",
+          "chapter": "अध्याय 1 प्रबंधन"
+        },
+        {
+          "q_no": 12,
+          "q": "प्रबंधन सार्वभौमिक है इस अर्थ में कि",
+          "options": [
+            "(अ) यह सभी उद्देश्यों को पूरा करता है",
+            "(ब) यह सभी संसाधनों का प्रभावी उपयोग करता है",
+            "(स) यह सभी संगठनों में प्रासंगिक है",
+            "(द) उपरोक्त सभी"
+          ],
+          "answer": "(स) यह सभी संगठनों में प्रासंगिक है",
+          "chapter": "अध्याय 1 प्रबंधन"
+        },
+        {
+          "q_no": 13,
+          "q": "प्रबंधन में विशिष्ट ज्ञान, औपचारिक प्रशिक्षण विधि होती है और प्रबंधन शिक्षा की बहुत माँग है। यह कथन बताता है कि",
+          "options": [
+            "(अ) प्रबंधन एक कला है",
+            "(ब) प्रबंधन एक विज्ञान है",
+            "(स) प्रबंधन एक पेशा है",
+            "(द) प्रबंधन विज्ञान एवं कला दोनों है"
+          ],
+          "answer": "(स) प्रबंधन एक पेशा है",
+          "type": "CBQ",
+          "chapter": "अध्याय 1 प्रबंधन"
+        },
+        {
+          "q_no": 14,
+          "q": "प्रबंधन है",
+          "options": [
+            "(अ) एक कला",
+            "(ब) एक विज्ञान",
+            "(स) कला एवं विज्ञान दोनों",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(स) कला एवं विज्ञान दोनों",
+          "year": "2023-24",
+          "chapter": "अध्याय 1 प्रबंधन",
+          "imp": true
+        },
+        {
+          "q_no": 15,
+          "q": "प्रबंधन का सार है",
+          "options": [
+            "(अ) नियोजन",
+            "(ब) संगठन",
+            "(स) नियुक्तिकरण",
+            "(द) समन्वय"
+          ],
+          "answer": "(द) समन्वय",
+          "year": "2022",
+          "chapter": "अध्याय 1 प्रबंधन",
+          "imp": true
+        },
+        {
+          "q_no": 16,
+          "q": "समन्वय",
+          "options": [
+            "(अ) प्रबंधन का कार्य है",
+            "(ब) प्रबंधन का सार है",
+            "(स) प्रबंधन का अंग है",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(ब) प्रबंधन का सार है",
+          "year": "2023",
+          "chapter": "अध्याय 1 प्रबंधन",
+          "imp": true
+        },
+        {
+          "q_no": 17,
+          "q": "वैज्ञानिक प्रबंधन के जनक कौन हैं?",
+          "options": [
+            "(अ) एस. एच. पियरसन",
+            "(ब) डायमर",
+            "(स) एफ. डब्ल्यू. टेलर",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(स) एफ. डब्ल्यू. टेलर",
+          "chapter": "अध्याय 2 सिद्धांत",
+          "imp": true
+        },
+        {
+          "q_no": 18,
+          "q": "टेलर ने कार्यात्मक फ़ोरमैनशिप प्रणाली में कितने फ़ोरमैनों की बात कही है?",
+          "options": [
+            "(अ) 2",
+            "(ब) 4",
+            "(स) 6",
+            "(द) 8"
+          ],
+          "answer": "(द) 8",
+          "chapter": "अध्याय 2 सिद्धांत",
+          "imp": true
+        },
+        {
+          "q_no": 19,
+          "q": "हेनरी फ़ेयॉल द्वारा प्रतिपादित प्रबंधन के सिद्धांत हैं",
+          "options": [
+            "(अ) 10",
+            "(ब) 8",
+            "(स) 14",
+            "(द) 5"
+          ],
+          "answer": "(स) 14",
+          "chapter": "अध्याय 2 सिद्धांत",
+          "imp": true
+        },
+        {
+          "q_no": 20,
+          "q": "हेनरी फ़ेयॉल का जन्म हुआ था",
+          "options": [
+            "(अ) जापान",
+            "(ब) फ़्रांस",
+            "(स) जर्मनी",
+            "(द) अमेरिका"
+          ],
+          "answer": "(ब) फ़्रांस",
+          "year": "2024, 2022",
+          "chapter": "अध्याय 2 सिद्धांत"
+        },
+        {
+          "q_no": 21,
+          "q": "निम्नलिखित में से व्यावसायिक वातावरण की विशेषता कौन-सी नहीं है?",
+          "options": [
+            "(अ) अंतर-संबंधितता",
+            "(ब) कर्मचारी",
+            "(स) जटिलता",
+            "(द) सापेक्षता"
+          ],
+          "answer": "(ब) कर्मचारी",
+          "chapter": "अध्याय 3 व्यावसायिक वातावरण"
+        },
+        {
+          "q_no": 22,
+          "q": "हेनरी फ़ेयॉल का जन्म हुआ था",
+          "options": [
+            "(अ) इंग्लैंड",
+            "(ब) अमेरिका",
+            "(स) जर्मनी",
+            "(द) फ़्रांस"
+          ],
+          "answer": "(द) फ़्रांस",
+          "year": "2024",
+          "chapter": "अध्याय 2 सिद्धांत"
+        },
+        {
+          "q_no": 23,
+          "q": "निम्न में से कौन-सी नेतृत्व शैली व्यावसायिक उपक्रम के लिए अनुपयुक्त मानी जाती है?",
+          "options": [
+            "(अ) परामर्शी शैली",
+            "(ब) नौकरशाही शैली",
+            "(स) सहभागी समूह शैली",
+            "(द) उपलब्धि-उन्मुख शैली"
+          ],
+          "answer": "(ब) नौकरशाही शैली",
+          "year": "2024",
+          "chapter": "अध्याय 7 निर्देशन"
+        },
+        {
+          "q_no": 24,
+          "q": "निम्न में से कौन-सा नियंत्रण की प्रक्रिया में शामिल है?",
+          "options": [
+            "(अ) लाभ-अलाभ विश्लेषण",
+            "(ब) बजट",
+            "(स) विचलनों का विश्लेषण",
+            "(द) प्रबंधकीय अंकेक्षण"
+          ],
+          "answer": "(स) विचलनों का विश्लेषण",
+          "year": "2024",
+          "chapter": "अध्याय 8 नियंत्रण"
+        },
+        {
+          "q_no": 25,
+          "q": "निम्न में से कौन-सा संगठन का सिद्धांत नहीं है?",
+          "options": [
+            "(अ) अपवाद का सिद्धांत",
+            "(ब) लचीलेपन का सिद्धांत",
+            "(स) विशिष्टीकरण का सिद्धांत",
+            "(द) आवश्यकताओं का पदानुक्रम सिद्धांत"
+          ],
+          "answer": "(द) आवश्यकताओं का पदानुक्रम सिद्धांत",
+          "year": "2024",
+          "chapter": "अध्याय 5 संगठन"
+        },
+        {
+          "q_no": 26,
+          "q": "चार्टर्ड अकाउंटेंट बनने के लिए व्यक्ति को ICAI द्वारा आयोजित विशेष परीक्षा उत्तीर्ण करनी होती है। यहाँ पेशे की कौन-सी विशेषता प्रकट हो रही है?",
+          "options": [
+            "(अ) प्रतिबंधित प्रवेश",
+            "(ब) नैतिक आचार संहिता",
+            "(स) पेशेवर संघ",
+            "(द) सुपरिभाषित ज्ञान का निकाय"
+          ],
+          "answer": "(अ) प्रतिबंधित प्रवेश",
+          "type": "CBQ",
+          "chapter": "अध्याय 1 प्रबंधन"
+        },
+        {
+          "q_no": 27,
+          "q": "प्रबंधन के किस स्तर पर संगठन के कल्याण एवं अस्तित्व का उत्तरदायित्व होता है?",
+          "options": [
+            "(अ) उच्च स्तर",
+            "(ब) पर्यवेक्षी स्तर",
+            "(स) मध्य स्तर",
+            "(द) संचालन स्तर"
+          ],
+          "answer": "(अ) उच्च स्तर",
+          "chapter": "अध्याय 1 प्रबंधन"
+        },
+        {
+          "q_no": 28,
+          "q": "कार्यात्मक फ़ोरमैनशिप किस सिद्धांत पर आधारित है?",
+          "options": [
+            "(अ) श्रम-विभाजन एवं विशिष्टीकरण",
+            "(ब) श्रम प्रबंधन एवं समयबद्धता",
+            "(स) श्रम पारिश्रमिक एवं विशिष्टीकरण",
+            "(द) उपरोक्त सभी"
+          ],
+          "answer": "(अ) श्रम-विभाजन एवं विशिष्टीकरण",
+          "chapter": "अध्याय 2 सिद्धांत"
+        },
+        {
+          "q_no": 29,
+          "q": "कृषि उत्पादों पर कौन-सा गुणवत्ता प्रमाणन चिह्न लगाया जाता है?",
+          "options": [
+            "(अ) ISI",
+            "(ब) AGMARK",
+            "(स) FPO",
+            "(द) Hallmark"
+          ],
+          "answer": "(ब) AGMARK",
+          "type": "CBQ",
+          "chapter": "अध्याय 11 उपभोक्ता संरक्षण",
+          "imp": true
+        },
+        {
+          "q_no": 30,
+          "q": "₹1 करोड़ तक के मूल्य के निपटान के दावे किसके पास किए जाते हैं?",
+          "options": [
+            "(अ) ज़िला आयोग",
+            "(ब) राज्य आयोग",
+            "(स) राष्ट्रीय आयोग",
+            "(द) उपरोक्त में से कोई नहीं"
+          ],
+          "answer": "(अ) ज़िला आयोग",
+          "chapter": "अध्याय 11 उपभोक्ता संरक्षण",
+          "imp": true
+        }
+      ]
+    },
+    "vsa_question_bank": {
+      "marks_each": 2,
+      "total_in_bank": 24,
+      "note": "अति लघु उत्तरीय प्रकार। 20-30 शब्द। परीक्षा में सभी अनिवार्य (प्रश्न 11-20)। परिभाषा, 2 विशेषताएँ, या लघु व्याख्या।",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "'प्रबंधन' की परिभाषा दीजिए।",
+          "answer": "एफ. डब्ल्यू. टेलर के अनुसार, 'प्रबंधन यह जानने की कला है कि क्या करना है, कब करना है, और यह देखना कि यह सर्वोत्तम एवं सबसे सस्ते तरीक़े से किया जाए।' प्रबंधन एक ऐसी प्रक्रिया है जिसमें सभी प्रबंधकों द्वारा संगठन के लक्ष्यों को प्रभावी एवं कुशलतापूर्वक प्राप्त करने हेतु परस्पर संबंधित कार्यों की श्रृंखला निष्पादित की जाती है।",
+          "year": "2025, 2023-24, 2022",
+          "chapter": "अध्याय 1 प्रबंधन",
+          "imp": true
+        },
+        {
+          "q_no": 2,
+          "q": "गति अध्ययन से क्या अभिप्राय है?",
+          "answer": "गति अध्ययन किसी कार्य को करते समय श्रमिक की गतियों का गहन अध्ययन है — जैसे उठाना, वस्तुएँ रखना, स्थिति बदलना। टेलर ने तीन प्रकार की गतियाँ बताईं: उत्पादक, अनुत्पादक एवं आकस्मिक। उन्होंने स्टॉपवॉच एवं विभिन्न रंगों-प्रतीकों का प्रयोग कर्मचारियों की गतियों की पहचान के लिए किया।",
+          "year": "2025",
+          "chapter": "अध्याय 2 सिद्धांत",
+          "imp": true
+        },
+        {
+          "q_no": 3,
+          "q": "नियोजन में 'प्रक्रिया' क्या है?",
+          "answer": "प्रक्रिया (Procedure) गतिविधियों के निष्पादन हेतु निर्धारित क्रिया-क्रम है। यह किसी नीति को लागू करने की विस्तृत विधि प्रदान करती है। इसमें किसी नियमित कार्य को पूरा करने के लिए आवश्यक कार्यों का कालक्रमिक क्रम होता है।",
+          "year": "2025",
+          "chapter": "अध्याय 4 नियोजन"
+        },
+        {
+          "q_no": 4,
+          "q": "औपचारिक संगठन की कोई दो विशेषताएँ बताइए।",
+          "answer": "(i) इसे प्रबंधन द्वारा स्पष्ट पदानुक्रम, अधिकार एवं उत्तरदायित्व के साथ सोच-समझकर बनाया जाता है। (ii) यह संगठन के लक्ष्यों को कुशलतापूर्वक प्राप्त करने हेतु स्थापित नियमों, नीतियों एवं प्रक्रियाओं के अनुसार कार्य करता है।",
+          "year": "2025",
+          "chapter": "अध्याय 5 संगठन"
+        },
+        {
+          "q_no": 5,
+          "q": "कार्य-घूर्णन से क्या अभिप्राय है?",
+          "answer": "कार्य-घूर्णन (Job Rotation) कार्य पर प्रशिक्षण की एक विधि है जिसमें कर्मचारी को एक कार्य से दूसरे कार्य में व्यवस्थित रूप से स्थानांतरित किया जाता है। इससे कर्मचारी को संगठन के विभिन्न कार्यों का व्यापक अनुभव मिलता है एवं नीरसता दूर होती है।",
+          "year": "2025",
+          "chapter": "अध्याय 6 नियुक्तिकरण"
+        },
+        {
+          "q_no": 6,
+          "q": "अच्छे नेतृत्व की दो विशेषताएँ लिखिए।",
+          "answer": "(i) एक अच्छा नेता अपनी टीम को लक्ष्य, अपेक्षाएँ एवं प्रतिक्रिया स्पष्ट रूप से बताता है, जिससे आपसी समझ एवं समन्वय सुनिश्चित होता है। (ii) एक अच्छा नेता टीम के सदस्यों की भावनाओं, आवश्यकताओं एवं दृष्टिकोण को समझता है, जिससे विश्वास एवं सुदृढ़ संबंध बनते हैं।",
+          "year": "2025",
+          "chapter": "अध्याय 7 निर्देशन"
+        },
+        {
+          "q_no": 7,
+          "q": "नियंत्रण प्रक्रिया के किन्हीं दो चरणों के नाम लिखिए।",
+          "answer": "(i) निष्पादन मानक निर्धारित करना: वे मापदंड स्थापित करना जिनके विरुद्ध वास्तविक निष्पादन को मापा जाएगा। (ii) वास्तविक निष्पादन का मापन: अवलोकन, प्रतिवेदन एवं प्रतिचयन के माध्यम से वास्तविक निष्पादन को रिकॉर्ड करना।",
+          "year": "2025",
+          "chapter": "अध्याय 8 नियंत्रण"
+        },
+        {
+          "q_no": 8,
+          "q": "पूँजी संरचना के दो मुख्य उद्देश्य क्या हैं?",
+          "answer": "(i) पूँजी की लागत को न्यूनतम करना एवं प्रति शेयर आय (EPS) को अधिकतम करना। (ii) ऋण एवं समता का इष्टतम मिश्रण बनाए रखकर अंशधारियों की संपत्ति को अधिकतम करना।",
+          "year": "2025",
+          "chapter": "अध्याय 9 व्यावसायिक वित्त"
+        },
+        {
+          "q_no": 9,
+          "q": "पैकेजिंग के दो लाभ लिखिए।",
+          "answer": "(i) पैकेजिंग उत्पाद को परिवहन एवं भंडारण के दौरान क्षति, ख़राबी, टूटने एवं संदूषण से बचाती है। (ii) आकर्षक पैकेजिंग एक प्रवर्तनात्मक उपकरण का कार्य करती है — यह उपभोक्ताओं का ध्यान आकर्षित करती है एवं उत्पाद के भेद में सहायक होती है।",
+          "year": "2025",
+          "chapter": "अध्याय 10 विपणन"
+        },
+        {
+          "q_no": 10,
+          "q": "संप्रेषण प्रक्रिया में शामिल दो तत्व लिखिए।",
+          "answer": "(i) प्रेषक: वह व्यक्ति जो संदेश को कूटबद्ध करके संप्रेषण प्रारंभ करता है। (ii) प्राप्तकर्ता: वह व्यक्ति जो प्रेषक द्वारा भेजे गए संदेश को प्राप्त करके उसका कूट-वाचन करता है।",
+          "year": "2025",
+          "chapter": "अध्याय 7 निर्देशन"
+        },
+        {
+          "q_no": 11,
+          "q": "उपभोक्ता संरक्षण अधिनियम, 2019 के तहत उपभोक्ताओं को उपलब्ध दो उपाय बताइए।",
+          "answer": "(i) वस्तुओं में दोष या सेवाओं में कमी को दूर करना। (ii) दोषपूर्ण उत्पाद को नए, दोष-रहित उत्पाद से बदलना।",
+          "year": "2025, 2024",
+          "chapter": "अध्याय 11 उपभोक्ता संरक्षण",
+          "imp": true
+        },
+        {
+          "q_no": 12,
+          "q": "नियुक्तिकरण (Staffing) से क्या अभिप्राय है?",
+          "answer": "नियुक्तिकरण वह प्रक्रिया है जिसके द्वारा संगठन में विभिन्न पदों पर नियुक्ति हेतु आवश्यक कर्मचारियों की भर्ती एवं विकास किया जाता है। इसमें कर्मचारियों की भर्ती, चयन, नियुक्ति, प्रशिक्षण, विकास, मूल्यांकन एवं पारिश्रमिक शामिल है।",
+          "year": "2024",
+          "chapter": "अध्याय 6 नियुक्तिकरण"
+        },
+        {
+          "q_no": 13,
+          "q": "भर्ती का आंतरिक स्रोत अधिक किफ़ायती क्यों माना जाता है?",
+          "answer": "आंतरिक भर्ती अधिक किफ़ायती है क्योंकि: (i) विज्ञापन एवं अन्य भर्ती लागत से बचा जा सकता है, क्योंकि कर्मचारी पहले से ही संगठन में जाना जाता है। (ii) अभिविन्यास या प्रारंभिक प्रशिक्षण की आवश्यकता नहीं होती, क्योंकि व्यक्ति संगठन की संस्कृति से परिचित होता है।",
+          "year": "2024",
+          "chapter": "अध्याय 6 नियुक्तिकरण"
+        },
+        {
+          "q_no": 14,
+          "q": "व्यावसायिक वातावरण की परिभाषा दीजिए।",
+          "answer": "आर्थर एम. वेईमर के अनुसार, 'व्यावसायिक वातावरण उन आर्थिक, सामाजिक, राजनीतिक एवं संस्थागत परिस्थितियों का समूह है जिनमें व्यावसायिक गतिविधियाँ संचालित होती हैं।' यह व्यावसायिक उपक्रम के नियंत्रण से बाहर उन सभी व्यक्तियों, संस्थाओं एवं शक्तियों का योग है जो उसके निष्पादन को प्रभावित कर सकती हैं।",
+          "year": "2024",
+          "chapter": "अध्याय 3 व्यावसायिक वातावरण"
+        },
+        {
+          "q_no": 15,
+          "q": "उपभोक्ता संरक्षण अधिनियम के तहत उपभोक्ताओं को उपलब्ध दो छूट लिखिए।",
+          "answer": "(i) व्यावसायिक पुनर्विक्रय या किसी व्यावसायिक प्रयोजन हेतु ख़रीदी गई वस्तुएँ अधिनियम के अंतर्गत नहीं आतीं। (ii) किसी व्यावसायिक प्रयोजन हेतु ली गई सेवाएँ भी उपभोक्ता संरक्षण अधिनियम, 2019 के अंतर्गत नहीं आतीं।",
+          "year": "2024",
+          "chapter": "अध्याय 11 उपभोक्ता संरक्षण"
+        },
+        {
+          "q_no": 16,
+          "q": "उपभोक्ता उत्पादों की पैकेजिंग के दो लाभ बताइए।",
+          "answer": "(i) पैकेजिंग उत्पाद को भंडारण एवं परिवहन के दौरान क्षति, ख़राबी, रिसाव एवं चोरी से सुरक्षा प्रदान करती है। (ii) यह उत्पाद पहचान एवं प्रवर्तन में सहायक होती है — विशिष्ट पैकेजिंग से उपभोक्ता ब्रांड को शीघ्र पहचान लेते हैं।",
+          "year": "2024",
+          "chapter": "अध्याय 10 विपणन"
+        },
+        {
+          "q_no": 17,
+          "q": "वित्तीय नियोजन के दो उद्देश्यों की विवेचना कीजिए।",
+          "answer": "(i) व्यावसायिक क्रियाओं के लिए जब भी आवश्यकता हो तब कोषों की उपलब्धता सुनिश्चित करना। (ii) यह सुनिश्चित करना कि संगठन अनावश्यक रूप से संसाधन न जुटाए, जिससे निष्क्रिय कोष एवं अतिरिक्त लागत से बचा जा सके।",
+          "year": "2024",
+          "chapter": "अध्याय 9 व्यावसायिक वित्त"
+        },
+        {
+          "q_no": 18,
+          "q": "नियुक्तिकरण की दो विशेषताएँ बताइए।",
+          "answer": "(i) नियुक्तिकरण एक प्रबंधकीय कार्य है: नियोजन, संगठन एवं नियंत्रण की तरह नियुक्तिकरण भी एक महत्वपूर्ण प्रबंधकीय कार्य है। (ii) नियुक्तिकरण एक सतत प्रक्रिया है: संगठन के पूरे जीवनकाल में उपयुक्त कौशल वाले कर्मचारियों की भर्ती, मूल्यांकन एवं नियुक्ति की निरंतर प्रक्रिया।",
+          "year": "2024",
+          "chapter": "अध्याय 6 नियुक्तिकरण"
+        },
+        {
+          "q_no": 19,
+          "q": "आधुनिक समय में नेता का क्या महत्व है?",
+          "answer": "(i) नेता लोगों के व्यवहार को प्रभावित करता है — उन्हें दिशा, अभिप्रेरणा एवं समन्वय प्रदान करता है। (ii) एक अच्छा नेता अपने अनुयायियों के साथ पारस्परिक संबंध बनाता है, जिससे संगठनात्मक सफलता के लिए आवश्यक विश्वास एवं प्रतिबद्धता उत्पन्न होती है।",
+          "year": "2024",
+          "chapter": "अध्याय 7 निर्देशन"
+        },
+        {
+          "q_no": 20,
+          "q": "दीर्घ-कालिक एवं लघु-कालिक नियोजन में अंतर स्पष्ट कीजिए।",
+          "answer": "दीर्घ-कालिक नियोजन 5 वर्ष से अधिक अवधि को कवर करता है एवं संगठन के सामरिक लक्ष्यों से संबंधित है। लघु-कालिक नियोजन 1 वर्ष या उससे कम अवधि को कवर करता है एवं दैनिक संचालन निर्णयों से संबंधित है। दीर्घ-कालिक व्यापक होता है; लघु-कालिक विशिष्ट एवं विस्तृत होता है।",
+          "year": "2024",
+          "chapter": "अध्याय 4 नियोजन"
+        },
+        {
+          "q_no": 21,
+          "q": "मैस्लो के अनुसार शारीरिक आवश्यकताएँ क्या हैं?",
+          "answer": "शारीरिक आवश्यकताएँ मैस्लो के पदानुक्रम में सबसे मूलभूत आवश्यकताएँ हैं जिन्हें व्यक्ति को जीवित रहने के लिए पूरा करना होता है — भूख, प्यास, आश्रय, नींद, वस्त्र। इन्हें जैविक अथवा जीवन-रक्षक आवश्यकताएँ भी कहा जाता है। ये आवश्यकता पदानुक्रम पिरामिड का आधार हैं।",
+          "chapter": "अध्याय 7 निर्देशन"
+        },
+        {
+          "q_no": 22,
+          "q": "अनौपचारिक संप्रेषण क्या है? / Grapevine क्या है?",
+          "answer": "संप्रेषण की औपचारिक रेखाओं का पालन किए बिना जो संप्रेषण होता है, उसे अनौपचारिक संप्रेषण कहते हैं। इसे 'Grapevine' भी कहा जाता है। यह कर्मचारियों के बीच सामाजिक संबंधों पर आधारित है एवं किसी भी दिशा में तेज़ी से फैल जाता है।",
+          "year": "NCERT, 2022",
+          "chapter": "अध्याय 7 निर्देशन",
+          "imp": true
+        },
+        {
+          "q_no": 23,
+          "q": "अधिकार-अधिकारण (Delegation) का अर्थ बताइए।",
+          "answer": "अधिकार-अधिकारण का अर्थ है उच्चाधिकारी से अधीनस्थ को अधिकार का अधोमुखी हस्तांतरण। यह संगठन के कुशल संचालन की पूर्व-आवश्यकता है क्योंकि इससे प्रबंधक अपने समय का उपयोग उच्च प्राथमिकता वाली गतिविधियों में कर सकते हैं। अधिकार हस्तांतरित किया जाता है लेकिन उत्तरदायित्व कभी हस्तांतरित नहीं किया जा सकता।",
+          "chapter": "अध्याय 5 संगठन",
+          "imp": true
+        },
+        {
+          "q_no": 24,
+          "q": "'प्रबंधन का विस्तार' (Span of Management) से क्या अभिप्राय है?",
+          "answer": "प्रबंधन का विस्तार संगठनात्मक संरचना को रूप देता है। यह उन अधीनस्थों की संख्या को दर्शाता है जिन्हें एक उच्चाधिकारी प्रभावी रूप से प्रबंधित कर सकता है। विस्तार जितना बड़ा होगा, स्तरों की संख्या उतनी कम — जिससे चपटा (flat) ढाँचा बनता है। संकरा विस्तार — लंबा (tall) ढाँचा बनाता है।",
+          "year": "2025",
+          "chapter": "अध्याय 5 संगठन"
+        }
+      ]
+    },
+    "sa_question_bank": {
+      "marks_each": 5,
+      "total_in_bank": 12,
+      "note": "लघु उत्तरीय प्रकार। परीक्षा में प्रश्न 21-26, सभी अनिवार्य। 80-100 शब्द। जहाँ लागू हो वहाँ क्रमांकित बिंदुओं एवं तुलना सारणियों का प्रयोग कीजिए।",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "वैज्ञानिक प्रबंधन के कोई पाँच सिद्धांत लिखिए।",
+          "answer_points": [
+            "1. विज्ञान, न कि नियम-विहीन ढंग: टेलर का मानना था कि किसी कार्य को करने की एक सर्वोत्तम विधि होती है जो वैज्ञानिक अध्ययन एवं विश्लेषण से विकसित की जाती है — परंपरागत 'ट्रायल एंड एरर' का स्थान लेती है।",
+            "2. सामंजस्य, न कि कलह: प्रबंधन एवं श्रमिकों के बीच सामंजस्य होना चाहिए — दोनों पक्षों में 'मानसिक क्रांति'।",
+            "3. सहयोग, न कि व्यक्तिवाद: सभी को संगठन की भलाई के लिए कार्य करना चाहिए — प्रतिस्पर्धा से सहयोग की ओर मानसिक क्रांति।",
+            "4. प्रत्येक व्यक्ति का अधिकतम दक्षता एवं समृद्धि तक विकास: कर्मचारियों को अपने निष्पादन में सुधार के अवसर उपलब्ध कराए जाने चाहिए।",
+            "5. सीमित उत्पादन के स्थान पर अधिकतम उत्पादन: सीमित उत्पादन को अधिकतम उत्पादन से प्रतिस्थापित करने से श्रमिक एवं प्रबंधन दोनों को लाभ।"
+          ],
+          "marks": 5,
+          "year": "2025, NCERT",
+          "chapter": "अध्याय 2 सिद्धांत",
+          "imp": true
+        },
+        {
+          "q_no": 2,
+          "q": "कर्मचारियों की भर्ती एवं चयन में अंतर स्पष्ट कीजिए।",
+          "answer_table": {
+            "headers": [
+              "आधार",
+              "भर्ती",
+              "चयन"
+            ],
+            "rows": [
+              [
+                "अर्थ",
+                "संगठन में रिक्त पद हेतु लोगों को आवेदन करने के लिए प्रोत्साहित करने की प्रक्रिया।",
+                "आवेदन करने वालों में से श्रेष्ठ प्रत्याशी को चुनने की प्रक्रिया।"
+              ],
+              [
+                "विधि",
+                "यह एक किफ़ायती विधि है।",
+                "यह एक महँगी विधि है।"
+              ],
+              [
+                "क्रम",
+                "यह चयन से पहले होती है।",
+                "यह भर्ती के बाद होती है।"
+              ],
+              [
+                "प्रकृति",
+                "यह एक सकारात्मक प्रक्रिया है क्योंकि यह लोगों को संगठन की ओर आकर्षित करती है।",
+                "यह एक नकारात्मक प्रक्रिया है क्योंकि इसमें प्रत्येक चरण पर प्रत्याशियों की अस्वीकृति होती है।"
+              ],
+              [
+                "उद्देश्य",
+                "आवेदकों का बड़ा समूह बनाना।",
+                "उपलब्ध समूह में से सर्वश्रेष्ठ का चयन करना।"
+              ]
+            ]
+          },
+          "marks": 5,
+          "year": "2025, 2023",
+          "chapter": "अध्याय 6 नियुक्तिकरण",
+          "imp": true
+        },
+        {
+          "q_no": 3,
+          "q": "संगठन (Organising) के चरण क्या हैं?",
+          "answer_points": [
+            "1. कार्य की पहचान एवं विभाजन: पूर्व-निर्धारित योजना के अनुसार संपूर्ण कार्य की पहचान करना एवं उसे प्रबंधनीय गतिविधियों में विभाजित करना।",
+            "2. विभागीकरण: समान प्रकार की गतिविधियों को एक विभाग के अंतर्गत समूहित किया जाता है (जैसे उत्पादन, वित्त, विपणन)।",
+            "3. कर्तव्यों का सौंपा जाना: कार्य को विभिन्न व्यक्तियों को उनके ज्ञान, कौशल एवं क्षमता के अनुसार सौंपा जाता है।",
+            "4. प्रतिवेदन-संबंध स्थापित करना: उचित समन्वय के साथ पदानुक्रमिक संरचना का पालन किया जाता है ताकि हर व्यक्ति को पता हो कि किसे रिपोर्ट करना है।"
+          ],
+          "marks": 5,
+          "year": "2025",
+          "chapter": "अध्याय 5 संगठन",
+          "imp": true
+        },
+        {
+          "q_no": 4,
+          "q": "भर्ती के आंतरिक स्रोत क्या हैं?",
+          "answer_points": [
+            "आंतरिक स्रोत से अभिप्राय संगठन के भीतर से ही व्यक्तियों की नियुक्ति से है। दो महत्वपूर्ण आंतरिक स्रोत हैं:",
+            "1. स्थानांतरण: इसमें किसी कर्मचारी को बिना उत्तरदायित्व एवं स्थिति में बड़े परिवर्तन के एक कार्य से दूसरे कार्य, एक विभाग से दूसरे विभाग, या एक पाली से दूसरी पाली में स्थानांतरित करना शामिल है।",
+            "गुण: कर्मचारी अभिप्रेरणा, किफ़ायत, प्रशिक्षण में सहायक, कमियाँ भरता है।",
+            "2. पदोन्नति: व्यावसायिक उपक्रम आमतौर पर उच्च पदों को निचले पदों से कर्मचारियों को पदोन्नत करके भरने की प्रथा का पालन करते हैं। इसका अर्थ है कर्मचारी को अधिक उत्तरदायित्व, स्थिति एवं वेतन के साथ उच्च पद पर स्थानांतरित करना।",
+            "गुण: कर्मचारी अभिप्रेरणा, निष्ठा, करियर में उन्नति।",
+            "दोष: ताज़ी प्रतिभा नहीं, प्रतिस्पर्धा की भावना नहीं, कर्मचारी सुस्त हो सकते हैं, उत्पादकता घट सकती है।"
+          ],
+          "marks": 5,
+          "year": "2025, 2024",
+          "chapter": "अध्याय 6 नियुक्तिकरण",
+          "imp": true
+        },
+        {
+          "q_no": 5,
+          "q": "'औपचारिक' एवं 'अनौपचारिक' संप्रेषण में अंतर स्पष्ट कीजिए।",
+          "answer_table": {
+            "headers": [
+              "आधार",
+              "औपचारिक संप्रेषण",
+              "अनौपचारिक संप्रेषण"
+            ],
+            "rows": [
+              [
+                "आपसी संबंध",
+                "औपचारिक उच्चाधिकारी-अधीनस्थ संबंध पर आधारित।",
+                "पारस्परिक संपर्क पर आधारित।"
+              ],
+              [
+                "प्रकृति",
+                "व्यवस्थित एवं क्रमबद्ध।",
+                "अव्यवस्थित एवं अनियमित।"
+              ],
+              [
+                "गति",
+                "धीमा एवं समय लेने वाला।",
+                "तेज़ एवं समय की बचत।"
+              ],
+              [
+                "प्रामाणिकता",
+                "आधिकारिक एवं सुनियोजित संदेश प्रामाणिक होते हैं।",
+                "अनाधिकारिक एवं अनियोजित संदेश प्रामाणिक न हों।"
+              ],
+              [
+                "विषय-वस्तु",
+                "कार्य-संबंधी मामले, आदेश, निर्देश।",
+                "व्यक्तिगत मामलों पर चर्चा होती है।"
+              ]
+            ]
+          },
+          "marks": 5,
+          "year": "2025",
+          "chapter": "अध्याय 7 निर्देशन",
+          "imp": true
+        },
+        {
+          "q_no": 6,
+          "q": "पूँजी संरचना क्या है? इसे निर्धारित करने वाले किन्हीं तीन कारकों का वर्णन कीजिए।",
+          "answer_points": [
+            "पूँजी संरचना: यह दीर्घ-कालिक कोष स्रोतों — समता अंश पूँजी, अधिमान अंश पूँजी, ऋण-पत्र, दीर्घ-कालिक ऋण एवं प्रतिधारित आय — के मिश्रण को दर्शाती है।",
+            "पूँजी संरचना को निर्धारित करने वाले कारक:",
+            "1. रोक़ड़ प्रवाह स्थिति: मज़बूत रोक़ड़ प्रवाह से ऋण वित्त-व्यवस्था अधिक व्यवहार्य बनती है क्योंकि मूलधन एवं ब्याज आसानी से चुकाए जा सकते हैं।",
+            "2. पूँजी की लागत: एक कुशल वित्तीय प्रबंधक संतुलन बनाए रखते हुए सबसे सस्ते स्रोत का चुनाव करता है।",
+            "3. जोखिम: प्रत्येक स्रोत के साथ जुड़ा जोखिम अलग होता है। उधारी कोषों में स्वामी के कोषों की तुलना में अधिक जोखिम होता है।",
+            "4. निर्गमन लागत: प्रतिभूतियों के निर्गमन में जितनी अधिक लागत होगी, वह स्रोत उतना ही कम आकर्षक बनेगा।",
+            "5. नियंत्रण: यदि वर्तमान प्रबंधन नियंत्रण के विभाजन से बचना चाहे तो वह समता के स्थान पर ऋण को वरीयता देता है।"
+          ],
+          "marks": "2+3",
+          "year": "2025",
+          "chapter": "अध्याय 9 व्यावसायिक वित्त"
+        },
+        {
+          "q_no": 7,
+          "q": "नियोजन प्रक्रिया में उठाए गए क्रमिक चरणों के नाम बताइए।",
+          "answer_points": [
+            "नियोजन प्रक्रिया में निम्नलिखित क्रमिक चरण शामिल हैं:",
+            "1. उद्देश्यों की स्थापना: कुछ लक्ष्यों की प्राप्ति हेतु योजनाएँ तैयार की जाती हैं — जैसे विक्रय में 20% वृद्धि।",
+            "2. पूर्वानुमानों का विकास: भविष्य के बारे में पूर्वानुमान लगाए जाते हैं — भावी परिस्थितियों का आकलन।",
+            "3. वैकल्पिक क्रियाविधियों की पहचान: सभी संभव विकल्पों की पहचान की जाती है।",
+            "4. वैकल्पिक क्रियाविधियों का मूल्यांकन: प्रत्येक विकल्प के गुण-दोष तौले जाते हैं।",
+            "5. एक विकल्प का चयन: प्रबंधक सर्वोत्तम योजना का चयन करते हैं।",
+            "6. योजना का क्रियान्वयन: चयनित योजना को अमल में लाया जाता है।",
+            "7. अनुवर्ती कार्यवाही: निगरानी कि गतिविधियाँ योजनानुसार हो रही हैं या नहीं।"
+          ],
+          "marks": 5,
+          "year": "2024",
+          "chapter": "अध्याय 4 नियोजन",
+          "imp": true
+        },
+        {
+          "q_no": 8,
+          "q": "संगठन के मुख्य तत्व क्या हैं?",
+          "answer_points": [
+            "संगठन उपक्रम के विभिन्न पदों के बीच संबंधों की संरचना है। इसके मुख्य तत्व हैं:",
+            "1. कार्य का विभाजन: संपूर्ण कार्य को छोटे-छोटे कार्यों में विभाजित किया जाता है जिन्हें संबंधित विशेषज्ञता वाले व्यक्तियों को सौंपा जाता है।",
+            "2. समन्वय: सभी व्यक्तियों एवं विभागों के प्रयासों में संगठन के लक्ष्यों की प्राप्ति हेतु समन्वय किया जाता है।",
+            "3. सामान्य उद्देश्य: संगठन के सभी व्यक्ति पूर्व-निर्धारित सामान्य लक्ष्यों की प्राप्ति हेतु मिलकर कार्य करते हैं।",
+            "4. अधिकार-उत्तरदायित्व संबंध: प्रत्येक स्तर पर अधिकार एवं उत्तरदायित्व का उचित आवंटन।",
+            "5. संप्रेषण: सूचना के सुगम प्रवाह हेतु संप्रेषण के उचित माध्यम।"
+          ],
+          "marks": 5,
+          "year": "2024",
+          "chapter": "अध्याय 5 संगठन"
+        },
+        {
+          "q_no": 9,
+          "q": "विकेंद्रीकरण की विशेषताएँ बताइए।",
+          "answer_points": [
+            "1. उचित संप्रेषण एवं समन्वय: विकेंद्रीकरण हेतु प्रबंधन के विभिन्न स्तरों में उचित संप्रेषण एवं समन्वय आवश्यक है।",
+            "2. पर्याप्त नियंत्रण: प्रत्येक स्तर पर गतिविधियों की जाँच हेतु पर्याप्त नियंत्रण होता है।",
+            "3. स्पष्ट एवं उच्च मानक: सभी स्तरों पर मानक स्पष्ट रूप से परिभाषित एवं उच्च होते हैं।",
+            "4. निम्न स्तरों को सशक्त बनाता है: विकेंद्रीकरण निम्न स्तर के प्रबंधकों को सशक्त बनाता है एवं उनके आत्मविश्वास को बढ़ाता है।",
+            "5. स्वतंत्रता को बढ़ावा: यह निम्न-स्तर के प्रबंधकों में पहल एवं निर्णय-क्षमता का विकास करता है।"
+          ],
+          "marks": 5,
+          "year": "2024",
+          "chapter": "अध्याय 5 संगठन"
+        },
+        {
+          "q_no": 10,
+          "q": "नियंत्रण प्रक्रिया के किन्हीं दो चरणों की व्याख्या कीजिए।",
+          "answer_points": [
+            "नियंत्रण की प्रक्रिया में निम्नलिखित प्रमुख चरण शामिल हैं:",
+            "1. निष्पादन मानक निर्धारित करना: पहला चरण वे मापदंड स्थापित करना है जिनके विरुद्ध वास्तविक निष्पादन मापा जाएगा। मानक संख्यात्मक (इकाइयाँ, राजस्व) या गुणात्मक (ग्राहक संतुष्टि, कर्मचारी मनोबल) शब्दों में निर्धारित किए जा सकते हैं।",
+            "2. वास्तविक निष्पादन का मापन: वास्तविक निष्पादन को अवलोकन, प्रतिवेदन, व्यक्तिगत निरीक्षण या नमूना जाँच के द्वारा मापा एवं दर्ज किया जाता है।",
+            "3. वास्तविक निष्पादन की मानकों से तुलना: विचलन ज्ञात करने के लिए वास्तविक निष्पादन की पूर्व-निर्धारित मानकों से तुलना की जाती है।",
+            "4. विचलनों का विश्लेषण: 'अपवाद द्वारा प्रबंधन' सिद्धांत के आधार पर महत्वपूर्ण विचलनों की पहचान की जाती है।",
+            "5. सुधारात्मक कार्यवाही: वास्तविक एवं वांछित निष्पादन के बीच अंतर को पाटने के लिए सुधारात्मक क़दम उठाए जाते हैं।"
+          ],
+          "marks": 5,
+          "year": "2024",
+          "chapter": "अध्याय 8 नियंत्रण"
+        },
+        {
+          "q_no": 11,
+          "q": "उपभोक्ता संरक्षण अधिनियम के उद्देश्यों की प्राप्ति की विभिन्न विधियाँ क्या हैं?",
+          "answer_points": [
+            "उपभोक्ता संगठन एवं व्यक्ति निम्नलिखित विधियों से उपभोक्ता संरक्षण के उद्देश्यों की प्राप्ति कर सकते हैं:",
+            "1. उपभोक्ताओं को शिक्षित करना: अपने अधिकारों एवं उत्तरदायित्वों के प्रति जागरूक करने हेतु प्रशिक्षण कार्यक्रम, संगोष्ठी एवं प्रकाशन आयोजित करना।",
+            "2. शिकायत दर्ज कराना: दोषपूर्ण वस्तुओं अथवा सेवा में कमी के विरुद्ध उपभोक्ताओं की ओर से निवारण एजेंसियों में शिकायत दर्ज कराना।",
+            "3. क़ानूनी सहायता: निवारण चाहने वाले उपभोक्ताओं को क़ानूनी सहायता एवं सलाह प्रदान करना।",
+            "4. उपभोक्ता जागरूकता अभियान: उपभोक्ता अधिकारों के बारे में जागरूकता फैलाने हेतु मीडिया के माध्यम से अभियान चलाना।",
+            "5. उपभोक्ता अधिकारों हेतु दबाव समूह: उपभोक्ता-अनुकूल नीतियाँ लागू कराने हेतु सरकार पर दबाव।"
+          ],
+          "marks": 5,
+          "year": "2024",
+          "chapter": "अध्याय 11 उपभोक्ता संरक्षण"
+        },
+        {
+          "q_no": 12,
+          "q": "कार्यात्मक संरचना संभागीय संरचना से कैसे भिन्न है?",
+          "answer_table": {
+            "headers": [
+              "आधार",
+              "कार्यात्मक संरचना",
+              "संभागीय संरचना"
+            ],
+            "rows": [
+              [
+                "गठन",
+                "गठन कार्यों पर आधारित।",
+                "गठन उत्पाद श्रेणियों पर आधारित, कार्यों द्वारा समर्थित।"
+              ],
+              [
+                "विशिष्टीकरण",
+                "कार्यात्मक विशिष्टीकरण।",
+                "उत्पाद विशिष्टीकरण।"
+              ],
+              [
+                "उत्तरदायित्व",
+                "विभाग पर तय करना कठिन।",
+                "निष्पादन के लिए उत्तरदायित्व आसानी से तय किया जा सकता है।"
+              ],
+              [
+                "उपयुक्त",
+                "एकल-उत्पाद कंपनियाँ, छोटे संगठन।",
+                "बहु-उत्पाद कंपनियाँ, बड़े संगठन।"
+              ],
+              [
+                "लागत",
+                "कम ख़र्चीली — कार्यों की पुनरावृत्ति नहीं।",
+                "अधिक ख़र्चीली — संभागों में पुनरावृत्ति।"
+              ]
+            ]
+          },
+          "marks": 5,
+          "year": "2025",
+          "chapter": "अध्याय 5 संगठन"
+        }
+      ]
+    },
+    "la_question_bank": {
+      "marks_each": 10,
+      "total_in_bank": 6,
+      "note": "दीर्घ उत्तरीय प्रकार। परीक्षा में प्रश्न 27-30, प्रत्येक में 'अथवा' विकल्प। 200-250 शब्द। क्रमांकित बिंदु, उप-शीर्षक एवं तुलना सारणियों का प्रयोग कीजिए। मध्यम से कठिन।",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "प्रबंधन के कार्यों की व्याख्या कीजिए।",
+          "answer_points": [
+            "प्रबंधन परस्पर संबंधित कार्यों की प्रक्रिया है। पाँच मुख्य कार्य हैं:",
+            "1. नियोजन: यह अग्रिम रूप से तय करने की प्रक्रिया है कि क्या, कब, कैसे एवं किसके द्वारा किया जाएगा। यह अग्रदर्शी है एवं संगठन के लिए लक्ष्य निर्धारित करता है।",
+            "2. संगठन: यह कर्तव्यों को सौंपने, कार्यों को समूहीकृत करने, अधिकार स्थापित करने एवं किसी विशिष्ट योजना को पूरा करने हेतु संसाधन आवंटित करने की प्रक्रिया है।",
+            "3. नियुक्तिकरण: यह संगठन के सभी पदों को पर्याप्त एवं योग्य कर्मियों से भरने की प्रक्रिया है — इसमें भर्ती, चयन, प्रशिक्षण, निष्पादन मूल्यांकन एवं पारिश्रमिक शामिल हैं।",
+            "4. निर्देशन: यह कार्य नियोजित लक्ष्यों की प्राप्ति हेतु लोगों का नेतृत्व, प्रभाव, मार्गदर्शन, पर्यवेक्षण एवं अभिप्रेरणा से संबंधित है। इसमें पर्यवेक्षण, अभिप्रेरणा, नेतृत्व एवं संप्रेषण शामिल हैं।",
+            "5. नियंत्रण: यह सुनिश्चित करने की प्रक्रिया है कि संगठन अपने लक्ष्यों को प्राप्त कर रहा है। यह सुनिश्चित करता है कि गतिविधियाँ निर्धारित मानकों के अनुरूप हैं — इसमें मानकों का निर्धारण, वास्तविक निष्पादन का मापन एवं सुधारात्मक कार्यवाही शामिल है।"
+          ],
+          "marks": 10,
+          "year": "2025, NCERT",
+          "chapter": "अध्याय 1 प्रबंधन",
+          "imp": true,
+          "or_option": "प्रबंधन कला एवं विज्ञान का समन्वय है। विस्तार से समझाइए।"
+        },
+        {
+          "q_no": 2,
+          "q": "चयन प्रक्रिया में शामिल विभिन्न चरणों की रूपरेखा बताइए।",
+          "answer_points": [
+            "चयन आवेदन करने वालों में से सर्वश्रेष्ठ प्रत्याशी को चुनने की प्रक्रिया है। चयन प्रक्रिया के चरण हैं:",
+            "1. प्रारंभिक छंटाई: स्पष्ट रूप से अनुपयुक्त प्रत्याशियों को अस्वीकार करने के लिए आवेदनों की प्रारंभिक छंटाई।",
+            "2. चयन परीक्षण: बुद्धि परीक्षण, अभिरुचि परीक्षण, व्यक्तित्व परीक्षण, व्यापार परीक्षण आदि लिए जाते हैं।",
+            "3. रोज़गार साक्षात्कार: उपयुक्तता, व्यक्तित्व एवं संप्रेषण कौशल के मूल्यांकन हेतु औपचारिक गहन बातचीत।",
+            "4. संदर्भ एवं पृष्ठभूमि जाँच: पिछले नियोक्ता, शिक्षक, विश्वविद्यालय के प्राध्यापक प्रत्याशी के बारे में जानकारी सत्यापित करते हैं।",
+            "5. चयन का निर्णय: सभी एकत्रित जानकारी के आधार पर लाइन प्रबंधक द्वारा अंतिम निर्णय।",
+            "6. चिकित्सा परीक्षण: चयनित प्रत्याशी की कार्य-योग्यता सुनिश्चित करने हेतु स्वास्थ्य जाँच।",
+            "7. नौकरी का प्रस्ताव: शर्तों सहित नियुक्ति पत्र जारी किया जाता है।",
+            "8. रोज़गार अनुबंध: दोनों पक्षों द्वारा औपचारिक अनुबंध पर हस्ताक्षर।"
+          ],
+          "marks": 10,
+          "year": "2025",
+          "chapter": "अध्याय 6 नियुक्तिकरण",
+          "imp": true,
+          "or_option": "भर्ती के विभिन्न स्रोतों की व्याख्या कीजिए।"
+        },
+        {
+          "q_no": 3,
+          "q": "नियंत्रण को परिभाषित कीजिए। नियंत्रण प्रक्रिया के विभिन्न चरणों को बताइए।",
+          "answer_points": [
+            "परिभाषा: कुंट्ज़ एवं ओ'डॉनेल के अनुसार, 'प्रबंधकीय नियंत्रण से अभिप्राय मानक के विरुद्ध उपलब्धि का मापन एवं विचलनों का सुधार है, ताकि योजनाओं के अनुसार उद्देश्यों की प्राप्ति सुनिश्चित हो।'",
+            "नियंत्रण प्रक्रिया के चरण:",
+            "1. निष्पादन मानकों का निर्धारण: मापने योग्य मापदंडों की स्थापना — संख्यात्मक (विक्रय इकाइयाँ, लाभ %) या गुणात्मक (ग्राहक संतुष्टि, कर्मचारी मनोबल)।",
+            "2. वास्तविक निष्पादन का मापन: अवलोकन, नमूना जाँच, निष्पादन प्रतिवेदन का उपयोग।",
+            "3. वास्तविक निष्पादन की मानकों से तुलना: विचलन ज्ञात करने हेतु पूर्व-निर्धारित मानकों से तुलना।",
+            "4. विचलनों का विश्लेषण: 'अपवाद द्वारा प्रबंधन' सिद्धांत — महत्वपूर्ण विचलनों की जाँच, छोटे विचलन छोड़ दिए जाते हैं।",
+            "5. सुधारात्मक कार्यवाही: विचलनों को सुधारने हेतु क़दम — जैसे लक्ष्यों में संशोधन, कर्मचारी पुनः प्रशिक्षण, प्रक्रियाओं में परिवर्तन।",
+            "नियोजन से संबंध: नियोजन एवं नियंत्रण प्रबंधन के अविभाज्य जुड़वाँ हैं। नियोजन मानक निर्धारित करता है; नियंत्रण सुनिश्चित करता है कि मानक पूरे हुए।"
+          ],
+          "marks": "4+6",
+          "year": "2025",
+          "chapter": "अध्याय 8 नियंत्रण",
+          "imp": true,
+          "or_option": "उत्पाद मिश्रण की व्याख्या कीजिए एवं उसके घटकों का वर्णन कीजिए।"
+        },
+        {
+          "q_no": 4,
+          "q": "केंद्रीकरण क्या है? इसके लाभ एवं हानियाँ बताइए।",
+          "answer_points": [
+            "केंद्रीकरण से अभिप्राय है प्रबंधन के उच्च स्तर पर अधिकार एवं निर्णय-शक्ति का संकेंद्रण। सभी महत्वपूर्ण निर्णय उच्च प्रबंधन द्वारा लिए जाते हैं।",
+            "केंद्रीकरण के लाभ:",
+            "1. क्रिया में एकरूपता — पूरे संगठन में सुसंगत नीतियाँ एवं प्रक्रियाएँ।",
+            "2. बेहतर समन्वय — सभी निर्णय एक ही स्थान से आने के कारण समन्वय आसान।",
+            "3. मज़बूत नेतृत्व — स्पष्ट कमांड की श्रृंखला।",
+            "4. सीमित संचालन वाले छोटे संगठनों के लिए उपयुक्त।",
+            "केंद्रीकरण की हानियाँ:",
+            "1. निम्न स्तर के अधिकारी उच्चाधिकारी के मार्गदर्शन में कार्य करते हैं — कोई स्वायत्तता नहीं, हतोत्साहित।",
+            "2. निम्न स्तर को निर्णय-निर्माण का अनुभव नहीं मिलता — कौशल विकास सीमित।",
+            "3. श्रमिक स्वयं को संगठन का कर्मचारी मानने के बजाय ग़ुलाम महसूस करते हैं — निष्ठा घटती है।",
+            "4. उच्च प्रबंधन पर अत्यधिक भार — निर्णय-निर्माण में देरी।",
+            "निष्कर्ष: अधिकांश संगठनों के लिए केंद्रीकरण एवं विकेंद्रीकरण के बीच संतुलन आदर्श है।"
+          ],
+          "marks": "2+4+4",
+          "year": "2024",
+          "chapter": "अध्याय 5 संगठन",
+          "or_option": "विकेंद्रीकरण के सिद्धांतों का वर्णन कीजिए। विकेंद्रीकरण एवं अधिकार-अधिकारण में अंतर स्पष्ट कीजिए।"
+        },
+        {
+          "q_no": 5,
+          "q": "व्यावसायिक वातावरण क्या है? इसके महत्व की व्याख्या कीजिए।",
+          "answer_points": [
+            "अर्थ: व्यावसायिक वातावरण किसी व्यावसायिक उपक्रम के नियंत्रण से बाहर उन सभी व्यक्तियों, संस्थाओं एवं अन्य शक्तियों का योग है जो उसके निष्पादन को प्रभावित कर सकते हैं। आर्थर एम. वेईमर के अनुसार, 'व्यावसायिक वातावरण उन आर्थिक, सामाजिक, राजनीतिक एवं संस्थागत परिस्थितियों का समूह है जिनमें व्यावसायिक गतिविधियाँ संचालित होती हैं।'",
+            "व्यावसायिक वातावरण का महत्व:",
+            "1. पहले प्रवेशकर्ता का लाभ: वातावरण को समझने से उपक्रम को अवसरों की शीघ्र पहचान एवं पहले प्रवेशकर्ता का लाभ मिलता है।",
+            "2. पूर्व चेतावनी: समय रहते ख़तरों एवं चेतावनी संकेतों की पहचान।",
+            "3. उपयोगी संसाधनों का उपयोग: वातावरण का अवलोकन उपयोगी संसाधनों — मानवीय, वित्तीय, तकनीकी — की पहचान में सहायक।",
+            "4. तेज़ी से हो रहे परिवर्तनों का सामना: निरंतर निगरानी से उपक्रम तकनीक, प्रतिस्पर्धा एवं विनियमों में तेज़ परिवर्तन के अनुरूप ढल पाता है।",
+            "5. नियोजन एवं नीति-निर्माण: भावी परिस्थितियों की जानकारी देकर नियोजन एवं नीति-निर्माण में सहायक।",
+            "6. निष्पादन में सुधार: वातावरण की जागरूकता उपक्रमों को तेज़ी से प्रतिक्रिया देने में सक्षम बनाती है, जिससे समग्र व्यावसायिक निष्पादन में सुधार होता है।"
+          ],
+          "marks": "4+6",
+          "year": "2024",
+          "chapter": "अध्याय 3 व्यावसायिक वातावरण",
+          "imp": true,
+          "or_option": "व्यावसायिक वातावरण के विभिन्न कारकों की व्याख्या कीजिए।"
+        },
+        {
+          "q_no": 6,
+          "q": "वित्तीय प्रबंधन को परिभाषित कीजिए एवं इसके उद्देश्यों की व्याख्या कीजिए।",
+          "answer_points": [
+            "परिभाषा: वेस्टन एवं ब्रिघम के अनुसार, 'वित्तीय प्रबंधन वित्तीय निर्णय-निर्माण का वह क्षेत्र है जो व्यक्तिगत उद्देश्यों एवं उपक्रम के लक्ष्यों में सामंजस्य स्थापित करता है।'",
+            "वित्तीय प्रबंधन संगठन के वित्तीय उद्देश्यों की प्राप्ति हेतु वित्त की इष्टतम प्राप्ति एवं उपयोग से संबंधित है।",
+            "वित्तीय प्रबंधन के उद्देश्य:",
+            "1. प्राथमिक उद्देश्य — अंशधारियों की संपत्ति का अधिकतमीकरण: वित्तीय प्रबंधन का प्राथमिक लक्ष्य समता अंशों के बाज़ार मूल्य में वृद्धि से अंशधारियों की संपत्ति बढ़ाना है।",
+            "2. पर्याप्त कोषों की उपलब्धता सुनिश्चित करना: आवश्यकता होने पर उचित लागत पर कोष उपलब्ध कराना।",
+            "3. कोषों का प्रभावी उपयोग: निष्क्रिय वित्त से बचने हेतु कोषों के प्रभावी उपयोग को सुनिश्चित करना।",
+            "4. कोषों की सुरक्षा: भंडार बनाकर, लाभों का पुनर्निवेश करके कोषों की सुरक्षा।",
+            "5. पर्याप्त तरलता: लघु-कालिक दायित्वों को पूरा करने हेतु पर्याप्त तरलता बनाए रखना।",
+            "6. संतुलित वित्तीय ढाँचा: समता एवं ऋण के बीच उपयुक्त संतुलन बनाए रखना।"
+          ],
+          "marks": 10,
+          "year": "NCERT",
+          "chapter": "अध्याय 9 व्यावसायिक वित्त",
+          "imp": true,
+          "or_option": "वित्तीय प्रबंधन के मुख्य उद्देश्य क्या हैं? संक्षेप में समझाइए।"
+        }
+      ]
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Business Studies — journal entry formats / comparison tables / charts.",
+    "must_practise": [
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Fayol Vs Taylor",
+        "note": "{\"headers\": [\"आधार\", \"हेनरी फ़ेयॉल\", \"एफ. डब्ल्यू. टेलर\"], \"rows\": [[\"दृष्टिकोण\", \"ऊपर से नीचे — उच्च प्रबंधन से संबंधित\", \"नीचे से ऊपर — कारख़ाने के स्तर से संबंधित\"], [\"केंद्र-बिंदु\", \"प्रबंधकीय दक्"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Centralisation Vs Decentralisation",
+        "note": "{\"headers\": [\"आधार\", \"केंद्रीकरण\", \"विकेंद्रीकरण\"], \"rows\": [[\"अर्थ\", \"अधिकार उच्च स्तर पर सुरक्षित रखा जाता है\", \"निम्न स्तरों को अधिकार-अधिकारण\"], [\"निर्णय-निर्माण\", \"उच्च प्रबंधन निर्णय लेता है\", \""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Formal Vs Informal Organisation",
+        "note": "{\"headers\": [\"आधार\", \"औपचारिक संगठन\", \"अनौपचारिक संगठन\"], \"rows\": [[\"उत्पत्ति\", \"प्रबंधन द्वारा सोच-समझकर निर्मित\", \"सामाजिक अंतःक्रिया से उत्पन्न\"], [\"प्रकृति\", \"आधिकारिक, व्यवस्थित\", \"अनाधिकारिक, स्"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Training Vs Development",
+        "note": "{\"headers\": [\"आधार\", \"प्रशिक्षण\", \"विकास\"], \"rows\": [[\"केंद्र-बिंदु\", \"विशिष्ट कार्य कौशल\", \"समग्र व्यक्तित्व एवं करियर विकास\"], [\"अवधि\", \"लघु-कालिक\", \"दीर्घ-कालिक\"], [\"क्षेत्र\", \"संकीर्ण — कार्य-विशि"
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Not applicable for Business Studies.",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Business Studies",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Business Studies",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Business Studies — theory-only.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 0,
+    "medium_percent": 0,
+    "hard_percent": 0,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "प्रश्न 1-26 सभी अनिवार्य — किसी को भी खाली मत छोड़िए। हर प्रश्न का प्रयास कीजिए (partial अंक मिलेंगे)",
+      "केवल प्रश्न 27-30 में 'अथवा' विकल्प — रीडिंग टाइम में तय कीजिए कि कौन सा विकल्प आसान है",
+      "MCQ जाल: 'समन्वय प्रबंधन का सार है (कार्य नहीं)'; 'नियुक्तिकरण सभी स्तरों की ज़िम्मेदारी है'; 'विपणन पर व्यय किया धन निवेश है, अपव्यय नहीं'",
+      "एफ. डब्ल्यू. टेलर = वैज्ञानिक प्रबंधन; हेनरी फ़ेयॉल = प्रशासनिक प्रबंधन (आधुनिक प्रबंधन)। भ्रमित मत होइए",
+      "फ़ेयॉल के 14 सिद्धांत: सभी याद रखिए — आदेश की एकता, निर्देश की एकता, सोपानिक श्रृंखला, कार्य-विभाजन, अधिकार एवं उत्तरदायित्व, अनुशासन, व्यक्तिगत हित का सामान्य हित के अधीन होना, पारिश्रमिक, केंद्रीकरण, क्रम, समानता, कर्मियों की स्थिरता, पहल, एस्प्रि-द-कोर (सामूहिक भावना)",
+      "टेलर के 8 फ़ोरमैन: नियोजन के लिए 4 (मार्ग लिपिक, निर्देश कार्ड लिपिक, समय एवं लागत लिपिक, अनुशासक) + क्रियान्वयन के लिए 4 (गति पर्यवेक्षक, गैंग पर्यवेक्षक, मरम्मत पर्यवेक्षक, निरीक्षक)",
+      "मैस्लो का पदानुक्रम नीचे से ऊपर: शारीरिक → सुरक्षा → सामाजिक/अपनत्व → सम्मान → आत्म-सिद्धि",
+      "उपभोक्ता संरक्षण की सीमाएँ: ज़िला ≤ ₹1 करोड़; राज्य ₹1-10 करोड़; राष्ट्रीय > ₹10 करोड़",
+      "गुणवत्ता चिह्न: ISI = औद्योगिक वस्तुएँ; AGMARK = कृषि; FPO = प्रसंस्कृत खाद्य; Hallmark = आभूषण",
+      "अंतर वाले SA प्रश्नों के लिए: तुलना सारणी का प्रयोग कीजिए — स्पष्टता पर examiners अतिरिक्त अंक देते हैं",
+      "दीर्घ उत्तरीय: परिभाषा से शुरू कीजिए, बोल्ड शीर्षकों सहित बिंदु सूचीबद्ध कीजिए, निष्कर्ष या महत्व के साथ समाप्त कीजिए",
+      "पूछी जाने वाली तुलनाएँ: फ़ेयॉल बनाम टेलर; केंद्रीकरण बनाम विकेंद्रीकरण; औपचारिक बनाम अनौपचारिक संगठन; प्रशिक्षण बनाम विकास; भर्ती बनाम चयन",
+      "LPG = उदारीकरण, निजीकरण, वैश्वीकरण — भारत में 1991 में लागू",
+      "विमुद्रीकरण: 8 नवंबर 2016 — ₹500 एवं ₹1000 के नोट बंद"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "रीडिंग_15_मिनट",
+        "recommended_minutes": 0,
+        "note": "पहले 15 मिनट: पूरा पेपर पढ़िए। प्रश्न 27-30 के 'अथवा' विकल्पों का चुनाव कीजिए — जो विषय बेहतर आता हो वह चुनिए।"
+      },
+      {
+        "section_id": "MCQ_Q1_Q10_10_मिनट",
+        "recommended_minutes": 0,
+        "note": "10 अंक। 10 मिनट। सभी अनिवार्य। ग़लत विकल्पों को पहले हटाइए — CBQ प्रश्नों को ध्यान से पढ़िए।"
+      },
+      {
+        "section_id": "VSA_Q11_Q20_25_मिनट",
+        "recommended_minutes": 0,
+        "note": "20 अंक। 25 मिनट। सभी अनिवार्य। प्रत्येक 20-30 शब्द — अधिकतम 2 स्पष्ट बिंदु। मुख्य शब्दों का प्रयोग कीजिए।"
+      },
+      {
+        "section_id": "SA_Q21_Q26_45_मिनट",
+        "recommended_minutes": 0,
+        "note": "30 अंक। 45 मिनट। सभी अनिवार्य। क्रमांकित बिंदु। अंतर वाले प्रश्नों में तुलना सारणी का प्रयोग कीजिए।"
+      },
+      {
+        "section_id": "LA_Q27_Q30_65_मिनट",
+        "recommended_minutes": 0,
+        "note": "40 अंक। 65 मिनट। प्रत्येक में 'अथवा'। उप-शीर्षक सहायक हैं। पूर्ण विस्तृत उत्तर आवश्यक।"
+      },
+      {
+        "section_id": "पुनरावलोकन_15_मिनट",
+        "recommended_minutes": 0,
+        "note": "MCQ उत्तर जाँचिए, वर्तनी (फ़ेयॉल, टेलर, मैस्लो, कोटलर) सही है या नहीं, अध्याय-वार पूर्णता सत्यापित कीजिए।"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 33",
+        "target_marks": 33,
+        "strategy": "MCQ (6+) + VSA (10+) + SA (10+) + LA (8+) = 34 अंक",
+        "focus_chapters": [],
+        "focus_areas": [
+          "MCQ: समन्वय = सार; एफ. डब्ल्यू. टेलर = वैज्ञानिक प्रबंधन के जनक; फ़ेयॉल का जन्म फ़्रांस में",
+          "VSA: प्रबंधन, नियुक्तिकरण, अधिकार-अधिकारण की परिभाषा — सब सरल परिभाषाएँ",
+          "SA प्रश्न 21 (टेलर के 5 सिद्धांत) एवं प्रश्न 23 (संगठन के चरण) — सबसे सीधे",
+          "LA: प्रश्न 27 'प्रबंधन के कार्य' का प्रयास कीजिए — सबसे आसान LA प्रश्न"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "50 to 65",
+        "target_marks": 50,
+        "strategy": "MCQ (8+) + VSA पूरे (18+) + SA (20+) + LA (20+) = 66 अंक",
+        "focus_chapters": [],
+        "focus_areas": [
+          "सभी VSA के स्पष्ट 2-बिंदु उत्तर",
+          "SA: भर्ती बनाम चयन की सारणी, औपचारिक बनाम अनौपचारिक संप्रेषण की सारणी",
+          "LA: चयन प्रक्रिया (8 चरण) अथवा प्रबंधन के कार्य",
+          "व्यावसायिक वातावरण का महत्व — 6 बिंदु अच्छी तरह याद"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "80 plus",
+        "target_marks": 80,
+        "strategy": "MCQ (9-10) + VSA पूरे (19-20) + SA पूरे (28-30) + LA पूरे (35-40) = 91-100",
+        "focus_chapters": [],
+        "focus_areas": [
+          "SA में परिपूर्ण तुलना सारणियाँ — साफ़ सारणियों पर अतिरिक्त अंक",
+          "LA: मैस्लो पदानुक्रम चित्र सहित; संप्रेषण बाधाएँ एवं उन्हें दूर करने के उपाय",
+          "विपणन — 4Ps उदाहरण सहित; संवर्धन मिश्रण के सभी 4 तत्व",
+          "फ़ेयॉल बनाम टेलर विस्तृत तुलना — LA में अक्सर"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [
+      "व्यावसायिक वातावरण (10 marks)",
+      "संगठन (10 marks)",
+      "निर्देशन (10 marks)",
+      "व्यावसायिक वित्त (12 marks)",
+      "विपणन (16 marks)",
+      "उपभोक्ता संरक्षण (12 marks)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Business Studies भाग I — प्रबंधन के सिद्धांत एवं कार्य",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "अध्याय 1-8 पूरी तरह इसी पर आधारित। सभी परिभाषाएँ, सिद्धांत एवं प्रमेय यहीं से।"
+      },
+      {
+        "name": "NCERT Business Studies भाग II — व्यावसायिक वित्त एवं विपणन",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "अध्याय 9-11 इसी से। वित्तीय निर्णय, विपणन मिश्रण, उपभोक्ता संरक्षण।"
+      },
+      {
+        "name": "Arihant AVTAR Question Bank Business Studies कक्षा 12 (अंग्रेज़ी, 2025-26)",
+        "author": "",
+        "publisher": "Arihant Prakashan, मेरठ",
+        "purpose": "Supplementary",
+        "note": "UP Board 2025-26 आधारित। पिछले वर्षों के पेपर 2025-2022। 20 सर्वाधिक महत्वपूर्ण प्रश्न। 5 मॉडल पेपर। Chapter-wise MCQ, VSA, SA, LA उत्तर सहित। CBQ कवरेज।"
+      },
+      {
+        "name": "UP Board पिछले वर्षों के पेपर",
+        "author": "",
+        "publisher": "UPMSP / upmsp.edu.in",
+        "purpose": "Supplementary",
+        "note": "2025, 2024, 2023, 2022 के पेपर solve कीजिए। VSA एवं MCQ प्रश्न वर्षों में दोहराए जाते हैं।"
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": false,
+    "extra_time_note": "15 मिनट — केवल पढ़िए, लिखिए नहीं। प्रश्न 27-30 के 'अथवा' विकल्प तय कीजिए।",
+    "duration_total": "3 घंटे 15 मिनट (195 मिनट = 15 रीडिंग + 180 लेखन)",
+    "passing_criteria": "उत्तीर्ण होने के लिए 100 में से न्यूनतम 33 अंक आवश्यक।"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": ""
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

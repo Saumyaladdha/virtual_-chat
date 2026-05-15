@@ -1,0 +1,718 @@
+{
+  "board": "UP Board (UPMSP)",
+  "class": "10",
+  "subject": "Hindi",
+  "subject_code": "801",
+  "exam_year": "2025",
+  "marks_structure": {
+    "theory_paper": 70,
+    "practical_paper": 0,
+    "internal_assessment": 30,
+    "total": 100,
+    "passing_marks_theory": 23,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 10,
+    "duration_minutes": 195,
+    "extra_time_given": false,
+    "extra_time_note": "Nahi milta. 3 ghante 15 minute fixed hain. Bell bajte hi answer sheet submit karni hoti hai.",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 0,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 4,
+    "sets_note": "UP Board typically 4 sets: W-1, W-2, W-3, W-4. Har set mein same questions hote hain, sirf order alag hota hai. Set number cover page pe zaroor likho.",
+    "sets_same_or_different": "",
+    "language_of_attempt": "Hindi only. Hindi medium paper hai.",
+    "all_compulsory_note": "Khand-A ke sab 20 MCQ compulsory hain. Khand-B mein Q1 aur Q2 ke sabhi sub-parts compulsory hain. Q3 se Q10 mein internal OR choice milta hai.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "UP Board ki prescribed textbook compulsory hai. Previous year papers aur sample papers bhi zaroori hain.",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "Hindi UP Board Class 10 paper mein 2 sections hain. Khand-A mein 20 MCQ (1 mark each = 20 marks). Khand-B mein 10 descriptive questions (50 marks). Total 70 marks theory paper.",
+    "new_pattern_note": "",
+    "types": []
+  },
+  "paper_pattern": {
+    "note": "",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 45,
+      "medium_percent": 40,
+      "hard_percent": 15,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "a",
+        "name": "section a khand a",
+        "type": "section_a_khand_a",
+        "question_numbers": "Q1 to Q5 (MCQ)",
+        "total_questions": 0,
+        "total_sub_questions": 5,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "Q1_Hindi_Gadya_Vikas: 5; Q2_Hindi_Padya_Vikas: 5; Q3_Kavya_Soundarya: 3; Q4_Hindi_Vyakaran: 4; Q5_Sanskrit_Vyakaran: 3",
+        "notes": ""
+      },
+      {
+        "section_id": "b",
+        "name": "section b khand b",
+        "type": "section_b_khand_b",
+        "question_numbers": "Q1 to Q10 (Descriptive)",
+        "total_questions": 0,
+        "total_sub_questions": 10,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 50,
+        "word_limit": "",
+        "breakdown": "Q1_Gadyansh_Comprehension: 6; Q2_Padyansh_Comprehension: 6; Q3_Sanskrit_Gadyansh_Anuvad: 5; Q4_Sanskrit_Padyansh_Anuvad: 5; Q5_Khandakavya: 3; Q6_Jeevan_Parichay: 10; Q7_Shlok_Kanthsth: 2; Q8_Patra_Lekhan: 4; Q9_Sanskrit_Uttar: 2; Q10_Nibandh: 7",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 70,
+    "total_practical": 0,
+    "internal_assessment": 30,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "a",
+        "name": "section a khand a",
+        "question_numbers": "Q1 to Q5 (MCQ)",
+        "type": "section_a_khand_a",
+        "total_questions": 0,
+        "total_sub_questions": 5,
+        "marks_per_question": 0,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "Q1_Hindi_Gadya_Vikas: 5; Q2_Hindi_Padya_Vikas: 5; Q3_Kavya_Soundarya: 3; Q4_Hindi_Vyakaran: 4; Q5_Sanskrit_Vyakaran: 3"
+      },
+      {
+        "section_id": "b",
+        "name": "section b khand b",
+        "question_numbers": "Q1 to Q10 (Descriptive)",
+        "type": "section_b_khand_b",
+        "total_questions": 0,
+        "total_sub_questions": 10,
+        "marks_per_question": 0,
+        "total_marks": 50,
+        "word_limit": "",
+        "breakdown": "Q1_Gadyansh_Comprehension: 6; Q2_Padyansh_Comprehension: 6; Q3_Sanskrit_Gadyansh_Anuvad: 5; Q4_Sanskrit_Padyansh_Anuvad: 5; Q5_Khandakavya: 3; Q6_Jeevan_Parichay: 10; Q7_Shlok_Kanthsth: 2; Q8_Patra_Lekhan: 4; Q9_Sanskrit_Uttar: 2; Q10_Nibandh: 7"
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 70,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "1",
+      "name": "Q1 Hindi Gadya Vikas",
+      "marks": 0,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Q1 Hindi Gadya Vikas",
+        "marks": 0
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Q1 Hindi Gadya Vikas",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand A MCQ"
+      },
+      {
+        "chapter_id": "2",
+        "name": "Q2 Hindi Padya Vikas",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand A MCQ"
+      },
+      {
+        "chapter_id": "3",
+        "name": "Q3 Kavya Soundarya",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand A MCQ"
+      },
+      {
+        "chapter_id": "4",
+        "name": "Q4 Hindi Vyakaran",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand A MCQ"
+      },
+      {
+        "chapter_id": "5",
+        "name": "Q5 Sanskrit Vyakaran",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Khand A MCQ"
+      }
+    ],
+    "totals": {
+      "total_marks": 70,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Hindi Class 10 — 0 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Hindi — Khand A MCQ",
+        "category": "Khand A MCQ",
+        "total_marks": 0,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Q1 Hindi Gadya Vikas",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "Q2 Hindi Padya Vikas",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "Q3 Kavya Soundarya",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "Q4 Hindi Vyakaran",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "Q5 Sanskrit Vyakaran",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Q1 Hindi Gadya Vikas",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Hindi Class 10",
+      "unit_id": 1,
+      "unit_name": "Q1 Hindi Gadya Vikas",
+      "part": "Khand A MCQ",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Q2 Hindi Padya Vikas",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Hindi Class 10",
+      "unit_id": 2,
+      "unit_name": "Q2 Hindi Padya Vikas",
+      "part": "Khand A MCQ",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Q3 Kavya Soundarya",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Hindi Class 10",
+      "unit_id": 3,
+      "unit_name": "Q3 Kavya Soundarya",
+      "part": "Khand A MCQ",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Q4 Hindi Vyakaran",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Hindi Class 10",
+      "unit_id": 4,
+      "unit_name": "Q4 Hindi Vyakaran",
+      "part": "Khand A MCQ",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Q5 Sanskrit Vyakaran",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Hindi Class 10",
+      "unit_id": 5,
+      "unit_name": "Q5 Sanskrit Vyakaran",
+      "part": "Khand A MCQ",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Hindi Class 10 — 0 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [],
+    "chapters_mostly_theory": [
+      "Q1 Hindi Gadya Vikas",
+      "Q2 Hindi Padya Vikas",
+      "Q3 Kavya Soundarya",
+      "Q4 Hindi Vyakaran",
+      "Q5 Sanskrit Vyakaran"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Hindi.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not applicable for Hindi.",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Hindi.",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Hindi.",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Hindi Class 10 — no practical exam.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 45,
+    "medium_percent": 40,
+    "hard_percent": 15,
+    "most_scoring_sections": [
+      "Easy-Medium — Agar gadya/padya vikas aur vyakaran yaad ho toh 16-18 marks aasaani se.",
+      "Easy — Sandarbh format pakka hona chahiye. Rekhankit ansh ki vyaakhya mein arth likhna.",
+      "Easy — Apna tayaar khandakavya choose karo. 3 marks = 80-100 words.",
+      "Easy — Ek shlok pakke yaad karo. 2 marks pakke.",
+      "Easy-Medium — Format sahi ho toh 3-4 marks aasaan."
+    ],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Khand-A (20 MCQ) OMR mein achchhe se bharein — yahan se 20 marks pakke ho sakte hain",
+      "OMR par gola kaatna/whitener lagana FORBIDDEN hai — answer sochkar hi bharein",
+      "Q1 aur Q2 mein sandarbh format sahi hona chahiye — Lekhak, Rachna, Prasang teen cheezein",
+      "Q6 jeevan parichay mein 10 marks hain — ye section topper banta hai, isko seriously lein",
+      "Q10 nibandh mein 7 marks hain — do topics pakke tayaar karein",
+      "Q5 khandakavya mein sirf apna padha hua khandakavya choose karein",
+      "Sanskrit anuvad (Q3+Q4) mein sandarbh likhna 2 marks = aasaan marks",
+      "Patra lekhan (Q8) ka format bilkul sahi hona chahiye — format se 2 marks milte hain",
+      "Q7 mein ek shlok kanthsth hai — pura likhein, adha nahi",
+      "Handwriting sunder aur spasht rakhein — Q10 nibandh aur Q6 jeevan parichay mein presentation se marks milte hain",
+      "Set number aur roll number cover page par likhna bilkul mat bhoolein"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time",
+        "recommended_minutes": 15,
+        "note": "15 min — question paper padhein. Khand-B mein OR choices padhkar decide karein kaun sa choose karenge."
+      },
+      {
+        "section_id": "Khand_A_MCQ",
+        "recommended_minutes": 25,
+        "note": "25 min — OMR mein dhyaan se bharein. Process of elimination use karein. Galat jawab mein marks nahi katenge."
+      },
+      {
+        "section_id": "Q1_Q2_comprehension",
+        "recommended_minutes": 20,
+        "note": "20 min — sandarbh + rekhankit ansh ki vyaakhya + prashna. Format yaad rakhein."
+      },
+      {
+        "section_id": "Q3_Q4_Sanskrit",
+        "recommended_minutes": 20,
+        "note": "20 min — Sanskrit anuvad dhyaan se karein. Sandarbh pehle likhein."
+      },
+      {
+        "section_id": "Q5_Q6_Q7",
+        "recommended_minutes": 25,
+        "note": "25 min — Q5 khandakavya (10 min), Q6 jeevan parichay (12 min), Q7 shlok (3 min)."
+      },
+      {
+        "section_id": "Q8_Q9_Q10",
+        "recommended_minutes": 30,
+        "note": "30 min — Q8 patra (10 min), Q9 Sanskrit (5 min), Q10 nibandh (15 min)."
+      },
+      {
+        "section_id": "revision",
+        "recommended_minutes": 5,
+        "note": "5 min — Roll number, set number, OMR check, word limits check."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 30,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "Hindi Pathya Pustak (Gadya Khand + Padya Khand + Sanskrit Khand)",
+        "author": "",
+        "publisher": "UP Board / UPMSP prescribed",
+        "purpose": "Primary",
+        "note": "Compulsory. Q1-Q4 Khand-B ke sare comprehension questions isi se. Jeevan parichay bhi isi mein hain."
+      },
+      {
+        "name": "Khandakavya (Pathit — apna selected khandakavya)",
+        "author": "",
+        "publisher": "UP Board prescribed list mein se",
+        "purpose": "Primary",
+        "note": "Compulsory. Q5 ke liye apna ek khandakavya pakka padho."
+      },
+      {
+        "name": "Sahitya Sagar / UP Board Hindi Guide Class 10",
+        "author": "",
+        "publisher": "Various — Navbodh, Pariksha Adhyayan",
+        "purpose": "Supplementary",
+        "note": "UP Board specific. PYQs aur model answers. Jeevan parichay section bahut helpful."
+      },
+      {
+        "name": "Previous Year Question Papers 2021-2025",
+        "author": "",
+        "publisher": "UP Board (UPMSP)",
+        "purpose": "Supplementary",
+        "note": "Pattern aur repeated questions samajhne ke liye must solve. Same MCQ topics repeat hote hain."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": false,
+    "extra_time_note": ""
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "set_number_compulsory: True",
+      "roll_number_compulsory: True",
+      "sequence_note: Jo question aasaan lage pehle karo. But question number clearly likho.",
+      "omr_rules: OMR mein gola clearly bharein. Gola kaatna, eraser ya whitener STRICTLY FORBIDDEN.",
+      "word_limit_note: Nibandh ~250 words, Jeevan Parichay ~100-120 words, Sandarbh ~30 words. Zyaada likhne se marks nahi badhenge.",
+      "partial_marking: True",
+      "partial_marking_note: Q1+Q2 mein sandarbh ke 2 marks alag milte hain — agar sirf sandarbh sahi likha toh 2 marks milenge.",
+      "objective_no_explanation: MCQ mein sirf OMR bharein — koi explanation nahi chahiye.",
+      "handwriting_marks: Sundar aur spasht handwriting se descriptive mein extra impression milta hai."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['Blue', 'Black'] omr_pen: Blue ya Black Ball Point Pen ONLY for OMR. Ink pen ya pencil OMR pe allowed nahi. pencil_use: Pencil allowed nahi hai — na MCQ mein, na descriptive mein. recommendation: Blue ball-point pen for OMR. Blue ya black pen for descriptive."
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "jeevan_parichay_format: Janm + Janm Sthan > Shiksha > Pramukh Rachnaein > Bhasha Shaili > Mrityu — is order mein likhna achha hota hai. sandarbh_format: Lekhak/Kavi ka naam — Rachna/Granth ka naam — Prasang — ye teeno milaakar sandarbh hota hai. nibandh_format: Bhumika > Mukhya Vishay (2-3 paragraphs) > Upasamhar. Headings ya sub-headings se marks zyaada milte hain. patra_format: Seva mein (formal) ya Priya (informal) > Vishay (formal only) > Mahodaya/Priya mitra > Body > Nivedan/Tumhara > Hastaakshar + Naam language: Hindi only — pure Hindi mein likhna compulsory hai.",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

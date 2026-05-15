@@ -1,0 +1,1727 @@
+{
+  "board": "एमपीबीएसई",
+  "class": "10",
+  "subject": "गणित (Mathematics)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 80,
+    "practical_paper": 0,
+    "internal_assessment": 20,
+    "total": 100,
+    "passing_marks_theory": 26,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 180,
+    "extra_time_given": false,
+    "extra_time_note": "3 घंटे फिक्स्ड। बेल बजते ही आंसर शीट सबमिट करनी होती है।",
+    "internal_assessment_note": "20 मार्क्स स्कूल लेवल पर दिए जाते हैं। बोर्ड एग्ज़ाम में नहीं होते।"
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 23,
+    "total_questions_to_attempt": 23,
+    "total_objective_questions": 0,
+    "total_sets": 4,
+    "sets_note": "4 सेट्स: A, B, C, D। हर सेट में सेम क्वेश्चन्स, सिर्फ ऑर्डर अलग। सेट नंबर कवर पेज पे ज़रूर लिखो।",
+    "sets_same_or_different": "",
+    "language_of_attempt": "हिंदी या इंग्लिश दोनों वैलिड। हिंदी वर्ज़न फाइनल माना जाता है अगर डिस्क्रेपेंसी हो।",
+    "all_compulsory_note": "",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "NCERT क्लास 10 गणित कंपल्सरी है। फॉर्मूला शीट याद करो और प्रीवियस ईयर पेपर्स सॉल्व करो।",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "गणित एमपीबीएसई क्लास 10 पेपर में 23 क्वेश्चन्स हैं। Q1-Q5 ऑब्जेक्टिव (30 सब-क्वेश्चन्स, 1 मार्क each = 30 मार्क्स)। Q6-Q17 अति लघु उत्तर (2 मार्क्स each = 24 मार्क्स)। Q18-Q20 लघु उत्तर (3 मार्क्स each = 9 मार्क्स)। Q21-Q23 दीर्घ उत्तर (4 मार्क्स each = 12 मार्क्स)। टोटल = 75 मार्क्स।",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ — सही विकल्प चुनिए (Choose Correct Option)",
+        "question_number": "Q1",
+        "section": "",
+        "marks_each": 6,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "6 MCQ सब-क्वेश्चन्स, 1 मार्क each। सही ऑप्शन चुनकर लिखो।",
+        "mostly_from": "Q1 में ज़्यादातर फॉर्मूला और परिभाषाएँ आते हैं। HCF(6,20)=2 और विविक्तकर शर्तें हर साल गारंटीड आते हैं।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "रिक्त स्थान भरिए (Fill in the Blanks)",
+        "question_number": "Q2",
+        "section": "",
+        "marks_each": 6,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "6 फिल-इन-ब्लैंक सब-क्वेश्चन्स, 1 मार्क each",
+        "mostly_from": "√2 = अपरिमेय, P(E)+P(Ē)=1, छेदक रेखा = वृत्त को 2 बिंदुओं पर काटने वाली रेखा — ये हर साल आते हैं।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "सत्य / असत्य (True / False)",
+        "question_number": "Q3",
+        "section": "",
+        "marks_each": 6,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "6 सत्य/असत्य सब-क्वेश्चन्स, 1 मार्क each",
+        "mostly_from": "आयतन के फॉर्मूला गलत दिए जाते हैं — शंकु = (1/3)πr²h (πr² नहीं), गोलार्ध = (2/3)πr³ ((1/3)πr³ नहीं)। ये सत्य/असत्य में गारंटीड आते हैं।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "सही कॉलम का मिलान (Match the Correct Column)",
+        "question_number": "Q4",
+        "section": "",
+        "marks_each": 6,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "कॉलम A और B से मिलाने के लिए 6 जोड़े, 1 मार्क each",
+        "mostly_from": "Q4 में त्रिकोणमितीय सर्वसमिकाएँ और फॉर्मूला मैच करो। 9sec²A-9tan²A=9 हर साल आता है।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "एक शब्द / वाक्य में उत्तर (Answer in One Word / Sentence)",
+        "question_number": "Q5",
+        "section": "",
+        "marks_each": 6,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "6 सब-क्वेश्चन्स, 1 मार्क each। एक शब्द या एक वाक्य में आंसर।",
+        "mostly_from": "20-40 का वर्ग चिह्न = 30, उन्नयन कोण की परिभाषा, चाप लंबाई फॉर्मूला — ये तीन Q5 में गारंटीड हैं।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "अति लघु उत्तर (Very Short Answer — Q6 to Q17)",
+        "question_number": "Q6 to Q17",
+        "section": "",
+        "marks_each": 2,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "2 मार्क्स each। हर क्वेश्चन में इंटरनल OR चॉइस। वर्किंग दिखाओ।",
+        "mostly_from": "Q6-Q17 में OR ऑप्शन में से ईज़ियर वाला चूज़ करो। HCF अभाज्य गुणनखंड, AP nवाँ पद, प्रायिकता बेसिक — ये सबसे स्कोरिंग हैं।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "लघु उत्तर (Short Answer — Q18 to Q20)",
+        "question_number": "Q18 to Q20",
+        "section": "",
+        "marks_each": 3,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "3 मार्क्स each। इंटरनल OR चॉइस। पूरी वर्किंग आवश्यक।",
+        "mostly_from": "Q19 (बाह्य बिंदु से स्पर्श रेखाएँ बराबर सिद्ध करें) — ये प्रमेय हर साल आता है। प्रूफ याद करो। Q18 में गुणनखंड या ऊँचाई एवं दूरी।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "दीर्घ उत्तर (Long Answer — Q21 to Q23)",
+        "question_number": "Q21 to Q23",
+        "section": "",
+        "marks_each": 4,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "4 मार्क्स each। इंटरनल OR चॉइस। स्टेप्स के साथ पूरा हल आवश्यक।",
+        "mostly_from": "Q21 = रैखिक समीकरण का उपयोग करके शब्द समस्या (भिन्न/अंक)। Q22 = दो-कोण ऊँचाई-दूरी समस्या। Q23 = सांख्यिकी (सारणी से बहुलक/माध्य)।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 45,
+      "medium_percent": 40,
+      "hard_percent": 15,
+      "note": ""
+    },
+    "sections": []
+  },
+  "marks_distribution": {
+    "total_theory": 80,
+    "total_practical": 0,
+    "internal_assessment": 20,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": []
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 80,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "15",
+      "name": "Total",
+      "marks": 75,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "2",
+        "name": "Polynomials",
+        "marks": 5
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Real Numbers",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "Polynomials",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "Pair Of Linear Equations",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "Quadratic Equations",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "Arithmetic Progressions",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "Triangles",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "Coordinate Geometry",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "name": "Introduction To Trigonometry",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "name": "Some Applications Of Trigonometry",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "10",
+        "name": "Circles",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "11",
+        "name": "Areas Related To Circles",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "name": "Surface Areas And Volumes",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "13",
+        "name": "Statistics",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "name": "Probability",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "15",
+        "name": "Total",
+        "marks": 75,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Mathematics Class 10 — 15 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Mathematics",
+        "category": "Main",
+        "total_marks": 150,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Real Numbers",
+            "marks": 6,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "Polynomials",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "Pair Of Linear Equations",
+            "marks": 7,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "Quadratic Equations",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "Arithmetic Progressions",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "Triangles",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "Coordinate Geometry",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "Introduction To Trigonometry",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "Some Applications Of Trigonometry",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "Circles",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "Areas Related To Circles",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "Surface Areas And Volumes",
+            "marks": 6,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "Statistics",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "14",
+            "name": "Probability",
+            "marks": 6,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "15",
+            "name": "Total",
+            "marks": 75,
+            "topics": [],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Real Numbers",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 1,
+      "unit_name": "Real Numbers",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Polynomials",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 2,
+      "unit_name": "Polynomials",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Pair Of Linear Equations",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 3,
+      "unit_name": "Pair Of Linear Equations",
+      "part": "",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Quadratic Equations",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 4,
+      "unit_name": "Quadratic Equations",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Arithmetic Progressions",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 5,
+      "unit_name": "Arithmetic Progressions",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Triangles",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 6,
+      "unit_name": "Triangles",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Coordinate Geometry",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 7,
+      "unit_name": "Coordinate Geometry",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Introduction To Trigonometry",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 8,
+      "unit_name": "Introduction To Trigonometry",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Some Applications Of Trigonometry",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 9,
+      "unit_name": "Some Applications Of Trigonometry",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Circles",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 10,
+      "unit_name": "Circles",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Areas Related To Circles",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 11,
+      "unit_name": "Areas Related To Circles",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "Surface Areas And Volumes",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 12,
+      "unit_name": "Surface Areas And Volumes",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "Statistics",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 13,
+      "unit_name": "Statistics",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "Probability",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 14,
+      "unit_name": "Probability",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 15,
+      "name": "Total",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 15,
+      "unit_name": "Total",
+      "part": "",
+      "weightage_marks": 75,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Mathematics Class 10 — 15 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Total"
+    ],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [
+      "Total (75 marks)"
+    ],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [],
+    "chapters_mostly_theory": [
+      "Real Numbers",
+      "Polynomials",
+      "Pair Of Linear Equations",
+      "Quadratic Equations",
+      "Arithmetic Progressions",
+      "Triangles",
+      "Coordinate Geometry",
+      "Introduction To Trigonometry",
+      "Some Applications Of Trigonometry",
+      "Circles",
+      "Areas Related To Circles",
+      "Surface Areas And Volumes",
+      "Statistics",
+      "Probability",
+      "Total"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "Real Numbers",
+      "Pair Of Linear Equations",
+      "Surface Areas And Volumes",
+      "Probability",
+      "Total"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "Real Numbers",
+      "Pair Of Linear Equations",
+      "Surface Areas And Volumes",
+      "Probability",
+      "Total"
+    ],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "Real Numbers",
+      "Polynomials",
+      "Pair Of Linear Equations",
+      "Quadratic Equations",
+      "Arithmetic Progressions",
+      "Triangles",
+      "Coordinate Geometry",
+      "Introduction To Trigonometry",
+      "Some Applications Of Trigonometry",
+      "Circles",
+      "Areas Related To Circles",
+      "Surface Areas And Volumes",
+      "Statistics",
+      "Probability",
+      "Total"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "important_formulas_quick_reference": {
+      "Real_Numbers": [
+        "HCF×LCM = a×b",
+        "प्रूफ: मान लो √p = a/b, दोनों तरफ वर्ग करो, विरोधाभास"
+      ],
+      "Polynomials": [
+        "α+β = -b/a",
+        "αβ = c/a",
+        "बहुपद = k[x²-(α+β)x+αβ]"
+      ],
+      "Linear_Equations": [
+        "अद्वितीय: a1/a2≠b1/b2",
+        "अनंत: a1/a2=b1/b2=c1/c2",
+        "कोई हल नहीं: a1/a2=b1/b2≠c1/c2"
+      ],
+      "Quadratic_Equations": [
+        "x=(-b±√(b²-4ac))/2a",
+        "D=b²-4ac",
+        "D>0: 2 वास्तविक, D=0: बराबर, D<0: कोई वास्तविक नहीं"
+      ],
+      "AP": [
+        "aₙ=a+(n-1)d",
+        "Sₙ=n/2[2a+(n-1)d]",
+        "Sₙ=n/2(a+l)"
+      ],
+      "Coordinate_Geometry": [
+        "d=√[(x₂-x₁)²+(y₂-y₁)²]",
+        "मध्यबिंदु=((x₁+x₂)/2,(y₁+y₂)/2)"
+      ],
+      "Trigonometry": [
+        "sin²A+cos²A=1",
+        "1+tan²A=sec²A",
+        "tanA=sinA/cosA"
+      ],
+      "Circles": [
+        "स्पर्श रेखा⊥त्रिज्या स्पर्श बिंदु पर",
+        "बाह्य बिंदु: PA=PB (बराबर स्पर्श रेखाएँ)"
+      ],
+      "Areas_Circles": [
+        "त्रिज्यखंड का क्षेत्रफल=(θ/360)πr²",
+        "चाप की लंबाई=(θ/360)×2πr"
+      ],
+      "Surface_Volumes": [
+        "शंकु: V=(1/3)πr²h, l=√(r²+h²)",
+        "गोलार्ध: V=(2/3)πr³, CSA=2πr², TSA=3πr²"
+      ],
+      "Statistics": [
+        "माध्य=Σfx/Σf",
+        "बहुलक=l+[(f₁-f₀)/(2f₁-f₀-f₂)]×h",
+        "वर्ग चिह्न=(L+U)/2"
+      ],
+      "Probability": [
+        "P(E)=अनुकूल/कुल",
+        "P(E)+P(Ē)=1",
+        "0≤P(E)≤1"
+      ]
+    },
+    "frequently_repeated_questions_across_years": [
+      {
+        "topic": "HCF of 6 और 20 = 2",
+        "type": "MCQ Q1",
+        "years": [
+          "2023",
+          "2025"
+        ]
+      },
+      {
+        "topic": "वास्तविक और बराबर मूल अगर b²-4ac=0",
+        "type": "MCQ Q1",
+        "years": [
+          "2023",
+          "2024",
+          "2025"
+        ]
+      },
+      {
+        "topic": "AP -3,-1/2,2... का 11वाँ पद = 22",
+        "type": "MCQ Q1",
+        "years": [
+          "2023",
+          "2024"
+        ]
+      },
+      {
+        "topic": "9sec²A - 9tan²A = 9",
+        "type": "मैच Q4",
+        "years": [
+          "2023",
+          "2024",
+          "2025"
+        ]
+      },
+      {
+        "topic": "P(E) + P(Ē) = 1",
+        "type": "फिल ब्लैंक Q2",
+        "years": [
+          "2023",
+          "2024",
+          "2025"
+        ]
+      },
+      {
+        "topic": "√2 अपरिमेय है",
+        "type": "फिल ब्लैंक Q2",
+        "years": [
+          "2023",
+          "2024",
+          "2025"
+        ]
+      },
+      {
+        "topic": "शंकु का आयतन = πr² → असत्य",
+        "type": "सत्य/असत्य Q3",
+        "years": [
+          "2023",
+          "2025"
+        ]
+      },
+      {
+        "topic": "समरूप त्रिभुजों के क्षेत्रफल हमेशा बराबर → असत्य",
+        "type": "सत्य/असत्य Q3",
+        "years": [
+          "2023",
+          "2025"
+        ]
+      },
+      {
+        "topic": "20-40 का वर्ग चिह्न = 30",
+        "type": "Q5",
+        "years": [
+          "2023",
+          "2025"
+        ]
+      },
+      {
+        "topic": "4u²+8u के शून्यक ज्ञात करें",
+        "type": "Q9 2 मार्क्स",
+        "years": [
+          "2023",
+          "2025"
+        ]
+      },
+      {
+        "topic": "सिद्ध करें कि बाह्य बिंदु से स्पर्श रेखाएँ बराबर हैं",
+        "type": "Q19 3 मार्क्स",
+        "years": [
+          "2023",
+          "2025"
+        ]
+      },
+      {
+        "topic": "BPT का कथन",
+        "type": "Q12/Q13 2 मार्क्स",
+        "years": [
+          "2023",
+          "2025"
+        ]
+      },
+      {
+        "topic": "सांख्यिकी: सारणी से कल्पित माध्य से बहुलक / माध्य",
+        "type": "Q23 4 मार्क्स",
+        "years": [
+          "2023",
+          "2024",
+          "2025"
+        ]
+      },
+      {
+        "topic": "ऊँचाई एवं दूरी — मीनार की ऊँचाई समस्या",
+        "type": "Q18/Q22 3-4 मार्क्स",
+        "years": [
+          "2023",
+          "2024",
+          "2025"
+        ]
+      },
+      {
+        "topic": "पृष्ठीय क्षेत्रफल/आयतन — ठोसों का संयोजन",
+        "type": "Q20/Q22/Q23 3-4 मार्क्स",
+        "years": [
+          "2023",
+          "2024",
+          "2025"
+        ]
+      },
+      {
+        "topic": "रैखिक समीकरण युग्म हल करें (शब्द समस्या या सीधा)",
+        "type": "Q21/Q22 4 मार्क्स",
+        "years": [
+          "2023",
+          "2024",
+          "2025"
+        ]
+      }
+    ]
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Mathematics.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Formulas for Mathematics Class 10.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "",
+        "chapter_name": "Real Numbers",
+        "formulas": [
+          "HCF×LCM = a×b",
+          "प्रूफ: मान लो √p = a/b, दोनों तरफ वर्ग करो, विरोधाभास"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Polynomials",
+        "formulas": [
+          "α+β = -b/a",
+          "αβ = c/a",
+          "बहुपद = k[x²-(α+β)x+αβ]"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Linear Equations",
+        "formulas": [
+          "अद्वितीय: a1/a2≠b1/b2",
+          "अनंत: a1/a2=b1/b2=c1/c2",
+          "कोई हल नहीं: a1/a2=b1/b2≠c1/c2"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Quadratic Equations",
+        "formulas": [
+          "x=(-b±√(b²-4ac))/2a",
+          "D=b²-4ac",
+          "D>0: 2 वास्तविक, D=0: बराबर, D<0: कोई वास्तविक नहीं"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Ap",
+        "formulas": [
+          "aₙ=a+(n-1)d",
+          "Sₙ=n/2[2a+(n-1)d]",
+          "Sₙ=n/2(a+l)"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Coordinate Geometry",
+        "formulas": [
+          "d=√[(x₂-x₁)²+(y₂-y₁)²]",
+          "मध्यबिंदु=((x₁+x₂)/2,(y₁+y₂)/2)"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Trigonometry",
+        "formulas": [
+          "sin²A+cos²A=1",
+          "1+tan²A=sec²A",
+          "tanA=sinA/cosA"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Circles",
+        "formulas": [
+          "स्पर्श रेखा⊥त्रिज्या स्पर्श बिंदु पर",
+          "बाह्य बिंदु: PA=PB (बराबर स्पर्श रेखाएँ)"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Areas Circles",
+        "formulas": [
+          "त्रिज्यखंड का क्षेत्रफल=(θ/360)πr²",
+          "चाप की लंबाई=(θ/360)×2πr"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Surface Volumes",
+        "formulas": [
+          "शंकु: V=(1/3)πr²h, l=√(r²+h²)",
+          "गोलार्ध: V=(2/3)πr³, CSA=2πr², TSA=3πr²"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Statistics",
+        "formulas": [
+          "माध्य=Σfx/Σf",
+          "बहुलक=l+[(f₁-f₀)/(2f₁-f₀-f₂)]×h",
+          "वर्ग चिह्न=(L+U)/2"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Probability",
+        "formulas": [
+          "P(E)=अनुकूल/कुल",
+          "P(E)+P(Ē)=1",
+          "0≤P(E)≤1"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Mathematics.",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Mathematics.",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Mathematics Class 10 — no practical exam.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 45,
+    "medium_percent": 40,
+    "hard_percent": 15,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Q1-Q5 में 30 मार्क्स हैं — एमपीबीएसई गणित का ऑब्जेक्टिव सेक्शन स्कोरिंग है। बेसिक फॉर्मूला पक्के याद करो।",
+      "4u²+8u के शून्यक एग्ज़ैक्ट सेम क्वेश्चन 2023 और 2025 में आया — आंसर = 0 और -2।",
+      "बाह्य बिंदु से स्पर्श रेखाएँ बराबर सिद्ध करें = Q19 में हर साल आता है। प्रूफ 5 स्टेप्स में पक्का कर लो।",
+      "शंकु का आयतन = (1/3)πr²h, गोलार्ध = (2/3)πr³ — ये सत्य/असत्य में गलत दिया जाता है। ध्यान रखो।",
+      "9sec²A - 9tan²A = 9 — मैच पेयर्स में गारंटीड। सर्वसमिका: sec²A-tan²A=1, तो 9(1)=9।",
+      "सांख्यिकी Q23 में EITHER बहुलक या कल्पित माध्य से माध्य आता है — दोनों का फॉर्मूला याद करो।",
+      "ऊँचाई एवं दूरी Q18/Q22 में डायग्राम पहले बनाओ। tan(कोण) = ऊँचाई/आधार उपयोग करो।",
+      "20-40 का वर्ग चिह्न = 30 — Q5 में गारंटीड।",
+      "P(E) + P(Ē) = 1 — फिल ब्लैंक में गारंटीड।",
+      "मानक रूप ax²+bx+c=0 — MCQ में गारंटीड।",
+      "OR ऑप्शन्स में से पहले दोनों पढ़के आसान वाला चूज़ करो।",
+      "वर्किंग (स्टेप्स) दिखाना ज़रूरी है — सिर्फ आंसर लिखा तो मार्क्स नहीं मिलेंगे।"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "Q1_to_Q5_objective",
+        "recommended_minutes": 0,
+        "note": "30 मिनट — सब फॉर्मूला याद हों तो 28-30 मार्क्स पक्के।"
+      },
+      {
+        "section_id": "Q6_to_Q17_very_short",
+        "recommended_minutes": 0,
+        "note": "40 मिनट — 3 मिनट पर क्वेश्चन। वर्किंग दिखाओ। OR ऑप्शन में ईज़ियर वाला चूज़ करो।"
+      },
+      {
+        "section_id": "Q18_to_Q20_short",
+        "recommended_minutes": 0,
+        "note": "20 मिनट — 6-7 मिनट पर क्वेश्चन। प्रूफ याद करो (Q19)।"
+      },
+      {
+        "section_id": "Q21_to_Q23_long",
+        "recommended_minutes": 0,
+        "note": "30 मिनट — 10 मिनट each। शब्द समस्या स्टेप-बाय-स्टेप, डायग्राम बनाओ (Q22), सारणी विधि (Q23)।"
+      },
+      {
+        "section_id": "revision",
+        "recommended_minutes": 0,
+        "note": "10 मिनट — फॉर्मूला चेक, सेट नंबर, रोल नंबर वेरीफाई"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [
+      "Total (75 marks)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 20,
+    "note": "20 मार्क्स स्कूल लेवल पर दिए जाते हैं। बोर्ड एग्ज़ाम में नहीं होते।",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "गणित क्लास 10",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": ""
+      },
+      {
+        "name": "परीक्षा अध्ययन गणित क्लास 10",
+        "author": "",
+        "publisher": "नवबोध / परीक्षा अध्ययन",
+        "purpose": "Supplementary",
+        "note": ""
+      },
+      {
+        "name": "प्रीवियस ईयर क्वेश्चन पेपर्स 2023-2025",
+        "author": "",
+        "publisher": "एमपीबीएसई",
+        "purpose": "Supplementary",
+        "note": ""
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "mpbse.nic.in",
+    "extra_time_given": false,
+    "extra_time_note": ""
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed: ['ब्लू', 'ब्लैक'] pencil_use: सिर्फ रफ वर्क और डायग्राम के लिए"
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

@@ -1,0 +1,1698 @@
+{
+  "board": "RBSE",
+  "class": "12",
+  "subject": "Chemistry",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 56,
+    "practical_paper": 30,
+    "internal_assessment": 14,
+    "total": 100,
+    "passing_marks_theory": 20,
+    "passing_marks_practical": 10,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": true,
+    "extra_time_note": "Haan — 15 minute reading time milta hai. Is time mein paper padho, OR options mein se kaunsa attempt karoge decide karo.",
+    "internal_assessment_note": "Theory mein 56 mein se kam se kam 20 aur practical mein 30 mein se 10 marks laane zaroori hain. Dono mein alag-alag pass karna hoga."
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 52,
+    "total_questions_to_attempt": 52,
+    "total_objective_questions": 37,
+    "total_sets": 0,
+    "sets_note": "RBSE mein multiple sets hote hain. Har set mein same questions, sirf order alag.",
+    "sets_same_or_different": "",
+    "language_of_attempt": "Hindi ya English dono allowed. Mixed bhi chalega.",
+    "all_compulsory_note": "Section C (Long Answer) aur Section D (Essay) mein internal choice (OR option) milta hai.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "RBSE Chemistry ka syllabus NCERT par based hai. NCERT ke examples aur exercises sab solve karo. SP Examination Idea Chemistry (Science Publications, Jaipur) bhi zaroori hai.",
+    "official_scheme_note": "Organic Chemistry (Ch 6, 7, 8, 9) = 24 marks out of 56. Conversions aur named reactions hamesha aate hain — zaroor prepare karo. Section D ka 4-mark essay question Aldehydes, Ketones and Carboxylic Acids (Ch 8) se aata hai — RBSE blueprint confirmed.",
+    "reference_books_note": "",
+    "prescribed_textbooks": [
+      "NCERT Chemistry Part I",
+      "NCERT Chemistry Part II"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "RBSE Class 12 Chemistry mein 6 types ke questions: MCQ (0.5), Fill Blank (0.5), VSA (1), Short (1.5), Long (3), Essay (4). Total = 56 marks.",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (Multiple Choice)",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 0.5,
+        "total_in_paper": 18,
+        "attempt": 18,
+        "negative_marking": false,
+        "how_to_attempt": "Sirf correct option (a)/(b)/(c)/(d) likhna hai. No explanation. 0.5 mark ke liye time waste mat karo.",
+        "mostly_from": "IUPAC names, definitions, formulas, reaction types, electrode reactions, rate law, coordination compound nomenclature, organic compound identification.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Fill in the Blanks",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 0.5,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "One word/formula/chemical name/value likhna hai. IUPAC names, constants (Kc, Ea), reagent names.",
+        "mostly_from": "Chemical formulas, IUPAC names, constants, specific reagents (Lucas reagent, Fehling's solution etc.).",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Very Short Answer (VSA)",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 9,
+        "attempt": 9,
+        "negative_marking": false,
+        "how_to_attempt": "Definition, formula, or 1-2 sentence answer. Equation likhna bhi acceptable.",
+        "mostly_from": "Definitions (Molarity, EMF, rate of reaction), conditions (SN1/SN2), identify reagent, write reaction product.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "1-2 lines",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer",
+        "question_number": "",
+        "section": "B",
+        "marks_each": 1.5,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "Concept + example + reaction/equation. 1.5 marks = definition/concept (0.5) + equation/formula/example (1).",
+        "mostly_from": "All 10 chapters — short derivations, numericals (1-2 steps), named reactions, mechanism (small), comparison questions.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "40-60 words / 4-6 lines",
+        "notes": ""
+      },
+      {
+        "type": "Long Answer",
+        "question_number": "",
+        "section": "C",
+        "marks_each": 3,
+        "total_in_paper": 3,
+        "attempt": 3,
+        "negative_marking": false,
+        "how_to_attempt": "Full explanation with equations/mechanism/structure. 3 marks = concept (1) + equations/steps (1.5) + result/conclusion (0.5).",
+        "mostly_from": "Standard derivations — Nernst equation, integrated rate law, reaction mechanisms, named reaction with mechanism, coordination compound isomerism.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "100-150 words",
+        "notes": ""
+      },
+      {
+        "type": "Essay / Very Long Answer",
+        "question_number": "",
+        "section": "D",
+        "marks_each": 4,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Complete topic explanation with all reactions, mechanisms, structures. 4 marks = introduction (0.5) + reactions/mechanism (2.5) + conclusion/application (1).",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "150-200 words",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "RBSE Chemistry theory paper = 56 marks. 4 sections. ~52 questions. Duration: 3 hours 15 minutes (15 min reading time extra).",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Section C (Long Answer) aur Section D (Essay) mein internal choice (OR option) milta hai.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 35,
+      "medium_percent": 45,
+      "hard_percent": 20,
+      "note": "Organic chemistry (Ch 6-9) Section C aur D mein thodi mushkil hoti hai. Physical chemistry (Ch 1-3) mein numericals scoring hain."
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Objective (MCQ + Fill Blanks + Very Short Answer)",
+        "type": "MCQ (18) + Fill Blanks (10) + VSA (9)",
+        "question_numbers": "",
+        "total_questions": 37,
+        "total_sub_questions": 0,
+        "attempt_required": 37,
+        "marks_per_question": 0,
+        "total_marks": 23,
+        "word_limit": "",
+        "breakdown": "Sare 37 attempt karo. No negative marking. MCQ and fill blank = 0.5 — sirf option/word likhna hai.",
+        "notes": "Sare 37 attempt karo. No negative marking. MCQ and fill blank = 0.5 — sirf option/word likhna hai."
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Short Answer",
+        "type": "Short Answer",
+        "question_numbers": "",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 1.5,
+        "total_marks": 15,
+        "word_limit": "",
+        "breakdown": "Sare 10 compulsory. Concept + equation/reaction + conclusion. 4-5 lines per answer.",
+        "notes": "Sare 10 compulsory. Concept + equation/reaction + conclusion. 4-5 lines per answer."
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Long Answer",
+        "type": "Long Answer",
+        "question_numbers": "",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "attempt_required": 3,
+        "marks_per_question": 3,
+        "total_marks": 9,
+        "word_limit": "",
+        "breakdown": "3 questions with OR choice. Mechanism/reaction steps clearly likhna zaroori. Structures draw karo organic mein.",
+        "notes": "3 questions with OR choice. Mechanism/reaction steps clearly likhna zaroori. Structures draw karo organic mein."
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Essay / Very Long Answer",
+        "type": "Essay",
+        "question_numbers": "",
+        "total_questions": 1,
+        "total_sub_questions": 0,
+        "attempt_required": 1,
+        "marks_per_question": 4,
+        "total_marks": 4,
+        "word_limit": "",
+        "breakdown": "1 essay question with OR choice. Almost always from Ch 8 (Aldehydes/Ketones/Carboxylic Acids). Full mechanism required.",
+        "notes": "1 essay question with OR choice. Almost always from Ch 8 (Aldehydes/Ketones/Carboxylic Acids). Full mechanism required."
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 56,
+    "total_practical": 30,
+    "internal_assessment": 14,
+    "grand_total": 100,
+    "marks_summary_note": "A(23) + B(15) + C(9) + D(4) = ~51 theory + 30 practical + 14 sessional = 100 (exact breakup varies)",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Objective (MCQ + Fill Blanks + Very Short Answer)",
+        "question_numbers": "",
+        "type": "MCQ (18) + Fill Blanks (10) + VSA (9)",
+        "total_questions": 37,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 23,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Short Answer",
+        "question_numbers": "",
+        "type": "Short Answer",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 1.5,
+        "total_marks": 15,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Long Answer",
+        "question_numbers": "",
+        "type": "Long Answer",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 9,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Essay / Very Long Answer",
+        "question_numbers": "",
+        "type": "Essay",
+        "total_questions": 1,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 4,
+        "word_limit": "",
+        "breakdown": "Ch 8 — Aldehydes, Ketones and Carboxylic Acids (RBSE blueprint confirmed)"
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "RBSE Chemistry chapter-wise blueprint (10 chapters).",
+    "total_theory_marks": 56,
+    "objective_percent": 41,
+    "subjective_percent": 59,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "8",
+      "name": "Aldehydes, Ketones and Carboxylic Acids",
+      "marks": 7,
+      "note": "Highest-weightage chapter — Section D essay source."
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "10",
+        "name": "Biomolecules",
+        "marks": 4
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Solutions",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "Electrochemistry",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "Chemical Kinetics",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "d and f Block Elements",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "Coordination Compounds",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "Haloalkanes and Haloarenes",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "Alcohols, Phenols and Ethers",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "name": "Aldehydes, Ketones and Carboxylic Acids",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "name": "Amines",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "10",
+        "name": "Biomolecules",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 56,
+      "one_mark_questions": 28,
+      "two_mark_total": 15,
+      "three_mark_total": 9,
+      "four_mark_total": 4,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "RBSE Chemistry Class 12 — 10 chapters, NCERT-aligned.",
+    "books": [
+      {
+        "book_name": "NCERT Chemistry Part I & Part II",
+        "category": "chapter",
+        "total_marks": 56,
+        "note": "RBSE syllabus NCERT-based. Organic chemistry (Ch 6-9) = 24 marks (43%).",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Solutions",
+            "marks": 6,
+            "topics": [
+              "Concentration terms — Molarity (M), Molality (m), Normality (N), Mole fraction, ppm",
+              "Solubility — Henry's law, effect of temperature",
+              "Raoult's law — ideal and non-ideal solutions",
+              "Colligative properties — Relative lowering of VP, Elevation of BP, Depression of FP, Osmotic pressure",
+              "Van't Hoff factor (i) — for electrolytes",
+              "Abnormal molar mass — association and dissociation"
+            ],
+            "note": "Difficulty: Medium"
+          },
+          {
+            "chapter_id": "2",
+            "name": "Electrochemistry",
+            "marks": 6,
+            "topics": [
+              "Electrochemical cells — Galvanic vs Electrolytic",
+              "Standard electrode potential",
+              "Nernst equation — cell potential",
+              "Gibbs energy and cell potential: ΔG° = -nFE°",
+              "Conductance — specific, molar, equivalent",
+              "Kohlrausch's law",
+              "Electrolysis — Faraday's laws",
+              "Batteries — dry cell, lead storage, H2-O2 fuel cell",
+              "Corrosion"
+            ],
+            "note": "Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "3",
+            "name": "Chemical Kinetics",
+            "marks": 6,
+            "topics": [
+              "Rate of reaction, rate law, order of reaction",
+              "Rate constant — units for different orders",
+              "Integrated rate equations — zero order, first order",
+              "Half-life — first order: t½ = 0.693/k",
+              "Temperature dependence — Arrhenius equation",
+              "Activation energy",
+              "Collision theory — basics",
+              "Molecularity vs order of reaction"
+            ],
+            "note": "Difficulty: Medium"
+          },
+          {
+            "chapter_id": "4",
+            "name": "d and f Block Elements",
+            "marks": 5,
+            "topics": [
+              "d-block: general properties — variable oxidation states, colour, magnetic properties, catalytic activity",
+              "Important compounds of Cr: K2Cr2O7, KMnO4",
+              "Preparation and properties of K2Cr2O7 and KMnO4",
+              "Oxidising action of KMnO4 in acidic, basic, neutral medium",
+              "f-block: lanthanoids and actinoids — electronic configuration, lanthanoid contraction",
+              "Interhalogen compounds (brief)"
+            ],
+            "note": "Difficulty: Medium"
+          },
+          {
+            "chapter_id": "5",
+            "name": "Coordination Compounds",
+            "marks": 5,
+            "topics": [
+              "IUPAC nomenclature of coordination compounds",
+              "Werner's theory",
+              "VBT (Valence Bond Theory) — inner and outer orbital complexes",
+              "Crystal Field Theory (CFT) — splitting, Δo",
+              "Isomerism — structural (ionisation, linkage, coordination, solvate) and stereo (geometric, optical)",
+              "Stability of complexes",
+              "EAN rule"
+            ],
+            "note": "Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "6",
+            "name": "Haloalkanes and Haloarenes",
+            "marks": 6,
+            "topics": [
+              "IUPAC naming of haloalkanes",
+              "Preparation methods — from alcohols, alkenes, alkanes",
+              "SN1 and SN2 reactions — mechanism, conditions, stereochemistry",
+              "Reactions — elimination (E1, E2), Grignard reagent formation",
+              "Haloarenes — reactivity difference vs haloalkanes",
+              "Named reactions: Fittig, Wurtz-Fittig, Sandmeyer, Gattermann",
+              "Freon, DDT — uses and environmental effects",
+              "Nucleophilic substitution — racemisation, inversion (Walden inversion)"
+            ],
+            "note": "Difficulty: Medium"
+          },
+          {
+            "chapter_id": "7",
+            "name": "Alcohols, Phenols and Ethers",
+            "marks": 6,
+            "topics": [
+              "IUPAC naming",
+              "Preparation of alcohols — from haloalkanes, alkenes (hydration), Grignard reagent",
+              "Chemical properties — esterification, dehydration, oxidation",
+              "Lucas test, Victor Meyer test",
+              "Preparation of phenol — from benzene sulphonic acid, Dow's process, cumene",
+              "Acidity of phenol vs alcohol",
+              "Ethers — Williamson synthesis",
+              "Kolbe's reaction, Reimer-Tiemann reaction"
+            ],
+            "note": "Difficulty: Medium"
+          },
+          {
+            "chapter_id": "8",
+            "name": "Aldehydes, Ketones and Carboxylic Acids",
+            "marks": 7,
+            "topics": [
+              "IUPAC naming of aldehydes, ketones, carboxylic acids",
+              "Preparation — from alcohols (oxidation), ozonolysis, Rosenmund reduction",
+              "Nucleophilic addition reactions of aldehydes and ketones",
+              "Distinction tests — Tollens', Fehling's, Benedict's test",
+              "Aldol condensation",
+              "Cannizzaro reaction",
+              "Chemical properties of carboxylic acids — esterification, decarboxylation, Hell-Volhard-Zelinsky",
+              "Reactions of carboxylic acids — acyl chloride, anhydride, ester, amide formation"
+            ],
+            "note": "Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "9",
+            "name": "Amines",
+            "marks": 5,
+            "topics": [
+              "Classification — primary, secondary, tertiary amines",
+              "IUPAC naming",
+              "Preparation — reduction of nitro compounds, nitriles, amides",
+              "Gabriel phthalimide synthesis",
+              "Hofmann bromamide reaction",
+              "Chemical properties — basic strength order, acylation, alkylation",
+              "Diazonium salts — preparation and reactions (Sandmeyer, Gattermann, coupling)",
+              "Basic strength comparison — aliphatic vs aromatic amines"
+            ],
+            "note": "Difficulty: Medium"
+          },
+          {
+            "chapter_id": "10",
+            "name": "Biomolecules",
+            "marks": 4,
+            "topics": [
+              "Carbohydrates — classification (mono, oligo, poly), reducing vs non-reducing sugars",
+              "Glucose — structure, open chain and ring (Haworth), reactions",
+              "Starch vs cellulose",
+              "Proteins — amino acids, peptide bond, primary/secondary/tertiary/quaternary structure",
+              "Enzymes — lock and key theory",
+              "Nucleic acids — DNA vs RNA structure, bases",
+              "Vitamins — fat soluble and water soluble",
+              "Hormones — types"
+            ],
+            "note": "Difficulty: Easy"
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Solutions",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Chemistry Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Solutions",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Numericals scoring hain",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Concentration terms — Molarity (M), Molality (m), Normality (N), Mole fraction, ppm",
+        "Solubility — Henry's law, effect of temperature",
+        "Raoult's law — ideal and non-ideal solutions",
+        "Colligative properties — Relative lowering of VP, Elevation of BP, Depression of FP, Osmotic pressure",
+        "Van't Hoff factor (i) — for electrolytes",
+        "Abnormal molar mass — association and dissociation"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "M = (WA/MA) × (1000/V_ml)",
+        "ΔTb = Kb × m (Elevation in BP)",
+        "ΔTf = Kf × m (Depression in FP)",
+        "π = iCRT (Osmotic pressure)",
+        "i = 1 + α(n-1) (Van't Hoff factor)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Numerical on colligative properties (short/long), Raoult's law (short), Henry's law (VSA/MCQ), Van't Hoff factor (short numerical)",
+      "numerical_heavy": true,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Electrochemistry",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Chemistry Part I & Part II",
+      "unit_id": 2,
+      "unit_name": "Electrochemistry",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "Nernst equation difficult but scoring",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Electrochemical cells — Galvanic vs Electrolytic",
+        "Standard electrode potential",
+        "Nernst equation — cell potential",
+        "Gibbs energy and cell potential: ΔG° = -nFE°",
+        "Conductance — specific, molar, equivalent",
+        "Kohlrausch's law",
+        "Electrolysis — Faraday's laws",
+        "Batteries — dry cell, lead storage, H2-O2 fuel cell",
+        "Corrosion"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "E_cell = E°_cell - (RT/nF)lnQ  (Nernst equation)",
+        "ΔG° = -nFE°",
+        "Λm = κ × 1000/M (Molar conductance)",
+        "W = (M × I × t)/(n × F)  (Faraday's law)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Nernst equation derivation (long), Faraday's law numerical (short), Kohlrausch's law (VSA/short), cell potential numerical (short)",
+      "numerical_heavy": true,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Chemical Kinetics",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Chemistry Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "Chemical Kinetics",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Rate numericals aasaan hain",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Rate of reaction, rate law, order of reaction",
+        "Rate constant — units for different orders",
+        "Integrated rate equations — zero order, first order",
+        "Half-life — first order: t½ = 0.693/k",
+        "Temperature dependence — Arrhenius equation",
+        "Activation energy",
+        "Collision theory — basics",
+        "Molecularity vs order of reaction"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Rate = k[A]^m[B]^n",
+        "First order: k = (2.303/t) log(A₀/At)",
+        "t½ = 0.693/k (first order only)",
+        "k = A·e^(-Ea/RT) (Arrhenius equation)",
+        "log(k2/k1) = (Ea/2.303R)(1/T1 - 1/T2)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "First order integrated rate equation (long), Arrhenius equation (short/long), half-life numerical (short), rate law writing (MCQ/VSA)",
+      "numerical_heavy": true,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "d and f Block Elements",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Chemistry Part I & Part II",
+      "unit_id": 4,
+      "unit_name": "d and f Block Elements",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Mostly theory — easy scoring",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": true,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "d-block: general properties — variable oxidation states, colour, magnetic properties, catalytic activity",
+        "Important compounds of Cr: K2Cr2O7, KMnO4",
+        "Preparation and properties of K2Cr2O7 and KMnO4",
+        "Oxidising action of KMnO4 in acidic, basic, neutral medium",
+        "f-block: lanthanoids and actinoids — electronic configuration, lanthanoid contraction",
+        "Interhalogen compounds (brief)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "K2Cr2O7 or KMnO4 preparation + properties (long answer), d-block properties table (short/MCQ), lanthanoid contraction (VSA/short)",
+      "numerical_heavy": false,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Coordination Compounds",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Chemistry Part I & Part II",
+      "unit_id": 5,
+      "unit_name": "Coordination Compounds",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "IUPAC naming complex",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "IUPAC naming practice is essential — always asked in MCQ and fill blanks.",
+      "important_topics": [
+        "IUPAC nomenclature of coordination compounds",
+        "Werner's theory",
+        "VBT (Valence Bond Theory) — inner and outer orbital complexes",
+        "Crystal Field Theory (CFT) — splitting, Δo",
+        "Isomerism — structural (ionisation, linkage, coordination, solvate) and stereo (geometric, optical)",
+        "Stability of complexes",
+        "EAN rule"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "IUPAC naming and formula writing (short/VSA), geometric/optical isomerism (short/long), VBT explanation (short), magnetic moment (MCQ/VSA)",
+      "numerical_heavy": false,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Haloalkanes and Haloarenes",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Chemistry Part I & Part II",
+      "unit_id": 6,
+      "unit_name": "Haloalkanes and Haloarenes",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Mechanisms medium",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "IUPAC naming of haloalkanes",
+        "Preparation methods — from alcohols, alkenes, alkanes",
+        "SN1 and SN2 reactions — mechanism, conditions, stereochemistry",
+        "Reactions — elimination (E1, E2), Grignard reagent formation",
+        "Haloarenes — reactivity difference vs haloalkanes",
+        "Named reactions: Fittig, Wurtz-Fittig, Sandmeyer, Gattermann",
+        "Freon, DDT — uses and environmental effects",
+        "Nucleophilic substitution — racemisation, inversion (Walden inversion)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "SN1 vs SN2 mechanism (long), Wurtz reaction (short/VSA), preparation of haloalkane from alcohol (short), DDT and environmental effects (VSA/MCQ)",
+      "numerical_heavy": false,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Alcohols, Phenols and Ethers",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Chemistry Part I & Part II",
+      "unit_id": 7,
+      "unit_name": "Alcohols, Phenols and Ethers",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Named reactions scoring",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "IUPAC naming",
+        "Preparation of alcohols — from haloalkanes, alkenes (hydration), Grignard reagent",
+        "Chemical properties — esterification, dehydration, oxidation",
+        "Lucas test, Victor Meyer test",
+        "Preparation of phenol — from benzene sulphonic acid, Dow's process, cumene",
+        "Acidity of phenol vs alcohol",
+        "Ethers — Williamson synthesis",
+        "Kolbe's reaction, Reimer-Tiemann reaction"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Preparation of phenol (long), Lucas test (short/VSA), Williamson synthesis (short), acidity comparison alcohol vs phenol (short), Reimer-Tiemann (VSA)",
+      "numerical_heavy": false,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Aldehydes, Ketones and Carboxylic Acids",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Chemistry Part I & Part II",
+      "unit_id": 8,
+      "unit_name": "Aldehydes, Ketones and Carboxylic Acids",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "Highest marks + essay source",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "Section D (4-mark essay) almost certainly comes from this chapter — RBSE blueprint confirmed.",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "IUPAC naming of aldehydes, ketones, carboxylic acids",
+        "Preparation — from alcohols (oxidation), ozonolysis, Rosenmund reduction",
+        "Nucleophilic addition reactions of aldehydes and ketones",
+        "Distinction tests — Tollens', Fehling's, Benedict's test",
+        "Aldol condensation",
+        "Cannizzaro reaction",
+        "Chemical properties of carboxylic acids — esterification, decarboxylation, Hell-Volhard-Zelinsky",
+        "Reactions of carboxylic acids — acyl chloride, anhydride, ester, amide formation"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [
+        "Aldol condensation — with mechanism",
+        "Cannizzaro reaction",
+        "Rosenmund reduction",
+        "Clemmensen reduction",
+        "Wolf-Kishner reduction",
+        "Hell-Volhard-Zelinsky reaction",
+        "Tollens' test (Silver mirror test)",
+        "Fehling's test"
+      ],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Nucleophilic addition mechanism (long/essay), Aldol condensation (long/short), Cannizzaro reaction (short), Tollens' vs Fehling's test distinction (short), preparation of aldehyde/ketone (short)",
+      "numerical_heavy": false,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Amines",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Chemistry Part I & Part II",
+      "unit_id": 9,
+      "unit_name": "Amines",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Basic strength logic important",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Classification — primary, secondary, tertiary amines",
+        "IUPAC naming",
+        "Preparation — reduction of nitro compounds, nitriles, amides",
+        "Gabriel phthalimide synthesis",
+        "Hofmann bromamide reaction",
+        "Chemical properties — basic strength order, acylation, alkylation",
+        "Diazonium salts — preparation and reactions (Sandmeyer, Gattermann, coupling)",
+        "Basic strength comparison — aliphatic vs aromatic amines"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Basic strength order with explanation (short/long), Gabriel synthesis (short), Hoffmann bromamide reaction (short/VSA), diazonium salt reactions (short), Sandmeyer reaction (VSA)",
+      "numerical_heavy": false,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Biomolecules",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Chemistry Part I & Part II",
+      "unit_id": 10,
+      "unit_name": "Biomolecules",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "Pure theory — easy MCQs",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": true,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Carbohydrates — classification (mono, oligo, poly), reducing vs non-reducing sugars",
+        "Glucose — structure, open chain and ring (Haworth), reactions",
+        "Starch vs cellulose",
+        "Proteins — amino acids, peptide bond, primary/secondary/tertiary/quaternary structure",
+        "Enzymes — lock and key theory",
+        "Nucleic acids — DNA vs RNA structure, bases",
+        "Vitamins — fat soluble and water soluble",
+        "Hormones — types"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Reducing vs non-reducing sugar (MCQ/short), glucose ring structure (short/VSA), DNA vs RNA differences (short), protein structure levels (VSA), amino acid definition (VSA)",
+      "numerical_heavy": false,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Organic chemistry = almost half the paper. Conversions, named reactions, mechanisms — ye section D aur C mein directly aate hain. Organic Chemistry total: Ch 6 + Ch 7 + Ch 8 + Ch 9 = 6+6+7+5 = 24 marks out of 56 (43%)",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "Each unit covered by blueprint.",
+    "or_questions_note": "Internal OR choice in Section C and Section D.",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Ch 8 - Aldehydes, Ketones and Carboxylic Acids",
+      "Ch 2 - Electrochemistry",
+      "Ch 3 - Chemical Kinetics",
+      "Ch 1 - Solutions",
+      "Ch 6 - Haloalkanes and Haloarenes",
+      "Ch 7 - Alcohols, Phenols and Ethers"
+    ],
+    "chapters_never_skip_reason": "Ch 8 — Aldehydes, Ketones and Carboxylic Acids (7 marks) | Ch 8 — Aldehydes, Ketones and Carboxylic Acids (RBSE blueprint confirmed)",
+    "chapters_with_highest_weightage": [
+      "Ch 8 — Aldehydes, Ketones and Carboxylic Acids (7 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "Ch 10 - Biomolecules (4 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "Ch 8 — Aldehydes, Ketones and Carboxylic Acids (RBSE blueprint confirmed)",
+      "Ch 8 - Aldehydes, Ketones and Carboxylic Acids",
+      "Ch 2 - Electrochemistry",
+      "Ch 3 - Chemical Kinetics",
+      "Ch 1 - Solutions",
+      "Ch 6 - Haloalkanes and Haloarenes",
+      "Ch 7 - Alcohols, Phenols and Ethers"
+    ],
+    "chapters_mostly_theory": [
+      "Ch 4 - d and f Block Elements",
+      "Ch 5 - Coordination Compounds",
+      "Ch 6 - Haloalkanes and Haloarenes",
+      "Ch 7 - Alcohols, Phenols and Ethers",
+      "Ch 8 - Aldehydes, Ketones and Carboxylic Acids",
+      "Ch 9 - Amines"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [
+      "Ch 5 - Coordination Compounds",
+      "Ch 4 - d and f Block Elements",
+      "Ch 10 - Biomolecules",
+      "Ch 3 - Chemical Kinetics",
+      "Ch 2 - Electrochemistry"
+    ],
+    "chapters_with_long_answer": [
+      "Ch 8 - Aldehydes/Ketones/Carboxylic Acids (essay source)"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "Ch 8 - Aldehydes/Ketones/Carboxylic Acids"
+    ],
+    "chapters_with_numerical": [
+      "Ch 1 - Solutions",
+      "Ch 2 - Electrochemistry",
+      "Ch 3 - Chemical Kinetics"
+    ],
+    "chapters_guaranteed_numerical": [
+      "Ch 1 - Solutions",
+      "Ch 2 - Electrochemistry",
+      "Ch 3 - Chemical Kinetics"
+    ],
+    "chapters_no_numerical": [
+      "Ch 4 - d and f Block Elements",
+      "Ch 5 - Coordination Compounds",
+      "Ch 6 - Haloalkanes and Haloarenes",
+      "Ch 7 - Alcohols, Phenols and Ethers",
+      "Ch 8 - Aldehydes, Ketones and Carboxylic Acids",
+      "Ch 9 - Amines"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Colligative properties numerical (Kf, Kb, osmotic pressure) (Section B or C, 1.5-3 marks)",
+      "Nernst equation — derivation or numerical (Section C, 3 marks)",
+      "Faraday's law numerical (Section B, 1.5 marks)",
+      "First order rate constant numerical (Section B or C, 1.5-3 marks)",
+      "Arrhenius equation — Ea calculation (Section B or C, 1.5-3 marks)",
+      "K2Cr2O7 or KMnO4 oxidising properties (Section B or C, 1.5-3 marks)",
+      "IUPAC naming of coordination compounds (Section A/B, 0.5-1.5 marks)",
+      "SN1 vs SN2 mechanism (Section C, 3 marks)",
+      "Nucleophilic addition to aldehyde/ketone (Section C or D, 3-4 marks)",
+      "Aldol condensation with mechanism (Section C or D, 3-4 marks)",
+      "Basic strength of amines comparison (Section B, 1.5 marks)",
+      "Reducing vs non-reducing sugars (Section A/B, 0.5-1.5 marks)",
+      "Named reactions — Sandmeyer, Rosenmund, Clemmensen, Wolf-Kishner (Section A/B, 0.5-1.5 marks)"
+    ],
+    "one_mark_question_facts": {
+      "note": "MCQ + Fill Blank = 0.5 mark each. VSA = 1 mark. No negative marking.",
+      "common_formats": []
+    },
+    "essay_question_D_from": "Ch 8 — Aldehydes, Ketones and Carboxylic Acids (RBSE blueprint confirmed)",
+    "organic_chemistry_total": "Ch 6 + Ch 7 + Ch 8 + Ch 9 = 6+6+7+5 = 24 marks out of 56 (43%)"
+  },
+  "important_diagrams_masterlist": {
+    "note": "Named reactions masterlist — asked directly in MCQ/Fill Blank/VSA. Chemistry equivalent of diagram list.",
+    "must_practise": [
+      {
+        "chapter_id": "6",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "diagram_name": "Wurtz reaction — Na in dry ether → Alkane (higher)",
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "diagram_name": "Fittig reaction — Na in dry ether → Diphenyl",
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "diagram_name": "Wurtz-Fittig reaction — Na in dry ether → Alkylbenzene",
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "diagram_name": "Sandmeyer reaction — CuCl/CuBr + HCl/HBr → ArX from diazonium salt",
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "chapter_name": "Haloalkanes and Haloarenes",
+        "diagram_name": "Gattermann reaction — Cu powder + HCl/HBr → ArX from diazonium salt",
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Alcohols, Phenols and Ethers",
+        "diagram_name": "Lucas test — ZnCl2 + conc. HCl → Distinguish 1°/2°/3° alcohols",
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Alcohols, Phenols and Ethers",
+        "diagram_name": "Victor Meyer test — PI3 → HNO2 → NaOH → Distinguish 1°/2°/3° alcohols",
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Alcohols, Phenols and Ethers",
+        "diagram_name": "Kolbe's reaction — CO2 + NaOH + pressure → Sodium salicylate from phenol",
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Alcohols, Phenols and Ethers",
+        "diagram_name": "Reimer-Tiemann reaction — CHCl3 + NaOH → o-hydroxybenzaldehyde from phenol",
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Alcohols, Phenols and Ethers",
+        "diagram_name": "Williamson synthesis — R-ONa + R'X → Ether",
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "diagram_name": "Aldol condensation — dil. NaOH → β-hydroxy carbonyl compound",
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "diagram_name": "Cannizzaro reaction — conc. NaOH → Disproportionation of aldehydes without α-H",
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "diagram_name": "Rosenmund reduction — H2/Pd-BaSO4 → Aldehyde from acyl chloride",
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "diagram_name": "Clemmensen reduction — Zn-Hg + conc. HCl → Reduces C=O to CH2",
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "diagram_name": "Wolf-Kishner reduction — N2H4 + KOH + ethylene glycol → Reduces C=O to CH2",
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "diagram_name": "Hell-Volhard-Zelinsky (HVZ) — Cl2/Br2 + red P → α-halogenation of carboxylic acid",
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "diagram_name": "Tollens' test (Silver mirror test) — [Ag(NH3)2]+ (Tollens' reagent) → Silver mirror — distinguishes aldehyde from ketone",
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "chapter_name": "Aldehydes, Ketones and Carboxylic Acids",
+        "diagram_name": "Fehling's test — Fehling's solution A + B (Cu2+) → Brick red ppt — distinguishes aldehyde",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Amines",
+        "diagram_name": "Gabriel phthalimide synthesis — Phthalimide + KOH + RX → Primary amine",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Amines",
+        "diagram_name": "Hofmann bromamide reaction — Br2 + NaOH → Primary amine with one less C",
+        "note": ""
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Key formulas for Physical Chemistry (Ch 1-3). Organic chemistry uses named reactions — see chapter_facts.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "1",
+        "chapter_name": "Solutions",
+        "formulas": [
+          "M = (WA/MA) × (1000/V_ml)",
+          "ΔTb = Kb × m (Elevation in BP)",
+          "ΔTf = Kf × m (Depression in FP)",
+          "π = iCRT (Osmotic pressure)",
+          "i = 1 + α(n-1) (Van't Hoff factor)"
+        ]
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "Electrochemistry",
+        "formulas": [
+          "E_cell = E°_cell - (RT/nF)lnQ  (Nernst equation)",
+          "ΔG° = -nFE°",
+          "Λm = κ × 1000/M (Molar conductance)",
+          "W = (M × I × t)/(n × F)  (Faraday's law)"
+        ]
+      },
+      {
+        "chapter_id": "3",
+        "chapter_name": "Chemical Kinetics",
+        "formulas": [
+          "Rate = k[A]^m[B]^n",
+          "First order: k = (2.303/t) log(A₀/At)",
+          "t½ = 0.693/k (first order only)",
+          "k = A·e^(-Ea/RT) (Arrhenius equation)",
+          "log(k2/k1) = (Ea/2.303R)(1/T1 - 1/T2)"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Chemistry",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Chemistry",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 30,
+    "passing_marks": 10,
+    "practical_exam_separate": true,
+    "practical_exam_note": "Practical 30 marks conducted separately. Separate passing in theory (20/56) and practical (10/30).",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": true,
+    "viva_marks": 10,
+    "individual": true,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [
+      {
+        "name": "Experiments",
+        "marks": 15,
+        "note": ""
+      },
+      {
+        "name": "Activities / Project",
+        "marks": 5,
+        "note": ""
+      },
+      {
+        "name": "Viva Voce",
+        "marks": 10,
+        "note": ""
+      }
+    ],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    },
+    "important_practicals": [
+      "Preparation of lyophilic and lyophobic sols",
+      "Purification of sol by dialysis",
+      "Effect of concentration and temperature on rate of reaction (Na2S2O3 + HCl)",
+      "Titration — acid-base, redox (KMnO4)",
+      "Preparation of aspirin (acetylsalicylic acid)",
+      "Preparation of p-nitroaniline",
+      "Column chromatography",
+      "Salt analysis — qualitative"
+    ]
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "Organic chemistry (Ch 6-9) Section C aur D mein thodi mushkil hoti hai. Physical chemistry (Ch 1-3) mein numericals scoring hain.",
+    "easy_percent": 35,
+    "medium_percent": 45,
+    "hard_percent": 20,
+    "most_scoring_sections": [
+      "Easy — named reactions, IUPAC names, basic formulas yaad ho toh 18-20 marks pakke",
+      "Easy to Medium — short numericals + short reactions scoring hai"
+    ],
+    "most_difficult_sections": [
+      "Medium-Hard — Ch 8 full mechanism essay requires thorough preparation"
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Section A ke 37 questions (MCQ + Fill blank + VSA) = 23 marks — sab attempt karo, no negative marking",
+      "Organic chemistry (Ch 6-9) = 24 marks — sabse important section. Conversions and mechanisms daily practice karo",
+      "Section D essay = 4 marks — Ch 8 (Aldehydes/Ketones/Carboxylic acids) se almost confirm. Aldol condensation + nucleophilic addition mechanism yaad karo",
+      "Named reactions ki list banao — fill blanks aur MCQ mein directly aate hain",
+      "Numericals mein 'Given', 'Formula', 'Substitution', 'Answer with unit' format use karo",
+      "Chemical equations hamesha balance karo — unbalanced equation se marks cut",
+      "IUPAC naming practice karo — coordination compounds ke naming MCQ aur fill blank mein aate hain",
+      "Reduction reactions yaad karo — Clemmensen vs Wolf-Kishner (har saal MCQ mein aata hai)",
+      "Tollens' vs Fehling's test — distinction question hamesha aata hai",
+      "Reading time ka use karo — OR options mein se easier pehle decide karo",
+      "Set number aur question number clearly likho",
+      "No negative marking — ek bhi question blank mat chhodna"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "Paper padho — OR options mein se choose karo, organic reactions dekho which is easier."
+      },
+      {
+        "section_id": "section_A_40min",
+        "recommended_minutes": 0,
+        "note": "37 objective questions. MCQ + Fill blank = 0.5 mark each — sirf option/word likhna hai."
+      },
+      {
+        "section_id": "section_B_30min",
+        "recommended_minutes": 3,
+        "note": "10 short answers × 3 min. Concept + reaction/formula + conclusion."
+      },
+      {
+        "section_id": "section_C_30min",
+        "recommended_minutes": 10,
+        "note": "3 long answers × 10 min. Mechanism/steps clearly numbered."
+      },
+      {
+        "section_id": "section_D_20min",
+        "recommended_minutes": 0,
+        "note": "1 essay. Section D ka 4-mark question Ch 8 se expected — pehle se prepare karke rakho."
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "Equations balance check karo, IUPAC spellings check karo, units verify karo."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 20,
+        "strategy": "Section A (MCQ+Fill blank+VSA) se 15+ marks aasaan. Section B mein 3-4 easy short answers (4-5 marks). Total = 19-21 marks pakke.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Ch 10 (Biomolecules) — pure theory, easy MCQs",
+          "Ch 4 (d-f block) — KMnO4/K2Cr2O7 properties simple theory",
+          "Ch 3 (Chemical Kinetics) — rate law MCQ, half-life formula",
+          "Section A completely attempt karo — no negative marking",
+          "Named reactions list se 5-6 yaad karo — fill blanks mein pakke milenge"
+        ],
+        "chapters_to_skip_safely": [
+          "Ch 2 complex Nernst equation derivation",
+          "Ch 5 isomerism complex",
+          "Ch 8 full mechanism"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "35_marks",
+        "target_marks": 35,
+        "strategy": "Section A (18-20) + Section B 5-6 (7-9 marks) + Section C 1 easy (3) = 28-32 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Ch 1 (Solutions) — colligative numerical short answer",
+          "Ch 3 (Kinetics) — first order numerical",
+          "Ch 8 — Section D essay (4 marks) — aldol condensation prepare karo",
+          "Ch 9 (Amines) — basic strength short answer",
+          "Section B sab attempt karo"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45_marks_plus",
+        "target_marks": 45,
+        "strategy": "Section A full (21-23) + Section B full (15) + Section C 2-3 (6-9) + Section D (4) = 46-51.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All numericals — colligative properties, Nernst, rate constant, Faraday",
+          "Organic chemistry conversions + mechanisms — Ch 6, 7, 8, 9",
+          "Section C long answers — Nernst derivation, SN1/SN2, nucleophilic addition",
+          "Section D essay — Ch 8 full preparation"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping",
+        "target_marks": 50,
+        "strategy": "Sab 52 questions mein maximum marks. Organic conversions perfect karo. Section D essay perfect.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All named reactions with mechanisms",
+          "IUPAC naming perfectly — coordination compounds specially",
+          "Organic conversions — haloalkane → alcohol → aldehyde → acid → amine flowchart",
+          "Section A mein koi bhi MCQ mat chhodna",
+          "Structures draw correctly — balanced reactions"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "All named reactions with mechanisms",
+          "IUPAC naming perfectly — coordination compounds specially",
+          "Organic conversions — haloalkane → alcohol → aldehyde → acid → amine flowchart",
+          "Section A mein koi bhi MCQ mat chhodna",
+          "Structures draw correctly — balanced reactions"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [
+      "Ch 10 - Biomolecules",
+      "Ch 4 - d and f Block Elements"
+    ],
+    "highest_roi_chapters": [
+      "Ch 8 - Aldehydes/Ketones/Carboxylic Acids (7 marks, essay source)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 14,
+    "note": "14 marks sessional/internal assessment — school-level.",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "SP Examination Idea — Chemistry Class 12 (English)",
+        "author": "",
+        "publisher": "Science Publications, Jaipur",
+        "purpose": "Primary",
+        "note": "RBSE ke liye #1 reference book. Chapter-wise MCQ, Fill blanks, VSA, Short, Long sab hain. L.L. Agarwal aur Dr. O.P. Verma."
+      },
+      {
+        "name": "NCERT Chemistry Class 12 (Part I + II)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Base book. RBSE syllabus NCERT par based. Sare examples aur exercises solve karo."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "rajeduboard.rajasthan.gov.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 minute reading time milta hai — is time mein sirf paper padho, answers likhna nahi."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "set_number_compulsory: True",
+      "reading_time_note: 15 minute reading time mein sirf paper padho — likhna nahi.",
+      "sequence_compulsory: False",
+      "organic_reactions: Chemical equations/reactions balance karke likhna zaroori hai. Unbalanced equation se marks cut hote hain.",
+      "marking.no_negative_marking: True",
+      "marking.mcq_attempt_all: No negative marking — sare 37 Section A questions attempt karo.",
+      "marking.reaction_steps: Mechanism/reaction steps numbered likhna — partial marks milte hain agar steps incomplete ho.",
+      "marking.named_reaction_products: Named reactions mein sirf product likhna ya sirf name likhna kaafi nahi — dono likhna chahiye."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Sirf structures/diagrams ke liye. Answers pen se likhna zaroori. Organic structures (hexagonal rings, structural formulas) pencil se banana better hai — neater dikhta hai. But pen se bhi allowed."
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "Organic structures clearly draw karo — incorrect structure = marks cut.",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

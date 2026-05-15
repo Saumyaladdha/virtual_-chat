@@ -1,0 +1,2759 @@
+{
+  "board": "यूपी बोर्ड",
+  "class": "12",
+  "subject": "भूगोल (Bhugol)",
+  "subject_code": "322",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 70,
+    "practical_paper": 30,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 23,
+    "passing_marks_practical": 10,
+    "passing_marks_internal": 0,
+    "duration_minutes": 0,
+    "extra_time_given": false,
+    "extra_time_note": "",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 26,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "हिंदी या इंग्लिश — दोनों अलाउड। मिक्स्ड भी चलेगा। पेपर में दोनों वर्ज़न्स छपे होते हैं।",
+    "all_compulsory_note": "",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "यूपी बोर्ड क्लास 12 ज्योग्राफी में 5 टाइप्स: MCQ (1 मार्क), VSA (2 मार्क्स, 20 वर्ड्स), SA (4 मार्क्स, 50 वर्ड्स), LA (6 मार्क्स, 150 वर्ड्स), मैप (1 मार्क पर आइटम, 5 आइटम्स each from इंडिया + वर्ल्ड)।",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (बहुविकल्पीय प्रश्न)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 8,
+        "attempt": 8,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "सारे 8 अटेम्प्ट करो — नो नेगेटिव मार्किंग। एलिमिनेशन से आंसर निकालो। हर साल 2-3 क्वेश्चन्स रिपीट होते हैं (प्राथमिक/द्वितीयक/तृतीयक एक्टिविटी आइडेंटिफाई, हाईएस्ट/लोएस्ट डेंसिटी स्टेट, ह्यूमन ज्योग्राफी कॉन्सेप्ट)।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "N/A — सिर्फ ऑप्शन (a/b/c/d) लिखना है",
+        "notes": ""
+      },
+      {
+        "type": "अति लघु उत्तरीय (Very Short Answer)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 2,
+        "total_in_paper": 8,
+        "attempt": 8,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "डेफिनिशन + 1 एग्ज़ांपल या 2 पॉइंट्स। ज़्यादा मत लिखो — 20 वर्ड्स लिमिट स्ट्रिक्ट है। एग्ज़ामिनर्स को कीवर्ड दिखना चाहिए। सेक्स रेशियो, ह्यूमन रिसोर्स, क्लस्टर्ड सेटलमेंट्स, माइग्रेशन — ये हर साल आते हैं।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "~20 वर्ड्स",
+        "notes": ""
+      },
+      {
+        "type": "लघु उत्तरीय (Short Answer)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 4,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "इंट्रो + 3-4 पॉइंट्स + कंक्लूज़न। 'विवेचना कीजिए' / 'विभेद कीजिए' / 'उल्लेख कीजिए' टाइप क्वेश्चन्स। पॉइंट्स नंबर्ड फॉर्म में लिखना बेटर।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "~50 वर्ड्स",
+        "notes": ""
+      },
+      {
+        "type": "विस्तृत उत्तरीय / दीर्घ उत्तरीय (Long Answer)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 6,
+        "total_in_paper": 2,
+        "attempt": 2,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "इंट्रो पैराग्राफ + हेडिंग-वाइज़ पॉइंट्स + डायग्राम/स्केच मैप + कंक्लूज़न। ह्यूमन ज्योग्राफी नेचर-स्कोप और आयरन ओर/पेट्रोलियम डिस्ट्रीब्यूशन — ये LA में सबसे कॉमन। दोनों OR ऑप्शन्स पढ़ के जो ईज़ियर लगे वो अटेम्प्ट करो।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "~150 वर्ड्स",
+        "notes": ""
+      },
+      {
+        "type": "मानचित्र कार्य (Map Work)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 0,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "सप्लाइड आउटलाइन मैप पेपर में होता है — आंसर शीट में नहीं। मैप को फाड़के, उसमें सिंबल + नाम लिखके, आंसर बुक के साथ मज़बूती से अटैच करना है। सिंबल साफ और नाम स्पेलिंग सही — दोनों के लिए अलग-अलग हाफ मार्क।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "यूपी बोर्ड ज्योग्राफी थ्योरी पेपर = 70 मार्क्स, 26 क्वेश्चन्स, 3 घंटे 15 मिनट (15 मिनट रीडिंग)। पैटर्न 2022-2026 तक कंसिस्टेंट रहा है — कोई मेजर चेंज नहीं।",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "सिर्फ Q23 और Q24 (लॉन्ग आंसर) में 'अथवा/OR' ऑप्शन मिलता है। बाकी सब कंपल्सरी।",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 40,
+      "medium_percent": 45,
+      "hard_percent": 15,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "सेक्शन A — मानव भूगोल के मूल सिद्धांत (Fundamentals of Human Geography)",
+        "type": "सेक्शन A — मानव भूगोल के मूल सिद्धांत (Fundamentals of Human Geography)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 35,
+        "word_limit": "",
+        "breakdown": "यूनिट 1 (Ch 1) + यूनिट 2 (Ch 2-3) + यूनिट 3 (Ch 4-8)। मैप क्वेश्चन Q26 (वर्ल्ड मैप) इन्हीं यूनिट्स से आता है।",
+        "notes": "यूनिट 1 (Ch 1) + यूनिट 2 (Ch 2-3) + यूनिट 3 (Ch 4-8)। मैप क्वेश्चन Q26 (वर्ल्ड मैप) इन्हीं यूनिट्स से आता है।"
+      },
+      {
+        "section_id": "B",
+        "name": "सेक्शन B — भारत: लोग और अर्थव्यवस्था (India: People and Economy)",
+        "type": "सेक्शन B — भारत: लोग और अर्थव्यवस्था (India: People and Economy)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 35,
+        "word_limit": "",
+        "breakdown": "यूनिट I (Ch 1) + यूनिट II (Ch 2) + यूनिट III (Ch 3-6) + यूनिट IV (Ch 7-8) + यूनिट V (Ch 9)। मैप क्वेश्चन Q25 (इंडिया मैप) इन्हीं यूनिट्स से आता है।",
+        "notes": "यूनिट I (Ch 1) + यूनिट II (Ch 2) + यूनिट III (Ch 3-6) + यूनिट IV (Ch 7-8) + यूनिट V (Ch 9)। मैप क्वेश्चन Q25 (इंडिया मैप) इन्हीं यूनिट्स से आता है।"
+      },
+      {
+        "section_id": "d",
+        "name": "question distribution",
+        "type": "question_distribution",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 70,
+    "total_practical": 30,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "सेक्शन A — मानव भूगोल के मूल सिद्धांत (Fundamentals of Human Geography)",
+        "question_numbers": "",
+        "type": "सेक्शन A — मानव भूगोल के मूल सिद्धांत (Fundamentals of Human Geography)",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 35,
+        "word_limit": "",
+        "breakdown": "यूनिट 1 (Ch 1) + यूनिट 2 (Ch 2-3) + यूनिट 3 (Ch 4-8)। मैप क्वेश्चन Q26 (वर्ल्ड मैप) इन्हीं यूनिट्स से आता है।"
+      },
+      {
+        "section_id": "B",
+        "name": "सेक्शन B — भारत: लोग और अर्थव्यवस्था (India: People and Economy)",
+        "question_numbers": "",
+        "type": "सेक्शन B — भारत: लोग और अर्थव्यवस्था (India: People and Economy)",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 35,
+        "word_limit": "",
+        "breakdown": "यूनिट I (Ch 1) + यूनिट II (Ch 2) + यूनिट III (Ch 3-6) + यूनिट IV (Ch 7-8) + यूनिट V (Ch 9)। मैप क्वेश्चन Q25 (इंडिया मैप) इन्हीं यूनिट्स से आता है।"
+      },
+      {
+        "section_id": "d",
+        "name": "question distribution",
+        "question_numbers": "",
+        "type": "question_distribution",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": ""
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 70,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "2",
+      "name": "विश्व जनसंख्या — वितरण, घनत्व और वृद्धि (World Population)",
+      "marks": 5,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "15",
+        "name": "परिवहन तथा संचार (Transport and Communication — India)",
+        "marks": 2
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "मानव भूगोल — प्रकृति एवं विषय-क्षेत्र (Human Geography — Nature and Scope)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section A"
+      },
+      {
+        "chapter_id": "2",
+        "name": "विश्व जनसंख्या — वितरण, घनत्व और वृद्धि (World Population)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section A"
+      },
+      {
+        "chapter_id": "3",
+        "name": "मानव विकास (Human Development)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section A"
+      },
+      {
+        "chapter_id": "4",
+        "name": "प्राथमिक क्रियाएँ (Primary Activities)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section A"
+      },
+      {
+        "chapter_id": "5",
+        "name": "द्वितीयक क्रियाएँ (Secondary Activities)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section A"
+      },
+      {
+        "chapter_id": "6",
+        "name": "तृतीयक और चतुर्थक क्रियाकलाप (Tertiary and Quaternary Activities)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section A"
+      },
+      {
+        "chapter_id": "7",
+        "name": "परिवहन एवं संचार (Transport and Communication)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section A"
+      },
+      {
+        "chapter_id": "8",
+        "name": "अन्तर्राष्ट्रीय व्यापार (International Trade)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section A"
+      },
+      {
+        "chapter_id": "9",
+        "name": "जनसंख्या — वितरण, घनत्व, वृद्धि और संघटन (Population — India)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "10",
+        "name": "मानव बस्तियाँ (Human Settlements)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "11",
+        "name": "भूसंसाधन तथा कृषि (Land Resources and Agriculture)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "12",
+        "name": "जल संसाधन (Water Resources)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "13",
+        "name": "खनिज तथा ऊर्जा संसाधन (Mineral and Energy Resources)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "14",
+        "name": "भारत के संदर्भ में नियोजन और सतत् पोषणीय विकास (Planning and Sustainable Development)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "15",
+        "name": "परिवहन तथा संचार (Transport and Communication — India)",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "16",
+        "name": "अन्तर्राष्ट्रीय व्यापार (International Trade — India)",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "17",
+        "name": "भौगोलिक परिप्रेक्ष्य में चयनित कुछ मुद्दे एवं समस्याएँ (Geographical Perspective on Selected Issues)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "18",
+        "name": "आँकड़े — स्रोत तथा संकलन (Data — Sources and Compilation)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Practical"
+      },
+      {
+        "chapter_id": "19",
+        "name": "आँकड़ों का प्रक्रमण (Data Processing)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Practical"
+      },
+      {
+        "chapter_id": "20",
+        "name": "आँकड़ों का आलेखीय निरूपण (Graphical Representation of Data)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Practical"
+      },
+      {
+        "chapter_id": "21",
+        "name": "स्थानिक सूचना प्रौद्योगिकी (Spatial Information Technology)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Practical"
+      }
+    ],
+    "totals": {
+      "total_marks": 70,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Geography Class 12 — 21 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Geography — Section A",
+        "category": "Section A",
+        "total_marks": 30,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "मानव भूगोल — प्रकृति एवं विषय-क्षेत्र (Human Geography — Nature and Scope)",
+            "marks": 4,
+            "topics": [
+              "मानव का प्रकृतिकरण और प्रकृति का मानवीकरण",
+              "डिटरमिनिज़्म vs पॉसिबिलिज़्म vs नियो-डिटरमिनिज़्म (स्टॉप-एंड-गो डिटरमिनिज़्म)",
+              "स्कॉलर्स: E.C. सेंपल (डिटरमिनिज़्म), विडाल डी ला ब्लाश (पॉसिबिलिज़्म), ग्रिफ़िथ टेलर (नियो-डिटरमिनिज़्म/स्टॉप-एंड-गो), जीन ब्रून्स, रेटज़ल, हंटिंगटन",
+              "ह्यूमन ज्योग्राफी के फील्ड्स और सब-फील्ड्स",
+              "अप्रोचेस: एरियल डिफरेंशिएशन, क्वांटिटेटिव रेवोल्यूशन, स्पेशियल ऑर्गेनाइज़ेशन, एक्सप्लोरेशन और डिस्क्रिप्शन"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "विश्व जनसंख्या — वितरण, घनत्व और वृद्धि (World Population)",
+            "marks": 5,
+            "topics": [
+              "जनसंख्या वितरण के पैटर्न — ज्योग्राफिकल, इकोनॉमिक, सोशल-कल्चरल फैक्टर्स",
+              "जनसंख्या घनत्व (डेंसिटी) — फॉर्मूला: टोटल पॉपुलेशन / टोटल एरिया",
+              "जनसंख्या वितरण को प्रभावित करने वाले कारक (ज्योग्राफिकल, इकोनॉमिक, सोशल-कल्चरल, डेमोग्राफिक)",
+              "जनसंख्या वृद्धि के घटक — बर्थ रेट, डेथ रेट, माइग्रेशन",
+              "डेमोग्राफिक ट्रांज़िशन थ्योरी (4 स्टेजेस)",
+              "जनसंख्या नियंत्रण के उपाय"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "मानव विकास (Human Development)",
+            "marks": 3,
+            "topics": [
+              "ग्रोथ vs डेवलपमेंट — डिफरेंस",
+              "4 पिलर्स: इक्विटी, सस्टेनेबिलिटी, प्रोडक्टिविटी, एम्पावरमेंट",
+              "ह्यूमन डेवलपमेंट के अप्रोचेस: इनकम अप्रोच, वेलफेयर अप्रोच, बेसिक नीड्स अप्रोच, कैपेबिलिटी अप्रोच",
+              "HDI मेज़रमेंट — लाइफ एक्सपेक्टेंसी + एजुकेशन + GNI पर कैपिटा",
+              "डॉ. महबूब-उल-हक़ और प्रोफ. अमर्त्य सेन का कंट्रीब्यूशन",
+              "इंटरनेशनल कंपेरिज़न्स — हाई/मीडियम/लो HDI कंट्रीज़"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "प्राथमिक क्रियाएँ (Primary Activities)",
+            "marks": 5,
+            "topics": [
+              "हंटिंग और गैदरिंग, पैस्टोरलिज़्म (नोमैडिक हर्डिंग + कमर्शियल लाइवस्टॉक रेयरिंग)",
+              "एग्रीकल्चर टाइप्स — सब्सिस्टेंस (इंटेंसिव + प्रिमिटिव), प्लांटेशन, मिक्स्ड, कमर्शियल ग्रेन, डेयरी, मेडिटेरेनियन, मार्केट गार्डनिंग/ट्रक फार्मिंग, कोऑपरेटिव, कलेक्टिव",
+              "प्लांटेशन क्रॉप्स: टी, कॉफी, रबर, शुगरकेन (मलेशिया=रबर, ब्राज़ील=कॉफी)",
+              "माइनिंग — मेथड्स (सरफेस/ओपन-कास्ट, अंडरग्राउंड/शाफ्ट)",
+              "इंटेंसिव सब्सिस्टेंस एग्रीकल्चर फीचर्स"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "द्वितीयक क्रियाएँ (Secondary Activities)",
+            "marks": 3,
+            "topics": [
+              "मैन्युफैक्चरिंग — कैरेक्टरिस्टिक्स, स्पेशलाइज़ेशन ऑफ स्किल्स, प्रोडक्शन मेथड्स",
+              "टेक्नोलॉजिकल इनोवेशन, ऑर्गेनाइज़ेशनल स्ट्रक्चर",
+              "इंडस्ट्रियल लोकेशन के फैक्टर्स — रॉ मटेरियल, मार्केट, लेबर, पावर, ट्रांसपोर्ट, कैपिटल",
+              "इंडस्ट्रीज़ का क्लासिफिकेशन — साइज़ बेस्ड, रॉ मटेरियल बेस्ड, आउटपुट बेस्ड, ओनरशिप बेस्ड",
+              "हाई-टेक्नोलॉजी इंडस्ट्री कॉन्सेप्ट"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "तृतीयक और चतुर्थक क्रियाकलाप (Tertiary and Quaternary Activities)",
+            "marks": 3,
+            "topics": [
+              "टर्शरी के टाइप्स — ट्रेड/कॉमर्स, ट्रांसपोर्ट, कम्युनिकेशन, सर्विसेज़",
+              "टूरिज़्म — टूरिस्ट रीजन्स, अट्रैक्शन्स, मेडिकल टूरिज़्म (इंडिया फॉर ओवरसीज़ पेशेंट्स)",
+              "क्वाटर्नरी एक्टिविटीज़ — नॉलेज सेक्टर (R&D, इन्फो प्रोसेसिंग)",
+              "क्विनरी (पंचम) — हाईएस्ट डिसीज़न-मेकर्स, कंसल्टेंसी",
+              "आउटसोर्सिंग, डिजिटल डिवाइड"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "परिवहन एवं संचार (Transport and Communication)",
+            "marks": 3,
+            "topics": [
+              "रोड ट्रांसपोर्ट — हाईवेज़, बॉर्डर रोड्स",
+              "रेल ट्रांसपोर्ट — ट्रांस-कॉन्टिनेंटल रेलवेज़ (ट्रांस-साइबेरियन, ट्रांस-कैनेडियन, ट्रांस-ऑस्ट्रेलियन, ओरिएंट एक्सप्रेस)",
+              "वॉटर ट्रांसपोर्ट — इम्पोर्टेंट सी रूट्स, इनलैंड वॉटरवेज़",
+              "एयर ट्रांसपोर्ट — इंटरकॉन्टिनेंटल एयरवेज़",
+              "पाइपलाइन्स",
+              "कम्युनिकेशन — सैटेलाइट, साइबरस्पेस, इंटरनेट"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "अन्तर्राष्ट्रीय व्यापार (International Trade)",
+            "marks": 4,
+            "topics": [
+              "इंटरनेशनल ट्रेड की हिस्ट्री",
+              "बेसिस — नेशनल रिसोर्सेस में डिफरेंस, पॉपुलेशन फैक्टर्स, इकोनॉमिक डेवलपमेंट का स्टेज, फॉरेन इन्वेस्टमेंट का एक्सटेंट, ट्रांसपोर्ट",
+              "बैलेंस ऑफ ट्रेड (फेवरेबल vs अनफेवरेबल)",
+              "टाइप्स — बाइलेटरल, मल्टीलेटरल",
+              "फ्री ट्रेड, WTO (वर्ल्ड ट्रेड ऑर्गेनाइज़ेशन)",
+              "पोर्ट्स — टाइप्स (इंडस्ट्रियल, कमर्शियल, कॉम्प्रिहेंसिव, इनलैंड, आउट, ऑयल, नेवल, फिशिंग) और इंटरनेशनल ट्रेड के गेटवेज़",
+              "लैंड-लॉक्ड हार्बर्स (जैसे, विशाखापत्तनम इंडिया में लैंड-लॉक्ड है)"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Geography — Section B",
+        "category": "Section B",
+        "total_marks": 30,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "9",
+            "name": "जनसंख्या — वितरण, घनत्व, वृद्धि और संघटन (Population — India)",
+            "marks": 4,
+            "topics": [
+              "भारत में जनसंख्या का डिस्ट्रीब्यूशन, डेंसिटी, ग्रोथ",
+              "पॉपुलेशन ग्रोथ में रीजनल वेरिएशन्स",
+              "पॉपुलेशन कंपोज़िशन — रूरल-अर्बन, लिंग्विस्टिक, रिलिजियस",
+              "वर्किंग पॉपुलेशन (ऑक्यूपेशनल स्ट्रक्चर)",
+              "बेटी बचाओ-बेटी पढ़ाओ कैंपेन",
+              "स्मॉलेस्ट और लार्जेस्ट रिलिजियस ग्रुप्स (स्मॉलेस्ट = जैन as per 2011 सेंसस)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "मानव बस्तियाँ (Human Settlements)",
+            "marks": 3,
+            "topics": [
+              "रूरल सेटलमेंट्स — टाइप्स (क्लस्टर्ड, सेमी-क्लस्टर्ड, हैमलेटेड, डिस्पर्स्ड) और डिस्ट्रीब्यूशन",
+              "डिस्पर्स्ड सेटलमेंट्स नहीं हैं इनमें: गंगा प्लेन्स, हिमालयन लोअर वैलीज़, एरिड राजस्थान (पाए जाते हैं: NE फॉरेस्ट्स, हिल्स में)",
+              "अर्बन सेटलमेंट्स — टाइप्स, क्लासिफिकेशन",
+              "इंडिया में टाउन्स की ग्रोथ",
+              "इंडिया में अर्बनाइज़ेशन — प्रॉब्लम्स",
+              "टाउन्स का फंक्शनल क्लासिफिकेशन",
+              "स्मार्ट सिटी मिशन"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "भूसंसाधन तथा कृषि (Land Resources and Agriculture)",
+            "marks": 4,
+            "topics": [
+              "लैंड यूज़ क्लासिफिकेशन (9 कैटेगरीज़)",
+              "इंडिया में चेंजिंग लैंड-यूज़ पैटर्न",
+              "कॉमन प्रॉपर्टी रिसोर्सेस (CPR)",
+              "इंडिया में एग्रीकल्चरल लैंड यूज़",
+              "क्रॉप सीज़न्स — खरीफ, रबी, ज़ायद",
+              "फूड क्रॉप्स — गेहूँ, राइस, ज्वार, बाजरा, मक्का, पल्सेस (चना), ऑयलसीड्स",
+              "फाइबर क्रॉप्स — कॉटन, जूट",
+              "अदर क्रॉप्स — शुगरकेन, टी, कॉफी",
+              "इंडिया में एग्रीकल्चरल डेवलपमेंट, NMSA (नेशनल मिशन ऑन सस्टेनेबल एग्रीकल्चर)",
+              "फार्मर पोर्टल ऑफ इंडिया, इंडियन एग्रीकल्चर की प्रॉब्लम्स"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "जल संसाधन (Water Resources)",
+            "marks": 3,
+            "topics": [
+              "इंडिया के वॉटर रिसोर्सेस — सरफेस वॉटर, ग्राउंड वॉटर, लैगून्स और बैकवॉटर्स",
+              "डिमांड और यूटिलाइज़ेशन",
+              "वॉटर क्वॉलिटी डीटेरियोरेशन, वॉटर पॉल्यूशन कॉज़ेस और प्रिवेंशन",
+              "वॉटर कंज़र्वेशन और मैनेजमेंट — रीसाइक्लिंग, रीयूज़",
+              "वॉटरशेड मैनेजमेंट — केस स्टडी: अहमदनगर (महाराष्ट्र)",
+              "रेनवॉटर हार्वेस्टिंग",
+              "नेशनल वॉटर पॉलिसी 2012, जल क्रांति अभियान 2015-16",
+              "सरफेस वॉटर के चार सोर्सेस: नदियाँ, झीलें, तालाब, टंकियाँ"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "खनिज तथा ऊर्जा संसाधन (Mineral and Energy Resources)",
+            "marks": 5,
+            "topics": [
+              "मिनरल्स के टाइप्स — मेटैलिक (फेरस: आयरन ओर, मैंगनीज़ / नॉन-फेरस: बॉक्साइट, कॉपर), नॉन-मेटैलिक (माइका)",
+              "आयरन ओर — डिस्ट्रीब्यूशन (ओडिशा, छत्तीसगढ़, झारखंड, कर्नाटक)",
+              "मैंगनीज़ — डिस्ट्रीब्यूशन, प्रोडक्शन",
+              "बॉक्साइट, कॉपर, माइका",
+              "कोल — झारखंड (झरिया, बोकारो), छत्तीसगढ़, ओडिशा, पश्चिम बंगाल",
+              "पेट्रोलियम — असम (डिगबोई, नहरकटिया), गुजरात (अंकलेश्वर), बॉम्बे हाई (ऑफशोर)",
+              "नेचुरल गैस",
+              "नॉन-कन्वेंशनल: न्यूक्लियर (तारापुर=1st, कलपक्कम, नरोरा, रावतभाटा/राणा प्रताप सागर, कैगा, काकरापार), सोलर, विंड, टाइडल, जियोथर्मल, बायो-एनर्जी",
+              "मिनरल कंज़र्वेशन"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "14",
+            "name": "भारत के संदर्भ में नियोजन और सतत् पोषणीय विकास (Planning and Sustainable Development)",
+            "marks": 3,
+            "topics": [
+              "टार्गेट एरिया प्लानिंग",
+              "हिल एरिया डेवलपमेंट प्रोग्राम (HADP)",
+              "ड्रॉट प्रोन एरिया डेवलपमेंट प्रोग्राम (DPAP)",
+              "केस स्टडी: भरमौर — इंटीग्रेटेड ट्राइबल डेवलपमेंट प्रोग्राम (ITDP)",
+              "सस्टेनेबल डेवलपमेंट कॉन्सेप्ट",
+              "केस स्टडी: इंदिरा गांधी कैनाल कमांड एरिया",
+              "सस्टेनेबल डेवलपमेंट को प्रमोट करने के मेज़र्स"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "15",
+            "name": "परिवहन तथा संचार (Transport and Communication — India)",
+            "marks": 2,
+            "topics": [
+              "लैंड ट्रांसपोर्ट — रोड (NH, SH, बॉर्डर रोड्स), रेल",
+              "वॉटर ट्रांसपोर्ट, एयर ट्रांसपोर्ट",
+              "ऑयल और गैस पाइपलाइन्स",
+              "कम्युनिकेशन नेटवर्क्स — पर्सनल और मास कम्युनिकेशन",
+              "इंडिया में IT रेवोल्यूशन"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "16",
+            "name": "अन्तर्राष्ट्रीय व्यापार (International Trade — India)",
+            "marks": 2,
+            "topics": [
+              "इंडिया के एक्सपोर्ट्स और इम्पोर्ट्स का चेंजिंग पैटर्न",
+              "ट्रेड की डायरेक्शन",
+              "सी पोर्ट्स एज़ गेटवेज़ — वेस्टर्न कोस्ट: कांडला, मुंबई, जवाहरलाल नेहरू, मर्मगाओ, मंगलोर, कोच्चि",
+              "ईस्टर्न कोस्ट: कोलकाता, हल्दिया, पारादीप, विशाखापत्तनम (लैंड-लॉक्ड), चेन्नई, एन्नोर, तूतीकोरिन",
+              "एयरपोर्ट्स"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "17",
+            "name": "भौगोलिक परिप्रेक्ष्य में चयनित कुछ मुद्दे एवं समस्याएँ (Geographical Perspective on Selected Issues)",
+            "marks": 4,
+            "topics": [
+              "एनवायरनमेंटल पॉल्यूशन — वॉटर पॉल्यूशन, एयर पॉल्यूशन (एसिड रेन कॉज़), नॉइज़ पॉल्यूशन",
+              "अर्बन वेस्ट डिस्पोज़ल",
+              "रूरल-अर्बन माइग्रेशन — केस स्टडी",
+              "स्लम्स (गंदी बस्तियाँ) की प्रॉब्लम्स",
+              "लैंड डीग्रेडेशन — केस स्टडी",
+              "नमामि गंगे प्रोग्राम"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Geography — Practical",
+        "category": "Practical",
+        "total_marks": 0,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "18",
+            "name": "आँकड़े — स्रोत तथा संकलन (Data — Sources and Compilation)",
+            "marks": 0,
+            "topics": [
+              "प्राइमरी, सेकेंडरी और अदर सोर्सेस",
+              "डेटा का टैब्युलेशन",
+              "क्लासिफिकेशन",
+              "ओजाइव कर्व",
+              "फ्रीक्वेंसी पॉलीगन"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "19",
+            "name": "आँकड़ों का प्रक्रमण (Data Processing)",
+            "marks": 0,
+            "topics": [
+              "मेज़र्स ऑफ सेंट्रल टेंडेंसी",
+              "मीन, मीडियन, मोड और उनका कंपेरिज़न"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "20",
+            "name": "आँकड़ों का आलेखीय निरूपण (Graphical Representation of Data)",
+            "marks": 0,
+            "topics": [
+              "डायग्राम्स का कंस्ट्रक्शन",
+              "बार डायग्राम्स",
+              "लाइन डायग्राम्स और फ्लो चार्ट्स",
+              "थीमेटिक मैप्स",
+              "डॉट मैप, कोरोप्लेथ, आइसोप्लेथ"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "21",
+            "name": "स्थानिक सूचना प्रौद्योगिकी (Spatial Information Technology)",
+            "marks": 0,
+            "topics": [
+              "GIS (ज्योग्राफिकल इन्फॉर्मेशन सिस्टम) और कंपोनेंट्स",
+              "सॉफ्टवेयर",
+              "रास्टर और वेक्टर डेटा फॉर्मैट्स",
+              "GIS ऑपरेशन्स का सीक्वेंस"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "मानव भूगोल — प्रकृति एवं विषय-क्षेत्र (Human Geography — Nature and Scope)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "A1",
+      "unit_name": 1,
+      "part": "Section A",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी-मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "मानव का प्रकृतिकरण और प्रकृति का मानवीकरण",
+        "डिटरमिनिज़्म vs पॉसिबिलिज़्म vs नियो-डिटरमिनिज़्म (स्टॉप-एंड-गो डिटरमिनिज़्म)",
+        "स्कॉलर्स: E.C. सेंपल (डिटरमिनिज़्म), विडाल डी ला ब्लाश (पॉसिबिलिज़्म), ग्रिफ़िथ टेलर (नियो-डिटरमिनिज़्म/स्टॉप-एंड-गो), जीन ब्रून्स, रेटज़ल, हंटिंगटन",
+        "ह्यूमन ज्योग्राफी के फील्ड्स और सब-फील्ड्स",
+        "अप्रोचेस: एरियल डिफरेंशिएशन, क्वांटिटेटिव रेवोल्यूशन, स्पेशियल ऑर्गेनाइज़ेशन, एक्सप्लोरेशन और डिस्क्रिप्शन"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "नेचर एंड स्कोप LA (2022, 2024, 2026) — लगभग हर साल। डिटरमिनिज़्म/पॉसिबिलिज़्म कॉन्सेप्ट MCQ हर साल Q1 में। फील्ड्स और सब-फील्ड्स LA।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "विश्व जनसंख्या — वितरण, घनत्व और वृद्धि (World Population)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "A2",
+      "unit_name": 2,
+      "part": "Section A",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "जनसंख्या वितरण के पैटर्न — ज्योग्राफिकल, इकोनॉमिक, सोशल-कल्चरल फैक्टर्स",
+        "जनसंख्या घनत्व (डेंसिटी) — फॉर्मूला: टोटल पॉपुलेशन / टोटल एरिया",
+        "जनसंख्या वितरण को प्रभावित करने वाले कारक (ज्योग्राफिकल, इकोनॉमिक, सोशल-कल्चरल, डेमोग्राफिक)",
+        "जनसंख्या वृद्धि के घटक — बर्थ रेट, डेथ रेट, माइग्रेशन",
+        "डेमोग्राफिक ट्रांज़िशन थ्योरी (4 स्टेजेस)",
+        "जनसंख्या नियंत्रण के उपाय"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "फैक्टर्स अफेक्टिंग पॉपुलेशन डिस्ट्रीब्यूशन — SA (4 मार्क्स) लगभग हर साल, कभी LA (6 मार्क्स)। डेंसली पॉपुलेटेड रीजन्स MCQ — साउथ ईस्ट एशिया कॉमन आंसर। डेमोग्राफिक ट्रांज़िशन SA (2023)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "मानव विकास (Human Development)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "A3",
+      "unit_name": 2,
+      "part": "Section A",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "ग्रोथ vs डेवलपमेंट — डिफरेंस",
+        "4 पिलर्स: इक्विटी, सस्टेनेबिलिटी, प्रोडक्टिविटी, एम्पावरमेंट",
+        "ह्यूमन डेवलपमेंट के अप्रोचेस: इनकम अप्रोच, वेलफेयर अप्रोच, बेसिक नीड्स अप्रोच, कैपेबिलिटी अप्रोच",
+        "HDI मेज़रमेंट — लाइफ एक्सपेक्टेंसी + एजुकेशन + GNI पर कैपिटा",
+        "डॉ. महबूब-उल-हक़ और प्रोफ. अमर्त्य सेन का कंट्रीब्यूशन",
+        "इंटरनेशनल कंपेरिज़न्स — हाई/मीडियम/लो HDI कंट्रीज़"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "ह्यूमन डेवलपमेंट डिफाइन — VSA (2024, 2026)। अप्रोचेस MCQ (2025)। स्कॉलर्स आइडेंटिफिकेशन MCQ (2024)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "प्राथमिक क्रियाएँ (Primary Activities)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "A4",
+      "unit_name": 3,
+      "part": "Section A",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "हंटिंग और गैदरिंग, पैस्टोरलिज़्म (नोमैडिक हर्डिंग + कमर्शियल लाइवस्टॉक रेयरिंग)",
+        "एग्रीकल्चर टाइप्स — सब्सिस्टेंस (इंटेंसिव + प्रिमिटिव), प्लांटेशन, मिक्स्ड, कमर्शियल ग्रेन, डेयरी, मेडिटेरेनियन, मार्केट गार्डनिंग/ट्रक फार्मिंग, कोऑपरेटिव, कलेक्टिव",
+        "प्लांटेशन क्रॉप्स: टी, कॉफी, रबर, शुगरकेन (मलेशिया=रबर, ब्राज़ील=कॉफी)",
+        "माइनिंग — मेथड्स (सरफेस/ओपन-कास्ट, अंडरग्राउंड/शाफ्ट)",
+        "इंटेंसिव सब्सिस्टेंस एग्रीकल्चर फीचर्स"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "प्लांटेशन क्रॉप MCQ (2022, 2023, 2026)। नोमैडिक vs कमर्शियल लाइवस्टॉक SA (2023, 2024)। इंटेंसिव सब्सिस्टेंस फीचर्स SA (2026)। प्राइमरी एक्टिविटी आइडेंटिफाई MCQ (हर साल)। ट्रक फार्मिंग VSA (2025)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "द्वितीयक क्रियाएँ (Secondary Activities)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "A5",
+      "unit_name": 3,
+      "part": "Section A",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "मैन्युफैक्चरिंग — कैरेक्टरिस्टिक्स, स्पेशलाइज़ेशन ऑफ स्किल्स, प्रोडक्शन मेथड्स",
+        "टेक्नोलॉजिकल इनोवेशन, ऑर्गेनाइज़ेशनल स्ट्रक्चर",
+        "इंडस्ट्रियल लोकेशन के फैक्टर्स — रॉ मटेरियल, मार्केट, लेबर, पावर, ट्रांसपोर्ट, कैपिटल",
+        "इंडस्ट्रीज़ का क्लासिफिकेशन — साइज़ बेस्ड, रॉ मटेरियल बेस्ड, आउटपुट बेस्ड, ओनरशिप बेस्ड",
+        "हाई-टेक्नोलॉजी इंडस्ट्री कॉन्सेप्ट"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "सेकेंडरी एक्टिविटी आइडेंटिफाई MCQ (2026)। एग्रो-बेस्ड इंडस्ट्री MCQ (2026)। इंडस्ट्रियल लोकेशन के फैक्टर्स LA/SA। मॉडर्न इंडस्ट्रियल ट्रेंड्स SA (2025)। प्राइमरी vs सेकेंडरी एक्टिविटीज़ SA (2023, 2024)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "तृतीयक और चतुर्थक क्रियाकलाप (Tertiary and Quaternary Activities)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "A6",
+      "unit_name": 3,
+      "part": "Section A",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी-मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "टर्शरी के टाइप्स — ट्रेड/कॉमर्स, ट्रांसपोर्ट, कम्युनिकेशन, सर्विसेज़",
+        "टूरिज़्म — टूरिस्ट रीजन्स, अट्रैक्शन्स, मेडिकल टूरिज़्म (इंडिया फॉर ओवरसीज़ पेशेंट्स)",
+        "क्वाटर्नरी एक्टिविटीज़ — नॉलेज सेक्टर (R&D, इन्फो प्रोसेसिंग)",
+        "क्विनरी (पंचम) — हाईएस्ट डिसीज़न-मेकर्स, कंसल्टेंसी",
+        "आउटसोर्सिंग, डिजिटल डिवाइड"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "टर्शरी एक्टिविटी आइडेंटिफाई MCQ (2023)। क्वाटर्नरी सर्विसेज़ VSA (2024)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "परिवहन एवं संचार (Transport and Communication)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "A7",
+      "unit_name": 3,
+      "part": "Section A",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "रोड ट्रांसपोर्ट — हाईवेज़, बॉर्डर रोड्स",
+        "रेल ट्रांसपोर्ट — ट्रांस-कॉन्टिनेंटल रेलवेज़ (ट्रांस-साइबेरियन, ट्रांस-कैनेडियन, ट्रांस-ऑस्ट्रेलियन, ओरिएंट एक्सप्रेस)",
+        "वॉटर ट्रांसपोर्ट — इम्पोर्टेंट सी रूट्स, इनलैंड वॉटरवेज़",
+        "एयर ट्रांसपोर्ट — इंटरकॉन्टिनेंटल एयरवेज़",
+        "पाइपलाइन्स",
+        "कम्युनिकेशन — सैटेलाइट, साइबरस्पेस, इंटरनेट"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "आमतौर पर MCQ या VSA लेवल। वॉटर ट्रांसपोर्ट एडवांटेजेस VSA (2025)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "अन्तर्राष्ट्रीय व्यापार (International Trade)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "A8",
+      "unit_name": 3,
+      "part": "Section A",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "इंटरनेशनल ट्रेड की हिस्ट्री",
+        "बेसिस — नेशनल रिसोर्सेस में डिफरेंस, पॉपुलेशन फैक्टर्स, इकोनॉमिक डेवलपमेंट का स्टेज, फॉरेन इन्वेस्टमेंट का एक्सटेंट, ट्रांसपोर्ट",
+        "बैलेंस ऑफ ट्रेड (फेवरेबल vs अनफेवरेबल)",
+        "टाइप्स — बाइलेटरल, मल्टीलेटरल",
+        "फ्री ट्रेड, WTO (वर्ल्ड ट्रेड ऑर्गेनाइज़ेशन)",
+        "पोर्ट्स — टाइप्स (इंडस्ट्रियल, कमर्शियल, कॉम्प्रिहेंसिव, इनलैंड, आउट, ऑयल, नेवल, फिशिंग) और इंटरनेशनल ट्रेड के गेटवेज़",
+        "लैंड-लॉक्ड हार्बर्स (जैसे, विशाखापत्तनम इंडिया में लैंड-लॉक्ड है)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "पोर्ट टाइप्स MCQ (2022, 2024, 2025, 2026)। लैंड-लॉक्ड हार्बर MCQ (2025 — विशाखापत्तनम)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "जनसंख्या — वितरण, घनत्व, वृद्धि और संघटन (Population — India)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B1",
+      "unit_name": "I",
+      "part": "Section B",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "भारत में जनसंख्या का डिस्ट्रीब्यूशन, डेंसिटी, ग्रोथ",
+        "पॉपुलेशन ग्रोथ में रीजनल वेरिएशन्स",
+        "पॉपुलेशन कंपोज़िशन — रूरल-अर्बन, लिंग्विस्टिक, रिलिजियस",
+        "वर्किंग पॉपुलेशन (ऑक्यूपेशनल स्ट्रक्चर)",
+        "बेटी बचाओ-बेटी पढ़ाओ कैंपेन",
+        "स्मॉलेस्ट और लार्जेस्ट रिलिजियस ग्रुप्स (स्मॉलेस्ट = जैन as per 2011 सेंसस)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "हाईएस्ट डेंसिटी स्टेट MCQ (2022-2025 — आंसर: बिहार)। लोएस्ट डेंसिटी स्टेट MCQ (2026 — अरुणाचल प्रदेश)। स्मॉलेस्ट रिलिजियस ग्रुप MCQ (2026 — जैन)। फैक्टर्स अफेक्टिंग डिस्ट्रीब्यूशन SA/LA हर साल।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "मानव बस्तियाँ (Human Settlements)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B2",
+      "unit_name": "II",
+      "part": "Section B",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी-मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "रूरल सेटलमेंट्स — टाइप्स (क्लस्टर्ड, सेमी-क्लस्टर्ड, हैमलेटेड, डिस्पर्स्ड) और डिस्ट्रीब्यूशन",
+        "डिस्पर्स्ड सेटलमेंट्स नहीं हैं इनमें: गंगा प्लेन्स, हिमालयन लोअर वैलीज़, एरिड राजस्थान (पाए जाते हैं: NE फॉरेस्ट्स, हिल्स में)",
+        "अर्बन सेटलमेंट्स — टाइप्स, क्लासिफिकेशन",
+        "इंडिया में टाउन्स की ग्रोथ",
+        "इंडिया में अर्बनाइज़ेशन — प्रॉब्लम्स",
+        "टाउन्स का फंक्शनल क्लासिफिकेशन",
+        "स्मार्ट सिटी मिशन"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "क्लस्टर्ड सेटलमेंट्स डिफाइन VSA (2023, 2026)। डिस्पर्स्ड रूरल सेटलमेंट्स एनवायरनमेंट MCQ (2025)। रूरल vs अर्बन सेटलमेंट्स LA (2023, 2024)। अर्बनाइज़ेशन प्रॉब्लम्स SA (2023)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "भूसंसाधन तथा कृषि (Land Resources and Agriculture)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B3",
+      "unit_name": "III",
+      "part": "Section B",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "लैंड यूज़ क्लासिफिकेशन (9 कैटेगरीज़)",
+        "इंडिया में चेंजिंग लैंड-यूज़ पैटर्न",
+        "कॉमन प्रॉपर्टी रिसोर्सेस (CPR)",
+        "इंडिया में एग्रीकल्चरल लैंड यूज़",
+        "क्रॉप सीज़न्स — खरीफ, रबी, ज़ायद",
+        "फूड क्रॉप्स — गेहूँ, राइस, ज्वार, बाजरा, मक्का, पल्सेस (चना), ऑयलसीड्स",
+        "फाइबर क्रॉप्स — कॉटन, जूट",
+        "अदर क्रॉप्स — शुगरकेन, टी, कॉफी",
+        "इंडिया में एग्रीकल्चरल डेवलपमेंट, NMSA (नेशनल मिशन ऑन सस्टेनेबल एग्रीकल्चर)",
+        "फार्मर पोर्टल ऑफ इंडिया, इंडियन एग्रीकल्चर की प्रॉब्लम्स"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "चेंजिंग लैंड-यूज़ पैटर्न LA (2026)। कॉमन प्रॉपर्टी रिसोर्सेस VSA (2025)। लार्जेस्ट राइस प्रोड्यूसर स्टेट मैप (2022)। ड्रॉट प्रोन एरिया डेवलपमेंट SA (2026)। सिट्रस फ्रूट्स फार्मिंग टाइप MCQ (2023 — मेडिटेरेनियन)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "जल संसाधन (Water Resources)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B4",
+      "unit_name": "III",
+      "part": "Section B",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी-मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "इंडिया के वॉटर रिसोर्सेस — सरफेस वॉटर, ग्राउंड वॉटर, लैगून्स और बैकवॉटर्स",
+        "डिमांड और यूटिलाइज़ेशन",
+        "वॉटर क्वॉलिटी डीटेरियोरेशन, वॉटर पॉल्यूशन कॉज़ेस और प्रिवेंशन",
+        "वॉटर कंज़र्वेशन और मैनेजमेंट — रीसाइक्लिंग, रीयूज़",
+        "वॉटरशेड मैनेजमेंट — केस स्टडी: अहमदनगर (महाराष्ट्र)",
+        "रेनवॉटर हार्वेस्टिंग",
+        "नेशनल वॉटर पॉलिसी 2012, जल क्रांति अभियान 2015-16",
+        "सरफेस वॉटर के चार सोर्सेस: नदियाँ, झीलें, तालाब, टंकियाँ"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "वॉटर पॉल्यूशन कॉज़ेस VSA (2025, 2026)। वॉटर कंज़र्वेशन इम्पोर्टेंस SA (2024)। सोर्सेस ऑफ सरफेस वॉटर VSA (2025)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "खनिज तथा ऊर्जा संसाधन (Mineral and Energy Resources)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B5",
+      "unit_name": "III",
+      "part": "Section B",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम-हार्ड",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "मिनरल्स के टाइप्स — मेटैलिक (फेरस: आयरन ओर, मैंगनीज़ / नॉन-फेरस: बॉक्साइट, कॉपर), नॉन-मेटैलिक (माइका)",
+        "आयरन ओर — डिस्ट्रीब्यूशन (ओडिशा, छत्तीसगढ़, झारखंड, कर्नाटक)",
+        "मैंगनीज़ — डिस्ट्रीब्यूशन, प्रोडक्शन",
+        "बॉक्साइट, कॉपर, माइका",
+        "कोल — झारखंड (झरिया, बोकारो), छत्तीसगढ़, ओडिशा, पश्चिम बंगाल",
+        "पेट्रोलियम — असम (डिगबोई, नहरकटिया), गुजरात (अंकलेश्वर), बॉम्बे हाई (ऑफशोर)",
+        "नेचुरल गैस",
+        "नॉन-कन्वेंशनल: न्यूक्लियर (तारापुर=1st, कलपक्कम, नरोरा, रावतभाटा/राणा प्रताप सागर, कैगा, काकरापार), सोलर, विंड, टाइडल, जियोथर्मल, बायो-एनर्जी",
+        "मिनरल कंज़र्वेशन"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "ऑयल फील्ड्स स्टेट MCQ (2024, 2025, 2026 — असम)। बॉम्बे हाई MCQ (2023 — मिनरल ऑयल)। आयरन ओर प्रोडक्शन LA (2024)। मैंगनीज़ LA (2025)। एटॉमिक प्लांट्स VSA (2024)। मेटैलिक मिनरल्स नेम्स VSA (2024, 2026)। कोल प्रोड्यूसिंग एरियाज़ VSA (2022, 2023)। पेट्रोलियम रिसोर्सेस LA (2023)। आयरन-स्टील इंडस्ट्री LA (2022)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "भारत के संदर्भ में नियोजन और सतत् पोषणीय विकास (Planning and Sustainable Development)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B6",
+      "unit_name": "III",
+      "part": "Section B",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी-मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "टार्गेट एरिया प्लानिंग",
+        "हिल एरिया डेवलपमेंट प्रोग्राम (HADP)",
+        "ड्रॉट प्रोन एरिया डेवलपमेंट प्रोग्राम (DPAP)",
+        "केस स्टडी: भरमौर — इंटीग्रेटेड ट्राइबल डेवलपमेंट प्रोग्राम (ITDP)",
+        "सस्टेनेबल डेवलपमेंट कॉन्सेप्ट",
+        "केस स्टडी: इंदिरा गांधी कैनाल कमांड एरिया",
+        "सस्टेनेबल डेवलपमेंट को प्रमोट करने के मेज़र्स"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "ITDP MCQ (2025 — इंटीग्रेटेड ट्राइबल डेवलपमेंट)। हिल एरिया प्रोग्राम VSA (2023, 2024)। सस्टेनेबल डेवलपमेंट LA (2023, 2024)। DPAP इम्पोर्टेंस SA (2026)। इंदिरा गांधी कैनाल पासेस थ्रू MCQ (2023, 2024 — राजस्थान)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 15,
+      "name": "परिवहन तथा संचार (Transport and Communication — India)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B7",
+      "unit_name": "IV",
+      "part": "Section B",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "लैंड ट्रांसपोर्ट — रोड (NH, SH, बॉर्डर रोड्स), रेल",
+        "वॉटर ट्रांसपोर्ट, एयर ट्रांसपोर्ट",
+        "ऑयल और गैस पाइपलाइन्स",
+        "कम्युनिकेशन नेटवर्क्स — पर्सनल और मास कम्युनिकेशन",
+        "इंडिया में IT रेवोल्यूशन"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "IT रेवोल्यूशन इम्पैक्ट्स SA (2025)। आमतौर पर लो-वेट चैप्टर।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 16,
+      "name": "अन्तर्राष्ट्रीय व्यापार (International Trade — India)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B8",
+      "unit_name": "IV",
+      "part": "Section B",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी-मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "इंडिया के एक्सपोर्ट्स और इम्पोर्ट्स का चेंजिंग पैटर्न",
+        "ट्रेड की डायरेक्शन",
+        "सी पोर्ट्स एज़ गेटवेज़ — वेस्टर्न कोस्ट: कांडला, मुंबई, जवाहरलाल नेहरू, मर्मगाओ, मंगलोर, कोच्चि",
+        "ईस्टर्न कोस्ट: कोलकाता, हल्दिया, पारादीप, विशाखापत्तनम (लैंड-लॉक्ड), चेन्नई, एन्नोर, तूतीकोरिन",
+        "एयरपोर्ट्स"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "पोर्ट लोकेशन MCQs (2022, 2024-हल्दिया=WB, 2025 लैंड-लॉक्ड=विशाखापत्तनम, 2026 वेस्ट कोस्ट=मर्मगाओ)। मैप वर्क हेवी।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 17,
+      "name": "भौगोलिक परिप्रेक्ष्य में चयनित कुछ मुद्दे एवं समस्याएँ (Geographical Perspective on Selected Issues)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B9",
+      "unit_name": "V",
+      "part": "Section B",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी-मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "एनवायरनमेंटल पॉल्यूशन — वॉटर पॉल्यूशन, एयर पॉल्यूशन (एसिड रेन कॉज़), नॉइज़ पॉल्यूशन",
+        "अर्बन वेस्ट डिस्पोज़ल",
+        "रूरल-अर्बन माइग्रेशन — केस स्टडी",
+        "स्लम्स (गंदी बस्तियाँ) की प्रॉब्लम्स",
+        "लैंड डीग्रेडेशन — केस स्टडी",
+        "नमामि गंगे प्रोग्राम"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "एसिड रेन कॉज़ MCQ (2025 — एयर पॉल्यूशन)। एयर पॉल्यूशन इन इंडिया SA (2026)। वॉटर पॉल्यूशन कॉज़ेस VSA/SA (2025, 2026)। नॉइज़ पॉल्यूशन सोर्सेस VSA (2026)। अर्बन वेस्ट मैनेजमेंट SA/LA (2024, 2025, 2026)। माइग्रेशन टाइप्स SA (2024)। लैंड डीग्रेडेशन LA (2025)। स्लम्स प्रॉब्लम्स, नमामि गंगे — एक्सपेक्टेड सून।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 18,
+      "name": "आँकड़े — स्रोत तथा संकलन (Data — Sources and Compilation)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "P1",
+      "unit_name": "Practical",
+      "part": "Practical",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "प्राइमरी, सेकेंडरी और अदर सोर्सेस",
+        "डेटा का टैब्युलेशन",
+        "क्लासिफिकेशन",
+        "ओजाइव कर्व",
+        "फ्रीक्वेंसी पॉलीगन"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 19,
+      "name": "आँकड़ों का प्रक्रमण (Data Processing)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "P2",
+      "unit_name": "Practical",
+      "part": "Practical",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "मेज़र्स ऑफ सेंट्रल टेंडेंसी",
+        "मीन, मीडियन, मोड और उनका कंपेरिज़न"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 20,
+      "name": "आँकड़ों का आलेखीय निरूपण (Graphical Representation of Data)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "P3",
+      "unit_name": "Practical",
+      "part": "Practical",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "डायग्राम्स का कंस्ट्रक्शन",
+        "बार डायग्राम्स",
+        "लाइन डायग्राम्स और फ्लो चार्ट्स",
+        "थीमेटिक मैप्स",
+        "डॉट मैप, कोरोप्लेथ, आइसोप्लेथ"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 21,
+      "name": "स्थानिक सूचना प्रौद्योगिकी (Spatial Information Technology)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "P4",
+      "unit_name": "Practical",
+      "part": "Practical",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "GIS (ज्योग्राफिकल इन्फॉर्मेशन सिस्टम) और कंपोनेंट्स",
+        "सॉफ्टवेयर",
+        "रास्टर और वेक्टर डेटा फॉर्मैट्स",
+        "GIS ऑपरेशन्स का सीक्वेंस"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Geography Class 12 — 21 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "सिर्फ Q23 और Q24 (लॉन्ग आंसर) में 'अथवा/OR' ऑप्शन मिलता है। बाकी सब कंपल्सरी।",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [
+      "मानव भूगोल — प्रकृति एवं विषय-क्षेत्र (Human Geography — Nature and Scope) (4 marks)",
+      "मानव विकास (Human Development) (3 marks)",
+      "द्वितीयक क्रियाएँ (Secondary Activities) (3 marks)",
+      "तृतीयक और चतुर्थक क्रियाकलाप (Tertiary and Quaternary Activities) (3 marks)",
+      "परिवहन एवं संचार (Transport and Communication) (3 marks)",
+      "अन्तर्राष्ट्रीय व्यापार (International Trade) (4 marks)",
+      "जनसंख्या — वितरण, घनत्व, वृद्धि और संघटन (Population — India) (4 marks)",
+      "मानव बस्तियाँ (Human Settlements) (3 marks)",
+      "भूसंसाधन तथा कृषि (Land Resources and Agriculture) (4 marks)",
+      "जल संसाधन (Water Resources) (3 marks)",
+      "भारत के संदर्भ में नियोजन और सतत् पोषणीय विकास (Planning and Sustainable Development) (3 marks)",
+      "परिवहन तथा संचार (Transport and Communication — India) (2 marks)",
+      "अन्तर्राष्ट्रीय व्यापार (International Trade — India) (2 marks)",
+      "भौगोलिक परिप्रेक्ष्य में चयनित कुछ मुद्दे एवं समस्याएँ (Geographical Perspective on Selected Issues) (4 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "हाईएस्ट/लोएस्ट पॉपुलेशन डेंसिटी स्टेट (बिहार/अरुणाचल प्रदेश) (Q: MCQ, 1)",
+      "ह्यूमन ज्योग्राफी अप्रोच/कॉन्सेप्ट (डिटरमिनिज़्म टाइप्स) (Q: MCQ/LA, 1-6)",
+      "प्लांटेशन क्रॉप आइडेंटिफिकेशन (रबर/टी/कॉफी) (Q: MCQ, 1)",
+      "प्राइमरी/सेकेंडरी/टर्शरी एक्टिविटी आइडेंटिफिकेशन (Q: MCQ, 1)",
+      "सेक्स रेशियो डेफिनिशन/मेज़रमेंट (Q: VSA, 2)",
+      "पॉपुलेशन डिस्ट्रीब्यूशन को इन्फ्लुएंस करने वाले फैक्टर्स (वर्ल्ड) (Q: SA/LA, 4-6)",
+      "ह्यूमन ज्योग्राफी नेचर एंड स्कोप (LA) (Q: LA, 6)",
+      "आयरन ओर / आयरन-स्टील / पेट्रोलियम / मैंगनीज़ डिस्ट्रीब्यूशन इन इंडिया (Q: LA, 6)",
+      "UP की कैपिटल (लखनऊ) — इंडिया मैप (Q: MAP, 1)",
+      "सेंट्रल अमेरिका शिपिंग कैनाल (पनामा) — वर्ल्ड मैप (Q: MAP, 1)",
+      "NE अफ्रीका/इजिप्ट की इम्पोर्टेंट रिवर (नाइल) — वर्ल्ड मैप (Q: MAP, 1)",
+      "जापान की कैपिटल (टोक्यो) — वर्ल्ड मैप (Q: MAP, 1)"
+    ],
+    "chapters_mostly_theory": [
+      "मानव भूगोल — प्रकृति एवं विषय-क्षेत्र (Human Geography — Nature and Scope)",
+      "विश्व जनसंख्या — वितरण, घनत्व और वृद्धि (World Population)",
+      "मानव विकास (Human Development)",
+      "प्राथमिक क्रियाएँ (Primary Activities)",
+      "द्वितीयक क्रियाएँ (Secondary Activities)",
+      "तृतीयक और चतुर्थक क्रियाकलाप (Tertiary and Quaternary Activities)",
+      "परिवहन एवं संचार (Transport and Communication)",
+      "अन्तर्राष्ट्रीय व्यापार (International Trade)",
+      "जनसंख्या — वितरण, घनत्व, वृद्धि और संघटन (Population — India)",
+      "मानव बस्तियाँ (Human Settlements)",
+      "भूसंसाधन तथा कृषि (Land Resources and Agriculture)",
+      "जल संसाधन (Water Resources)",
+      "खनिज तथा ऊर्जा संसाधन (Mineral and Energy Resources)",
+      "भारत के संदर्भ में नियोजन और सतत् पोषणीय विकास (Planning and Sustainable Development)",
+      "परिवहन तथा संचार (Transport and Communication — India)",
+      "अन्तर्राष्ट्रीय व्यापार (International Trade — India)",
+      "भौगोलिक परिप्रेक्ष्य में चयनित कुछ मुद्दे एवं समस्याएँ (Geographical Perspective on Selected Issues)",
+      "आँकड़े — स्रोत तथा संकलन (Data — Sources and Compilation)",
+      "आँकड़ों का प्रक्रमण (Data Processing)",
+      "आँकड़ों का आलेखीय निरूपण (Graphical Representation of Data)",
+      "स्थानिक सूचना प्रौद्योगिकी (Spatial Information Technology)"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "मानव भूगोल — प्रकृति एवं विषय-क्षेत्र (Human Geography — Nature and Scope)",
+      "विश्व जनसंख्या — वितरण, घनत्व और वृद्धि (World Population)",
+      "मानव विकास (Human Development)",
+      "प्राथमिक क्रियाएँ (Primary Activities)",
+      "द्वितीयक क्रियाएँ (Secondary Activities)",
+      "तृतीयक और चतुर्थक क्रियाकलाप (Tertiary and Quaternary Activities)",
+      "परिवहन एवं संचार (Transport and Communication)",
+      "अन्तर्राष्ट्रीय व्यापार (International Trade)",
+      "जनसंख्या — वितरण, घनत्व, वृद्धि और संघटन (Population — India)",
+      "मानव बस्तियाँ (Human Settlements)",
+      "भूसंसाधन तथा कृषि (Land Resources and Agriculture)",
+      "जल संसाधन (Water Resources)",
+      "खनिज तथा ऊर्जा संसाधन (Mineral and Energy Resources)",
+      "भारत के संदर्भ में नियोजन और सतत् पोषणीय विकास (Planning and Sustainable Development)",
+      "परिवहन तथा संचार (Transport and Communication — India)",
+      "अन्तर्राष्ट्रीय व्यापार (International Trade — India)",
+      "भौगोलिक परिप्रेक्ष्य में चयनित कुछ मुद्दे एवं समस्याएँ (Geographical Perspective on Selected Issues)",
+      "आँकड़े — स्रोत तथा संकलन (Data — Sources and Compilation)",
+      "आँकड़ों का प्रक्रमण (Data Processing)",
+      "आँकड़ों का आलेखीय निरूपण (Graphical Representation of Data)",
+      "स्थानिक सूचना प्रौद्योगिकी (Spatial Information Technology)"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "हाईएस्ट/लोएस्ट पॉपुलेशन डेंसिटी स्टेट (बिहार/अरुणाचल प्रदेश) (Q: MCQ, 1)",
+      "ह्यूमन ज्योग्राफी अप्रोच/कॉन्सेप्ट (डिटरमिनिज़्म टाइप्स) (Q: MCQ/LA, 1-6)",
+      "प्लांटेशन क्रॉप आइडेंटिफिकेशन (रबर/टी/कॉफी) (Q: MCQ, 1)",
+      "प्राइमरी/सेकेंडरी/टर्शरी एक्टिविटी आइडेंटिफिकेशन (Q: MCQ, 1)",
+      "सेक्स रेशियो डेफिनिशन/मेज़रमेंट (Q: VSA, 2)",
+      "पॉपुलेशन डिस्ट्रीब्यूशन को इन्फ्लुएंस करने वाले फैक्टर्स (वर्ल्ड) (Q: SA/LA, 4-6)",
+      "ह्यूमन ज्योग्राफी नेचर एंड स्कोप (LA) (Q: LA, 6)",
+      "आयरन ओर / आयरन-स्टील / पेट्रोलियम / मैंगनीज़ डिस्ट्रीब्यूशन इन इंडिया (Q: LA, 6)",
+      "UP की कैपिटल (लखनऊ) — इंडिया मैप (Q: MAP, 1)",
+      "सेंट्रल अमेरिका शिपिंग कैनाल (पनामा) — वर्ल्ड मैप (Q: MAP, 1)",
+      "NE अफ्रीका/इजिप्ट की इम्पोर्टेंट रिवर (नाइल) — वर्ल्ड मैप (Q: MAP, 1)",
+      "जापान की कैपिटल (टोक्यो) — वर्ल्ड मैप (Q: MAP, 1)"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "map_work_masterlist": {
+      "note": "ये लिस्ट 2022-2026 के PYQ से बनाई गई है। पूरा पेपर 10 मार्क्स का मैप वर्क — याद कर लो तो ईज़ी 8-10 मार्क्स।",
+      "India_map_items_to_master": [
+        {
+          "item": "बिहार",
+          "context": "हाईएस्ट पॉपुलेशन डेंसिटी स्टेट",
+          "years_asked": "2023"
+        },
+        {
+          "item": "अरुणाचल प्रदेश",
+          "context": "लोएस्ट पॉपुलेशन डेंसिटी स्टेट",
+          "years_asked": "2024, 2025"
+        },
+        {
+          "item": "उत्तर प्रदेश (लखनऊ)",
+          "context": "लार्जेस्ट पॉपुलेशन स्टेट / कैपिटल सिटी",
+          "years_asked": "2023, 2024, 2025"
+        },
+        {
+          "item": "केरल",
+          "context": "हाईएस्ट लिटरेसी रेट स्टेट",
+          "years_asked": "2023"
+        },
+        {
+          "item": "केरल",
+          "context": "हाईएस्ट HDI स्टेट",
+          "years_asked": "2023"
+        },
+        {
+          "item": "हरियाणा",
+          "context": "लोएस्ट सेक्स रेशियो स्टेट",
+          "years_asked": "2024"
+        },
+        {
+          "item": "पश्चिम बंगाल",
+          "context": "लार्जेस्ट राइस प्रोड्यूसर स्टेट",
+          "years_asked": "2022"
+        },
+        {
+          "item": "असम (डिगबोई/नहरकटिया)",
+          "context": "मेजर ऑयल फील्ड्स स्टेट",
+          "years_asked": "2024, 2026"
+        },
+        {
+          "item": "झारखंड (झरिया/बोकारो)",
+          "context": "मेजर कोल प्रोड्यूसिंग एरिया",
+          "years_asked": "2024"
+        },
+        {
+          "item": "तारापुर (महाराष्ट्र)",
+          "context": "फर्स्ट एटॉमिक पावर स्टेशन",
+          "years_asked": "2024"
+        },
+        {
+          "item": "राजस्थान",
+          "context": "इंदिरा गांधी कैनाल पासेस थ्रू",
+          "years_asked": "2023, 2024"
+        },
+        {
+          "item": "अरावली रेंज (राजस्थान)",
+          "context": "राजस्थान की माउंटेन रेंज",
+          "years_asked": "2026"
+        },
+        {
+          "item": "महानदी (ओडिशा)",
+          "context": "ओडिशा की इम्पोर्टेंट रिवर",
+          "years_asked": "2026"
+        },
+        {
+          "item": "आंध्र प्रदेश",
+          "context": "SE इंडिया में लार्जेस्ट स्टेट / AP कैपिटल",
+          "years_asked": "2026"
+        },
+        {
+          "item": "हल्दिया (पश्चिम बंगाल)",
+          "context": "पोर्ट लोकेशन",
+          "years_asked": "2024"
+        },
+        {
+          "item": "कांडला (गुजरात)",
+          "context": "गुजरात सी पोर्ट",
+          "years_asked": "2025"
+        },
+        {
+          "item": "विशाखापत्तनम (आंध्र प्रदेश)",
+          "context": "लैंड-लॉक्ड पोर्ट / AP पोर्ट",
+          "years_asked": "2022, 2025"
+        },
+        {
+          "item": "मथुरा/पानीपत/भटिंडा (पंजाब)",
+          "context": "पंजाब की ऑयल रिफाइनरी (आंसर: भटिंडा/पानीपत)",
+          "years_asked": "2025"
+        },
+        {
+          "item": "बेंगलुरु",
+          "context": "इंडिया का IT सिटी",
+          "years_asked": "2025"
+        },
+        {
+          "item": "हैदराबाद",
+          "context": "तेलंगाना का मिलियन-प्लस सिटी",
+          "years_asked": "2022"
+        }
+      ],
+      "World_map_items_to_master": [
+        {
+          "item": "पनामा कैनाल",
+          "context": "सेंट्रल अमेरिका का शिपिंग कैनाल",
+          "years_asked": "2024, 2026"
+        },
+        {
+          "item": "नाइल",
+          "context": "NE अफ्रीका / इजिप्ट की इम्पोर्टेंट रिवर",
+          "years_asked": "2024, 2025, 2026"
+        },
+        {
+          "item": "टोक्यो",
+          "context": "जापान की कैपिटल",
+          "years_asked": "2024, 2026"
+        },
+        {
+          "item": "मॉस्को",
+          "context": "रूस की कैपिटल",
+          "years_asked": "2025"
+        },
+        {
+          "item": "बीजिंग",
+          "context": "चीन की कैपिटल",
+          "years_asked": "2023"
+        },
+        {
+          "item": "वॉशिंगटन DC",
+          "context": "USA की कैपिटल",
+          "years_asked": "2023"
+        },
+        {
+          "item": "ओटावा",
+          "context": "कनाडा की कैपिटल",
+          "years_asked": "2022"
+        },
+        {
+          "item": "सहारा",
+          "context": "लार्जेस्ट ट्रॉपिकल डेज़र्ट",
+          "years_asked": "2025"
+        },
+        {
+          "item": "ब्राज़ील",
+          "context": "साउथ अमेरिका का कॉफी प्रोड्यूसर",
+          "years_asked": "2025"
+        },
+        {
+          "item": "USA",
+          "context": "नॉर्थ अमेरिका का लार्जेस्ट पॉपुलेशन कंट्री / हाईएस्ट HDI कंट्री often",
+          "years_asked": "2022, 2024, 2025"
+        },
+        {
+          "item": "इंडोनेशिया / पाकिस्तान",
+          "context": "3rd लार्जेस्ट पॉपुलेशन कंट्री (ईयर पर डिपेंड)",
+          "years_asked": "2022, 2024"
+        },
+        {
+          "item": "लंदन",
+          "context": "ग्रेट ब्रिटेन का मोस्ट पॉपुलेटेड सिटी",
+          "years_asked": "2026"
+        },
+        {
+          "item": "सिडनी / मेलबर्न",
+          "context": "ऑस्ट्रेलिया का मेजर सी पोर्ट",
+          "years_asked": "2026"
+        },
+        {
+          "item": "मेडिटेरेनियन फ्रांस/इटली/स्पेन (रोन वैली, टस्कनी)",
+          "context": "यूरोप का मेजर ग्रेप प्रोड्यूसिंग एरिया",
+          "years_asked": "2026"
+        },
+        {
+          "item": "मार्से / बार्सिलोना / जेनोआ",
+          "context": "मेडिटेरेनियन सी पोर्ट",
+          "years_asked": "2024"
+        },
+        {
+          "item": "योकोहामा / कोबे",
+          "context": "जापान का मेजर सी पोर्ट",
+          "years_asked": "2023, 2026"
+        },
+        {
+          "item": "अमेज़न",
+          "context": "साउथ अमेरिका की इम्पोर्टेंट रिवर",
+          "years_asked": "2023"
+        },
+        {
+          "item": "सैंटोस / रियो डी जनेरियो",
+          "context": "ब्राज़ील का सी पोर्ट",
+          "years_asked": "2022"
+        },
+        {
+          "item": "नॉर्वे / स्विट्ज़रलैंड",
+          "context": "हाईएस्ट HDI कंट्री",
+          "years_asked": "2022, 2024"
+        },
+        {
+          "item": "ऑस्ट्रेलिया",
+          "context": "लोएस्ट पॉपुलेशन वाला कॉन्टिनेंट",
+          "years_asked": "2024"
+        },
+        {
+          "item": "शेफील्ड / बर्मिंघम",
+          "context": "ग्रेट ब्रिटेन का आयरन-स्टील एरिया",
+          "years_asked": "2022"
+        }
+      ]
+    },
+    "pyq_analysis_2022_to_2026": {
+      "summary": "5 साल के पेपर्स (2022, 2023, 2024, 2025, 2026-CP) एनालिसिस से पैटर्न एकदम क्लियर है। 60-70% क्वेश्चन्स रिपीट कॉन्सेप्ट/टॉपिक पर बेस्ड होते हैं।",
+      "most_repeated_MCQ_topics": [
+        "ह्यूमन ज्योग्राफी कॉन्सेप्ट (डिटरमिनिज़्म/पॉसिबिलिज़्म/नियो-डिटरमिनिज़्म) — हर साल Q1",
+        "पॉपुलेशन डेंसिटी स्टेट (हाईएस्ट/लोएस्ट) — हर साल",
+        "प्लांटेशन क्रॉप — 3/5 ईयर्स",
+        "प्राइमरी/सेकेंडरी/टर्शरी एक्टिविटी आइडेंटिफिकेशन — 4/5 ईयर्स",
+        "ऑयल फील्ड स्टेट (असम) / बॉम्बे हाई — 4/5 ईयर्स",
+        "पोर्ट लोकेशन — 4/5 ईयर्स"
+      ],
+      "most_repeated_VSA_topics": [
+        "सेक्स रेशियो डेफिनिशन (4/5 ईयर्स)",
+        "ह्यूमन रिसोर्स मीनिंग (2/5 ईयर्स)",
+        "ह्यूमन डेवलपमेंट डेफिनिशन (2/5 ईयर्स)",
+        "क्लस्टर्ड सेटलमेंट्स (2/5 ईयर्स)",
+        "मेटैलिक मिनरल्स नेम्स (2/5 ईयर्स)",
+        "वॉटर पॉल्यूशन कॉज़ेस (2/5 ईयर्s)"
+      ],
+      "most_repeated_SA_topics": [
+        "पॉपुलेशन डिस्ट्रीब्यूशन फैक्टर्स (वर्ल्ड) — हर साल किसी न किसी फॉर्म में",
+        "नोमैडिक vs कमर्शियल लाइवस्टॉक (2/5 ईयर्स)",
+        "प्राइमरी vs सेकेंडरी एक्टिविटीज़ (2/5 ईयर्स)",
+        "टाइप्स ऑफ माइग्रेशन (2022, 2024)"
+      ],
+      "most_repeated_LA_topics": [
+        "ह्यूमन ज्योग्राफी नेचर एंड स्कोप — 3/5 ईयर्स (2022, 2024, 2026)",
+        "आयरन ओर / आयरन-स्टील इंडस्ट्री — 3/5 ईयर्स (2022, 2023, 2024)",
+        "पॉपुलेशन डिस्ट्रीब्यूशन फैक्टर्स (वर्ल्ड) — 3/5 ईयर्स (2022, 2023, 2025)",
+        "सस्टेनेबल डेवलपमेंट — 2/5 ईयर्स (2023, 2024)",
+        "रूरल vs अर्बन सेटलमेंट्स — 2/5 ईयर्स (2023, 2024)"
+      ],
+      "high_probability_2026_predictions": [
+        "MCQ: एक ह्यूमन ज्योग्राफी कॉन्सेप्ट + एक डेंसिटी स्टेट + एक ऑयल/कोल स्टेट + एक पोर्ट + एक एक्टिविटी टाइप — ऑल कन्फर्म्ड इन 2026-CP ऑलरेडी",
+        "LA Q23: ह्यूमन ज्योग्राफी नेचर-स्कोप OR इंडस्ट्री लोकेशन (कन्फर्म्ड 2026-CP)",
+        "LA Q24: लैंड यूज़ चेंज OR अर्बन वेस्ट मैनेजमेंट (कन्फर्म्ड 2026-CP)",
+        "इंडिया मैप: लोएस्ट पॉपुलेशन स्टेट, अरावली रेंज, महानदी, SE स्टेट, इसकी कैपिटल (कन्फर्म्ड 2026-CP)",
+        "वर्ल्ड मैप: पनामा, नाइल, ऑस्ट्रेलियन पोर्ट, यूरोपियन ग्रेप रीजन, लंदन (कन्फर्म्ड 2026-CP)"
+      ]
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Geography — maps/diagrams.",
+    "must_practise": [
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Not typically applicable for Geography (humanities subject).",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Geography",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Geography",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 30,
+    "passing_marks": 0,
+    "practical_exam_separate": true,
+    "practical_exam_note": "",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": true,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "यूपी बोर्ड ज्योग्राफी CBSE से थोड़ा सिम्पलर है — पर प्रेज़ेंटेशन स्ट्रिक्ट है। मैप वर्क 10/70 मार्क्स स्कोरिंग अपॉर्च्यूनिटी।",
+    "easy_percent": 40,
+    "medium_percent": 45,
+    "hard_percent": 15,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "मैप क्वेश्चन्स सबसे लास्ट में करो — ताकि आंसर बुक के साथ अटैच करने में दिक्कत न हो",
+      "MCQ 10 मिनट में निकल लो — जल्दी स्टार्ट करो for कॉन्फिडेंस बूस्ट",
+      "VSA में 2-3 लाइन से ज़्यादा नहीं — वर्ड्स वेस्ट मत करो",
+      "LA में डायग्राम/स्केच मैप ज़रूर बनाओ — even रफ one मिलता है एक्स्ट्रा मार्क्स",
+      "सेक्शन A के LA (Q23) में 'ह्यूमन ज्योग्राफी नेचर एंड स्कोप' प्रैक्टिस करके जाओ — 3 साल से आया है",
+      "सेक्शन B के LA (Q24) में आयरन ओर / पेट्रोलियम / मैंगनीज़ डिस्ट्रीब्यूशन एक पक्का करो — इंडिया का मैप स्केच विद शेडिंग",
+      "OR ऑप्शन पढ़ के जो ईज़ियर लगे वो अटेम्प्ट करो — दोनों देख के डिसाइड करो",
+      "मैप आइटम्स: इंडिया के लिए 20 कॉमन लोकेशन्स याद — वर्ल्ड के लिए 20 कॉमन लोकेशन्स याद। दोनों शीट में अलग-अलग प्रैक्टिस करो",
+      "हिंग्लिश चलेगा — कोई टर्म इंग्लिश में आता है तो वही लिखो (Demographic Transition, HDI, GIS — इंग्लिश में ही)",
+      "आंसर शीट पे राइटिंग क्लीन होनी चाहिए — यूपी बोर्ड स्ट्रिक्ट है प्रेज़ेंटेशन के लिए",
+      "150 वर्ड LA में 2-3 सब-हेडिंग्स बनाओ — एग्ज़ामिनर को विज़ुअल स्ट्रक्चर दिखता है"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "पेपर पढ़ो। OR ऑप्शन्स में से ईज़ियर चूज़ करो। मैप आइटम्स का मेंटल प्लान बनाओ (कौनसा स्टेट कहाँ है)।"
+      },
+      {
+        "section_id": "Q1_to_Q8_MCQ_10min",
+        "recommended_minutes": 0,
+        "note": "8 MCQ, हर एक ~1 मिनट। जल्दी निकल लो। कन्फ्यूज़्ड हो तो एलिमिनेशन यूज़ करो — नो नेगेटिव मार्किंग।"
+      },
+      {
+        "section_id": "Q9_to_Q16_VSA_25min",
+        "recommended_minutes": 0,
+        "note": "8 VSA, हर एक ~3 मिनट। 20 वर्ड्स स्ट्रिक्ट — 2-3 लाइन्स मैक्सिमम। कीवर्ड-बेस्ड आंसर।"
+      },
+      {
+        "section_id": "Q17_to_Q22_SA_50min",
+        "recommended_minutes": 0,
+        "note": "6 SA, हर एक ~8 मिनट। 50 वर्ड्स — 5-6 लाइन्स। इंट्रो + 3-4 पॉइंट्स + एक लाइन कंक्लूज़न।"
+      },
+      {
+        "section_id": "Q23_Q24_LA_40min",
+        "recommended_minutes": 0,
+        "note": "2 LA, हर एक ~20 मिनट। 150 वर्ड्स + स्केच मैप/डायग्राम। हेडिंग स्ट्रक्चर यूज़ करो।"
+      },
+      {
+        "section_id": "Q25_Q26_Map_15min",
+        "recommended_minutes": 0,
+        "note": "दोनों मैप्स — पेंसिल से सिंबल + पेन से नाम। मैप को आंसर बुक के साथ स्ट्रॉन्ग स्टेपल।"
+      },
+      {
+        "section_id": "revision_15min",
+        "recommended_minutes": 0,
+        "note": "मैप अटैचमेंट चेक, क्वेश्चन नंबर्स चेक, रोल नंबर चेक।"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 23 marks",
+        "target_marks": 23,
+        "strategy": "सारे 8 MCQ (8 मार्क्स, नो नेगेटिव) + 5-6 VSA (10-12 मार्क्स) + 1 ईज़ी SA (4 मार्क्स) + इंडिया मैप सारे 5 आइटम्स (5 मार्क्स)। टोटल = 27-29 मार्क्स। सेफ पास।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "MCQ — सारे 8 अटेम्प्ट करो, एलिमिनेशन से",
+          "VSA के ईज़ी टॉपिक्स — सेक्स रेशियो, ह्यूमन रिसोर्स, क्लस्टर्ड सेटलमेंट्स, माइग्रेशन, मेटैलिक मिनरल्स",
+          "इंडिया मैप — लखनऊ, असम, झारखंड, राजस्थान (IG कैनाल), विशाखापत्तनम — ये 5 याद कर लो गारंटीड 5 मार्क्स",
+          "वर्ल्ड मैप — पनामा, नाइल, टोक्यो, सहारा, ब्राज़ील — गारंटीड 5 मोर"
+        ],
+        "chapters_to_skip_safely": [
+          "कॉम्प्लेक्स LA मैकेनिज़्म्स",
+          "डिटेल्ड इंडस्ट्रियल लोकेशन SA",
+          "स्पेशियल इन्फॉर्मेशन टेक (प्रैक्टिकल ओनली)"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45",
+        "target_marks": 45,
+        "strategy": "MCQ (8) + VSA all 8 (16) + SA 4-5 (16-20) + LA 1 ईज़ी (6) + मैप बोथ (10) = 56+ ईज़ी।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "सेक्शन A Ch 1, 2, 4 डीपली",
+          "सेक्शन B Ch 1, 5 डीपली (मैप हेवी)",
+          "ऑल नेम्ड स्कॉलर्स: E.C. सेंपल, विडाल डी ला ब्लाश, ग्रिफ़िथ टेलर, अमर्त्य सेन, महबूब-उल-हक़",
+          "आयरन ओर, पेट्रोलियम, मैंगनीज़ डिस्ट्रीब्यूशन — 3 स्टेट-वाइज़ टेबल्स याद करो",
+          "पॉपुलेशन डिस्ट्रीब्यूशन फैक्टर्स (वर्ल्ड + इंडिया) — दोनों LA और SA लेवल"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60 marks",
+        "target_marks": 60,
+        "strategy": "सब कुछ अटेम्प्ट — MCQ (8) + VSA (16) + SA all 6 (24) + LA बोथ (12) + मैप बोथ (10) = 70।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "ऑल स्कॉलर्स और उनके कॉन्सेप्ट्स — MCQ Q1 हमेशा इसी से",
+          "ऑल LA टॉपिक्स प्रैक्टिस्ड विद डायग्राम्स और स्केच मैप्स",
+          "दोनों इंडिया और वर्ल्ड मैप आइटम्स — 40+ लोकेशन्स",
+          "केस स्टडीज़ — भरमौर, इंदिरा गांधी कैनाल, अहमदनगर वॉटरशेड, नमामि गंगे",
+          "डेमोग्राफिक ट्रांज़िशन 4 स्टेजेस, HDI अप्रोचेस 4 टाइप्स, लैंड यूज़ 9 क्लासिफिकेशन्स — इन तीनों लिस्ट्स को रट लो",
+          "पोर्ट्स लिस्ट — ईस्ट कोस्ट + वेस्ट कोस्ट बोथ"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT ज्योग्राफी क्लास 12 पार्ट I — मानव भूगोल के मूल सिद्धांत",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "सेक्शन A पूरा इसी से। हर चैप्टर के एक्सरसाइज़ेज़ सॉल्व करो।"
+      },
+      {
+        "name": "NCERT ज्योग्राफी क्लास 12 पार्ट II — भारत लोग और अर्थव्यवस्था",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "सेक्शन B पूरा इसी से। केस स्टडीज़ (भरमौर, IG कैनाल, नमामि गंगे) यहीं मिलेंगी।"
+      },
+      {
+        "name": "NCERT ज्योग्राफी क्लास 12 पार्ट III — प्रैक्टिकल वर्क इन ज्योग्राफी",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "प्रैक्टिकल पेपर का 30 मार्क्स बेस यहीं से। मीन/मीडियन/मोड + कोरोप्लेथ + GIS चैप्टर्स।"
+      },
+      {
+        "name": "यूपी बोर्ड क्लास 12 ज्योग्राफी प्रीवियस ईयर पेपर्स 2018-2025",
+        "author": "",
+        "publisher": "UPMSP / upboardonline.com",
+        "purpose": "Supplementary",
+        "note": "सेम क्वेश्चन्स रिपीट होते हैं। कम से कम 5 साल के पेपर्स सॉल्व करो।"
+      },
+      {
+        "name": "यूपी बोर्ड मॉडल पेपर 2025-26 (पेपर 322-CP)",
+        "author": "",
+        "publisher": "UPMSP",
+        "purpose": "Supplementary",
+        "note": "ऑफिशियल मॉडल पेपर — एग्ज़ैक्ट डिफिकल्टी और क्वेश्चन स्टाइल समझने के लिए।"
+      },
+      {
+        "name": "यूपी बोर्ड सॉल्व्ड पेपर्स — किसी भी पब्लिशर (अरिहंत, शिवदास, YCT)",
+        "author": "",
+        "publisher": "मल्टीपल",
+        "purpose": "Supplementary",
+        "note": "हिंदी मीडियम सॉल्यूशन्स + मैप डायग्राम्स। पर्टिक्युलरली यूज़फुल for LA आंसर स्ट्रक्चर।"
+      },
+      {
+        "name": "NCERT मैप प्रैक्टिस वर्कबुक",
+        "author": "",
+        "publisher": "NCERT या प्राइवेट पब्लिशर्स",
+        "purpose": "Supplementary",
+        "note": "10 मार्क्स का मैप वर्क — प्रैक्टिस शीट्स पे इंडिया और वर्ल्ड के ब्लैंक मैप्स पे लोकेशन्स प्लॉट करने की प्रैक्टिस।"
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 मिनट रीडिंग टाइम मिलता है (पेपर पढ़ने के लिए) — इस टाइम में लिखना अलाउड नहीं।"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "roll_number_and_name_on_both_answer_book_and_maps: True",
+      "map_attachment: सप्लाइड मैप को क्वेश्चन पेपर से फाड़के, उसमें सिंबल्स + नाम लिखके, आंसर बुक के साथ मज़बूती से (मज़बूती से = स्ट्रॉन्ग स्टेपल या टाई) अटैच करना कंपल्सरी है। अगर अटैच नहीं किया तो 10 मार्क्स का नुकसान।",
+      "sequence_compulsory: False",
+      "sequence_note: क्वेश्चन का सीक्वेंस फॉलो करना ज़रूरी नहीं — MCQ पहले भी अटेम्प्ट कर सकते हो, मैप पहले भी। बस हर आंसर के ऊपर क्वेश्चन नंबर क्लियरली लिखो।",
+      "no_negative_marking: True",
+      "mcq_attempt_all: सारे 8 MCQ अटेम्प्ट करो — नो नेगेटिव मार्किंग।",
+      "map_item_split: हर मैप आइटम का 1 मार्क = 1/2 (सही सिंबल/लोकेशन) + 1/2 (सही नाम)। दोनों सही होने चाहिए for फुल मार्क।",
+      "spelling_of_places: प्लेस नेम्स की स्पेलिंग सही होनी चाहिए — मर्मगाओ, विशाखापत्तनम, मर्मगाओ जैसे नाम प्रैक्टिस कर लो। गलत स्पेलिंग से 1/2 मार्क कट।"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['ब्लू', 'ब्लैक'] pencil_use: मैप्स, स्केच मैप्स, डायग्राम्स के लिए पेंसिल यूज़ करो — क्लीन दिखता है और गलती होने पे इरेज़ कर सकते हो। map_symbols_note: मैप में सिंबल्स पेंसिल से बना के, नाम ब्लू/ब्लैक पेन से लिखना सबसे सेफ।"
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "sketch_maps_and_diagrams: इंस्ट्रक्शन्स में लिखा है 'Illustrate your answers with suitable sketch maps and diagrams' — SA और LA में जहाँ पॉसिबल हो, स्मॉल स्केच बनाओ। एक्स्ट्रा मार्क्स मिलते हैं। headings_and_subheadings: LA (150 वर्ड्स) में हेडिंग-सब-हेडिंग स्ट्रक्चर यूज़ करो — एग्ज़ामिनर को पॉइंट्स क्लियरली दिखने चाहिए। word_limit_respect: 20/50/150 वर्ड्स लिमिट को रिस्पेक्ट करो। ज़्यादा लिखने से टाइम वेस्ट और नीट प्रेज़ेंटेशन नहीं रहेगा। hindi_or_english: दोनों लैंग्वेजेज़ अलाउड। मिक्स्ड भी चलेगा — टर्म इंग्लिश में (जैसे, 'Demographic Transition') और एक्सप्लेनेशन हिंदी में — कॉमन प्रैक्टिस है। partial_marking: True partial_marking_note: SA/LA में पार्शियल मार्क्स मिलते हैं — एक पॉइंट गलत हो तो बाकी पॉइंट्स के मार्क्स मिलेंगे।",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

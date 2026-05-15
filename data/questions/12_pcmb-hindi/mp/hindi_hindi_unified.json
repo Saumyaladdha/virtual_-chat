@@ -1,0 +1,1704 @@
+{
+  "board": "MPBSE",
+  "class": "12",
+  "subject": "हिंदी",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 80,
+    "practical_paper": 0,
+    "internal_assessment": 20,
+    "total": 100,
+    "passing_marks_theory": 26,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 7,
+    "duration_minutes": 180,
+    "extra_time_given": false,
+    "extra_time_note": "नहीं मिलता। 3 घंटे fixed हैं। Bell बजते ही उत्तर पुस्तिका जमा करनी होती है।",
+    "internal_assessment_note": "20 अंक आंतरिक मूल्यांकन के हैं — ये board exam में नहीं होते। Project, assignment, class participation से मिलते हैं।"
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 23,
+    "total_questions_to_attempt": 23,
+    "total_objective_questions": 0,
+    "total_sets": 4,
+    "sets_note": "MPBSE में 4 sets होते हैं: A, B, C, D। हर set में same questions होते हैं, सिर्फ order अलग होता है।",
+    "sets_same_or_different": "",
+    "language_of_attempt": "हिंदी में लिखना अनिवार्य है। अंग्रेजी में लिखने से marks नहीं मिलेंगे।",
+    "all_compulsory_note": "सभी 23 प्रश्न अनिवार्य हैं। प्रश्न 6 से 23 तक सभी में आंतरिक विकल्प (अथवा) दिया जाता है।",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "NCERT (आरोह भाग-2 और वितान भाग-2) अनिवार्य है। इसके साथ Pariksha Adhyayan Hindi और पिछले वर्षों के प्रश्नपत्र भी जरूरी हैं।",
+    "official_scheme_note": "",
+    "reference_books_note": "परीक्षा अध्ययन हिंदी, नवबोध हिंदी, Pariksha Adhyayan — ये books MPBSE के लिए सबसे उपयोगी हैं।",
+    "prescribed_textbooks": [
+      "आरोह भाग-2 (काव्य खंड + गद्य खंड)",
+      "वितान भाग-2 (पूरक पाठ्यपुस्तक)"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "हिंदी MPBSE Class 12 paper में 4 स्तर के प्रश्न होते हैं — वस्तुनिष्ठ (32), अति लघु (20), लघु (12), दीर्घ (16)। कुल 23 प्रश्न, सभी अनिवार्य।",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "सही विकल्प (MCQ)",
+        "question_number": "Q1",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "केवल सही विकल्प का अक्षर (अ/ब/स/द) लिखें। कोई व्याख्या नहीं चाहिए।",
+        "mostly_from": "काव्य खंड — कवि परिचय, कविताओं के पात्र और घटनाएं। गद्य खंड — लेखक, पाठ की घटनाएं। काव्यशास्त्र — अलंकार, रस, छंद। भाषा बोध — व्याकरण।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "रिक्त स्थान पूर्ति",
+        "question_number": "Q2",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "दिए गए विकल्पों में से सही शब्द चुनकर रिक्त स्थान में लिखें।",
+        "mostly_from": "रस का स्थायी भाव, छंद की मात्राएं, पात्रों के नाम, तकनीकी शब्द, लेखक/कवि की रचनाएं।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "सही जोड़ी मिलाइए (Match)",
+        "question_number": "Q3",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "स्तंभ (अ) और स्तंभ (ब) का मिलान करें। Format: i-(ग), ii-(अ) आदि।",
+        "mostly_from": "हिंदी साहित्य के युग, कवि-रचना मिलान, अलंकार-छंद, पात्र-पाठ मिलान।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "एक शब्द/एक वाक्य में उत्तर",
+        "question_number": "Q4",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 7,
+        "attempt": 7,
+        "negative_marking": false,
+        "how_to_attempt": "एक शब्द या अधिकतम एक वाक्य में उत्तर लिखें।",
+        "mostly_from": "काव्य की परिभाषा, पात्रों की जानकारी, छंद-अलंकार के प्रकार, मुहावरे का अर्थ, व्याकरण की परिभाषा।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "सत्य/असत्य",
+        "question_number": "Q5",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "सत्य या असत्य लिखें। कोई कारण नहीं चाहिए।",
+        "mostly_from": "पाठों की घटनाओं पर आधारित कथन, शब्द शक्ति, व्याकरण नियम, लेखक/कवि से संबंधित तथ्य।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "अति लघु उत्तर (2 अंक)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 2,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "2-3 पंक्तियों में सटीक उत्तर। अनावश्यक विस्तार नहीं।",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "लगभग 30 शब्द",
+        "notes": ""
+      },
+      {
+        "type": "लघु उत्तर (3 अंक)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 3,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "3 बिंदुओं में स्पष्ट उत्तर। निर्धारित बिंदुओं (रचनाएं, भावपक्ष-कलापक्ष, साहित्य में स्थान) पर ध्यान दें।",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "लगभग 75 शब्द",
+        "notes": ""
+      },
+      {
+        "type": "दीर्घ उत्तर (4 अंक)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 4,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "संदर्भ-प्रसंग सहित व्याख्या (Q20, Q21), पत्र-लेखन (Q22), निबंध (Q23)।",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "लगभग 120 शब्द",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "हिंदी paper में 23 प्रश्न होते हैं। Maximum 80 अंक। 3 घंटे। प्रश्न 6 से 23 तक सभी में अथवा (OR) विकल्प।",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 50,
+      "medium_percent": 35,
+      "hard_percent": 15,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "1",
+        "name": "section 1 vastunishtha",
+        "type": "section_1_vastunishtha",
+        "question_numbers": "प्रश्न 1 से 5",
+        "total_questions": 0,
+        "total_sub_questions": 6,
+        "attempt_required": 0,
+        "marks_per_question": 1,
+        "total_marks": 32,
+        "word_limit": "",
+        "breakdown": "Q1_sahi_vikalp: {'type': 'सही विकल्प चुनिए (MCQ)', 'count': 6, 'marks': 6}; Q2_rikt_sthan: {'type': 'रिक्त स्थान भरिए', 'count': 6, 'marks': 6}; Q3_sahi_jodi: {'type': 'सही जोड़ी मिलाइए (Match)', 'count': 6, 'marks': 6}; Q4_ek_vakya: {'type': 'एक शब्द/वाक्य में उत्तर दीजिए', 'count': 7, 'marks': 7}; Q5_satya_asatya: {'type': 'सत्य/असत्य चुनिए (True/False)', 'count': 6, 'marks': 6}; नोट: कुछ papers में Q1 से Q5 का विभाजन थोड़ा अलग हो सकता है, लेकिन कुल वस्तुनिष्ठ = 32 अंक।",
+        "notes": ""
+      },
+      {
+        "section_id": "2",
+        "name": "section 2 ati laghu",
+        "type": "section_2_ati_laghu",
+        "question_numbers": "प्रश्न 6 से 15",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "लगभग 30 शब्द",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "3",
+        "name": "section 3 laghu",
+        "type": "section_3_laghu",
+        "question_numbers": "प्रश्न 16 से 19",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": "लगभग 75 शब्द",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "4",
+        "name": "section 4 dirgha",
+        "type": "section_4_dirgha",
+        "question_numbers": "प्रश्न 20 से 23",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 4,
+        "total_marks": 16,
+        "word_limit": "लगभग 120 शब्द",
+        "breakdown": "",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 80,
+    "total_practical": 0,
+    "internal_assessment": 20,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "1",
+        "name": "section 1 vastunishtha",
+        "question_numbers": "",
+        "type": "section_1_vastunishtha",
+        "total_questions": 0,
+        "total_sub_questions": 6,
+        "marks_per_question": 1,
+        "total_marks": 32,
+        "word_limit": "",
+        "breakdown": "Q1_sahi_vikalp: {'type': 'सही विकल्प चुनिए (MCQ)', 'count': 6, 'marks': 6}; Q2_rikt_sthan: {'type': 'रिक्त स्थान भरिए', 'count': 6, 'marks': 6}; Q3_sahi_jodi: {'type': 'सही जोड़ी मिलाइए (Match)', 'count': 6, 'marks': 6}; Q4_ek_vakya: {'type': 'एक शब्द/वाक्य में उत्तर दीजिए', 'count': 7, 'marks': 7}; Q5_satya_asatya: {'type': 'सत्य/असत्य चुनिए (True/False)', 'count': 6, 'marks': 6}; नोट: कुछ papers में Q1 से Q5 का विभाजन थोड़ा अलग हो सकता है, लेकिन कुल वस्तुनिष्ठ = 32 अंक।"
+      },
+      {
+        "section_id": "2",
+        "name": "section 2 ati laghu",
+        "question_numbers": "",
+        "type": "section_2_ati_laghu",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "लगभग 30 शब्द",
+        "breakdown": ""
+      },
+      {
+        "section_id": "3",
+        "name": "section 3 laghu",
+        "question_numbers": "",
+        "type": "section_3_laghu",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": "लगभग 75 शब्द",
+        "breakdown": ""
+      },
+      {
+        "section_id": "4",
+        "name": "section 4 dirgha",
+        "question_numbers": "",
+        "type": "section_4_dirgha",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 16,
+        "word_limit": "लगभग 120 शब्द",
+        "breakdown": ""
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 80,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "1",
+      "name": "आत्म परिचय, एक गीत",
+      "marks": 0,
+      "note": ""
+    },
+    "lowest_marks_chapters": [],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "आत्म परिचय, एक गीत",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Khand"
+      },
+      {
+        "chapter_id": "2",
+        "name": "पतंग",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Khand"
+      },
+      {
+        "chapter_id": "3",
+        "name": "कविता के बहाने, बात सीधी थी पर",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Khand"
+      },
+      {
+        "chapter_id": "4",
+        "name": "कैमरे में बंद अपाहिज",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Khand"
+      },
+      {
+        "chapter_id": "5",
+        "name": "उषा",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Khand"
+      },
+      {
+        "chapter_id": "6",
+        "name": "बादल राग",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Khand"
+      },
+      {
+        "chapter_id": "7",
+        "name": "कवितावली (उत्तर कांड से), लक्ष्मण-मूर्छा और राम का विलाप",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Khand"
+      },
+      {
+        "chapter_id": "8",
+        "name": "रुबाइयाँ, छोटा मेरा खेत, बगुलों के पंख",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Khand"
+      },
+      {
+        "chapter_id": "9",
+        "name": "रुबाइयाँ",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Khand"
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Hindi Class 12 — 9 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Hindi — Padya Khand",
+        "category": "Padya Khand",
+        "total_marks": 0,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "आत्म परिचय, एक गीत",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "पतंग",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "कविता के बहाने, बात सीधी थी पर",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "कैमरे में बंद अपाहिज",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "उषा",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "बादल राग",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "कवितावली (उत्तर कांड से), लक्ष्मण-मूर्छा और राम का विलाप",
+            "marks": 0,
+            "topics": [],
+            "note": "यह तुलसीदास की पंक्तियाँ: 'धूत कहौ, अवधूत कहौ...' — आत्मसम्मान और निर्भीकता का भाव।"
+          },
+          {
+            "chapter_id": "8",
+            "name": "रुबाइयाँ, छोटा मेरा खेत, बगुलों के पंख",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "रुबाइयाँ",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "आत्म परिचय, एक गीत",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 1,
+      "unit_name": "",
+      "part": "Padya Khand",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "काव्यांश की व्याख्या (Q20), कवि परिचय (Q16), MCQ में रचनाएं।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "पतंग",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 2,
+      "unit_name": "",
+      "part": "Padya Khand",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "पतंग और बच्चों का प्रतीकार्थ, दिशाओं को मृदंग की तरह बजाने का अर्थ।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "कविता के बहाने, बात सीधी थी पर",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 3,
+      "unit_name": "",
+      "part": "Padya Khand",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "भाषा को सहूलियत से बरतने का अभिप्राय, 'बात की चूड़ी मर जाना' का अर्थ।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "कैमरे में बंद अपाहिज",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 4,
+      "unit_name": "",
+      "part": "Padya Khand",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "कविता में मीडिया पर किस प्रकार कटाक्ष किया गया है।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "उषा",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 5,
+      "unit_name": "",
+      "part": "Padya Khand",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "कवि ने भोर के नभ की तुलना किससे की, उषा की सुंदरता का वर्णन।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "बादल राग",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 6,
+      "unit_name": "",
+      "part": "Padya Khand",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "बादल को किसका प्रतीक माना गया है, 'विप्लव के बादल' का अर्थ।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "कवितावली (उत्तर कांड से), लक्ष्मण-मूर्छा और राम का विलाप",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 7,
+      "unit_name": "",
+      "part": "Padya Khand",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "यह तुलसीदास की पंक्तियाँ: 'धूत कहौ, अवधूत कहौ...' — आत्मसम्मान और निर्भीकता का भाव।",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "यह तुलसीदास की पंक्तियाँ: 'धूत कहौ, अवधूत कहौ...' — आत्मसम्मान और निर्भीकता का भाव।",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "काव्यांश की व्याख्या (Q20), तुलसीदास का काव्यगत परिचय (Q16)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "रुबाइयाँ, छोटा मेरा खेत, बगुलों के पंख",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 8,
+      "unit_name": "",
+      "part": "Padya Khand",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "रुबाइयों में माँ-बच्चे के प्रेम का वर्णन, 'आँगन में ठुनक रहा है' पंक्ति की व्याख्या।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "रुबाइयाँ",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 9,
+      "unit_name": "",
+      "part": "Padya Khand",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "अंधड़ और बीज क्या हैं (काव्य के संदर्भ में), बगुलों के पंख का सौंदर्य।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Hindi Class 12 — 9 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [
+      "ढोलक की आवाज का गाँव पर असर (Q9/Q21) (Q: , 2-4)",
+      "शिरीष को कालजयी अवधूत क्यों कहा (Q9) (Q: , 2)",
+      "बाजार दर्शन — Purchasing Power / मन की दशा (Q8/Q21) (Q: , 2-4)",
+      "भक्तिन की कहानी अधूरी क्यों (Q11) (Q: , 2)",
+      "छोटा मेरा खेत — अंधड़ और बीज क्या है (Q7) (Q: , 2)",
+      "यशोधर बाबू — पत्नी सफल, वे असफल क्यों (Q10) (Q: , 2)",
+      "करुण रस की परिभाषा + उदाहरण (Q12) (Q: , 2)",
+      "सोरठा छंद की परिभाषा + उदाहरण (Q13) (Q: , 2)",
+      "मुहावरे और लोकोक्ति में अंतर (Q14) (Q: , 2)",
+      "वाक्य शुद्धि / वाक्य परिवर्तन (Q15) (Q: , 2)",
+      "कवि परिचय — तुलसीदास या बच्चन (Q16) (Q: , 3)",
+      "लेखक परिचय — महादेवी या रेणु (Q17) (Q: , 3)",
+      "पत्र-लेखन (औपचारिक/अनौपचारिक) (Q22) (Q: , 4)",
+      "निबंध — पर्यावरण/अनुशासन/इंटरनेट (Q23) (Q: , 4)"
+    ],
+    "chapters_mostly_theory": [
+      "आत्म परिचय, एक गीत",
+      "पतंग",
+      "कविता के बहाने, बात सीधी थी पर",
+      "कैमरे में बंद अपाहिज",
+      "उषा",
+      "बादल राग",
+      "कवितावली (उत्तर कांड से), लक्ष्मण-मूर्छा और राम का विलाप",
+      "रुबाइयाँ, छोटा मेरा खेत, बगुलों के पंख",
+      "रुबाइयाँ"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "आत्म परिचय, एक गीत",
+      "पतंग",
+      "कविता के बहाने, बात सीधी थी पर",
+      "कैमरे में बंद अपाहिज",
+      "उषा",
+      "बादल राग",
+      "कवितावली (उत्तर कांड से), लक्ष्मण-मूर्छा और राम का विलाप",
+      "रुबाइयाँ, छोटा मेरा खेत, बगुलों के पंख",
+      "रुबाइयाँ"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "ढोलक की आवाज का गाँव पर असर (Q9/Q21) (Q: , 2-4)",
+      "शिरीष को कालजयी अवधूत क्यों कहा (Q9) (Q: , 2)",
+      "बाजार दर्शन — Purchasing Power / मन की दशा (Q8/Q21) (Q: , 2-4)",
+      "भक्तिन की कहानी अधूरी क्यों (Q11) (Q: , 2)",
+      "छोटा मेरा खेत — अंधड़ और बीज क्या है (Q7) (Q: , 2)",
+      "यशोधर बाबू — पत्नी सफल, वे असफल क्यों (Q10) (Q: , 2)",
+      "करुण रस की परिभाषा + उदाहरण (Q12) (Q: , 2)",
+      "सोरठा छंद की परिभाषा + उदाहरण (Q13) (Q: , 2)",
+      "मुहावरे और लोकोक्ति में अंतर (Q14) (Q: , 2)",
+      "वाक्य शुद्धि / वाक्य परिवर्तन (Q15) (Q: , 2)",
+      "कवि परिचय — तुलसीदास या बच्चन (Q16) (Q: , 3)",
+      "लेखक परिचय — महादेवी या रेणु (Q17) (Q: , 3)",
+      "पत्र-लेखन (औपचारिक/अनौपचारिक) (Q22) (Q: , 4)",
+      "निबंध — पर्यावरण/अनुशासन/इंटरनेट (Q23) (Q: , 4)"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "kavya_bodh_grammar": {
+      "note": "काव्य बोध और भाषा बोध Q12-Q15 में सीधे पूछे जाते हैं। ये sections हर साल scoring होते हैं।",
+      "ras": {
+        "definition": "पाठक या श्रोता के हृदय में स्थायी भाव जब विभाव, अनुभाव और संचारी भाव के संयोग से पुष्ट होता है तो रस की निष्पत्ति होती है।",
+        "pramukh_ras": [
+          {
+            "ras": "श्रृंगार रस",
+            "sthayi_bhav": "रति",
+            "vibhav_example": "नायिका का सौंदर्य"
+          },
+          {
+            "ras": "हास्य रस",
+            "sthayi_bhav": "हास",
+            "vibhav_example": "विचित्र वेशभूषा"
+          },
+          {
+            "ras": "करुण रस",
+            "sthayi_bhav": "शोक",
+            "vibhav_example": "प्रिय की मृत्यु"
+          },
+          {
+            "ras": "वीर रस",
+            "sthayi_bhav": "उत्साह",
+            "vibhav_example": "युद्ध का वातावरण"
+          },
+          {
+            "ras": "रौद्र रस",
+            "sthayi_bhav": "क्रोध",
+            "vibhav_example": "अपमान"
+          },
+          {
+            "ras": "भयानक रस",
+            "sthayi_bhav": "भय",
+            "vibhav_example": "भयंकर जीव"
+          },
+          {
+            "ras": "वीभत्स रस",
+            "sthayi_bhav": "घृणा",
+            "vibhav_example": "घृणित दृश्य"
+          },
+          {
+            "ras": "अद्भुत रस",
+            "sthayi_bhav": "विस्मय",
+            "vibhav_example": "चमत्कारी घटना"
+          },
+          {
+            "ras": "शांत रस",
+            "sthayi_bhav": "निर्वेद/शम",
+            "vibhav_example": "संसार की असारता"
+          }
+        ],
+        "frequently_asked_ras": [
+          "करुण रस (Q12 में परिभाषा + उदाहरण — हर साल)",
+          "वीर रस (Q12 में परिभाषा + उदाहरण — बारी-बारी)"
+        ]
+      },
+      "alankar": {
+        "note": "अलंकार की परिभाषा और उदाहरण Q12 में पूछे जाते हैं।",
+        "frequently_asked_alankar": [
+          {
+            "alankar": "उपमा",
+            "definition": "जहाँ उपमेय की उपमान से समानता दिखाई जाए।",
+            "example": "मुख चंद्रमा के समान सुंदर है।"
+          },
+          {
+            "alankar": "रूपक",
+            "definition": "जहाँ उपमेय पर उपमान का आरोप किया जाए।",
+            "example": "चरण-कमल।"
+          },
+          {
+            "alankar": "उत्प्रेक्षा",
+            "definition": "जहाँ उपमेय में उपमान की संभावना हो।",
+            "example": "मानो वह दीपक जल रहा हो।"
+          },
+          {
+            "alankar": "विरोधाभास",
+            "definition": "जहाँ वास्तविक विरोध न हो किंतु विरोध का आभास हो।",
+            "example": "जल में रहकर मगर से बैर।"
+          },
+          {
+            "alankar": "व्यतिरेक",
+            "definition": "जहाँ उपमेय को उपमान से श्रेष्ठ बताया जाए।",
+            "example": "चंद्रमा से भी सुंदर है मुख।"
+          },
+          {
+            "alankar": "संदेह अलंकार",
+            "definition": "जहाँ उपमेय को देखकर उपमान का संदेह हो।",
+            "example": "यह कमल है या मुख?"
+          },
+          {
+            "alankar": "सांगरूपक अलंकार",
+            "definition": "जहाँ प्रस्तुत के सभी अंगों में अप्रस्तुत के अंगों का रूपक हो।"
+          }
+        ]
+      },
+      "chhand": {
+        "note": "छंद की परिभाषा और उदाहरण Q13 में पूछे जाते हैं।",
+        "frequently_asked_chhand": [
+          {
+            "chhand": "दोहा",
+            "definition": "अर्धसम मात्रिक छंद। पहली और तीसरी पंक्ति में 13-13, दूसरी-चौथी में 11-11 मात्राएं।",
+            "example": "रहिमन पानी राखिए, बिन पानी सब सून।"
+          },
+          {
+            "chhand": "चौपाई",
+            "definition": "सम मात्रिक छंद। चार चरण, प्रत्येक में 16 मात्राएं।",
+            "example": "रामचरितमानस की पंक्तियाँ।"
+          },
+          {
+            "chhand": "सोरठा",
+            "definition": "दोहे का उल्टा। पहली-तीसरी पंक्ति में 11, दूसरी-चौथी में 13 मात्राएं।"
+          },
+          {
+            "chhand": "सवैया",
+            "definition": "वर्णिक छंद। 22 से 26 वर्ण प्रत्येक चरण में।"
+          },
+          {
+            "chhand": "कवित्त",
+            "definition": "वर्णिक छंद। 31-31 वर्ण प्रत्येक चरण में।"
+          }
+        ]
+      },
+      "shabda_shakti": {
+        "note": "शब्द शक्ति Q13 में पूछी जाती है।",
+        "types": [
+          {
+            "shakti": "अभिधा",
+            "definition": "शब्द का सीधा-सामान्य अर्थ। मुख्यार्थ।",
+            "example": "'गाय' सुनने पर पशु का बोध।"
+          },
+          {
+            "shakti": "लक्षणा",
+            "definition": "मुख्यार्थ में बाधा आने पर रूढ़ि या प्रयोजन से दूसरा अर्थ।",
+            "example": "'वह लड़की शेर है' — शेर का अर्थ 'साहसी' लिया जाएगा।"
+          },
+          {
+            "shakti": "व्यंजना",
+            "definition": "अभिधा और लक्षणा से भी जब अर्थ स्पष्ट न हो, तब व्यंजनार्थ।",
+            "example": "रात के 12 बज गए — सोने का समय हो गया।"
+          }
+        ]
+      },
+      "bhasha_bodh_topics": {
+        "muhavare_lokokti": {
+          "anthar": "मुहावरा — वाक्यांश, अकेला प्रयोग नहीं होता। लोकोक्ति — पूर्ण वाक्य, स्वतंत्र प्रयोग होता है।",
+          "frequently_asked_muhavare": [
+            "बात की चूड़ी मर जाना = बात का प्रभावहीन हो जाना",
+            "पानी-पानी होना = बहुत लज्जित होना",
+            "दूसरा घर कर लेना = नई व्यवस्था बना लेना",
+            "पेट में चूहे कूदना = बहुत भूख लगना"
+          ]
+        },
+        "vakya_prakar": {
+          "rachna_adhar": [
+            "सरल वाक्य — एक उद्देश्य, एक विधेय",
+            "मिश्र वाक्य — एक मुख्य + एक आश्रित उपवाक्य",
+            "संयुक्त वाक्य — दो स्वतंत्र उपवाक्य और/किंतु/परंतु से जुड़े"
+          ],
+          "arth_adhar": [
+            "विधिवाचक",
+            "निषेधवाचक",
+            "प्रश्नवाचक",
+            "विस्मयवाचक",
+            "इच्छावाचक",
+            "संकेतवाचक",
+            "संदेहवाचक"
+          ]
+        },
+        "tatsam_tadbhav": {
+          "definition": "तत्सम — संस्कृत से सीधे लिए शब्द। तद्भव — संस्कृत से बिगड़कर हिंदी में आए शब्द।",
+          "examples": [
+            {
+              "tatsam": "कर्म",
+              "tadbhav": "काम"
+            },
+            {
+              "tatsam": "अग्नि",
+              "tadbhav": "आग"
+            },
+            {
+              "tatsam": "क्षेत्र",
+              "tadbhav": "खेत"
+            }
+          ]
+        },
+        "rashtrabhasha_rajbhasha": {
+          "anthar": "राष्ट्रभाषा — जनता द्वारा स्वीकृत, संपूर्ण राष्ट्र की भाषा। राजभाषा — सरकारी कामकाज की भाषा, संविधान द्वारा मान्यता प्राप्त।"
+        }
+      },
+      "patra_lekhan_formats": {
+        "aupcharik_patra": {
+          "structure": [
+            "प्रेषक का पता",
+            "दिनांक",
+            "प्रेषितव्य का पदनाम और पता",
+            "विषय (रेखांकित)",
+            "संबोधन — मान्यवर/महोदय",
+            "मुख्य विषय (3 पैराग्राफ)",
+            "समापन — भवदीय/आपका आज्ञाकारी",
+            "नाम"
+          ],
+          "word_limit": "120 शब्द",
+          "frequently_asked": [
+            "नगर निगम को पानी आपूर्ति हेतु",
+            "जिलाधीश को ध्वनि विस्तारक पर प्रतिबंध हेतु",
+            "माध्यमिक शिक्षा मंडल को उत्तर पुस्तिका पुनर्गणना हेतु"
+          ]
+        },
+        "anaupcharik_patra": {
+          "structure": [
+            "प्रेषक का पता",
+            "दिनांक",
+            "संबोधन — प्रिय मित्र/आदरणीय",
+            "मुख्य विषय",
+            "समापन — तुम्हारा मित्र/आपका पुत्र",
+            "नाम"
+          ],
+          "frequently_asked": [
+            "मित्र को बधाई पत्र",
+            "पिता को पढ़ाई की जानकारी देते हुए पत्र",
+            "मित्र को विवाह में आमंत्रण"
+          ]
+        }
+      },
+      "nibandh_lekhan": {
+        "format": "रूपरेखा — प्रस्तावना + मुख्य विषय (2-3 बिंदु) + उपसंहार",
+        "word_limit": "120 शब्द (रूपरेखा सहित)",
+        "frequently_asked_topics": [
+          "पर्यावरण प्रदूषण और रोकथाम",
+          "छात्रजीवन में अनुशासन",
+          "विद्यार्थी और खेल",
+          "दैनिक जीवन में इंटरनेट का महत्व",
+          "समाचार पत्रों की उपयोगिता",
+          "स्वच्छता अभियान",
+          "वृक्षों की उपयोगिता",
+          "राष्ट्रीय एकता और अखंडता",
+          "युवा चरित्र"
+        ]
+      }
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Hindi.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not applicable for Hindi.",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Hindi grammar / language-bodh topics.",
+    "topics": [
+      {
+        "topic_name": "Ras",
+        "question_number": "",
+        "definition": "पाठक या श्रोता के हृदय में स्थायी भाव जब विभाव, अनुभाव और संचारी भाव के संयोग से पुष्ट होता है तो रस की निष्पत्ति होती है।",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [
+          "करुण रस (Q12 में परिभाषा + उदाहरण — हर साल)",
+          "वीर रस (Q12 में परिभाषा + उदाहरण — बारी-बारी)"
+        ],
+        "types": [
+          {
+            "ras": "श्रृंगार रस",
+            "sthayi_bhav": "रति",
+            "vibhav_example": "नायिका का सौंदर्य"
+          },
+          {
+            "ras": "हास्य रस",
+            "sthayi_bhav": "हास",
+            "vibhav_example": "विचित्र वेशभूषा"
+          },
+          {
+            "ras": "करुण रस",
+            "sthayi_bhav": "शोक",
+            "vibhav_example": "प्रिय की मृत्यु"
+          },
+          {
+            "ras": "वीर रस",
+            "sthayi_bhav": "उत्साह",
+            "vibhav_example": "युद्ध का वातावरण"
+          },
+          {
+            "ras": "रौद्र रस",
+            "sthayi_bhav": "क्रोध",
+            "vibhav_example": "अपमान"
+          },
+          {
+            "ras": "भयानक रस",
+            "sthayi_bhav": "भय",
+            "vibhav_example": "भयंकर जीव"
+          },
+          {
+            "ras": "वीभत्स रस",
+            "sthayi_bhav": "घृणा",
+            "vibhav_example": "घृणित दृश्य"
+          },
+          {
+            "ras": "अद्भुत रस",
+            "sthayi_bhav": "विस्मय",
+            "vibhav_example": "चमत्कारी घटना"
+          },
+          {
+            "ras": "शांत रस",
+            "sthayi_bhav": "निर्वेद/शम",
+            "vibhav_example": "संसार की असारता"
+          }
+        ]
+      },
+      {
+        "topic_name": "Alankar",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "अलंकार की परिभाषा और उदाहरण Q12 में पूछे जाते हैं।",
+        "tip": "",
+        "frequently_asked": [
+          {
+            "alankar": "उपमा",
+            "definition": "जहाँ उपमेय की उपमान से समानता दिखाई जाए।",
+            "example": "मुख चंद्रमा के समान सुंदर है।"
+          },
+          {
+            "alankar": "रूपक",
+            "definition": "जहाँ उपमेय पर उपमान का आरोप किया जाए।",
+            "example": "चरण-कमल।"
+          },
+          {
+            "alankar": "उत्प्रेक्षा",
+            "definition": "जहाँ उपमेय में उपमान की संभावना हो।",
+            "example": "मानो वह दीपक जल रहा हो।"
+          },
+          {
+            "alankar": "विरोधाभास",
+            "definition": "जहाँ वास्तविक विरोध न हो किंतु विरोध का आभास हो।",
+            "example": "जल में रहकर मगर से बैर।"
+          },
+          {
+            "alankar": "व्यतिरेक",
+            "definition": "जहाँ उपमेय को उपमान से श्रेष्ठ बताया जाए।",
+            "example": "चंद्रमा से भी सुंदर है मुख।"
+          },
+          {
+            "alankar": "संदेह अलंकार",
+            "definition": "जहाँ उपमेय को देखकर उपमान का संदेह हो।",
+            "example": "यह कमल है या मुख?"
+          },
+          {
+            "alankar": "सांगरूपक अलंकार",
+            "definition": "जहाँ प्रस्तुत के सभी अंगों में अप्रस्तुत के अंगों का रूपक हो।"
+          }
+        ],
+        "types": []
+      },
+      {
+        "topic_name": "Chhand",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "छंद की परिभाषा और उदाहरण Q13 में पूछे जाते हैं।",
+        "tip": "",
+        "frequently_asked": [
+          {
+            "chhand": "दोहा",
+            "definition": "अर्धसम मात्रिक छंद। पहली और तीसरी पंक्ति में 13-13, दूसरी-चौथी में 11-11 मात्राएं।",
+            "example": "रहिमन पानी राखिए, बिन पानी सब सून।"
+          },
+          {
+            "chhand": "चौपाई",
+            "definition": "सम मात्रिक छंद। चार चरण, प्रत्येक में 16 मात्राएं।",
+            "example": "रामचरितमानस की पंक्तियाँ।"
+          },
+          {
+            "chhand": "सोरठा",
+            "definition": "दोहे का उल्टा। पहली-तीसरी पंक्ति में 11, दूसरी-चौथी में 13 मात्राएं।"
+          },
+          {
+            "chhand": "सवैया",
+            "definition": "वर्णिक छंद। 22 से 26 वर्ण प्रत्येक चरण में।"
+          },
+          {
+            "chhand": "कवित्त",
+            "definition": "वर्णिक छंद। 31-31 वर्ण प्रत्येक चरण में।"
+          }
+        ],
+        "types": []
+      },
+      {
+        "topic_name": "Shabda Shakti",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "शब्द शक्ति Q13 में पूछी जाती है।",
+        "tip": "",
+        "frequently_asked": [],
+        "types": [
+          {
+            "shakti": "अभिधा",
+            "definition": "शब्द का सीधा-सामान्य अर्थ। मुख्यार्थ।",
+            "example": "'गाय' सुनने पर पशु का बोध।"
+          },
+          {
+            "shakti": "लक्षणा",
+            "definition": "मुख्यार्थ में बाधा आने पर रूढ़ि या प्रयोजन से दूसरा अर्थ।",
+            "example": "'वह लड़की शेर है' — शेर का अर्थ 'साहसी' लिया जाएगा।"
+          },
+          {
+            "shakti": "व्यंजना",
+            "definition": "अभिधा और लक्षणा से भी जब अर्थ स्पष्ट न हो, तब व्यंजनार्थ।",
+            "example": "रात के 12 बज गए — सोने का समय हो गया।"
+          }
+        ]
+      },
+      {
+        "topic_name": "Bhasha Bodh Topics",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [],
+        "types": []
+      },
+      {
+        "topic_name": "Patra Lekhan Formats",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [],
+        "types": []
+      },
+      {
+        "topic_name": "Nibandh Lekhan",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "120 शब्द (रूपरेखा सहित)",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [],
+        "types": []
+      }
+    ]
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Hindi.",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Hindi Class 12 — no practical.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 50,
+    "medium_percent": 35,
+    "hard_percent": 15,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Q1-Q5 वस्तुनिष्ठ में सभी उप-प्रश्नों का उत्तर लिखें — negative marking नहीं है",
+      "Q16/Q17 में तीनों बिंदु (रचनाएं + भावपक्ष-कलापक्ष + साहित्य में स्थान) जरूर लिखें",
+      "Q20/Q21 में संदर्भ-प्रसंग (संदर्भ + प्रसंग + व्याख्या + विशेष) format में लिखें",
+      "Q12/Q13 — रस/अलंकार/छंद की परिभाषा + उदाहरण दोनों जरूरी हैं",
+      "Q22 पत्र में पता, दिनांक, विषय, संबोधन, समापन — format के marks अलग होते हैं",
+      "Q23 निबंध में रूपरेखा (प्रस्तावना/मुख्य बिंदु/उपसंहार) लिखना जरूरी है",
+      "Q6-Q15 में अथवा दोनों विकल्प पढ़कर बेहतर जाना वाला चुनें",
+      "अपठित Q19 में शीर्षक, सारांश और प्रश्नोत्तर तीनों अलग-अलग लिखें",
+      "Set number cover page पर लिखना न भूलें",
+      "NCERT के पाठ बार-बार पढ़ें — वस्तुनिष्ठ के 32 अंक largely NCERT से"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "Q1_to_Q5_vastunishtha",
+        "recommended_minutes": 0,
+        "note": "30 मिनट — 32 objective questions। पहले सब पढ़ें, फिर उत्तर लिखें।"
+      },
+      {
+        "section_id": "Q6_to_Q15_ati_laghu",
+        "recommended_minutes": 0,
+        "note": "35 मिनट — 10 प्रश्न × 2 अंक। 30 शब्द में सटीक उत्तर।"
+      },
+      {
+        "section_id": "Q16_to_Q19_laghu",
+        "recommended_minutes": 0,
+        "note": "30 मिनट — 4 प्रश्न × 3 अंक। Q16/Q17 में format follow करें।"
+      },
+      {
+        "section_id": "Q20_to_Q23_dirgha",
+        "recommended_minutes": 0,
+        "note": "45 मिनट — 4 प्रश्न × 4 अंक। संदर्भ-प्रसंग पहले लिखें।"
+      },
+      {
+        "section_id": "revision",
+        "recommended_minutes": 0,
+        "note": "10 मिनट — प्रश्न क्रमांक check करें, छूटे प्रश्न देखें।"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing ke liye 26",
+        "target_marks": 26,
+        "strategy": "वस्तुनिष्ठ (Q1-Q5) से 20+ अंक लगभग पक्के। Q12/Q13 (रस-अलंकार-छंद) और Q22 (पत्र) की practice करें — आसान 6-8 अंक।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Q1-Q5 — वस्तुनिष्ठ (NCERT पढ़ने से 20+ आएंगे)",
+          "Q12 — करुण/वीर रस (परिभाषा याद कर लें)",
+          "Q13 — दोहा/चौपाई/सोरठा छंद",
+          "Q22 — पत्र format याद करें (4 marks पक्के)",
+          "Q23 — निबंध रूपरेखा (4 marks)"
+        ],
+        "chapters_to_skip_safely": [
+          "Q19 अपठित का काव्यांश",
+          "Q20 complex व्याख्या"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "40",
+        "target_marks": 40,
+        "strategy": "वस्तुनिष्ठ (25+) + Q6-Q11 में 8-10 अंक + Q12/Q13/Q14/Q15 = 8 अंक + Q22/Q23 = 8 अंक।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "भक्तिन, बाजार दर्शन, पहलवान की ढोलक — Q6-Q11",
+          "रस, अलंकार, छंद, शब्द शक्ति — Q12/Q13",
+          "पत्र-लेखन और निबंध — Q22/Q23"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60",
+        "target_marks": 60,
+        "strategy": "वस्तुनिष्ठ (28+) + Q6-Q15 सभी (18-20) + Q16/Q17 (5-6) + Q20/Q21 (6-8) + Q22/Q23 (8)।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "सभी गद्य पाठ — अति लघु उत्तर",
+          "Q16/Q17 — कवि-लेखक परिचय format याद करें",
+          "Q20/Q21 — संदर्भ-प्रसंग format practice करें",
+          "सभी कविताओं की मुख्य पंक्तियाँ"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping",
+        "target_marks": 0,
+        "strategy": "सभी 23 प्रश्नों की पूरी तैयारी। Q20/Q21 में काव्य सौंदर्य और विशेष सहित व्याख्या लिखने की practice।",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "काव्य सौंदर्य — अलंकार, छंद, भाषा-शैली Q20 में mention करें",
+          "Q21 में विशेष (भाषा, शैली, प्रतीक) जरूर लिखें",
+          "Q16/Q17 — तीनों बिंदु पूरे और organized लिखें",
+          "Q23 निबंध में रूपरेखा clearly लिखें"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 20,
+    "note": "20 अंक आंतरिक मूल्यांकन के हैं — ये board exam में नहीं होते। Project, assignment, class participation से मिलते हैं।",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "आरोह भाग-2 (हिंदी Core)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "अनिवार्य। Q6-Q21 के सभी प्रश्न इसी से।"
+      },
+      {
+        "name": "वितान भाग-2 (पूरक)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "अनिवार्य। Q में vitan से भी प्रश्न आते हैं।"
+      },
+      {
+        "name": "परीक्षा अध्ययन हिंदी Class 12",
+        "author": "",
+        "publisher": "नवबोध / परीक्षा अध्ययन",
+        "purpose": "Supplementary",
+        "note": "MPBSE specific। PYQs और model answers। Chapter-wise questions।"
+      },
+      {
+        "name": "पिछले वर्षों के प्रश्नपत्र 2019-2025",
+        "author": "",
+        "publisher": "MPBSE",
+        "purpose": "Supplementary",
+        "note": "Pattern और repeated questions समझने के लिए।"
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": true,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "mpbse.nic.in",
+    "extra_time_given": false,
+    "extra_time_note": "3 घंटे fixed। Bell बजते ही उत्तर पुस्तिका जमा करनी होती है।"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "question_number_note: हर उत्तर के ऊपर प्रश्न क्रमांक स्पष्ट लिखें।",
+      "set_number_compulsory: True",
+      "set_number_note: set number (A/B/C/D) cover page पर लिखना अनिवार्य है।",
+      "sequence_compulsory: False",
+      "sequence_note: प्रश्नों का क्रम follow करना जरूरी नहीं। जो आता हो पहले करें।",
+      "partial_marking: True",
+      "sandarbh_marks: Q20/Q21 में संदर्भ-प्रसंग के 1 mark अलग से होते हैं — यह मत छोड़ें।",
+      "kavi_parichay_format: Q16 में तीनों बिंदु (रचनाएं + भावपक्ष-कलापक्ष + साहित्य में स्थान) — हर बिंदु के लिए 1 mark।",
+      "vastunishtha_only_answer: Q1-Q5 में केवल उत्तर/विकल्प लिखें — कोई explanation नहीं।"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['नीला', 'काला'] pencil_use: केवल रेखाचित्र और rough work के लिए। उत्तर हमेशा pen से लिखें। recommendation: नीले pen से मुख्य उत्तर, काले से heading/underline।"
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "paragraph_format: लंबे उत्तरों में proper paragraphs लिखें। Bullet points से बेहतर हैं सुसंगठित paragraphs। spelling_grammar: हिंदी में वर्तनी और व्याकरण की गलतियाँ marks काटती हैं। sandarbh_prasang: Q20 और Q21 (व्याख्या) में संदर्भ-प्रसंग (Reference) लिखना अनिवार्य है — बिना इसके marks कटते हैं। word_limit_note: शब्द सीमा से अधिक लिखने पर marks सीधे नहीं कटते, लेकिन समय बर्बाद होगा।",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

@@ -1,0 +1,1815 @@
+{
+  "board": "MPBSE",
+  "class": "12",
+  "subject": "Chemistry",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 70,
+    "practical_paper": 30,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 23,
+    "passing_marks_practical": 10,
+    "passing_marks_internal": 0,
+    "duration_minutes": 180,
+    "extra_time_given": false,
+    "extra_time_note": "Nahi milta. 3 ghante fixed hain. Bell bajte hi answer sheet submit karni hoti hai.",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 19,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 28,
+    "total_sets": 4,
+    "sets_note": "Set A, B, C, D — same questions, different order. Marks distribution identical in all sets.",
+    "sets_same_or_different": "Same questions, different order. Marks distribution identical.",
+    "language_of_attempt": "",
+    "all_compulsory_note": "",
+    "pariksha_bodh_questions_in_exam": "Haan — Yugbodh Pariksha Bodh ke questions exam mein directly ya similar pattern mein aate hain.",
+    "ncert_enough": "NCERT alone kaafi nahi. MPBSE ke liye Pariksha Bodh + previous year papers zaroori hain.",
+    "official_scheme_note": "MPBSE ki official blueprint hi follow karni chahiye. Yeh JSON usi blueprint ke anusaar banaya gaya hai.",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "Officially MPBSE ya NCERT ki taraf se jari hota hai. Actual exam pattern aur difficulty level dikhata hai. Format bilkul real paper jaisa hota hai.",
+      "model_paper": "Teachers ya coaching institutes banate hain practice ke liye. Pattern similar hota hai lekin officially certified nahi hota.",
+      "question_bank": "Previous year questions ka collection hota hai. Revision ke liye best — jo baar baar aya hai woh clearly dikhta hai.",
+      "which_to_prefer": "Revision ke liye: Question Bank > Previous Year Papers > Model Paper > Sample Paper. Sample paper exam se pehle ek full mock test ke taur par karo.",
+      "revision_notes_vs_qbank": "Notes se concept clear hota hai, Question Bank se application practice hoti hai. Dono zaroori hain — pehle notes padho phir question bank se solve karo."
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "Chemistry paper has 7 question types: MCQ, Fill Blanks, Match Column, One-sentence, Very Short Answer (2m), Short Answer (3m), Long Answer (4-5m)",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "Q1 — Correct Option (MCQ)",
+        "question_number": "Q1",
+        "section": "Q1",
+        "marks_each": 1,
+        "total_in_paper": 7,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "Sirf option letter likhna kaafi. Theory likhne ki zaroorat nahi.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Option letter only — (a),(b),(c),(d)",
+        "notes": ""
+      },
+      {
+        "type": "Q2 — Fill in the Blanks",
+        "question_number": "Q2",
+        "section": "Q2",
+        "marks_each": 1,
+        "total_in_paper": 7,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "Ek word ya formula. Chemical names mein spelling sahi rakho.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "One word, formula, or chemical name",
+        "notes": "Chemical names mein spelling mistake se marks cut ho sakte hain."
+      },
+      {
+        "type": "Q3 — Match the Column",
+        "question_number": "Q3",
+        "section": "Q3",
+        "marks_each": 1,
+        "total_in_paper": 7,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "Sirf pairs likhni hain. Poora question copy karna zaroori nahi. Explanation nahi chahiye.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Match pairs only: 1-(b), 2-(d) format",
+        "notes": ""
+      },
+      {
+        "type": "Q4 — One Sentence Answer",
+        "question_number": "Q4",
+        "section": "Q4",
+        "marks_each": 1,
+        "total_in_paper": 7,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "Ek line ya ek reaction equation. 2 lines se zyaada mat likho.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "1 sentence or 1 chemical equation",
+        "notes": ""
+      },
+      {
+        "type": "Very Short Answer (2 marks)",
+        "question_number": "Very Short Answer (2 marks)",
+        "section": "Very Short Answer (2 marks)",
+        "marks_each": 2,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "Definition + 1 example ya formula. Chemical equation agar relevant ho.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Lagbhag 30 shabd",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer (3 marks)",
+        "question_number": "Short Answer (3 marks)",
+        "section": "Short Answer (3 marks)",
+        "marks_each": 3,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "Definition + explanation + reaction/mechanism ya comparison table.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Lagbhag 75 shabd",
+        "notes": ""
+      },
+      {
+        "type": "Long Answer / Analytical (4 or 5 marks)",
+        "question_number": "Long Answer / Analytical (4 or 5 marks)",
+        "section": "Long Answer / Analytical (4 or 5 marks)",
+        "marks_each": 0,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "Full mechanism/derivation + reactions + diagram if applicable. Numbered steps.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "4 marks approx 150 words. 5 marks approx 200 words.",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "Chemistry paper mein Q1 to Q4 = 28 objective questions (1 mark each). Baaki mein antrik vikalp.",
+    "all_sections_compulsory": false,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 40,
+      "medium_percent": 40,
+      "hard_percent": 20,
+      "note": "40% marks sirf Q1-Q4 objectives se aa jaate hain. Agar objectives achhe karo toh passing pakki. Physics se thoda easier structure."
+    },
+    "sections": [
+      {
+        "section_id": "Q1",
+        "name": "Q1 — Correct Option (MCQ)",
+        "type": "Q1 — Correct Option (MCQ)",
+        "question_numbers": "",
+        "total_questions": 7,
+        "total_sub_questions": 0,
+        "attempt_required": 7,
+        "marks_per_question": 1,
+        "total_marks": 7,
+        "word_limit": "Option letter only — (a),(b),(c),(d)",
+        "breakdown": "Sirf option letter likhna kaafi. Theory likhne ki zaroorat nahi.",
+        "notes": ""
+      },
+      {
+        "section_id": "Q2",
+        "name": "Q2 — Fill in the Blanks",
+        "type": "Q2 — Fill in the Blanks",
+        "question_numbers": "",
+        "total_questions": 7,
+        "total_sub_questions": 0,
+        "attempt_required": 7,
+        "marks_per_question": 1,
+        "total_marks": 7,
+        "word_limit": "One word, formula, or chemical name",
+        "breakdown": "Ek word ya formula. Chemical names mein spelling sahi rakho.",
+        "notes": "Chemical names mein spelling mistake se marks cut ho sakte hain."
+      },
+      {
+        "section_id": "Q3",
+        "name": "Q3 — Match the Column",
+        "type": "Q3 — Match the Column",
+        "question_numbers": "",
+        "total_questions": 7,
+        "total_sub_questions": 0,
+        "attempt_required": 7,
+        "marks_per_question": 1,
+        "total_marks": 7,
+        "word_limit": "Match pairs only: 1-(b), 2-(d) format",
+        "breakdown": "Sirf pairs likhni hain. Poora question copy karna zaroori nahi. Explanation nahi chahiye.",
+        "notes": ""
+      },
+      {
+        "section_id": "Q4",
+        "name": "Q4 — One Sentence Answer",
+        "type": "Q4 — One Sentence Answer",
+        "question_numbers": "",
+        "total_questions": 7,
+        "total_sub_questions": 0,
+        "attempt_required": 7,
+        "marks_per_question": 1,
+        "total_marks": 7,
+        "word_limit": "1 sentence or 1 chemical equation",
+        "breakdown": "Ek line ya ek reaction equation. 2 lines se zyaada mat likho.",
+        "notes": ""
+      },
+      {
+        "section_id": "Very Short Answer (2 marks)",
+        "name": "Very Short Answer (2 marks)",
+        "type": "Very Short Answer (2 marks)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 2,
+        "total_marks": 16,
+        "word_limit": "Lagbhag 30 shabd",
+        "breakdown": "Definition + 1 example ya formula. Chemical equation agar relevant ho.",
+        "notes": ""
+      },
+      {
+        "section_id": "Short Answer (3 marks)",
+        "name": "Short Answer (3 marks)",
+        "type": "Short Answer (3 marks)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": "Lagbhag 75 shabd",
+        "breakdown": "Definition + explanation + reaction/mechanism ya comparison table.",
+        "notes": ""
+      },
+      {
+        "section_id": "Long Answer / Analytical (4 or 5 marks)",
+        "name": "Long Answer / Analytical (4 or 5 marks)",
+        "type": "Long Answer / Analytical (4 or 5 marks)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 14,
+        "word_limit": "4 marks approx 150 words. 5 marks approx 200 words.",
+        "breakdown": "Full mechanism/derivation + reactions + diagram if applicable. Numbered steps.",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 70,
+    "total_practical": 30,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "Q1",
+        "name": "Q1 — Correct Option (MCQ)",
+        "question_numbers": "",
+        "type": "Q1 — Correct Option (MCQ)",
+        "total_questions": 7,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 7,
+        "word_limit": "Option letter only — (a),(b),(c),(d)",
+        "breakdown": "Sirf option letter likhna kaafi. Theory likhne ki zaroorat nahi."
+      },
+      {
+        "section_id": "Q2",
+        "name": "Q2 — Fill in the Blanks",
+        "question_numbers": "",
+        "type": "Q2 — Fill in the Blanks",
+        "total_questions": 7,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 7,
+        "word_limit": "One word, formula, or chemical name",
+        "breakdown": "Ek word ya formula. Chemical names mein spelling sahi rakho."
+      },
+      {
+        "section_id": "Q3",
+        "name": "Q3 — Match the Column",
+        "question_numbers": "",
+        "type": "Q3 — Match the Column",
+        "total_questions": 7,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 7,
+        "word_limit": "Match pairs only: 1-(b), 2-(d) format",
+        "breakdown": "Sirf pairs likhni hain. Poora question copy karna zaroori nahi. Explanation nahi chahiye."
+      },
+      {
+        "section_id": "Q4",
+        "name": "Q4 — One Sentence Answer",
+        "question_numbers": "",
+        "type": "Q4 — One Sentence Answer",
+        "total_questions": 7,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 7,
+        "word_limit": "1 sentence or 1 chemical equation",
+        "breakdown": "Ek line ya ek reaction equation. 2 lines se zyaada mat likho."
+      },
+      {
+        "section_id": "Very Short Answer (2 marks)",
+        "name": "Very Short Answer (2 marks)",
+        "question_numbers": "",
+        "type": "Very Short Answer (2 marks)",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 16,
+        "word_limit": "Lagbhag 30 shabd",
+        "breakdown": "Definition + 1 example ya formula. Chemical equation agar relevant ho."
+      },
+      {
+        "section_id": "Short Answer (3 marks)",
+        "name": "Short Answer (3 marks)",
+        "question_numbers": "",
+        "type": "Short Answer (3 marks)",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": "Lagbhag 75 shabd",
+        "breakdown": "Definition + explanation + reaction/mechanism ya comparison table."
+      },
+      {
+        "section_id": "Long Answer / Analytical (4 or 5 marks)",
+        "name": "Long Answer / Analytical (4 or 5 marks)",
+        "question_numbers": "",
+        "type": "Long Answer / Analytical (4 or 5 marks)",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 14,
+        "word_limit": "4 marks approx 150 words. 5 marks approx 200 words.",
+        "breakdown": "Full mechanism/derivation + reactions + diagram if applicable. Numbered steps."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 70,
+    "objective_percent": 40,
+    "subjective_percent": 40,
+    "analytical_percent": 20,
+    "highest_marks_chapter": {
+      "chapter_id": "2",
+      "name": "Electrochemistry",
+      "marks": 9,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "6",
+        "name": "Haloalkanes",
+        "marks": 6
+      },
+      {
+        "chapter_id": "7",
+        "name": "Alcohols Phenols Ethers",
+        "marks": 6
+      },
+      {
+        "chapter_id": "9",
+        "name": "Amines",
+        "marks": 6
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Vilaayan (Solutions)",
+        "marks": 7,
+        "one_mark_count": 2,
+        "two_mark_count": 1,
+        "three_mark_count": 1,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "Vaidyut Rasayan (Electrochemistry)",
+        "marks": 9,
+        "one_mark_count": 2,
+        "two_mark_count": 1,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 1,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "Rasayanic Bal Gatiki (Chemical Kinetics)",
+        "marks": 7,
+        "one_mark_count": 2,
+        "two_mark_count": 1,
+        "three_mark_count": 1,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "d evam f-Block ke Tatva",
+        "marks": 7,
+        "one_mark_count": 4,
+        "two_mark_count": 0,
+        "three_mark_count": 1,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "Up-Sah Sanyojak Yaugik (Coordination Compounds)",
+        "marks": 7,
+        "one_mark_count": 3,
+        "two_mark_count": 2,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "Halo Alkene Halo Arene",
+        "marks": 6,
+        "one_mark_count": 2,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 1,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "Alkohol Phenol aur Ether",
+        "marks": 6,
+        "one_mark_count": 3,
+        "two_mark_count": 0,
+        "three_mark_count": 1,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "name": "Aldehyde Ketone aur Carboxylic Acid",
+        "marks": 8,
+        "one_mark_count": 1,
+        "two_mark_count": 1,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 1,
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "name": "Ameen (Amines)",
+        "marks": 6,
+        "one_mark_count": 4,
+        "two_mark_count": 1,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "10",
+        "name": "Jav Anu (Biomolecules)",
+        "marks": 7,
+        "one_mark_count": 5,
+        "two_mark_count": 1,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 70,
+      "one_mark_questions": 28,
+      "two_mark_total": 16,
+      "three_mark_total": 12,
+      "four_mark_total": 4,
+      "five_mark_total": 10
+    }
+  },
+  "syllabus": {
+    "note": "Unit-wise syllabus from MPBSE Class 12 Chemistry blueprint.",
+    "books": [
+      {
+        "book_name": "NCERT Chemistry Part I & Part II",
+        "category": "unit",
+        "total_marks": 70,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Vilaayan (Solutions)",
+            "marks": 7,
+            "topics": [
+              "Concentration terms: molarity (M), molality (m), normality (N), mole fraction, ppm",
+              "Raoult's law for volatile and non-volatile solute",
+              "Ideal and non-ideal solutions: positive and negative deviation with examples",
+              "Colligative properties: relative lowering of VP, elevation of BP, depression of FP, osmotic pressure",
+              "van't Hoff factor (i) for electrolytes",
+              "Osmosis, reverse osmosis, semipermeable membrane",
+              "Henry's law for gas dissolution",
+              "Azeotropic mixtures: maximum and minimum boiling"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "Vaidyut Rasayan (Electrochemistry)",
+            "marks": 9,
+            "topics": [
+              "Galvanic cell (Daniel cell) aur electrolytic cell",
+              "EMF of cell aur standard electrode potential",
+              "Nernst equation: E = E° - (0.0592/n) log Q at 25°C",
+              "ΔG° = -nFE° and spontaneity",
+              "Conductance: specific, molar, equivalent",
+              "Kohlrausch's law and degree of dissociation",
+              "Faraday's 1st and 2nd laws of electrolysis",
+              "Batteries: lead storage, dry cell, fuel cell",
+              "Corrosion: mechanism and prevention"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "Rasayanic Bal Gatiki (Chemical Kinetics)",
+            "marks": 7,
+            "topics": [
+              "Rate of reaction aur rate law: rate = k[A]^m [B]^n",
+              "Order of reaction vs molecularity — difference",
+              "Zero order: k = x/t, t₁/₂ = [A₀]/2k",
+              "First order: k = (2.303/t) log [A₀]/[A], t₁/₂ = 0.693/k",
+              "Arrhenius equation: k = Ae^(-Ea/RT)",
+              "Activation energy Ea: catalyst lowers it",
+              "Effect of temperature on rate",
+              "Homogeneous and heterogeneous catalysis"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "d evam f-Block ke Tatva (d and f Block Elements)",
+            "marks": 7,
+            "topics": [
+              "General electronic configuration: (n-1)d^1-10 ns^1-2",
+              "Properties: variable oxidation states, colour, paramagnetism, catalytic activity, alloy, complex formation",
+              "Why Zn, Cd, Hg are not typical transition metals",
+              "Lanthanide contraction: cause (poor shielding by f electrons) and consequences",
+              "Actinides: radioactive, 5f series",
+              "KMnO₄: preparation and oxidizing in acidic, basic, neutral medium",
+              "K₂Cr₂O₇: preparation and oxidizing properties"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "Up-Sah Sanyojak Yaugik (Coordination Compounds)",
+            "marks": 7,
+            "topics": [
+              "Terminology: ligand, coordination number, coordination sphere, oxidation number",
+              "IUPAC nomenclature rules",
+              "Werner's theory postulates",
+              "VBT: inner orbital (dsp²,d²sp³) vs outer orbital (sp³d²) complexes",
+              "Types of isomerism: ionisation, hydrate, linkage, coordination, geometric, optical",
+              "Stability constant of complex",
+              "Applications: photography (AgBr + Na₂S₂O₃), medicine (EDTA chelation therapy)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "Halo Alkene Halo Arene (Haloalkanes and Haloarenes)",
+            "marks": 6,
+            "topics": [
+              "Classification: 1°, 2°, 3° haloalkanes",
+              "Methods of preparation from alkenes, alcohols, alkanes",
+              "SN1 vs SN2 mechanism, conditions, stereochemistry",
+              "Finkelstein, Swarts, Wurtz, Sandmeyer, Gattermann reactions",
+              "Haloarenes — less reactive in nucleophilic substitution",
+              "Chloroform, iodoform preparation and uses",
+              "DDT, Freon — environmental effects"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "Alkohol Phenol aur Ether",
+            "marks": 6,
+            "topics": [
+              "Classification: 1°, 2°, 3° alcohols",
+              "Preparation from alkenes (hydration), haloalkanes, Grignard, aldehydes/ketones",
+              "Reactions: with Na, PCl₅, HX (Lucas test), oxidation, esterification",
+              "Lucas test and Victor Meyer test for identification",
+              "Phenol: preparation from cumene, diazonium salts, chlorobenzene",
+              "Phenol reactions: Kolbe, Reimer-Tiemann, bromination, FeCl₃ test",
+              "Ether: Williamson synthesis, reaction with HI"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "Aldehyde Ketone aur Carboxylic Acid",
+            "marks": 8,
+            "topics": [
+              "Preparation: from alcohols, acid chlorides, ozonolysis, Gattermann-Koch, Rosenmund",
+              "Nucleophilic addition: HCN, NaHSO₃, Grignard, alcohol (hemiacetal/acetal)",
+              "Cannizzaro reaction (no alpha-H aldehydes)",
+              "Aldol condensation (alpha-H required)",
+              "Tests: Tollen's, Fehling's, Benedict's, iodoform",
+              "Clemmensen reduction and Wolff-Kishner reduction",
+              "Carboxylic acid preparation and reactions",
+              "HVZ reaction, acidity comparison",
+              "Fischer esterification"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "Ameen (Amines)",
+            "marks": 6,
+            "topics": [
+              "Classification: 1°, 2°, 3° amines; IUPAC nomenclature",
+              "Preparation: from nitroalkane, Hoffmann bromamide, nitrile, haloalkane",
+              "Basic nature: comparison of amines with NH₃",
+              "Basicity order: aliphatic vs aromatic",
+              "Hinsberg test for identification",
+              "Reactions: HNO₂, acylation, Carbylamine, Mustard oil reaction",
+              "Diazonium salts: preparation and Sandmeyer/Gattermann/coupling reactions"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "Jav Anu (Biomolecules)",
+            "marks": 7,
+            "topics": [
+              "Carbohydrates: classification, monosaccharides, disaccharides, polysaccharides",
+              "Glucose structure (open chain), reducing nature",
+              "Reducing vs non-reducing sugars",
+              "Starch vs cellulose differences",
+              "Proteins: amino acids, peptide bond, 4 structural levels",
+              "Enzymes: definition, lock and key model",
+              "Nucleic acids: DNA vs RNA differences",
+              "Vitamins: fat-soluble (A,D,E,K) and water-soluble (B,C)",
+              "Hormones: insulin, thyroxine, testosterone, cortisone"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Vilaayan (Solutions)",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & II",
+      "weightage_marks": 7,
+      "typical_breakdown": "2 × 1mark, 1 × 2mark, 1 × 3mark",
+      "difficulty": "Medium",
+      "difficulty_reason": "Numericals required",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "no_long_answer_typically": true,
+      "most_optional_from": false,
+      "note": "Guaranteed annual: Colligative property numerical (elevation BP / depression FP)",
+      "important_topics": [
+        "Concentration terms: molarity (M), molality (m), normality (N), mole fraction, ppm",
+        "Raoult's law for volatile and non-volatile solute",
+        "Ideal and non-ideal solutions: positive and negative deviation with examples",
+        "Colligative properties: relative lowering of VP, elevation of BP, depression of FP, osmotic pressure",
+        "van't Hoff factor (i) for electrolytes",
+        "Osmosis, reverse osmosis, semipermeable membrane",
+        "Henry's law for gas dissolution",
+        "Azeotropic mixtures: maximum and minimum boiling"
+      ],
+      "easy_topics": [
+        "Concentration terms definitions — 1 mark each",
+        "Raoult's law statement — 1 mark",
+        "Henry's law statement: p = K_H × x",
+        "Isotonic, hypertonic, hypotonic definitions"
+      ],
+      "important_derivations": [
+        "Raoult's law aur relative lowering of vapour pressure",
+        "Elevation of boiling point: ΔT_b = K_b × m",
+        "Depression of freezing point: ΔT_f = K_f × m",
+        "Osmotic pressure: π = CRT"
+      ],
+      "important_diagrams": [
+        "Vapour pressure vs mole fraction graph (ideal vs non-ideal)"
+      ],
+      "important_formulas": [
+        "M = (n × 1000) / V(mL)",
+        "m = (n_solute × 1000) / W_solvent(g)",
+        "X_A = n_A / (n_A + n_B)",
+        "Raoult's law: P_A = P_A° × X_A",
+        "Relative lowering VP: (P° - P)/P° = X_B",
+        "ΔT_b = K_b × m  (elevation of BP)",
+        "ΔT_f = K_f × m  (depression of FP)",
+        "π = CRT = (n/V)RT  (osmotic pressure)",
+        "i = observed / calculated colligative property"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "Molarity, molality numerical (MP 2022, 2023)",
+        "Raoult's law — relative lowering of VP numerical",
+        "Elevation of BP / depression of FP numerical",
+        "van't Hoff factor and abnormal molar mass",
+        "Colligative properties — match column"
+      ],
+      "key_mcq_answers": [
+        "Molality depends on: temperature nahi — solvent mass par",
+        "Ideal solution example: benzene + toluene",
+        "Negative deviation example: chloroform + acetone",
+        "Positive deviation example: ethanol + acetone",
+        "Henry's law: p = K_H × x",
+        "van't Hoff factor i > 1 for: dissociation (electrolytes)"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Vaidyut Rasayan (Electrochemistry)",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & II",
+      "weightage_marks": 9,
+      "typical_breakdown": "2 × 1mark, 1 × 2mark, 1 × 5mark",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "Nernst equation + Faraday numericals",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "no_long_answer_typically": false,
+      "most_optional_from": false,
+      "note": "Guaranteed annual: Nernst equation numerical or Faraday's law | 5-mark topic: Nernst equation derivation ya Faraday's law numerical",
+      "important_topics": [
+        "Galvanic cell (Daniel cell) aur electrolytic cell",
+        "EMF of cell aur standard electrode potential",
+        "Nernst equation: E = E° - (0.0592/n) log Q at 25°C",
+        "ΔG° = -nFE° and spontaneity",
+        "Conductance: specific, molar, equivalent",
+        "Kohlrausch's law and degree of dissociation",
+        "Faraday's 1st and 2nd laws of electrolysis",
+        "Batteries: lead storage, dry cell, fuel cell",
+        "Corrosion: mechanism and prevention"
+      ],
+      "easy_topics": [
+        "Galvanic vs electrolytic cell difference (table)",
+        "Faraday constant = 96500 C/mol",
+        "Cathode = reduction, anode = oxidation",
+        "SHE E° = 0.00 V by convention"
+      ],
+      "important_derivations": [
+        "Nernst equation derivation",
+        "ΔG = -nFE and ΔG° = -nFE° relation",
+        "Kohlrausch's law and degree of dissociation of weak acid"
+      ],
+      "important_diagrams": [
+        "Daniel cell labelled diagram",
+        "Lead storage battery diagram"
+      ],
+      "important_formulas": [
+        "E°cell = E°cathode - E°anode",
+        "Nernst: E = E° - (0.0592/n) log Q  (at 25°C)",
+        "ΔG° = -nFE°cell",
+        "κ = (1/R) × (l/A)  (specific conductance)",
+        "Λ_m = κ × 1000/C  (molar conductance)",
+        "Kohlrausch: Λ°m = λ°₊ + λ°₋",
+        "Faraday 1st: m = (M/nF) × It",
+        "Faraday 2nd: m₁/m₂ = E₁/E₂"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "Nernst equation numerical (MP 2019, 2020, 2023)",
+        "ΔG° = -nFE° numerical",
+        "Faraday's law — mass deposited numerical",
+        "Kohlrausch's law — molar conductance at infinite dilution",
+        "Lead storage battery working with diagram"
+      ],
+      "key_mcq_answers": [
+        "In galvanic cell: oxidation at anode (negative electrode)",
+        "In electrolytic cell: anode is positive",
+        "SHE (standard hydrogen electrode) E° = 0.00 V",
+        "Faraday constant = 96500 C/mol",
+        "Lead storage battery electrolyte: H₂SO₄",
+        "Rust = Fe₂O₃.xH₂O"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Rasayanic Bal Gatiki (Chemical Kinetics)",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & II",
+      "weightage_marks": 7,
+      "typical_breakdown": "2 × 1mark, 1 × 2mark, 1 × 3mark",
+      "difficulty": "Medium",
+      "difficulty_reason": "Standard first order kinetics — formula based",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "no_long_answer_typically": true,
+      "most_optional_from": false,
+      "note": "Guaranteed annual: First order kinetics + half life proof",
+      "important_topics": [
+        "Rate of reaction aur rate law: rate = k[A]^m [B]^n",
+        "Order of reaction vs molecularity — difference",
+        "Zero order: k = x/t, t₁/₂ = [A₀]/2k",
+        "First order: k = (2.303/t) log [A₀]/[A], t₁/₂ = 0.693/k",
+        "Arrhenius equation: k = Ae^(-Ea/RT)",
+        "Activation energy Ea: catalyst lowers it",
+        "Effect of temperature on rate",
+        "Homogeneous and heterogeneous catalysis"
+      ],
+      "easy_topics": [
+        "Order vs molecularity difference — 2 marks table",
+        "t₁/₂ = 0.693/k first order — fill blank",
+        "Catalyst lowers Ea — 1 mark",
+        "Pseudo first order example: hydrolysis of ester"
+      ],
+      "important_derivations": [
+        "First order rate constant: k = (2.303/t) log [A₀]/[A]",
+        "Proof: first order t₁/₂ = 0.693/k independent of initial concentration (MP 2019, 2023)",
+        "Zero order rate constant derivation",
+        "Activation energy using Arrhenius equation"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [
+        "rate = k[A]^m[B]^n",
+        "k = (2.303/t) log ([A₀]/[A])  — first order",
+        "t₁/₂ = 0.693/k  — first order (independent of initial concentration)",
+        "k = x/t  — zero order",
+        "t₁/₂ = [A₀]/2k  — zero order",
+        "k = Ae^(-Ea/RT)  — Arrhenius",
+        "log(k₂/k₁) = (Ea/2.303R) × (T₂-T₁)/(T₁T₂)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "First order rate constant numerical (MP 2019, 2020, 2023)",
+        "Half-life proof: t₁/₂ independent of initial concentration",
+        "Activation energy calculation using Arrhenius",
+        "Rate vs rate constant difference (MP 2018, 2023)"
+      ],
+      "key_mcq_answers": [
+        "First order half life: independent of initial concentration",
+        "Molecularity: always positive integer, max = 3",
+        "Catalyst: lowers activation energy",
+        "Rate constant unit for first order: s⁻¹",
+        "Rate constant unit for zero order: mol L⁻¹ s⁻¹"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "d evam f-Block ke Tatva (d and f Block Elements)",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & II",
+      "weightage_marks": 7,
+      "typical_breakdown": "4 × 1mark, 1 × 3mark",
+      "difficulty": "Easy",
+      "difficulty_reason": "Memory based facts, 4 MCQs",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "no_long_answer_typically": true,
+      "most_optional_from": false,
+      "note": "No numerical: d/f block — entirely theory, no numerical | Mostly objective: 4 objective questions out of 7 marks — 57% marks from objectives | Guaranteed annual: KMnO₄ oxidizing properties",
+      "important_topics": [
+        "General electronic configuration: (n-1)d^1-10 ns^1-2",
+        "Properties: variable oxidation states, colour, paramagnetism, catalytic activity, alloy, complex formation",
+        "Why Zn, Cd, Hg are not typical transition metals",
+        "Lanthanide contraction: cause (poor shielding by f electrons) and consequences",
+        "Actinides: radioactive, 5f series",
+        "KMnO₄: preparation and oxidizing in acidic, basic, neutral medium",
+        "K₂Cr₂O₇: preparation and oxidizing properties"
+      ],
+      "easy_topics": [
+        "General config: (n-1)d^1-10 ns^1-2 (fill blank/MCQ)",
+        "f-block = antah sankraman tatva",
+        "Colour due to d-d transitions",
+        "Most used lanthanide = Cerium (Ce)"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [
+        "KMnO₄ acidic: 2KMnO₄+3H₂SO₄ → K₂SO₄+2MnSO₄+3H₂O+5[O]  — oxidizes FeSO₄, oxalic acid, KI",
+        "KMnO₄ alkaline: 2KMnO₄+2KOH → 2K₂MnO₄+H₂O+[O]  — K₂MnO₄ (dark green)",
+        "KMnO₄ neutral: 2KMnO₄ → 2MnO₂+2KOH+3[O]  — MnO₂ (brown)",
+        "K₂Cr₂O₇+4H₂SO₄ → K₂SO₄+Cr₂(SO₄)₃+4H₂O+3[O]",
+        "Chromyl chloride test: K₂Cr₂O₇+4KCl+6H₂SO₄ → 2CrO₂Cl₂↑ (orange) + products"
+      ],
+      "most_repeated_topics": [
+        "KMnO₄ oxidizing in 3 media (MP 2019, 2023)",
+        "Lanthanide contraction — cause + 2 consequences",
+        "Variable oxidation states explanation",
+        "Why Zn/Cd/Hg not typical transition metals",
+        "Chromyl chloride test"
+      ],
+      "key_mcq_answers": [
+        "Transition metal general config: (n-1)d¹⁻¹⁰ ns¹⁻²",
+        "Lanthanide contraction cause: poor shielding by f electrons",
+        "f-block elements called: antah sankraman tatva (inner transition)",
+        "Colour in transition compounds: due to d-d transitions",
+        "Zn, Cd, Hg: not typical transition metals (d¹⁰ in all states)",
+        "KMnO₄ tulyaanki bhar in acidic medium: 31.6",
+        "Cu⁺ is colourless: 3d¹⁰ no unpaired electron",
+        "Mn maximum oxidation state: +7 in KMnO₄"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Up-Sah Sanyojak Yaugik (Coordination Compounds)",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & II",
+      "weightage_marks": 7,
+      "typical_breakdown": "3 × 1mark, 2 × 2mark",
+      "difficulty": "Medium",
+      "difficulty_reason": "IUPAC nomenclature tricky",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "no_long_answer_typically": true,
+      "most_optional_from": false,
+      "note": "No numerical: Coordination compounds — mostly theory, oxidation number calculation only",
+      "important_topics": [
+        "Terminology: ligand, coordination number, coordination sphere, oxidation number",
+        "IUPAC nomenclature rules",
+        "Werner's theory postulates",
+        "VBT: inner orbital (dsp²,d²sp³) vs outer orbital (sp³d²) complexes",
+        "Types of isomerism: ionisation, hydrate, linkage, coordination, geometric, optical",
+        "Stability constant of complex",
+        "Applications: photography (AgBr + Na₂S₂O₃), medicine (EDTA chelation therapy)"
+      ],
+      "easy_topics": [
+        "Coordination number definition + example",
+        "EDTA = hexadentate (MCQ)",
+        "Ligand = Lewis base, Metal = Lewis acid",
+        "Oxidation number calculation"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "IUPAC nomenclature (MP 2019, 2020, 2023)",
+        "VBT — hybridization and magnetic nature",
+        "Werner's theory postulates",
+        "Oxidation number of central metal",
+        "Types of isomerism with one example each"
+      ],
+      "key_mcq_answers": [
+        "EDTA: hexadentate ligand",
+        "Ligand = Lewis base. Central metal = Lewis acid",
+        "Ethylene diamine (en): bidentate",
+        "[Ni(CO)₄] hybridization: sp³",
+        "[NiCl₄]²⁻: sp³, paramagnetic",
+        "[Ni(CN)₄]²⁻: dsp², square planar, diamagnetic"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Halo Alkene Halo Arene (Haloalkanes and Haloarenes)",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & II",
+      "weightage_marks": 6,
+      "typical_breakdown": "2 × 1mark, 1 × 4mark",
+      "difficulty": "Medium",
+      "difficulty_reason": "SN1/SN2 mechanism understanding needed",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "no_long_answer_typically": true,
+      "most_optional_from": false,
+      "note": "",
+      "important_topics": [
+        "Classification: 1°, 2°, 3° haloalkanes",
+        "Methods of preparation from alkenes, alcohols, alkanes",
+        "SN1 vs SN2 mechanism, conditions, stereochemistry",
+        "Finkelstein, Swarts, Wurtz, Sandmeyer, Gattermann reactions",
+        "Haloarenes — less reactive in nucleophilic substitution",
+        "Chloroform, iodoform preparation and uses",
+        "DDT, Freon — environmental effects"
+      ],
+      "easy_topics": [
+        "SN1 vs SN2 table",
+        "Finkelstein reaction equation",
+        "Wurtz reaction equation",
+        "Reactivity order R-I > R-Br > R-Cl > R-F"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [
+        "Finkelstein: R-Cl + NaI → R-I + NaCl (acetone)",
+        "Swarts: R-Cl + AgF → R-F + AgCl",
+        "Wurtz: 2R-X + 2Na → R-R + 2NaX (dry ether)",
+        "Sandmeyer: C₆H₅N₂⁺Cl⁻ + CuCN → C₆H₅CN + N₂ + CuCl",
+        "Chloroform from acetone: CH₃COCH₃ + 3Cl₂ + 3NaOH → CHCl₃ + 3NaCl + 3H₂O"
+      ],
+      "most_repeated_topics": [
+        "SN1 vs SN2 mechanism comparison (MP 2012, 2017, 2023)",
+        "Sandmeyer reaction",
+        "Finkelstein and Swarts reactions",
+        "Reactivity order: R-I > R-Br > R-Cl > R-F",
+        "Iodoform preparation"
+      ],
+      "key_mcq_answers": [
+        "Reactivity order: R-I > R-Br > R-Cl > R-F",
+        "SN2: primary substrate preferred, inversion of configuration",
+        "SN1: tertiary substrate preferred, racemization",
+        "Freon (CCl₂F₂): depletes ozone layer"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Alkohol Phenol aur Ether",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & II",
+      "weightage_marks": 6,
+      "typical_breakdown": "3 × 1mark, 1 × 3mark",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "Reactions memory based",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "no_long_answer_typically": true,
+      "most_optional_from": false,
+      "note": "",
+      "important_topics": [
+        "Classification: 1°, 2°, 3° alcohols",
+        "Preparation from alkenes (hydration), haloalkanes, Grignard, aldehydes/ketones",
+        "Reactions: with Na, PCl₅, HX (Lucas test), oxidation, esterification",
+        "Lucas test and Victor Meyer test for identification",
+        "Phenol: preparation from cumene, diazonium salts, chlorobenzene",
+        "Phenol reactions: Kolbe, Reimer-Tiemann, bromination, FeCl₃ test",
+        "Ether: Williamson synthesis, reaction with HI"
+      ],
+      "easy_topics": [
+        "Lucas test: 3° = turant gandla (immediate turbidity)",
+        "Kolbe reaction equation",
+        "Phenol + FeCl₃ = violet colour (MCQ)",
+        "Williamson synthesis equation"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [
+        "Lucas test: 3° + HCl/ZnCl₂ → immediate turbidity. 2° = few min. 1° = no reaction.",
+        "Victor Meyer: 1° = red, 2° = blue, 3° = no colour",
+        "Kolbe: C₆H₅OH + CO₂/NaOH → salicylic acid",
+        "Reimer-Tiemann: C₆H₅OH + CHCl₃/NaOH → salicylaldehyde (o-hydroxybenzaldehyde)",
+        "Williamson: R-ONa + R'X → R-O-R'",
+        "Phenol from cumene: C₆H₅CH(CH₃)₂ → C₆H₅OH + CH₃COCH₃"
+      ],
+      "most_repeated_topics": [
+        "Phenol vs alcohol 6 differences (MP 2019, 2020, 2022)",
+        "Kolbe reaction and Reimer-Tiemann reaction",
+        "Lucas test for 1°/2°/3° alcohol",
+        "Williamson synthesis equation",
+        "Cumene process for phenol"
+      ],
+      "key_mcq_answers": [
+        "Lucas test: 3° alcohol — immediate turbidity",
+        "Phenol + FeCl₃ = violet colour",
+        "Phenol more acidic than alcohol",
+        "Ether: cannot be extinguished by water — highly inflammable",
+        "Rectified spirit = 95.6% ethanol (azeotrope with water)"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Aldehyde Ketone aur Carboxylic Acid",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & II",
+      "weightage_marks": 8,
+      "typical_breakdown": "1 × 1mark, 1 × 2mark, 1 × 5mark",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "Many reactions, mechanism questions",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "no_long_answer_typically": false,
+      "most_optional_from": false,
+      "note": "Guaranteed annual: Cannizzaro/Aldol reaction or Tollen's/Fehling's test | 5-mark topic: Aldehyde/ketone mechanism ya carboxylic acid reactions",
+      "important_topics": [
+        "Preparation: from alcohols, acid chlorides, ozonolysis, Gattermann-Koch, Rosenmund",
+        "Nucleophilic addition: HCN, NaHSO₃, Grignard, alcohol (hemiacetal/acetal)",
+        "Cannizzaro reaction (no alpha-H aldehydes)",
+        "Aldol condensation (alpha-H required)",
+        "Tests: Tollen's, Fehling's, Benedict's, iodoform",
+        "Clemmensen reduction and Wolff-Kishner reduction",
+        "Carboxylic acid preparation and reactions",
+        "HVZ reaction, acidity comparison",
+        "Fischer esterification"
+      ],
+      "easy_topics": [
+        "Tollen's test = silver mirror = aldehyde only (MCQ)",
+        "Iodoform = yellow precipitate = CH₃CO- group",
+        "Cannizzaro = no alpha-H aldehydes (fill blank)",
+        "Rosenmund reaction equation"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [
+        "Tollen's: RCHO + [Ag(NH₃)₂]⁺ → RCOO⁻ + Ag↓ (silver mirror). Ketones do NOT react.",
+        "Fehling's: RCHO + Cu²⁺ → RCOO⁻ + Cu₂O↓ (red). Aromatic aldehydes and ketones do NOT react.",
+        "Cannizzaro: 2HCHO + NaOH → HCOONa + CH₃OH",
+        "Aldol: 2CH₃CHO → CH₃CH(OH)CH₂CHO",
+        "Rosenmund: RCOCl + H₂ → RCHO (Pd/BaSO₄ poisoned catalyst)",
+        "Clemmensen: RCOR' + Zn-Hg/conc HCl → RCH₂R'",
+        "Wolff-Kishner: RCOR' + N₂H₄/KOH → RCH₂R' + N₂",
+        "Iodoform: RCOCH₃ + 3I₂ + 3NaOH → RCOO⁻Na⁺ + CHI₃↓ (yellow ppt)",
+        "HVZ: RCOOH + Br₂/red P → RCH(Br)COOH",
+        "Fischer esterification: RCOOH + R'OH ⇌ RCOOR' + H₂O (H₂SO₄)"
+      ],
+      "most_repeated_topics": [
+        "Cannizzaro reaction mechanism",
+        "Aldol condensation reaction",
+        "Tollen's vs Fehling's: which compounds give positive test",
+        "Iodoform test: compounds giving CHI₃ (yellow)",
+        "Clemmensen vs Wolff-Kishner comparison",
+        "Acidity of carboxylic acids — order and explanation",
+        "Preparation of aldehyde from acyl chloride (Rosenmund)"
+      ],
+      "key_mcq_answers": [
+        "Tollen's test: silver mirror = aldehyde only",
+        "Fehling's solution: red ppt = aliphatic aldehyde",
+        "Iodoform test positive: CH₃CO- group (acetaldehyde, acetone)",
+        "Cannizzaro: no alpha-H aldehydes (HCHO, C₆H₅CHO)",
+        "Formic acid reduces Tollen's (behaves like aldehyde)"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Ameen (Amines)",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & II",
+      "weightage_marks": 6,
+      "typical_breakdown": "4 × 1mark, 1 × 2mark",
+      "difficulty": "Easy",
+      "difficulty_reason": "Theory only, memory based",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "no_long_answer_typically": true,
+      "most_optional_from": false,
+      "note": "No numerical: Amines — entirely theory | Mostly objective: 4 objective + 1 very short answer = all 6 marks from easy questions",
+      "important_topics": [
+        "Classification: 1°, 2°, 3° amines; IUPAC nomenclature",
+        "Preparation: from nitroalkane, Hoffmann bromamide, nitrile, haloalkane",
+        "Basic nature: comparison of amines with NH₃",
+        "Basicity order: aliphatic vs aromatic",
+        "Hinsberg test for identification",
+        "Reactions: HNO₂, acylation, Carbylamine, Mustard oil reaction",
+        "Diazonium salts: preparation and Sandmeyer/Gattermann/coupling reactions"
+      ],
+      "easy_topics": [
+        "Carbylamine = test for 1° amine only (MCQ)",
+        "Hinsberg: 1° soluble in KOH, 3° no reaction",
+        "Diazonium at 0-5°C (fill blank)",
+        "Aniline + Br₂(aq) = white ppt (MCQ)"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [
+        "Hoffmann: RCONH₂ + Br₂ + 4NaOH → RNH₂ + Na₂CO₃ + 2NaBr + 2H₂O (one C less)",
+        "Carbylamine: RNH₂ + CHCl₃ + 3KOH → RNC + 3KCl + 3H₂O (foul smell, 1° only)",
+        "Hinsberg: 1° → C₆H₅SO₂NHR (soluble KOH). 2° → C₆H₅SO₂NR₂ (insoluble). 3° → no reaction.",
+        "Diazonium: C₆H₅NH₂ + NaNO₂/HCl → C₆H₅N₂⁺Cl⁻  (0-5°C)",
+        "Sandmeyer: + CuCN → ArCN, + CuCl → ArCl, + CuBr → ArBr",
+        "Coupling: ArN₂⁺Cl⁻ + aniline/phenol → azo dye (orange)",
+        "Aniline + 3Br₂(aq) → 2,4,6-tribromoaniline↓ (white ppt)"
+      ],
+      "most_repeated_topics": [
+        "Carbylamine reaction (1° amine test) — MP 2019, 2023",
+        "Hoffmann bromamide degradation",
+        "1°/2°/3° amine distinction by Hinsberg test",
+        "Diazonium salt reactions: Sandmeyer, Gattermann, coupling",
+        "Why ethylamine more basic than aniline (MP 2023)"
+      ],
+      "key_mcq_answers": [
+        "Carbylamine reaction: test for primary amine only",
+        "Diazonium salt formed at: 0-5°C",
+        "Aniline + 3Br₂(aq) = 2,4,6-tribromoaniline (white ppt)",
+        "Hoffmann bromamide: product has one less carbon than reactant amide",
+        "Hinsberg test: 1° soluble in KOH, 2° insoluble, 3° no reaction"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Jav Anu (Biomolecules)",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & II",
+      "weightage_marks": 7,
+      "typical_breakdown": "5 × 1mark, 1 × 2mark",
+      "difficulty": "Easy",
+      "difficulty_reason": "Vitamins table + definitions = easy marks",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "no_long_answer_typically": true,
+      "most_optional_from": false,
+      "note": "No numerical: Biomolecules — entirely theory | Mostly objective: 5 objective + 1 very short answer = all 7 marks from easy questions | Guaranteed annual: Vitamins table",
+      "important_topics": [
+        "Carbohydrates: classification, monosaccharides, disaccharides, polysaccharides",
+        "Glucose structure (open chain), reducing nature",
+        "Reducing vs non-reducing sugars",
+        "Starch vs cellulose differences",
+        "Proteins: amino acids, peptide bond, 4 structural levels",
+        "Enzymes: definition, lock and key model",
+        "Nucleic acids: DNA vs RNA differences",
+        "Vitamins: fat-soluble (A,D,E,K) and water-soluble (B,C)",
+        "Hormones: insulin, thyroxine, testosterone, cortisone"
+      ],
+      "easy_topics": [
+        "Vitamins table: 9 vitamins = 5 objective + 1 very short answer = all 7 marks of unit 10 possible",
+        "Sucrose = non-reducing sugar (MCQ)",
+        "DNA: thymine. RNA: uracil (fill blank)",
+        "Enzyme = biological catalyst, protein in nature"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "Vitamins table complete (MP 2010, 2014, 2018, 2023) — 9 vitamins with deficiency",
+        "DNA vs RNA differences table",
+        "Reducing vs non-reducing sugar examples",
+        "Peptide bond formation",
+        "Primary to quaternary protein structure"
+      ],
+      "key_mcq_answers": [
+        "Sucrose: non-reducing sugar",
+        "DNA has thymine (T), RNA has uracil (U)",
+        "DNA sugar: deoxyribose. RNA sugar: ribose",
+        "Enzyme = biological catalyst (protein)",
+        "Glycogen: storage carbohydrate in animals",
+        "Cellulose: structural, beta-1,4 glycosidic bond",
+        "Fructose: sweetest sugar",
+        "Maltose: reducing sugar = glucose + glucose",
+        "Insulin controls: blood glucose level"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Chemistry mein har unit se at least 1 question guaranteed hai as per blueprint. Blueprint officially fix karta hai kitne marks kis unit se aayenge.",
+    "can_chapter_have_zero_questions": true,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "Chemistry mein har unit se at least 1 question guaranteed hai.",
+    "or_questions_note": "",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Unit 1 - Vilaayan (Solutions)",
+      "Unit 2 - Vaidyut Rasayan (Electrochemistry)",
+      "Unit 3 - Rasayanic Bal Gatiki (Chemical Kinetics)",
+      "Unit 4 - d evam f-Block ke Tatva (d and f Block Elements)",
+      "Unit 8 - Aldehyde Ketone aur Carboxylic Acid",
+      "Unit 10 - Jav Anu (Biomolecules)"
+    ],
+    "chapters_never_skip_reason": "Blueprint guarantees at least one question from each unit.",
+    "chapters_with_highest_weightage": [
+      "Unit 2 - Electrochemistry (9 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "Unit 6 - Haloalkanes (6 marks)",
+      "Unit 7 - Alcohols Phenols Ethers (6 marks)",
+      "Unit 9 - Amines (6 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "Unit 1 - Colligative property numerical (elevation BP / depression FP)",
+      "Unit 2 - Nernst equation numerical or Faraday's law",
+      "Unit 3 - First order kinetics + half life proof",
+      "Unit 4 - KMnO₄ oxidizing properties",
+      "Unit 8 - Cannizzaro/Aldol reaction or Tollen's/Fehling's test",
+      "Unit 10 - Vitamins table"
+    ],
+    "chapters_mostly_theory": [
+      "Unit 4 - d/f block — entirely theory, no numerical",
+      "Unit 5 - Coordination compounds — mostly theory, oxidation number calculation only",
+      "Unit 9 - Amines — entirely theory",
+      "Unit 10 - Biomolecules — entirely theory"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [
+      "Unit 4 - 4 objective questions out of 7 marks — 57% marks from objectives",
+      "Unit 9 - 4 objective + 1 very short answer = all 6 marks from easy questions",
+      "Unit 10 - 5 objective + 1 very short answer = all 7 marks from easy questions"
+    ],
+    "chapters_with_long_answer": [
+      "Unit 2 - Nernst equation derivation ya Faraday's law numerical",
+      "Unit 8 - Aldehyde/ketone mechanism ya carboxylic acid reactions"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "Unit 4 - d/f block — entirely theory, no numerical",
+      "Unit 5 - Coordination compounds — mostly theory, oxidation number calculation only",
+      "Unit 9 - Amines — entirely theory",
+      "Unit 10 - Biomolecules — entirely theory"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "First order kinetics + half life proof (Unit 3, 2-3 marks)",
+      "Nernst equation numerical (Unit 2, 4-5 marks)",
+      "Cannizzaro or Aldol condensation (Unit 8, 2-3 marks)",
+      "Vitamins table (Unit 10, 2-3 marks)",
+      "KMnO₄ oxidizing in 3 media (Unit 4, 3 marks)",
+      "SN1 vs SN2 comparison (Unit 6, 3-4 marks)",
+      "Colligative property numerical (Unit 1, 2-3 marks)",
+      "Phenol vs alcohol differences (Unit 7, 2-3 marks)",
+      "Carbylamine reaction (Unit 9, 1-2 marks)"
+    ],
+    "one_mark_question_facts": {
+      "note": "Q1 to Q4 mein 28 questions hote hain = 28 marks. Mostly from these patterns:",
+      "common_formats": []
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Unit-wise important formulas from syllabus_unitwise.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "1",
+        "chapter_name": "Vilaayan (Solutions)",
+        "formulas": [
+          "M = (n × 1000) / V(mL)",
+          "m = (n_solute × 1000) / W_solvent(g)",
+          "X_A = n_A / (n_A + n_B)",
+          "Raoult's law: P_A = P_A° × X_A",
+          "Relative lowering VP: (P° - P)/P° = X_B",
+          "ΔT_b = K_b × m  (elevation of BP)",
+          "ΔT_f = K_f × m  (depression of FP)",
+          "π = CRT = (n/V)RT  (osmotic pressure)",
+          "i = observed / calculated colligative property"
+        ]
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "Vaidyut Rasayan (Electrochemistry)",
+        "formulas": [
+          "E°cell = E°cathode - E°anode",
+          "Nernst: E = E° - (0.0592/n) log Q  (at 25°C)",
+          "ΔG° = -nFE°cell",
+          "κ = (1/R) × (l/A)  (specific conductance)",
+          "Λ_m = κ × 1000/C  (molar conductance)",
+          "Kohlrausch: Λ°m = λ°₊ + λ°₋",
+          "Faraday 1st: m = (M/nF) × It",
+          "Faraday 2nd: m₁/m₂ = E₁/E₂"
+        ]
+      },
+      {
+        "chapter_id": "3",
+        "chapter_name": "Rasayanic Bal Gatiki (Chemical Kinetics)",
+        "formulas": [
+          "rate = k[A]^m[B]^n",
+          "k = (2.303/t) log ([A₀]/[A])  — first order",
+          "t₁/₂ = 0.693/k  — first order (independent of initial concentration)",
+          "k = x/t  — zero order",
+          "t₁/₂ = [A₀]/2k  — zero order",
+          "k = Ae^(-Ea/RT)  — Arrhenius",
+          "log(k₂/k₁) = (Ea/2.303R) × (T₂-T₁)/(T₁T₂)"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Chemistry",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Chemistry",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 30,
+    "passing_marks": 10,
+    "practical_exam_separate": true,
+    "practical_exam_note": "",
+    "not_giving_practical_consequence": "30 marks mein se zero. Overall passing affected. Dena zaroori hai.",
+    "viva_compulsory": true,
+    "viva_marks": 10,
+    "individual": true,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": true,
+    "all_sections_compulsory_note": "",
+    "components": [
+      {
+        "name": "Practical experiments written record and performance",
+        "marks": 15,
+        "note": ""
+      },
+      {
+        "name": "Activities and project work",
+        "marks": 5,
+        "note": ""
+      },
+      {
+        "name": "Viva voce",
+        "marks": 10,
+        "note": ""
+      }
+    ],
+    "activities_vs_experiments": {
+      "experiment": "Full procedure, observations, calculations, result. Example: titration, Mohr's salt.",
+      "activity": "Shorter demonstration. Example: testing functional groups, chromatography."
+    },
+    "minimum_attempts": {
+      "exam_day": 1,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "All 6-8 experiments in file",
+      "activities_required_note": "Minimum 2-3 in file"
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "40% marks sirf Q1-Q4 objectives se aa jaate hain. Agar objectives achhe karo toh passing pakki. Physics se thoda easier structure.",
+    "easy_percent": 40,
+    "medium_percent": 40,
+    "hard_percent": 20,
+    "most_scoring_sections": [
+      "Q1-Q4 (28 marks objectives)"
+    ],
+    "most_difficult_sections": [
+      "Long Answer/Analytical (4-5 marks)"
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Q1 se Q4 pehle complete karo — 28 marks, relatively easy, 35-40 min mein karo",
+      "Chemical equations hamesha balance karke likho — unbalanced = marks cut",
+      "IUPAC names mein spelling dhyan se likho",
+      "Reaction mechanism mein steps clearly number karo",
+      "Tollen's test, iodoform test, carbylamine test — ye tests description ke saath likho",
+      "Unit 10 (Biomolecules) mein vitamins table ek baar achhi tarah yaad karo — 5 marks pakke",
+      "Numericals mein: Given, Formula, Substitution, Answer with units",
+      "Structural formulas banana mat bhoolna jahan maanga ho",
+      "Difference/comparison questions mein table banao — examiner ko marks dena easy hota hai",
+      "Internal choice mein woh question chuno jisme zyaada reactions/equations yaad hain",
+      "Question number aur set number cover page par zaroori likho",
+      "Rough work clearly ROUGH WORK mark karo last page pe"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "Q1_MCQ",
+        "recommended_minutes": 8,
+        "note": "8 min — all 7"
+      },
+      {
+        "section_id": "Q2_fill_blank",
+        "recommended_minutes": 7,
+        "note": "7 min — all 7"
+      },
+      {
+        "section_id": "Q3_match_column",
+        "recommended_minutes": 7,
+        "note": "7 min — all 7"
+      },
+      {
+        "section_id": "Q4_one_sentence",
+        "recommended_minutes": 8,
+        "note": "8 min — all 7"
+      },
+      {
+        "section_id": "very_short_answer_2mark",
+        "recommended_minutes": 30,
+        "note": "30 min"
+      },
+      {
+        "section_id": "short_answer_3mark",
+        "recommended_minutes": 30,
+        "note": "30 min"
+      },
+      {
+        "section_id": "long_answer_analytical",
+        "recommended_minutes": 50,
+        "note": "50 min"
+      },
+      {
+        "section_id": "revision",
+        "recommended_minutes": 20,
+        "note": "20 min"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 23,
+        "strategy": "Q1-Q4 (28 objectives) mein se 20-22 sahi karo = 20-22 marks. + 1-2 very short answer questions = 23-26 marks. Passing pakka.",
+        "focus_chapters": [
+          "Unit 10 (Biomolecules) — vitamins table yaad karo, 5-7 marks easy",
+          "Unit 9 (Amines) — carbylamine test, Hinsberg test, 4 MCQ easy",
+          "Unit 4 (d/f Block) — 4 MCQ + 1 short = 7 marks, memory based",
+          "Unit 3 (Kinetics) — t₁/₂ formula, order vs molecularity",
+          "Unit 7 (Alcohols) — Lucas test, Kolbe reaction, Phenol FeCl₃ test"
+        ],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "40_marks",
+        "target_marks": 40,
+        "strategy": "Objectives (22-24) + 3-4 very short answer + 2 laghu questions = ~40 marks",
+        "focus_chapters": [
+          "Unit 10",
+          "Unit 1 numerical",
+          "Unit 3 kinetics",
+          "Unit 8 reactions",
+          "Unit 9"
+        ],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60_marks",
+        "target_marks": 60,
+        "strategy": "Full objectives (28) + very short answer (12-14) + laghu (6-9) + 1 long answer = 55-65 marks",
+        "focus_chapters": [
+          "All units"
+        ],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "Units 2, 3, 8 ke derivations aur mechanisms prepare karo for full marks.",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": 0,
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [
+      "Unit 10 (Biomolecules) — pure memory, no calculations",
+      "Unit 9 (Amines) — theory only, 6 marks easy",
+      "Unit 4 (d/f Block) — memory based facts, 7 marks"
+    ],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": [
+      "Unit 2 advanced Nernst numerical",
+      "Unit 5 full VBT/CFT theory",
+      "Unit 6 full mechanism details"
+    ]
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "No separate internal assessment — 30 marks practical covers non-theory component",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": []
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "Admit card ke bina exam hall mein entry nahi milegi. Har exam day saath le jaao.",
+    "uniform_compulsory": true,
+    "uniform_note": "Exam mein proper school uniform mein aana zaroori hai.",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "Smartphone, smartwatch ya koi bhi electronic device exam hall mein allowed nahi hai. Found karne par spot par suspend.",
+    "reach_before_minutes": 30,
+    "reach_note": "Exam time se kam se kam 30 minute pehle hall mein pahunchna zaroori hai.",
+    "malpractice_consequence": "Malpractice mein caught hone par spot par suspend kar diya jaayega.",
+    "leaving_before_submission": false,
+    "leaving_note": "Answer sheet submit karne se pehle exam hall nahi chhod sakte.",
+    "timetable_source": "Official timetable mpbse.nic.in par available hoti hai.",
+    "extra_time_given": false,
+    "extra_time_note": "3 ghante fixed. Bell bajte hi answer sheet submit karni hoti hai. Koi extra time nahi milta."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "question_number_note: Haan — har answer ke upar question number likhna zaroori hai. Examiner dhundhta hai. Nahi likha toh marks confusion ho sakta hai.",
+      "set_number_compulsory: True",
+      "set_number_note: Haan — apna set number (A/B/C/D) answer sheet ke cover page par compulsory likhna hota hai.",
+      "question_copy_compulsory: False",
+      "question_copy_note: Answer sheet mein poora question likhna zaroori nahi. Sirf question number likho aur answer shuru karo.",
+      "rough_work: Answer sheet ka last page rough work ke liye. Clearly ROUGH WORK likho. Rough work pe marks nahi milte lekin kaam aata hai.",
+      "supplementary_sheet: Supplementary sheet lene se marks nahi katenge. Zaroorat ho toh lo. Lekin unnecessary blank pages waste mat karo.",
+      "sequence_compulsory: False",
+      "sequence_note: Questions ka sequence follow karna zaroori nahi. Jo aata ho pehle karo. Lekin question number clearly likho.",
+      "last_to_first: Haan — paper last se bhi start kar sakte ho. Koi rule nahi ki sequence follow karo.",
+      "long_answer_position: Long answers hamesha paper ke last mein nahi hote. Section D aur E mein hote hain lekin sequence alag ho sakti hai.",
+      "section_name_before_section: Section ka naam likhna compulsory nahi lekin recommended hai. Examiner ko navigate karna easy hota hai.",
+      "line_after_each_question: Zaroori nahi. Lekin do lines draw karne se answer clearly separate dikhta hai — good practice.",
+      "cutting_overwriting: Cuts se marks directly nahi katenge. Ek clean line se kato. Clean cutting acceptable hai.",
+      "short_before_long: Pehle short answers attempt karo phir long — marks nahi katenge. Jo bhi order suit kare.",
+      "sub_questions: Sub questions matlab ek question ke andar (a), (b), (c) parts hote hain. Har part ke marks alag alag hote hain."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Blue pen se main answer, black se headings/underline. Ya sirf ek color bhi chalega."
+    },
+    "rough_work_rules": "Answer sheet ka last page rough work ke liye. Clearly ROUGH WORK likho. Rough work pe marks nahi milte lekin kaam aata hai.",
+    "diagram_rules": "",
+    "overwriting_rules": "Cuts se marks directly nahi katenge. Ek clean line se kato. Clean cutting acceptable hai.",
+    "cutting_rules": "Cuts se marks directly nahi katenge. Ek clean line se kato. Clean cutting acceptable hai."
+  }
+}

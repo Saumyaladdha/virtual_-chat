@@ -1,0 +1,1921 @@
+{
+  "board": "UP Board",
+  "class": "12",
+  "subject": "Accountancy",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 100,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 33,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": true,
+    "extra_time_note": "3 Hours 15 Minutes. First 15 minutes: reading time only — no writing allowed.",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 30,
+    "total_questions_to_attempt": 30,
+    "total_objective_questions": 10,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "English or Hindi both. Hindi version final in case of discrepancy.",
+    "all_compulsory_note": "Long Answer questions (Q27-Q30) have OR option. Also some SA questions may have OR.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "UP Board syllabus fully NCERT-based.",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [
+      "NCERT Accountancy Part I",
+      "NCERT Accountancy Part II"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "MCQ (1M), Very Short Answer (2M), Short Answer (5M), Long Answer (10M)",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "Multiple Choice Questions",
+        "question_number": "A",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "10 MCQs, all compulsory. Includes numerical MCQs (goodwill calculation, ratio etc.) and CBQ types. Easy to Medium.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Very Short Answer Type Questions",
+        "question_number": "B",
+        "section": "B",
+        "marks_each": 2,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "10 questions × 2 marks = 20 marks. All compulsory. Short definitions, 2 features, or one short explanation. Easy to Medium.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "30 words",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer Type Questions",
+        "question_number": "C",
+        "section": "C",
+        "marks_each": 5,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "6 questions × 5 marks = 30 marks. May include small numericals or definitions. Some carry part marks like 3+2, 2+3, 4+1.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "100 words",
+        "notes": ""
+      },
+      {
+        "type": "Long Answer Type Questions",
+        "question_number": "D",
+        "section": "D",
+        "marks_each": 10,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "4 questions × 10 marks = 40 marks. Each has OR option. Mostly numerical (journal entries, ledger accounts, ratio calculations, cash flow statement). Some carry part marks like 4+6, 3+7, 5+5.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "UP Board Accountancy Class 12 — 30 questions, 100 marks, 3 hrs 15 min (15 min reading).",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Only Q27-Q30 (Long Answer) have OR. Q1-Q26 all compulsory.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 30,
+      "medium_percent": 50,
+      "hard_percent": 20,
+      "note": "Medium to Difficult. LA (Q27-Q30) covered numerical type along with theory questions with choice."
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Multiple Choice Questions",
+        "type": "Multiple Choice Questions",
+        "question_numbers": "Q1 to Q10",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "10 MCQs, all compulsory. Includes numerical MCQs (goodwill calculation, ratio etc.) and CBQ types. Easy to Medium.",
+        "notes": ""
+      },
+      {
+        "section_id": "B",
+        "name": "Very Short Answer Type Questions",
+        "type": "Very Short Answer Type Questions",
+        "question_numbers": "Q11 to Q20",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "30 words",
+        "breakdown": "10 questions × 2 marks = 20 marks. All compulsory. Short definitions, 2 features, or one short explanation. Easy to Medium.",
+        "notes": ""
+      },
+      {
+        "section_id": "C",
+        "name": "Short Answer Type Questions",
+        "type": "Short Answer Type Questions",
+        "question_numbers": "Q21 to Q26",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 5,
+        "total_marks": 30,
+        "word_limit": "100 words",
+        "breakdown": "6 questions × 5 marks = 30 marks. May include small numericals or definitions. Some carry part marks like 3+2, 2+3, 4+1.",
+        "notes": ""
+      },
+      {
+        "section_id": "D",
+        "name": "Long Answer Type Questions",
+        "type": "Long Answer Type Questions",
+        "question_numbers": "Q27 to Q30",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 10,
+        "total_marks": 40,
+        "word_limit": "",
+        "breakdown": "4 questions × 10 marks = 40 marks. Each has OR option. Mostly numerical (journal entries, ledger accounts, ratio calculations, cash flow statement). Some carry part marks like 4+6, 3+7, 5+5.",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 100,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "10 (MCQ) + 20 (VSA) + 30 (SA) + 40 (LA) = 100 marks",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Multiple Choice Questions",
+        "question_numbers": "Q1 to Q10",
+        "type": "Multiple Choice Questions",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "10 MCQs, all compulsory. Includes numerical MCQs (goodwill calculation, ratio etc.) and CBQ types. Easy to Medium."
+      },
+      {
+        "section_id": "B",
+        "name": "Very Short Answer Type Questions",
+        "question_numbers": "Q11 to Q20",
+        "type": "Very Short Answer Type Questions",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "30 words",
+        "breakdown": "10 questions × 2 marks = 20 marks. All compulsory. Short definitions, 2 features, or one short explanation. Easy to Medium."
+      },
+      {
+        "section_id": "C",
+        "name": "Short Answer Type Questions",
+        "question_numbers": "Q21 to Q26",
+        "type": "Short Answer Type Questions",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 5,
+        "total_marks": 30,
+        "word_limit": "100 words",
+        "breakdown": "6 questions × 5 marks = 30 marks. May include small numericals or definitions. Some carry part marks like 3+2, 2+3, 4+1."
+      },
+      {
+        "section_id": "D",
+        "name": "Long Answer Type Questions",
+        "question_numbers": "Q27 to Q30",
+        "type": "Long Answer Type Questions",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 10,
+        "total_marks": 40,
+        "word_limit": "",
+        "breakdown": "4 questions × 10 marks = 40 marks. Each has OR option. Mostly numerical (journal entries, ledger accounts, ratio calculations, cash flow statement). Some carry part marks like 4+6, 3+7, 5+5."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "UP Board Accountancy blueprint: Part A Partnership (45 marks, Ch 1-4) + Part B Company Accounts & Analysis (55 marks, Ch 5-9).",
+    "total_theory_marks": 100,
+    "objective_percent": 10,
+    "subjective_percent": 90,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "2",
+      "name": "Admission of a Partner",
+      "marks": 13,
+      "note": "Tied highest with Ch 3, Ch 4, Ch 5"
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Accounting for Partnership: Basic Concepts",
+        "marks": 6
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Accounting for Partnership: Basic Concepts",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — 7-17"
+      },
+      {
+        "chapter_id": "2",
+        "name": "Reconstitution of a Partnership Firm: Admission of a Partner",
+        "marks": 13,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — 18-37"
+      },
+      {
+        "chapter_id": "3",
+        "name": "Reconstitution of a Partnership Firm: Retirement/Death of a Partner",
+        "marks": 13,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — 37-54"
+      },
+      {
+        "chapter_id": "4",
+        "name": "Dissolution of Partnership Firm",
+        "marks": 13,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — 54-64"
+      },
+      {
+        "chapter_id": "5",
+        "name": "Accounting for Share Capital",
+        "marks": 13,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B — 65-81"
+      },
+      {
+        "chapter_id": "6",
+        "name": "Accounting for Debentures",
+        "marks": 12,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B — 81-89"
+      },
+      {
+        "chapter_id": "7",
+        "name": "Financial Statements of a Company",
+        "marks": 12,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B — 90-105"
+      },
+      {
+        "chapter_id": "8",
+        "name": "Accounting Ratios",
+        "marks": 9,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B — 106-114"
+      },
+      {
+        "chapter_id": "9",
+        "name": "Cash Flow Statement",
+        "marks": 9,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B — 115-127"
+      }
+    ],
+    "totals": {
+      "total_marks": 100,
+      "one_mark_questions": 10,
+      "two_mark_total": 20,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 30
+    }
+  },
+  "syllabus": {
+    "note": "UP Board Class 12 Accountancy — 9 chapters (4 partnership + 5 company accounts).",
+    "books": [
+      {
+        "book_name": "NCERT Accountancy Part I (Partnership Accounts)",
+        "category": "Part A",
+        "total_marks": 45,
+        "note": "Partnership: Basic Concepts, Admission, Retirement/Death, Dissolution",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Accounting for Partnership: Basic Concepts",
+            "marks": 6,
+            "topics": [
+              "Nature of Partnership — Section 4, Indian Partnership Act 1932",
+              "Essential Features of Partnership (6 features)",
+              "Partnership Deed — Meaning, Contents (17 items)",
+              "Provisions of Indian Partnership Act 1932 in Absence of Partnership Deed",
+              "Special Aspects of Partnership Accounts",
+              "Maintenance of Capital Accounts: Fixed Capital Method vs Fluctuating Capital Method",
+              "Partners' Capital Account and Current Account formats",
+              "Distribution of Profit through Profit and Loss Appropriation Account",
+              "Interest on Capital: Interest = Capital × Rate/100 × Time",
+              "Interest on Drawings — Simple Method, Product Method",
+              "Quick View Table for Average Period of Drawings",
+              "Guarantee of Profit to a Partner",
+              "Past Adjustments (Errors in Profit Sharing)"
+            ],
+            "note": "Pages: 7-17 | "
+          },
+          {
+            "chapter_id": "2",
+            "name": "Reconstitution of a Partnership Firm: Admission of a Partner",
+            "marks": 13,
+            "topics": [
+              "Reconstitution — Meaning, Modes",
+              "Change in Profit Sharing Ratio — Sacrificing Ratio = Old Share – New Share",
+              "Admission of a Partner — Rights acquired",
+              "New Profit Sharing Ratio = Old Share – Sacrificing Share",
+              "Goodwill — Nature, Factors Affecting, Need for Valuation",
+              "Methods of Valuation: Average Profit Method, Super Profit Method, Capitalisation Method",
+              "Treatment of Goodwill at Admission — Cases I, II, III",
+              "Hidden Goodwill calculation",
+              "Revaluation Account (Nominal Account) — treatment of revaluation profits/losses",
+              "Adjustment of Accumulated Profits and Losses",
+              "Revaluation of Assets and Reassessment of Liabilities",
+              "Adjustment of Capital on Admission",
+              "Change in Profit Sharing Ratio of Existing Partners"
+            ],
+            "note": "Pages: 18-37 | "
+          },
+          {
+            "chapter_id": "3",
+            "name": "Reconstitution of a Partnership Firm: Retirement/Death of a Partner",
+            "marks": 13,
+            "topics": [
+              "Retirement of a Partner — Meaning, Liability",
+              "New Profit Sharing Ratio on Retirement = Old Share + Acquired Gaining Share",
+              "Gaining Ratio = New Share – Old Share",
+              "Treatment of Goodwill on Retirement",
+              "Hidden Goodwill on Retirement",
+              "Revaluation of Assets and Liabilities on Retirement",
+              "Adjustment of Accumulated Profits and Losses",
+              "Settlement of Dues to Retiring Partner",
+              "Adjustment of Partners' Capital",
+              "Death of a Partner — Amount Payable to Legal Heir",
+              "When Partner Retires in the Middle of the Year"
+            ],
+            "note": "Pages: 37-54 | "
+          },
+          {
+            "chapter_id": "4",
+            "name": "Dissolution of Partnership Firm",
+            "marks": 13,
+            "topics": [
+              "Dissolution of Partnership vs Dissolution of Firm",
+              "Modes: Dissolution without Court Order (Sections 40-43), Dissolution by Court (Section 44)",
+              "Settlement of Accounts: Section 48 — Treatment of Losses, Application of Assets",
+              "Realisation Account — Meaning, Format, Purpose",
+              "Partners' Loan Account treatment",
+              "Cash/Bank Account on Dissolution",
+              "Process of Dissolution of a Firm (Step-by-step)"
+            ],
+            "note": "Pages: 54-64 | "
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Accountancy Part II (Company Accounts & Analysis of Financial Statements)",
+        "category": "Part B",
+        "total_marks": 55,
+        "note": "Share Capital, Debentures, Financial Statements, Accounting Ratios, Cash Flow",
+        "chapters": [
+          {
+            "chapter_id": "5",
+            "name": "Accounting for Share Capital",
+            "marks": 13,
+            "topics": [
+              "Company — Features, Types (Private, Public, One Person Company)",
+              "Share — Nature, Classification (Preference Shares, Equity Shares)",
+              "Share Capital Classification: Authorised, Subscribed, Issued, Called-up, Paid-up, Uncalled, Reserve Capital",
+              "Issue of Shares at Par, Premium, Discount",
+              "Accounting Treatment: Share Application, Allotment, Calls",
+              "Oversubscription and Undersubscription",
+              "Calls in Arrears and Calls in Advance",
+              "Issue of Shares for Consideration other than Cash",
+              "Forfeiture of Shares — Journal Entries",
+              "Re-issue of Forfeited Shares — Journal Entries",
+              "Minimum Subscription = 90% of entire issue (SEBI guidelines)",
+              "Minimum Share Application Money = 5% of face value",
+              "Securities Premium Reserve — Treatment"
+            ],
+            "note": "Pages: 65-81 | "
+          },
+          {
+            "chapter_id": "6",
+            "name": "Accounting for Debentures",
+            "marks": 12,
+            "topics": [
+              "Debenture — Meaning, Definition (Schedule III, Companies Act 2013)",
+              "Types: By Security (Secured/Mortgage, Unsecured/Naked), By Tenure (Redeemable, Irredeemable), By Registration (Registered, Bearer), By Convertibility, By Coupon Rate",
+              "Issue at Par, Premium, Discount",
+              "Issue for Cash — Simple and Oversubscription",
+              "Issue for Consideration other than Cash",
+              "Issue as Collateral Security — Debenture Suspense Account",
+              "Conditions of Issue and Interest on Debentures",
+              "Accounting Treatment of Discount/Loss on Issue",
+              "Write-off of Discount on Issue",
+              "Debentureholder: entitled to interest at fixed rate (NOT dividend, NOT voting rights)",
+              "Zero Coupon Bonds — issued at zero rate of interest"
+            ],
+            "note": "Pages: 81-89 | "
+          },
+          {
+            "chapter_id": "7",
+            "name": "Financial Statements of a Company",
+            "marks": 12,
+            "topics": [
+              "Meaning and Nature of Financial Statements",
+              "Objectives of Financial Statements (7 objectives)",
+              "Limitations of Financial Statements",
+              "Balance Sheet Format — Schedule III, Companies Act 2013",
+              "Equity and Liabilities side: Shareholders' Funds, Share Application Money, Non-current Liabilities, Current Liabilities",
+              "Assets side: Non-current Assets (Fixed Assets, Investments, Loans & Advances), Current Assets",
+              "Statement of Profit and Loss Format",
+              "Reserves and Surplus classification (8 heads)",
+              "Net Profit vs Divisible Profit",
+              "Balance Sheet of Company vs Balance Sheet of Firm"
+            ],
+            "note": "Pages: 90-105 | "
+          },
+          {
+            "chapter_id": "8",
+            "name": "Accounting Ratios",
+            "marks": 9,
+            "topics": [
+              "Ratio Analysis — Meaning, Objectives (5), Advantages (5), Limitations (5)",
+              "Father of Ratio Analysis: Benjamin Graham",
+              "Types of Ratios: Liquidity, Solvency, Activity/Turnover, Profitability",
+              "I. Liquidity Ratios: Current Ratio (Ideal 2:1), Liquid/Quick Ratio (Ideal 1:1)",
+              "II. Solvency Ratios: Debt-to-Equity, Capital Employed to Debt, Proprietary, Debt to Total Assets, Interest Coverage",
+              "III. Activity Ratios: Inventory Turnover, Trade Receivables Turnover, Trade Payables Turnover, Working Capital Turnover, Net Assets/Capital Employed Turnover",
+              "IV. Profitability Ratios: Gross Profit, Operating Ratio, Operating Profit, Net Profit, Return on Investment, Return on Shareholders' Funds, EPS, Book Value per Share, Dividend Payout, Price-Earnings Ratio"
+            ],
+            "note": "Pages: 106-114 | Medium"
+          },
+          {
+            "chapter_id": "9",
+            "name": "Cash Flow Statement",
+            "marks": 9,
+            "topics": [
+              "Meaning of Cash Flow Statement",
+              "Objectives (3) and Benefits (6) of Cash Flow Statement",
+              "Limitations of Cash Flow Statement (8)",
+              "Cash and Cash Equivalents (AS-3 definition)",
+              "Classification of Activities: Operating, Investing, Financing",
+              "Cash Inflows and Outflows from each activity",
+              "Indirect Method for Operating Activities — Adjustments to Net Profit",
+              "Direct Method (brief)",
+              "Treatment of Specific Items: Tax Paid, Interest, Dividend",
+              "Preparation of Cash Flow Statement"
+            ],
+            "note": "Pages: 115-127 | "
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Accounting for Partnership: Basic Concepts",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part I",
+      "unit_id": 1,
+      "unit_name": "Part A: Partnership Accounts",
+      "part": "A",
+      "weightage_marks": 6,
+      "typical_breakdown": "7-17",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Nature of Partnership — Section 4, Indian Partnership Act 1932",
+        "Essential Features of Partnership (6 features)",
+        "Partnership Deed — Meaning, Contents (17 items)",
+        "Provisions of Indian Partnership Act 1932 in Absence of Partnership Deed",
+        "Special Aspects of Partnership Accounts",
+        "Maintenance of Capital Accounts: Fixed Capital Method vs Fluctuating Capital Method",
+        "Partners' Capital Account and Current Account formats",
+        "Distribution of Profit through Profit and Loss Appropriation Account",
+        "Interest on Capital: Interest = Capital × Rate/100 × Time",
+        "Interest on Drawings — Simple Method, Product Method",
+        "Quick View Table for Average Period of Drawings",
+        "Guarantee of Profit to a Partner",
+        "Past Adjustments (Errors in Profit Sharing)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Interest_on_Capital: Interest = Amount of Capital × Rate/100 × Time",
+        "Interest_on_Drawings_Simple: Interest = Amount × Rate/100 × Months Remaining/12",
+        "Interest_on_Drawings_Product: Interest = Total Products × Rate/100 × 1/12",
+        "Average_Period_Drawings_beginning: Average Period = (n+1)/2 months where n = number of months",
+        "Average_Period_fixed_monthly_beginning_of_month: 6.5 months",
+        "Average_Period_fixed_monthly_end_of_month: 5.5 months",
+        "Average_Period_fixed_monthly_middle_of_month: 6 months",
+        "Opening_Capital_formula: Opening Capital = Closing Capital + Drawings – Profit – Additional Capital introduced",
+        "Interest_on_Capital_case3_charge_against_profits: Allowed fully even if loss"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Reconstitution of a Partnership Firm: Admission of a Partner",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part I",
+      "unit_id": 2,
+      "unit_name": "Part A: Partnership Accounts",
+      "part": "A",
+      "weightage_marks": 13,
+      "typical_breakdown": "18-37",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Reconstitution — Meaning, Modes",
+        "Change in Profit Sharing Ratio — Sacrificing Ratio = Old Share – New Share",
+        "Admission of a Partner — Rights acquired",
+        "New Profit Sharing Ratio = Old Share – Sacrificing Share",
+        "Goodwill — Nature, Factors Affecting, Need for Valuation",
+        "Methods of Valuation: Average Profit Method, Super Profit Method, Capitalisation Method",
+        "Treatment of Goodwill at Admission — Cases I, II, III",
+        "Hidden Goodwill calculation",
+        "Revaluation Account (Nominal Account) — treatment of revaluation profits/losses",
+        "Adjustment of Accumulated Profits and Losses",
+        "Revaluation of Assets and Reassessment of Liabilities",
+        "Adjustment of Capital on Admission",
+        "Change in Profit Sharing Ratio of Existing Partners"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "New_PSR: New Profit Sharing Ratio = Old Share – Sacrificing Share",
+        "Sacrificing_Ratio: Sacrificing Ratio = Old Share – New Share",
+        "Average_Profit_Method_Goodwill: Goodwill = Average Profit × Number of Years Purchase",
+        "Average_Profit: Average Profit = Sum of Profits / Number of Years",
+        "Super_Profit_Method_Goodwill: Goodwill = Super Profit × Number of Years Purchase",
+        "Super_Profit: Super Profit = Average Profit – Normal Profit",
+        "Normal_Profit: Normal Profit = Capital Employed × Normal Rate of Return / 100",
+        "Capitalisation_of_Average_Profit: Capitalised Value = Average Profit × 100 / Normal Rate of Return",
+        "Hidden_Goodwill: Hidden Goodwill = Inferred Firm Value – Net Assets of Firm",
+        "Firm_Goodwill_from_new_partner_share: Firm's Goodwill = New Partner's Goodwill Contribution × (1 / New Partner's Share)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Reconstitution of a Partnership Firm: Retirement/Death of a Partner",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part I",
+      "unit_id": 3,
+      "unit_name": "Part A: Partnership Accounts",
+      "part": "A",
+      "weightage_marks": 13,
+      "typical_breakdown": "37-54",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Retirement of a Partner — Meaning, Liability",
+        "New Profit Sharing Ratio on Retirement = Old Share + Acquired Gaining Share",
+        "Gaining Ratio = New Share – Old Share",
+        "Treatment of Goodwill on Retirement",
+        "Hidden Goodwill on Retirement",
+        "Revaluation of Assets and Liabilities on Retirement",
+        "Adjustment of Accumulated Profits and Losses",
+        "Settlement of Dues to Retiring Partner",
+        "Adjustment of Partners' Capital",
+        "Death of a Partner — Amount Payable to Legal Heir",
+        "When Partner Retires in the Middle of the Year"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "New_PSR_retirement: New Ratio = Old Share + Acquired Gaining Share",
+        "Gaining_Ratio: Gaining Ratio = New Share – Old Share"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Dissolution of Partnership Firm",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part I",
+      "unit_id": 4,
+      "unit_name": "Part A: Partnership Accounts",
+      "part": "A",
+      "weightage_marks": 13,
+      "typical_breakdown": "54-64",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Dissolution of Partnership vs Dissolution of Firm",
+        "Modes: Dissolution without Court Order (Sections 40-43), Dissolution by Court (Section 44)",
+        "Settlement of Accounts: Section 48 — Treatment of Losses, Application of Assets",
+        "Realisation Account — Meaning, Format, Purpose",
+        "Partners' Loan Account treatment",
+        "Cash/Bank Account on Dissolution",
+        "Process of Dissolution of a Firm (Step-by-step)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Accounting for Share Capital",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part II",
+      "unit_id": 1,
+      "unit_name": "Part B: Company Accounts & Analysis of Financial Statements",
+      "part": "B",
+      "weightage_marks": 13,
+      "typical_breakdown": "65-81",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Company — Features, Types (Private, Public, One Person Company)",
+        "Share — Nature, Classification (Preference Shares, Equity Shares)",
+        "Share Capital Classification: Authorised, Subscribed, Issued, Called-up, Paid-up, Uncalled, Reserve Capital",
+        "Issue of Shares at Par, Premium, Discount",
+        "Accounting Treatment: Share Application, Allotment, Calls",
+        "Oversubscription and Undersubscription",
+        "Calls in Arrears and Calls in Advance",
+        "Issue of Shares for Consideration other than Cash",
+        "Forfeiture of Shares — Journal Entries",
+        "Re-issue of Forfeited Shares — Journal Entries",
+        "Minimum Subscription = 90% of entire issue (SEBI guidelines)",
+        "Minimum Share Application Money = 5% of face value",
+        "Securities Premium Reserve — Treatment"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Accounting for Debentures",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part II",
+      "unit_id": 2,
+      "unit_name": "Part B: Company Accounts & Analysis of Financial Statements",
+      "part": "B",
+      "weightage_marks": 12,
+      "typical_breakdown": "81-89",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Debenture — Meaning, Definition (Schedule III, Companies Act 2013)",
+        "Types: By Security (Secured/Mortgage, Unsecured/Naked), By Tenure (Redeemable, Irredeemable), By Registration (Registered, Bearer), By Convertibility, By Coupon Rate",
+        "Issue at Par, Premium, Discount",
+        "Issue for Cash — Simple and Oversubscription",
+        "Issue for Consideration other than Cash",
+        "Issue as Collateral Security — Debenture Suspense Account",
+        "Conditions of Issue and Interest on Debentures",
+        "Accounting Treatment of Discount/Loss on Issue",
+        "Write-off of Discount on Issue",
+        "Debentureholder: entitled to interest at fixed rate (NOT dividend, NOT voting rights)",
+        "Zero Coupon Bonds — issued at zero rate of interest"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Financial Statements of a Company",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part II",
+      "unit_id": 3,
+      "unit_name": "Part B: Company Accounts & Analysis of Financial Statements",
+      "part": "B",
+      "weightage_marks": 12,
+      "typical_breakdown": "90-105",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Meaning and Nature of Financial Statements",
+        "Objectives of Financial Statements (7 objectives)",
+        "Limitations of Financial Statements",
+        "Balance Sheet Format — Schedule III, Companies Act 2013",
+        "Equity and Liabilities side: Shareholders' Funds, Share Application Money, Non-current Liabilities, Current Liabilities",
+        "Assets side: Non-current Assets (Fixed Assets, Investments, Loans & Advances), Current Assets",
+        "Statement of Profit and Loss Format",
+        "Reserves and Surplus classification (8 heads)",
+        "Net Profit vs Divisible Profit",
+        "Balance Sheet of Company vs Balance Sheet of Firm"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Accounting Ratios",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part II",
+      "unit_id": 4,
+      "unit_name": "Part B: Company Accounts & Analysis of Financial Statements",
+      "part": "B",
+      "weightage_marks": 9,
+      "typical_breakdown": "106-114",
+      "difficulty": "Medium",
+      "difficulty_reason": "Ratio formulas — 20+ ratios to memorise. Numerical calculation in LA.",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Ratio Analysis — Meaning, Objectives (5), Advantages (5), Limitations (5)",
+        "Father of Ratio Analysis: Benjamin Graham",
+        "Types of Ratios: Liquidity, Solvency, Activity/Turnover, Profitability",
+        "I. Liquidity Ratios: Current Ratio (Ideal 2:1), Liquid/Quick Ratio (Ideal 1:1)",
+        "II. Solvency Ratios: Debt-to-Equity, Capital Employed to Debt, Proprietary, Debt to Total Assets, Interest Coverage",
+        "III. Activity Ratios: Inventory Turnover, Trade Receivables Turnover, Trade Payables Turnover, Working Capital Turnover, Net Assets/Capital Employed Turnover",
+        "IV. Profitability Ratios: Gross Profit, Operating Ratio, Operating Profit, Net Profit, Return on Investment, Return on Shareholders' Funds, EPS, Book Value per Share, Dividend Payout, Price-Earnings Ratio"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Cash Flow Statement",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part II",
+      "unit_id": 5,
+      "unit_name": "Part B: Company Accounts & Analysis of Financial Statements",
+      "part": "B",
+      "weightage_marks": 9,
+      "typical_breakdown": "115-127",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Meaning of Cash Flow Statement",
+        "Objectives (3) and Benefits (6) of Cash Flow Statement",
+        "Limitations of Cash Flow Statement (8)",
+        "Cash and Cash Equivalents (AS-3 definition)",
+        "Classification of Activities: Operating, Investing, Financing",
+        "Cash Inflows and Outflows from each activity",
+        "Indirect Method for Operating Activities — Adjustments to Net Profit",
+        "Direct Method (brief)",
+        "Treatment of Specific Items: Tax Paid, Interest, Dividend",
+        "Preparation of Cash Flow Statement"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "UP Board Accountancy Class 12 — 9 chapters across Part A (Partnership, 45 marks) + Part B (Company Accounts + Analysis, 55 marks).",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "All 9 chapters carry questions. High-weightage chapters (Ch 2,3,4,5,6) must be mastered.",
+    "or_questions_note": "OR choice only in Q27-Q30 (LA). All other questions compulsory.",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Ch 2 - Reconstitution of a Partnership Firm: Admission of a Partner",
+      "Ch 3 - Reconstitution of a Partnership Firm: Retirement/Death of a Partner",
+      "Ch 4 - Dissolution of Partnership Firm",
+      "Ch 5 - Accounting for Share Capital",
+      "Ch 6 - Accounting for Debentures",
+      "Ch 7 - Financial Statements of a Company"
+    ],
+    "chapters_never_skip_reason": "High-weightage chapters — guaranteed Long Answer questions (13 marks each).",
+    "chapters_with_highest_weightage": [
+      "Ch 2 - Reconstitution of a Partnership Firm: Admission of a Partner (13 marks)",
+      "Ch 3 - Reconstitution of a Partnership Firm: Retirement/Death of a Partner (13 marks)",
+      "Ch 4 - Dissolution of Partnership Firm (13 marks)",
+      "Ch 5 - Accounting for Share Capital (13 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "Ch 1 - Accounting for Partnership: Basic Concepts (6 marks)",
+      "Ch 8 - Accounting Ratios (9 marks)",
+      "Ch 9 - Cash Flow Statement (9 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "Define partnership and discuss its essential features. (10 marks, Ch1 Partnership)",
+      "Define partnership deed. Explain the contents and importance of partnership deed. (10 marks, Ch1 Partnership)",
+      "Distinguish between formal and informal organisation. (2 marks, Ch1 Partnership)",
+      "Discuss the relationship between planning and controlling. (5 marks, Ch1 Partnership)",
+      "What is working capital? Explain factors affecting it. (5 marks, Ch1 Partnership)",
+      "Explain method of calculation of goodwill on basis of super profit. (5 marks, Ch2 Admission)",
+      "A, B, C are partners. D is admitted for 1/4 share. Calculate new PSR, sacrificing ratio, and pass goodwill entries. (10 marks, Ch2 Admission)",
+      "Pass journal entries for forfeiture and re-issue of shares. (10 marks, Ch1 Share Capital)",
+      "Prepare Realisation Account and Partners' Capital Account on dissolution of firm. (10 marks, Ch4 Dissolution)",
+      "Explain different types of debentures. (5 marks, Ch2 Debentures)"
+    ],
+    "chapters_mostly_theory": [
+      "Ch 7 Financial Statements of a Company"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "Ch 2 - Reconstitution of a Partnership Firm: Admission of a Partner",
+      "Ch 3 - Reconstitution of a Partnership Firm: Retirement/Death of a Partner",
+      "Ch 4 - Dissolution of Partnership Firm",
+      "Ch 5 - Accounting for Share Capital",
+      "Ch 6 - Accounting for Debentures",
+      "Ch 7 - Financial Statements of a Company"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "Ch 2 - Reconstitution of a Partnership Firm: Admission of a Partner",
+      "Ch 3 - Reconstitution of a Partnership Firm: Retirement/Death of a Partner",
+      "Ch 4 - Dissolution of Partnership Firm",
+      "Ch 5 - Accounting for Share Capital",
+      "Ch 6 - Accounting for Debentures",
+      "Ch 7 - Financial Statements of a Company"
+    ],
+    "chapters_with_numerical": [
+      "Ch 1 - Accounting for Partnership: Basic Concepts",
+      "Ch 2 - Reconstitution of a Partnership Firm: Admission of a Partner",
+      "Ch 3 - Reconstitution of a Partnership Firm: Retirement/Death of a Partner",
+      "Ch 4 - Dissolution of Partnership Firm",
+      "Ch 5 - Accounting for Share Capital",
+      "Ch 6 - Accounting for Debentures",
+      "Ch 7 - Financial Statements of a Company",
+      "Ch 8 - Accounting Ratios",
+      "Ch 9 - Cash Flow Statement"
+    ],
+    "chapters_guaranteed_numerical": [
+      "Ch 1 - Accounting for Partnership: Basic Concepts",
+      "Ch 2 - Reconstitution of a Partnership Firm: Admission of a Partner",
+      "Ch 3 - Reconstitution of a Partnership Firm: Retirement/Death of a Partner",
+      "Ch 4 - Dissolution of Partnership Firm",
+      "Ch 5 - Accounting for Share Capital",
+      "Ch 6 - Accounting for Debentures",
+      "Ch 7 - Financial Statements of a Company",
+      "Ch 8 - Accounting Ratios",
+      "Ch 9 - Cash Flow Statement"
+    ],
+    "chapters_no_numerical": [],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Define partnership and discuss its essential features.",
+      "Define partnership deed. Explain the contents and importance of partnership deed.",
+      "Distinguish between formal and informal organisation.",
+      "Discuss the relationship between planning and controlling.",
+      "What is working capital? Explain factors affecting it.",
+      "Explain method of calculation of goodwill on basis of super profit.",
+      "A, B, C are partners. D is admitted for 1/4 share. Calculate new PSR, sacrificing ratio, and pass goodwill entries.",
+      "Pass journal entries for forfeiture and re-issue of shares.",
+      "Prepare Realisation Account and Partners' Capital Account on dissolution of firm.",
+      "Explain different types of debentures.",
+      "Pass journal entries for issue of debentures at discount and write-off of discount.",
+      "Discuss the types of preference shares.",
+      "What are the objectives of financial statements? Prepare Balance Sheet format.",
+      "Calculate gross profit ratio and net profit ratio from given data.",
+      "Calculate current ratio, quick ratio and debt-equity ratio from given balance sheet data.",
+      "Prepare cash flow statement from operating activities using indirect method.",
+      "Distinguish between dissolution of partnership and dissolution of firm.",
+      "What is retirement of a partner? Pass journal entries for goodwill and revaluation at retirement.",
+      "Pass journal entries for oversubscription of shares — allotment, calls, refund of excess application money.",
+      "Explain the meaning and limitations of ratio analysis."
+    ],
+    "one_mark_question_facts": {
+      "note": "Q1-Q10 = 10 MCQ × 1 mark. Numerical MCQs (goodwill, ratios) common. No negative marking.",
+      "common_formats": [
+        "MCQ",
+        "VSA",
+        "Short Answer",
+        "Long Answer (with OR)"
+      ]
+    },
+    "fast_track_revision": {
+      "key_definitions": {
+        "Partnership": "The relation between persons who have agreed to share the profits of a business carried on by all or any of them acting for all. (Section 4, Indian Partnership Act 1932)",
+        "Partnership_Deed": "Document containing the terms and conditions of the agreement in writing among partners.",
+        "Goodwill": "The good name or reputation of a business which helps it to earn more profits than others. Intangible, NOT fictitious asset.",
+        "Reconstitution": "Any change in the existing agreement of partnership amounts to reconstitution of a firm.",
+        "Sacrificing_Ratio": "Ratio in which old partners sacrifice their share of profit = Old Share – New Share",
+        "Gaining_Ratio": "Ratio in which continuing partners gain the share of retiring partner = New Share – Old Share",
+        "Revaluation_Account": "A nominal account prepared to record changes in asset/liability values. Also called Profit & Loss Adjustment Account.",
+        "Dissolution_of_Firm": "Dissolution of partnership among ALL partners — business also comes to an end.",
+        "Dissolution_of_Partnership": "Change in agreement — firm may continue.",
+        "Realisation_Account": "Nominal account opened on dissolution to determine profit or loss on realisation of assets and payment of liabilities.",
+        "Company": "An incorporated association which is an artificial person created by law, having a separate legal entity with a perpetual succession and a common seal.",
+        "Share": "The capital of a company divided into small units of fixed face value.",
+        "Debenture": "An instrument acknowledging a debt issued under the common seal of the company.",
+        "Financial_Statements": "Final products of accounting process — Balance Sheet, Statement of P&L, Notes to Accounts, Cash Flow Statement.",
+        "Ratio": "Arithmetical expression of relationship between two related or interdependent items. Father: Benjamin Graham.",
+        "Cash_Flow_Statement": "Statement showing changes in financial position in terms of cash and cash equivalents between two balance sheet dates.",
+        "Cash_Equivalents": "Short-term highly liquid investments readily convertible into known amounts of cash (AS-3)."
+      },
+      "important_provisions_no_deed": {
+        "Profit_Loss_sharing": "Equally among all partners",
+        "Interest_on_Capital": "Not allowed",
+        "Interest_on_Drawings": "Not charged",
+        "Salary_Commission": "Not allowed",
+        "Interest_on_Loan_by_partner": "6% per annum",
+        "Management": "Every partner has equal right to participate"
+      },
+      "key_mcq_facts": {
+        "Interest_on_drawings_is": "Income for the firm (credited to P&L Appropriation Account)",
+        "Interest_on_capital_paid_from": "Profits only (not reserves, not capital)",
+        "Rent_to_partner_shown_in": "P&L Account (NOT P&L Appropriation Account) — it is a charge against profits",
+        "Current_account_balance": "Can be debit or credit",
+        "Capital_account_fluctuating_no_of_accounts": "Only 1 account (Capital Account only)",
+        "Goodwill_distributed_in": "Sacrificing ratio (not old ratio, not new ratio)",
+        "Revaluation_account_type": "Nominal account",
+        "Revaluation_profit_distributed_in": "Old profit sharing ratio",
+        "On_dissolution_capital_balance_transferred_to": "Realisation Account",
+        "Father_of_ratio_analysis": "Benjamin Graham",
+        "Ideal_current_ratio": "2:1",
+        "Ideal_liquid_ratio": "1:1",
+        "Current_ratio_used_for": "Short-term solvency",
+        "Debt_equity_ratio_used_for": "Long-term solvency",
+        "Preference_share_dividend": "Fixed rate",
+        "Debentureholder_entitled_to": "Interest at fixed rate (NOT dividend, NOT voting rights)",
+        "Zero_coupon_bonds_issued_at": "Zero rate of interest",
+        "Discount_on_issue_of_debentures": "Capital loss (shown on assets side or written off against Securities Premium)",
+        "Securities_premium_transferred_to": "Securities Premium Reserve Account (NOT P&L Account)",
+        "Share_forfeiture_for": "Non-payment of call money",
+        "Minimum_subscription": "90% of entire issue (SEBI)",
+        "Min_application_money": "5% of face value",
+        "Forfeited_shares_reissued_at": "Any price — at par, premium or discount (but not below paid-up amount)",
+        "Capital_Reserve_arises": "On re-issue of forfeited shares — remaining balance in Share Forfeiture A/c",
+        "Operating_activities": "Principal revenue-producing activities",
+        "Investing_activities": "Acquisition and disposal of long-term assets",
+        "Financing_activities": "Change in size and composition of owner's capital and borrowings",
+        "Goodwill_nature": "Intangible asset — NOT fictitious",
+        "Partnership_max_partners": "50 (as per Companies Act 2013, Rule 10)"
+      }
+    },
+    "top_20_important_questions": [
+      {
+        "q_no": 1,
+        "question": "Define partnership and discuss its essential features.",
+        "marks": 10,
+        "chapter": "Ch1 Partnership",
+        "important": true
+      },
+      {
+        "q_no": 2,
+        "question": "Define partnership deed. Explain the contents and importance of partnership deed.",
+        "marks": 10,
+        "chapter": "Ch1 Partnership",
+        "important": true
+      },
+      {
+        "q_no": 3,
+        "question": "Distinguish between formal and informal organisation.",
+        "marks": 2,
+        "chapter": "Ch1 Partnership",
+        "important": false
+      },
+      {
+        "q_no": 4,
+        "question": "Discuss the relationship between planning and controlling.",
+        "marks": 5,
+        "chapter": "Ch1 Partnership",
+        "important": false
+      },
+      {
+        "q_no": 5,
+        "question": "What is working capital? Explain factors affecting it.",
+        "marks": 5,
+        "chapter": "Ch1 Partnership",
+        "important": false
+      },
+      {
+        "q_no": 6,
+        "question": "Explain method of calculation of goodwill on basis of super profit.",
+        "marks": 5,
+        "chapter": "Ch2 Admission",
+        "important": true
+      },
+      {
+        "q_no": 7,
+        "question": "A, B, C are partners. D is admitted for 1/4 share. Calculate new PSR, sacrificing ratio, and pass goodwill entries.",
+        "marks": 10,
+        "chapter": "Ch2 Admission",
+        "important": true
+      },
+      {
+        "q_no": 8,
+        "question": "Pass journal entries for forfeiture and re-issue of shares.",
+        "marks": 10,
+        "chapter": "Ch1 Share Capital",
+        "important": true
+      },
+      {
+        "q_no": 9,
+        "question": "Prepare Realisation Account and Partners' Capital Account on dissolution of firm.",
+        "marks": 10,
+        "chapter": "Ch4 Dissolution",
+        "important": true
+      },
+      {
+        "q_no": 10,
+        "question": "Explain different types of debentures.",
+        "marks": 5,
+        "chapter": "Ch2 Debentures",
+        "important": true
+      },
+      {
+        "q_no": 11,
+        "question": "Pass journal entries for issue of debentures at discount and write-off of discount.",
+        "marks": 10,
+        "chapter": "Ch2 Debentures",
+        "important": true
+      },
+      {
+        "q_no": 12,
+        "question": "Discuss the types of preference shares.",
+        "marks": 5,
+        "chapter": "Ch1 Share Capital",
+        "important": true
+      },
+      {
+        "q_no": 13,
+        "question": "What are the objectives of financial statements? Prepare Balance Sheet format.",
+        "marks": 10,
+        "chapter": "Ch3 Financial Statements",
+        "important": true
+      },
+      {
+        "q_no": 14,
+        "question": "Calculate gross profit ratio and net profit ratio from given data.",
+        "marks": "5+5",
+        "chapter": "Ch4 Ratios",
+        "important": true
+      },
+      {
+        "q_no": 15,
+        "question": "Calculate current ratio, quick ratio and debt-equity ratio from given balance sheet data.",
+        "marks": 10,
+        "chapter": "Ch4 Ratios",
+        "important": true
+      },
+      {
+        "q_no": 16,
+        "question": "Prepare cash flow statement from operating activities using indirect method.",
+        "marks": 10,
+        "chapter": "Ch5 Cash Flow",
+        "important": true
+      },
+      {
+        "q_no": 17,
+        "question": "Distinguish between dissolution of partnership and dissolution of firm.",
+        "marks": 5,
+        "chapter": "Ch4 Dissolution",
+        "important": false
+      },
+      {
+        "q_no": 18,
+        "question": "What is retirement of a partner? Pass journal entries for goodwill and revaluation at retirement.",
+        "marks": 10,
+        "chapter": "Ch3 Retirement",
+        "important": true
+      },
+      {
+        "q_no": 19,
+        "question": "Pass journal entries for oversubscription of shares — allotment, calls, refund of excess application money.",
+        "marks": 10,
+        "chapter": "Ch1 Share Capital",
+        "important": true
+      },
+      {
+        "q_no": 20,
+        "question": "Explain the meaning and limitations of ratio analysis.",
+        "marks": 5,
+        "chapter": "Ch4 Ratios",
+        "important": false
+      }
+    ],
+    "board_paper_2025_questions": {
+      "set": "349",
+      "duration": "3 H 15 Min",
+      "total_marks": 100,
+      "mcq_q1_q10": [
+        "Q1. For the firm, interest on partner's drawing is a/an — Ans: (c) income",
+        "Q2. The excess of average profit over normal profit is called — Ans: (a) super profit",
+        "Q3. Profits of last 3 years ₹6,000, ₹13,000, ₹8,000. Goodwill at 2 years purchase — Ans: (d) ₹18,000",
+        "Q4. Revaluation gains and losses at retirement carried by — Ans: (a) remaining partners",
+        "Q5. On dissolution, final balance of capital account transferred to — Ans: (a) realisation account",
+        "Q6. A company has — Ans: (d) All of the above (separate entity, perpetual, limited liability)",
+        "Q7. Zero coupon bonds are issued — Ans: (a) at zero rate of interest",
+        "Q8. Not a part of financial statement of company — Ans: (c) Ledger account",
+        "Q9. Not a profitability ratio — Ans: (d) Current ratio",
+        "Q10. Cash flow statement prepared from — Ans: (d) All of these"
+      ],
+      "vsa_q11_q20": [
+        "Q11. Explain partnership deed. (2)",
+        "Q12. Write any two characteristics of partnership. (2)",
+        "Q13. Explain any one method of calculation of interest on drawings. (2)",
+        "Q14. What is meant by reconstitution of partnership firm? (2)",
+        "Q15. What is meant by dissolution of partnership firm? (2)",
+        "Q16. Write two characteristics of equity share. (2)",
+        "Q17. State the types of debentures from the point of view of convertibility. (2)",
+        "Q18. Write two objectives of financial statement. (2)",
+        "Q19. What is meant by ratio analysis? (2)",
+        "Q20. Write two examples of cash inflows by financing activities. (2)"
+      ],
+      "sa_q21_q26": [
+        "Q21. Explain method of calculation of goodwill on basis of super profit. (5)",
+        "Q22. Why are assets and liabilities of firm revalued on admission of new partner? (5)",
+        "Q23. Discuss the types of preference shares. (5)",
+        "Q24. What are the objectives of financial statements? (5)",
+        "Q25. Explain different types of debentures. (5)",
+        "Q26. What do you understand by dissolution of partnership firm? Under what circumstances does a firm get dissolved? (5)"
+      ],
+      "la_q27_q30": [
+        "Q27. R Ltd. invited applications 20,000 shares ₹10 each. Pass journal entries. (10) OR What is meant by company? Explain its characteristics. (3+7)",
+        "Q28. Record entries at retirement with revaluation account. (10) OR What do you mean by revaluation account? Write reasons for preparation of revaluation account on admission of partner. (3+7)",
+        "Q29. Calculate gross profit ratio and net profit ratio. (5+5) OR What do you mean by debenture and share? Explain the difference. (2+2+6)",
+        "Q30. Position of current assets/liabilities of Z Ltd. Calculate cash flow from operating activities. (10) OR What is comparative income statement? Give specimen with imaginary figures. (3+7)"
+      ],
+      "answers_mcq": "1.(c) 2.(a) 3.(d) 4.(a) 5.(a) 6.(d) 7.(a) 8.(c) 9.(d) 10.(d)"
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Accountancy = journal entry formats + ledger account layouts. Practice Dr/Cr flow for each transaction type.",
+    "must_practise": [
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Admission",
+        "diagram_name": "Goodwill brought in cash by new partner (Case I)",
+        "note": "Cash/Bank A/c Dr | To New Partner's Capital A/c | To Premium for Goodwill A/c | Premium for Goodwill A/c Dr | To Sacrificing Partners' Capital/Current A/c (in sacrificing ratio)"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Admission",
+        "diagram_name": "Goodwill NOT brought in cash — Hidden Goodwill",
+        "note": "New Partner's Capital A/c Dr | To Old Partners' Capital/Current A/c (in sacrificing ratio)"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Admission",
+        "diagram_name": "Revaluation Profit distributed",
+        "note": "Asset A/c Dr (if appreciated) | To Revaluation A/c | Revaluation A/c Dr (if depreciated) | To Asset A/c | Revaluation A/c Dr (net profit) | To Old Partners' Capital A/c (old ratio)"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital",
+        "diagram_name": "Share Application received",
+        "note": "Bank A/c Dr | To Share Application A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital",
+        "diagram_name": "Share Application transferred to capital",
+        "note": "Share Application A/c Dr | To Share Capital A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital",
+        "diagram_name": "Share Allotment due",
+        "note": "Share Allotment A/c Dr | To Share Capital A/c | To Securities Premium Reserve A/c (if at premium)"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital",
+        "diagram_name": "Allotment money received",
+        "note": "Bank A/c Dr | To Share Allotment A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital",
+        "diagram_name": "Forfeiture of shares",
+        "note": "Share Capital A/c Dr (called-up amount per share × shares forfeited) | To Share Allotment A/c (if unpaid) | To Calls A/c (if unpaid) | To Share Forfeiture A/c (balance = amount received)"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital",
+        "diagram_name": "Re-issue of forfeited shares at discount",
+        "note": "Bank A/c Dr | Share Forfeiture A/c Dr (discount given) | To Share Capital A/c (face value)"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital",
+        "diagram_name": "Capital Reserve transfer after re-issue",
+        "note": "Share Forfeiture A/c Dr (remaining balance) | To Capital Reserve A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Debentures",
+        "diagram_name": "Debentures issued at par for cash",
+        "note": "Bank A/c Dr | To Debentures A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Debentures",
+        "diagram_name": "Debentures issued at discount",
+        "note": "Bank A/c Dr | Discount on Issue of Debentures A/c Dr | To Debentures A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Debentures",
+        "diagram_name": "Debentures issued as collateral security",
+        "note": "Debenture Suspense A/c Dr | To Debentures A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Dissolution",
+        "diagram_name": "Assets transferred to Realisation A/c",
+        "note": "Realisation A/c Dr | To Sundry Assets A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Dissolution",
+        "diagram_name": "Liabilities transferred to Realisation A/c",
+        "note": "Sundry Liabilities A/c Dr | To Realisation A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Dissolution",
+        "diagram_name": "Assets realised",
+        "note": "Cash/Bank A/c Dr | To Realisation A/c (at realised value)"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Dissolution",
+        "diagram_name": "Liabilities paid off",
+        "note": "Realisation A/c Dr | To Cash/Bank A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Dissolution",
+        "diagram_name": "Profit on realisation distributed",
+        "note": "Realisation A/c Dr | To Partners' Capital A/c (in profit sharing ratio)"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Dissolution",
+        "diagram_name": "Final payment to partners",
+        "note": "Partners' Capital A/c Dr | To Cash/Bank A/c"
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "All critical formulas for UP Board Accountancy 2026. Memorise exactly.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "1",
+        "chapter_name": "Accounting for Partnership: Basic Concepts",
+        "formulas": [
+          "Interest_on_Capital: Interest = Amount of Capital × Rate/100 × Time",
+          "Interest_on_Drawings_Simple: Interest = Amount × Rate/100 × Months Remaining/12",
+          "Interest_on_Drawings_Product: Interest = Total Products × Rate/100 × 1/12",
+          "Average_Period_Drawings_beginning: Average Period = (n+1)/2 months where n = number of months",
+          "Average_Period_fixed_monthly_beginning_of_month: 6.5 months",
+          "Average_Period_fixed_monthly_end_of_month: 5.5 months",
+          "Average_Period_fixed_monthly_middle_of_month: 6 months",
+          "Opening_Capital_formula: Opening Capital = Closing Capital + Drawings – Profit – Additional Capital introduced",
+          "Interest_on_Capital_case3_charge_against_profits: Allowed fully even if loss"
+        ]
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "Admission of a Partner",
+        "formulas": [
+          "New_PSR: New Profit Sharing Ratio = Old Share – Sacrificing Share",
+          "Sacrificing_Ratio: Sacrificing Ratio = Old Share – New Share",
+          "Average_Profit_Method_Goodwill: Goodwill = Average Profit × Number of Years Purchase",
+          "Average_Profit: Average Profit = Sum of Profits / Number of Years",
+          "Super_Profit_Method_Goodwill: Goodwill = Super Profit × Number of Years Purchase",
+          "Super_Profit: Super Profit = Average Profit – Normal Profit",
+          "Normal_Profit: Normal Profit = Capital Employed × Normal Rate of Return / 100",
+          "Capitalisation_of_Average_Profit: Capitalised Value = Average Profit × 100 / Normal Rate of Return",
+          "Hidden_Goodwill: Hidden Goodwill = Inferred Firm Value – Net Assets of Firm",
+          "Firm_Goodwill_from_new_partner_share: Firm's Goodwill = New Partner's Goodwill Contribution × (1 / New Partner's Share)"
+        ]
+      },
+      {
+        "chapter_id": "3",
+        "chapter_name": "Retirement/Death of a Partner",
+        "formulas": [
+          "New_PSR_retirement: New Ratio = Old Share + Acquired Gaining Share",
+          "Gaining_Ratio: Gaining Ratio = New Share – Old Share"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "share_capital",
+        "formulas": [
+          "Min_subscription_SEBI: 90% of entire issue",
+          "Min_application_money: 5% of face value",
+          "Securities_Premium: Credited to Securities Premium Reserve Account (NOT P&L)",
+          "Share_Forfeiture_entry: Share Capital A/c Dr (Called-up amount) | To Share Allotment/Call A/c | To Share Forfeiture A/c",
+          "Re_issue_at_discount: Share Forfeiture A/c Dr (discount allowed) | To Share Capital A/c | Bank A/c Dr | To Share Capital A/c",
+          "Capital_Reserve_on_reissue: Capital Reserve = Balance in Share Forfeiture A/c after re-issue"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "accounting_ratios",
+        "formulas": [
+          "Current_Ratio: Current Assets / Current Liabilities [Ideal: 2:1]",
+          "Quick_Ratio: Quick Assets / Current Liabilities [Ideal: 1:1]",
+          "Quick_Assets: Current Assets – Inventories – Prepaid Expenses",
+          "Debt_to_Equity_Ratio: Long-term Debt / Shareholders' Funds",
+          "Debt: Long-term Borrowings + Long-term Provisions",
+          "Shareholders_Funds: Share Capital + Reserves and Surplus",
+          "Proprietary_Ratio: Shareholders' Funds / Total Assets",
+          "Interest_Coverage_Ratio: Net Profit before Interest and Tax / Interest on Long-term Debt",
+          "Inventory_Turnover_Ratio: Cost of Revenue from Operations / Average Inventory",
+          "Trade_Receivables_Turnover: Net Credit Revenue from Operations / Average Trade Receivables",
+          "Trade_Payables_Turnover: Net Credit Purchases / Average Trade Payables",
+          "Working_Capital_Turnover: Revenue from Operations / Working Capital",
+          "Gross_Profit_Ratio: Gross Profit / Revenue from Operations × 100",
+          "Net_Profit_Ratio: Net Profit after Tax / Revenue from Operations × 100",
+          "Operating_Ratio: (Cost of Revenue from Operations + Operating Expenses) / Revenue × 100",
+          "Operating_Profit_Ratio: Operating Profit / Revenue from Operations × 100",
+          "Return_on_Investment: Net Profit before Interest and Tax / Capital Employed × 100",
+          "Return_on_Shareholders_Funds: Profit after Tax / Shareholders' Funds × 100",
+          "EPS: Profit available for Equity Shareholders / Number of Equity Shares",
+          "Book_Value_per_Share: Equity Shareholders' Funds / Number of Equity Shares",
+          "Dividend_Payout_Ratio: Dividend per Share / Earnings per Share",
+          "Price_Earning_Ratio: Market Price of Share / Earnings per Share"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "cash_flow_indirect_method",
+        "formulas": [
+          "Start_with: Net Profit before Tax and Extraordinary Items",
+          "Add_non_cash_charges: ['Depreciation', 'Loss on sale of fixed assets', 'Discount written off (on shares/debentures)', 'Goodwill written off', 'Preliminary expenses written off']",
+          "Less_non_cash_incomes: ['Profit on sale of fixed assets', 'Profit on sale of investments', 'Dividend received (for non-finance companies)', 'Interest received (for non-finance companies)']",
+          "Add_increase_in_current_liabilities: Add: Increase in Trade Payables, Outstanding Expenses",
+          "Less_decrease_in_current_liabilities: Less: Decrease in Trade Payables",
+          "Add_decrease_in_current_assets: Add: Decrease in Debtors, Decrease in Inventories",
+          "Less_increase_in_current_assets: Less: Increase in Debtors, Increase in Inventories, Increase in Prepaid Expenses"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Accountancy",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Accountancy",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "UP Board Accountancy is theory-only (100 marks). No practical or project component.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium to Difficult",
+    "note": "Medium to Difficult. LA (Q27-Q30) covered numerical type along with theory questions with choice.",
+    "easy_percent": 30,
+    "medium_percent": 50,
+    "hard_percent": 20,
+    "most_scoring_sections": [
+      "MCQ (Q1-Q10, 10 marks)",
+      "VSA (Q11-Q20, 20 marks)"
+    ],
+    "most_difficult_sections": [
+      "LA (Q27-Q30, 40 marks) — numerical journal entries and ledger accounts"
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Q1-Q26 ALL compulsory — never leave any blank. Even partial working gets marks in numericals",
+      "Only Q27-Q30 have OR — choose either theory OR numerical based on your strength",
+      "Goodwill MCQ trap: Always check if question says 'average profit method' (multiply by years) or 'super profit method' (deduct normal profit first)",
+      "Partnership trap: Interest on drawings is INCOME for firm; Interest on capital is EXPENSE for firm",
+      "Rent paid to partner → P&L Account (charge against profit). NOT P&L Appropriation",
+      "Revaluation profit/loss → always distributed in OLD profit sharing ratio",
+      "Goodwill on admission → distributed in SACRIFICING ratio",
+      "Goodwill on retirement → borne by continuing partners in GAINING ratio",
+      "Capital A/c balance on dissolution → transferred to REALISATION ACCOUNT (not P&L)",
+      "Share Forfeiture A/c balance after re-issue → transferred to CAPITAL RESERVE (very common MCQ)",
+      "Minimum subscription = 90% (SEBI); Min application money = 5% of face value",
+      "Debentureholder gets INTEREST (fixed rate) — NOT dividend, NOT voting rights",
+      "Zero Coupon Bonds = issued at zero rate of interest (MCQ trap: NOT at zero price)",
+      "Discount on issue of debentures = Capital Loss (written off against Securities Premium or P&L)",
+      "Cash Flow: Increase in current liability = ADD; Decrease = DEDUCT. Increase in current asset = DEDUCT; Decrease = ADD",
+      "Current Ratio ideal = 2:1; Quick/Liquid Ratio ideal = 1:1 — very high MCQ frequency"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "Reading_15min",
+        "recommended_minutes": 15,
+        "note": "First 15 min: read all questions. For Q27-Q30, decide whether to attempt theory or numerical OR option."
+      },
+      {
+        "section_id": "MCQ_Q1_Q10_10min",
+        "recommended_minutes": 0,
+        "note": "10 marks. All compulsory. For numerical MCQs (goodwill, ratio), do rough work quickly."
+      },
+      {
+        "section_id": "VSA_Q11_Q20_25min",
+        "recommended_minutes": 0,
+        "note": "20 marks. All compulsory. 30 words max. Definitions and 2 key points."
+      },
+      {
+        "section_id": "SA_Q21_Q26_45min",
+        "recommended_minutes": 0,
+        "note": "30 marks. All compulsory. Small numericals here too. 100 words or complete working."
+      },
+      {
+        "section_id": "LA_Q27_Q30_80min",
+        "recommended_minutes": 0,
+        "note": "40 marks. Each has OR. Show complete working — partial credit given for correct steps."
+      },
+      {
+        "section_id": "Revision_15min",
+        "recommended_minutes": 0,
+        "note": "Recheck journal entries (Dr/Cr), ratio formula, signs in cash flow."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 33,
+        "strategy": "MCQ (5+) + VSA (10+) + SA (10+) + LA (8+) = 33+",
+        "focus_chapters": [],
+        "focus_areas": [
+          "MCQ: Current ratio ideal 2:1, liquid 1:1; goodwill in sacrificing ratio; capital balance to realisation",
+          "VSA: Define partnership, partnership deed, debenture, share, goodwill — all easy definitions",
+          "SA Q21 (super profit goodwill) and Q23 (types of preference shares)",
+          "LA Q27: Attempt theory OR (company characteristics) if numericals feel difficult"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "50_to_65",
+        "target_marks": 50,
+        "strategy": "MCQ (7+) + VSA all (17+) + SA (20+) + LA (15+) = 59+",
+        "focus_chapters": [],
+        "focus_areas": [
+          "VSA: All 10 compulsory — definitions perfect",
+          "SA: Types of debentures, objectives of financial statements, dissolution of firm",
+          "LA: Realisation account (standard format) OR Dissolution theory",
+          "Ratio numericals: Current ratio + GP ratio + NP ratio practice"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "80_plus",
+        "target_marks": 80,
+        "strategy": "MCQ (9-10) + VSA all (18-20) + SA all (25-30) + LA all (32-40) = 84-100",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All ratio formulas memorised — both formula and ideal value",
+          "Journal entry formats perfect — Share allotment, forfeiture, re-issue",
+          "Cash flow statement indirect method — all adjustments rules memorised",
+          "Partnership admission/retirement: complete workings with capital adjustment"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [
+      "Ch 2 Admission (13)",
+      "Ch 3 Retirement/Death (13)",
+      "Ch 4 Dissolution (13)",
+      "Ch 5 Share Capital (13)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "UP Board Accountancy is theory-only (no practical / IA).",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Accountancy Part I — Partnership Accounts (Class 12)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Chapters 1-4 of Part A entirely from this. All journal entry formats, goodwill methods, dissolution accounts."
+      },
+      {
+        "name": "NCERT Accountancy Part II — Company Accounts & Analysis of Financial Statements (Class 12)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Part B all 5 chapters from this. Balance sheet format (Schedule III), ratio formulas, cash flow statement."
+      },
+      {
+        "name": "Arihant AVTAR Question Bank Accountancy Class 12 (English, 2025-26)",
+        "author": "",
+        "publisher": "Arihant Prakashan, Meerut",
+        "purpose": "Supplementary",
+        "note": "Previous year papers 2025-2022. 20 Most Important Questions. 3 Model Papers. Chapter-wise MCQ, VSA, SA, LA with detailed answers. Video solutions for difficult questions."
+      },
+      {
+        "name": "UP Board Previous Year Papers 2025-22",
+        "author": "",
+        "publisher": "UPMSP / upmsp.edu.in",
+        "purpose": "Supplementary",
+        "note": "Solve all sets. MCQ and VSA questions repeat; LA numericals follow same format year after year."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 minutes — read only, no writing. Decide OR options for Q27-Q30.",
+    "reading_time": "15 minutes — read only, no writing. Decide OR options for Q27-Q30.",
+    "partial_marks_rule": "In numerical questions, correct working steps get partial credit even if final answer is wrong. Show ALL working.",
+    "passing_criteria": "Minimum 33 out of 100 marks required to pass."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "Internal choice: ONLY Q27, Q28, Q29 and Q30 have OR choice. Q1-Q26 are ALL compulsory.",
+      "Partial marks: In numerical questions, correct working steps get partial credit even if final answer is wrong. Show ALL working."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Blue or Black pen only. Use pencil only for drawing account formats."
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "Journal entries: show Dr side and Cr side clearly. Draw account format with ruling.",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

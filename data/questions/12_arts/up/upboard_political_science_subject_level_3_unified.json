@@ -1,0 +1,1533 @@
+{
+  "board": "UP Board",
+  "class": "12",
+  "subject": "Political Science / Civics (Nagrik Shastra / Rajneeti Shastra)",
+  "subject_code": "323",
+  "exam_year": "2026-27",
+  "marks_structure": {
+    "theory_paper": 100,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 33,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": false,
+    "extra_time_note": "Haan — 15 minute reading time milta hai. Is time mein paper padho, OR options mein se kaunsa attempt karoge decide karo, aur 250-word long answers ka outline soch lo.",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 29,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "UP Board mein multiple sets hote hain (e.g., 323 ES in 2024). Har set mein same questions, order alag.",
+    "sets_same_or_different": "",
+    "language_of_attempt": "Hindi ya English dono allowed. Question paper bilingual aata hai (323 ES = English/Hindi set).",
+    "all_compulsory_note": "Internal choice (OR option) sirf Q31 aur Q32 mein milta hai — dono Long Answer questions mein.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "UP Board Political Science ka syllabus NCERT par based hai — 'Contemporary World Politics' (Part A) aur 'Politics in India since Independence' (Part B). Dono NCERT books sab chapters solve karo. Previous year papers (PYQ) 2018-2025 se revision zaroor karo.",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "UP Board Class 12 Political Science mein 5 types ke questions: MCQ (1), VSA (2), SA-I (5), SA-II (6), LA (8). Total = 100 marks, 32 questions.",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (Bahuvikalpiya)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "Correct option answer-book mein likhna. Explanation ki zaroorat nahi.",
+        "mostly_from": "Dates, leaders' names, organization founding years, treaties, constitutional articles, country-event match, basic definitions.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Sirf option (a)/(b)/(c)/(d) likhna",
+        "notes": ""
+      },
+      {
+        "type": "Very Short Answer (VSA / Ati Laghu Uttareeya)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 2,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "Do factual points likhna — jaise 'do desh ke naam', 'do sansthaon ke naam', 'kab aur kahaan'. Har part 1 mark.",
+        "mostly_from": "List-type questions — two countries, two organizations, two leaders, two reasons, date + place, assassin + year.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Lagbhag 10 shabd (ek vakya)",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer-I (Laghu Uttareeya-I)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 5,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "Concept clear karo + 3-4 points + example/date. 5 marks = definition (1) + main points (3) + conclusion/example (1).",
+        "mostly_from": "Causes-consequences questions, brief notes (sankshipt tippani), comparisons, process explanations.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Lagbhag 50 shabd (5-7 lines)",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer-II (Laghu Uttareeya-II)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 6,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "Introduction (1) + main body with 4-5 points (4) + conclusion (1). Dates, examples, leaders' names zaroor include karo.",
+        "mostly_from": "Process + hindrances, role + relevance, analysis of political events, factors behind success/failure.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Lagbhag 100-125 shabd (10-12 lines)",
+        "notes": ""
+      },
+      {
+        "type": "Long Answer (Deergh Uttareeya)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 8,
+        "total_in_paper": 2,
+        "attempt": 2,
+        "negative_marking": false,
+        "how_to_attempt": "Introduction (1) + Part 1 detailed (3) + Part 2 detailed (3) + examples/dates (0.5) + conclusion with opinion (0.5). Paragraph format mein likho, headings nahi.",
+        "mostly_from": "Foreign policy analysis, Emergency causes+consequences, neighbor relations, regional organizations, Nehru's era.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Lagbhag 250 shabd (20-25 lines)",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "UP Board Civics theory paper = 100 marks. 32 questions. Duration: 3 hours 15 minutes (15 min reading time extra). Bilingual paper (Hindi+English).",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Internal choice (OR option) sirf Q31 aur Q32 mein milta hai — dono Long Answer questions mein.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 30,
+      "medium_percent": 0,
+      "hard_percent": 20,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "by_question_type",
+        "name": "by question type",
+        "type": "by_question_type",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "by_section",
+        "name": "by section",
+        "type": "by_section",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "Dono khand equal weightage. Questions har type mein dono sections se milte-jhulte aate hain.",
+        "notes": "Dono khand equal weightage. Questions har type mein dono sections se milte-jhulte aate hain."
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 100,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "by_question_type",
+        "name": "by question type",
+        "question_numbers": "",
+        "type": "by_question_type",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "by_section",
+        "name": "by section",
+        "question_numbers": "",
+        "type": "by_section",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "Dono khand equal weightage. Questions har type mein dono sections se milte-jhulte aate hain."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 100,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "1",
+      "name": "End of Bipolarity + Contemporary Centers of Power + Contemporary South Asia",
+      "marks": 20,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "2",
+        "name": "International Organizations + Contemporary Security",
+        "marks": 15
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "End of Bipolarity + Contemporary Centers of Power + Contemporary South Asia",
+        "marks": 20,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "International Organizations + Contemporary Security",
+        "marks": 15,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "Environment & Natural Resources + Globalization",
+        "marks": 15,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "Challenges of Nation Building + Era of One-Party Dominance",
+        "marks": 16,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "Planned Development Politics + India's Foreign Relations + Congress System",
+        "marks": 18,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "Crisis of Democratic System + Regional Aspirations + Indian Politics: New Changes",
+        "marks": 16,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 100,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Political Science Class 12 — 6 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Political Science",
+        "category": "Main",
+        "total_marks": 100,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "End of Bipolarity + Contemporary Centers of Power + Contemporary South Asia",
+            "marks": 20,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "International Organizations + Contemporary Security",
+            "marks": 15,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "Environment & Natural Resources + Globalization",
+            "marks": 15,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "Challenges of Nation Building + Era of One-Party Dominance",
+            "marks": 16,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "Planned Development Politics + India's Foreign Relations + Congress System",
+            "marks": 18,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "Crisis of Democratic System + Regional Aspirations + Indian Politics: New Changes",
+            "marks": 16,
+            "topics": [],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "End of Bipolarity + Contemporary Centers of Power + Contemporary South Asia",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 1,
+      "unit_name": "End of Bipolarity + Contemporary Centers of Power + Contemporary South Asia",
+      "part": "",
+      "weightage_marks": 20,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "SAFTA/SAARC MCQ, EU-ASEAN comparison (LA), India-China relations (SA-II), Pakistan loktantra badhak karan (SA-I), Shock therapy (VSA), India-Russia relations (SA-I)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "International Organizations + Contemporary Security",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 2,
+      "unit_name": "International Organizations + Contemporary Security",
+      "part": "",
+      "weightage_marks": 15,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "UN mein Bharat ki sthayi sadasyata ke tark (SA-I 5 marks), UN organs MCQ, IAEA (SA-I), aatankvaad ke karan (SA-I), UN ki bhumika ek-dhruviya vishwa mein (SA-II 6 marks), astra niyantran VSA",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Environment & Natural Resources + Globalization",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 3,
+      "unit_name": "Environment & Natural Resources + Globalization",
+      "part": "",
+      "weightage_marks": 15,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Chipko Andolan (SA-I — shuruaat kahaan + mahilaon ki bhumika), Prithvi Sammelan 1992 (VSA), vishv ki saajhi virasat (SA-I), paryavaran suraksha vaishvik rajneeti mein (SA-I), vaishvikaran ke dushparinam (VSA 1+1)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Challenges of Nation Building + Era of One-Party Dominance",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 4,
+      "unit_name": "Challenges of Nation Building + Era of One-Party Dominance",
+      "part": "",
+      "weightage_marks": 16,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Deshi riyaston ke vilay ki prakriya aur badhaen (SA-II 6 marks), Instrument of Accession VSA (do asahmat riyasat), Nehru ka rashtra-nirman drishtikon (SA-I 5), Pratham Shiksha Mantri MCQ, Gandhi hatya VSA, pratham chunav VSA",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Planned Development Politics + India's Foreign Relations + Congress System",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 5,
+      "unit_name": "Planned Development Politics + India's Foreign Relations + Congress System",
+      "part": "",
+      "weightage_marks": 18,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Videsh neeti par LA (8 marks) — gharelu+antarrashtriya factors, Panchsheel MCQ (China ke saath), Bank rashtriyakaran MCQ (1969), Pokhran-I/II, Congress vibhajan ke karan (SA-II 6), Harit Kranti ke sakaratmak+nakaratmak parinam (SA-I 2.5+2.5), NITI Aayog date MCQ",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Crisis of Democratic System + Regional Aspirations + Indian Politics: New Changes",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 6,
+      "unit_name": "Crisis of Democratic System + Regional Aspirations + Indian Politics: New Changes",
+      "part": "",
+      "weightage_marks": 16,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Aapatkal ke karan+parinam (LA 8 marks most common), Shah Commission (LA 8 marks — kab+kyun+nishkarsh), Assam Andolan (SA-II 6), Mandal Commission MCQ, BJP ki safalta ke karan (SA-II 6), Operation Blue Star VSA, Poorvottar kshetriya aakanksha (SA-I 5)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Political Science — 6 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "Internal choice (OR option) sirf Q31 aur Q32 mein milta hai — dono Long Answer questions mein.",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "End of Bipolarity + Contemporary Centers of Power + Contemporary South Asia",
+      "International Organizations + Contemporary Security",
+      "Environment & Natural Resources + Globalization",
+      "Challenges of Nation Building + Era of One-Party Dominance",
+      "Planned Development Politics + India's Foreign Relations + Congress System",
+      "Crisis of Democratic System + Regional Aspirations + Indian Politics: New Changes"
+    ],
+    "chapters_never_skip_reason": "High-weightage chapters.",
+    "chapters_with_highest_weightage": [
+      "End of Bipolarity + Contemporary Centers of Power + Contemporary South Asia (20 marks)",
+      "International Organizations + Contemporary Security (15 marks)",
+      "Environment & Natural Resources + Globalization (15 marks)",
+      "Challenges of Nation Building + Era of One-Party Dominance (16 marks)",
+      "Planned Development Politics + India's Foreign Relations + Congress System (18 marks)",
+      "Crisis of Democratic System + Regional Aspirations + Indian Politics: New Changes (16 marks)"
+    ],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [],
+    "chapters_mostly_theory": [
+      "End of Bipolarity + Contemporary Centers of Power + Contemporary South Asia",
+      "International Organizations + Contemporary Security",
+      "Environment & Natural Resources + Globalization",
+      "Challenges of Nation Building + Era of One-Party Dominance",
+      "Planned Development Politics + India's Foreign Relations + Congress System",
+      "Crisis of Democratic System + Regional Aspirations + Indian Politics: New Changes"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "End of Bipolarity + Contemporary Centers of Power + Contemporary South Asia",
+      "International Organizations + Contemporary Security",
+      "Environment & Natural Resources + Globalization",
+      "Challenges of Nation Building + Era of One-Party Dominance",
+      "Planned Development Politics + India's Foreign Relations + Congress System",
+      "Crisis of Democratic System + Regional Aspirations + Indian Politics: New Changes"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "End of Bipolarity + Contemporary Centers of Power + Contemporary South Asia",
+      "International Organizations + Contemporary Security",
+      "Environment & Natural Resources + Globalization",
+      "Challenges of Nation Building + Era of One-Party Dominance",
+      "Planned Development Politics + India's Foreign Relations + Congress System",
+      "Crisis of Democratic System + Regional Aspirations + Indian Politics: New Changes"
+    ],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "End of Bipolarity + Contemporary Centers of Power + Contemporary South Asia",
+      "International Organizations + Contemporary Security",
+      "Environment & Natural Resources + Globalization",
+      "Challenges of Nation Building + Era of One-Party Dominance",
+      "Planned Development Politics + India's Foreign Relations + Congress System",
+      "Crisis of Democratic System + Regional Aspirations + Indian Politics: New Changes"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [],
+    "one_mark_question_facts": {
+      "note": "Objective section of paper covers MCQs, fill blanks, T/F, match, one-word.",
+      "common_formats": [
+        "MCQ",
+        "Fill in the Blanks",
+        "True/False",
+        "Match the Pairs",
+        "One Word"
+      ]
+    },
+    "key_terms_and_facts_masterlist": {
+      "note": "Ye list MCQ/VSA/Fill mein seedha puchhi jaati hai. Sab yaad karo — 15-20 marks is se pakke aate hain.",
+      "important_dates": [
+        {
+          "event": "UN Founding",
+          "date": "24 October 1945"
+        },
+        {
+          "event": "UN total members",
+          "count": 193
+        },
+        {
+          "event": "UN Security Council permanent members",
+          "members": "USA, UK, Russia, China, France (5)"
+        },
+        {
+          "event": "ICJ judges",
+          "count": 15
+        },
+        {
+          "event": "IAEA founding",
+          "date": "29 July 1957"
+        },
+        {
+          "event": "NAM founding",
+          "date": "September 1961, Belgrade"
+        },
+        {
+          "event": "NAM founders",
+          "leaders": "Nehru (India), Tito (Yugoslavia), Nasser (Egypt), Sukarno (Indonesia), Nkrumah (Ghana)"
+        },
+        {
+          "event": "Panchsheel Samjhauta",
+          "date": "29 April 1954",
+          "parties": "Bharat-Chin"
+        },
+        {
+          "event": "India-China War",
+          "year": 1962
+        },
+        {
+          "event": "India-Pak War (Tashkent)",
+          "year": 1965
+        },
+        {
+          "event": "Tashkent Agreement",
+          "date": "January 1966"
+        },
+        {
+          "event": "India-Pak War (Bangladesh)",
+          "year": 1971
+        },
+        {
+          "event": "Shimla Agreement",
+          "date": "2 July 1972"
+        },
+        {
+          "event": "Indus Water Treaty",
+          "date": "1960",
+          "parties": "Bharat-Pakistan (World Bank mediated)"
+        },
+        {
+          "event": "SAARC founding",
+          "date": "8 December 1985, Dhaka"
+        },
+        {
+          "event": "SAFTA effective",
+          "date": "1 January 2006"
+        },
+        {
+          "event": "ASEAN founding",
+          "date": "8 August 1967, Bangkok"
+        },
+        {
+          "event": "EU formation (Maastricht Treaty)",
+          "year": 1993
+        },
+        {
+          "event": "WTO founding",
+          "date": "1 January 1995"
+        },
+        {
+          "event": "USSR disintegration",
+          "date": "25 December 1991"
+        },
+        {
+          "event": "Berlin Wall fall",
+          "year": 1989
+        },
+        {
+          "event": "Earth Summit (Rio)",
+          "year": 1992
+        },
+        {
+          "event": "Kyoto Protocol",
+          "year": 1997
+        },
+        {
+          "event": "Montreal Protocol",
+          "year": 1987
+        },
+        {
+          "event": "Brundtland Report",
+          "year": 1987
+        },
+        {
+          "event": "Chipko Andolan",
+          "year": 1973
+        },
+        {
+          "event": "Narmada Bachao Andolan",
+          "year": 1985
+        },
+        {
+          "event": "First General Election",
+          "years": "1951-52"
+        },
+        {
+          "event": "First CEC",
+          "name": "Sukumar Sen"
+        },
+        {
+          "event": "Gandhi assassination",
+          "date": "30 January 1948, Birla House Delhi, Nathuram Godse dwara"
+        },
+        {
+          "event": "States Reorganisation Act",
+          "year": 1956
+        },
+        {
+          "event": "Bank nationalization (14 banks)",
+          "date": "19 July 1969 (Indira Gandhi)"
+        },
+        {
+          "event": "Additional bank nationalization (6 banks)",
+          "year": 1980
+        },
+        {
+          "event": "Pokhran-I (Smiling Buddha)",
+          "date": "18 May 1974"
+        },
+        {
+          "event": "Pokhran-II",
+          "date": "11 & 13 May 1998"
+        },
+        {
+          "event": "Emergency period",
+          "dates": "25 June 1975 — 21 March 1977"
+        },
+        {
+          "event": "Operation Blue Star",
+          "dates": "3-8 June 1984, Golden Temple Amritsar"
+        },
+        {
+          "event": "Indira Gandhi assassination",
+          "date": "31 October 1984"
+        },
+        {
+          "event": "Babri Masjid demolition",
+          "date": "6 December 1992"
+        },
+        {
+          "event": "BJP formation",
+          "date": "6 April 1980"
+        },
+        {
+          "event": "Mandal Commission implementation",
+          "year": "1990 (V.P. Singh)"
+        },
+        {
+          "event": "NITI Aayog",
+          "date": "1 January 2015"
+        },
+        {
+          "event": "Nepal becomes Democratic Republic",
+          "year": 2008
+        }
+      ],
+      "key_leaders_and_roles": [
+        {
+          "name": "Maulana Abul Kalam Azad",
+          "role": "Swatantra Bharat ke pratham Shiksha Mantri"
+        },
+        {
+          "name": "Jawaharlal Nehru",
+          "role": "Pratham PM (1947-64), NAM founder, videsh neeti vastukar"
+        },
+        {
+          "name": "Sardar Vallabhbhai Patel",
+          "role": "Deshi riyaston ka vilay, 'Iron Man of India'"
+        },
+        {
+          "name": "Dr. B.R. Ambedkar",
+          "role": "Samvidhan nirmata, Dalit neta"
+        },
+        {
+          "name": "Sukumar Sen",
+          "role": "Pratham Chunav Ayukt"
+        },
+        {
+          "name": "Lal Bahadur Shastri",
+          "role": "PM 1964-66, 'Jai Jawan Jai Kisan' naara, Tashkent"
+        },
+        {
+          "name": "Indira Gandhi",
+          "role": "PM 1966-77, 1980-84, Bank nationalization, Emergency, Pokhran-I"
+        },
+        {
+          "name": "Morarji Desai",
+          "role": "Pratham gair-Congress PM (Janata Party 1977-79)"
+        },
+        {
+          "name": "Jayaprakash Narayan (JP)",
+          "role": "Sampoorna Kranti, Bihar Andolan, Emergency virodh"
+        },
+        {
+          "name": "Dr. Ram Manohar Lohia",
+          "role": "Samajwadi neta, 'Mankind' aur 'Jan' ke sanstapak, Gair-Congressism"
+        },
+        {
+          "name": "Rajiv Gandhi",
+          "role": "PM 1984-89, computer/IT kranti ki shuruaat"
+        },
+        {
+          "name": "V.P. Singh",
+          "role": "PM 1989-90, Mandal Commission implement"
+        },
+        {
+          "name": "P.V. Narasimha Rao",
+          "role": "PM 1991-96, arthik udarikaran (LPG reforms)"
+        },
+        {
+          "name": "Atal Bihari Vajpayee",
+          "role": "PM 1996, 1998-2004, NDA, Pokhran-II, 'Mankind' ke sampadak nahi — gaur karein"
+        },
+        {
+          "name": "Manmohan Singh",
+          "role": "PM 2004-14, UPA"
+        },
+        {
+          "name": "Narendra Modi",
+          "role": "PM 2014-present, NDA"
+        },
+        {
+          "name": "Sukarno",
+          "role": "Indonesia ke rashtrapati, NAM sansthapak"
+        },
+        {
+          "name": "Tito",
+          "role": "Yugoslavia neta, NAM sansthapak"
+        },
+        {
+          "name": "Nasser",
+          "role": "Egypt rashtrapati, NAM sansthapak"
+        },
+        {
+          "name": "Mikhail Gorbachev",
+          "role": "USSR neta, Perestroika + Glasnost"
+        },
+        {
+          "name": "Deng Xiaoping",
+          "role": "Chin ke 1978 arthik sudhar"
+        },
+        {
+          "name": "Gaura Devi",
+          "role": "Chipko Andolan mein mahila netritva (Reni village)"
+        },
+        {
+          "name": "Sundarlal Bahuguna",
+          "role": "Chipko Andolan neta"
+        },
+        {
+          "name": "Medha Patkar",
+          "role": "Narmada Bachao Andolan"
+        }
+      ],
+      "important_commissions_and_reports": [
+        {
+          "name": "Fazal Ali Commission (SRC)",
+          "year": 1953,
+          "purpose": "Rajyon ka bhasha aadhar par punargathan"
+        },
+        {
+          "name": "Shah Commission",
+          "year": 1977,
+          "purpose": "Aapatkal ki jaanch",
+          "head": "Justice J.C. Shah",
+          "appointed_by": "Janata Party sarkar (Morarji Desai)"
+        },
+        {
+          "name": "Mandal Commission",
+          "year_submitted": 1980,
+          "implemented": 1990,
+          "purpose": "OBC aarakshan 27%",
+          "head": "B.P. Mandal"
+        },
+        {
+          "name": "Sarkaria Commission",
+          "year": 1983,
+          "purpose": "Kendra-rajya sambandh"
+        },
+        {
+          "name": "Brundtland Report (Our Common Future)",
+          "year": 1987,
+          "purpose": "Sustainable development"
+        }
+      ],
+      "key_operations_and_movements": [
+        {
+          "name": "Operation Polo",
+          "year": 1948,
+          "purpose": "Hyderabad ka vilay"
+        },
+        {
+          "name": "Operation Blue Star",
+          "year": 1984,
+          "purpose": "Golden Temple se militants hatana"
+        },
+        {
+          "name": "Operation Infinite Reach",
+          "year": 1998,
+          "country": "USA (Afghanistan/Sudan par)"
+        },
+        {
+          "name": "Operation Enduring Freedom",
+          "year": 2001,
+          "country": "USA (Afghanistan)"
+        },
+        {
+          "name": "Chipko Andolan",
+          "year": 1973,
+          "leaders": "Sundarlal Bahuguna, Gaura Devi"
+        },
+        {
+          "name": "Narmada Bachao Andolan",
+          "year": 1985,
+          "leader": "Medha Patkar"
+        },
+        {
+          "name": "JP Movement (Sampoorna Kranti)",
+          "years": "1974-75",
+          "leader": "Jayaprakash Narayan"
+        },
+        {
+          "name": "Assam Andolan",
+          "years": "1979-85",
+          "outcome": "Assam Accord 1985"
+        },
+        {
+          "name": "Bombay Plan",
+          "year": 1944,
+          "purpose": "Industrialists ka arthik vikas plan"
+        }
+      ],
+      "key_agreements_and_treaties": [
+        {
+          "name": "Panchsheel",
+          "year": 1954,
+          "parties": "Bharat-Chin"
+        },
+        {
+          "name": "Indus Water Treaty",
+          "year": 1960,
+          "parties": "Bharat-Pakistan"
+        },
+        {
+          "name": "Tashkent Agreement",
+          "year": 1966,
+          "parties": "Bharat-Pakistan (Shastri-Ayub Khan)"
+        },
+        {
+          "name": "Shimla Agreement",
+          "year": 1972,
+          "parties": "Bharat-Pakistan (Indira-Bhutto)"
+        },
+        {
+          "name": "Assam Accord",
+          "year": 1985
+        },
+        {
+          "name": "Mizo Accord",
+          "year": 1986
+        },
+        {
+          "name": "Maastricht Treaty",
+          "year": 1993,
+          "formed": "European Union"
+        }
+      ]
+    },
+    "unit_facts": {
+      "highest_marks_unit": "Unit 1 (20 marks) — End of Bipolarity + Power Centers + South Asia",
+      "second_highest": "Unit 5 (18 marks) — Planned Development + Foreign Relations + Congress System",
+      "equal_weightage_sections": "Khand Ka (World Politics) = 50 marks, Khand Kha (Indian Politics) = 50 marks",
+      "most_LA_source_units": [
+        5,
+        6
+      ],
+      "most_MCQ_source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "easy_scoring_units": [
+        3,
+        2
+      ],
+      "analysis_heavy_units": [
+        5,
+        6
+      ],
+      "units_never_skip": [
+        5,
+        6,
+        4,
+        1
+      ],
+      "topics_repeat_every_year": [
+        {
+          "topic": "UN Security Council permanent members / reform",
+          "question_type": "MCQ/SA-I",
+          "marks": "1-5"
+        },
+        {
+          "topic": "Panchsheel Samjhauta (China, 1954)",
+          "question_type": "MCQ/VSA",
+          "marks": "1-2"
+        },
+        {
+          "topic": "Emergency 1975 — causes/consequences",
+          "question_type": "LA",
+          "marks": 8
+        },
+        {
+          "topic": "Nehru's foreign policy / NAM",
+          "question_type": "SA-II/LA",
+          "marks": "6-8"
+        },
+        {
+          "topic": "Green Revolution — positive + negative",
+          "question_type": "SA-I",
+          "marks": 5
+        },
+        {
+          "topic": "Deshi riyaston ka vilay",
+          "question_type": "SA-II",
+          "marks": 6
+        },
+        {
+          "topic": "India-China/Pakistan relations",
+          "question_type": "SA-II/LA",
+          "marks": "6-8"
+        },
+        {
+          "topic": "Chipko Andolan / environmental movements",
+          "question_type": "SA-I",
+          "marks": 5
+        },
+        {
+          "topic": "Mandal Commission",
+          "question_type": "MCQ/VSA",
+          "marks": "1-2"
+        },
+        {
+          "topic": "BJP rise / coalition politics",
+          "question_type": "SA-II",
+          "marks": 6
+        },
+        {
+          "topic": "Congress split 1969",
+          "question_type": "SA-II",
+          "marks": 6
+        },
+        {
+          "topic": "SAARC / SAFTA / regional organizations",
+          "question_type": "MCQ/SA-I",
+          "marks": "1-5"
+        },
+        {
+          "topic": "Globalization consequences",
+          "question_type": "VSA/SA-I",
+          "marks": "2-5"
+        },
+        {
+          "topic": "Operation Blue Star / Punjab crisis",
+          "question_type": "VSA",
+          "marks": 2
+        },
+        {
+          "topic": "Gandhi assassination (Godse, 30 Jan 1948)",
+          "question_type": "VSA",
+          "marks": 2
+        }
+      ]
+    },
+    "paper_objectives_weightage": {
+      "note": "UP Board blueprint ke hisab se questions inn teen objectives par banaye jaate hain:",
+      "knowledge_based": {
+        "percent": 40,
+        "note": "Facts, dates, definitions, naam — yaad karne wale questions (MCQ, VSA mein zyada)"
+      },
+      "understanding_based": {
+        "percent": 40,
+        "note": "Concepts samjhana, karan batana, tulna karna (Short Answer I/II mein zyada)"
+      },
+      "application_based": {
+        "percent": 20,
+        "note": "Analysis, evaluation, opinion with justification (Long Answer mein zyada)"
+      }
+    },
+    "paper_difficulty_weightage": {
+      "easy_percent": 30,
+      "normal_percent": 50,
+      "hard_percent": 20,
+      "note": "Board blueprint confirm karta hai — 80% questions easy/normal hote hain. Sirf 20% tough. Agar basic NCERT + PYQ kar liye toh 70+ marks easily aate hain."
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Political Science — maps/diagrams/frameworks.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not typically applicable for Political Science (humanities subject).",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Political Science",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Political Science",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Political Science — no practical.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "Section A (World Politics) aur Section B (Indian Politics) dono equal weightage. Indian Politics thodi tough hoti hai analysis ke liye, World Politics mein facts zyada.",
+    "easy_percent": 30,
+    "medium_percent": 0,
+    "hard_percent": 20,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Sare 10 MCQ attempt karo — no negative marking, guessing allowed",
+      "VSA 1+1 format wale hote hain — dono parts ka answer do, half credit mat miss karo",
+      "Unit 3 (Globalization/Environment) = sabse easy, almost guaranteed scoring",
+      "Long Answer (Q31/32) mein dono parts (4+4) attempt karo, ek bhi chhodna mat",
+      "Dates aur leaders' naam ki list alag banao — direct MCQ+VSA mein aate hain",
+      "Emergency (1975) ka topic har saal LA ya SA-II mein aata hai — zaroor prepare karo",
+      "Foreign policy topic LA mein common — Nehru+NAM+Panchsheel+1962 yaad karo",
+      "Hinglish chalega — Hindi ya English dono mein likh sakte ho, mix bhi allowed",
+      "Previous year papers (2018-2025) zaroor solve karo — pattern same rehta hai",
+      "Word limit paar karne se marks cut nahi, par time waste hota hai — approximately rakho",
+      "Diagrams ya flowcharts banao jahan possible (foreign relations timeline, coalition politics)",
+      "Answer numbering clear rakhna — Q no. + roman numeral (i), (ii) parts ke liye"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "Paper padho, 32 questions scan karo. LA (Q31, Q32) ke OR options mein se easier choose kar lo. SA-II ke topics dekh lo."
+      },
+      {
+        "section_id": "MCQ_Q1_to_Q10_15min",
+        "recommended_minutes": 5,
+        "note": "10 MCQ × 1.5 min. Seedha option likhna hai. Doubt ho toh bhi answer do — no negative marking."
+      },
+      {
+        "section_id": "VSA_Q11_to_Q20_25min",
+        "recommended_minutes": 5,
+        "note": "10 VSA × 2.5 min. 1-line answers, 1+1 format usually. Dates aur naam clearly."
+      },
+      {
+        "section_id": "SA_I_Q21_to_Q26_50min",
+        "recommended_minutes": 8,
+        "note": "6 questions × 8 min. 50 shabd, 5-7 lines. Concept + 3-4 points + example."
+      },
+      {
+        "section_id": "SA_II_Q27_to_Q30_50min",
+        "recommended_minutes": 12,
+        "note": "4 questions × 12 min. 100-125 shabd. 3+3 split. Points ko paragraph format mein likho."
+      },
+      {
+        "section_id": "LA_Q31_Q32_40min",
+        "recommended_minutes": 20,
+        "note": "2 questions × 20 min. 250 shabd each. Intro + body + conclusion. Choose OR wisely."
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "Question numbers check karo, dates verify, spelling of names (foreign leaders!), page numbers clear."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 33",
+        "target_marks": 33,
+        "strategy": "10 MCQ (7-8) + 10 VSA (12-15) + 4 SA-I easy (15-18) = 34-40 marks pakke",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Unit 3 (Globalization + Environment) — easy theory, direct questions",
+          "Unit 2 (International Organizations) — UN facts, dates, members — easy MCQ + VSA",
+          "Unit 4 (Nation Building) — Gandhi, Nehru, Patel ke factual points",
+          "Key dates aur leaders yaad karo — MCQ+VSA mein directly aate hain",
+          "Sare 10 MCQ attempt karo — no negative marking"
+        ],
+        "chapters_to_skip_safely": [
+          "Unit 5 full foreign policy LA",
+          "Unit 6 Aapatkal full analysis",
+          "Complex regional politics (Northeast, Punjab)"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "50",
+        "target_marks": 50,
+        "strategy": "MCQ full (9-10) + VSA full (17-20) + SA-I 4-5 (20-25) + 1 SA-II (5-6) = 51-61 marks",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Chipko Andolan, Harit Kranti, Panchayat Raj (SA-I scoring)",
+          "UN reform, India's claim for permanent seat (SA-I 5 marks pakka)",
+          "Unit 4 — deshi riyaston ka vilay (SA-II 6 marks)",
+          "Emergency (1975) basic causes (LA prepare)",
+          "Previous year papers last 5 years solve karo"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "70 marks plus",
+        "target_marks": 70,
+        "strategy": "MCQ 10 + VSA 20 + SA-I full (25-30) + SA-II 3-4 (18-24) + 1 LA (6-8) = 75-90 marks",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Nehru's foreign policy detailed (LA 8 marks)",
+          "Emergency 1975 — causes + consequences + impact on politics (LA 8 marks)",
+          "India's relations with neighbors — positive+negative (LA 8 marks)",
+          "Congress split 1969 analysis (SA-II 6)",
+          "BJP rise factors (SA-II 6)",
+          "EU vs ASEAN comparison (LA 8 marks — 4+4 split)",
+          "NDA/UPA coalition politics"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping 85 plus",
+        "target_marks": 85,
+        "strategy": "Sare 32 questions mein maximum marks. Dono LA perfect with opinion + justification.",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "250-word long answers mein introduction + body + conclusion structure",
+          "Examples aur dates zaroor include karo — marker-friendly",
+          "Application-based questions (20% weightage) prepare karo — current affairs connect karo",
+          "Both OR options comfortable honge taki choice ho",
+          "Revision ke liye short notes banao",
+          "PYQ last 10 years solve karo — patterns repeat hote hain"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [
+      "End of Bipolarity + Contemporary Centers of Power + Contemporary South Asia (20 marks)",
+      "International Organizations + Contemporary Security (15 marks)",
+      "Environment & Natural Resources + Globalization (15 marks)",
+      "Challenges of Nation Building + Era of One-Party Dominance (16 marks)",
+      "Planned Development Politics + India's Foreign Relations + Congress System (18 marks)",
+      "Crisis of Democratic System + Regional Aspirations + Indian Politics: New Changes (16 marks)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "Contemporary World Politics (NCERT Class 12 Part A)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Section A (Khand Ka) ke 50 marks ka base. Sab 9 chapters zaroor padho."
+      },
+      {
+        "name": "Politics in India since Independence (NCERT Class 12 Part B)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Section B (Khand Kha) ke 50 marks ka base. Sab 9 chapters zaroor padho."
+      },
+      {
+        "name": "UP Board Nagrik Shastra Class 12 (Hindi medium official textbook)",
+        "author": "",
+        "publisher": "UPMSP prescribed",
+        "purpose": "Primary",
+        "note": "Hindi medium students ke liye NCERT ka Hindi translation. Questions format isi se match karte hain."
+      },
+      {
+        "name": "Previous Year Papers 2018-2025 (UP Board)",
+        "author": "",
+        "publisher": "UPMSP Official",
+        "purpose": "Supplementary",
+        "note": "upmsp.edu.in se download karo. Same questions repeat hote hain — especially VSA aur MCQ."
+      },
+      {
+        "name": "UP Board Model Paper 2026",
+        "author": "",
+        "publisher": "UPMSP Official",
+        "purpose": "Supplementary",
+        "note": "Official model paper upmsp.edu.in se milta hai."
+      },
+      {
+        "name": "Nootan / Navbodh / Upkar Nagrik Shastra Guide (Class 12)",
+        "author": "",
+        "publisher": "Various UP publishers",
+        "purpose": "Supplementary",
+        "note": "Additional solved questions, chapter-wise tests. Reference book ke liye helpful."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 minute reading time milta hai — is time mein sirf paper padho, answers likhna nahi."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "set_number_compulsory: True",
+      "reading_time_note: 15 minute reading time mein sirf paper padho — likhna nahi.",
+      "sequence_compulsory: False",
+      "sequence_note: Questions kisi bhi order mein attempt kar sakte ho, bas Q no. clearly likho.",
+      "language_rule: Hindi, English, ya Hinglish mein likh sakte ho. Same question ke parts consistent rakho.",
+      "no_negative_marking: True",
+      "mcq_attempt_all: No negative marking — sare 10 MCQ attempt karo",
+      "vsa_both_parts: VSA mein 1+1 format ke dono parts attempt karo — half marks lene se better full marks",
+      "long_answer_both_parts: LA 8 marks = 4+4. Dono parts attempt karo — ek part chhodne se 4 marks direct cut"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['Blue', 'Black'] pencil_use: Sirf maps/diagrams/timeline ke liye. Answers pen se likhna zaroori. note: Red/green pen sirf teachers use karte hain — students ke liye allowed nahi."
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "word_limit_strict: False word_limit_note: Word limit approximate hai — 10-15% up/down chalta hai. Par zyada bhi mat likho (time waste). paragraph_format: SA-II aur LA mein paragraph format. Bullet points avoid karo jab tak explicitly na puchha jaaye. headings: Long answers mein sub-headings thik hain — content organized dikhta hai dates_and_names: Dates, proper nouns, country names, treaty names clearly likho — marker ke liye easy ho partial_marking: True partial_marking_note: Incomplete answers par bhi partial marks milte hain — kuch na kuch zaroor likho",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

@@ -1,0 +1,1647 @@
+{
+  "board": "RBSE",
+  "class": "12",
+  "subject": "रसायन विज्ञान (Chemistry)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 56,
+    "practical_paper": 30,
+    "internal_assessment": 14,
+    "total": 100,
+    "passing_marks_theory": 20,
+    "passing_marks_practical": 10,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": true,
+    "extra_time_note": "हाँ — 15 मिनट रीडिंग टाइम मिलता है। इस समय में पेपर पढ़िए, 'अथवा' विकल्पों में से कौन सा attempt करेंगे decide कीजिए।",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 0,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "RBSE में कई sets होते हैं। हर set में same questions, सिर्फ़ order अलग।",
+    "sets_same_or_different": "",
+    "language_of_attempt": "हिंदी या अंग्रेज़ी — दोनों allowed। Mixed भी चलेगा।",
+    "all_compulsory_note": "खंड C (दीर्घ उत्तरीय) एवं खंड D (निबंधात्मक) में internal choice (अथवा विकल्प) मिलता है।",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "RBSE रसायन विज्ञान का पाठ्यक्रम NCERT पर आधारित है। NCERT के examples एवं exercises सभी solve कीजिए। SP Examination Idea Chemistry (Science Publications, जयपुर) भी ज़रूरी है।",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "RBSE कक्षा 12 रसायन विज्ञान में 6 प्रकार के प्रश्न: MCQ (0.5), रिक्त स्थान (0.5), अति लघु (1), लघु (1.5), दीर्घ (3), निबंधात्मक (4)। कुल = 56 अंक।",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (बहुविकल्पीय प्रश्न)",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 0.5,
+        "total_in_paper": 18,
+        "attempt": 18,
+        "negative_marking": false,
+        "how_to_attempt": "सिर्फ़ सही विकल्प (अ)/(ब)/(स)/(द) लिखना है। कोई व्याख्या नहीं। 0.5 अंक के लिए समय बर्बाद मत कीजिए।",
+        "mostly_from": "IUPAC नाम, परिभाषाएँ, सूत्र, अभिक्रिया प्रकार, इलेक्ट्रोड अभिक्रियाएँ, दर नियम, उपसहसंयोजन यौगिक नामकरण, कार्बनिक यौगिक पहचान।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "रिक्त स्थान (Fill in the Blanks)",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 0.5,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "एक शब्द/सूत्र/रसायनिक नाम/मान लिखना है। IUPAC नाम, नियतांक (Kc, Ea), अभिकर्मकों के नाम।",
+        "mostly_from": "रासायनिक सूत्र, IUPAC नाम, नियतांक, विशिष्ट अभिकर्मक (लूकस अभिकर्मक, फ़ेलिंग विलयन आदि)।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "अति लघु उत्तरीय (VSA)",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 9,
+        "attempt": 9,
+        "negative_marking": false,
+        "how_to_attempt": "परिभाषा, सूत्र, या 1-2 वाक्यों में उत्तर। समीकरण लिखना भी acceptable।",
+        "mostly_from": "परिभाषाएँ (मोलरता, EMF, अभिक्रिया की दर), शर्तें (SN1/SN2), अभिकर्मक पहचानना, अभिक्रिया उत्पाद लिखना।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "1-2 पंक्तियाँ",
+        "notes": ""
+      },
+      {
+        "type": "लघु उत्तरीय",
+        "question_number": "",
+        "section": "B",
+        "marks_each": 1.5,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "अवधारणा + उदाहरण + अभिक्रिया/समीकरण। 1.5 अंक = परिभाषा/अवधारणा (0.5) + समीकरण/सूत्र/उदाहरण (1)।",
+        "mostly_from": "सभी 10 अध्यायों से — छोटे व्युत्पादन, संख्यात्मक (1-2 steps), named reactions, क्रियाविधि (छोटी), तुलनात्मक प्रश्न।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "40-60 शब्द / 4-6 पंक्तियाँ",
+        "notes": ""
+      },
+      {
+        "type": "दीर्घ उत्तरीय",
+        "question_number": "",
+        "section": "C",
+        "marks_each": 3,
+        "total_in_paper": 3,
+        "attempt": 3,
+        "negative_marking": false,
+        "how_to_attempt": "समीकरण/क्रियाविधि/संरचना सहित पूरी व्याख्या। 3 अंक = अवधारणा (1) + समीकरण/steps (1.5) + परिणाम/निष्कर्ष (0.5)।",
+        "mostly_from": "मानक व्युत्पादन — नर्नस्ट समीकरण, समाकलित दर नियम, अभिक्रिया क्रियाविधियाँ, क्रियाविधि सहित named reaction, उपसहसंयोजन यौगिक समावयवता।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "100-150 शब्द",
+        "notes": ""
+      },
+      {
+        "type": "निबंधात्मक / अति दीर्घ उत्तरीय",
+        "question_number": "",
+        "section": "D",
+        "marks_each": 4,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "पूरे विषय की व्याख्या — सभी अभिक्रियाएँ, क्रियाविधियाँ, संरचनाएँ सहित। 4 अंक = परिचय (0.5) + अभिक्रियाएँ/क्रियाविधि (2.5) + निष्कर्ष/अनुप्रयोग (1)।",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "150-200 शब्द",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "RBSE रसायन विज्ञान थ्योरी पेपर = 56 अंक। 4 खंड। लगभग 52 प्रश्न। अवधि: 3 घंटे 15 मिनट (15 मिनट रीडिंग टाइम अतिरिक्त)।",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "खंड C (दीर्घ उत्तरीय) एवं खंड D (निबंधात्मक) में internal choice (अथवा विकल्प) मिलता है।",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 35,
+      "medium_percent": 45,
+      "hard_percent": 20,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "खंड A — वस्तुनिष्ठ (MCQ + रिक्त स्थान + अति लघु उत्तरीय)",
+        "type": "खंड A — वस्तुनिष्ठ (MCQ + रिक्त स्थान + अति लघु उत्तरीय)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 3,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 23,
+        "word_limit": "",
+        "breakdown": "MCQ: {'count': 18, 'marks_each': 0.5, 'total': 9, 'note': '18 MCQ × 0.5 = 9 अंक'}; fill_in_blanks: {'count': 10, 'marks_each': 0.5, 'total': 5, 'note': '10 रिक्त स्थान × 0.5 = 5 अंक'}; very_short_answer: {'count': 9, 'marks_each': 1, 'total': 9, 'note': '9 अति लघु उत्तरीय × 1 = 9 अंक'}",
+        "notes": ""
+      },
+      {
+        "section_id": "B",
+        "name": "खंड B — लघु उत्तरीय",
+        "type": "खंड B — लघु उत्तरीय",
+        "question_numbers": "",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 1.5,
+        "total_marks": 15,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "C",
+        "name": "खंड C — दीर्घ उत्तरीय",
+        "type": "खंड C — दीर्घ उत्तरीय",
+        "question_numbers": "",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "attempt_required": 3,
+        "marks_per_question": 3,
+        "total_marks": 9,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "D",
+        "name": "खंड D — निबंधात्मक / अति दीर्घ उत्तरीय",
+        "type": "खंड D — निबंधात्मक / अति दीर्घ उत्तरीय",
+        "question_numbers": "",
+        "total_questions": 1,
+        "total_sub_questions": 0,
+        "attempt_required": 1,
+        "marks_per_question": 4,
+        "total_marks": 4,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 56,
+    "total_practical": 30,
+    "internal_assessment": 14,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "खंड A — वस्तुनिष्ठ (MCQ + रिक्त स्थान + अति लघु उत्तरीय)",
+        "question_numbers": "",
+        "type": "खंड A — वस्तुनिष्ठ (MCQ + रिक्त स्थान + अति लघु उत्तरीय)",
+        "total_questions": 0,
+        "total_sub_questions": 3,
+        "marks_per_question": 0,
+        "total_marks": 23,
+        "word_limit": "",
+        "breakdown": "MCQ: {'count': 18, 'marks_each': 0.5, 'total': 9, 'note': '18 MCQ × 0.5 = 9 अंक'}; fill_in_blanks: {'count': 10, 'marks_each': 0.5, 'total': 5, 'note': '10 रिक्त स्थान × 0.5 = 5 अंक'}; very_short_answer: {'count': 9, 'marks_each': 1, 'total': 9, 'note': '9 अति लघु उत्तरीय × 1 = 9 अंक'}"
+      },
+      {
+        "section_id": "B",
+        "name": "खंड B — लघु उत्तरीय",
+        "question_numbers": "",
+        "type": "खंड B — लघु उत्तरीय",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 1.5,
+        "total_marks": 15,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "C",
+        "name": "खंड C — दीर्घ उत्तरीय",
+        "question_numbers": "",
+        "type": "खंड C — दीर्घ उत्तरीय",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 9,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "D",
+        "name": "खंड D — निबंधात्मक / अति दीर्घ उत्तरीय",
+        "question_numbers": "",
+        "type": "खंड D — निबंधात्मक / अति दीर्घ उत्तरीय",
+        "total_questions": 1,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 4,
+        "word_limit": "",
+        "breakdown": ""
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 56,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "8",
+      "name": "ऐल्डिहाइड, कीटोन एवं कार्बोक्सिलिक अम्ल (Aldehydes, Ketones and Carboxylic Acids)",
+      "marks": 7,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "10",
+        "name": "जैव अणु (Biomolecules)",
+        "marks": 4
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "विलयन (Solutions)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "वैद्युतरसायन (Electrochemistry)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "रासायनिक बलगतिकी (Chemical Kinetics)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "d एवं f ब्लॉक के तत्व (d and f Block Elements)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "उपसहसंयोजन यौगिक (Coordination Compounds)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "हैलोएल्केन तथा हैलोएरीन (Haloalkanes and Haloarenes)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "ऐल्कोहॉल, फ़ीनॉल एवं ईथर (Alcohols, Phenols and Ethers)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "name": "ऐल्डिहाइड, कीटोन एवं कार्बोक्सिलिक अम्ल (Aldehydes, Ketones and Carboxylic Acids)",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "name": "ऐमीन (Amines)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "10",
+        "name": "जैव अणु (Biomolecules)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 56,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Chemistry Class 12 — 10 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Chemistry",
+        "category": "Main",
+        "total_marks": 56,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "विलयन (Solutions)",
+            "marks": 6,
+            "topics": [
+              "सांद्रता के पद — मोलरता (M), मोललता (m), नॉर्मलता (N), मोल प्रभाज, ppm",
+              "विलेयता — हेनरी का नियम, तापमान का प्रभाव",
+              "राउल्ट का नियम — आदर्श एवं अनादर्श विलयन",
+              "अणुसंख्य गुणधर्म — वाष्प दाब में आपेक्षिक अवनमन, क्वथनांक में उन्नयन, हिमांक में अवनमन, परासरण दाब",
+              "वांट हॉफ गुणक (i) — विद्युत अपघट्यों के लिए",
+              "असामान्य मोलर द्रव्यमान — संगुणन एवं वियोजन"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "वैद्युतरसायन (Electrochemistry)",
+            "marks": 6,
+            "topics": [
+              "विद्युत रासायनिक सेल — गैल्वेनिक बनाम विद्युत अपघटनी",
+              "मानक इलेक्ट्रोड विभव",
+              "नर्नस्ट समीकरण — सेल विभव",
+              "गिब्ज़ ऊर्जा एवं सेल विभव: ΔG° = -nFE°",
+              "चालकत्व — विशिष्ट, मोलर, तुल्यांकी",
+              "कोलराउश का नियम",
+              "विद्युत अपघटन — फैराडे के नियम",
+              "बैटरियाँ — शुष्क सेल, लेड संचायक, H2-O2 ईंधन सेल",
+              "संक्षारण"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "रासायनिक बलगतिकी (Chemical Kinetics)",
+            "marks": 6,
+            "topics": [
+              "अभिक्रिया की दर, दर नियम, अभिक्रिया की कोटि",
+              "दर स्थिरांक — विभिन्न कोटियों के लिए मात्रक",
+              "समाकलित दर समीकरण — शून्य कोटि, प्रथम कोटि",
+              "अर्ध-आयु — प्रथम कोटि: t½ = 0.693/k",
+              "तापमान पर निर्भरता — आर्हीनियस समीकरण",
+              "सक्रियण ऊर्जा",
+              "संघट्ट सिद्धांत — आधारभूत",
+              "आणविकता बनाम अभिक्रिया की कोटि"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "d एवं f ब्लॉक के तत्व (d and f Block Elements)",
+            "marks": 5,
+            "topics": [
+              "d-ब्लॉक: सामान्य गुण — परिवर्ती ऑक्सीकरण अवस्थाएँ, रंग, चुंबकीय गुण, उत्प्रेरकीय सक्रियता",
+              "Cr के महत्वपूर्ण यौगिक: K2Cr2O7, KMnO4",
+              "K2Cr2O7 एवं KMnO4 का विरचन एवं गुण",
+              "अम्लीय, क्षारीय, उदासीन माध्यम में KMnO4 का ऑक्सीकारी क्रिया",
+              "f-ब्लॉक: लैंथेनॉइड एवं ऐक्टिनॉइड — इलेक्ट्रॉनिक विन्यास, लैंथेनॉइड संकुचन",
+              "अंतर्हैलोजन यौगिक (संक्षेप में)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "उपसहसंयोजन यौगिक (Coordination Compounds)",
+            "marks": 5,
+            "topics": [
+              "उपसहसंयोजन यौगिकों का IUPAC नामकरण",
+              "वर्नर का सिद्धांत",
+              "VBT (संयोजकता बंध सिद्धांत) — आंतरिक एवं बाह्य कक्षक संकुल",
+              "क्रिस्टल क्षेत्र सिद्धांत (CFT) — विपाटन, Δo",
+              "समावयवता — संरचनात्मक (आयनन, बंधनी, उपसहसंयोजन, विलायक) एवं त्रिविम (ज्यामितीय, प्रकाशिक)",
+              "संकुलों का स्थायित्व",
+              "EAN नियम"
+            ],
+            "note": "IUPAC नामकरण का अभ्यास अनिवार्य है — MCQ एवं रिक्त स्थानों में हमेशा पूछा जाता है।"
+          },
+          {
+            "chapter_id": "6",
+            "name": "हैलोएल्केन तथा हैलोएरीन (Haloalkanes and Haloarenes)",
+            "marks": 6,
+            "topics": [
+              "हैलोएल्केन का IUPAC नामकरण",
+              "विरचन की विधियाँ — ऐल्कोहॉल, ऐल्कीन, ऐल्केन से",
+              "SN1 एवं SN2 अभिक्रियाएँ — क्रियाविधि, शर्तें, त्रिविम रसायन",
+              "अभिक्रियाएँ — विलोपन (E1, E2), ग्रीन्यार अभिकर्मक का निर्माण",
+              "हैलोएरीन — हैलोएल्केन की तुलना में सक्रियता में अंतर",
+              "Named reactions: Fittig, Wurtz-Fittig, Sandmeyer, Gattermann",
+              "Freon, DDT — उपयोग एवं पर्यावरणीय प्रभाव",
+              "नाभिकस्नेही प्रतिस्थापन — रेसेमीकरण, उलटाव (Walden उलटाव)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "ऐल्कोहॉल, फ़ीनॉल एवं ईथर (Alcohols, Phenols and Ethers)",
+            "marks": 6,
+            "topics": [
+              "IUPAC नामकरण",
+              "ऐल्कोहॉल का विरचन — हैलोएल्केन से, ऐल्कीन से (जलयोजन), ग्रीन्यार अभिकर्मक से",
+              "रासायनिक गुण — एस्टरीकरण, निर्जलीकरण, ऑक्सीकरण",
+              "लूकस परीक्षण, विक्टर मेयर परीक्षण",
+              "फ़ीनॉल का विरचन — बेंज़ीन सल्फोनिक अम्ल से, डाउ प्रक्रम, क्यूमीन से",
+              "फ़ीनॉल बनाम ऐल्कोहॉल की अम्लीयता",
+              "ईथर — विलियमसन संश्लेषण",
+              "कोल्बे अभिक्रिया, राइमर-टीमान अभिक्रिया"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "ऐल्डिहाइड, कीटोन एवं कार्बोक्सिलिक अम्ल (Aldehydes, Ketones and Carboxylic Acids)",
+            "marks": 7,
+            "topics": [
+              "ऐल्डिहाइड, कीटोन, कार्बोक्सिलिक अम्ल का IUPAC नामकरण",
+              "विरचन — ऐल्कोहॉल से (ऑक्सीकरण), ओज़ोनीकरण, रोज़ेनमुंड अपचयन",
+              "ऐल्डिहाइड एवं कीटोन की नाभिकस्नेही योगात्मक अभिक्रियाएँ",
+              "विभेदक परीक्षण — टॉलेन, फ़ेलिंग, बेनेडिक्ट परीक्षण",
+              "एल्डोल संघनन",
+              "कैनिज़ारो अभिक्रिया",
+              "कार्बोक्सिलिक अम्ल के रासायनिक गुण — एस्टरीकरण, विकार्बोक्सिलीकरण, Hell-Volhard-Zelinsky",
+              "कार्बोक्सिलिक अम्ल की अभिक्रियाएँ — ऐसिल क्लोराइड, ऐनहाइड्राइड, एस्टर, ऐमाइड निर्माण"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "ऐमीन (Amines)",
+            "marks": 5,
+            "topics": [
+              "वर्गीकरण — प्राथमिक, द्वितीयक, तृतीयक ऐमीन",
+              "IUPAC नामकरण",
+              "विरचन — नाइट्रो यौगिक, नाइट्राइल, ऐमाइड का अपचयन",
+              "गेब्रियल थैलिमाइड संश्लेषण",
+              "हॉफमान ब्रोमेमाइड अभिक्रिया",
+              "रासायनिक गुण — क्षारीय सामर्थ्य क्रम, ऐसीलीकरण, ऐल्किलीकरण",
+              "डाइऐज़ोनियम लवण — विरचन एवं अभिक्रियाएँ (Sandmeyer, Gattermann, युग्मन)",
+              "क्षारीय सामर्थ्य तुलना — ऐलिफैटिक बनाम ऐरोमैटिक ऐमीन"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "जैव अणु (Biomolecules)",
+            "marks": 4,
+            "topics": [
+              "कार्बोहाइड्रेट — वर्गीकरण (मोनो, ओलिगो, पॉली), अपचायी बनाम अनअपचायी शर्करा",
+              "ग्लूकोज़ — संरचना, खुली श्रृंखला एवं वलय (Haworth), अभिक्रियाएँ",
+              "स्टार्च बनाम सेलुलोज़",
+              "प्रोटीन — ऐमीनो अम्ल, पेप्टाइड बंध, प्राथमिक/द्वितीयक/तृतीयक/चतुष्क संरचना",
+              "एन्ज़ाइम — ताला-चाबी सिद्धांत",
+              "न्यूक्लिक अम्ल — DNA बनाम RNA संरचना, क्षारक",
+              "विटामिन — वसा विलेय एवं जल विलेय",
+              "हार्मोन — प्रकार"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "विलयन (Solutions)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 1,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "सांद्रता के पद — मोलरता (M), मोललता (m), नॉर्मलता (N), मोल प्रभाज, ppm",
+        "विलेयता — हेनरी का नियम, तापमान का प्रभाव",
+        "राउल्ट का नियम — आदर्श एवं अनादर्श विलयन",
+        "अणुसंख्य गुणधर्म — वाष्प दाब में आपेक्षिक अवनमन, क्वथनांक में उन्नयन, हिमांक में अवनमन, परासरण दाब",
+        "वांट हॉफ गुणक (i) — विद्युत अपघट्यों के लिए",
+        "असामान्य मोलर द्रव्यमान — संगुणन एवं वियोजन"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "M = (WA/MA) × (1000/V_ml)",
+        "ΔTb = Kb × m (क्वथनांक में उन्नयन)",
+        "ΔTf = Kf × m (हिमांक में अवनमन)",
+        "π = iCRT (परासरण दाब)",
+        "i = 1 + α(n-1) (वांट हॉफ गुणक)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "अणुसंख्य गुणधर्मों पर संख्यात्मक (लघु/दीर्घ), राउल्ट का नियम (लघु), हेनरी का नियम (अति लघु/MCQ), वांट हॉफ गुणक (लघु संख्यात्मक)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "वैद्युतरसायन (Electrochemistry)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 2,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम-कठिन",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "विद्युत रासायनिक सेल — गैल्वेनिक बनाम विद्युत अपघटनी",
+        "मानक इलेक्ट्रोड विभव",
+        "नर्नस्ट समीकरण — सेल विभव",
+        "गिब्ज़ ऊर्जा एवं सेल विभव: ΔG° = -nFE°",
+        "चालकत्व — विशिष्ट, मोलर, तुल्यांकी",
+        "कोलराउश का नियम",
+        "विद्युत अपघटन — फैराडे के नियम",
+        "बैटरियाँ — शुष्क सेल, लेड संचायक, H2-O2 ईंधन सेल",
+        "संक्षारण"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "E_cell = E°_cell - (RT/nF)lnQ (नर्नस्ट समीकरण)",
+        "ΔG° = -nFE°",
+        "Λm = κ × 1000/M (मोलर चालकता)",
+        "W = (M × I × t)/(n × F) (फैराडे का नियम)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "नर्नस्ट समीकरण व्युत्पादन (दीर्घ), फैराडे के नियम पर संख्यात्मक (लघु), कोलराउश का नियम (अति लघु/लघु), सेल विभव संख्यात्मक (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "रासायनिक बलगतिकी (Chemical Kinetics)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 3,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "अभिक्रिया की दर, दर नियम, अभिक्रिया की कोटि",
+        "दर स्थिरांक — विभिन्न कोटियों के लिए मात्रक",
+        "समाकलित दर समीकरण — शून्य कोटि, प्रथम कोटि",
+        "अर्ध-आयु — प्रथम कोटि: t½ = 0.693/k",
+        "तापमान पर निर्भरता — आर्हीनियस समीकरण",
+        "सक्रियण ऊर्जा",
+        "संघट्ट सिद्धांत — आधारभूत",
+        "आणविकता बनाम अभिक्रिया की कोटि"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "दर = k[A]^m[B]^n",
+        "प्रथम कोटि: k = (2.303/t) log(A₀/At)",
+        "t½ = 0.693/k (केवल प्रथम कोटि)",
+        "k = A·e^(-Ea/RT) (आर्हीनियस समीकरण)",
+        "log(k2/k1) = (Ea/2.303R)(1/T1 - 1/T2)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "प्रथम कोटि समाकलित दर समीकरण (दीर्घ), आर्हीनियस समीकरण (लघु/दीर्घ), अर्ध-आयु संख्यात्मक (लघु), दर नियम लिखना (MCQ/अति लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "d एवं f ब्लॉक के तत्व (d and f Block Elements)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 4,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "d-ब्लॉक: सामान्य गुण — परिवर्ती ऑक्सीकरण अवस्थाएँ, रंग, चुंबकीय गुण, उत्प्रेरकीय सक्रियता",
+        "Cr के महत्वपूर्ण यौगिक: K2Cr2O7, KMnO4",
+        "K2Cr2O7 एवं KMnO4 का विरचन एवं गुण",
+        "अम्लीय, क्षारीय, उदासीन माध्यम में KMnO4 का ऑक्सीकारी क्रिया",
+        "f-ब्लॉक: लैंथेनॉइड एवं ऐक्टिनॉइड — इलेक्ट्रॉनिक विन्यास, लैंथेनॉइड संकुचन",
+        "अंतर्हैलोजन यौगिक (संक्षेप में)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "K2Cr2O7 या KMnO4 विरचन + गुण (दीर्घ उत्तरीय), d-ब्लॉक गुण तालिका (लघु/MCQ), लैंथेनॉइड संकुचन (अति लघु/लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "उपसहसंयोजन यौगिक (Coordination Compounds)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 5,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम-कठिन",
+      "difficulty_reason": "IUPAC नामकरण का अभ्यास अनिवार्य है — MCQ एवं रिक्त स्थानों में हमेशा पूछा जाता है।",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "IUPAC नामकरण का अभ्यास अनिवार्य है — MCQ एवं रिक्त स्थानों में हमेशा पूछा जाता है।",
+      "important_topics": [
+        "उपसहसंयोजन यौगिकों का IUPAC नामकरण",
+        "वर्नर का सिद्धांत",
+        "VBT (संयोजकता बंध सिद्धांत) — आंतरिक एवं बाह्य कक्षक संकुल",
+        "क्रिस्टल क्षेत्र सिद्धांत (CFT) — विपाटन, Δo",
+        "समावयवता — संरचनात्मक (आयनन, बंधनी, उपसहसंयोजन, विलायक) एवं त्रिविम (ज्यामितीय, प्रकाशिक)",
+        "संकुलों का स्थायित्व",
+        "EAN नियम"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "IUPAC नामकरण एवं सूत्र लेखन (लघु/अति लघु), ज्यामितीय/प्रकाशिक समावयवता (लघु/दीर्घ), VBT व्याख्या (लघु), चुंबकीय आघूर्ण (MCQ/अति लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "हैलोएल्केन तथा हैलोएरीन (Haloalkanes and Haloarenes)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 6,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "हैलोएल्केन का IUPAC नामकरण",
+        "विरचन की विधियाँ — ऐल्कोहॉल, ऐल्कीन, ऐल्केन से",
+        "SN1 एवं SN2 अभिक्रियाएँ — क्रियाविधि, शर्तें, त्रिविम रसायन",
+        "अभिक्रियाएँ — विलोपन (E1, E2), ग्रीन्यार अभिकर्मक का निर्माण",
+        "हैलोएरीन — हैलोएल्केन की तुलना में सक्रियता में अंतर",
+        "Named reactions: Fittig, Wurtz-Fittig, Sandmeyer, Gattermann",
+        "Freon, DDT — उपयोग एवं पर्यावरणीय प्रभाव",
+        "नाभिकस्नेही प्रतिस्थापन — रेसेमीकरण, उलटाव (Walden उलटाव)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "SN1 बनाम SN2 क्रियाविधि (दीर्घ), Wurtz अभिक्रिया (लघु/अति लघु), ऐल्कोहॉल से हैलोएल्केन का विरचन (लघु), DDT एवं पर्यावरणीय प्रभाव (अति लघु/MCQ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "ऐल्कोहॉल, फ़ीनॉल एवं ईथर (Alcohols, Phenols and Ethers)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 7,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "IUPAC नामकरण",
+        "ऐल्कोहॉल का विरचन — हैलोएल्केन से, ऐल्कीन से (जलयोजन), ग्रीन्यार अभिकर्मक से",
+        "रासायनिक गुण — एस्टरीकरण, निर्जलीकरण, ऑक्सीकरण",
+        "लूकस परीक्षण, विक्टर मेयर परीक्षण",
+        "फ़ीनॉल का विरचन — बेंज़ीन सल्फोनिक अम्ल से, डाउ प्रक्रम, क्यूमीन से",
+        "फ़ीनॉल बनाम ऐल्कोहॉल की अम्लीयता",
+        "ईथर — विलियमसन संश्लेषण",
+        "कोल्बे अभिक्रिया, राइमर-टीमान अभिक्रिया"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "फ़ीनॉल का विरचन (दीर्घ), लूकस परीक्षण (लघु/अति लघु), विलियमसन संश्लेषण (लघु), ऐल्कोहॉल बनाम फ़ीनॉल अम्लीयता तुलना (लघु), राइमर-टीमान (अति लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "ऐल्डिहाइड, कीटोन एवं कार्बोक्सिलिक अम्ल (Aldehydes, Ketones and Carboxylic Acids)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 8,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम-कठिन",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "ऐल्डिहाइड, कीटोन, कार्बोक्सिलिक अम्ल का IUPAC नामकरण",
+        "विरचन — ऐल्कोहॉल से (ऑक्सीकरण), ओज़ोनीकरण, रोज़ेनमुंड अपचयन",
+        "ऐल्डिहाइड एवं कीटोन की नाभिकस्नेही योगात्मक अभिक्रियाएँ",
+        "विभेदक परीक्षण — टॉलेन, फ़ेलिंग, बेनेडिक्ट परीक्षण",
+        "एल्डोल संघनन",
+        "कैनिज़ारो अभिक्रिया",
+        "कार्बोक्सिलिक अम्ल के रासायनिक गुण — एस्टरीकरण, विकार्बोक्सिलीकरण, Hell-Volhard-Zelinsky",
+        "कार्बोक्सिलिक अम्ल की अभिक्रियाएँ — ऐसिल क्लोराइड, ऐनहाइड्राइड, एस्टर, ऐमाइड निर्माण"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "नाभिकस्नेही योगात्मक क्रियाविधि (दीर्घ/निबंधात्मक), एल्डोल संघनन (दीर्घ/लघु), कैनिज़ारो अभिक्रिया (लघु), टॉलेन बनाम फ़ेलिंग विभेद (लघु), ऐल्डिहाइड/कीटोन का विरचन (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "ऐमीन (Amines)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 9,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "वर्गीकरण — प्राथमिक, द्वितीयक, तृतीयक ऐमीन",
+        "IUPAC नामकरण",
+        "विरचन — नाइट्रो यौगिक, नाइट्राइल, ऐमाइड का अपचयन",
+        "गेब्रियल थैलिमाइड संश्लेषण",
+        "हॉफमान ब्रोमेमाइड अभिक्रिया",
+        "रासायनिक गुण — क्षारीय सामर्थ्य क्रम, ऐसीलीकरण, ऐल्किलीकरण",
+        "डाइऐज़ोनियम लवण — विरचन एवं अभिक्रियाएँ (Sandmeyer, Gattermann, युग्मन)",
+        "क्षारीय सामर्थ्य तुलना — ऐलिफैटिक बनाम ऐरोमैटिक ऐमीन"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "व्याख्या सहित क्षारीय सामर्थ्य क्रम (लघु/दीर्घ), गेब्रियल संश्लेषण (लघु), हॉफमान ब्रोमेमाइड अभिक्रिया (लघु/अति लघु), डाइऐज़ोनियम लवण अभिक्रियाएँ (लघु), Sandmeyer अभिक्रिया (अति लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "जैव अणु (Biomolecules)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 10,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "सरल",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "कार्बोहाइड्रेट — वर्गीकरण (मोनो, ओलिगो, पॉली), अपचायी बनाम अनअपचायी शर्करा",
+        "ग्लूकोज़ — संरचना, खुली श्रृंखला एवं वलय (Haworth), अभिक्रियाएँ",
+        "स्टार्च बनाम सेलुलोज़",
+        "प्रोटीन — ऐमीनो अम्ल, पेप्टाइड बंध, प्राथमिक/द्वितीयक/तृतीयक/चतुष्क संरचना",
+        "एन्ज़ाइम — ताला-चाबी सिद्धांत",
+        "न्यूक्लिक अम्ल — DNA बनाम RNA संरचना, क्षारक",
+        "विटामिन — वसा विलेय एवं जल विलेय",
+        "हार्मोन — प्रकार"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "अपचायी बनाम अनअपचायी शर्करा (MCQ/लघु), ग्लूकोज़ की वलय संरचना (लघु/अति लघु), DNA बनाम RNA अंतर (लघु), प्रोटीन संरचना के स्तर (अति लघु), ऐमीनो अम्ल की परिभाषा (अति लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Chemistry Class 12 — 10 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "खंड C (दीर्घ उत्तरीय) एवं खंड D (निबंधात्मक) में internal choice (अथवा विकल्प) मिलता है।",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [
+      "अणुसंख्य गुणधर्म संख्यात्मक (Kf, Kb, परासरण दाब) (Q: , 1.5-3)",
+      "नर्नस्ट समीकरण — व्युत्पादन या संख्यात्मक (Q: , 3)",
+      "फैराडे के नियम पर संख्यात्मक (Q: , 1.5)",
+      "प्रथम कोटि दर स्थिरांक संख्यात्मक (Q: , 1.5-3)",
+      "आर्हीनियस समीकरण — Ea गणना (Q: , 1.5-3)",
+      "K2Cr2O7 या KMnO4 के ऑक्सीकारी गुण (Q: , 1.5-3)",
+      "उपसहसंयोजन यौगिकों का IUPAC नामकरण (Q: , 0.5-1.5)",
+      "SN1 बनाम SN2 क्रियाविधि (Q: , 3)",
+      "ऐल्डिहाइड/कीटोन पर नाभिकस्नेही योगात्मक अभिक्रिया (Q: , 3-4)",
+      "एल्डोल संघनन क्रियाविधि सहित (Q: , 3-4)",
+      "ऐमीनों की क्षारीय सामर्थ्य तुलना (Q: , 1.5)",
+      "अपचायी बनाम अनअपचायी शर्करा (Q: , 0.5-1.5)",
+      "Named reactions — Sandmeyer, Rosenmund, Clemmensen, Wolf-Kishner (Q: , 0.5-1.5)"
+    ],
+    "chapters_mostly_theory": [
+      "d एवं f ब्लॉक के तत्व (d and f Block Elements)",
+      "उपसहसंयोजन यौगिक (Coordination Compounds)",
+      "हैलोएल्केन तथा हैलोएरीन (Haloalkanes and Haloarenes)",
+      "ऐल्कोहॉल, फ़ीनॉल एवं ईथर (Alcohols, Phenols and Ethers)",
+      "ऐल्डिहाइड, कीटोन एवं कार्बोक्सिलिक अम्ल (Aldehydes, Ketones and Carboxylic Acids)",
+      "ऐमीन (Amines)",
+      "जैव अणु (Biomolecules)"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "विलयन (Solutions)",
+      "वैद्युतरसायन (Electrochemistry)",
+      "रासायनिक बलगतिकी (Chemical Kinetics)",
+      "हैलोएल्केन तथा हैलोएरीन (Haloalkanes and Haloarenes)",
+      "ऐल्कोहॉल, फ़ीनॉल एवं ईथर (Alcohols, Phenols and Ethers)",
+      "ऐल्डिहाइड, कीटोन एवं कार्बोक्सिलिक अम्ल (Aldehydes, Ketones and Carboxylic Acids)"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "विलयन (Solutions)",
+      "वैद्युतरसायन (Electrochemistry)",
+      "रासायनिक बलगतिकी (Chemical Kinetics)",
+      "हैलोएल्केन तथा हैलोएरीन (Haloalkanes and Haloarenes)",
+      "ऐल्कोहॉल, फ़ीनॉल एवं ईथर (Alcohols, Phenols and Ethers)",
+      "ऐल्डिहाइड, कीटोन एवं कार्बोक्सिलिक अम्ल (Aldehydes, Ketones and Carboxylic Acids)"
+    ],
+    "chapters_with_numerical": [
+      "विलयन (Solutions)",
+      "वैद्युतरसायन (Electrochemistry)",
+      "रासायनिक बलगतिकी (Chemical Kinetics)"
+    ],
+    "chapters_guaranteed_numerical": [
+      "विलयन (Solutions)",
+      "वैद्युतरसायन (Electrochemistry)",
+      "रासायनिक बलगतिकी (Chemical Kinetics)"
+    ],
+    "chapters_no_numerical": [
+      "d एवं f ब्लॉक के तत्व (d and f Block Elements)",
+      "उपसहसंयोजन यौगिक (Coordination Compounds)",
+      "हैलोएल्केन तथा हैलोएरीन (Haloalkanes and Haloarenes)",
+      "ऐल्कोहॉल, फ़ीनॉल एवं ईथर (Alcohols, Phenols and Ethers)",
+      "ऐल्डिहाइड, कीटोन एवं कार्बोक्सिलिक अम्ल (Aldehydes, Ketones and Carboxylic Acids)",
+      "ऐमीन (Amines)",
+      "जैव अणु (Biomolecules)"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "अणुसंख्य गुणधर्म संख्यात्मक (Kf, Kb, परासरण दाब) (Q: , 1.5-3)",
+      "नर्नस्ट समीकरण — व्युत्पादन या संख्यात्मक (Q: , 3)",
+      "फैराडे के नियम पर संख्यात्मक (Q: , 1.5)",
+      "प्रथम कोटि दर स्थिरांक संख्यात्मक (Q: , 1.5-3)",
+      "आर्हीनियस समीकरण — Ea गणना (Q: , 1.5-3)",
+      "K2Cr2O7 या KMnO4 के ऑक्सीकारी गुण (Q: , 1.5-3)",
+      "उपसहसंयोजन यौगिकों का IUPAC नामकरण (Q: , 0.5-1.5)",
+      "SN1 बनाम SN2 क्रियाविधि (Q: , 3)",
+      "ऐल्डिहाइड/कीटोन पर नाभिकस्नेही योगात्मक अभिक्रिया (Q: , 3-4)",
+      "एल्डोल संघनन क्रियाविधि सहित (Q: , 3-4)",
+      "ऐमीनों की क्षारीय सामर्थ्य तुलना (Q: , 1.5)",
+      "अपचायी बनाम अनअपचायी शर्करा (Q: , 0.5-1.5)",
+      "Named reactions — Sandmeyer, Rosenmund, Clemmensen, Wolf-Kishner (Q: , 0.5-1.5)"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "named_reactions_masterlist": {
+      "note": "Named reactions MCQ/रिक्त स्थान/अति लघु में सीधे पूछी जाती हैं। सभी याद कीजिए।",
+      "reactions": [
+        {
+          "name": "Wurtz अभिक्रिया",
+          "chapter": 6,
+          "reagent": "शुष्क ईथर में Na",
+          "product": "उच्च ऐल्केन"
+        },
+        {
+          "name": "Fittig अभिक्रिया",
+          "chapter": 6,
+          "reagent": "शुष्क ईथर में Na",
+          "product": "डाइफ़ेनिल"
+        },
+        {
+          "name": "Wurtz-Fittig अभिक्रिया",
+          "chapter": 6,
+          "reagent": "शुष्क ईथर में Na",
+          "product": "ऐल्किलबेंज़ीन"
+        },
+        {
+          "name": "Sandmeyer अभिक्रिया",
+          "chapter": 6,
+          "reagent": "CuCl/CuBr + HCl/HBr",
+          "product": "डाइऐज़ोनियम लवण से ArX"
+        },
+        {
+          "name": "Gattermann अभिक्रिया",
+          "chapter": 6,
+          "reagent": "Cu चूर्ण + HCl/HBr",
+          "product": "डाइऐज़ोनियम लवण से ArX"
+        },
+        {
+          "name": "लूकस परीक्षण",
+          "chapter": 7,
+          "reagent": "ZnCl2 + सांद्र HCl",
+          "product": "1°/2°/3° ऐल्कोहॉल में विभेद"
+        },
+        {
+          "name": "विक्टर मेयर परीक्षण",
+          "chapter": 7,
+          "reagent": "PI3 → HNO2 → NaOH",
+          "product": "1°/2°/3° ऐल्कोहॉल में विभेद"
+        },
+        {
+          "name": "कोल्बे अभिक्रिया",
+          "chapter": 7,
+          "reagent": "CO2 + NaOH + दाब",
+          "product": "फ़ीनॉल से सोडियम सैलिसिलेट"
+        },
+        {
+          "name": "राइमर-टीमान अभिक्रिया",
+          "chapter": 7,
+          "reagent": "CHCl3 + NaOH",
+          "product": "फ़ीनॉल से o-हाइड्रॉक्सीबेंज़ऐल्डिहाइड"
+        },
+        {
+          "name": "विलियमसन संश्लेषण",
+          "chapter": 7,
+          "reagent": "R-ONa + R'X",
+          "product": "ईथर"
+        },
+        {
+          "name": "एल्डोल संघनन",
+          "chapter": 8,
+          "reagent": "तनु NaOH",
+          "product": "β-हाइड्रॉक्सी कार्बोनिल यौगिक"
+        },
+        {
+          "name": "कैनिज़ारो अभिक्रिया",
+          "chapter": 8,
+          "reagent": "सांद्र NaOH",
+          "product": "α-H रहित ऐल्डिहाइड का असमानुपातन"
+        },
+        {
+          "name": "रोज़ेनमुंड अपचयन",
+          "chapter": 8,
+          "reagent": "H2/Pd-BaSO4",
+          "product": "ऐसिल क्लोराइड से ऐल्डिहाइड"
+        },
+        {
+          "name": "क्लीमेंसन अपचयन",
+          "chapter": 8,
+          "reagent": "Zn-Hg + सांद्र HCl",
+          "product": "C=O को CH2 में अपचयन"
+        },
+        {
+          "name": "वुल्फ-किश्नर अपचयन",
+          "chapter": 8,
+          "reagent": "N2H4 + KOH + एथिलीन ग्लाइकॉल",
+          "product": "C=O को CH2 में अपचयन"
+        },
+        {
+          "name": "Hell-Volhard-Zelinsky (HVZ)",
+          "chapter": 8,
+          "reagent": "Cl2/Br2 + लाल P",
+          "product": "कार्बोक्सिलिक अम्ल का α-हैलोजनीकरण"
+        },
+        {
+          "name": "टॉलेन परीक्षण (रजत दर्पण परीक्षण)",
+          "chapter": 8,
+          "reagent": "[Ag(NH3)2]+ (टॉलेन अभिकर्मक)",
+          "product": "रजत दर्पण — ऐल्डिहाइड को कीटोन से विभेद"
+        },
+        {
+          "name": "फ़ेलिंग परीक्षण",
+          "chapter": 8,
+          "reagent": "फ़ेलिंग विलयन A + B (Cu2+)",
+          "product": "ईंटनुमा लाल अवक्षेप — ऐल्डिहाइड की पहचान"
+        },
+        {
+          "name": "गेब्रियल थैलिमाइड संश्लेषण",
+          "chapter": 9,
+          "reagent": "थैलिमाइड + KOH + RX",
+          "product": "प्राथमिक ऐमीन"
+        },
+        {
+          "name": "हॉफमान ब्रोमेमाइड अभिक्रिया",
+          "chapter": 9,
+          "reagent": "Br2 + NaOH",
+          "product": "एक कार्बन कम वाली प्राथमिक ऐमीन"
+        }
+      ]
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Chemistry.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Formulas for Chemistry Class 12.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "1",
+        "chapter_name": "विलयन (Solutions)",
+        "formulas": [
+          "M = (WA/MA) × (1000/V_ml)",
+          "ΔTb = Kb × m (क्वथनांक में उन्नयन)",
+          "ΔTf = Kf × m (हिमांक में अवनमन)",
+          "π = iCRT (परासरण दाब)",
+          "i = 1 + α(n-1) (वांट हॉफ गुणक)"
+        ]
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "वैद्युतरसायन (Electrochemistry)",
+        "formulas": [
+          "E_cell = E°_cell - (RT/nF)lnQ (नर्नस्ट समीकरण)",
+          "ΔG° = -nFE°",
+          "Λm = κ × 1000/M (मोलर चालकता)",
+          "W = (M × I × t)/(n × F) (फैराडे का नियम)"
+        ]
+      },
+      {
+        "chapter_id": "3",
+        "chapter_name": "रासायनिक बलगतिकी (Chemical Kinetics)",
+        "formulas": [
+          "दर = k[A]^m[B]^n",
+          "प्रथम कोटि: k = (2.303/t) log(A₀/At)",
+          "t½ = 0.693/k (केवल प्रथम कोटि)",
+          "k = A·e^(-Ea/RT) (आर्हीनियस समीकरण)",
+          "log(k2/k1) = (Ea/2.303R)(1/T1 - 1/T2)"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Chemistry.",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Chemistry.",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 30,
+    "passing_marks": 0,
+    "practical_exam_separate": true,
+    "practical_exam_note": "",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": true,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "कार्बनिक रसायन (अध्याय 6-9) खंड C एवं D में थोड़ी कठिन होती है। भौतिक रसायन (अध्याय 1-3) में संख्यात्मक scoring हैं।",
+    "easy_percent": 35,
+    "medium_percent": 45,
+    "hard_percent": 20,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "खंड A के 37 प्रश्न (MCQ + रिक्त स्थान + अति लघु) = 23 अंक — सभी attempt कीजिए, कोई negative marking नहीं",
+      "कार्बनिक रसायन (अध्याय 6-9) = 24 अंक — सबसे महत्वपूर्ण भाग। Conversions एवं क्रियाविधियाँ रोज़ practice कीजिए",
+      "खंड D निबंधात्मक = 4 अंक — अध्याय 8 (ऐल्डिहाइड/कीटोन/कार्बोक्सिलिक अम्ल) से लगभग पक्का। एल्डोल संघनन + नाभिकस्नेही योगात्मक क्रियाविधि याद कीजिए",
+      "Named reactions की सूची बनाइए — रिक्त स्थान एवं MCQ में सीधे आती हैं",
+      "संख्यात्मक में 'दिया गया', 'सूत्र', 'प्रतिस्थापन', 'मात्रक सहित उत्तर' format use कीजिए",
+      "रासायनिक समीकरण हमेशा संतुलित कीजिए — असंतुलित समीकरण से अंक कटते हैं",
+      "IUPAC नामकरण का अभ्यास कीजिए — उपसहसंयोजन यौगिकों के नाम MCQ एवं रिक्त स्थानों में आते हैं",
+      "अपचयन अभिक्रियाएँ याद कीजिए — क्लीमेंसन बनाम वुल्फ-किश्नर (हर साल MCQ में आता है)",
+      "टॉलेन बनाम फ़ेलिंग परीक्षण — विभेद प्रश्न हमेशा आता है",
+      "रीडिंग टाइम का उपयोग कीजिए — 'अथवा' विकल्पों में से पहले आसान वाला decide कीजिए",
+      "Set संख्या एवं प्रश्न संख्या स्पष्ट रूप से लिखिए",
+      "कोई negative marking नहीं — एक भी प्रश्न खाली मत छोड़िए"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "पेपर पढ़िए — 'अथवा' विकल्पों में से चुनिए, देखिए कौन सी कार्बनिक अभिक्रिया आसान है।"
+      },
+      {
+        "section_id": "section_A_40min",
+        "recommended_minutes": 0,
+        "note": "37 वस्तुनिष्ठ प्रश्न। MCQ + रिक्त स्थान = प्रत्येक 0.5 अंक — सिर्फ़ विकल्प/शब्द लिखिए।"
+      },
+      {
+        "section_id": "section_B_30min",
+        "recommended_minutes": 0,
+        "note": "10 लघु उत्तरीय × प्रत्येक 3 मिनट। अवधारणा + अभिक्रिया/सूत्र + निष्कर्ष।"
+      },
+      {
+        "section_id": "section_C_30min",
+        "recommended_minutes": 0,
+        "note": "3 दीर्घ उत्तरीय × प्रत्येक 10 मिनट। क्रियाविधि/steps स्पष्ट रूप से क्रमांकित।"
+      },
+      {
+        "section_id": "section_D_20min",
+        "recommended_minutes": 0,
+        "note": "1 निबंधात्मक। खंड D का 4-अंक प्रश्न अध्याय 8 से अपेक्षित — पहले से तैयार रखिए।"
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "समीकरण संतुलित हैं या नहीं check कीजिए, IUPAC spellings देखिए, मात्रक verify कीजिए।"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 20 marks",
+        "target_marks": 20,
+        "strategy": "खंड A (MCQ+रिक्त स्थान+अति लघु) से 15+ अंक आसान। खंड B में 3-4 सरल लघु उत्तरीय (4-5 अंक)। कुल = 19-21 अंक पक्के।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "अध्याय 10 (जैव अणु) — पूरी थ्योरी, सरल MCQs",
+          "अध्याय 4 (d-f ब्लॉक) — KMnO4/K2Cr2O7 गुण सरल थ्योरी",
+          "अध्याय 3 (रासायनिक बलगतिकी) — दर नियम MCQ, अर्ध-आयु सूत्र",
+          "खंड A पूरा attempt कीजिए — कोई negative marking नहीं",
+          "Named reactions सूची से 5-6 याद कीजिए — रिक्त स्थानों में पक्के मिलेंगे"
+        ],
+        "chapters_to_skip_safely": [
+          "अध्याय 2 का जटिल नर्नस्ट व्युत्पादन",
+          "अध्याय 5 की जटिल समावयवता",
+          "अध्याय 8 की पूरी क्रियाविधि"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "35",
+        "target_marks": 35,
+        "strategy": "खंड A (18-20) + खंड B के 5-6 (7-9 अंक) + खंड C का 1 सरल (3) = 28-32 अंक।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "अध्याय 1 (विलयन) — अणुसंख्य गुणधर्म संख्यात्मक लघु उत्तर",
+          "अध्याय 3 (बलगतिकी) — प्रथम कोटि संख्यात्मक",
+          "अध्याय 8 — खंड D निबंधात्मक (4 अंक) — एल्डोल संघनन तैयार कीजिए",
+          "अध्याय 9 (ऐमीन) — क्षारीय सामर्थ्य लघु उत्तर",
+          "खंड B सभी attempt कीजिए"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45 marks plus",
+        "target_marks": 45,
+        "strategy": "खंड A पूरा (21-23) + खंड B पूरा (15) + खंड C के 2-3 (6-9) + खंड D (4) = 46-51।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "सभी संख्यात्मक — अणुसंख्य गुणधर्म, नर्नस्ट, दर स्थिरांक, फैराडे",
+          "कार्बनिक रसायन के conversions + क्रियाविधियाँ — अध्याय 6, 7, 8, 9",
+          "खंड C के दीर्घ उत्तर — नर्नस्ट व्युत्पादन, SN1/SN2, नाभिकस्नेही योगात्मक",
+          "खंड D निबंधात्मक — अध्याय 8 की पूरी तैयारी"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping 50 plus",
+        "target_marks": 50,
+        "strategy": "सभी 52 प्रश्नों में अधिकतम अंक। कार्बनिक conversions परिपूर्ण कीजिए। खंड D निबंधात्मक परिपूर्ण।",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "सभी named reactions क्रियाविधि सहित",
+          "IUPAC नामकरण पूर्ण रूप से — विशेषतः उपसहसंयोजन यौगिक",
+          "कार्बनिक conversions — हैलोएल्केन → ऐल्कोहॉल → ऐल्डिहाइड → अम्ल → ऐमीन का flowchart",
+          "खंड A में कोई भी MCQ मत छोड़िए",
+          "संरचनाएँ सही बनाइए — संतुलित अभिक्रियाएँ"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 14,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "SP Examination Idea — रसायन विज्ञान कक्षा 12 (अंग्रेज़ी)",
+        "author": "",
+        "publisher": "Science Publications, जयपुर",
+        "purpose": "Primary",
+        "note": "RBSE के लिए #1 reference book। Chapter-wise MCQ, रिक्त स्थान, अति लघु, लघु, दीर्घ — सब हैं। L.L. Agarwal एवं Dr. O.P. Verma।"
+      },
+      {
+        "name": "NCERT रसायन विज्ञान कक्षा 12 (भाग I + II)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "आधार पुस्तक। RBSE पाठ्यक्रम NCERT पर आधारित। सभी examples एवं exercises solve कीजिए।"
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "rajeduboard.rajasthan.gov.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 मिनट रीडिंग टाइम मिलता है — इस समय में सिर्फ़ पेपर पढ़िए, उत्तर लिखना नहीं।"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "set_number_compulsory: True",
+      "reading_time_note: 15 मिनट रीडिंग टाइम में सिर्फ़ पेपर पढ़िए — लिखना नहीं।",
+      "sequence_compulsory: False",
+      "organic_reactions: रासायनिक समीकरण/अभिक्रियाएँ संतुलित करके लिखना ज़रूरी है। असंतुलित समीकरण से अंक कटते हैं।",
+      "no_negative_marking: True",
+      "mcq_attempt_all: कोई negative marking नहीं — खंड A के सभी 37 प्रश्न attempt कीजिए।",
+      "reaction_steps: क्रियाविधि/अभिक्रिया के steps क्रमांकित लिखिए — अगर steps अधूरे हों तो partial अंक मिलते हैं।",
+      "named_reaction_products: Named reactions में सिर्फ़ उत्पाद लिखना या सिर्फ़ नाम लिखना काफ़ी नहीं — दोनों लिखना चाहिए।"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['नीला', 'काला'] pencil_use: सिर्फ़ संरचनाओं/चित्रों के लिए। उत्तर पेन से लिखना ज़रूरी। organic_structure_note: कार्बनिक संरचनाएँ (षट्कोणीय वलय, संरचनात्मक सूत्र) पेंसिल से बनाना बेहतर है — साफ़ दिखती हैं। लेकिन पेन से भी allowed है।"
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "balanced_equations: सभी रासायनिक समीकरण संतुलित कीजिए — असंतुलित लिखने से अंक कटते हैं। iupac_names: IUPAC नाम सही लिखना ज़रूरी — spelling ग़लत हो तो अंक कट सकते हैं। structures: कार्बनिक संरचनाएँ स्पष्ट रूप से बनाइए — ग़लत संरचना = अंक कटेंगे। partial_marking: True partial_marking_note: दीर्घ उत्तरीय में क्रियाविधि आंशिक हो तो जो steps सही हैं उनके अंक मिलेंगे। units_compulsory: संख्यात्मक में सही मात्रक लिखना ज़रूरी — मात्रक missing या ग़लत = 0.5 अंक कट।",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

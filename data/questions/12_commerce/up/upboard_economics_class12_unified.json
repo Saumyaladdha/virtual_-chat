@@ -1,0 +1,1940 @@
+{
+  "board": "UP Board",
+  "class": "12",
+  "subject": "Economics",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 100,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 33,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": true,
+    "extra_time_note": "3 hours 15 minutes total. First 15 minutes reading time only — no writing allowed.",
+    "internal_assessment_note": "Minimum 33 marks out of 100 required to pass."
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 27,
+    "total_questions_to_attempt": 27,
+    "total_objective_questions": 10,
+    "total_sets": 7,
+    "sets_note": "7 sets — 329 JE, 329 JF, 329 JG, 329 JH, 329 JI, 329 JJ, 329 JK",
+    "sets_same_or_different": "",
+    "language_of_attempt": "English or Hindi both allowed. In case of discrepancy, Hindi version is final.",
+    "all_compulsory_note": "Only in Long Answer Type Questions (Q25, Q26, Q27) — each has an OR option.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "UP Board Economics syllabus fully NCERT-based.",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [
+      "NCERT Introductory Microeconomics",
+      "NCERT Introductory Macroeconomics"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "4 types: MCQ, Very Short Answer, Short Answer, Long Answer",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "Multiple Choice Questions (Objective Type)",
+        "question_number": "A",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "10 MCQs, all compulsory. Includes Competency Based Questions (CBQs) — statement-based and assertion-reason types. Write only the correct answer letter in the answer book.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Very Short Answer Type Questions",
+        "question_number": "B",
+        "section": "B",
+        "marks_each": 3,
+        "total_in_paper": 8,
+        "attempt": 8,
+        "negative_marking": false,
+        "how_to_attempt": "8 questions × 3 marks = 24 marks. Some questions split as 1½ + 1½ marks for two-part answers. No internal choice. Definitions, 2-3 key points, differentiation questions.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "About 30-50 words per answer",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer Type Questions",
+        "question_number": "C",
+        "section": "C",
+        "marks_each": 6,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "6 questions × 6 marks = 36 marks. No internal choice. All compulsory. Diagrams required where relevant. Medium to difficult level.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "About 100-150 words per answer",
+        "notes": ""
+      },
+      {
+        "type": "Long Answer Type Questions (Essay Type)",
+        "question_number": "D",
+        "section": "D",
+        "marks_each": 10,
+        "total_in_paper": 3,
+        "attempt": 3,
+        "negative_marking": false,
+        "how_to_attempt": "3 questions × 10 marks = 30 marks. Each has OR option — choose the easier one. Diagrams and explanation required. Medium to difficult level.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "About 250-300 words per answer",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "UP Board Economics Class 12 — 27 questions, 100 marks, 3 hrs 15 min.",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Only Q25-Q27 (Long Answer) have OR.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 30,
+      "medium_percent": 50,
+      "hard_percent": 20,
+      "note": "Medium to Difficult. 7 sets — all at similar level. MCQ was easy to medium; Long Answer was medium to difficult."
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Multiple Choice Questions (Objective Type)",
+        "type": "Multiple Choice Questions (Objective Type)",
+        "question_numbers": "Q1 to Q10",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "10 MCQs, all compulsory. Includes Competency Based Questions (CBQs) — statement-based and assertion-reason types. Write only the correct answer letter in the answer book.",
+        "notes": ""
+      },
+      {
+        "section_id": "B",
+        "name": "Very Short Answer Type Questions",
+        "type": "Very Short Answer Type Questions",
+        "question_numbers": "Q11 to Q18",
+        "total_questions": 8,
+        "total_sub_questions": 0,
+        "attempt_required": 8,
+        "marks_per_question": 3,
+        "total_marks": 24,
+        "word_limit": "About 30-50 words per answer",
+        "breakdown": "8 questions × 3 marks = 24 marks. Some questions split as 1½ + 1½ marks for two-part answers. No internal choice. Definitions, 2-3 key points, differentiation questions.",
+        "notes": ""
+      },
+      {
+        "section_id": "C",
+        "name": "Short Answer Type Questions",
+        "type": "Short Answer Type Questions",
+        "question_numbers": "Q19 to Q24",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 6,
+        "total_marks": 36,
+        "word_limit": "About 100-150 words per answer",
+        "breakdown": "6 questions × 6 marks = 36 marks. No internal choice. All compulsory. Diagrams required where relevant. Medium to difficult level.",
+        "notes": ""
+      },
+      {
+        "section_id": "D",
+        "name": "Long Answer Type Questions (Essay Type)",
+        "type": "Long Answer Type Questions (Essay Type)",
+        "question_numbers": "Q25, Q26, Q27",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "attempt_required": 3,
+        "marks_per_question": 10,
+        "total_marks": 30,
+        "word_limit": "About 250-300 words per answer",
+        "breakdown": "3 questions × 10 marks = 30 marks. Each has OR option — choose the easier one. Diagrams and explanation required. Medium to difficult level.",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 100,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "10 MCQ + 24 VSA + 36 SA + 30 LA = 100",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Multiple Choice Questions (Objective Type)",
+        "question_numbers": "Q1 to Q10",
+        "type": "Multiple Choice Questions (Objective Type)",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "10 MCQs, all compulsory. Includes Competency Based Questions (CBQs) — statement-based and assertion-reason types. Write only the correct answer letter in the answer book."
+      },
+      {
+        "section_id": "B",
+        "name": "Very Short Answer Type Questions",
+        "question_numbers": "Q11 to Q18",
+        "type": "Very Short Answer Type Questions",
+        "total_questions": 8,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 24,
+        "word_limit": "About 30-50 words per answer",
+        "breakdown": "8 questions × 3 marks = 24 marks. Some questions split as 1½ + 1½ marks for two-part answers. No internal choice. Definitions, 2-3 key points, differentiation questions."
+      },
+      {
+        "section_id": "C",
+        "name": "Short Answer Type Questions",
+        "question_numbers": "Q19 to Q24",
+        "type": "Short Answer Type Questions",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 6,
+        "total_marks": 36,
+        "word_limit": "About 100-150 words per answer",
+        "breakdown": "6 questions × 6 marks = 36 marks. No internal choice. All compulsory. Diagrams required where relevant. Medium to difficult level."
+      },
+      {
+        "section_id": "D",
+        "name": "Long Answer Type Questions (Essay Type)",
+        "question_numbers": "Q25, Q26, Q27",
+        "type": "Long Answer Type Questions (Essay Type)",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "marks_per_question": 10,
+        "total_marks": 30,
+        "word_limit": "About 250-300 words per answer",
+        "breakdown": "3 questions × 10 marks = 30 marks. Each has OR option — choose the easier one. Diagrams and explanation required. Medium to difficult level."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "UP Board Economics blueprint: Part A Microeconomics (Ch 1-5) + Part B Macroeconomics (Ch 6-11).",
+    "total_theory_marks": 100,
+    "objective_percent": 10,
+    "subjective_percent": 90,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "2",
+      "name": "Theory of Consumer Behaviour",
+      "marks": 18,
+      "note": "Tied highest with Production and Costs"
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Introduction to Microeconomics",
+        "marks": 4
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Introduction to Microeconomics",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — Unit 1"
+      },
+      {
+        "chapter_id": "2",
+        "name": "Theory of Consumer Behaviour",
+        "marks": 18,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — Unit 2"
+      },
+      {
+        "chapter_id": "3",
+        "name": "Production and Costs",
+        "marks": 18,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — Unit 3"
+      },
+      {
+        "chapter_id": "4",
+        "name": "The Theory of the Firm Under Perfect Competition",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — Unit 4"
+      },
+      {
+        "chapter_id": "5",
+        "name": "Market Equilibrium",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — Unit 4 (continued)"
+      },
+      {
+        "chapter_id": "6",
+        "name": "Introduction to Macroeconomics",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B — Intro Chapter"
+      },
+      {
+        "chapter_id": "7",
+        "name": "National Income Accounting",
+        "marks": 12,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B — Unit 1"
+      },
+      {
+        "chapter_id": "8",
+        "name": "Money and Banking",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B — Unit 2"
+      },
+      {
+        "chapter_id": "9",
+        "name": "Determination of Income and Employment",
+        "marks": 14,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B — Unit 3"
+      },
+      {
+        "chapter_id": "10",
+        "name": "Government Budget and the Economy",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B — Unit 4"
+      },
+      {
+        "chapter_id": "11",
+        "name": "Open Economy Macroeconomics (Balance of Payments)",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B — Unit 5"
+      }
+    ],
+    "totals": {
+      "total_marks": 100,
+      "one_mark_questions": 10,
+      "two_mark_total": 0,
+      "three_mark_total": 24,
+      "four_mark_total": 0,
+      "five_mark_total": 0,
+      "six_mark_total": 36,
+      "ten_mark_total": 30
+    }
+  },
+  "syllabus": {
+    "note": "UP Board Class 12 Economics — 11 chapters (5 Micro + 6 Macro).",
+    "books": [
+      {
+        "book_name": "NCERT Introductory Microeconomics",
+        "category": "Part A",
+        "total_marks": 50,
+        "note": "Ch 1-5: Intro, Consumer, Production, Firm, Market Equilibrium.",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Introduction to Microeconomics",
+            "marks": 4,
+            "topics": [
+              "Meaning of Microeconomics and Macroeconomics",
+              "Positive and Normative Economics",
+              "What is an Economy? Central Problems of an Economy",
+              "What, How and For Whom to Produce",
+              "Production Possibility Frontier (PPF) and Opportunity Cost",
+              "Marginal Opportunity Cost (MOC)"
+            ],
+            "note": "Syllabus unit: Unit 1 | Pages: 9-13"
+          },
+          {
+            "chapter_id": "2",
+            "name": "Theory of Consumer Behaviour",
+            "marks": 18,
+            "topics": [
+              "Utility — Total Utility (TU) and Marginal Utility (MU)",
+              "Law of Diminishing Marginal Utility (DMU)",
+              "Consumer's Equilibrium — Single Commodity and Two Commodities",
+              "Indifference Curve (IC) Analysis — Indifference Set, Map, MRS",
+              "Consumer's Budget — Budget Set and Budget Line",
+              "Demand, Market Demand, Demand Schedule, Demand Curve",
+              "Determinants of Demand, Shifts in Demand Curve",
+              "Price Elasticity of Demand — Measurement, Types, Factors",
+              "Percentage Change Method for Elasticity"
+            ],
+            "note": "Syllabus unit: Unit 2 | Pages: 14-30"
+          },
+          {
+            "chapter_id": "3",
+            "name": "Production and Costs",
+            "marks": 18,
+            "topics": [
+              "Production Function — Short-Run and Long-Run",
+              "Total Product (TP), Average Product (AP), Marginal Product (MP)",
+              "Law of Variable Proportions — 3 Stages",
+              "Returns to Scale — Increasing, Constant, Decreasing",
+              "Cost Concepts: TFC, TVC, TC, AFC, AVC, AC, MC",
+              "Relationship between TC, TVC, TFC",
+              "Relationship between MC and AC",
+              "Revenue — TR, AR, MR and their relationship",
+              "Producer's Equilibrium — MR = MC condition"
+            ],
+            "note": "Syllabus unit: Unit 3 | Pages: 31-43"
+          },
+          {
+            "chapter_id": "4",
+            "name": "The Theory of the Firm Under Perfect Competition",
+            "marks": 10,
+            "topics": [
+              "Forms of Market — Perfect and Imperfect Competition",
+              "Features of Perfect Competition",
+              "Determination of Market Equilibrium — Effects of Shifts in Demand and Supply",
+              "Simple Applications — Price Ceiling (Maximum Price), Price Floor (Minimum Price)"
+            ],
+            "note": "Syllabus unit: Unit 4 | Pages: 43-58"
+          },
+          {
+            "chapter_id": "5",
+            "name": "Market Equilibrium",
+            "marks": 0,
+            "topics": [
+              "Supply — Market Supply, Determinants of Supply, Supply Schedule and Curve",
+              "Price Elasticity of Supply — Measurement, Percentage Change Method",
+              "Equilibrium Price and Quantity",
+              "Shifts in Demand and Supply and their effects"
+            ],
+            "note": "Syllabus unit: Unit 4 (continued) | Pages: 59-66"
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Introductory Macroeconomics",
+        "category": "Part B",
+        "total_marks": 50,
+        "note": "Ch 6-11: Intro Macro, National Income, Money & Banking, Income Determination, Budget, Open Economy.",
+        "chapters": [
+          {
+            "chapter_id": "6",
+            "name": "Introduction to Macroeconomics",
+            "marks": 0,
+            "topics": [
+              "Meaning and Scope of Macroeconomics",
+              "Circular Flow of Income — Two-Sector Model",
+              "Stock and Flow Variables",
+              "Leakages and Injections"
+            ],
+            "note": "Syllabus unit: Intro Chapter | Pages: 69-72"
+          },
+          {
+            "chapter_id": "7",
+            "name": "National Income Accounting",
+            "marks": 12,
+            "topics": [
+              "Basic Concepts: Consumption Goods, Capital Goods, Final Goods, Intermediate Goods",
+              "Stocks and Flows, Gross Investment and Depreciation",
+              "GDP at Market Price (GDP_MP), NDP_MP, GNP_MP, NNP_MP",
+              "GDP at Factor Cost (GDP_FC), NDP_FC, GNP_FC, NNP_FC",
+              "National Income (NNP_FC) and GDP and Welfare",
+              "Methods: Value Added Method (GVA), Income Method, Expenditure Method",
+              "Nominal GDP vs Real GDP",
+              "Net Indirect Tax (NIT), Net Factor Income from Abroad (NFIA)"
+            ],
+            "note": "Syllabus unit: Unit 1 | Pages: 72-86"
+          },
+          {
+            "chapter_id": "8",
+            "name": "Money and Banking",
+            "marks": 8,
+            "topics": [
+              "Money — Meaning and Functions (4 Functions)",
+              "Supply of Money — Currency Held by Public and Net Demand Deposits",
+              "Money Creation by Commercial Banking System",
+              "Central Bank (RBI) and its Functions",
+              "Instruments of Credit Control: Bank Rate, CRR, SLR, Repo Rate, Reverse Repo Rate",
+              "Open Market Operations, Margin Requirement"
+            ],
+            "note": "Syllabus unit: Unit 2 | Pages: 87-95"
+          },
+          {
+            "chapter_id": "9",
+            "name": "Determination of Income and Employment",
+            "marks": 14,
+            "topics": [
+              "Aggregate Demand (AD) and its Components: C + I + G + (X - M)",
+              "Aggregate Supply (AS) = Y = C + S",
+              "Consumption Function — APC and MPC",
+              "Saving Function — APS and MPS",
+              "Short-run Equilibrium Output (AD = AS)",
+              "Investment Multiplier (k = 1/MPS = 1/(1-MPC))",
+              "Excess Demand and Deficient Demand",
+              "Keynesian Theory of Employment",
+              "Meaning of Full Employment and Involuntary Unemployment",
+              "Measures to Correct Excess/Deficient Demand"
+            ],
+            "note": "Syllabus unit: Unit 3 | Pages: 96-107"
+          },
+          {
+            "chapter_id": "10",
+            "name": "Government Budget and the Economy",
+            "marks": 8,
+            "topics": [
+              "Government Budget — Meaning, Objectives and Components",
+              "Revenue Budget and Capital Budget",
+              "Revenue Receipts: Tax Revenue (Direct and Indirect) and Non-Tax Revenue",
+              "Capital Receipts",
+              "Revenue Expenditure and Capital Expenditure",
+              "Types of Budget: Balanced, Surplus, Deficit Budget",
+              "Types of Government Deficit: Revenue Deficit, Fiscal Deficit, Primary Deficit"
+            ],
+            "note": "Syllabus unit: Unit 4 | Pages: 108-116"
+          },
+          {
+            "chapter_id": "11",
+            "name": "Open Economy Macroeconomics (Balance of Payments)",
+            "marks": 8,
+            "topics": [
+              "Balance of Payments (BoP) Account — Meaning and Components",
+              "Current Account and Capital Account",
+              "Autonomous vs Accommodating Items in BoP",
+              "BoP Deficit — Meaning and Causes",
+              "Foreign Exchange Rate — Meaning and Types",
+              "Fixed Exchange Rate System (Gold Standard, Bretton Woods)",
+              "Flexible (Floating) Exchange Rate System",
+              "Managed Floating Exchange Rate",
+              "Demand for and Supply of Foreign Exchange"
+            ],
+            "note": "Syllabus unit: Unit 5 | Pages: 116-125"
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Introduction to Microeconomics",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Microeconomics + Macroeconomics",
+      "unit_id": 1,
+      "unit_name": "Part A: Introductory Microeconomics",
+      "part": "A",
+      "syllabus_unit": "Unit 1",
+      "weightage_marks": 4,
+      "typical_breakdown": "9-13",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Meaning of Microeconomics and Macroeconomics",
+        "Positive and Normative Economics",
+        "What is an Economy? Central Problems of an Economy",
+        "What, How and For Whom to Produce",
+        "Production Possibility Frontier (PPF) and Opportunity Cost",
+        "Marginal Opportunity Cost (MOC)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Theory of Consumer Behaviour",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Microeconomics + Macroeconomics",
+      "unit_id": 2,
+      "unit_name": "Part A: Introductory Microeconomics",
+      "part": "A",
+      "syllabus_unit": "Unit 2",
+      "weightage_marks": 18,
+      "typical_breakdown": "14-30",
+      "difficulty": "Medium",
+      "difficulty_reason": "IC analysis + Elasticity numericals — high weightage, needs practice.",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Utility — Total Utility (TU) and Marginal Utility (MU)",
+        "Law of Diminishing Marginal Utility (DMU)",
+        "Consumer's Equilibrium — Single Commodity and Two Commodities",
+        "Indifference Curve (IC) Analysis — Indifference Set, Map, MRS",
+        "Consumer's Budget — Budget Set and Budget Line",
+        "Demand, Market Demand, Demand Schedule, Demand Curve",
+        "Determinants of Demand, Shifts in Demand Curve",
+        "Price Elasticity of Demand — Measurement, Types, Factors",
+        "Percentage Change Method for Elasticity"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Production and Costs",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Microeconomics + Macroeconomics",
+      "unit_id": 3,
+      "unit_name": "Part A: Introductory Microeconomics",
+      "part": "A",
+      "syllabus_unit": "Unit 3",
+      "weightage_marks": 18,
+      "typical_breakdown": "31-43",
+      "difficulty": "Medium-Difficult",
+      "difficulty_reason": "Cost tables + TP/AP/MP numericals + Law of Variable Proportions diagram.",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Production Function — Short-Run and Long-Run",
+        "Total Product (TP), Average Product (AP), Marginal Product (MP)",
+        "Law of Variable Proportions — 3 Stages",
+        "Returns to Scale — Increasing, Constant, Decreasing",
+        "Cost Concepts: TFC, TVC, TC, AFC, AVC, AC, MC",
+        "Relationship between TC, TVC, TFC",
+        "Relationship between MC and AC",
+        "Revenue — TR, AR, MR and their relationship",
+        "Producer's Equilibrium — MR = MC condition"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "The Theory of the Firm Under Perfect Competition",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Microeconomics + Macroeconomics",
+      "unit_id": 4,
+      "unit_name": "Part A: Introductory Microeconomics",
+      "part": "A",
+      "syllabus_unit": "Unit 4",
+      "weightage_marks": 10,
+      "typical_breakdown": "43-58",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Forms of Market — Perfect and Imperfect Competition",
+        "Features of Perfect Competition",
+        "Determination of Market Equilibrium — Effects of Shifts in Demand and Supply",
+        "Simple Applications — Price Ceiling (Maximum Price), Price Floor (Minimum Price)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Market Equilibrium",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Microeconomics + Macroeconomics",
+      "unit_id": 5,
+      "unit_name": "Part A: Introductory Microeconomics",
+      "part": "A",
+      "syllabus_unit": "Unit 4 (continued)",
+      "weightage_marks": 0,
+      "typical_breakdown": "59-66",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Supply — Market Supply, Determinants of Supply, Supply Schedule and Curve",
+        "Price Elasticity of Supply — Measurement, Percentage Change Method",
+        "Equilibrium Price and Quantity",
+        "Shifts in Demand and Supply and their effects"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Introduction to Macroeconomics",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Microeconomics + Macroeconomics",
+      "unit_id": 1,
+      "unit_name": "Part B: Introductory Macroeconomics",
+      "part": "B",
+      "syllabus_unit": "Intro Chapter",
+      "weightage_marks": 0,
+      "typical_breakdown": "69-72",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Meaning and Scope of Macroeconomics",
+        "Circular Flow of Income — Two-Sector Model",
+        "Stock and Flow Variables",
+        "Leakages and Injections"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "National Income Accounting",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Microeconomics + Macroeconomics",
+      "unit_id": 2,
+      "unit_name": "Part B: Introductory Macroeconomics",
+      "part": "B",
+      "syllabus_unit": "Unit 1",
+      "weightage_marks": 12,
+      "typical_breakdown": "72-86",
+      "difficulty": "Medium-Difficult",
+      "difficulty_reason": "Aggregates (GDP/NDP/GNP/NNP) — formulas must be exact. Numerical questions common.",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Basic Concepts: Consumption Goods, Capital Goods, Final Goods, Intermediate Goods",
+        "Stocks and Flows, Gross Investment and Depreciation",
+        "GDP at Market Price (GDP_MP), NDP_MP, GNP_MP, NNP_MP",
+        "GDP at Factor Cost (GDP_FC), NDP_FC, GNP_FC, NNP_FC",
+        "National Income (NNP_FC) and GDP and Welfare",
+        "Methods: Value Added Method (GVA), Income Method, Expenditure Method",
+        "Nominal GDP vs Real GDP",
+        "Net Indirect Tax (NIT), Net Factor Income from Abroad (NFIA)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Money and Banking",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Microeconomics + Macroeconomics",
+      "unit_id": 3,
+      "unit_name": "Part B: Introductory Macroeconomics",
+      "part": "B",
+      "syllabus_unit": "Unit 2",
+      "weightage_marks": 8,
+      "typical_breakdown": "87-95",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "Functions of money (4) + RBI instruments — straightforward.",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Money — Meaning and Functions (4 Functions)",
+        "Supply of Money — Currency Held by Public and Net Demand Deposits",
+        "Money Creation by Commercial Banking System",
+        "Central Bank (RBI) and its Functions",
+        "Instruments of Credit Control: Bank Rate, CRR, SLR, Repo Rate, Reverse Repo Rate",
+        "Open Market Operations, Margin Requirement"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Determination of Income and Employment",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Microeconomics + Macroeconomics",
+      "unit_id": 4,
+      "unit_name": "Part B: Introductory Macroeconomics",
+      "part": "B",
+      "syllabus_unit": "Unit 3",
+      "weightage_marks": 14,
+      "typical_breakdown": "96-107",
+      "difficulty": "Difficult",
+      "difficulty_reason": "Multiplier, Keynesian theory, AD-AS diagram — highest difficulty but high marks.",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Aggregate Demand (AD) and its Components: C + I + G + (X - M)",
+        "Aggregate Supply (AS) = Y = C + S",
+        "Consumption Function — APC and MPC",
+        "Saving Function — APS and MPS",
+        "Short-run Equilibrium Output (AD = AS)",
+        "Investment Multiplier (k = 1/MPS = 1/(1-MPC))",
+        "Excess Demand and Deficient Demand",
+        "Keynesian Theory of Employment",
+        "Meaning of Full Employment and Involuntary Unemployment",
+        "Measures to Correct Excess/Deficient Demand"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Government Budget and the Economy",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Microeconomics + Macroeconomics",
+      "unit_id": 5,
+      "unit_name": "Part B: Introductory Macroeconomics",
+      "part": "B",
+      "syllabus_unit": "Unit 4",
+      "weightage_marks": 8,
+      "typical_breakdown": "108-116",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Government Budget — Meaning, Objectives and Components",
+        "Revenue Budget and Capital Budget",
+        "Revenue Receipts: Tax Revenue (Direct and Indirect) and Non-Tax Revenue",
+        "Capital Receipts",
+        "Revenue Expenditure and Capital Expenditure",
+        "Types of Budget: Balanced, Surplus, Deficit Budget",
+        "Types of Government Deficit: Revenue Deficit, Fiscal Deficit, Primary Deficit"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Open Economy Macroeconomics (Balance of Payments)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Microeconomics + Macroeconomics",
+      "unit_id": 6,
+      "unit_name": "Part B: Introductory Macroeconomics",
+      "part": "B",
+      "syllabus_unit": "Unit 5",
+      "weightage_marks": 8,
+      "typical_breakdown": "116-125",
+      "difficulty": "Medium",
+      "difficulty_reason": "BoP components + Exchange rate types — conceptual clarity needed.",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Balance of Payments (BoP) Account — Meaning and Components",
+        "Current Account and Capital Account",
+        "Autonomous vs Accommodating Items in BoP",
+        "BoP Deficit — Meaning and Causes",
+        "Foreign Exchange Rate — Meaning and Types",
+        "Fixed Exchange Rate System (Gold Standard, Bretton Woods)",
+        "Flexible (Floating) Exchange Rate System",
+        "Managed Floating Exchange Rate",
+        "Demand for and Supply of Foreign Exchange"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "UP Board Economics Class 12 — 11 chapters (Part A Micro 5 + Part B Macro 6).",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "Ch 2 Consumer + Ch 3 Production + Ch 4 Determination of Income = 50 marks combined. Cannot skip.",
+    "or_questions_note": "OR choice only in Q25-Q27 (LA). Q1-Q24 all compulsory.",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Ch 2 - Theory of Consumer Behaviour (18 marks)",
+      "Ch 3 - Production and Costs (18 marks)",
+      "Ch 7 - National Income Accounting (12 marks)",
+      "Ch 9 - Determination of Income and Employment (14 marks)"
+    ],
+    "chapters_never_skip_reason": "High-weightage chapters (12+ marks) — guaranteed LA questions.",
+    "chapters_with_highest_weightage": [
+      "Ch 2 - Theory of Consumer Behaviour (18 marks)",
+      "Ch 3 - Production and Costs (18 marks)",
+      "Ch 9 - Determination of Income and Employment (14 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "Ch 1 - Introduction to Microeconomics (4 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "Explain the three central problems of an economy. (3 marks, Part A Ch1)",
+      "What is microeconomics? Explain the subject matter of microeconomics. (3 marks, Part A Ch1)",
+      "Define production possibility frontier. Explain its properties. (3 marks, Part A Ch1)",
+      "When price decreases from ₹5 to ₹4 and demand rises from 100 to 110 units, calculate elasticity of demand. (3 marks, Part A Ch2)",
+      "What do you understand by cost? Define total cost, average cost and marginal cost with diagram. (6 marks, Part A Ch3)",
+      "Explain the law of variable proportions with diagram. (10 marks, Part A Ch3)",
+      "What is elasticity of demand? Describe the various factors that affect elasticity of demand. (10 marks, Part A Ch2)",
+      "Describe the various characteristics of perfect competition. (6 marks, Part A Ch4)",
+      "Differentiate between microeconomics and macroeconomics. (10 marks, Part A Ch1)",
+      "Explain the Circular Flow of Income in a two-sector economy. (6 marks, Part B Ch1/Ch2)"
+    ],
+    "chapters_mostly_theory": [],
+    "chapters_mostly_diagram_based": [
+      "Ch 2 Consumer Behaviour (IC analysis)",
+      "Ch 3 Production and Costs (cost curves)",
+      "Ch 4 Firm under Perfect Competition",
+      "Ch 9 Determination of Income (multiplier diagram)"
+    ],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "Ch 2 - Theory of Consumer Behaviour",
+      "Ch 3 - Production and Costs",
+      "Ch 9 - Determination of Income and Employment"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "Ch 2 - Theory of Consumer Behaviour",
+      "Ch 3 - Production and Costs",
+      "Ch 9 - Determination of Income and Employment"
+    ],
+    "chapters_with_numerical": [
+      "Ch 2 - Theory of Consumer Behaviour",
+      "Ch 3 - Production and Costs",
+      "Ch 4 - The Theory of the Firm Under Perfect Competition",
+      "Ch 7 - National Income Accounting",
+      "Ch 8 - Money and Banking",
+      "Ch 9 - Determination of Income and Employment"
+    ],
+    "chapters_guaranteed_numerical": [
+      "Ch 2 - Theory of Consumer Behaviour",
+      "Ch 3 - Production and Costs",
+      "Ch 4 - The Theory of the Firm Under Perfect Competition",
+      "Ch 7 - National Income Accounting",
+      "Ch 8 - Money and Banking",
+      "Ch 9 - Determination of Income and Employment"
+    ],
+    "chapters_no_numerical": [],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Explain the three central problems of an economy.",
+      "What is microeconomics? Explain the subject matter of microeconomics.",
+      "Define production possibility frontier. Explain its properties.",
+      "When price decreases from ₹5 to ₹4 and demand rises from 100 to 110 units, calculate elasticity of demand.",
+      "What do you understand by cost? Define total cost, average cost and marginal cost with diagram.",
+      "Explain the law of variable proportions with diagram.",
+      "What is elasticity of demand? Describe the various factors that affect elasticity of demand.",
+      "Describe the various characteristics of perfect competition.",
+      "Differentiate between microeconomics and macroeconomics.",
+      "Explain the Circular Flow of Income in a two-sector economy.",
+      "Calculate GDP at Market Price and National Income from given data.",
+      "Explain the four functions of money.",
+      "Explain how RBI controls credit in the economy.",
+      "If MPC = 0.8, find MPS and Investment Multiplier. What will be change in income if investment increases by ₹500 crores?",
+      "Describe the Keynesian theory of employment.",
+      "Discuss the working of multiplier in the income generation process of an economy.",
+      "What is government budget? Describe its objectives.",
+      "Differentiate between revenue deficit, fiscal deficit and primary deficit.",
+      "Describe the different components of capital account in balance of payments.",
+      "Explain the meaning of foreign exchange rate. Differentiate between fixed and flexible exchange rate systems."
+    ],
+    "one_mark_question_facts": {
+      "note": "Q1-Q10 = 10 MCQ × 1 mark including CBQ (Statement I/II). No negative marking.",
+      "common_formats": [
+        "MCQ",
+        "CBQ",
+        "Statement-based",
+        "Assertion-Reason"
+      ]
+    },
+    "fast_track_revision": {
+      "key_definitions": {
+        "Economics": "Concerned with the study of economic issues arising because resources are scarce and have alternative uses.",
+        "Microeconomics": "Branch of economics dealing with economic issues at the level of an individual — person, firm, industry.",
+        "Macroeconomics": "Branch of economics dealing with the behaviour of the economy as a whole — national income, employment, price level.",
+        "Positive Economics": "Confined to cause-and-effect relationship — states 'what is'. Based on facts.",
+        "Normative Economics": "Concerned with 'what ought to be'. Passes value judgements. Based on opinions.",
+        "PPF": "Production Possibility Frontier — a curve showing alternative production combinations of two goods with given resources.",
+        "Opportunity Cost": "The cost of the next best alternative forgone when a choice is made.",
+        "MOC": "Marginal Opportunity Cost — MOC = Loss in Good Y / Gain in Good X.",
+        "Utility": "Satisfaction derived from consumption of goods and services.",
+        "Marginal Utility": "Additional utility derived from consumption of one more unit. MU = TU_n – TU_(n-1).",
+        "Consumer's Equilibrium": "State where a consumer maximises satisfaction with given resources.",
+        "Indifference Curve": "Graphical representation of combinations of two commodities giving same level of satisfaction.",
+        "MRS": "Marginal Rate of Substitution — rate at which consumer substitutes one good for another on an IC. MRS = ΔY/ΔX.",
+        "Price Elasticity of Demand": "Degree of responsiveness of quantity demanded to a change in price. E_d = (% ΔQd) / (% ΔP).",
+        "Total Product (TP)": "Sum total of output produced by all units of variable factor. TP = AP × L.",
+        "Marginal Product (MP)": "Addition to TP by employing one more unit of variable factor. MP = TP_n – TP_(n-1).",
+        "GDP_MP": "Market value of all final goods and services produced within domestic territory in a year.",
+        "National Income": "NNP at Factor Cost — sum total of factor incomes earned by normal residents during a year.",
+        "MPC": "Marginal Propensity to Consume = ΔC/ΔY. Always between 0 and 1.",
+        "MPS": "Marginal Propensity to Save = ΔS/ΔY. MPC + MPS = 1.",
+        "Investment Multiplier": "k = 1/MPS = 1/(1–MPC). Shows multiple increase in income due to increase in investment.",
+        "Government Budget": "Annual statement of government's expected receipts and expenditures for the financial year (1 April to 31 March).",
+        "Fiscal Deficit": "Excess of total expenditure over total receipts excluding borrowings. = Borrowings.",
+        "Revenue Deficit": "Excess of revenue expenditure over revenue receipts.",
+        "Primary Deficit": "Fiscal Deficit – Interest Payments.",
+        "Balance of Payments (BoP)": "Systematic record of all economic transactions between residents of a country and rest of the world.",
+        "Foreign Exchange Rate": "Rate at which one unit of domestic currency is exchanged for units of foreign currency."
+      },
+      "important_formulas": {
+        "TU_from_MU": "TU = MU₁ + MU₂ + ... + MUn = ΣMU",
+        "MU_formula": "MU_nth = TU_n – TU_(n-1) = ΔTU/ΔQ",
+        "Consumer_equilibrium_one_good": "MU_x / P_x = MU_M (MU of money)",
+        "Consumer_equilibrium_two_goods": "MU_x / P_x = MU_y / P_y = MU_M",
+        "Budget_line": "M = P_x.Q_x + P_y.Q_y",
+        "Price_elasticity": "E_d = (–) (ΔQ/ΔP) × (P/Q)",
+        "Percentage_change_method": "E_d = (% change in Qty) / (% change in Price)",
+        "MP": "MP = TP_n – TP_(n-1) = ΔTP/ΔL",
+        "AP": "AP = TP / L",
+        "AC": "AC = TC / Q",
+        "MC": "MC = TC_n – TC_(n-1) = ΔTC/ΔQ",
+        "TC": "TC = TFC + TVC",
+        "TR": "TR = Price × Quantity",
+        "MR": "MR = TR_n – TR_(n-1) = ΔTR/ΔQ",
+        "GDP_FC": "GDP_FC = GDP_MP – NIT (Net Indirect Taxes)",
+        "NDP_MP": "NDP_MP = GDP_MP – Depreciation",
+        "GNP_MP": "GNP_MP = GDP_MP + NFIA",
+        "NNP_FC_National_Income": "NNP_FC = GNP_MP – Depreciation – NIT",
+        "Income_method": "NNP_FC = Wages + Rent + Interest + Profit + Mixed Income + NFIA",
+        "Value_added_method": "GVA_MP = Sales + Change in Stock – Intermediate Cost",
+        "Expenditure_method": "GDP_MP = C + I + G + (X – M)",
+        "Consumption_function": "C = f(Y), where C = consumption, Y = income",
+        "AS": "AS = Y = C + S",
+        "AD": "AD = C + I (two-sector), AD = C + I + G + (X-M) (open economy)",
+        "APC": "APC = C/Y",
+        "MPC": "MPC = ΔC/ΔY",
+        "APS": "APS = S/Y",
+        "MPS": "MPS = ΔS/ΔY",
+        "MPC_plus_MPS": "MPC + MPS = 1",
+        "Multiplier": "k = 1/MPS = 1/(1–MPC) = ΔY/ΔI"
+      },
+      "key_facts_for_mcq": {
+        "Father_of_Economics": "Adam Smith",
+        "Father_of_Macroeconomics": "J.M. Keynes",
+        "Originator_of_Macroeconomics": "J.M. Keynes",
+        "Wealth_of_Nations_author": "Adam Smith",
+        "Principles_of_Economics_author": "Marshall",
+        "Welfare_definition_Economics": "Marshall",
+        "Scarcity_definition_Economics": "Robbins",
+        "Money_is_pivot_quote": "Marshall",
+        "General_Theory_author": "J.M. Keynes (1936)",
+        "Elasticity_of_demand_by": "Alfred Marshall",
+        "Indifference_curve_by": "J.R. Hicks and R.G.D. Allen",
+        "PPF_shape": "Concave to origin (MOC increases)",
+        "IC_shape": "Convex to origin (MRS diminishes)",
+        "IC_for_perfect_substitutes": "Straight downward sloping line (MRS constant)",
+        "IC_for_perfect_complements": "L-shaped (right angle) curve",
+        "Perfectly_elastic_demand_curve": "Horizontal line (parallel to X-axis), E_d = infinity",
+        "Perfectly_inelastic_demand_curve": "Vertical line (parallel to Y-axis), E_d = 0",
+        "AR_MR_perfect_competition": "AR = MR = Price (constant, horizontal)",
+        "AR_MR_monopoly": "AR > MR, both downward sloping",
+        "MPC_range": "0 < MPC < 1",
+        "MPS_range": "0 < MPS < 1",
+        "Multiplier_range": "k > 1 (always greater than 1)",
+        "Types_of_unemployment": "Voluntary and Involuntary",
+        "CRR_full_form": "Cash Reserve Ratio",
+        "SLR_full_form": "Statutory Liquidity Ratio",
+        "Repo_rate": "Rate at which RBI lends to commercial banks",
+        "Reverse_Repo_rate": "Rate at which RBI borrows from commercial banks",
+        "Fiscal_deficit_means": "Total Expenditure – Total Receipts excluding Borrowings = Borrowings",
+        "Revenue_deficit_means": "Revenue Expenditure – Revenue Receipts",
+        "Primary_deficit_means": "Fiscal Deficit – Interest Payments",
+        "Current_account_BoP": "Trade in goods and services, unilateral transfers",
+        "Capital_account_BoP": "Foreign investment, loans, banking capital",
+        "National_income_identity_closed": "Y = C + I + G",
+        "National_income_identity_open": "Y = C + I + G + (X–M)",
+        "At_independence_1947": "1 rupee = 2 eight annas = 64 paise (pre-decimal)"
+      }
+    },
+    "numerical_question_bank": {
+      "note": "Numerical questions appear mainly in VSA (3 marks) and SA (6 marks). Key areas: National Income calculations, Elasticity of demand, MPC/MPS, Investment Multiplier, Cost calculations.",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "When the price of a commodity decreases from ₹5 per unit to ₹4 per unit, its demand increases from 100 units to 110 units. Calculate elasticity of demand.",
+          "solution": "Original price (P) = ₹5, New Price (P₁) = ₹4, ΔP = –1\nOriginal demand (Q) = 100, New Demand (Q₁) = 110, ΔQ = 10\nE_d = (–) (ΔQ/ΔP) × (P/Q) = (–) (10/–1) × (5/100) = (–)(–10) × 0.05 = 0.5\nE_d = 0.5 (Less than unitary elastic demand)",
+          "marks": 3,
+          "chapter": "Part A Ch2"
+        },
+        {
+          "q_no": 2,
+          "q": "Following data is related to an economy. Calculate national income. Items: Wages ₹10,000, Rent ₹5,000, Interest ₹500, Dividend ₹3,000, Mixed Income ₹500, Net Factor Income from Abroad ₹1,000 crore.",
+          "solution": "NNP_FC (National Income) = Wages + Rent + Interest + Dividend + Mixed Income + NFIA\n= 10,000 + 5,000 + 500 + 3,000 + 500 + 1,000\n= ₹20,000 crore",
+          "marks": 6,
+          "year": "2024",
+          "chapter": "Part B Ch2"
+        },
+        {
+          "q_no": 3,
+          "q": "If National Income (Y) increases by ₹100 crores and National Consumption (C) increases by ₹80 crores, find: (i) MPC (ii) MPS (iii) Investment Multiplier.",
+          "solution": "MPC = ΔC/ΔY = 80/100 = 0.8\nMPS = 1 – MPC = 1 – 0.8 = 0.2\nInvestment Multiplier (k) = 1/MPS = 1/0.2 = 5",
+          "marks": 3,
+          "year": "2025",
+          "chapter": "Part B Ch4",
+          "imp": true
+        },
+        {
+          "q_no": 4,
+          "q": "From the following data, find TC, TVC, TFC, AFC, AVC, SAC and SMC at each level of output: Q: 3,4,5,6 — TC: 55, 70, 90, 120.",
+          "solution": "TFC is constant. At Q=3, TC=55; at Q=4, TC=70; at Q=5, TC=90; at Q=6, TC=120.\nAssuming TFC=10: TVC = TC – TFC = 45, 60, 80, 110\nAFC = TFC/Q = 3.33, 2.50, 2.0, 1.67\nAVC = TVC/Q = 15, 15, 16, 18.33\nSAC (AC) = TC/Q = 18.33, 17.50, 18, 20\nSMC = TC_n – TC_(n-1) = 15, 20, 30",
+          "marks": 6,
+          "year": "NCERT",
+          "chapter": "Part A Ch3"
+        }
+      ]
+    },
+    "top_20_important_questions": [
+      {
+        "q_no": 1,
+        "question": "Explain the three central problems of an economy.",
+        "marks": 3,
+        "chapter": "Part A Ch1",
+        "important": false
+      },
+      {
+        "q_no": 2,
+        "question": "What is microeconomics? Explain the subject matter of microeconomics.",
+        "marks": 3,
+        "chapter": "Part A Ch1",
+        "important": false
+      },
+      {
+        "q_no": 3,
+        "question": "Define production possibility frontier. Explain its properties.",
+        "marks": 3,
+        "chapter": "Part A Ch1",
+        "important": false
+      },
+      {
+        "q_no": 4,
+        "question": "When price decreases from ₹5 to ₹4 and demand rises from 100 to 110 units, calculate elasticity of demand.",
+        "marks": 3,
+        "chapter": "Part A Ch2",
+        "important": false
+      },
+      {
+        "q_no": 5,
+        "question": "What do you understand by cost? Define total cost, average cost and marginal cost with diagram.",
+        "marks": 6,
+        "chapter": "Part A Ch3",
+        "important": false
+      },
+      {
+        "q_no": 6,
+        "question": "Explain the law of variable proportions with diagram.",
+        "marks": 10,
+        "chapter": "Part A Ch3",
+        "important": true
+      },
+      {
+        "q_no": 7,
+        "question": "What is elasticity of demand? Describe the various factors that affect elasticity of demand.",
+        "marks": 10,
+        "chapter": "Part A Ch2",
+        "important": true
+      },
+      {
+        "q_no": 8,
+        "question": "Describe the various characteristics of perfect competition.",
+        "marks": 6,
+        "chapter": "Part A Ch4",
+        "important": false
+      },
+      {
+        "q_no": 9,
+        "question": "Differentiate between microeconomics and macroeconomics.",
+        "marks": 10,
+        "chapter": "Part A Ch1",
+        "important": false
+      },
+      {
+        "q_no": 10,
+        "question": "Explain the Circular Flow of Income in a two-sector economy.",
+        "marks": 6,
+        "chapter": "Part B Ch1/Ch2",
+        "important": false
+      },
+      {
+        "q_no": 11,
+        "question": "Calculate GDP at Market Price and National Income from given data.",
+        "marks": 6,
+        "chapter": "Part B Ch2",
+        "important": true
+      },
+      {
+        "q_no": 12,
+        "question": "Explain the four functions of money.",
+        "marks": 6,
+        "chapter": "Part B Ch3",
+        "important": false
+      },
+      {
+        "q_no": 13,
+        "question": "Explain how RBI controls credit in the economy.",
+        "marks": 6,
+        "chapter": "Part B Ch3",
+        "important": false
+      },
+      {
+        "q_no": 14,
+        "question": "If MPC = 0.8, find MPS and Investment Multiplier. What will be change in income if investment increases by ₹500 crores?",
+        "marks": 3,
+        "chapter": "Part B Ch4",
+        "important": true
+      },
+      {
+        "q_no": 15,
+        "question": "Describe the Keynesian theory of employment.",
+        "marks": 10,
+        "chapter": "Part B Ch4",
+        "important": true
+      },
+      {
+        "q_no": 16,
+        "question": "Discuss the working of multiplier in the income generation process of an economy.",
+        "marks": 10,
+        "chapter": "Part B Ch4",
+        "important": true
+      },
+      {
+        "q_no": 17,
+        "question": "What is government budget? Describe its objectives.",
+        "marks": 6,
+        "chapter": "Part B Ch5",
+        "important": false
+      },
+      {
+        "q_no": 18,
+        "question": "Differentiate between revenue deficit, fiscal deficit and primary deficit.",
+        "marks": 6,
+        "chapter": "Part B Ch5",
+        "important": false
+      },
+      {
+        "q_no": 19,
+        "question": "Describe the different components of capital account in balance of payments.",
+        "marks": 6,
+        "chapter": "Part B Ch6",
+        "important": false
+      },
+      {
+        "q_no": 20,
+        "question": "Explain the meaning of foreign exchange rate. Differentiate between fixed and flexible exchange rate systems.",
+        "marks": 6,
+        "chapter": "Part B Ch6",
+        "important": false
+      }
+    ],
+    "board_paper_2025_questions": {
+      "note": "Actual questions from UP Board 2025 papers (Set 329 JE). All questions covered in this question bank.",
+      "sets": [
+        "329 JE",
+        "329 JF",
+        "329 JG",
+        "329 JH",
+        "329 JI",
+        "329 JJ"
+      ],
+      "unsolved_paper_page_range": "138-147",
+      "set_329_JE": {
+        "mcq_q1_to_q10": [
+          "Q1. In a centrally planned economy, governments take decisions... Ans: (d)",
+          "Q2. Study on changing employment situation... Ans: (b) dynamic-economics",
+          "Q3. In a planned economy decisions taken by... Ans: (a) government",
+          "Q4. In a mixed economy decisions taken by... Ans: (d) public sector and private sector",
+          "Q5. Principles of Economics written by... Ans: (b) Marshall",
+          "Q6. 'What ought to be?' is subject matter of... Ans: (b) normative economics",
+          "Q7. Statement I and II (private school fees / unjust)... Ans: (c) I = positive, II = normative",
+          "Q8. Positive economics is related to... Ans: (a) facts",
+          "Q9. Money supply increase/price level statement related to... Ans: (b) positive economics",
+          "Q10. Originator of macroeconomics... Ans: (c) JM Keynes"
+        ],
+        "vsa_q11_to_q18": [
+          "Q11. Two indifference curves do not intersect each other. Explain. (3)",
+          "Q12. Differentiate between substitutes and complementary goods. (1½+1½)",
+          "Q13. Explain fixed costs and variable costs. (1½+1½)",
+          "Q14. Three conditions of profit maximisation in short run. (1+1+1)",
+          "Q15. Explain GDP at market price and GDP at factor cost. (1½+1½)",
+          "Q16. What is full employment level of income? (3)",
+          "Q17. Differentiate between revenue receipts and capital receipts. (1½+1½)",
+          "Q18. Factors affecting demand for foreign exchange. (3)"
+        ],
+        "sa_q19_to_q24": [
+          "Q19. MRS between perfect substitutes remains constant — explain with diagram. (6)",
+          "Q20. Relation between MC, AC and TC with diagram. (6)",
+          "Q21. Four functions of money. (6)",
+          "Q22. Characteristics of perfect competition. (6)",
+          "Q23. Different objectives of government budget. (6)",
+          "Q24. Components of capital account in balance of payments. (6)"
+        ],
+        "la_q25_to_q27": [
+          "Q25. Elasticity of demand — factors affecting it. (10) OR National income and public welfare essay.",
+          "Q26. TR, AR, MR relationship with diagram. (10) OR Law of variable proportions with diagram.",
+          "Q27. Keynesian theory of employment. (10) OR Multiplier working in income generation."
+        ]
+      }
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Economics diagrams essential in SA (6M) and LA (10M). Label axes P, Q; curves D, S, IC, MR, MC etc.",
+    "must_practise": [
+      {
+        "chapter_id": "2",
+        "chapter_name": "Theory of Consumer Behaviour",
+        "diagram_name": "Indifference curve + Budget line",
+        "note": "Consumer equilibrium"
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "Theory of Consumer Behaviour",
+        "diagram_name": "Demand curve (downward slope)",
+        "note": "Law of demand"
+      },
+      {
+        "chapter_id": "3",
+        "chapter_name": "Production and Costs",
+        "diagram_name": "TP/AP/MP curves (Law of variable proportions)",
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "chapter_name": "Production and Costs",
+        "diagram_name": "U-shaped AC/MC + AFC hyperbola",
+        "note": "SR cost curves"
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Firm Under Perfect Competition",
+        "diagram_name": "AR=MR horizontal + equilibrium",
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Market Equilibrium",
+        "diagram_name": "D=S intersection + price ceiling/floor",
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "National Income Accounting",
+        "diagram_name": "Circular flow of income",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Determination of Income and Employment",
+        "diagram_name": "AD/AS Keynesian cross + Multiplier",
+        "note": ""
+      },
+      {
+        "chapter_id": "11",
+        "chapter_name": "Open Economy Macroeconomics",
+        "diagram_name": "Exchange rate determination (forex D-S)",
+        "note": ""
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Economics numericals: Elasticity, MPC/MPS, multiplier, national income calculations.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "",
+        "chapter_name": "Part A Ch2",
+        "formulas": [
+          "When the price of a commodity decreases from ₹5 per unit to ₹4 per unit, its demand increases from 100 units to 110 units. Calculate elasticity of demand. — Solution: Original price (P) = ₹5, New Price (P₁) = ₹4, ΔP = –1\nOriginal demand (Q) = 100, New Demand (Q₁) = 110, ΔQ = 10\nE_d = (–) (ΔQ/ΔP) × (P/Q) = (–) (10/–1"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Part B Ch2",
+        "formulas": [
+          "Following data is related to an economy. Calculate national income. Items: Wages ₹10,000, Rent ₹5,000, Interest ₹500, Dividend ₹3,000, Mixed Income ₹500, Net Factor Income from Abroad ₹1,000 crore. — Solution: NNP_FC (National Income) = Wages + Rent + Interest + Dividend + Mixed Income + NFIA\n= 10,000 + 5,000 + 500 + 3,000 + 500 + 1,000\n= ₹20,000 crore"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Part B Ch4",
+        "formulas": [
+          "If National Income (Y) increases by ₹100 crores and National Consumption (C) increases by ₹80 crores, find: (i) MPC (ii) MPS (iii) Investment Multiplier. — Solution: MPC = ΔC/ΔY = 80/100 = 0.8\nMPS = 1 – MPC = 1 – 0.8 = 0.2\nInvestment Multiplier (k) = 1/MPS = 1/0.2 = 5"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Part A Ch3",
+        "formulas": [
+          "From the following data, find TC, TVC, TFC, AFC, AVC, SAC and SMC at each level of output: Q: 3,4,5,6 — TC: 55, 70, 90, 120. — Solution: TFC is constant. At Q=3, TC=55; at Q=4, TC=70; at Q=5, TC=90; at Q=6, TC=120.\nAssuming TFC=10: TVC = TC – TFC = 45, 60, 80, 110\nAFC = TFC/Q = 3.33, 2."
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Economics",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Economics",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "UP Board Economics is theory-only (100 marks).",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium to Difficult",
+    "note": "Medium to Difficult. 7 sets — all at similar level. MCQ was easy to medium; Long Answer was medium to difficult.",
+    "easy_percent": 30,
+    "medium_percent": 50,
+    "hard_percent": 20,
+    "most_scoring_sections": [
+      "MCQ (Q1-Q10)",
+      "VSA (Q11-Q18)"
+    ],
+    "most_difficult_sections": [
+      "LA (Q25-Q27) — depth + quality diagrams"
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "MCQ Q1-Q10 and VSA Q11-Q18 and SA Q19-Q24 are ALL compulsory — do not leave any blank",
+      "Only Q25, Q26, Q27 have OR — choose the easier option during reading time",
+      "In MCQ: CBQ (Statement I/II) questions — read both statements carefully. Usually one is positive, one is normative",
+      "Key MCQ facts to memorise: Father of Economics = Adam Smith; Father of Macroeconomics = Keynes; Elasticity = Marshall; IC Analysis = Hicks and Allen",
+      "For numericqals: MPC + MPS = 1; Multiplier k = 1/MPS; E_d formula = (–)(ΔQ/ΔP)×(P/Q)",
+      "Diagram rules: Always label X-axis, Y-axis, curves (D, S, IC, MR, MC etc.) and equilibrium point. Use a pencil first then trace with pen",
+      "For VSA 1½+1½ type: Give clearly separated 2-point answers. Use keywords the examiner expects",
+      "TR, AR, MR question — explain both under perfect competition AND monopoly for full marks",
+      "National Income numericals: Identify method (income/expenditure/value-added), list formula, substitute step-by-step",
+      "Law of Variable Proportions: Always draw BOTH TP and MP curves and show all 3 stages — examiner checks for this",
+      "Keynesian Theory: Always contrast with Classical theory for better marks. Mention 'effective demand' explicitly",
+      "Balance of Payments: Remember — Remittances by workers abroad = Current Account (NOT Capital Account). Foreign Investment = Capital Account",
+      "Fiscal Deficit = Total Expenditure – (Total Receipts – Borrowings). Primary Deficit = Fiscal Deficit – Interest Payments",
+      "Before submitting: verify roll number on both answer book and map sheets if any"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "Reading_15min",
+        "recommended_minutes": 15,
+        "note": "First 15 minutes — read paper only, do NOT write. Read all 3 Long Answer OR options — decide now which ones are easier."
+      },
+      {
+        "section_id": "MCQ_Q1_Q10_15min",
+        "recommended_minutes": 0,
+        "note": "10 marks. Attempt all 10. Beware CBQ (Statement I/II) type — read both statements carefully before answering."
+      },
+      {
+        "section_id": "VSA_Q11_Q18_30min",
+        "recommended_minutes": 0,
+        "note": "24 marks. All 8 compulsory. Keep to 30-50 words. For 1½+1½ split questions, give 2 separate, clearly labelled points."
+      },
+      {
+        "section_id": "SA_Q19_Q24_50min",
+        "recommended_minutes": 0,
+        "note": "36 marks. All 6 compulsory. Use headings and numbered points. Draw diagrams where required — label all axes, curves and points."
+      },
+      {
+        "section_id": "LA_Q25_Q27_50min",
+        "recommended_minutes": 0,
+        "note": "30 marks. Choose easier OR option. Start each answer with a definition. Include labelled diagrams. Use paragraphs with headings."
+      },
+      {
+        "section_id": "Revision_15min",
+        "recommended_minutes": 0,
+        "note": "Re-check MCQ answers, verify numerical calculations, check diagram labels and spellings."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 33,
+        "strategy": "MCQ (6+) + VSA (12+) + SA (12+) + LA (6+) = 36 marks",
+        "focus_chapters": [],
+        "focus_areas": [
+          "MCQ: Father of Economics, Keynes/Macroeconomics, Normative vs Positive definitions",
+          "VSA: Microeconomics, Central problems, Money functions, MPS calculation",
+          "SA Q22 (Perfect competition) and Q21 (Money functions) — easiest SAs",
+          "LA: Attempt Q25 with elasticity definition and factors — 6-7 marks easy"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "50_to_60",
+        "target_marks": 50,
+        "strategy": "MCQ (8+) + VSA all (20+) + SA (24+) + LA (10+) = 62+ marks",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All VSA with keywords",
+          "SA: Cost diagrams, objectives of budget, BoP components",
+          "LA: Law of variable proportions OR Keynesian theory",
+          "National Income numericals — practice Income Method"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "75_plus",
+        "target_marks": 75,
+        "strategy": "MCQ (9-10) + VSA all (22-24) + SA all (30-36) + LA all (25-30) = 86-100",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Perfect diagrams in SA and LA — extra marks for quality diagrams",
+          "Numericals: All cost table and national income calculations",
+          "LA OR: Choose easier option — Multiplier working OR Elasticity factors",
+          "Revision of all formulas and precise definitions"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [
+      "Ch 1 - Introduction to Microeconomics"
+    ],
+    "highest_roi_chapters": [
+      "Ch 2 - Theory of Consumer Behaviour (18 marks)",
+      "Ch 3 - Production and Costs (18 marks)",
+      "Ch 9 - Determination of Income and Employment (14 marks)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "UP Board Economics is theory-only (no IA/practical).",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Introductory Microeconomics (Class 12)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Part A syllabus entirely based on this. All diagrams, definitions and theory from here. Must read."
+      },
+      {
+        "name": "NCERT Introductory Macroeconomics (Class 12)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Part B syllabus entirely based on this. National income, multiplier, BoP — all from here."
+      },
+      {
+        "name": "Arihant AVTAR Question Bank Economics Class 12 (English, 2025-26)",
+        "author": "",
+        "publisher": "Arihant Prakashan, Meerut",
+        "purpose": "Supplementary",
+        "note": "UP Board 2025-26 syllabus based. Previous year papers 2025-2022. 20 Most Important Questions. 5 Model Papers. Chapter-wise MCQ, VSA, SA, LA questions with answers. CBQ coverage."
+      },
+      {
+        "name": "UP Board Previous Year Papers",
+        "author": "",
+        "publisher": "UPMSP / upmsp.edu.in",
+        "purpose": "Supplementary",
+        "note": "Solve 2025, 2024, 2023, 2022 papers. MCQ and VSA questions repeat frequently across years."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 minutes — read only, no writing. Decide LA OR options during this time.",
+    "reading_time": "15 minutes — read only, no writing. Decide LA OR options during this time.",
+    "diagram_rules": "Label all axes, curves, and equilibrium points clearly. Unlabelled diagrams lose marks.",
+    "passing_criteria": "Minimum 33 out of 100 marks required to pass."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "Internal choice: ONLY Q25, Q26 and Q27 have OR choice. Q1-Q24 are all compulsory.",
+      "Diagrams: Label all axes, curves, and equilibrium points clearly. Unlabelled diagrams lose marks.",
+      "Passing: Minimum 33 out of 100 marks required to pass."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Blue or Black pen only. Pencil only for diagrams — trace with pen after."
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "Label all axes, curves, and equilibrium points clearly. Unlabelled diagrams lose marks.",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

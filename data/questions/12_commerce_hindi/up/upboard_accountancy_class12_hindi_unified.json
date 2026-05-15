@@ -1,0 +1,3110 @@
+{
+  "board": "UP Board",
+  "class": "12",
+  "subject": "लेखाशास्त्र (Accountancy)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 100,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 33,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": false,
+    "extra_time_note": "3 घंटे 15 मिनट। शुरू के 15 मिनट: केवल रीडिंग टाइम — लिखना मना।",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 30,
+    "total_questions_to_attempt": 30,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "हिंदी या अंग्रेज़ी — दोनों में attempt कर सकते हैं। किसी विसंगति की स्थिति में हिंदी संस्करण अंतिम होगा।",
+    "all_compulsory_note": "दीर्घ उत्तरीय प्रश्नों (प्रश्न 27-30) में 'अथवा' विकल्प। कुछ SA प्रश्नों में भी 'अथवा' हो सकता है।",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "",
+    "new_pattern_note": "",
+    "types": []
+  },
+  "paper_pattern": {
+    "note": "",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "दीर्घ उत्तरीय प्रश्नों (प्रश्न 27-30) में 'अथवा' विकल्प। कुछ SA प्रश्नों में भी 'अथवा' हो सकता है।",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 0,
+      "medium_percent": 0,
+      "hard_percent": 0,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "section_mcq",
+        "name": "बहुविकल्पीय प्रश्न",
+        "type": "बहुविकल्पीय प्रश्न",
+        "question_numbers": "प्रश्न 1 से 10",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "10 MCQs, सभी अनिवार्य। संख्यात्मक MCQs (ख्याति गणना, अनुपात आदि) एवं CBQ प्रकार शामिल। सरल से मध्यम।",
+        "notes": "10 MCQs, सभी अनिवार्य। संख्यात्मक MCQs (ख्याति गणना, अनुपात आदि) एवं CBQ प्रकार शामिल। सरल से मध्यम।"
+      },
+      {
+        "section_id": "section_vsa",
+        "name": "अति लघु उत्तरीय प्रश्न",
+        "type": "अति लघु उत्तरीय प्रश्न",
+        "question_numbers": "प्रश्न 11 से 20",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "30 शब्द",
+        "breakdown": "10 प्रश्न × 2 अंक = 20 अंक। सभी अनिवार्य। छोटी परिभाषाएँ, 2 विशेषताएँ, या एक छोटी व्याख्या। सरल से मध्यम।",
+        "notes": "10 प्रश्न × 2 अंक = 20 अंक। सभी अनिवार्य। छोटी परिभाषाएँ, 2 विशेषताएँ, या एक छोटी व्याख्या। सरल से मध्यम।"
+      },
+      {
+        "section_id": "section_sa",
+        "name": "लघु उत्तरीय प्रश्न",
+        "type": "लघु उत्तरीय प्रश्न",
+        "question_numbers": "प्रश्न 21 से 26",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 5,
+        "total_marks": 30,
+        "word_limit": "100 शब्द",
+        "breakdown": "6 प्रश्न × 5 अंक = 30 अंक। छोटे संख्यात्मक या परिभाषाएँ शामिल। कुछ में अंक 3+2, 2+3, 4+1 के रूप में बँटे होते हैं।",
+        "notes": "6 प्रश्न × 5 अंक = 30 अंक। छोटे संख्यात्मक या परिभाषाएँ शामिल। कुछ में अंक 3+2, 2+3, 4+1 के रूप में बँटे होते हैं।"
+      },
+      {
+        "section_id": "section_la",
+        "name": "दीर्घ उत्तरीय प्रश्न",
+        "type": "दीर्घ उत्तरीय प्रश्न",
+        "question_numbers": "प्रश्न 27 से 30",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 10,
+        "total_marks": 40,
+        "word_limit": "",
+        "breakdown": "4 प्रश्न × 10 अंक = 40 अंक। प्रत्येक में 'अथवा' विकल्प। अधिकतर संख्यात्मक (जर्नल प्रविष्टियाँ, खाता-बही, अनुपात गणना, रोकड़ प्रवाह विवरण)। कुछ में अंक 4+6, 3+7, 5+5 के रूप में।",
+        "notes": "4 प्रश्न × 10 अंक = 40 अंक। प्रत्येक में 'अथवा' विकल्प। अधिकतर संख्यात्मक (जर्नल प्रविष्टियाँ, खाता-बही, अनुपात गणना, रोकड़ प्रवाह विवरण)। कुछ में अंक 4+6, 3+7, 5+5 के रूप में।"
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 100,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "section_mcq",
+        "name": "बहुविकल्पीय प्रश्न",
+        "question_numbers": "प्रश्न 1 से 10",
+        "type": "बहुविकल्पीय प्रश्न",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "10 MCQs, सभी अनिवार्य। संख्यात्मक MCQs (ख्याति गणना, अनुपात आदि) एवं CBQ प्रकार शामिल। सरल से मध्यम।"
+      },
+      {
+        "section_id": "section_vsa",
+        "name": "अति लघु उत्तरीय प्रश्न",
+        "question_numbers": "प्रश्न 11 से 20",
+        "type": "अति लघु उत्तरीय प्रश्न",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "30 शब्द",
+        "breakdown": "10 प्रश्न × 2 अंक = 20 अंक। सभी अनिवार्य। छोटी परिभाषाएँ, 2 विशेषताएँ, या एक छोटी व्याख्या। सरल से मध्यम।"
+      },
+      {
+        "section_id": "section_sa",
+        "name": "लघु उत्तरीय प्रश्न",
+        "question_numbers": "प्रश्न 21 से 26",
+        "type": "लघु उत्तरीय प्रश्न",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 5,
+        "total_marks": 30,
+        "word_limit": "100 शब्द",
+        "breakdown": "6 प्रश्न × 5 अंक = 30 अंक। छोटे संख्यात्मक या परिभाषाएँ शामिल। कुछ में अंक 3+2, 2+3, 4+1 के रूप में बँटे होते हैं।"
+      },
+      {
+        "section_id": "section_la",
+        "name": "दीर्घ उत्तरीय प्रश्न",
+        "question_numbers": "प्रश्न 27 से 30",
+        "type": "दीर्घ उत्तरीय प्रश्न",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 10,
+        "total_marks": 40,
+        "word_limit": "",
+        "breakdown": "4 प्रश्न × 10 अंक = 40 अंक। प्रत्येक में 'अथवा' विकल्प। अधिकतर संख्यात्मक (जर्नल प्रविष्टियाँ, खाता-बही, अनुपात गणना, रोकड़ प्रवाह विवरण)। कुछ में अंक 4+6, 3+7, 5+5 के रूप में।"
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 100,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "2",
+      "name": "साझेदारी फ़र्म का पुनर्गठन: साझेदार का प्रवेश (Reconstitution: Admission of a Partner)",
+      "marks": 13,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "साझेदारी का लेखांकन: आधारभूत अवधारणाएँ (Accounting for Partnership: Basic Concepts)",
+        "marks": 6
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "साझेदारी का लेखांकन: आधारभूत अवधारणाएँ (Accounting for Partnership: Basic Concepts)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: साझेदारी लेखे (Partnership Accounts)"
+      },
+      {
+        "chapter_id": "2",
+        "name": "साझेदारी फ़र्म का पुनर्गठन: साझेदार का प्रवेश (Reconstitution: Admission of a Partner)",
+        "marks": 13,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: साझेदारी लेखे (Partnership Accounts)"
+      },
+      {
+        "chapter_id": "3",
+        "name": "साझेदारी फ़र्म का पुनर्गठन: साझेदार की अवकाश-प्राप्ति/मृत्यु (Retirement/Death of a Partner)",
+        "marks": 13,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: साझेदारी लेखे (Partnership Accounts)"
+      },
+      {
+        "chapter_id": "4",
+        "name": "साझेदारी फ़र्म का विघटन (Dissolution of Partnership Firm)",
+        "marks": 13,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: साझेदारी लेखे (Partnership Accounts)"
+      },
+      {
+        "chapter_id": "5",
+        "name": "अंश पूँजी का लेखांकन (Accounting for Share Capital)",
+        "marks": 13,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग B: कंपनी लेखे एवं वित्तीय विवरणों का विश्लेषण (Company Accounts and Analysis of Financial Statements)"
+      },
+      {
+        "chapter_id": "6",
+        "name": "ऋणपत्रों का लेखांकन (Accounting for Debentures)",
+        "marks": 12,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग B: कंपनी लेखे एवं वित्तीय विवरणों का विश्लेषण (Company Accounts and Analysis of Financial Statements)"
+      },
+      {
+        "chapter_id": "7",
+        "name": "कंपनी के वित्तीय विवरण (Financial Statements of a Company)",
+        "marks": 12,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग B: कंपनी लेखे एवं वित्तीय विवरणों का विश्लेषण (Company Accounts and Analysis of Financial Statements)"
+      },
+      {
+        "chapter_id": "8",
+        "name": "लेखांकन अनुपात (Accounting Ratios)",
+        "marks": 9,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग B: कंपनी लेखे एवं वित्तीय विवरणों का विश्लेषण (Company Accounts and Analysis of Financial Statements)"
+      },
+      {
+        "chapter_id": "9",
+        "name": "रोकड़ प्रवाह विवरण (Cash Flow Statement)",
+        "marks": 9,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग B: कंपनी लेखे एवं वित्तीय विवरणों का विश्लेषण (Company Accounts and Analysis of Financial Statements)"
+      }
+    ],
+    "totals": {
+      "total_marks": 100,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Accountancy Class 12 — 9 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Accountancy — भाग A: साझेदारी लेखे (Partnership Accounts)",
+        "category": "भाग A: साझेदारी लेखे (Partnership Accounts)",
+        "total_marks": 45,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "साझेदारी का लेखांकन: आधारभूत अवधारणाएँ (Accounting for Partnership: Basic Concepts)",
+            "marks": 6,
+            "topics": [
+              "साझेदारी की प्रकृति — धारा 4, भारतीय साझेदारी अधिनियम 1932",
+              "साझेदारी की आवश्यक विशेषताएँ (6 विशेषताएँ)",
+              "साझेदारी संलेख — अर्थ, विषय-वस्तु (17 बिंदु)",
+              "साझेदारी संलेख के अभाव में भारतीय साझेदारी अधिनियम 1932 के प्रावधान",
+              "साझेदारी लेखों के विशेष पहलू",
+              "पूँजी खातों का रख-रखाव: स्थिर पूँजी विधि बनाम परिवर्तनशील पूँजी विधि",
+              "साझेदारों का पूँजी खाता एवं चालू खाता प्रारूप",
+              "लाभ-हानि विनियोग खाते के माध्यम से लाभ का विभाजन",
+              "पूँजी पर ब्याज: ब्याज = पूँजी × दर/100 × समय",
+              "आहरण पर ब्याज — साधारण विधि, गुणनफल विधि",
+              "आहरण की औसत अवधि हेतु क्विक व्यू तालिका",
+              "किसी साझेदार को लाभ की गारंटी",
+              "पूर्व समायोजन (लाभ-विभाजन में त्रुटियाँ)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "साझेदारी फ़र्म का पुनर्गठन: साझेदार का प्रवेश (Reconstitution: Admission of a Partner)",
+            "marks": 13,
+            "topics": [
+              "पुनर्गठन — अर्थ, तरीक़े",
+              "लाभ-विभाजन अनुपात में परिवर्तन — त्याग अनुपात = पुराना भाग – नया भाग",
+              "साझेदार का प्रवेश — अधिकार जो प्राप्त होते हैं",
+              "नया लाभ-विभाजन अनुपात = पुराना भाग – त्याग भाग",
+              "ख्याति — प्रकृति, प्रभावी तत्व, मूल्यांकन की आवश्यकता",
+              "मूल्यांकन की विधियाँ: औसत लाभ विधि, अधिलाभ विधि, पूँजीकरण विधि",
+              "प्रवेश पर ख्याति का व्यवहार — स्थिति I, II, III",
+              "छिपी हुई ख्याति (Hidden Goodwill) की गणना",
+              "पुनर्मूल्यांकन खाता (नाम-मात्र खाता) — पुनर्मूल्यांकन लाभ/हानि का व्यवहार",
+              "संचित लाभ एवं हानि का समायोजन",
+              "परिसंपत्तियों का पुनर्मूल्यांकन एवं दायित्वों का पुनर्निर्धारण",
+              "प्रवेश पर पूँजी का समायोजन",
+              "वर्तमान साझेदारों के लाभ-विभाजन अनुपात में परिवर्तन"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "साझेदारी फ़र्म का पुनर्गठन: साझेदार की अवकाश-प्राप्ति/मृत्यु (Retirement/Death of a Partner)",
+            "marks": 13,
+            "topics": [
+              "साझेदार की अवकाश-प्राप्ति — अर्थ, दायित्व",
+              "अवकाश-प्राप्ति पर नया लाभ-विभाजन अनुपात = पुराना भाग + प्राप्त लाभ भाग",
+              "लाभ अनुपात (Gaining Ratio) = नया भाग – पुराना भाग",
+              "अवकाश-प्राप्ति पर ख्याति का व्यवहार",
+              "अवकाश-प्राप्ति पर छिपी हुई ख्याति",
+              "अवकाश-प्राप्ति पर परिसंपत्तियों एवं दायित्वों का पुनर्मूल्यांकन",
+              "संचित लाभ एवं हानि का समायोजन",
+              "अवकाश-प्राप्त साझेदार के बकाया का निपटान",
+              "साझेदारों की पूँजी का समायोजन",
+              "साझेदार की मृत्यु — वैधानिक उत्तराधिकारी को देय राशि",
+              "जब साझेदार वर्ष के बीच में अवकाश लेता है"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "साझेदारी फ़र्म का विघटन (Dissolution of Partnership Firm)",
+            "marks": 13,
+            "topics": [
+              "साझेदारी का विघटन बनाम फ़र्म का विघटन",
+              "विधियाँ: न्यायालय के आदेश के बिना विघटन (धारा 40-43), न्यायालय द्वारा विघटन (धारा 44)",
+              "खातों का निपटान: धारा 48 — हानि का व्यवहार, परिसंपत्तियों का उपयोग",
+              "वसूली खाता (Realisation A/c) — अर्थ, प्रारूप, उद्देश्य",
+              "साझेदार के ऋण खाते का व्यवहार",
+              "विघटन पर रोकड़/बैंक खाता",
+              "फ़र्म के विघटन की प्रक्रिया (चरण-दर-चरण)"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Accountancy — भाग B: कंपनी लेखे एवं वित्तीय विवरणों का विश्लेषण (Company Accounts and Analysis of Financial Statements)",
+        "category": "भाग B: कंपनी लेखे एवं वित्तीय विवरणों का विश्लेषण (Company Accounts and Analysis of Financial Statements)",
+        "total_marks": 55,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "5",
+            "name": "अंश पूँजी का लेखांकन (Accounting for Share Capital)",
+            "marks": 13,
+            "topics": [
+              "कंपनी — विशेषताएँ, प्रकार (निजी, सार्वजनिक, एक व्यक्ति कंपनी)",
+              "अंश (Share) — प्रकृति, वर्गीकरण (पूर्वाधिकार अंश, साधारण/इक्विटी अंश)",
+              "अंश पूँजी का वर्गीकरण: अधिकृत, अभिदत्त, निर्गमित, याचित, प्रदत्त, अयाचित, रिज़र्व पूँजी",
+              "अंशों का निर्गमन — सममूल्य पर, प्रीमियम पर, छूट पर",
+              "लेखांकन व्यवहार: अंश आवेदन, आबंटन, याचना",
+              "अति-अभिदान (Oversubscription) एवं न्यून-अभिदान (Undersubscription)",
+              "बकाया याचना (Calls in Arrears) एवं पेशगी याचना (Calls in Advance)",
+              "नक़द के अतिरिक्त अन्य प्रतिफल पर अंशों का निर्गमन",
+              "अंशों का हरण (Forfeiture) — जर्नल प्रविष्टियाँ",
+              "हरित अंशों का पुनर्निर्गमन — जर्नल प्रविष्टियाँ",
+              "न्यूनतम अभिदान = संपूर्ण निर्गमन का 90% (SEBI दिशानिर्देश)",
+              "न्यूनतम अंश आवेदन राशि = अंकित मूल्य का 5%",
+              "प्रतिभूति प्रीमियम संचिति (Securities Premium Reserve) — व्यवहार"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "ऋणपत्रों का लेखांकन (Accounting for Debentures)",
+            "marks": 12,
+            "topics": [
+              "ऋणपत्र (Debenture) — अर्थ, परिभाषा (अनुसूची III, कंपनी अधिनियम 2013)",
+              "प्रकार: सुरक्षा के आधार पर (सुरक्षित/बंधक, असुरक्षित/नग्न), अवधि के आधार पर (शोध्य, अशोध्य), पंजीकरण के आधार पर (पंजीकृत, वाहक), परिवर्तनीयता के आधार पर, कूपन दर के आधार पर",
+              "सममूल्य, प्रीमियम, छूट पर निर्गमन",
+              "नक़द के लिए निर्गमन — सामान्य एवं अति-अभिदान",
+              "नक़द के अतिरिक्त अन्य प्रतिफल पर निर्गमन",
+              "संपार्श्विक प्रतिभूति के रूप में निर्गमन — Debenture Suspense खाता",
+              "ऋणपत्र निर्गमन की शर्तें एवं ब्याज",
+              "निर्गमन पर छूट/हानि का लेखांकन व्यवहार",
+              "निर्गमन पर छूट का अपलेखन",
+              "ऋणपत्रधारक: निश्चित दर पर ब्याज का अधिकारी (लाभांश नहीं, मतदान का अधिकार नहीं)",
+              "शून्य कूपन बॉण्ड — शून्य ब्याज दर पर निर्गमित"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "कंपनी के वित्तीय विवरण (Financial Statements of a Company)",
+            "marks": 12,
+            "topics": [
+              "वित्तीय विवरणों का अर्थ एवं प्रकृति",
+              "वित्तीय विवरणों के उद्देश्य (7 उद्देश्य)",
+              "वित्तीय विवरणों की सीमाएँ",
+              "तुलन-पत्र प्रारूप — अनुसूची III, कंपनी अधिनियम 2013",
+              "इक्विटी एवं दायित्व पक्ष: अंशधारी कोष, अंश आवेदन राशि, गैर-चालू दायित्व, चालू दायित्व",
+              "परिसंपत्ति पक्ष: गैर-चालू परिसंपत्तियाँ (स्थिर परिसंपत्तियाँ, निवेश, ऋण एवं अग्रिम), चालू परिसंपत्तियाँ",
+              "लाभ-हानि विवरण प्रारूप",
+              "संचिति एवं आधिक्य का वर्गीकरण (8 शीर्षक)",
+              "शुद्ध लाभ बनाम विभाज्य लाभ",
+              "कंपनी का तुलन-पत्र बनाम फ़र्म का तुलन-पत्र"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "लेखांकन अनुपात (Accounting Ratios)",
+            "marks": 9,
+            "topics": [
+              "अनुपात विश्लेषण — अर्थ, उद्देश्य (5), लाभ (5), सीमाएँ (5)",
+              "अनुपात विश्लेषण के जनक: बेंजामिन ग्राहम",
+              "अनुपातों के प्रकार: तरलता, शोधक्षमता, क्रियाशीलता/आवर्तन, लाभदायकता",
+              "I. तरलता अनुपात: चालू अनुपात (आदर्श 2:1), तरल/त्वरित अनुपात (आदर्श 1:1)",
+              "II. शोधक्षमता अनुपात: ऋण-इक्विटी, नियोजित पूँजी से ऋण, स्वामित्व, कुल परिसंपत्तियों से ऋण, ब्याज कवरेज",
+              "III. क्रियाशीलता अनुपात: स्टॉक आवर्तन, व्यापारिक प्राप्य आवर्तन, व्यापारिक देय आवर्तन, कार्यशील पूँजी आवर्तन, शुद्ध परिसंपत्ति/नियोजित पूँजी आवर्तन",
+              "IV. लाभदायकता अनुपात: सकल लाभ, प्रचालन अनुपात, प्रचालन लाभ, शुद्ध लाभ, विनियोजित पूँजी पर प्रतिफल, अंशधारी कोष पर प्रतिफल, EPS, प्रति अंश बुक वैल्यू, लाभांश अदायगी, मूल्य-आय अनुपात"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "रोकड़ प्रवाह विवरण (Cash Flow Statement)",
+            "marks": 9,
+            "topics": [
+              "रोकड़ प्रवाह विवरण का अर्थ",
+              "रोकड़ प्रवाह विवरण के उद्देश्य (3) एवं लाभ (6)",
+              "रोकड़ प्रवाह विवरण की सीमाएँ (8)",
+              "रोकड़ एवं रोकड़ तुल्य (AS-3 परिभाषा)",
+              "क्रियाओं का वर्गीकरण: प्रचालन, विनियोजन, वित्तपोषण",
+              "प्रत्येक क्रिया से रोकड़ अंतर्वाह एवं बहिर्वाह",
+              "प्रचालन क्रियाओं के लिए अप्रत्यक्ष विधि — शुद्ध लाभ में समायोजन",
+              "प्रत्यक्ष विधि (संक्षेप में)",
+              "विशिष्ट मदों का व्यवहार: कर का भुगतान, ब्याज, लाभांश",
+              "रोकड़ प्रवाह विवरण की तैयारी"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "साझेदारी का लेखांकन: आधारभूत अवधारणाएँ (Accounting for Partnership: Basic Concepts)",
+      "unit_or_chapter": "chapter",
+      "book": "लेखाशास्त्र (Accountancy)",
+      "unit_id": 1,
+      "unit_name": "साझेदारी का लेखांकन: आधारभूत अवधारणाएँ (Accounting for Partnership: Basic Concepts)",
+      "part": "भाग A: साझेदारी लेखे (Partnership Accounts)",
+      "weightage_marks": 6,
+      "typical_breakdown": "7-17",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "साझेदारी की प्रकृति — धारा 4, भारतीय साझेदारी अधिनियम 1932",
+        "साझेदारी की आवश्यक विशेषताएँ (6 विशेषताएँ)",
+        "साझेदारी संलेख — अर्थ, विषय-वस्तु (17 बिंदु)",
+        "साझेदारी संलेख के अभाव में भारतीय साझेदारी अधिनियम 1932 के प्रावधान",
+        "साझेदारी लेखों के विशेष पहलू",
+        "पूँजी खातों का रख-रखाव: स्थिर पूँजी विधि बनाम परिवर्तनशील पूँजी विधि",
+        "साझेदारों का पूँजी खाता एवं चालू खाता प्रारूप",
+        "लाभ-हानि विनियोग खाते के माध्यम से लाभ का विभाजन",
+        "पूँजी पर ब्याज: ब्याज = पूँजी × दर/100 × समय",
+        "आहरण पर ब्याज — साधारण विधि, गुणनफल विधि",
+        "आहरण की औसत अवधि हेतु क्विक व्यू तालिका",
+        "किसी साझेदार को लाभ की गारंटी",
+        "पूर्व समायोजन (लाभ-विभाजन में त्रुटियाँ)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "साझेदारी फ़र्म का पुनर्गठन: साझेदार का प्रवेश (Reconstitution: Admission of a Partner)",
+      "unit_or_chapter": "chapter",
+      "book": "लेखाशास्त्र (Accountancy)",
+      "unit_id": 2,
+      "unit_name": "साझेदारी फ़र्म का पुनर्गठन: साझेदार का प्रवेश (Reconstitution: Admission of a Partner)",
+      "part": "भाग A: साझेदारी लेखे (Partnership Accounts)",
+      "weightage_marks": 13,
+      "typical_breakdown": "18-37",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "पुनर्गठन — अर्थ, तरीक़े",
+        "लाभ-विभाजन अनुपात में परिवर्तन — त्याग अनुपात = पुराना भाग – नया भाग",
+        "साझेदार का प्रवेश — अधिकार जो प्राप्त होते हैं",
+        "नया लाभ-विभाजन अनुपात = पुराना भाग – त्याग भाग",
+        "ख्याति — प्रकृति, प्रभावी तत्व, मूल्यांकन की आवश्यकता",
+        "मूल्यांकन की विधियाँ: औसत लाभ विधि, अधिलाभ विधि, पूँजीकरण विधि",
+        "प्रवेश पर ख्याति का व्यवहार — स्थिति I, II, III",
+        "छिपी हुई ख्याति (Hidden Goodwill) की गणना",
+        "पुनर्मूल्यांकन खाता (नाम-मात्र खाता) — पुनर्मूल्यांकन लाभ/हानि का व्यवहार",
+        "संचित लाभ एवं हानि का समायोजन",
+        "परिसंपत्तियों का पुनर्मूल्यांकन एवं दायित्वों का पुनर्निर्धारण",
+        "प्रवेश पर पूँजी का समायोजन",
+        "वर्तमान साझेदारों के लाभ-विभाजन अनुपात में परिवर्तन"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "साझेदारी फ़र्म का पुनर्गठन: साझेदार की अवकाश-प्राप्ति/मृत्यु (Retirement/Death of a Partner)",
+      "unit_or_chapter": "chapter",
+      "book": "लेखाशास्त्र (Accountancy)",
+      "unit_id": 3,
+      "unit_name": "साझेदारी फ़र्म का पुनर्गठन: साझेदार की अवकाश-प्राप्ति/मृत्यु (Retirement/Death of a Partner)",
+      "part": "भाग A: साझेदारी लेखे (Partnership Accounts)",
+      "weightage_marks": 13,
+      "typical_breakdown": "37-54",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "साझेदार की अवकाश-प्राप्ति — अर्थ, दायित्व",
+        "अवकाश-प्राप्ति पर नया लाभ-विभाजन अनुपात = पुराना भाग + प्राप्त लाभ भाग",
+        "लाभ अनुपात (Gaining Ratio) = नया भाग – पुराना भाग",
+        "अवकाश-प्राप्ति पर ख्याति का व्यवहार",
+        "अवकाश-प्राप्ति पर छिपी हुई ख्याति",
+        "अवकाश-प्राप्ति पर परिसंपत्तियों एवं दायित्वों का पुनर्मूल्यांकन",
+        "संचित लाभ एवं हानि का समायोजन",
+        "अवकाश-प्राप्त साझेदार के बकाया का निपटान",
+        "साझेदारों की पूँजी का समायोजन",
+        "साझेदार की मृत्यु — वैधानिक उत्तराधिकारी को देय राशि",
+        "जब साझेदार वर्ष के बीच में अवकाश लेता है"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "साझेदारी फ़र्म का विघटन (Dissolution of Partnership Firm)",
+      "unit_or_chapter": "chapter",
+      "book": "लेखाशास्त्र (Accountancy)",
+      "unit_id": 4,
+      "unit_name": "साझेदारी फ़र्म का विघटन (Dissolution of Partnership Firm)",
+      "part": "भाग A: साझेदारी लेखे (Partnership Accounts)",
+      "weightage_marks": 13,
+      "typical_breakdown": "54-64",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "साझेदारी का विघटन बनाम फ़र्म का विघटन",
+        "विधियाँ: न्यायालय के आदेश के बिना विघटन (धारा 40-43), न्यायालय द्वारा विघटन (धारा 44)",
+        "खातों का निपटान: धारा 48 — हानि का व्यवहार, परिसंपत्तियों का उपयोग",
+        "वसूली खाता (Realisation A/c) — अर्थ, प्रारूप, उद्देश्य",
+        "साझेदार के ऋण खाते का व्यवहार",
+        "विघटन पर रोकड़/बैंक खाता",
+        "फ़र्म के विघटन की प्रक्रिया (चरण-दर-चरण)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "अंश पूँजी का लेखांकन (Accounting for Share Capital)",
+      "unit_or_chapter": "chapter",
+      "book": "लेखाशास्त्र (Accountancy)",
+      "unit_id": 5,
+      "unit_name": "अंश पूँजी का लेखांकन (Accounting for Share Capital)",
+      "part": "भाग B: कंपनी लेखे एवं वित्तीय विवरणों का विश्लेषण (Company Accounts and Analysis of Financial Statements)",
+      "weightage_marks": 13,
+      "typical_breakdown": "65-81",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "कंपनी — विशेषताएँ, प्रकार (निजी, सार्वजनिक, एक व्यक्ति कंपनी)",
+        "अंश (Share) — प्रकृति, वर्गीकरण (पूर्वाधिकार अंश, साधारण/इक्विटी अंश)",
+        "अंश पूँजी का वर्गीकरण: अधिकृत, अभिदत्त, निर्गमित, याचित, प्रदत्त, अयाचित, रिज़र्व पूँजी",
+        "अंशों का निर्गमन — सममूल्य पर, प्रीमियम पर, छूट पर",
+        "लेखांकन व्यवहार: अंश आवेदन, आबंटन, याचना",
+        "अति-अभिदान (Oversubscription) एवं न्यून-अभिदान (Undersubscription)",
+        "बकाया याचना (Calls in Arrears) एवं पेशगी याचना (Calls in Advance)",
+        "नक़द के अतिरिक्त अन्य प्रतिफल पर अंशों का निर्गमन",
+        "अंशों का हरण (Forfeiture) — जर्नल प्रविष्टियाँ",
+        "हरित अंशों का पुनर्निर्गमन — जर्नल प्रविष्टियाँ",
+        "न्यूनतम अभिदान = संपूर्ण निर्गमन का 90% (SEBI दिशानिर्देश)",
+        "न्यूनतम अंश आवेदन राशि = अंकित मूल्य का 5%",
+        "प्रतिभूति प्रीमियम संचिति (Securities Premium Reserve) — व्यवहार"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "ऋणपत्रों का लेखांकन (Accounting for Debentures)",
+      "unit_or_chapter": "chapter",
+      "book": "लेखाशास्त्र (Accountancy)",
+      "unit_id": 6,
+      "unit_name": "ऋणपत्रों का लेखांकन (Accounting for Debentures)",
+      "part": "भाग B: कंपनी लेखे एवं वित्तीय विवरणों का विश्लेषण (Company Accounts and Analysis of Financial Statements)",
+      "weightage_marks": 12,
+      "typical_breakdown": "81-89",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "ऋणपत्र (Debenture) — अर्थ, परिभाषा (अनुसूची III, कंपनी अधिनियम 2013)",
+        "प्रकार: सुरक्षा के आधार पर (सुरक्षित/बंधक, असुरक्षित/नग्न), अवधि के आधार पर (शोध्य, अशोध्य), पंजीकरण के आधार पर (पंजीकृत, वाहक), परिवर्तनीयता के आधार पर, कूपन दर के आधार पर",
+        "सममूल्य, प्रीमियम, छूट पर निर्गमन",
+        "नक़द के लिए निर्गमन — सामान्य एवं अति-अभिदान",
+        "नक़द के अतिरिक्त अन्य प्रतिफल पर निर्गमन",
+        "संपार्श्विक प्रतिभूति के रूप में निर्गमन — Debenture Suspense खाता",
+        "ऋणपत्र निर्गमन की शर्तें एवं ब्याज",
+        "निर्गमन पर छूट/हानि का लेखांकन व्यवहार",
+        "निर्गमन पर छूट का अपलेखन",
+        "ऋणपत्रधारक: निश्चित दर पर ब्याज का अधिकारी (लाभांश नहीं, मतदान का अधिकार नहीं)",
+        "शून्य कूपन बॉण्ड — शून्य ब्याज दर पर निर्गमित"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "कंपनी के वित्तीय विवरण (Financial Statements of a Company)",
+      "unit_or_chapter": "chapter",
+      "book": "लेखाशास्त्र (Accountancy)",
+      "unit_id": 7,
+      "unit_name": "कंपनी के वित्तीय विवरण (Financial Statements of a Company)",
+      "part": "भाग B: कंपनी लेखे एवं वित्तीय विवरणों का विश्लेषण (Company Accounts and Analysis of Financial Statements)",
+      "weightage_marks": 12,
+      "typical_breakdown": "90-105",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "वित्तीय विवरणों का अर्थ एवं प्रकृति",
+        "वित्तीय विवरणों के उद्देश्य (7 उद्देश्य)",
+        "वित्तीय विवरणों की सीमाएँ",
+        "तुलन-पत्र प्रारूप — अनुसूची III, कंपनी अधिनियम 2013",
+        "इक्विटी एवं दायित्व पक्ष: अंशधारी कोष, अंश आवेदन राशि, गैर-चालू दायित्व, चालू दायित्व",
+        "परिसंपत्ति पक्ष: गैर-चालू परिसंपत्तियाँ (स्थिर परिसंपत्तियाँ, निवेश, ऋण एवं अग्रिम), चालू परिसंपत्तियाँ",
+        "लाभ-हानि विवरण प्रारूप",
+        "संचिति एवं आधिक्य का वर्गीकरण (8 शीर्षक)",
+        "शुद्ध लाभ बनाम विभाज्य लाभ",
+        "कंपनी का तुलन-पत्र बनाम फ़र्म का तुलन-पत्र"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "लेखांकन अनुपात (Accounting Ratios)",
+      "unit_or_chapter": "chapter",
+      "book": "लेखाशास्त्र (Accountancy)",
+      "unit_id": 8,
+      "unit_name": "लेखांकन अनुपात (Accounting Ratios)",
+      "part": "भाग B: कंपनी लेखे एवं वित्तीय विवरणों का विश्लेषण (Company Accounts and Analysis of Financial Statements)",
+      "weightage_marks": 9,
+      "typical_breakdown": "106-114",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "अनुपात विश्लेषण — अर्थ, उद्देश्य (5), लाभ (5), सीमाएँ (5)",
+        "अनुपात विश्लेषण के जनक: बेंजामिन ग्राहम",
+        "अनुपातों के प्रकार: तरलता, शोधक्षमता, क्रियाशीलता/आवर्तन, लाभदायकता",
+        "I. तरलता अनुपात: चालू अनुपात (आदर्श 2:1), तरल/त्वरित अनुपात (आदर्श 1:1)",
+        "II. शोधक्षमता अनुपात: ऋण-इक्विटी, नियोजित पूँजी से ऋण, स्वामित्व, कुल परिसंपत्तियों से ऋण, ब्याज कवरेज",
+        "III. क्रियाशीलता अनुपात: स्टॉक आवर्तन, व्यापारिक प्राप्य आवर्तन, व्यापारिक देय आवर्तन, कार्यशील पूँजी आवर्तन, शुद्ध परिसंपत्ति/नियोजित पूँजी आवर्तन",
+        "IV. लाभदायकता अनुपात: सकल लाभ, प्रचालन अनुपात, प्रचालन लाभ, शुद्ध लाभ, विनियोजित पूँजी पर प्रतिफल, अंशधारी कोष पर प्रतिफल, EPS, प्रति अंश बुक वैल्यू, लाभांश अदायगी, मूल्य-आय अनुपात"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "रोकड़ प्रवाह विवरण (Cash Flow Statement)",
+      "unit_or_chapter": "chapter",
+      "book": "लेखाशास्त्र (Accountancy)",
+      "unit_id": 9,
+      "unit_name": "रोकड़ प्रवाह विवरण (Cash Flow Statement)",
+      "part": "भाग B: कंपनी लेखे एवं वित्तीय विवरणों का विश्लेषण (Company Accounts and Analysis of Financial Statements)",
+      "weightage_marks": 9,
+      "typical_breakdown": "115-127",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "रोकड़ प्रवाह विवरण का अर्थ",
+        "रोकड़ प्रवाह विवरण के उद्देश्य (3) एवं लाभ (6)",
+        "रोकड़ प्रवाह विवरण की सीमाएँ (8)",
+        "रोकड़ एवं रोकड़ तुल्य (AS-3 परिभाषा)",
+        "क्रियाओं का वर्गीकरण: प्रचालन, विनियोजन, वित्तपोषण",
+        "प्रत्येक क्रिया से रोकड़ अंतर्वाह एवं बहिर्वाह",
+        "प्रचालन क्रियाओं के लिए अप्रत्यक्ष विधि — शुद्ध लाभ में समायोजन",
+        "प्रत्यक्ष विधि (संक्षेप में)",
+        "विशिष्ट मदों का व्यवहार: कर का भुगतान, ब्याज, लाभांश",
+        "रोकड़ प्रवाह विवरण की तैयारी"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Accountancy Class 12 — 9 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "दीर्घ उत्तरीय प्रश्नों (प्रश्न 27-30) में 'अथवा' विकल्प। कुछ SA प्रश्नों में भी 'अथवा' हो सकता है।",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "साझेदारी फ़र्म का पुनर्गठन: साझेदार का प्रवेश (Reconstitution: Admission of a Partner)",
+      "साझेदारी फ़र्म का पुनर्गठन: साझेदार की अवकाश-प्राप्ति/मृत्यु (Retirement/Death of a Partner)",
+      "साझेदारी फ़र्म का विघटन (Dissolution of Partnership Firm)",
+      "अंश पूँजी का लेखांकन (Accounting for Share Capital)",
+      "ऋणपत्रों का लेखांकन (Accounting for Debentures)",
+      "कंपनी के वित्तीय विवरण (Financial Statements of a Company)",
+      "लेखांकन अनुपात (Accounting Ratios)",
+      "रोकड़ प्रवाह विवरण (Cash Flow Statement)"
+    ],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [
+      "साझेदारी फ़र्म का पुनर्गठन: साझेदार का प्रवेश (Reconstitution: Admission of a Partner) (13 marks)",
+      "साझेदारी फ़र्म का पुनर्गठन: साझेदार की अवकाश-प्राप्ति/मृत्यु (Retirement/Death of a Partner) (13 marks)",
+      "साझेदारी फ़र्म का विघटन (Dissolution of Partnership Firm) (13 marks)",
+      "अंश पूँजी का लेखांकन (Accounting for Share Capital) (13 marks)",
+      "ऋणपत्रों का लेखांकन (Accounting for Debentures) (12 marks)",
+      "कंपनी के वित्तीय विवरण (Financial Statements of a Company) (12 marks)",
+      "लेखांकन अनुपात (Accounting Ratios) (9 marks)",
+      "रोकड़ प्रवाह विवरण (Cash Flow Statement) (9 marks)"
+    ],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [],
+    "chapters_mostly_theory": [
+      "साझेदारी का लेखांकन: आधारभूत अवधारणाएँ (Accounting for Partnership: Basic Concepts)",
+      "साझेदारी फ़र्म का पुनर्गठन: साझेदार का प्रवेश (Reconstitution: Admission of a Partner)",
+      "साझेदारी फ़र्म का पुनर्गठन: साझेदार की अवकाश-प्राप्ति/मृत्यु (Retirement/Death of a Partner)",
+      "साझेदारी फ़र्म का विघटन (Dissolution of Partnership Firm)",
+      "अंश पूँजी का लेखांकन (Accounting for Share Capital)",
+      "ऋणपत्रों का लेखांकन (Accounting for Debentures)",
+      "कंपनी के वित्तीय विवरण (Financial Statements of a Company)",
+      "लेखांकन अनुपात (Accounting Ratios)",
+      "रोकड़ प्रवाह विवरण (Cash Flow Statement)"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "साझेदारी का लेखांकन: आधारभूत अवधारणाएँ (Accounting for Partnership: Basic Concepts)",
+      "साझेदारी फ़र्म का पुनर्गठन: साझेदार का प्रवेश (Reconstitution: Admission of a Partner)",
+      "साझेदारी फ़र्म का पुनर्गठन: साझेदार की अवकाश-प्राप्ति/मृत्यु (Retirement/Death of a Partner)",
+      "साझेदारी फ़र्म का विघटन (Dissolution of Partnership Firm)",
+      "अंश पूँजी का लेखांकन (Accounting for Share Capital)",
+      "ऋणपत्रों का लेखांकन (Accounting for Debentures)",
+      "कंपनी के वित्तीय विवरण (Financial Statements of a Company)",
+      "लेखांकन अनुपात (Accounting Ratios)",
+      "रोकड़ प्रवाह विवरण (Cash Flow Statement)"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "साझेदारी का लेखांकन: आधारभूत अवधारणाएँ (Accounting for Partnership: Basic Concepts)",
+      "साझेदारी फ़र्म का पुनर्गठन: साझेदार का प्रवेश (Reconstitution: Admission of a Partner)",
+      "साझेदारी फ़र्म का पुनर्गठन: साझेदार की अवकाश-प्राप्ति/मृत्यु (Retirement/Death of a Partner)",
+      "साझेदारी फ़र्म का विघटन (Dissolution of Partnership Firm)",
+      "अंश पूँजी का लेखांकन (Accounting for Share Capital)",
+      "ऋणपत्रों का लेखांकन (Accounting for Debentures)",
+      "कंपनी के वित्तीय विवरण (Financial Statements of a Company)",
+      "लेखांकन अनुपात (Accounting Ratios)",
+      "रोकड़ प्रवाह विवरण (Cash Flow Statement)"
+    ],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "साझेदारी का लेखांकन: आधारभूत अवधारणाएँ (Accounting for Partnership: Basic Concepts)",
+      "साझेदारी फ़र्म का पुनर्गठन: साझेदार का प्रवेश (Reconstitution: Admission of a Partner)",
+      "साझेदारी फ़र्म का पुनर्गठन: साझेदार की अवकाश-प्राप्ति/मृत्यु (Retirement/Death of a Partner)",
+      "साझेदारी फ़र्म का विघटन (Dissolution of Partnership Firm)",
+      "अंश पूँजी का लेखांकन (Accounting for Share Capital)",
+      "ऋणपत्रों का लेखांकन (Accounting for Debentures)",
+      "कंपनी के वित्तीय विवरण (Financial Statements of a Company)",
+      "लेखांकन अनुपात (Accounting Ratios)",
+      "रोकड़ प्रवाह विवरण (Cash Flow Statement)"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "twenty_most_important_questions": {
+      "note": "UP Board 2026 Accountancy में आने की सर्वाधिक संभावना वाले 20 प्रश्न (Arihant की क्यूरेटेड सूची)।",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "साझेदारी की परिभाषा दीजिए एवं उसकी आवश्यक विशेषताओं की चर्चा कीजिए।",
+          "marks": 10,
+          "chapter": "अध्याय 1 साझेदारी",
+          "imp": true
+        },
+        {
+          "q_no": 2,
+          "q": "साझेदारी संलेख की परिभाषा दीजिए। साझेदारी संलेख की विषय-वस्तु एवं महत्व समझाइए।",
+          "marks": 10,
+          "chapter": "अध्याय 1 साझेदारी",
+          "imp": true
+        },
+        {
+          "q_no": 3,
+          "q": "औपचारिक एवं अनौपचारिक संगठन में अंतर बताइए।",
+          "marks": 2,
+          "chapter": "अध्याय 1 साझेदारी"
+        },
+        {
+          "q_no": 4,
+          "q": "नियोजन एवं नियंत्रण के बीच संबंध की चर्चा कीजिए।",
+          "marks": 5,
+          "chapter": "अध्याय 1 साझेदारी"
+        },
+        {
+          "q_no": 5,
+          "q": "कार्यशील पूँजी क्या है? इसे प्रभावित करने वाले घटक समझाइए।",
+          "marks": 5,
+          "chapter": "अध्याय 1 साझेदारी"
+        },
+        {
+          "q_no": 6,
+          "q": "अधिलाभ के आधार पर ख्याति की गणना की विधि समझाइए।",
+          "marks": 5,
+          "chapter": "अध्याय 2 प्रवेश",
+          "imp": true
+        },
+        {
+          "q_no": 7,
+          "q": "A, B, C साझेदार हैं। D को 1/4 भाग के लिए प्रवेश दिया जाता है। नया लाभ-विभाजन अनुपात, त्याग अनुपात ज्ञात कीजिए एवं ख्याति प्रविष्टियाँ कीजिए।",
+          "marks": 10,
+          "chapter": "अध्याय 2 प्रवेश",
+          "imp": true
+        },
+        {
+          "q_no": 8,
+          "q": "अंशों के हरण एवं पुनर्निर्गमन के लिए जर्नल प्रविष्टियाँ कीजिए।",
+          "marks": 10,
+          "chapter": "भाग B अध्याय 1 अंश पूँजी",
+          "imp": true
+        },
+        {
+          "q_no": 9,
+          "q": "फ़र्म के विघटन पर वसूली खाता एवं साझेदारों के पूँजी खाते तैयार कीजिए।",
+          "marks": 10,
+          "chapter": "अध्याय 4 विघटन",
+          "imp": true
+        },
+        {
+          "q_no": 10,
+          "q": "ऋणपत्रों के विभिन्न प्रकार समझाइए।",
+          "marks": 5,
+          "chapter": "भाग B अध्याय 2 ऋणपत्र",
+          "imp": true
+        },
+        {
+          "q_no": 11,
+          "q": "छूट पर ऋणपत्र निर्गमन एवं छूट के अपलेखन के लिए जर्नल प्रविष्टियाँ कीजिए।",
+          "marks": 10,
+          "chapter": "भाग B अध्याय 2 ऋणपत्र",
+          "imp": true
+        },
+        {
+          "q_no": 12,
+          "q": "पूर्वाधिकार अंशों के प्रकारों की चर्चा कीजिए।",
+          "marks": 5,
+          "chapter": "भाग B अध्याय 1 अंश पूँजी",
+          "imp": true
+        },
+        {
+          "q_no": 13,
+          "q": "वित्तीय विवरणों के उद्देश्य क्या हैं? तुलन-पत्र का प्रारूप बनाइए।",
+          "marks": 10,
+          "chapter": "भाग B अध्याय 3 वित्तीय विवरण",
+          "imp": true
+        },
+        {
+          "q_no": 14,
+          "q": "दिए गए आँकड़ों से सकल लाभ अनुपात एवं शुद्ध लाभ अनुपात की गणना कीजिए।",
+          "marks": "5+5",
+          "chapter": "भाग B अध्याय 4 अनुपात",
+          "imp": true
+        },
+        {
+          "q_no": 15,
+          "q": "दिए गए तुलन-पत्र आँकड़ों से चालू अनुपात, त्वरित अनुपात एवं ऋण-इक्विटी अनुपात की गणना कीजिए।",
+          "marks": 10,
+          "chapter": "भाग B अध्याय 4 अनुपात",
+          "imp": true
+        },
+        {
+          "q_no": 16,
+          "q": "अप्रत्यक्ष विधि से प्रचालन क्रियाओं से रोकड़ प्रवाह विवरण तैयार कीजिए।",
+          "marks": 10,
+          "chapter": "भाग B अध्याय 5 रोकड़ प्रवाह",
+          "imp": true
+        },
+        {
+          "q_no": 17,
+          "q": "साझेदारी के विघटन एवं फ़र्म के विघटन में अंतर बताइए।",
+          "marks": 5,
+          "chapter": "अध्याय 4 विघटन"
+        },
+        {
+          "q_no": 18,
+          "q": "साझेदार की अवकाश-प्राप्ति क्या है? अवकाश-प्राप्ति पर ख्याति एवं पुनर्मूल्यांकन की जर्नल प्रविष्टियाँ कीजिए।",
+          "marks": 10,
+          "chapter": "अध्याय 3 अवकाश-प्राप्ति",
+          "imp": true
+        },
+        {
+          "q_no": 19,
+          "q": "अंशों के अति-अभिदान पर आबंटन, याचना, एवं अतिरिक्त आवेदन राशि की वापसी के लिए जर्नल प्रविष्टियाँ कीजिए।",
+          "marks": 10,
+          "chapter": "भाग B अध्याय 1 अंश पूँजी",
+          "imp": true
+        },
+        {
+          "q_no": 20,
+          "q": "अनुपात विश्लेषण का अर्थ एवं सीमाएँ समझाइए।",
+          "marks": 5,
+          "chapter": "भाग B अध्याय 4 अनुपात"
+        }
+      ]
+    },
+    "board_paper_2025_questions": {
+      "set": "349",
+      "duration": "3 घंटे 15 मिनट",
+      "total_marks": 100,
+      "mcq_q1_q10": [
+        "प्रश्न 1. फ़र्म के लिए, साझेदार के आहरण पर ब्याज है — उत्तर: (स) आय",
+        "प्रश्न 2. औसत लाभ पर सामान्य लाभ का आधिक्य कहलाता है — उत्तर: (अ) अधिलाभ",
+        "प्रश्न 3. पिछले 3 वर्षों के लाभ ₹6,000, ₹13,000, ₹8,000। 2 वर्षों के क्रय पर ख्याति — उत्तर: (द) ₹18,000",
+        "प्रश्न 4. अवकाश-प्राप्ति पर पुनर्मूल्यांकन लाभ-हानि वहन करते हैं — उत्तर: (अ) शेष साझेदार",
+        "प्रश्न 5. विघटन पर पूँजी खाते का अंतिम शेष अंतरित होता है — उत्तर: (अ) वसूली खाते में",
+        "प्रश्न 6. कंपनी की विशेषताएँ — उत्तर: (द) उपरोक्त सभी (पृथक अस्तित्व, शाश्वत, सीमित दायित्व)",
+        "प्रश्न 7. शून्य कूपन बॉण्ड निर्गमित किए जाते हैं — उत्तर: (अ) शून्य ब्याज दर पर",
+        "प्रश्न 8. वित्तीय विवरण का भाग नहीं है — उत्तर: (स) खाता-बही",
+        "प्रश्न 9. लाभदायकता अनुपात नहीं है — उत्तर: (द) चालू अनुपात",
+        "प्रश्न 10. रोकड़ प्रवाह विवरण तैयार होता है — उत्तर: (द) इन सभी से"
+      ],
+      "vsa_q11_q20": [
+        "प्रश्न 11. साझेदारी संलेख की व्याख्या कीजिए। (2)",
+        "प्रश्न 12. साझेदारी की कोई दो विशेषताएँ लिखिए। (2)",
+        "प्रश्न 13. आहरण पर ब्याज की गणना की कोई एक विधि समझाइए। (2)",
+        "प्रश्न 14. साझेदारी फ़र्म के पुनर्गठन से क्या अभिप्राय है? (2)",
+        "प्रश्न 15. साझेदारी फ़र्म के विघटन से क्या अभिप्राय है? (2)",
+        "प्रश्न 16. इक्विटी अंश की दो विशेषताएँ लिखिए। (2)",
+        "प्रश्न 17. परिवर्तनीयता के दृष्टिकोण से ऋणपत्रों के प्रकार बताइए। (2)",
+        "प्रश्न 18. वित्तीय विवरण के दो उद्देश्य लिखिए। (2)",
+        "प्रश्न 19. अनुपात विश्लेषण से क्या अभिप्राय है? (2)",
+        "प्रश्न 20. वित्तपोषण क्रियाओं से रोकड़ अंतर्वाह के दो उदाहरण दीजिए। (2)"
+      ],
+      "sa_q21_q26": [
+        "प्रश्न 21. अधिलाभ के आधार पर ख्याति की गणना की विधि समझाइए। (5)",
+        "प्रश्न 22. नए साझेदार के प्रवेश पर फ़र्म की परिसंपत्तियाँ एवं दायित्व क्यों पुनर्मूल्यांकित किए जाते हैं? (5)",
+        "प्रश्न 23. पूर्वाधिकार अंशों के प्रकारों की चर्चा कीजिए। (5)",
+        "प्रश्न 24. वित्तीय विवरणों के उद्देश्य क्या हैं? (5)",
+        "प्रश्न 25. ऋणपत्रों के विभिन्न प्रकार समझाइए। (5)",
+        "प्रश्न 26. साझेदारी फ़र्म के विघटन से क्या समझते हैं? किन परिस्थितियों में फ़र्म का विघटन होता है? (5)"
+      ],
+      "la_q27_q30": [
+        "प्रश्न 27. R Ltd. ने ₹10 प्रति अंश वाले 20,000 अंशों के लिए आवेदन आमंत्रित किए। जर्नल प्रविष्टियाँ कीजिए। (10) अथवा कंपनी से क्या तात्पर्य है? उसकी विशेषताएँ समझाइए। (3+7)",
+        "प्रश्न 28. अवकाश-प्राप्ति पर पुनर्मूल्यांकन खाते सहित प्रविष्टियाँ कीजिए। (10) अथवा पुनर्मूल्यांकन खाते से क्या तात्पर्य है? साझेदार के प्रवेश पर पुनर्मूल्यांकन खाता तैयार करने के कारण लिखिए। (3+7)",
+        "प्रश्न 29. सकल लाभ अनुपात एवं शुद्ध लाभ अनुपात की गणना कीजिए। (5+5) अथवा ऋणपत्र एवं अंश से क्या तात्पर्य है? इनके बीच अंतर समझाइए। (2+2+6)",
+        "प्रश्न 30. Z Ltd. की चालू परिसंपत्तियों/दायित्वों की स्थिति। प्रचालन क्रियाओं से रोकड़ प्रवाह की गणना कीजिए। (10) अथवा तुलनात्मक आय विवरण क्या है? काल्पनिक आँकड़ों सहित नमूना दीजिए। (3+7)"
+      ],
+      "answers_mcq": "1.(स) 2.(अ) 3.(द) 4.(अ) 5.(अ) 6.(द) 7.(अ) 8.(स) 9.(द) 10.(द)"
+    },
+    "fast_track_revision": {
+      "key_definitions": {
+        "साझेदारी": "उन व्यक्तियों के बीच संबंध जो किसी व्यवसाय के लाभ को बाँटने के लिए सहमत हुए हैं, जो उन सभी द्वारा या उनमें से किसी एक द्वारा सभी के लिए कार्य करते हुए चलाया जा रहा हो। (धारा 4, भारतीय साझेदारी अधिनियम 1932)",
+        "साझेदारी_संलेख": "साझेदारों के बीच समझौते की शर्तों एवं नियमों को लिखित रूप में धारित करने वाला दस्तावेज़।",
+        "ख्याति": "किसी व्यवसाय की सुनाम या प्रतिष्ठा जो उसे अधिक लाभ अर्जित करने में सहायता करती है। अमूर्त — कृत्रिम परिसंपत्ति नहीं।",
+        "पुनर्गठन": "साझेदारी के वर्तमान समझौते में कोई भी परिवर्तन फ़र्म का पुनर्गठन कहलाता है।",
+        "त्याग_अनुपात": "वह अनुपात जिसमें पुराने साझेदार अपने लाभ-भाग का त्याग करते हैं = पुराना भाग – नया भाग",
+        "लाभ_अनुपात": "वह अनुपात जिसमें शेष साझेदार अवकाश-प्राप्त साझेदार का भाग प्राप्त करते हैं = नया भाग – पुराना भाग",
+        "पुनर्मूल्यांकन_खाता": "परिसंपत्ति/दायित्व मूल्यों में परिवर्तन दर्ज करने के लिए तैयार नाम-मात्र खाता। लाभ-हानि समायोजन खाता भी कहलाता है।",
+        "फ़र्म_का_विघटन": "सभी साझेदारों के बीच साझेदारी का विघटन — व्यवसाय भी समाप्त।",
+        "साझेदारी_का_विघटन": "समझौते में परिवर्तन — फ़र्म जारी रह सकती है।",
+        "वसूली_खाता": "विघटन पर परिसंपत्तियों की वसूली एवं दायित्वों के भुगतान पर लाभ-हानि निर्धारित करने के लिए खोला गया नाम-मात्र खाता।",
+        "कंपनी": "एक निगमित संघ जो क़ानून द्वारा सृजित कृत्रिम व्यक्ति है, जिसका पृथक वैधानिक अस्तित्व, शाश्वत उत्तराधिकार एवं सामान्य मुहर होती है।",
+        "अंश": "कंपनी की पूँजी को निश्चित अंकित मूल्य की छोटी इकाइयों में विभाजित किया गया।",
+        "ऋणपत्र": "कंपनी की सामान्य मुहर के अंतर्गत निर्गमित ऋण स्वीकारोक्ति का दस्तावेज़।",
+        "वित्तीय_विवरण": "लेखांकन प्रक्रिया के अंतिम उत्पाद — तुलन-पत्र, लाभ-हानि विवरण, खातों पर टिप्पणियाँ, रोकड़ प्रवाह विवरण।",
+        "अनुपात": "दो संबंधित या अंतर्निर्भर मदों के संबंध की गणितीय अभिव्यक्ति। जनक: बेंजामिन ग्राहम।",
+        "रोकड़_प्रवाह_विवरण": "दो तुलन-पत्र तिथियों के बीच रोकड़ एवं रोकड़ तुल्य की दृष्टि से वित्तीय स्थिति में परिवर्तन दर्शाने वाला विवरण।",
+        "रोकड़_तुल्य": "अल्पकालिक अत्यधिक तरल निवेश जो ज्ञात राशि की रोकड़ में आसानी से परिवर्तनीय हों (AS-3)।"
+      },
+      "important_provisions_no_deed": {
+        "लाभ_हानि_विभाजन": "सभी साझेदारों में समान",
+        "पूँजी_पर_ब्याज": "स्वीकृत नहीं",
+        "आहरण_पर_ब्याज": "नहीं लिया जाता",
+        "वेतन_कमीशन": "स्वीकृत नहीं",
+        "साझेदार_द्वारा_दिए_गए_ऋण_पर_ब्याज": "6% वार्षिक",
+        "प्रबंधन": "हर साझेदार को भाग लेने का समान अधिकार"
+      },
+      "key_mcq_facts": {
+        "आहरण_पर_ब्याज_है": "फ़र्म के लिए आय (लाभ-हानि विनियोग खाते में क्रेडिट)",
+        "पूँजी_पर_ब्याज_कहाँ_से": "केवल लाभ में से (न संचिति से, न पूँजी से)",
+        "साझेदार_को_किराया_कहाँ": "लाभ-हानि खाते में (लाभ-हानि विनियोग खाते में नहीं) — यह लाभ पर प्रभार है",
+        "चालू_खाते_का_शेष": "डेबिट या क्रेडिट हो सकता है",
+        "परिवर्तनशील_पूँजी_कितने_खाते": "केवल 1 खाता (केवल पूँजी खाता)",
+        "ख्याति_किस_अनुपात_में_बाँटी": "त्याग अनुपात (न पुराने, न नए)",
+        "पुनर्मूल्यांकन_खाते_का_प्रकार": "नाम-मात्र खाता",
+        "पुनर्मूल्यांकन_लाभ_किस_अनुपात_में": "पुराने लाभ-विभाजन अनुपात में",
+        "विघटन_पर_पूँजी_शेष_कहाँ": "वसूली खाते में",
+        "अनुपात_विश्लेषण_के_जनक": "बेंजामिन ग्राहम",
+        "आदर्श_चालू_अनुपात": "2:1",
+        "आदर्श_तरल_अनुपात": "1:1",
+        "चालू_अनुपात_किसके_लिए": "अल्पकालिक शोधक्षमता",
+        "ऋण_इक्विटी_अनुपात_किसके_लिए": "दीर्घकालिक शोधक्षमता",
+        "पूर्वाधिकार_अंश_लाभांश": "निश्चित दर",
+        "ऋणपत्रधारक_का_अधिकार": "निश्चित दर पर ब्याज (लाभांश नहीं, मतदान का अधिकार नहीं)",
+        "शून्य_कूपन_बॉण्ड": "शून्य ब्याज दर पर निर्गमित",
+        "ऋणपत्र_छूट": "पूँजी हानि (परिसंपत्ति पक्ष में या प्रतिभूति प्रीमियम के विरुद्ध अपलिखित)",
+        "प्रतिभूति_प्रीमियम_कहाँ": "प्रतिभूति प्रीमियम संचिति खाते में (लाभ-हानि खाते में नहीं)",
+        "अंश_हरण_किसके_लिए": "याचना राशि के भुगतान न होने पर",
+        "न्यूनतम_अभिदान": "संपूर्ण निर्गमन का 90% (SEBI)",
+        "न्यूनतम_आवेदन_राशि": "अंकित मूल्य का 5%",
+        "हरित_अंशों_का_पुनर्निर्गमन": "किसी भी मूल्य पर — सममूल्य, प्रीमियम या छूट पर (पर प्रदत्त राशि से कम नहीं)",
+        "पूँजी_संचिति_कब_बनती_है": "हरित अंशों के पुनर्निर्गमन पर — Share Forfeiture A/c में शेष राशि",
+        "प्रचालन_क्रियाएँ": "मुख्य आगम-उत्पादक क्रियाएँ",
+        "विनियोजन_क्रियाएँ": "दीर्घकालिक परिसंपत्तियों का अधिग्रहण एवं निपटान",
+        "वित्तपोषण_क्रियाएँ": "स्वामित्व पूँजी एवं उधार के आकार एवं संरचना में परिवर्तन",
+        "ख्याति_की_प्रकृति": "अमूर्त परिसंपत्ति — कृत्रिम नहीं",
+        "साझेदारी_में_अधिकतम_साझेदार": "50 (कंपनी अधिनियम 2013, नियम 10 के अनुसार)"
+      }
+    },
+    "journal_entry_formats": {
+      "note": "सभी प्रमुख लेन-देनों के लिए मानक जर्नल प्रविष्टि प्रारूप। LA प्रश्नों के लिए अत्यंत आवश्यक।",
+      "partnership_admission": [
+        {
+          "transaction": "नए साझेदार द्वारा नक़द में ख्याति लाई जाए (स्थिति I)",
+          "entries": [
+            "Cash/Bank A/c Dr | To New Partner's Capital A/c | To Premium for Goodwill A/c",
+            "Premium for Goodwill A/c Dr | To Sacrificing Partners' Capital/Current A/c (त्याग अनुपात में)"
+          ]
+        },
+        {
+          "transaction": "नक़द में ख्याति न लाई जाए — छिपी ख्याति",
+          "entries": [
+            "New Partner's Capital A/c Dr | To Old Partners' Capital/Current A/c (त्याग अनुपात में)"
+          ]
+        },
+        {
+          "transaction": "पुनर्मूल्यांकन लाभ का वितरण",
+          "entries": [
+            "Asset A/c Dr (यदि मूल्य बढ़ा हो) | To Revaluation A/c",
+            "Revaluation A/c Dr (यदि मूल्य घटा हो) | To Asset A/c",
+            "Revaluation A/c Dr (शुद्ध लाभ) | To Old Partners' Capital A/c (पुराने अनुपात में)"
+          ]
+        }
+      ],
+      "share_capital": [
+        {
+          "transaction": "अंश आवेदन राशि प्राप्त",
+          "entry": "Bank A/c Dr | To Share Application A/c"
+        },
+        {
+          "transaction": "अंश आवेदन राशि पूँजी में अंतरित",
+          "entry": "Share Application A/c Dr | To Share Capital A/c"
+        },
+        {
+          "transaction": "अंश आबंटन देय",
+          "entry": "Share Allotment A/c Dr | To Share Capital A/c | To Securities Premium Reserve A/c (यदि प्रीमियम पर)"
+        },
+        {
+          "transaction": "आबंटन राशि प्राप्त",
+          "entry": "Bank A/c Dr | To Share Allotment A/c"
+        },
+        {
+          "transaction": "अंशों का हरण",
+          "entry": "Share Capital A/c Dr (प्रति अंश याचित राशि × हरण किए गए अंश) | To Share Allotment A/c (यदि अदत्त) | To Calls A/c (यदि अदत्त) | To Share Forfeiture A/c (शेष = प्राप्त राशि)"
+        },
+        {
+          "transaction": "हरित अंशों का छूट पर पुनर्निर्गमन",
+          "entry": "Bank A/c Dr | Share Forfeiture A/c Dr (दी गई छूट) | To Share Capital A/c (अंकित मूल्य)"
+        },
+        {
+          "transaction": "पुनर्निर्गमन के बाद पूँजी संचिति में अंतरण",
+          "entry": "Share Forfeiture A/c Dr (शेष राशि) | To Capital Reserve A/c"
+        }
+      ],
+      "debentures": [
+        {
+          "transaction": "सममूल्य पर नक़द के लिए ऋणपत्र निर्गमित",
+          "entry": "Bank A/c Dr | To Debentures A/c"
+        },
+        {
+          "transaction": "छूट पर ऋणपत्र निर्गमित",
+          "entry": "Bank A/c Dr | Discount on Issue of Debentures A/c Dr | To Debentures A/c"
+        },
+        {
+          "transaction": "संपार्श्विक प्रतिभूति के रूप में ऋणपत्र निर्गमित",
+          "entry": "Debenture Suspense A/c Dr | To Debentures A/c"
+        }
+      ],
+      "dissolution": [
+        {
+          "transaction": "परिसंपत्तियाँ वसूली खाते में अंतरित",
+          "entry": "Realisation A/c Dr | To Sundry Assets A/c"
+        },
+        {
+          "transaction": "दायित्व वसूली खाते में अंतरित",
+          "entry": "Sundry Liabilities A/c Dr | To Realisation A/c"
+        },
+        {
+          "transaction": "परिसंपत्तियाँ वसूली गईं",
+          "entry": "Cash/Bank A/c Dr | To Realisation A/c (वसूली मूल्य पर)"
+        },
+        {
+          "transaction": "दायित्वों का भुगतान",
+          "entry": "Realisation A/c Dr | To Cash/Bank A/c"
+        },
+        {
+          "transaction": "वसूली पर लाभ का वितरण",
+          "entry": "Realisation A/c Dr | To Partners' Capital A/c (लाभ-विभाजन अनुपात में)"
+        },
+        {
+          "transaction": "साझेदारों को अंतिम भुगतान",
+          "entry": "Partners' Capital A/c Dr | To Cash/Bank A/c"
+        }
+      ]
+    },
+    "key_formulas": {
+      "note": "UP Board Accountancy 2026 के लिए सभी महत्वपूर्ण सूत्र। ठीक वैसे ही याद कीजिए।",
+      "partnership_ch1": {
+        "पूँजी_पर_ब्याज": "ब्याज = पूँजी × दर/100 × समय",
+        "आहरण_पर_ब्याज_साधारण_विधि": "ब्याज = राशि × दर/100 × शेष माह/12",
+        "आहरण_पर_ब्याज_गुणनफल_विधि": "ब्याज = कुल गुणनफल × दर/100 × 1/12",
+        "आहरण_की_औसत_अवधि_माह_के_प्रारंभ_में": "6.5 माह",
+        "आहरण_की_औसत_अवधि_माह_के_अंत_में": "5.5 माह",
+        "आहरण_की_औसत_अवधि_माह_के_मध्य_में": "6 माह",
+        "प्रारंभिक_पूँजी_सूत्र": "प्रारंभिक पूँजी = अंतिम पूँजी + आहरण – लाभ – अतिरिक्त पूँजी लाई गई",
+        "लाभ_पर_प्रभार_के_रूप_में_पूँजी_पर_ब्याज": "हानि होने पर भी पूर्ण रूप से स्वीकृत"
+      },
+      "partnership_ch2_admission": {
+        "नया_लाभ_विभाजन_अनुपात": "नया लाभ-विभाजन अनुपात = पुराना भाग – त्याग भाग",
+        "त्याग_अनुपात": "त्याग अनुपात = पुराना भाग – नया भाग",
+        "औसत_लाभ_विधि_ख्याति": "ख्याति = औसत लाभ × क्रय के वर्षों की संख्या",
+        "औसत_लाभ": "औसत लाभ = लाभों का योग / वर्षों की संख्या",
+        "अधिलाभ_विधि_ख्याति": "ख्याति = अधिलाभ × क्रय के वर्षों की संख्या",
+        "अधिलाभ": "अधिलाभ = औसत लाभ – सामान्य लाभ",
+        "सामान्य_लाभ": "सामान्य लाभ = नियोजित पूँजी × सामान्य प्रतिफल दर / 100",
+        "औसत_लाभ_का_पूँजीकरण": "पूँजीकृत मूल्य = औसत लाभ × 100 / सामान्य प्रतिफल दर",
+        "छिपी_ख्याति": "छिपी ख्याति = अनुमानित फ़र्म मूल्य – फ़र्म की शुद्ध परिसंपत्ति",
+        "फ़र्म_की_ख्याति_नए_साझेदार_के_भाग_से": "फ़र्म की ख्याति = नए साझेदार का ख्याति योगदान × (1 / नए साझेदार का भाग)"
+      },
+      "partnership_ch3_retirement": {
+        "अवकाश_प्राप्ति_पर_नया_अनुपात": "नया अनुपात = पुराना भाग + प्राप्त लाभ भाग",
+        "लाभ_अनुपात": "लाभ अनुपात = नया भाग – पुराना भाग"
+      },
+      "share_capital": {
+        "न्यूनतम_अभिदान_SEBI": "संपूर्ण निर्गमन का 90%",
+        "न्यूनतम_आवेदन_राशि": "अंकित मूल्य का 5%",
+        "प्रतिभूति_प्रीमियम": "प्रतिभूति प्रीमियम संचिति खाते में क्रेडिट (लाभ-हानि खाते में नहीं)",
+        "अंश_हरण_प्रविष्टि": "Share Capital A/c Dr (याचित राशि) | To Share Allotment/Call A/c | To Share Forfeiture A/c",
+        "छूट_पर_पुनर्निर्गमन": "Share Forfeiture A/c Dr (दी गई छूट) | To Share Capital A/c | Bank A/c Dr | To Share Capital A/c",
+        "पुनर्निर्गमन_पर_पूँजी_संचिति": "पूँजी संचिति = पुनर्निर्गमन के बाद Share Forfeiture A/c का शेष"
+      },
+      "accounting_ratios": {
+        "चालू_अनुपात": "चालू परिसंपत्ति / चालू दायित्व [आदर्श: 2:1]",
+        "त्वरित_अनुपात": "त्वरित परिसंपत्ति / चालू दायित्व [आदर्श: 1:1]",
+        "त्वरित_परिसंपत्ति": "चालू परिसंपत्ति – स्टॉक – पूर्वदत्त व्यय",
+        "ऋण_इक्विटी_अनुपात": "दीर्घकालिक ऋण / अंशधारी कोष",
+        "ऋण": "दीर्घकालिक उधार + दीर्घकालिक प्रावधान",
+        "अंशधारी_कोष": "अंश पूँजी + संचिति एवं आधिक्य",
+        "स्वामित्व_अनुपात": "अंशधारी कोष / कुल परिसंपत्ति",
+        "ब्याज_कवरेज_अनुपात": "ब्याज एवं कर से पूर्व शुद्ध लाभ / दीर्घकालिक ऋण पर ब्याज",
+        "स्टॉक_आवर्तन_अनुपात": "प्रचालन से आगम की लागत / औसत स्टॉक",
+        "व्यापारिक_प्राप्य_आवर्तन": "शुद्ध उधार प्रचालन आगम / औसत व्यापारिक प्राप्य",
+        "व्यापारिक_देय_आवर्तन": "शुद्ध उधार क्रय / औसत व्यापारिक देय",
+        "कार्यशील_पूँजी_आवर्तन": "प्रचालन से आगम / कार्यशील पूँजी",
+        "सकल_लाभ_अनुपात": "सकल लाभ / प्रचालन से आगम × 100",
+        "शुद्ध_लाभ_अनुपात": "कर पश्चात् शुद्ध लाभ / प्रचालन से आगम × 100",
+        "प्रचालन_अनुपात": "(प्रचालन आगम की लागत + प्रचालन व्यय) / आगम × 100",
+        "प्रचालन_लाभ_अनुपात": "प्रचालन लाभ / प्रचालन से आगम × 100",
+        "विनियोजित_पूँजी_पर_प्रतिफल": "ब्याज एवं कर से पूर्व शुद्ध लाभ / नियोजित पूँजी × 100",
+        "अंशधारी_कोष_पर_प्रतिफल": "कर पश्चात् लाभ / अंशधारी कोष × 100",
+        "EPS": "इक्विटी अंशधारियों के लिए उपलब्ध लाभ / इक्विटी अंशों की संख्या",
+        "प्रति_अंश_बुक_वैल्यू": "इक्विटी अंशधारी कोष / इक्विटी अंशों की संख्या",
+        "लाभांश_अदायगी_अनुपात": "प्रति अंश लाभांश / प्रति अंश आय",
+        "मूल्य_आय_अनुपात": "अंश का बाज़ार मूल्य / प्रति अंश आय"
+      },
+      "cash_flow_indirect_method": {
+        "शुरू_कीजिए": "कर एवं असाधारण मदों से पूर्व शुद्ध लाभ",
+        "जोड़ें_गैर_रोकड़_प्रभार": [
+          "ह्रास",
+          "स्थिर परिसंपत्ति की बिक्री पर हानि",
+          "अपलिखित छूट (अंशों/ऋणपत्रों पर)",
+          "अपलिखित ख्याति",
+          "अपलिखित प्रारंभिक व्यय"
+        ],
+        "घटाएँ_गैर_रोकड़_आय": [
+          "स्थिर परिसंपत्ति की बिक्री पर लाभ",
+          "निवेश की बिक्री पर लाभ",
+          "प्राप्त लाभांश (ग़ैर-वित्त कंपनियों के लिए)",
+          "प्राप्त ब्याज (ग़ैर-वित्त कंपनियों के लिए)"
+        ],
+        "चालू_दायित्व_में_वृद्धि_जोड़ें": "जोड़ें: व्यापारिक देय, बकाया व्यय में वृद्धि",
+        "चालू_दायित्व_में_कमी_घटाएँ": "घटाएँ: व्यापारिक देय में कमी",
+        "चालू_परिसंपत्ति_में_कमी_जोड़ें": "जोड़ें: देनदार में कमी, स्टॉक में कमी",
+        "चालू_परिसंपत्ति_में_वृद्धि_घटाएँ": "घटाएँ: देनदार में वृद्धि, स्टॉक में वृद्धि, पूर्वदत्त व्यय में वृद्धि"
+      }
+    },
+    "mcq_question_bank": {
+      "marks_each": 1,
+      "total_in_bank": 34,
+      "note": "UP Board प्रश्नपत्र 2006-2025 से। संख्यात्मक MCQs (ख्याति, अनुपात, औसत लाभ) शामिल। CBQ प्रकार भी।",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "फ़र्म के लिए, साझेदार के आहरण पर ब्याज है —",
+          "options": [
+            "(अ) व्यय",
+            "(ब) हानि",
+            "(स) आय",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(स) आय",
+          "year": "2025",
+          "chapter": "अध्याय 1 साझेदारी"
+        },
+        {
+          "q_no": 2,
+          "q": "औसत लाभ पर सामान्य लाभ का आधिक्य कहलाता है —",
+          "options": [
+            "(अ) अधिलाभ (super profit)",
+            "(ब) स्थिर लाभ",
+            "(स) सामान्य लाभ",
+            "(द) असामान्य लाभ"
+          ],
+          "answer": "(अ) अधिलाभ",
+          "year": "2025",
+          "chapter": "अध्याय 2 प्रवेश"
+        },
+        {
+          "q_no": 3,
+          "q": "पिछले तीन वर्षों के लाभ क्रमशः ₹6,000, ₹13,000 एवं ₹8,000 थे। औसत शुद्ध लाभ के 2 वर्षों के क्रय पर ख्याति होगी —",
+          "options": [
+            "(अ) ₹27,000",
+            "(ब) ₹81,000",
+            "(स) ₹9,000",
+            "(द) ₹18,000"
+          ],
+          "answer": "(द) ₹18,000",
+          "solution": "औसत लाभ = (6,000+13,000+8,000)/3 = 9,000। ख्याति = 9,000 × 2 = ₹18,000",
+          "year": "2025",
+          "chapter": "अध्याय 2 प्रवेश",
+          "imp": true
+        },
+        {
+          "q_no": 4,
+          "q": "अवकाश-प्राप्ति के समय पुनर्मूल्यांकन लाभ एवं हानि वहन करते हैं —",
+          "options": [
+            "(अ) शेष साझेदार",
+            "(ब) सभी साझेदार",
+            "(स) नए साझेदार",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(अ) शेष साझेदार",
+          "year": "2025",
+          "chapter": "अध्याय 3 अवकाश-प्राप्ति"
+        },
+        {
+          "q_no": 5,
+          "q": "फ़र्म के विघटन पर पूँजी खाते का अंतिम शेष किसमें अंतरित किया जाता है?",
+          "options": [
+            "(अ) वसूली खाता",
+            "(ब) लाभ-हानि खाता",
+            "(स) रोकड़ खाता",
+            "(द) साझेदारों का ऋण खाता"
+          ],
+          "answer": "(अ) वसूली खाता",
+          "year": "2025",
+          "chapter": "अध्याय 4 विघटन",
+          "imp": true
+        },
+        {
+          "q_no": 6,
+          "q": "कंपनी की विशेषता है —",
+          "options": [
+            "(अ) पृथक वैधानिक अस्तित्व",
+            "(ब) शाश्वत अस्तित्व",
+            "(स) सीमित दायित्व",
+            "(द) उपरोक्त सभी"
+          ],
+          "answer": "(द) उपरोक्त सभी",
+          "year": "2025",
+          "chapter": "भाग B अध्याय 1 अंश पूँजी"
+        },
+        {
+          "q_no": 7,
+          "q": "शून्य कूपन बॉण्ड निर्गमित किए जाते हैं —",
+          "options": [
+            "(अ) शून्य ब्याज दर पर",
+            "(ब) निर्दिष्ट ब्याज दर के साथ",
+            "(स) बिना निर्दिष्ट ब्याज दर के",
+            "(द) उपरोक्त में से कोई नहीं"
+          ],
+          "answer": "(अ) शून्य ब्याज दर पर",
+          "year": "2025",
+          "chapter": "भाग B अध्याय 2 ऋणपत्र",
+          "imp": true
+        },
+        {
+          "q_no": 8,
+          "q": "निम्नलिखित में से कौन कंपनी के वित्तीय विवरण का भाग नहीं है?",
+          "options": [
+            "(अ) लाभ-हानि विवरण",
+            "(ब) तुलन-पत्र",
+            "(स) खाता-बही (Ledger)",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(स) खाता-बही",
+          "year": "2025",
+          "chapter": "भाग B अध्याय 3 वित्तीय विवरण"
+        },
+        {
+          "q_no": 9,
+          "q": "निम्नलिखित में से कौन लाभदायकता अनुपात नहीं है?",
+          "options": [
+            "(अ) सकल लाभ अनुपात",
+            "(ब) शुद्ध लाभ अनुपात",
+            "(स) प्रचालन अनुपात",
+            "(द) चालू अनुपात"
+          ],
+          "answer": "(द) चालू अनुपात",
+          "year": "2025",
+          "chapter": "भाग B अध्याय 4 अनुपात",
+          "imp": true
+        },
+        {
+          "q_no": 10,
+          "q": "रोकड़ प्रवाह विवरण तैयार किया जाता है —",
+          "options": [
+            "(अ) तुलन-पत्र से",
+            "(ब) लाभ-हानि खाते से",
+            "(स) अतिरिक्त सूचना से",
+            "(द) इन सभी से"
+          ],
+          "answer": "(द) इन सभी से",
+          "year": "2025",
+          "chapter": "भाग B अध्याय 5 रोकड़ प्रवाह"
+        },
+        {
+          "q_no": 11,
+          "q": "परिवर्तनशील पूँजी विधि में कौन-से खाते खोले जाते हैं?",
+          "options": [
+            "(अ) केवल पूँजी खाता",
+            "(ब) केवल चालू खाता",
+            "(स) पूँजी खाता एवं चालू खाता दोनों",
+            "(द) या तो पूँजी या चालू खाता"
+          ],
+          "answer": "(अ) केवल पूँजी खाता",
+          "chapter": "अध्याय 1 साझेदारी"
+        },
+        {
+          "q_no": 12,
+          "q": "साझेदारी संलेख में प्रावधान हो तो साझेदारों को पूँजी पर ब्याज दिया जाएगा, लेकिन केवल किसमें से?",
+          "options": [
+            "(अ) लाभ",
+            "(ब) संचिति",
+            "(स) संचित लाभ",
+            "(द) ख्याति"
+          ],
+          "answer": "(अ) लाभ",
+          "chapter": "अध्याय 1 साझेदारी"
+        },
+        {
+          "q_no": 13,
+          "q": "लाभ-हानि विनियोग खाते में निम्नलिखित में से कौन-सी मद दर्ज नहीं होती?",
+          "options": [
+            "(अ) पूँजी पर ब्याज",
+            "(ब) आहरण पर ब्याज",
+            "(स) साझेदारों को दिया गया किराया",
+            "(द) साझेदारों को दिया गया कमीशन"
+          ],
+          "answer": "(स) साझेदारों को दिया गया किराया",
+          "chapter": "अध्याय 1 साझेदारी",
+          "imp": true
+        },
+        {
+          "q_no": 14,
+          "q": "साझेदार के चालू खाते का शेष हमेशा होता है —",
+          "options": [
+            "(अ) डेबिट शेष",
+            "(ब) क्रेडिट शेष",
+            "(स) डेबिट या क्रेडिट शेष",
+            "(द) न डेबिट न क्रेडिट"
+          ],
+          "answer": "(स) डेबिट या क्रेडिट शेष",
+          "year": "2015",
+          "chapter": "अध्याय 1 साझेदारी"
+        },
+        {
+          "q_no": 15,
+          "q": "यदि कोई साझेदार हर महीने की अंतिम तारीख़ को निश्चित राशि आहरित करे, तो कुल राशि पर ब्याज कितने महीनों के लिए लगेगा?",
+          "options": [
+            "(अ) 6",
+            "(ब) 6½",
+            "(स) 5½",
+            "(द) 5"
+          ],
+          "answer": "(स) 5½",
+          "type": "CBQ",
+          "chapter": "अध्याय 1 साझेदारी",
+          "imp": true
+        },
+        {
+          "q_no": 16,
+          "q": "साझेदारी संलेख के अभाव में साझेदार किसके हक़दार होंगे?",
+          "options": [
+            "(अ) पूँजी पर ब्याज",
+            "(ब) पूँजी पर ब्याज नहीं",
+            "(स) पूँजी पर 6% वार्षिक ब्याज",
+            "(द) उपरोक्त में से कोई नहीं"
+          ],
+          "answer": "(ब) पूँजी पर ब्याज नहीं",
+          "chapter": "अध्याय 1 साझेदारी",
+          "imp": true
+        },
+        {
+          "q_no": 17,
+          "q": "यदि साझेदारों के आहरण की तिथि नहीं दी गई हो, तो ब्याज कितने समय के लिए लगाया जाएगा?",
+          "options": [
+            "(अ) 1 माह",
+            "(ब) 3 माह",
+            "(स) 6 माह",
+            "(द) 12 माह"
+          ],
+          "answer": "(स) 6 माह",
+          "chapter": "अध्याय 1 साझेदारी"
+        },
+        {
+          "q_no": 18,
+          "q": "नए साझेदार द्वारा लाई गई ख्याति पुराने साझेदारों में किस अनुपात में बाँटी जाती है?",
+          "options": [
+            "(अ) पुराने अनुपात में",
+            "(ब) नए अनुपात में",
+            "(स) त्याग अनुपात में",
+            "(द) समान रूप से"
+          ],
+          "answer": "(स) त्याग अनुपात में",
+          "chapter": "अध्याय 2 प्रवेश",
+          "imp": true
+        },
+        {
+          "q_no": 19,
+          "q": "नए साझेदार के प्रवेश पर परिसंपत्ति के मूल्य में वृद्धि किसमें क्रेडिट की जाती है?",
+          "options": [
+            "(अ) लाभ-हानि खाते में",
+            "(ब) पुनर्मूल्यांकन खाते में",
+            "(स) परिसंपत्ति खाते में",
+            "(द) पुराने साझेदार के पूँजी खाते में"
+          ],
+          "answer": "(ब) पुनर्मूल्यांकन खाते में",
+          "year": "2022",
+          "chapter": "अध्याय 2 प्रवेश"
+        },
+        {
+          "q_no": 20,
+          "q": "पुनर्मूल्यांकन खाता है —",
+          "options": [
+            "(अ) व्यक्तिगत खाता",
+            "(ब) वास्तविक खाता",
+            "(स) नाम-मात्र खाता",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(स) नाम-मात्र खाता",
+          "year": "2022, 2017, 2013",
+          "chapter": "अध्याय 2 प्रवेश",
+          "imp": true
+        },
+        {
+          "q_no": 21,
+          "q": "पुनर्मूल्यांकन पर लाभ किस अनुपात में बाँटा जाता है?",
+          "options": [
+            "(अ) नए अनुपात में",
+            "(ब) त्याग अनुपात में",
+            "(स) पुराने अनुपात में",
+            "(द) लाभ अनुपात में"
+          ],
+          "answer": "(स) पुराने अनुपात में",
+          "chapter": "अध्याय 2 प्रवेश",
+          "imp": true
+        },
+        {
+          "q_no": 22,
+          "q": "अमन एवं अनमोल 2:1 के अनुपात में लाभ-हानि बाँटते हैं। अतुल 1/4 भाग के लिए प्रवेश पाता है, उसने ख्याति के रूप में ₹6,000 दिए। फ़र्म की ख्याति होगी?",
+          "options": [
+            "(अ) ₹14,000",
+            "(ब) ₹16,000",
+            "(स) ₹20,000",
+            "(द) ₹24,000"
+          ],
+          "answer": "(द) ₹24,000",
+          "solution": "फ़र्म की ख्याति = 6,000 × 4/1 = ₹24,000",
+          "year": "2025",
+          "type": "CBQ",
+          "chapter": "अध्याय 2 प्रवेश",
+          "imp": true
+        },
+        {
+          "q_no": 23,
+          "q": "जब कोई नया साझेदार किसी वर्तमान फ़र्म में प्रवेश करता है, तो उसे किस प्रकार के अधिकार प्राप्त होते हैं?",
+          "options": [
+            "(अ) परिसंपत्तियों में भाग",
+            "(ब) लाभ में भाग",
+            "(स) दोनों (अ) एवं (ब)",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(स) दोनों (अ) एवं (ब)",
+          "year": "2022",
+          "chapter": "अध्याय 2 प्रवेश"
+        },
+        {
+          "q_no": 24,
+          "q": "किस प्रकार के अंश पर लाभांश की दर निश्चित होती है?",
+          "options": [
+            "(अ) साधारण/इक्विटी अंश",
+            "(ब) पूर्वाधिकार अंश",
+            "(स) दोनों इक्विटी एवं पूर्वाधिकार अंश",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(ब) पूर्वाधिकार अंश",
+          "year": "2018",
+          "chapter": "भाग B अध्याय 1 अंश पूँजी",
+          "imp": true
+        },
+        {
+          "q_no": 25,
+          "q": "अंशों का हरण किया जा सकता है —",
+          "options": [
+            "(अ) याचना राशि के भुगतान न होने पर",
+            "(ब) सभाओं में भाग न लेने पर",
+            "(स) बैंक ऋण न चुकाने पर",
+            "(द) उपरोक्त में से कोई नहीं"
+          ],
+          "answer": "(अ) याचना राशि के भुगतान न होने पर",
+          "year": "2022",
+          "chapter": "भाग B अध्याय 1 अंश पूँजी",
+          "imp": true
+        },
+        {
+          "q_no": 26,
+          "q": "अंश निर्गमन पर प्राप्त प्रीमियम किसमें दर्शाया जाता है?",
+          "options": [
+            "(अ) लाभ-हानि खाते में",
+            "(ब) रिज़र्व पूँजी खाते में",
+            "(स) संभावित रिज़र्व पूँजी",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(द) इनमें से कोई नहीं [सही: प्रतिभूति प्रीमियम संचिति खाते में]",
+          "year": "2019",
+          "chapter": "भाग B अध्याय 1 अंश पूँजी"
+        },
+        {
+          "q_no": 27,
+          "q": "SEBI दिशानिर्देशों के अनुसार न्यूनतम अभिदान है —",
+          "options": [
+            "(अ) संपूर्ण निर्गमन का 45%",
+            "(ब) संपूर्ण निर्गमन का 90%",
+            "(स) संपूर्ण निर्गमन का 99%",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(ब) संपूर्ण निर्गमन का 90%",
+          "chapter": "भाग B अध्याय 1 अंश पूँजी",
+          "imp": true
+        },
+        {
+          "q_no": 28,
+          "q": "हरित अंशों का पुनर्निर्गमन किया जा सकता है —",
+          "options": [
+            "(अ) सममूल्य पर",
+            "(ब) छूट पर",
+            "(स) प्रीमियम पर",
+            "(द) उपरोक्त सभी पर"
+          ],
+          "answer": "(द) उपरोक्त सभी पर",
+          "chapter": "भाग B अध्याय 1 अंश पूँजी"
+        },
+        {
+          "q_no": 29,
+          "q": "संपार्श्विक प्रतिभूति के रूप में निर्गमित ऋणपत्रों को किससे डेबिट किया जाएगा?",
+          "options": [
+            "(अ) बैंक खाता",
+            "(ब) Debenture Suspense खाता",
+            "(स) ऋणपत्र खाता",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(ब) Debenture Suspense खाता",
+          "year": "2012",
+          "chapter": "भाग B अध्याय 2 ऋणपत्र",
+          "imp": true
+        },
+        {
+          "q_no": 30,
+          "q": "ऋणपत्र निर्गमन पर छूट है —",
+          "options": [
+            "(अ) पूँजी हानि",
+            "(ब) चालू दायित्व",
+            "(स) स्थिर परिसंपत्ति",
+            "(द) कृत्रिम परिसंपत्ति (fictitious asset)"
+          ],
+          "answer": "(अ) पूँजी हानि",
+          "year": "2018",
+          "chapter": "भाग B अध्याय 2 ऋणपत्र",
+          "imp": true
+        },
+        {
+          "q_no": 31,
+          "q": "अनुपात विश्लेषण के जनक कौन हैं?",
+          "options": [
+            "(अ) हेनरी फ़ेयोल",
+            "(ब) बेंजामिन ग्राहम",
+            "(स) न्यूटन",
+            "(द) जॉन मेसी"
+          ],
+          "answer": "(ब) बेंजामिन ग्राहम",
+          "year": "2006",
+          "chapter": "भाग B अध्याय 4 अनुपात",
+          "imp": true
+        },
+        {
+          "q_no": 32,
+          "q": "चालू अनुपात किसकी जाँच के लिए प्रयोग होता है?",
+          "options": [
+            "(अ) दीर्घकालिक शोधक्षमता",
+            "(ब) अल्पकालिक शोधक्षमता",
+            "(स) लाभदायकता",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(ब) अल्पकालिक शोधक्षमता",
+          "year": "2024",
+          "chapter": "भाग B अध्याय 4 अनुपात"
+        },
+        {
+          "q_no": 33,
+          "q": "आदर्श चालू अनुपात है —",
+          "options": [
+            "(अ) 2:1",
+            "(ब) 1:1",
+            "(स) 3:1",
+            "(द) 4:1"
+          ],
+          "answer": "(अ) 2:1",
+          "year": "UP Board Model Paper 2023-24",
+          "chapter": "भाग B अध्याय 4 अनुपात",
+          "imp": true
+        },
+        {
+          "q_no": 34,
+          "q": "आदर्श तरल अनुपात है —",
+          "options": [
+            "(अ) 2:3",
+            "(ब) 1:1",
+            "(स) 3:1",
+            "(द) 1:2"
+          ],
+          "answer": "(ब) 1:1",
+          "year": "2011",
+          "chapter": "भाग B अध्याय 4 अनुपात",
+          "imp": true
+        }
+      ]
+    },
+    "vsa_question_bank": {
+      "marks_each": 2,
+      "total_in_bank": 22,
+      "note": "अति लघु उत्तरीय। 30 शब्दों के भीतर उत्तर। परीक्षा में सभी अनिवार्य (प्रश्न 11-20)। परिभाषाएँ, 2 विशेषताएँ, या एक छोटा सूत्र/अवधारणा।",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "साझेदारी की कोई दो विशेषताएँ लिखिए।",
+          "answer": "(i) साझेदारी दो या अधिक व्यक्तियों का समूह है एवं सभी व्यक्ति अनुबंध करने में सक्षम होने चाहिए। कंपनी अधिनियम 2013 के अनुसार अधिकतम साझेदार = 50। (ii) साझेदारी एक समझौते से अस्तित्व में आती है, चाहे वह लिखित हो या मौखिक।",
+          "year": "2025, UP Board Model Paper",
+          "chapter": "अध्याय 1 साझेदारी",
+          "imp": true
+        },
+        {
+          "q_no": 2,
+          "q": "साझेदारी संलेख की व्याख्या कीजिए।",
+          "answer": "साझेदारी साझेदारों के बीच समझौते के परिणामस्वरूप अस्तित्व में आती है। साझेदारों के बीच समझौते की शर्तों एवं नियमों को लिखित रूप में धारित करने वाला दस्तावेज़ 'साझेदारी संलेख' (Partnership Deed) कहलाता है।",
+          "year": "2025, 2023, NCERT",
+          "chapter": "अध्याय 1 साझेदारी",
+          "imp": true
+        },
+        {
+          "q_no": 3,
+          "q": "आहरण पर ब्याज की गणना की कोई एक विधि समझाइए।",
+          "answer": "साधारण विधि: आहरण पर ब्याज प्रत्येक अलग आहरण पर उस समय के लिए निकाला जाता है जिसके लिए उसका उपयोग हुआ। आहरण पर ब्याज = आहरण की राशि × ब्याज दर/100 × शेष माह/12",
+          "year": "2025, 2023",
+          "chapter": "अध्याय 1 साझेदारी",
+          "imp": true
+        },
+        {
+          "q_no": 4,
+          "q": "साझेदारी फ़र्म के पुनर्गठन से क्या अभिप्राय है?",
+          "answer": "साझेदारी के वर्तमान समझौते में कोई भी परिवर्तन फ़र्म का पुनर्गठन कहलाता है। पुनर्गठन के परिणामस्वरूप पुराना समझौता समाप्त होता है एवं नया समझौता लागू होता है तथा फ़र्म का व्यवसाय जारी रहता है।",
+          "year": "2025",
+          "chapter": "अध्याय 2 प्रवेश",
+          "imp": true
+        },
+        {
+          "q_no": 5,
+          "q": "साझेदारी फ़र्म के विघटन से क्या अभिप्राय है?",
+          "answer": "साझेदारी के विघटन का अर्थ है साझेदारी समझौते का विघटन (साझेदारों के पारस्परिक संबंधों में परिवर्तन) — फ़र्म जारी रह सकती है। फ़र्म तब विघटित मानी जाती है जब सभी साझेदारों के बीच साझेदारी समाप्त होती है एवं व्यवसाय भी बंद हो जाता है।",
+          "year": "2025",
+          "chapter": "अध्याय 4 विघटन",
+          "imp": true
+        },
+        {
+          "q_no": 6,
+          "q": "इक्विटी अंश की दो विशेषताएँ लिखिए।",
+          "answer": "(i) इक्विटी अंशों पर कोई पूर्वाधिकार नहीं होता, अर्थात् लाभांश की कोई निश्चित दर नहीं होती। (ii) इक्विटी अंशधारी को लाभांश एवं पूँजी की वापसी तभी मिलती है जब पूर्वाधिकार अंशधारियों के दावे संतुष्ट हो चुके हों।",
+          "year": "2025",
+          "chapter": "भाग B अध्याय 1 अंश पूँजी"
+        },
+        {
+          "q_no": 7,
+          "q": "परिवर्तनीयता के दृष्टिकोण से ऋणपत्रों के प्रकार बताइए।",
+          "answer": "(i) परिवर्तनीय ऋणपत्र: एक निर्दिष्ट अवधि के बाद इन्हें इक्विटी अंशों में बदला जा सकता है। (ii) अपरिवर्तनीय ऋणपत्र: इन्हें इक्विटी अंशों में नहीं बदला जा सकता एवं परिपक्वता पर सममूल्य/प्रीमियम पर शोधित होते हैं।",
+          "year": "2025, 2024",
+          "chapter": "भाग B अध्याय 2 ऋणपत्र",
+          "imp": true
+        },
+        {
+          "q_no": 8,
+          "q": "वित्तीय विवरण के दो उद्देश्य लिखिए।",
+          "answer": "(i) उद्यम की आर्थिक संपत्तियों (परिसंपत्तियों) एवं दायित्वों की तथा अर्जन क्षमता पर सूचना प्रदान करना। (ii) वित्तीय विवरणों में रुचि रखने वाले विभिन्न पक्षों को पर्याप्त एवं विश्वसनीय सूचना उपलब्ध कराना।",
+          "year": "2025, 2024",
+          "chapter": "भाग B अध्याय 3 वित्तीय विवरण",
+          "imp": true
+        },
+        {
+          "q_no": 9,
+          "q": "अनुपात विश्लेषण से क्या अभिप्राय है?",
+          "answer": "अनुपात विश्लेषण एक तकनीक है जिसमें गणितीय संबंधों के प्रयोग द्वारा आँकड़ों का पुनर्समूहन होता है। यह व्यावसायिक उद्यमों के निष्पादन को मापने का सबसे महत्वपूर्ण एवं प्रभावशाली साधन है। यह वित्तीय विवरणों को सरल, समझने योग्य एवं व्याख्या योग्य बनाने में सहायक है।",
+          "year": "2025",
+          "chapter": "भाग B अध्याय 4 अनुपात",
+          "imp": true
+        },
+        {
+          "q_no": 10,
+          "q": "वित्तपोषण क्रियाओं से रोकड़ अंतर्वाह के दो उदाहरण दीजिए।",
+          "answer": "(i) नक़द के बदले अंशों के निर्गमन से प्राप्तियाँ। (ii) नक़द के बदले ऋणपत्रों/बॉण्डों के निर्गमन से प्राप्तियाँ। इसके अतिरिक्त: दीर्घकालिक उधार से प्राप्तियाँ, प्रतिभूति प्रीमियम की प्राप्ति।",
+          "year": "2025, 2023",
+          "chapter": "भाग B अध्याय 5 रोकड़ प्रवाह",
+          "imp": true
+        },
+        {
+          "q_no": 11,
+          "q": "साझेदारों के चालू खाते से क्या समझते हैं?",
+          "answer": "स्थिर पूँजी विधि में प्रत्येक साझेदार के लिए एक चालू खाता रखा जाता है एवं साझेदारों से संबंधित सभी मदें जैसे आहरण, पूँजी पर ब्याज, लाभ/हानि का भाग आदि इसी खाते में लिखी जाती हैं। इस खाते का शेष डेबिट या क्रेडिट हो सकता है।",
+          "year": "2022",
+          "chapter": "अध्याय 1 साझेदारी"
+        },
+        {
+          "q_no": 12,
+          "q": "लाभ-हानि विनियोग खाते में दिखाई जाने वाली मदें बताइए।",
+          "answer": "लाभ-हानि विनियोग खाते में दर्शायी जाने वाली मदें: (i) पूँजी पर ब्याज (ii) साझेदारों का वेतन (iii) संचिति में अंतरण (iv) आहरण पर ब्याज। इसमें क्रेडिट पक्ष पर शुद्ध लाभ (विनियोग से पूर्व) भी दिखाया जाता है।",
+          "year": "2023",
+          "chapter": "अध्याय 1 साझेदारी"
+        },
+        {
+          "q_no": 13,
+          "q": "त्याग अनुपात क्या है?",
+          "answer": "वह अनुपात जिसमें पुराने साझेदार नए साझेदार के पक्ष में अपने लाभ-भाग का त्याग करने पर सहमत होते हैं, त्याग अनुपात कहलाता है। त्याग अनुपात = पुराना भाग – नया भाग। इसका उपयोग यह निर्धारित करने के लिए होता है कि नए साझेदार को पुराने साझेदारों को कितनी ख्याति देनी चाहिए।",
+          "year": "UP Board Model Paper 2023-24, 2019",
+          "chapter": "अध्याय 2 प्रवेश",
+          "imp": true
+        },
+        {
+          "q_no": 14,
+          "q": "साझेदार के प्रवेश पर किन विभिन्न समायोजनों की आवश्यकता होती है?",
+          "answer": "साझेदार के प्रवेश पर निम्नलिखित समायोजन आवश्यक हैं: (i) नया अनुपात एवं त्याग अनुपात की गणना। (ii) ख्याति का व्यवहार। (iii) परिसंपत्तियों का पुनर्मूल्यांकन एवं दायित्वों का पुनर्निर्धारण। (iv) संचिति, संचित लाभ एवं हानि का व्यवहार। (v) पूँजी का समायोजन।",
+          "year": "2025",
+          "chapter": "अध्याय 2 प्रवेश"
+        },
+        {
+          "q_no": 15,
+          "q": "नए साझेदार द्वारा प्राप्त दो अधिकार लिखिए।",
+          "answer": "(i) फ़र्म के भावी लाभों में भाग लेने का अधिकार — इसी अधिकार के लिए ख्याति लाई जाती है। (ii) फ़र्म की परिसंपत्तियों में भाग लेने का अधिकार — इसी के लिए पूँजी लाई जाती है।",
+          "year": "2024, 2018, 2014",
+          "chapter": "अध्याय 2 प्रवेश"
+        },
+        {
+          "q_no": 16,
+          "q": "अंश की परिभाषा दीजिए।",
+          "answer": "कंपनी की पूँजी को छोटी इकाइयों में बाँटा जाता है। प्रत्येक छोटी इकाई को अंश (Share) कहते हैं। प्रत्येक अंश का एक अंकित मूल्य या सममूल्य होता है, जो ₹1, ₹2, ₹5, ₹10 या कोई भी राशि हो सकती है।",
+          "year": "UP Board Model Paper 2023-24",
+          "chapter": "भाग B अध्याय 1 अंश पूँजी",
+          "imp": true
+        },
+        {
+          "q_no": 17,
+          "q": "ऋणपत्र से क्या तात्पर्य है?",
+          "answer": "यह कंपनी की सामान्य मुहर के अंतर्गत निर्गमित ऋण स्वीकारोक्ति का एक दस्तावेज़ है। इसमें ऋणपत्र का अंकित/सममूल्य, देय ब्याज दर, भुगतान की आवृत्ति, ऋणपत्र की अवधि एवं शोधन की शर्तें उल्लेखित होती हैं। अनुसूची III के अनुसार ऋणपत्र तुलन-पत्र के इक्विटी एवं दायित्व पक्ष में 'गैर-चालू दायित्व' शीर्षक के अंतर्गत 'दीर्घकालिक उधार' उप-शीर्षक में दर्शाए जाते हैं।",
+          "year": "2019, 2014",
+          "chapter": "भाग B अध्याय 2 ऋणपत्र",
+          "imp": true
+        },
+        {
+          "q_no": 18,
+          "q": "पुनर्मूल्यांकन खाता क्या है?",
+          "answer": "पुनर्मूल्यांकन खाता वह खाता है जो प्रवेश, अवकाश-प्राप्ति, मृत्यु एवं लाभ-विभाजन अनुपात में परिवर्तन के समय परिसंपत्तियों एवं दायित्वों के मूल्य में परिवर्तन को दर्ज करने के लिए तैयार किया जाता है। यह प्रकृति में नाम-मात्र खाता है। इसे लाभ-हानि समायोजन खाते के नाम से भी जाना जाता है।",
+          "year": "2022, 2017, 2013",
+          "chapter": "अध्याय 2/3",
+          "imp": true
+        },
+        {
+          "q_no": 19,
+          "q": "रोकड़ तुल्य से क्या अभिप्राय है?",
+          "answer": "AS-3 के अनुसार 'रोकड़' में हस्तस्थ रोकड़ एवं बैंकों में माँग जमा शामिल हैं तथा 'रोकड़ तुल्य' का अर्थ है अल्पकालिक अत्यधिक तरल निवेश जो ज्ञात राशि की रोकड़ में आसानी से परिवर्तनीय हों एवं जिनके मूल्य में परिवर्तन का जोख़िम नगण्य हो। उदा. अल्पकालिक विपणन योग्य प्रतिभूतियाँ।",
+          "year": "2025",
+          "chapter": "भाग B अध्याय 5 रोकड़ प्रवाह",
+          "imp": true
+        },
+        {
+          "q_no": 20,
+          "q": "वित्तपोषण क्रियाओं से क्या अभिप्राय है?",
+          "answer": "वे क्रियाएँ जो उद्यम की स्वामित्व-पूँजी (पूर्वाधिकार अंश पूँजी सहित) एवं अन्य स्रोतों से लिए गए उधार (ऋणपत्र सहित) के आकार एवं संरचना में परिवर्तन लाती हैं। रोकड़ अंतर्वाह: अंशों, ऋणपत्रों का निर्गमन, दीर्घकालिक उधार। रोकड़ बहिर्वाह: ऋणों की अदायगी, लाभांश का भुगतान।",
+          "year": "2025",
+          "chapter": "भाग B अध्याय 5 रोकड़ प्रवाह"
+        },
+        {
+          "q_no": 21,
+          "q": "ख्याति की परिभाषा दीजिए।",
+          "answer": "ख्याति किसी व्यवसाय की सुनाम या प्रतिष्ठा है जो उसे दूसरों की तुलना में अधिक लाभ अर्जित करने में सहायता करती है। यह एक अमूर्त परिसंपत्ति है (ऐसी परिसंपत्ति जिसका भौतिक अस्तित्व नहीं होता) — कृत्रिम परिसंपत्ति नहीं, क्योंकि इसका वसूली मूल्य होता है।",
+          "year": "UP Board Model Paper 2011",
+          "chapter": "अध्याय 2 प्रवेश",
+          "imp": true
+        },
+        {
+          "q_no": 22,
+          "q": "साझेदारी फ़र्म के अनिवार्य विघटन की कोई दो शर्तें बताइए।",
+          "answer": "(i) यदि एक साझेदार को छोड़कर सभी साझेदार दिवालिया हो जाएँ। (ii) यदि साझेदारी का वर्तमान व्यवसाय अवैध हो जाए।",
+          "year": "2025 Model Paper",
+          "chapter": "अध्याय 4 विघटन"
+        }
+      ]
+    },
+    "sa_question_bank": {
+      "marks_each": 5,
+      "total_in_bank": 8,
+      "note": "लघु उत्तरीय। प्रश्न 21-26, सभी अनिवार्य। 100 शब्दों के भीतर। सैद्धांतिक (परिभाषा + व्याख्या) एवं छोटे संख्यात्मक का मिश्रण।",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "अधिलाभ के आधार पर ख्याति की गणना की विधि समझाइए।",
+          "answer_points": [
+            "अधिलाभ विधि: अधिलाभ (Super Profit), औसत लाभ पर सामान्य लाभ का आधिक्य है।",
+            "चरण:",
+            "1. औसत लाभ = दिए गए वर्षों के कुल लाभ / वर्षों की संख्या",
+            "2. सामान्य लाभ = नियोजित पूँजी × सामान्य प्रतिफल दर / 100",
+            "3. अधिलाभ = औसत लाभ – सामान्य लाभ",
+            "4. ख्याति = अधिलाभ × क्रय के वर्षों की संख्या",
+            "उदाहरण: यदि औसत लाभ = ₹18,000 एवं सामान्य लाभ = ₹12,000, तो अधिलाभ = ₹6,000। यदि 3 वर्षों के लिए क्रय किया जाए, तो ख्याति = ₹6,000 × 3 = ₹18,000।"
+          ],
+          "marks": 5,
+          "year": "2025, NCERT",
+          "chapter": "अध्याय 2 प्रवेश",
+          "imp": true
+        },
+        {
+          "q_no": 2,
+          "q": "नए साझेदार के प्रवेश पर फ़र्म की परिसंपत्तियों एवं दायित्वों का पुनर्मूल्यांकन क्यों किया जाता है?",
+          "answer_points": [
+            "नए साझेदार के प्रवेश के समय परिसंपत्तियों एवं दायित्वों का पुनर्मूल्यांकन निम्नलिखित कारणों से किया जाता है:",
+            "1. फ़र्म की सही एवं उचित स्थिति दर्शाने के लिए — परिसंपत्तियाँ एवं दायित्व अपने वर्तमान बाज़ार-मूल्य पर दिखाए जाने चाहिए।",
+            "2. पुनर्मूल्यांकन का लाभ या हानि (मूल्यों में वृद्धि या कमी) केवल पुराने साझेदारों द्वारा पुराने लाभ-विभाजन अनुपात में वहन किया जाना चाहिए, क्योंकि नया साझेदार पिछले लेन-देनों के लिए उत्तरदायी नहीं है।",
+            "3. इससे नए साझेदार के साथ न्याय सुनिश्चित होता है — उसे प्रवेश से पहले हुए परिवर्तनों का लाभ न मिले एवं हानि भी न वहन करनी पड़े।",
+            "4. पुनर्मूल्यांकन खाते के माध्यम से पुराने साझेदारों के पूँजी खातों को तदनुसार समायोजित किया जाता है।"
+          ],
+          "marks": 5,
+          "year": "2025",
+          "chapter": "अध्याय 2 प्रवेश"
+        },
+        {
+          "q_no": 3,
+          "q": "पूर्वाधिकार अंशों के प्रकारों की चर्चा कीजिए।",
+          "answer_points": [
+            "पूर्वाधिकार अंशों को निम्नलिखित रूप में वर्गीकृत किया जाता है:",
+            "1. संचयी पूर्वाधिकार अंश: यदि अपर्याप्त लाभ के कारण किसी वर्ष लाभांश न चुकाया जाए, तो वह संचित होता है एवं अगले लाभ वाले वर्षों में चुकाया जाता है।",
+            "2. गैर-संचयी पूर्वाधिकार अंश: लाभांश संचित नहीं होता; यदि किसी वर्ष न चुकाया जाए तो समाप्त हो जाता है।",
+            "3. सहभागी पूर्वाधिकार अंश: निश्चित लाभांश के अतिरिक्त इन अंशों को अधिशेष लाभ में भी भाग लेने का अधिकार होता है।",
+            "4. गैर-सहभागी पूर्वाधिकार अंश: निश्चित लाभांश के अतिरिक्त अधिशेष लाभ में भाग लेने का अधिकार नहीं होता।",
+            "5. परिवर्तनीय पूर्वाधिकार अंश: एक निर्दिष्ट समय पर इक्विटी अंशों में परिवर्तित किए जा सकते हैं।",
+            "6. अपरिवर्तनीय पूर्वाधिकार अंश: इक्विटी अंशों में परिवर्तित नहीं किए जा सकते।",
+            "7. शोध्य पूर्वाधिकार अंश: कंपनी द्वारा एक निर्दिष्ट अवधि के बाद चुकाए जाते हैं।",
+            "8. अशोध्य पूर्वाधिकार अंश: कंपनी के जीवनकाल में चुकाए नहीं जाते।"
+          ],
+          "marks": 5,
+          "year": "2025",
+          "chapter": "भाग B अध्याय 1 अंश पूँजी",
+          "imp": true
+        },
+        {
+          "q_no": 4,
+          "q": "वित्तीय विवरणों के उद्देश्य क्या हैं?",
+          "answer_points": [
+            "वित्तीय विवरणों के उद्देश्य:",
+            "1. उद्यम की आर्थिक संपत्तियों (परिसंपत्तियों) एवं दायित्वों पर सूचना प्रदान करना।",
+            "2. उद्यम की अर्जन क्षमता (लाभदायकता) पर सूचना प्रदान करना।",
+            "3. वित्तीय विवरणों में रुचि रखने वाले विभिन्न पक्षों को पर्याप्त एवं विश्वसनीय सूचना प्रदान करना।",
+            "4. रोकड़ प्रवाह पर सूचना प्रदान करना।",
+            "5. व्यवसाय के वित्तीय निष्पादन एवं स्थिति का सही एवं उचित दृश्य देना।",
+            "6. भविष्य की योजना एवं विभिन्न क्रियाओं के क्रियान्वयन हेतु आधार के रूप में कार्य करना।",
+            "7. कंपनी द्वारा अपनाई गई विभिन्न लेखांकन नीतियों का प्रकटन करना।"
+          ],
+          "marks": 5,
+          "year": "UP Board Model Paper",
+          "chapter": "भाग B अध्याय 3 वित्तीय विवरण",
+          "imp": true
+        },
+        {
+          "q_no": 5,
+          "q": "ऋणपत्रों के विभिन्न प्रकार समझाइए।",
+          "answer_points": [
+            "कंपनी निम्नलिखित रूप में वर्गीकृत विभिन्न प्रकार के ऋणपत्र निर्गमित कर सकती है:",
+            "I. सुरक्षा के दृष्टिकोण से: (क) सुरक्षित/बंधक ऋणपत्र — परिसंपत्तियों पर स्थिर या चल भार द्वारा सुरक्षित। (ख) असुरक्षित/नग्न ऋणपत्र — किसी भार द्वारा सुरक्षित नहीं।",
+            "II. अवधि के दृष्टिकोण से: (क) शोध्य — निर्दिष्ट समय के अंत में या किस्तों में चुकाए जाते हैं। (ख) अशोध्य/शाश्वत — कंपनी के जीवनकाल में न चुकाए जाने वाले।",
+            "III. पंजीकरण के दृष्टिकोण से: (क) पंजीकृत ऋणपत्र। (ख) वाहक ऋणपत्र।",
+            "IV. परिवर्तनीयता के दृष्टिकोण से: (क) परिवर्तनीय — इक्विटी में बदले जा सकते हैं। (ख) अपरिवर्तनीय।",
+            "V. कूपन दर के दृष्टिकोण से: (क) निर्दिष्ट ब्याज दर ऋणपत्र। (ख) शून्य कूपन/गहन छूट ऋणपत्र — शून्य ब्याज दर पर निर्गमित।"
+          ],
+          "marks": 5,
+          "year": "2012, 2025",
+          "chapter": "भाग B अध्याय 2 ऋणपत्र",
+          "imp": true
+        },
+        {
+          "q_no": 6,
+          "q": "साझेदारी फ़र्म के विघटन से क्या समझते हैं? किन परिस्थितियों में साझेदारी फ़र्म का विघटन होता है?",
+          "answer_points": [
+            "फ़र्म का विघटन अर्थात् फ़र्म के सभी साझेदारों के बीच साझेदारी का विघटन। ऐसी स्थिति में फ़र्म का व्यवसाय भी समाप्त हो जाता है।",
+            "निम्नलिखित परिस्थितियों में साझेदारी फ़र्म का विघटन होता है:",
+            "I. न्यायालय के आदेश के बिना विघटन (धारा 40-43):",
+            "(क) समझौते से विघटन (धारा 40) — सभी साझेदार सहमत हों।",
+            "(ख) अनिवार्य विघटन (धारा 41) — सभी साझेदार दिवालिया या व्यवसाय अवैध हो।",
+            "(ग) विशिष्ट घटनाओं के घटित होने पर (धारा 42) — जैसे अवधि की समाप्ति, साझेदार की मृत्यु।",
+            "(घ) सूचना द्वारा विघटन (धारा 43) — इच्छा-साझेदारी (Partnership at Will) में।",
+            "II. न्यायालय द्वारा विघटन (धारा 44) — जैसे साझेदार का अस्वस्थ मन का होना, समझौते का बारंबार उल्लंघन आदि के आधार पर न्यायालय आदेश देता है।"
+          ],
+          "marks": 5,
+          "year": "2008, 2007",
+          "chapter": "अध्याय 4 विघटन",
+          "imp": true
+        },
+        {
+          "q_no": 7,
+          "q": "निम्नलिखित आँकड़ों से सकल लाभ अनुपात एवं शुद्ध लाभ अनुपात की गणना कीजिए।",
+          "problem_data": {
+            "प्रारंभिक_स्टॉक": "₹50,000",
+            "बिक्री": "₹2,75,000",
+            "क्रय": "₹1,50,000",
+            "बिक्री_वापसी": "₹25,000",
+            "क्रय_वापसी": "₹20,000",
+            "अंतिम_स्टॉक": "₹40,000",
+            "मज़दूरी": "₹10,000",
+            "वेतन": "₹25,000"
+          },
+          "answer": "शुद्ध बिक्री = 2,75,000 – 25,000 = ₹2,50,000। विक्रय वस्तुओं की लागत (COGS) = 50,000 + 1,50,000 – 20,000 – 40,000 + 10,000 = ₹1,50,000। सकल लाभ = 2,50,000 – 1,50,000 = ₹1,00,000। सकल लाभ अनुपात = 1,00,000/2,50,000 × 100 = 40%। शुद्ध लाभ = 1,00,000 – 25,000 = ₹75,000। शुद्ध लाभ अनुपात = 75,000/2,50,000 × 100 = 30%।",
+          "marks": "5+5",
+          "year": "2025",
+          "chapter": "भाग B अध्याय 4 अनुपात",
+          "imp": true
+        },
+        {
+          "q_no": 8,
+          "q": "साझेदारी के विघटन एवं फ़र्म के विघटन में अंतर बताइए।",
+          "answer_table": {
+            "headers": [
+              "आधार",
+              "साझेदारी का विघटन",
+              "फ़र्म का विघटन"
+            ],
+            "rows": [
+              [
+                "अर्थ",
+                "साझेदारी समझौते का विघटन केवल साझेदारी में परिवर्तन है। फ़र्म जारी रह सकती है।",
+                "फ़र्म का विघटन अर्थात् फ़र्म की सभी व्यावसायिक क्रियाओं का अंत।"
+              ],
+              [
+                "लेखा पुस्तकें",
+                "इस स्थिति में लेखा पुस्तकें बंद नहीं की जातीं।",
+                "लेखा पुस्तकें अनिवार्य रूप से बंद कर दी जाती हैं।"
+              ],
+              [
+                "विघटन",
+                "साझेदारी के विघटन का अर्थ फ़र्म का विघटन नहीं है। फ़र्म जारी रह सकती है।",
+                "फ़र्म के विघटन से साझेदारी का विघटन आवश्यक रूप से हो जाता है।"
+              ],
+              [
+                "प्रकृति",
+                "साझेदारी का विघटन स्वैच्छिक है। यह समझौते से उत्पन्न होता है।",
+                "फ़र्म का विघटन स्वैच्छिक एवं अनिवार्य दोनों हो सकता है।"
+              ],
+              [
+                "न्यायालय का हस्तक्षेप",
+                "न्यायालय का कोई हस्तक्षेप नहीं।",
+                "यदि आवश्यक समझा जाए तो न्यायालय हस्तक्षेप करता है।"
+              ]
+            ]
+          },
+          "marks": 5,
+          "year": "2019, 2024",
+          "chapter": "अध्याय 4 विघटन"
+        }
+      ]
+    },
+    "la_question_bank": {
+      "marks_each": 10,
+      "total_in_bank": 4,
+      "note": "दीर्घ उत्तरीय। परीक्षा में प्रश्न 27-30 — प्रत्येक में 'अथवा' विकल्प। अधिकतर संख्यात्मक — जर्नल प्रविष्टियाँ, खाता-बही, अनुपात गणना, या रोकड़ प्रवाह। मध्यम से कठिन।",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "R Ltd. ने ₹10 प्रति अंश वाले 20,000 अंशों के लिए आवेदन आमंत्रित किए, देय इस प्रकार: आवेदन पर ₹3, आबंटन पर ₹2, प्रथम याचना पर ₹2.50। जनता ने 30,000 अंशों के लिए आवेदन किया। आबंटन: 8,000 को पूर्ण, 16,000 के लिए 12,000 अंश, 6,000 के लिए कोई नहीं। सारा धन यथासमय प्राप्त। जर्नल प्रविष्टियाँ कीजिए।",
+          "type": "संख्यात्मक",
+          "marks": 10,
+          "year": "2025",
+          "chapter": "भाग B अध्याय 1 अंश पूँजी",
+          "imp": true,
+          "solution_steps": [
+            "चरण 1: Bank A/c Dr 90,000 | To Share Application A/c 90,000 (आवेदन राशि: 30,000 × 3)",
+            "चरण 2: Share Application A/c Dr 90,000 | To Share Capital A/c 24,000 | To Share Allotment A/c 6,000 | To Bank A/c 60,000 (6,000 आवेदकों को अतिरिक्त राशि वापस; 12,000 आबंटन में समायोजित)",
+            "चरण 3: Share Allotment A/c Dr 40,000 | To Share Capital A/c 40,000 (आबंटन: 20,000 × 2)",
+            "चरण 4: Bank A/c Dr 34,000 | To Share Allotment A/c 34,000 (₹6,000 समायोजन के बाद शुद्ध आबंटन प्राप्त)",
+            "चरण 5: Share First Call A/c Dr 50,000 | To Share Capital A/c 50,000 (प्रथम याचना: 20,000 × 2.50)",
+            "चरण 6: Bank A/c Dr 50,000 | To Share First Call A/c 50,000"
+          ],
+          "or_option": "कंपनी से क्या तात्पर्य है? उसकी विशेषताएँ समझाइए। (3+7)"
+        },
+        {
+          "q_no": 2,
+          "q": "दिए गए आँकड़ों से सकल लाभ अनुपात एवं शुद्ध लाभ अनुपात की गणना कीजिए।",
+          "type": "संख्यात्मक",
+          "marks": "5+5",
+          "year": "2025",
+          "chapter": "भाग B अध्याय 4 अनुपात",
+          "imp": true,
+          "or_option": "ऋणपत्र एवं अंश से क्या तात्पर्य है? ऋणपत्र एवं अंश के बीच अंतर समझाइए। (2+2+6)"
+        },
+        {
+          "q_no": 3,
+          "q": "निम्नलिखित सूचनाओं से प्रचालन क्रियाओं से रोकड़ प्रवाह विवरण तैयार कीजिए: शुद्ध लाभ ₹1,00,000; सामान्य संचिति में अंतरण ₹10,000; देनदार में कमी ₹25,000; देय बिल में कमी ₹20,000; अंशों पर छूट अपलेखित ₹5,000; स्टॉक में वृद्धि ₹18,000; मशीन की बिक्री पर हानि ₹12,000; निवेश की बिक्री पर लाभ ₹4,000।",
+          "type": "संख्यात्मक",
+          "solution": "शुद्ध लाभ = 1,00,000। जोड़ें: सामान्य संचिति = 10,000; देनदार में कमी = 25,000; छूट अपलेखित = 5,000; मशीन बिक्री पर हानि = 12,000 = 52,000। घटाएँ: निवेश बिक्री पर लाभ = 4,000; देय बिल में कमी = 20,000; स्टॉक में वृद्धि = 18,000 = 42,000। प्रचालन से रोकड़ = 1,00,000 + 52,000 – 42,000 = ₹1,10,000 (लगभग)।",
+          "marks": 10,
+          "year": "2025",
+          "chapter": "भाग B अध्याय 5 रोकड़ प्रवाह",
+          "imp": true,
+          "or_option": "तुलनात्मक आय विवरण क्या है? काल्पनिक आँकड़ों की सहायता से तुलनात्मक आय विवरण का नमूना दीजिए। (3+7)"
+        },
+        {
+          "q_no": 4,
+          "q": "A, B एवं C साझेदार 3:2:1 के अनुपात में लाभ बाँटते हैं। B अवकाश लेता है एवं उसका भाग A तथा C 2:1 के अनुपात में ले लेते हैं। ख्याति, पुनर्मूल्यांकन एवं पूँजी खातों के लिए आवश्यक जर्नल प्रविष्टियाँ कीजिए यदि: फ़र्म की ख्याति = ₹12,600; भूमि एवं भवन का मूल्य ₹9,520 बढ़ा; स्टॉक ₹920 घटा; बकाया मरम्मत बिल के लिए संचिति ₹1,320।",
+          "type": "संख्यात्मक",
+          "marks": 10,
+          "year": "2025 (आधारित)",
+          "chapter": "अध्याय 3 अवकाश-प्राप्ति",
+          "imp": true,
+          "solution_steps": [
+            "लाभ अनुपात: A को B के 1/3 का 2/3 = 2/9; C को B के 1/3 का 1/3 = 1/9। लाभ अनुपात = 2:1",
+            "लाभ अनुपात में A एवं C से ख्याति चार्ज: A = 12,600 × 2/3 = 8,400; C = 12,600 × 1/3 = 4,200",
+            "पुनर्मूल्यांकन: भूमि में वृद्धि +9,520; स्टॉक में कमी -920; बकाया मरम्मत -1,320। पुनर्मूल्यांकन पर शुद्ध लाभ = 9,520 – 920 – 1,320 = ₹7,280, 3:2:1 में बाँटा जाएगा।"
+          ],
+          "or_option": "साझेदारी की परिभाषा दीजिए। उसकी आवश्यक विशेषताओं की चर्चा कीजिए।"
+        }
+      ]
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Accountancy — journal entry formats / comparison tables / charts.",
+    "must_practise": [
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Admission",
+        "diagram_name": "नए साझेदार द्वारा नक़द में ख्याति लाई जाए (स्थिति I)",
+        "note": "Cash/Bank A/c Dr | To New Partner's Capital A/c | To Premium for Goodwill A/c | Premium for Goodwill A/c Dr | To Sacrificing Partners' Capital/Current A/c (त्याग अनुपात में)"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Admission",
+        "diagram_name": "नक़द में ख्याति न लाई जाए — छिपी ख्याति",
+        "note": "New Partner's Capital A/c Dr | To Old Partners' Capital/Current A/c (त्याग अनुपात में)"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Admission",
+        "diagram_name": "पुनर्मूल्यांकन लाभ का वितरण",
+        "note": "Asset A/c Dr (यदि मूल्य बढ़ा हो) | To Revaluation A/c | Revaluation A/c Dr (यदि मूल्य घटा हो) | To Asset A/c | Revaluation A/c Dr (शुद्ध लाभ) | To Old Partners' Capital A/c (पुराने अनुपात में)"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital",
+        "diagram_name": "अंश आवेदन राशि प्राप्त",
+        "note": "Bank A/c Dr | To Share Application A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital",
+        "diagram_name": "अंश आवेदन राशि पूँजी में अंतरित",
+        "note": "Share Application A/c Dr | To Share Capital A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital",
+        "diagram_name": "अंश आबंटन देय",
+        "note": "Share Allotment A/c Dr | To Share Capital A/c | To Securities Premium Reserve A/c (यदि प्रीमियम पर)"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital",
+        "diagram_name": "आबंटन राशि प्राप्त",
+        "note": "Bank A/c Dr | To Share Allotment A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital",
+        "diagram_name": "अंशों का हरण",
+        "note": "Share Capital A/c Dr (प्रति अंश याचित राशि × हरण किए गए अंश) | To Share Allotment A/c (यदि अदत्त) | To Calls A/c (यदि अदत्त) | To Share Forfeiture A/c (शेष = प्राप्त राशि)"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital",
+        "diagram_name": "हरित अंशों का छूट पर पुनर्निर्गमन",
+        "note": "Bank A/c Dr | Share Forfeiture A/c Dr (दी गई छूट) | To Share Capital A/c (अंकित मूल्य)"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital",
+        "diagram_name": "पुनर्निर्गमन के बाद पूँजी संचिति में अंतरण",
+        "note": "Share Forfeiture A/c Dr (शेष राशि) | To Capital Reserve A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Debentures",
+        "diagram_name": "सममूल्य पर नक़द के लिए ऋणपत्र निर्गमित",
+        "note": "Bank A/c Dr | To Debentures A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Debentures",
+        "diagram_name": "छूट पर ऋणपत्र निर्गमित",
+        "note": "Bank A/c Dr | Discount on Issue of Debentures A/c Dr | To Debentures A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Debentures",
+        "diagram_name": "संपार्श्विक प्रतिभूति के रूप में ऋणपत्र निर्गमित",
+        "note": "Debenture Suspense A/c Dr | To Debentures A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Dissolution",
+        "diagram_name": "परिसंपत्तियाँ वसूली खाते में अंतरित",
+        "note": "Realisation A/c Dr | To Sundry Assets A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Dissolution",
+        "diagram_name": "दायित्व वसूली खाते में अंतरित",
+        "note": "Sundry Liabilities A/c Dr | To Realisation A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Dissolution",
+        "diagram_name": "परिसंपत्तियाँ वसूली गईं",
+        "note": "Cash/Bank A/c Dr | To Realisation A/c (वसूली मूल्य पर)"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Dissolution",
+        "diagram_name": "दायित्वों का भुगतान",
+        "note": "Realisation A/c Dr | To Cash/Bank A/c"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Dissolution",
+        "diagram_name": "वसूली पर लाभ का वितरण",
+        "note": "Realisation A/c Dr | To Partners' Capital A/c (लाभ-विभाजन अनुपात में)"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Dissolution",
+        "diagram_name": "साझेदारों को अंतिम भुगतान",
+        "note": "Partners' Capital A/c Dr | To Cash/Bank A/c"
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Formulas/calculations for Accountancy.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch1 — पूँजी पर ब्याज",
+        "formulas": [
+          "ब्याज = पूँजी × दर/100 × समय"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch1 — आहरण पर ब्याज साधारण विधि",
+        "formulas": [
+          "ब्याज = राशि × दर/100 × शेष माह/12"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch1 — आहरण पर ब्याज गुणनफल विधि",
+        "formulas": [
+          "ब्याज = कुल गुणनफल × दर/100 × 1/12"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch1 — आहरण की औसत अवधि माह के प्रारंभ में",
+        "formulas": [
+          "6.5 माह"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch1 — आहरण की औसत अवधि माह के अंत में",
+        "formulas": [
+          "5.5 माह"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch1 — आहरण की औसत अवधि माह के मध्य में",
+        "formulas": [
+          "6 माह"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch1 — प्रारंभिक पूँजी सूत्र",
+        "formulas": [
+          "प्रारंभिक पूँजी = अंतिम पूँजी + आहरण – लाभ – अतिरिक्त पूँजी लाई गई"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch1 — लाभ पर प्रभार के रूप में पूँजी पर ब्याज",
+        "formulas": [
+          "हानि होने पर भी पूर्ण रूप से स्वीकृत"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch2 Admission — नया लाभ विभाजन अनुपात",
+        "formulas": [
+          "नया लाभ-विभाजन अनुपात = पुराना भाग – त्याग भाग"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch2 Admission — त्याग अनुपात",
+        "formulas": [
+          "त्याग अनुपात = पुराना भाग – नया भाग"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch2 Admission — औसत लाभ विधि ख्याति",
+        "formulas": [
+          "ख्याति = औसत लाभ × क्रय के वर्षों की संख्या"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch2 Admission — औसत लाभ",
+        "formulas": [
+          "औसत लाभ = लाभों का योग / वर्षों की संख्या"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch2 Admission — अधिलाभ विधि ख्याति",
+        "formulas": [
+          "ख्याति = अधिलाभ × क्रय के वर्षों की संख्या"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch2 Admission — अधिलाभ",
+        "formulas": [
+          "अधिलाभ = औसत लाभ – सामान्य लाभ"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch2 Admission — सामान्य लाभ",
+        "formulas": [
+          "सामान्य लाभ = नियोजित पूँजी × सामान्य प्रतिफल दर / 100"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch2 Admission — औसत लाभ का पूँजीकरण",
+        "formulas": [
+          "पूँजीकृत मूल्य = औसत लाभ × 100 / सामान्य प्रतिफल दर"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch2 Admission — छिपी ख्याति",
+        "formulas": [
+          "छिपी ख्याति = अनुमानित फ़र्म मूल्य – फ़र्म की शुद्ध परिसंपत्ति"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch2 Admission — फ़र्म की ख्याति नए साझेदार के भाग से",
+        "formulas": [
+          "फ़र्म की ख्याति = नए साझेदार का ख्याति योगदान × (1 / नए साझेदार का भाग)"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch3 Retirement — अवकाश प्राप्ति पर नया अनुपात",
+        "formulas": [
+          "नया अनुपात = पुराना भाग + प्राप्त लाभ भाग"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Partnership Ch3 Retirement — लाभ अनुपात",
+        "formulas": [
+          "लाभ अनुपात = नया भाग – पुराना भाग"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital — न्यूनतम अभिदान Sebi",
+        "formulas": [
+          "संपूर्ण निर्गमन का 90%"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital — न्यूनतम आवेदन राशि",
+        "formulas": [
+          "अंकित मूल्य का 5%"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital — प्रतिभूति प्रीमियम",
+        "formulas": [
+          "प्रतिभूति प्रीमियम संचिति खाते में क्रेडिट (लाभ-हानि खाते में नहीं)"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital — अंश हरण प्रविष्टि",
+        "formulas": [
+          "Share Capital A/c Dr (याचित राशि) | To Share Allotment/Call A/c | To Share Forfeiture A/c"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital — छूट पर पुनर्निर्गमन",
+        "formulas": [
+          "Share Forfeiture A/c Dr (दी गई छूट) | To Share Capital A/c | Bank A/c Dr | To Share Capital A/c"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Share Capital — पुनर्निर्गमन पर पूँजी संचिति",
+        "formulas": [
+          "पूँजी संचिति = पुनर्निर्गमन के बाद Share Forfeiture A/c का शेष"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — चालू अनुपात",
+        "formulas": [
+          "चालू परिसंपत्ति / चालू दायित्व [आदर्श: 2:1]"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — त्वरित अनुपात",
+        "formulas": [
+          "त्वरित परिसंपत्ति / चालू दायित्व [आदर्श: 1:1]"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — त्वरित परिसंपत्ति",
+        "formulas": [
+          "चालू परिसंपत्ति – स्टॉक – पूर्वदत्त व्यय"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — ऋण इक्विटी अनुपात",
+        "formulas": [
+          "दीर्घकालिक ऋण / अंशधारी कोष"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — ऋण",
+        "formulas": [
+          "दीर्घकालिक उधार + दीर्घकालिक प्रावधान"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — अंशधारी कोष",
+        "formulas": [
+          "अंश पूँजी + संचिति एवं आधिक्य"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — स्वामित्व अनुपात",
+        "formulas": [
+          "अंशधारी कोष / कुल परिसंपत्ति"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — ब्याज कवरेज अनुपात",
+        "formulas": [
+          "ब्याज एवं कर से पूर्व शुद्ध लाभ / दीर्घकालिक ऋण पर ब्याज"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — स्टॉक आवर्तन अनुपात",
+        "formulas": [
+          "प्रचालन से आगम की लागत / औसत स्टॉक"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — व्यापारिक प्राप्य आवर्तन",
+        "formulas": [
+          "शुद्ध उधार प्रचालन आगम / औसत व्यापारिक प्राप्य"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — व्यापारिक देय आवर्तन",
+        "formulas": [
+          "शुद्ध उधार क्रय / औसत व्यापारिक देय"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — कार्यशील पूँजी आवर्तन",
+        "formulas": [
+          "प्रचालन से आगम / कार्यशील पूँजी"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — सकल लाभ अनुपात",
+        "formulas": [
+          "सकल लाभ / प्रचालन से आगम × 100"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — शुद्ध लाभ अनुपात",
+        "formulas": [
+          "कर पश्चात् शुद्ध लाभ / प्रचालन से आगम × 100"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — प्रचालन अनुपात",
+        "formulas": [
+          "(प्रचालन आगम की लागत + प्रचालन व्यय) / आगम × 100"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — प्रचालन लाभ अनुपात",
+        "formulas": [
+          "प्रचालन लाभ / प्रचालन से आगम × 100"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — विनियोजित पूँजी पर प्रतिफल",
+        "formulas": [
+          "ब्याज एवं कर से पूर्व शुद्ध लाभ / नियोजित पूँजी × 100"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — अंशधारी कोष पर प्रतिफल",
+        "formulas": [
+          "कर पश्चात् लाभ / अंशधारी कोष × 100"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — Eps",
+        "formulas": [
+          "इक्विटी अंशधारियों के लिए उपलब्ध लाभ / इक्विटी अंशों की संख्या"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — प्रति अंश बुक वैल्यू",
+        "formulas": [
+          "इक्विटी अंशधारी कोष / इक्विटी अंशों की संख्या"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — लाभांश अदायगी अनुपात",
+        "formulas": [
+          "प्रति अंश लाभांश / प्रति अंश आय"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Accounting Ratios — मूल्य आय अनुपात",
+        "formulas": [
+          "अंश का बाज़ार मूल्य / प्रति अंश आय"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Cash Flow Indirect Method — शुरू कीजिए",
+        "formulas": [
+          "कर एवं असाधारण मदों से पूर्व शुद्ध लाभ"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Cash Flow Indirect Method — जोड़ें गैर रोकड़ प्रभार",
+        "formulas": [
+          "ह्रास",
+          "स्थिर परिसंपत्ति की बिक्री पर हानि",
+          "अपलिखित छूट (अंशों/ऋणपत्रों पर)",
+          "अपलिखित ख्याति",
+          "अपलिखित प्रारंभिक व्यय"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Cash Flow Indirect Method — घटाएँ गैर रोकड़ आय",
+        "formulas": [
+          "स्थिर परिसंपत्ति की बिक्री पर लाभ",
+          "निवेश की बिक्री पर लाभ",
+          "प्राप्त लाभांश (ग़ैर-वित्त कंपनियों के लिए)",
+          "प्राप्त ब्याज (ग़ैर-वित्त कंपनियों के लिए)"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Cash Flow Indirect Method — चालू दायित्व में वृद्धि जोड़ें",
+        "formulas": [
+          "जोड़ें: व्यापारिक देय, बकाया व्यय में वृद्धि"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Cash Flow Indirect Method — चालू दायित्व में कमी घटाएँ",
+        "formulas": [
+          "घटाएँ: व्यापारिक देय में कमी"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Cash Flow Indirect Method — चालू परिसंपत्ति में कमी जोड़ें",
+        "formulas": [
+          "जोड़ें: देनदार में कमी, स्टॉक में कमी"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Cash Flow Indirect Method — चालू परिसंपत्ति में वृद्धि घटाएँ",
+        "formulas": [
+          "घटाएँ: देनदार में वृद्धि, स्टॉक में वृद्धि, पूर्वदत्त व्यय में वृद्धि"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Accountancy",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Accountancy",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Accountancy — theory-only.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 0,
+    "medium_percent": 0,
+    "hard_percent": 0,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "प्रश्न 1-26 सभी अनिवार्य — कभी भी खाली मत छोड़िए। संख्यात्मक में आंशिक working के भी अंक मिलते हैं",
+      "केवल प्रश्न 27-30 में 'अथवा' विकल्प — अपनी क्षमता के अनुसार सैद्धांतिक या संख्यात्मक चुनिए",
+      "ख्याति MCQ फँसाव: हमेशा जाँचिए प्रश्न में 'औसत लाभ विधि' (वर्षों से गुणा) है या 'अधिलाभ विधि' (पहले सामान्य लाभ घटाइए)",
+      "साझेदारी फँसाव: आहरण पर ब्याज = फ़र्म के लिए आय; पूँजी पर ब्याज = फ़र्म के लिए व्यय",
+      "साझेदार को किराया → लाभ-हानि खाते में (लाभ पर प्रभार)। लाभ-हानि विनियोग खाते में नहीं",
+      "पुनर्मूल्यांकन लाभ/हानि → हमेशा पुराने लाभ-विभाजन अनुपात में बाँटी जाती है",
+      "प्रवेश पर ख्याति → त्याग अनुपात में बाँटी जाती है",
+      "अवकाश-प्राप्ति पर ख्याति → शेष साझेदारों द्वारा लाभ अनुपात में वहन",
+      "विघटन पर पूँजी शेष → वसूली खाते में अंतरित (लाभ-हानि खाते में नहीं)",
+      "पुनर्निर्गमन के बाद Share Forfeiture खाते का शेष → पूँजी संचिति में अंतरित (अत्यंत प्रचलित MCQ)",
+      "न्यूनतम अभिदान = 90% (SEBI); न्यूनतम आवेदन राशि = अंकित मूल्य का 5%",
+      "ऋणपत्रधारक को ब्याज (निश्चित दर) मिलता है — लाभांश नहीं, मतदान का अधिकार नहीं",
+      "शून्य कूपन बॉण्ड = शून्य ब्याज दर पर निर्गमित (MCQ फँसाव: शून्य मूल्य पर नहीं)",
+      "ऋणपत्र निर्गमन पर छूट = पूँजी हानि (प्रतिभूति प्रीमियम या लाभ-हानि खाते के विरुद्ध अपलिखित)",
+      "रोकड़ प्रवाह: चालू दायित्व में वृद्धि = जोड़ें; कमी = घटाएँ। चालू परिसंपत्ति में वृद्धि = घटाएँ; कमी = जोड़ें",
+      "आदर्श चालू अनुपात = 2:1; आदर्श त्वरित/तरल अनुपात = 1:1 — बहुत अधिक MCQ आवृत्ति"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "रीडिंग_टाइम_15min",
+        "recommended_minutes": 0,
+        "note": "शुरू के 15 मिनट: सभी प्रश्न पढ़िए। प्रश्न 27-30 के लिए तय कीजिए कि सैद्धांतिक या संख्यात्मक 'अथवा' विकल्प attempt करेंगे।"
+      },
+      {
+        "section_id": "MCQ_Q1_Q10_10min",
+        "recommended_minutes": 0,
+        "note": "10 अंक। सभी अनिवार्य। संख्यात्मक MCQs (ख्याति, अनुपात) के लिए rough work तेज़ी से कीजिए।"
+      },
+      {
+        "section_id": "VSA_Q11_Q20_25min",
+        "recommended_minutes": 0,
+        "note": "20 अंक। सभी अनिवार्य। अधिकतम 30 शब्द। परिभाषाएँ एवं 2 मुख्य बिंदु।"
+      },
+      {
+        "section_id": "SA_Q21_Q26_45min",
+        "recommended_minutes": 0,
+        "note": "30 अंक। सभी अनिवार्य। छोटे संख्यात्मक भी यहाँ आते हैं। 100 शब्द या पूरा working।"
+      },
+      {
+        "section_id": "LA_Q27_Q30_80min",
+        "recommended_minutes": 0,
+        "note": "40 अंक। प्रत्येक में 'अथवा' विकल्प। पूरा working दिखाइए — सही steps के लिए partial अंक मिलते हैं।"
+      },
+      {
+        "section_id": "Revision_15min",
+        "recommended_minutes": 0,
+        "note": "जर्नल प्रविष्टियाँ (Dr/Cr) पुनः जाँचिए, अनुपात सूत्र, रोकड़ प्रवाह में + / – देखिए।"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 33",
+        "target_marks": 33,
+        "strategy": "MCQ (5+) + VSA (10+) + SA (10+) + LA (8+) = 33+",
+        "focus_chapters": [],
+        "focus_areas": [
+          "MCQ: आदर्श चालू 2:1, तरल 1:1; ख्याति त्याग अनुपात में; पूँजी शेष वसूली खाते में",
+          "VSA: साझेदारी, साझेदारी संलेख, ऋणपत्र, अंश, ख्याति की परिभाषाएँ — सभी आसान",
+          "SA प्रश्न 21 (अधिलाभ ख्याति) एवं प्रश्न 23 (पूर्वाधिकार अंश प्रकार)",
+          "LA प्रश्न 27: यदि संख्यात्मक कठिन लगे तो सैद्धांतिक 'अथवा' (कंपनी की विशेषताएँ) attempt कीजिए"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "50 to 65",
+        "target_marks": 50,
+        "strategy": "MCQ (7+) + VSA सभी (17+) + SA (20+) + LA (15+) = 59+",
+        "focus_chapters": [],
+        "focus_areas": [
+          "VSA: सभी 10 अनिवार्य — परिभाषाएँ परिपूर्ण",
+          "SA: ऋणपत्रों के प्रकार, वित्तीय विवरण के उद्देश्य, फ़र्म का विघटन",
+          "LA: वसूली खाता (मानक प्रारूप) अथवा विघटन सिद्धांत",
+          "अनुपात संख्यात्मक: चालू अनुपात + सकल लाभ + शुद्ध लाभ अनुपात का अभ्यास"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "80 plus",
+        "target_marks": 80,
+        "strategy": "MCQ (9-10) + VSA सभी (18-20) + SA सभी (25-30) + LA सभी (32-40) = 84-100",
+        "focus_chapters": [],
+        "focus_areas": [
+          "सभी अनुपात सूत्र याद — सूत्र एवं आदर्श मान दोनों",
+          "जर्नल प्रविष्टि प्रारूप परिपूर्ण — अंश आबंटन, हरण, पुनर्निर्गमन",
+          "रोकड़ प्रवाह विवरण अप्रत्यक्ष विधि — सभी समायोजन नियम याद",
+          "साझेदार का प्रवेश/अवकाश-प्राप्ति: पूँजी समायोजन सहित पूर्ण working"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [
+      "साझेदारी फ़र्म का पुनर्गठन: साझेदार का प्रवेश (Reconstitution: Admission of a Partner) (13 marks)",
+      "साझेदारी फ़र्म का पुनर्गठन: साझेदार की अवकाश-प्राप्ति/मृत्यु (Retirement/Death of a Partner) (13 marks)",
+      "साझेदारी फ़र्म का विघटन (Dissolution of Partnership Firm) (13 marks)",
+      "अंश पूँजी का लेखांकन (Accounting for Share Capital) (13 marks)",
+      "ऋणपत्रों का लेखांकन (Accounting for Debentures) (12 marks)",
+      "कंपनी के वित्तीय विवरण (Financial Statements of a Company) (12 marks)",
+      "लेखांकन अनुपात (Accounting Ratios) (9 marks)",
+      "रोकड़ प्रवाह विवरण (Cash Flow Statement) (9 marks)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT लेखाशास्त्र भाग I — साझेदारी लेखे (कक्षा 12)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "भाग A के अध्याय 1-4 पूरी तरह इसी से। सभी जर्नल प्रविष्टि प्रारूप, ख्याति विधियाँ, विघटन खाते।"
+      },
+      {
+        "name": "NCERT लेखाशास्त्र भाग II — कंपनी लेखे एवं वित्तीय विवरणों का विश्लेषण (कक्षा 12)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "भाग B के सभी 5 अध्याय इसी से। तुलन-पत्र प्रारूप (अनुसूची III), अनुपात सूत्र, रोकड़ प्रवाह विवरण।"
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": false,
+    "extra_time_note": "15 मिनट — केवल पढ़ना, लिखना नहीं। प्रश्न 27-30 के लिए 'अथवा' विकल्पों का चुनाव कीजिए।",
+    "duration_total": "3 घंटे 15 मिनट (195 मिनट = 15 रीडिंग + 180 लेखन)",
+    "passing_criteria": "उत्तीर्ण होने के लिए 100 में से न्यूनतम 33 अंक आवश्यक।"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": ""
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

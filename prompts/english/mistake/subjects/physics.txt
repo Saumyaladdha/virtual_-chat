@@ -1,0 +1,115 @@
+## Physics Common Mistakes — Class 11 & 12 Board Exam Students ke liye
+
+---
+
+MISTAKE 1 — UNIT BHOOL JAANA
+Yeh sabse common aur silly mistake hai. Student sahi calculation karte hai, sahi answer likhte hai — par unit nahi likhta. Board exam mein iske liye pura answer galat ho jaata hai, marks nahi milte.
+
+Galat tarika:
+E = 5
+
+Sahi tarika:
+E = 5 N/C
+
+Aur bhi examples:
+- v = 20 (galat) → v = 20 m/s (sahi)
+- F = 10 (galat) → F = 10 N (sahi)
+- I = 2 (galat) → I = 2 A (sahi)
+
+Rule yaad rakho: Number ke saath unit nahi hai toh answer zero. Board exam wale ek bhi mark nahi dete bina unit ke.
+
+Applies to: Electric Field, Force, Velocity, Current, Resistance, Pressure, Energy — basically har numerical chapter.
+
+---
+
+MISTAKE 2 — ALAG UNITS SAME FORMULA MEIN DAAL DENA
+Problem mein ek value cm mein hoti hai, doosri m mein — aur student bina convert kiye seedha formula mein daal deta hai. Result bilkul galat aata hai.
+
+Galat tarika:
+u = 1 m, f = 15 cm — dono alag units mein formula mein daal diya
+
+Sahi tarika:
+Pehle convert karo: u = 100 cm, f = 15 cm — phir formula lagao
+Ya dono ko metre mein: u = 1 m, f = 0.15 m
+
+Yeh mistake aksar:
+- Mirror formula (1/v + 1/u = 1/f) mein hoti hai
+- Lens formula mein hoti hai
+- Kinematics ke questions mein hoti hai jahan height metres mein aur speed cm/s mein di ho
+
+Rule: Formula lagaane se PEHLE ek baar check karo — kya saari values ek hi unit mein hain? Nahi hain toh pehle convert, phir substitute.
+
+Applies to: Ray Optics, Kinematics, Electrostatics.
+
+---
+
+MISTAKE 3 — SIGN CONVENTION BHOOL JAANA
+Cartesian sign convention Physics ka backbone hai. Concave mirror ki focal length negative hoti hai — par students positive likh dete hain. Board exam mein yeh ek mark ya do mark ki galti seedha cut kar deti hai.
+
+Galat tarika:
+f = 15 cm (concave mirror ke liye positive likh diya)
+
+Sahi tarika:
+f = −15 cm (concave mirror mein focal length hamesha negative)
+
+Yaad rakho:
+- Concave mirror → f negative
+- Convex mirror → f positive
+- Concave lens → f negative
+- Convex lens → f positive
+- Object distance u → hamesha negative (object hamesha left side hota hai)
+
+Rule: Pehle diagram banao, sign convention decide karo — PHIR values substitute karo. Bina sign ke formula seedha galat ho jaata hai.
+
+Applies to: Ray Optics (Mirrors, Lenses), Motion in One Dimension.
+
+---
+
+MISTAKE 4 — RAY DIAGRAM MEIN LABELLING NAHI KARNA
+Student ray diagram banata hai — but principal axis ka naam nahi likhta, F aur C mark nahi karta, rays pe arrows nahi lagataa. Board exam mein diagram ke alag marks hote hain, aur bina labelling ke aadhe marks jaate hain.
+
+Galat tarika:
+Ek diagram banaya, koi bhi label nahi — na F, na C, na arrows, na image point
+
+Sahi tarika:
+- Principal axis clearly mark karo
+- F (focus) aur C (centre of curvature) dono mark karo
+- Har ray pe arrow lagao (light ki direction dikhao)
+- Image ki position clearly mark karo aur batao real hai ya virtual
+
+Rule: Diagram ke saath labels nahi hain toh diagram adhoora maana jaata hai Board exam mein. Drawing ke baad 30 second labelling mein lagao — marks pakke ho jaate hain.
+
+Applies to: Ray Optics, Wave Optics.
+
+---
+
+MISTAKE 5 — KINEMATICS MEIN POSITIVE DIRECTION FIX NAHI KARNA
+Motion problems mein students seedha formula lagaate hain bina yeh decide kiye ki kaun si direction positive hai. Isse g, u, s ke signs galat ho jaate hain aur answer completely wrong aata hai.
+
+Galat tarika:
+Ball upar phenki gayi 10 m height se, initial speed 10 m/s —
+Student ne: g = +10 m/s², u = +10 m/s², s = 0 liya (height consider hi nahi ki)
+
+Sahi tarika:
+Pehle decide karo — upar ki direction positive hai.
+Toh: u = +10 m/s, g = −10 m/s², s = −10 m (ground 10 m neeche hai starting point se)
+
+Rule: Har kinematics problem mein SABSE PEHLE ek line likho — "Taking upward as positive" ya "Taking downward as positive" — phir ussi hisaab se saari values ka sign lagao. Yeh ek line likhne se half mistakes automatically avoid ho jaati hain.
+
+Applies to: Motion in One Dimension, Projectile Motion, Gravitation.
+
+---
+
+MISTAKE 6 — FORMULA RATT LIYA, SAMJHA NAHI — TWIST AAYA TOH PHANS GAYE
+Board exam mein kabhi kabhi simple twist deke poochha jaata hai — formula wahi hota hai par condition thodi alag hoti hai. Jo students sirf ratta maarte hain woh yahan phans jaate hain.
+
+Galat approach:
+Electric dipole ka formula E = kp/r³ ratt liya. Question aya: "Kya yeh formula 2 nm doori ke dipole ke liye 10 nm aur 50 nm pe valid hai?" — student ko pata hi nahi kya answer karna hai.
+
+Sahi approach:
+Samjho ki E = kp/r³ sirf tab valid hai jab r >> 2a (point dipole condition). Agar r aur 2a comparable hain toh exact formula lagta hai.
+Axial point pe: E = 2kp/r³, Equatorial point pe: E = kp/r³ — dono alag hain.
+
+Rule: Derivation padhte waqt ek kaam zaroor karo — poochho "Yeh formula kab valid hai? Kab nahi?" Condition samajh lo toh Board exam ka koi bhi twist question rok nahi sakta.
+
+Applies to: Electrostatics (Electric Dipole), Current Electricity, Magnetism (Biot-Savart vs Ampere's law conditions).

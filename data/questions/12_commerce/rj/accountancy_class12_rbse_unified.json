@@ -1,0 +1,1865 @@
+{
+  "board": "RBSE",
+  "class": "12",
+  "subject": "Accountancy",
+  "subject_code": "30",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 80,
+    "practical_paper": 0,
+    "internal_assessment": 20,
+    "total": 100,
+    "passing_marks_theory": 26,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 7,
+    "duration_minutes": 195,
+    "extra_time_given": false,
+    "extra_time_note": "3 ghante 15 minute fixed. Bell bajte hi answer sheet submit karni hoti hai.",
+    "internal_assessment_note": "20 marks internal assessment school level par diye jaate hain. Projects aur practicals se milte hain."
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 23,
+    "total_questions_to_attempt": 23,
+    "total_objective_questions": 30,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "Hindi ya English dono valid hain. Hindi version final mana jaata hai agar discrepancy ho.",
+    "all_compulsory_note": "Sab 23 questions compulsory hain. Q17 se Q23 mein internal OR choice milta hai.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "Previous Year Papers > Sample Papers > Pariksha Adhyayan Accountancy Class 12 > NCERT",
+    "prescribed_textbooks": [
+      "Accountancy Part 1 — NCERT Class XII (Partnership)",
+      "Accountancy Part 2 — NCERT Class XII (Company Accounts + Financial Statements)"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "RBSE Class 12 Accountancy paper mein 23 questions hain. Q1 = 12 MCQ (12 marks). Q2 = 6 Fill blanks (6 marks). Q3 = 12 Very Short (1 mark each = 12 marks). Q4-Q16 = Short Answer (2 marks each = 26 marks). Q17-Q20 = Medium Answer (3 marks each = 12 marks). Q21-Q23 = Long Answer (4 marks each = 12 marks). Total = 80 marks.",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ",
+        "question_number": "Q1",
+        "section": "Section A",
+        "marks_each": 1,
+        "total_in_paper": 12,
+        "attempt": 12,
+        "negative_marking": false,
+        "how_to_attempt": "Option letter clearly likho. No negative marking so guess karo agar unsure.",
+        "mostly_from": "Q1 mein repeat hone wale topics: Not for profit org = public welfare, Partnership deed absent = no salary/interest/commission, Revaluation account = Nominal account, Table F = 12% calls in advance interest, Debenture holders = loan providers, Convertible debentures = equity mein convert hote hain, Balance sheet share capital = subscribed & paid up capital, Financial statements = useful for all, Common size balance sheet = 100, 365/Trade payable ratio = average payment period, Gaining ratio = retirement/death, Bad debts on dissolution = realisation account.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": "Q1 mein repeat hone wale topics: Not for profit org = public welfare, Partnership deed absent = no salary/interest/commission, Revaluation account = Nominal account, Table F = 12% calls in advance interest, Debenture holders = loan providers, Convertible debentures = equity mein convert hote hain, Balance sheet share capital = subscribed & paid up capital, Financial statements = useful for all, Common size balance sheet = 100, 365/Trade payable ratio = average payment period, Gaining ratio = retirement/death, Bad debts on dissolution = realisation account."
+      },
+      {
+        "type": "Fill in the Blanks",
+        "question_number": "Q2",
+        "section": "Section A",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "Dono options mein se correct choose karo. Options brackets mein diye hote hain.",
+        "mostly_from": "Common fill blanks: Interest on drawing = Expense for firm (Income/Expense), Authorised capital = maximum capital in memorandum, Debenture interest rate = Fixed (Fixed/Fluctuating), Securities premium at debenture premium = Credited, Trend analysis = Financial analysis technique, Liquidity ratio = Acid test ratio, Receipt & Payment = Cash book summary, Partners current accounts = Fixed capital method, Dissolution unrecorded liabilities = Realisation A/c, Interest on debentures = Charge on profit, Current items = within 12 months, Interest/dividend for financial enterprises = Operating activities.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": "Common fill blanks: Interest on drawing = Expense for firm (Income/Expense), Authorised capital = maximum capital in memorandum, Debenture interest rate = Fixed (Fixed/Fluctuating), Securities premium at debenture premium = Credited, Trend analysis = Financial analysis technique, Liquidity ratio = Acid test ratio, Receipt & Payment = Cash book summary, Partners current accounts = Fixed capital method, Dissolution unrecorded liabilities = Realisation A/c, Interest on debentures = Charge on profit, Current items = within 12 months, Interest/dividend for financial enterprises = Operating activities."
+      },
+      {
+        "type": "Very Short Answer",
+        "question_number": "Q3",
+        "section": "Section A",
+        "marks_each": 1,
+        "total_in_paper": 12,
+        "attempt": 12,
+        "negative_marking": false,
+        "how_to_attempt": "Ek sentence ya ek calculation answer. Explanation zaruri nahi.",
+        "mostly_from": "Common Q3 topics: items not in Receipt & Payment A/c, new P&L ratio calculation, calls-in-advance meaning, non-convertible debentures, journal entry for debentures at discount, premium on redemption calculation, gain on cancellation calculation, interest nature on debentures, two main financial statements, why investors analyse financial statements, horizontal vs vertical analysis differences, inventory calculation from turnover ratio, subscription in I&E account, interest on capital rule without deed, new share after retirement, bad debt entry on partner's death, goodwill journal entry on dissolution, preference share types, Bearer debenture, subscription type name, number of debentures issued, common size statement technique, cash equivalents, operating activities cash flow calculation.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": "Common Q3 topics: items not in Receipt & Payment A/c, new P&L ratio calculation, calls-in-advance meaning, non-convertible debentures, journal entry for debentures at discount, premium on redemption calculation, gain on cancellation calculation, interest nature on debentures, two main financial statements, why investors analyse financial statements, horizontal vs vertical analysis differences, inventory calculation from turnover ratio, subscription in I&E account, interest on capital rule without deed, new share after retirement, bad debt entry on partner's death, goodwill journal entry on dissolution, preference share types, Bearer debenture, subscription type name, number of debentures issued, common size statement technique, cash equivalents, operating activities cash flow calculation."
+      },
+      {
+        "type": "Short Answer",
+        "question_number": "Q4 to Q16",
+        "section": "Section B",
+        "marks_each": 2,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "Journal entries clearly likhna — Date, Particulars, Dr/Cr, Amount. Account preparation mein format sahi rakho. Numerical mein step-by-step working dikhao.",
+        "mostly_from": "Section B mein mostly journal entries, small account preparations, ratio calculations, and 2-point explanations hain. Partnership + Company dono se questions aate hain.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": "Section B mein mostly journal entries, small account preparations, ratio calculations, and 2-point explanations hain. Partnership + Company dono se questions aate hain."
+      },
+      {
+        "type": "Medium Answer",
+        "question_number": "Q17 to Q20",
+        "section": "Section C",
+        "marks_each": 3,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "3 clear points ya complete account. OR option mein se easier wala choose karo. Format sahi rakho.",
+        "mostly_from": "Q17 = Non-profit org numerical / partner admission journal entries. Q18 = Retirement numericals / dissolution entries. Q19 = Debentures journal entries (issue at discount + redemption). Q20 = Ratio analysis multi-part / debt-equity ratio effect.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": "Q17 = Non-profit org numerical / partner admission journal entries. Q18 = Retirement numericals / dissolution entries. Q19 = Debentures journal entries (issue at discount + redemption). Q20 = Ratio analysis multi-part / debt-equity ratio effect."
+      },
+      {
+        "type": "Long Answer",
+        "question_number": "Q21 to Q23",
+        "section": "Section D",
+        "marks_each": 4,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "Full format mein account ya journal entry. Q21 = admission/retirement with full balance sheet. Q22 = Share issue forfeiture reissue full journal. Q23 = Debentures issue/redemption full journal.",
+        "mostly_from": "Q21 = Partner admission — Revaluation A/c + Partners Capital A/c (most repeated). Q22 = Share forfeiture and reissue journal + forfeiture A/c OR over-subscription with pro-rata. Q23 = Debentures issued for cash/asset/collateral OR debenture redemption journal.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": "Q21 = Partner admission — Revaluation A/c + Partners Capital A/c (most repeated). Q22 = Share forfeiture and reissue journal + forfeiture A/c OR over-subscription with pro-rata. Q23 = Debentures issued for cash/asset/collateral OR debenture redemption journal."
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "RBSE Accountancy Class 12 — 23 questions, 80 marks theory + 20 IA = 100.",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Sab 23 questions compulsory hain. Q17 se Q23 mein internal OR choice milta hai.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 40,
+      "medium_percent": 40,
+      "hard_percent": 20,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "section A Q1 to Q3",
+        "type": "section_A_Q1_to_Q3",
+        "question_numbers": "Q1, Q2, Q3",
+        "total_questions": 0,
+        "total_sub_questions": 3,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 30,
+        "word_limit": "",
+        "breakdown": "Q1_MCQ_12_sub: 12; Q2_fill_blanks_6_sub: 6; Q3_very_short_12_sub: 12",
+        "notes": "Highest scoring section — 30 marks. Basic concepts aur definitions yaad hon toh almost pura milta hai."
+      },
+      {
+        "section_id": "B",
+        "name": "section B Q4 to Q16",
+        "type": "section_B_Q4_to_Q16",
+        "question_numbers": "Q4 to Q16",
+        "total_questions": 13,
+        "total_sub_questions": 0,
+        "attempt_required": 13,
+        "marks_per_question": 2,
+        "total_marks": 26,
+        "word_limit": "",
+        "breakdown": "13 questions x 2 marks = 26. Mix of Partnership and Company. Journal entries + small calculations dominant.",
+        "notes": "13 questions x 2 marks = 26. Mix of Partnership and Company. Journal entries + small calculations dominant."
+      },
+      {
+        "section_id": "C",
+        "name": "section C Q17 to Q20",
+        "type": "section_C_Q17_to_Q20",
+        "question_numbers": "Q17 to Q20",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": "",
+        "breakdown": "4 questions x 3 marks = 12. All have OR choice. Account preparation and numericals.",
+        "notes": "4 questions x 3 marks = 12. All have OR choice. Account preparation and numericals."
+      },
+      {
+        "section_id": "D",
+        "name": "section D Q21 to Q23",
+        "type": "section_D_Q21_to_Q23",
+        "question_numbers": "Q21 to Q23",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "attempt_required": 3,
+        "marks_per_question": 4,
+        "total_marks": 12,
+        "word_limit": "",
+        "breakdown": "3 questions x 4 marks = 12. All have OR choice. Full account preparation from balance sheet data.",
+        "notes": "3 questions x 4 marks = 12. All have OR choice. Full account preparation from balance sheet data."
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 80,
+    "total_practical": 0,
+    "internal_assessment": 20,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "section A Q1 to Q3",
+        "question_numbers": "Q1, Q2, Q3",
+        "type": "section_A_Q1_to_Q3",
+        "total_questions": 0,
+        "total_sub_questions": 3,
+        "marks_per_question": 0,
+        "total_marks": 30,
+        "word_limit": "",
+        "breakdown": "Q1_MCQ_12_sub: 12; Q2_fill_blanks_6_sub: 6; Q3_very_short_12_sub: 12"
+      },
+      {
+        "section_id": "B",
+        "name": "section B Q4 to Q16",
+        "question_numbers": "Q4 to Q16",
+        "type": "section_B_Q4_to_Q16",
+        "total_questions": 13,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 26,
+        "word_limit": "",
+        "breakdown": "13 questions x 2 marks = 26. Mix of Partnership and Company. Journal entries + small calculations dominant."
+      },
+      {
+        "section_id": "C",
+        "name": "section C Q17 to Q20",
+        "question_numbers": "Q17 to Q20",
+        "type": "section_C_Q17_to_Q20",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": "",
+        "breakdown": "4 questions x 3 marks = 12. All have OR choice. Account preparation and numericals."
+      },
+      {
+        "section_id": "D",
+        "name": "section D Q21 to Q23",
+        "question_numbers": "Q21 to Q23",
+        "type": "section_D_Q21_to_Q23",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 12,
+        "word_limit": "",
+        "breakdown": "3 questions x 4 marks = 12. All have OR choice. Full account preparation from balance sheet data."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "RBSE Accountancy blueprint: 2 parts + per-unit weightages.",
+    "total_theory_marks": 80,
+    "objective_percent": 38,
+    "subjective_percent": 62,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "5",
+      "name": "Unit 1 Share Capital",
+      "marks": 14,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "10",
+        "name": "Unit 6 Non Profit Organisations",
+        "marks": 0
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Unit 1 Basic Concepts",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A Accounting for Partnership"
+      },
+      {
+        "chapter_id": "2",
+        "name": "Unit 2 Admission of Partner",
+        "marks": 11,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A Accounting for Partnership"
+      },
+      {
+        "chapter_id": "3",
+        "name": "Unit 3 Retirement Death of Partner",
+        "marks": 11,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A Accounting for Partnership"
+      },
+      {
+        "chapter_id": "4",
+        "name": "Unit 4 Dissolution of Partnership Firm",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A Accounting for Partnership"
+      },
+      {
+        "chapter_id": "5",
+        "name": "Unit 1 Share Capital",
+        "marks": 14,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B Company Accounts"
+      },
+      {
+        "chapter_id": "6",
+        "name": "Unit 2 Issue of Debentures",
+        "marks": 13,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B Company Accounts"
+      },
+      {
+        "chapter_id": "7",
+        "name": "Unit 3 Financial Statements of Company",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B Company Accounts"
+      },
+      {
+        "chapter_id": "8",
+        "name": "Unit 4 Accounting Ratios",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B Company Accounts"
+      },
+      {
+        "chapter_id": "9",
+        "name": "Unit 5 Cash Flow Statement",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B Company Accounts"
+      },
+      {
+        "chapter_id": "10",
+        "name": "Unit 6 Non Profit Organisations",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B Company Accounts"
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 30,
+      "two_mark_total": 26,
+      "three_mark_total": 12,
+      "four_mark_total": 12,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "RBSE Class 12 Accountancy — 10 units across 2 parts.",
+    "books": [
+      {
+        "book_name": "NCERT Accountancy — Part A Accounting for Partnership",
+        "category": "Part A Accounting for Partnership",
+        "total_marks": 35,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Unit 1 Basic Concepts",
+            "marks": 7,
+            "topics": [
+              "Nature, meaning and features of Partnership",
+              "Partnership Deed — meaning, types, contents, provisions",
+              "Special Aspects of Partnership Accounts",
+              "Fixed Capital Method vs Fluctuating Capital Method — distinction",
+              "P&L Appropriation Account — journal entries for adjustments",
+              "Interest on Capital, Interest on Drawing",
+              "Salary, Commission to partners",
+              "Guarantee of profit to a partner",
+              "Past Adjustments — interest on capital/drawing, salary, commission, PSR"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "Unit 2 Admission of Partner",
+            "marks": 11,
+            "topics": [
+              "Meaning and modes of reconstitution",
+              "Admission of a new partner",
+              "New Profit Sharing Ratio calculation",
+              "Sacrificing Ratio calculation",
+              "Goodwill — meaning, factors, need for valuation, methods",
+              "Super Profit method — goodwill calculation",
+              "Treatment of Goodwill on admission",
+              "Hidden Goodwill calculation",
+              "Adjustment for Accumulated Profits and Losses — General Reserve treatment",
+              "Revaluation of Assets and Liabilities — Revaluation Account",
+              "Adjustment of Capitals",
+              "Change in Profit Sharing Ratio among existing partners"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "Unit 3 Retirement Death of Partner",
+            "marks": 11,
+            "topics": [
+              "Ascertaining amount due to retiring/deceased partner",
+              "New Profit Sharing Ratio",
+              "Gaining Ratio calculation",
+              "Treatment of Goodwill on retirement — when goodwill not in books / when in books / hidden goodwill",
+              "Revaluation of Assets and Liabilities",
+              "Adjustment of Accumulated Profits and Losses",
+              "When partner retires in middle of financial year",
+              "Disposal of amount due to retiring partner",
+              "Adjustment of Partners Capitals",
+              "Accounting on death of a partner"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "Unit 4 Dissolution of Partnership Firm",
+            "marks": 6,
+            "topics": [
+              "Dissolution of partnership and its types",
+              "Distinction between dissolution of partnership and dissolution of firm",
+              "Settlement of Accounts",
+              "Accounting treatment — Journal entries",
+              "Realisation Account preparation",
+              "Partners Capital Accounts",
+              "Bank Account",
+              "Cash Account"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Accountancy — Part B Company Accounts",
+        "category": "Part B Company Accounts",
+        "total_marks": 47,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "5",
+            "name": "Unit 1 Share Capital",
+            "marks": 14,
+            "topics": [
+              "Meaning and features of a company",
+              "Kinds of companies",
+              "Share capital categories — Authorised, Issued, Subscribed, Called-up, Paid-up",
+              "Nature and classes of shares — Preference shares, Equity shares",
+              "Issue of shares — procedure",
+              "Accounting treatment — Issue at par, premium, discount",
+              "Over-subscription, under-subscription, pro-rata allotment",
+              "Calls-in-advance — meaning, interest (Table F = 12%)",
+              "Calls-in-arrear",
+              "Forfeiture of shares",
+              "Reissue of forfeited shares",
+              "Securities Premium — uses"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "Unit 2 Issue of Debentures",
+            "marks": 13,
+            "topics": [
+              "Meaning of debentures and bond",
+              "Distinction between shares and debentures",
+              "Types of debentures",
+              "Issue at par, premium, discount — for cash",
+              "Over-subscription",
+              "Issue for consideration other than cash",
+              "Issue as collateral security — journal entry",
+              "Terms of issue of debentures",
+              "Interest on debentures — accounting treatment",
+              "Writing off discount/loss on issue of debentures",
+              "Redemption of debentures — at par, premium, discount",
+              "Gain on cancellation of own debentures",
+              "Zero coupon rate debentures = issued at discount (MCQ)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "Unit 3 Financial Statements of Company",
+            "marks": 4,
+            "topics": [
+              "Meaning and nature of financial statements",
+              "Objectives of financial statements",
+              "Types — Balance Sheet format as per Schedule III, Statement of P&L",
+              "Uses and importance",
+              "Limitations of financial statements",
+              "Head and Sub-head of items in balance sheet"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "Unit 4 Accounting Ratios",
+            "marks": 8,
+            "topics": [
+              "Meaning and objectives of ratio analysis",
+              "Advantages and limitations",
+              "Types — Traditional and Functional classification",
+              "Liquidity Ratios — Current Ratio, Liquidity (Acid Test) Ratio",
+              "Solvency Ratios — Debt-Equity Ratio",
+              "Activity (Turnover) Ratios — Inventory Turnover, Trade Payable Turnover",
+              "Profitability Ratios",
+              "Common Size Balance Sheet",
+              "Comparative Statement"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "Unit 5 Cash Flow Statement",
+            "marks": 8,
+            "topics": [
+              "Objectives and meaning of Cash Flow Statement",
+              "Benefits of Cash Flow Statement",
+              "Cash and Cash Equivalents",
+              "Cash Flows",
+              "Classification of activities — Operating, Investing, Financing",
+              "Cash flow from Operating Activities — Direct and Indirect method",
+              "Cash flow from Investing Activities",
+              "Cash flow from Financing Activities",
+              "Preparation of Cash Flow Statement"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "Unit 6 Non Profit Organisations",
+            "marks": 0,
+            "topics": [
+              "Main objective of NPO = Public welfare (MCQ)",
+              "Receipt and Payment Account — nature, items not appearing",
+              "Income and Expenditure Account",
+              "Balance Sheet of NPO",
+              "Subscription calculation — arrears, advance treatment",
+              "Specific fund treatment — Tournament fund, Medical camp fund",
+              "Stationery calculation for I&E A/c"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Unit 1 Basic Concepts",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Accountancy Class 12",
+      "unit_id": 1,
+      "unit_name": "Unit 1 Basic Concepts",
+      "part": "Part A Accounting for Partnership",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Nature, meaning and features of Partnership",
+        "Partnership Deed — meaning, types, contents, provisions",
+        "Special Aspects of Partnership Accounts",
+        "Fixed Capital Method vs Fluctuating Capital Method — distinction",
+        "P&L Appropriation Account — journal entries for adjustments",
+        "Interest on Capital, Interest on Drawing",
+        "Salary, Commission to partners",
+        "Guarantee of profit to a partner",
+        "Past Adjustments — interest on capital/drawing, salary, commission, PSR"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Without partnership deed — partners not entitled to salary/interest/commission (MCQ)",
+        "Interest on drawing = Expense for firm (Fill blank)",
+        "Interest on capital — rule without deed = No interest (Q3)",
+        "Subscription in I&E account calculation (Section B / Section C)",
+        "P&L Appropriation A/c — when loss incurred but deed provides interest on capital (Section B)",
+        "Interest on drawing calculation — beginning/end of month formula (Section B)",
+        "Guarantee of profit — P&L Appropriation A/c preparation (Section C)"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Unit 2 Admission of Partner",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Accountancy Class 12",
+      "unit_id": 2,
+      "unit_name": "Unit 2 Admission of Partner",
+      "part": "Part A Accounting for Partnership",
+      "weightage_marks": 11,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Meaning and modes of reconstitution",
+        "Admission of a new partner",
+        "New Profit Sharing Ratio calculation",
+        "Sacrificing Ratio calculation",
+        "Goodwill — meaning, factors, need for valuation, methods",
+        "Super Profit method — goodwill calculation",
+        "Treatment of Goodwill on admission",
+        "Hidden Goodwill calculation",
+        "Adjustment for Accumulated Profits and Losses — General Reserve treatment",
+        "Revaluation of Assets and Liabilities — Revaluation Account",
+        "Adjustment of Capitals",
+        "Change in Profit Sharing Ratio among existing partners"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "New profit-loss ratio calculation after admission (Q3 / Section B)",
+        "Sacrificing ratio calculation (Section B / MCQ)",
+        "Goodwill calculation — super profit method 3 years purchase (Section B)",
+        "Journal entries on Z's/C's admission — goodwill brought in cash (Section B)",
+        "Revaluation Account preparation on admission (Section C)",
+        "General Reserve and P&L debit balance treatment on admission — journal entries (Section C)",
+        "Revaluation A/c + Partners Capital A/c preparation from balance sheet (Section D)",
+        "Partners Capital Accounts — change in PSR with goodwill valued (Section D OR)"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Unit 3 Retirement Death of Partner",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Accountancy Class 12",
+      "unit_id": 3,
+      "unit_name": "Unit 3 Retirement Death of Partner",
+      "part": "Part A Accounting for Partnership",
+      "weightage_marks": 11,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Ascertaining amount due to retiring/deceased partner",
+        "New Profit Sharing Ratio",
+        "Gaining Ratio calculation",
+        "Treatment of Goodwill on retirement — when goodwill not in books / when in books / hidden goodwill",
+        "Revaluation of Assets and Liabilities",
+        "Adjustment of Accumulated Profits and Losses",
+        "When partner retires in middle of financial year",
+        "Disposal of amount due to retiring partner",
+        "Adjustment of Partners Capitals",
+        "Accounting on death of a partner"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Gaining Ratio = calculated on retirement AND death (MCQ)",
+        "New share after retirement calculation (Q3)",
+        "Bad debt provision reduction on partner's death — journal entry (Q3)",
+        "Amount due calculation — two equal half-yearly installments with interest (Section B)",
+        "Share in profit for deceased partner (time period calculation) (Section B)",
+        "Capital adjustment calculation after retirement (Section C)",
+        "Revaluation + goodwill + accumulated profits adjustment — complete treatment (Section D)"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Unit 4 Dissolution of Partnership Firm",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Accountancy Class 12",
+      "unit_id": 4,
+      "unit_name": "Unit 4 Dissolution of Partnership Firm",
+      "part": "Part A Accounting for Partnership",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Dissolution of partnership and its types",
+        "Distinction between dissolution of partnership and dissolution of firm",
+        "Settlement of Accounts",
+        "Accounting treatment — Journal entries",
+        "Realisation Account preparation",
+        "Partners Capital Accounts",
+        "Bank Account",
+        "Cash Account"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Bad debts provision on dissolution = transferred to Realisation A/c (MCQ / Fill blank)",
+        "Unrecorded liabilities paid by partner = Realisation A/c debited (Fill blank)",
+        "Goodwill taken over by partner — journal entry (Q3)",
+        "Unrecorded asset (written off typewriter) taken by partner — journalise (Section B)",
+        "Full dissolution journal entries from balance sheet data (Section D)"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Unit 1 Share Capital",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Accountancy Class 12",
+      "unit_id": 5,
+      "unit_name": "Unit 1 Share Capital",
+      "part": "Part B Company Accounts",
+      "weightage_marks": 14,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Meaning and features of a company",
+        "Kinds of companies",
+        "Share capital categories — Authorised, Issued, Subscribed, Called-up, Paid-up",
+        "Nature and classes of shares — Preference shares, Equity shares",
+        "Issue of shares — procedure",
+        "Accounting treatment — Issue at par, premium, discount",
+        "Over-subscription, under-subscription, pro-rata allotment",
+        "Calls-in-advance — meaning, interest (Table F = 12%)",
+        "Calls-in-arrear",
+        "Forfeiture of shares",
+        "Reissue of forfeited shares",
+        "Securities Premium — uses"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Table F — calls-in-advance interest = 12% (MCQ)",
+        "Balance sheet share capital = Subscribed & Paid up capital (MCQ)",
+        "One person company maximum annual average turnover (MCQ)",
+        "Table E — calls-in-arrear interest = 10% (MCQ)",
+        "Authorised capital = maximum capital in memorandum (Fill blank)",
+        "Two types of preference shares (Q3)",
+        "Type of subscription — under/over/full subscription (Q3)",
+        "Two uses of Securities Premium Amount (Section B)",
+        "Calls-in-advance interest calculation (Section B)",
+        "Journal entry — issue of shares at premium for purchase of asset (Section B)",
+        "Over-subscription with pro-rata — journal entry for application money (Section B)",
+        "Share forfeiture and reissue — full journal entries + forfeiture A/c (Section D)",
+        "Over-subscription with rejection + pro-rata + forfeiture + reissue — full journal entries (Section D OR)"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Unit 2 Issue of Debentures",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Accountancy Class 12",
+      "unit_id": 6,
+      "unit_name": "Unit 2 Issue of Debentures",
+      "part": "Part B Company Accounts",
+      "weightage_marks": 13,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Meaning of debentures and bond",
+        "Distinction between shares and debentures",
+        "Types of debentures",
+        "Issue at par, premium, discount — for cash",
+        "Over-subscription",
+        "Issue for consideration other than cash",
+        "Issue as collateral security — journal entry",
+        "Terms of issue of debentures",
+        "Interest on debentures — accounting treatment",
+        "Writing off discount/loss on issue of debentures",
+        "Redemption of debentures — at par, premium, discount",
+        "Gain on cancellation of own debentures",
+        "Zero coupon rate debentures = issued at discount (MCQ)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Debenture holders = loan providers of company (MCQ)",
+        "Convertible debentures = can be converted to equity (MCQ)",
+        "Collateral security — debenture suspense A/c debited (MCQ / Fill blank)",
+        "Debenture interest rate = Fixed (Fill blank)",
+        "Securities premium at debenture premium = Credited (Fill blank)",
+        "Debenture interest = Charge on profit for company (Fill blank)",
+        "Non-convertible debentures meaning (Q3)",
+        "Calls-in-advance meaning (Q3)",
+        "Journal entry — debentures issued at 4% discount (Q3)",
+        "Premium on redemption amount calculation (Q3)",
+        "Gain on cancellation calculation (Q3)",
+        "Interest on debentures nature (Q3)",
+        "Bearer debenture meaning (Q3)",
+        "Number of debentures issued at discount — calculation (Q3)",
+        "Journal entry — debentures at par redeemable at premium (Section B)",
+        "Define unsecured and registered debentures (Section B)",
+        "Own debentures purchased for cancellation — journal entry (Section B)",
+        "Debentures issued at discount + premium on redemption — journal entries for both cases (Section C)",
+        "Debentures issued for cash + for asset + as collateral — complete journal entries (Section D OR)",
+        "Debenture redemption from profits — journal entries with DRR (Section D OR)"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Unit 3 Financial Statements of Company",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Accountancy Class 12",
+      "unit_id": 7,
+      "unit_name": "Unit 3 Financial Statements of Company",
+      "part": "Part B Company Accounts",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Meaning and nature of financial statements",
+        "Objectives of financial statements",
+        "Types — Balance Sheet format as per Schedule III, Statement of P&L",
+        "Uses and importance",
+        "Limitations of financial statements",
+        "Head and Sub-head of items in balance sheet"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Financial statements useful for = all (MCQ)",
+        "Two main financial statements prepared by company (Q3)",
+        "Why investors analyse financial statements (Q3)",
+        "Head and sub-head of: Proposed Dividend, Debenture (Section B)",
+        "Which item not related to 'Reserve & Surplus' sub-head (MCQ)",
+        "Common size balance sheet = total equity & liabilities = 100 (MCQ)"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Unit 4 Accounting Ratios",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Accountancy Class 12",
+      "unit_id": 8,
+      "unit_name": "Unit 4 Accounting Ratios",
+      "part": "Part B Company Accounts",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Meaning and objectives of ratio analysis",
+        "Advantages and limitations",
+        "Types — Traditional and Functional classification",
+        "Liquidity Ratios — Current Ratio, Liquidity (Acid Test) Ratio",
+        "Solvency Ratios — Debt-Equity Ratio",
+        "Activity (Turnover) Ratios — Inventory Turnover, Trade Payable Turnover",
+        "Profitability Ratios",
+        "Common Size Balance Sheet",
+        "Comparative Statement"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "365 / Trade Payable Turnover = Average Payment Period (MCQ)",
+        "Common size balance sheet total = 100 (MCQ)",
+        "Trend analysis = Financial analysis technique (Fill blank)",
+        "Liquidity ratio = Acid test ratio (Fill blank)",
+        "Horizontal analysis = Comparative analysis (MCQ)",
+        "Horizontal vs Vertical analysis — 2 differences (Q3)",
+        "Average inventory from turnover ratio (Q3)",
+        "Inventory calculation from current ratio + liquidity ratio (Section B)",
+        "Current assets, current liabilities from liquidity + current ratio + stock (Section B)",
+        "Common size balance sheet preparation (Section B)",
+        "Debt-equity ratio — effect of further issue/bonus/redemption/cash sale (Section C)",
+        "Fill in blanks in comparative income statement (Section B)",
+        "Cash flow from operating activities calculation (Q3 / Section B)"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Unit 5 Cash Flow Statement",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Accountancy Class 12",
+      "unit_id": 9,
+      "unit_name": "Unit 5 Cash Flow Statement",
+      "part": "Part B Company Accounts",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Objectives and meaning of Cash Flow Statement",
+        "Benefits of Cash Flow Statement",
+        "Cash and Cash Equivalents",
+        "Cash Flows",
+        "Classification of activities — Operating, Investing, Financing",
+        "Cash flow from Operating Activities — Direct and Indirect method",
+        "Cash flow from Investing Activities",
+        "Cash flow from Financing Activities",
+        "Preparation of Cash Flow Statement"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Cash flow from operating activities MCQ — stock increase/decrease adjustment (MCQ)",
+        "Cash equivalents meaning (Q3)",
+        "Interest and dividend received = Operating activities for financial enterprises (Fill blank)",
+        "Cash flow from operating activities — tax provision adjustment (Section B)",
+        "Cash flow from investing activities — plant sold with depreciation (Section B)",
+        "Operating cash flow from net profit + reserve transfer + asset gain (Q3 / Section B)"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Unit 6 Non Profit Organisations",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Accountancy Class 12",
+      "unit_id": 10,
+      "unit_name": "Unit 6 Non Profit Organisations",
+      "part": "Part B Company Accounts",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Main objective of NPO = Public welfare (MCQ)",
+        "Receipt and Payment Account — nature, items not appearing",
+        "Income and Expenditure Account",
+        "Balance Sheet of NPO",
+        "Subscription calculation — arrears, advance treatment",
+        "Specific fund treatment — Tournament fund, Medical camp fund",
+        "Stationery calculation for I&E A/c"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "NPO main objective = Public welfare (MCQ)",
+        "Receipt & Payment = Cash book summary (Fill blank)",
+        "Items not in Receipt & Payment A/c — write two (Q3)",
+        "Subscription in I&E A/c calculation (Section B)",
+        "Specific fund items in I&E A/c and Balance Sheet (Section B)",
+        "Stationery amount calculation for I&E A/c (Section C)"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "RBSE Accountancy — 10 units.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "All units contribute to blueprint.",
+    "or_questions_note": "Sab 23 questions compulsory hain. Q17 se Q23 mein internal OR choice milta hai.",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Unit 2 Admission of Partner",
+      "Unit 3 Retirement Death of Partner",
+      "Unit 1 Share Capital",
+      "Unit 2 Issue of Debentures"
+    ],
+    "chapters_never_skip_reason": "High-weightage units (≥10 marks).",
+    "chapters_with_highest_weightage": [
+      "Unit 2 Admission of Partner (11 marks)",
+      "Unit 3 Retirement Death of Partner (11 marks)",
+      "Unit 1 Share Capital (14 marks)",
+      "Unit 2 Issue of Debentures (13 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "Unit 3 Financial Statements of Company (4 marks)",
+      "Unit 6 Non Profit Organisations (0 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "NPO main objective = Public welfare work (Q: Q1 MCQ, 1 marks)",
+      "Without partnership deed = no salary/interest/commission (Q: Q1 MCQ, 1 marks)",
+      "Revaluation account = Nominal account (Q: Q1 MCQ, 1 marks)",
+      "Table F = 12% interest on calls-in-advance (Q: Q1 MCQ, 1 marks)",
+      "Debenture holders = loan providers (creditors) (Q: Q1 MCQ, 1 marks)",
+      "Convertible debentures = can convert to equity shares (Q: Q1 MCQ, 1 marks)",
+      "Balance sheet share capital = Subscribed & paid up capital (Q: Q1 MCQ, 1 marks)",
+      "Financial statements = useful for all (employees/managers/shareholders) (Q: Q1 MCQ, 1 marks)",
+      "Common size balance sheet = total equity & liabilities = 100 (Q: Q1 MCQ, 1 marks)",
+      "365 / Trade Payable Turnover = Average Payment Period (Q: Q1 MCQ, 1 marks)",
+      "Gaining Ratio = calculated on retirement AND death both (Q: Q1 MCQ, 1 marks)",
+      "Bad debts / provision for bad debts on dissolution = Realisation A/c (Q: Q1 MCQ / Fill blank, 1 marks)",
+      "Interest on drawing = Expense for firm (Income/Expense fill blank) (Q: Q2 fill blank, 1 marks)",
+      "Authorised capital = maximum capital in memorandum (Q: Q2 fill blank, 1 marks)",
+      "Debenture interest rate = Fixed (Fixed/Fluctuating) (Q: Q2 fill blank, 1 marks)",
+      "Securities premium when debentures at premium = Credited (Q: Q2 fill blank, 1 marks)",
+      "Trend analysis = Financial analysis technique (Q: Q2 fill blank, 1 marks)",
+      "Liquidity ratio = Acid test ratio (Q: Q2 fill blank, 1 marks)",
+      "Receipt & Payment = Cash book summary (Q: Q2 fill blank, 1 marks)",
+      "Dissolution unrecorded liabilities = Realisation A/c debited (Q: Q2 fill blank, 1 marks)",
+      "Debenture interest = Charge on profit (Q: Q2 fill blank, 1 marks)",
+      "Items not appearing in Receipt & Payment A/c (two items) (Q: Q3, 1 marks)",
+      "New P&L ratio after admission/retirement calculation (Q: Q3, 1 marks)",
+      "Interest on debentures nature = charge on profit (Q: Q3, 1 marks)",
+      "Two main financial statements of a company (Q: Q3, 1 marks)",
+      "Goodwill — super profit method valuation (Q: Section B, 2 marks)",
+      "Interest on drawing calculation (monthly withdrawal formula) (Q: Section B, 2 marks)",
+      "Journal entries on admission with goodwill in cash (premium) (Q: Section B, 2 marks)",
+      "Securities Premium — two uses (Q: Section B, 2 marks)",
+      "Shares issued for purchase of asset — journal entry (Q: Section B, 2 marks)"
+    ],
+    "chapters_mostly_theory": [],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "Unit 2 Admission of Partner",
+      "Unit 3 Retirement Death of Partner",
+      "Unit 1 Share Capital",
+      "Unit 2 Issue of Debentures"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "Unit 2 Admission of Partner",
+      "Unit 3 Retirement Death of Partner",
+      "Unit 1 Share Capital",
+      "Unit 2 Issue of Debentures"
+    ],
+    "chapters_with_numerical": [
+      "Unit 1 Basic Concepts",
+      "Unit 2 Admission of Partner",
+      "Unit 3 Retirement Death of Partner",
+      "Unit 4 Dissolution of Partnership Firm",
+      "Unit 1 Share Capital",
+      "Unit 2 Issue of Debentures",
+      "Unit 3 Financial Statements of Company",
+      "Unit 4 Accounting Ratios",
+      "Unit 5 Cash Flow Statement",
+      "Unit 6 Non Profit Organisations"
+    ],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "NPO main objective = Public welfare work (Q: Q1 MCQ, 1 marks)",
+      "Without partnership deed = no salary/interest/commission (Q: Q1 MCQ, 1 marks)",
+      "Revaluation account = Nominal account (Q: Q1 MCQ, 1 marks)",
+      "Table F = 12% interest on calls-in-advance (Q: Q1 MCQ, 1 marks)",
+      "Debenture holders = loan providers (creditors) (Q: Q1 MCQ, 1 marks)",
+      "Convertible debentures = can convert to equity shares (Q: Q1 MCQ, 1 marks)",
+      "Balance sheet share capital = Subscribed & paid up capital (Q: Q1 MCQ, 1 marks)",
+      "Financial statements = useful for all (employees/managers/shareholders) (Q: Q1 MCQ, 1 marks)",
+      "Common size balance sheet = total equity & liabilities = 100 (Q: Q1 MCQ, 1 marks)",
+      "365 / Trade Payable Turnover = Average Payment Period (Q: Q1 MCQ, 1 marks)",
+      "Gaining Ratio = calculated on retirement AND death both (Q: Q1 MCQ, 1 marks)",
+      "Bad debts / provision for bad debts on dissolution = Realisation A/c (Q: Q1 MCQ / Fill blank, 1 marks)",
+      "Interest on drawing = Expense for firm (Income/Expense fill blank) (Q: Q2 fill blank, 1 marks)",
+      "Authorised capital = maximum capital in memorandum (Q: Q2 fill blank, 1 marks)",
+      "Debenture interest rate = Fixed (Fixed/Fluctuating) (Q: Q2 fill blank, 1 marks)",
+      "Securities premium when debentures at premium = Credited (Q: Q2 fill blank, 1 marks)",
+      "Trend analysis = Financial analysis technique (Q: Q2 fill blank, 1 marks)",
+      "Liquidity ratio = Acid test ratio (Q: Q2 fill blank, 1 marks)",
+      "Receipt & Payment = Cash book summary (Q: Q2 fill blank, 1 marks)",
+      "Dissolution unrecorded liabilities = Realisation A/c debited (Q: Q2 fill blank, 1 marks)",
+      "Debenture interest = Charge on profit (Q: Q2 fill blank, 1 marks)",
+      "Items not appearing in Receipt & Payment A/c (two items) (Q: Q3, 1 marks)",
+      "New P&L ratio after admission/retirement calculation (Q: Q3, 1 marks)",
+      "Interest on debentures nature = charge on profit (Q: Q3, 1 marks)",
+      "Two main financial statements of a company (Q: Q3, 1 marks)",
+      "Goodwill — super profit method valuation (Q: Section B, 2 marks)",
+      "Interest on drawing calculation (monthly withdrawal formula) (Q: Section B, 2 marks)",
+      "Journal entries on admission with goodwill in cash (premium) (Q: Section B, 2 marks)",
+      "Securities Premium — two uses (Q: Section B, 2 marks)",
+      "Shares issued for purchase of asset — journal entry (Q: Section B, 2 marks)"
+    ],
+    "one_mark_question_facts": {
+      "note": "Q1 MCQ + Q2 Fill + Q3 VSA = objective section. No negative marking.",
+      "common_formats": [
+        "MCQ",
+        "Fill in the Blanks",
+        "Very Short Answer"
+      ]
+    },
+    "key_calculations_to_practice": [
+      {
+        "topic": "Goodwill by Super Profit Method",
+        "formula": "Normal Profit = Capital x Normal Rate of Return / 100; Super Profit = Average Profit - Normal Profit; Goodwill = Super Profit x Years of Purchase",
+        "example": "Capital=4,00,000, Normal Rate=10%, Average Profit=60,000 → Normal Profit=40,000; Super Profit=20,000; Goodwill=20,000x3=60,000"
+      },
+      {
+        "topic": "Interest on Drawing — Beginning of Month",
+        "formula": "Interest = Total Drawing x Rate/100 x 6.5/12",
+        "note": "Beginning of each month = 6.5 months average period"
+      },
+      {
+        "topic": "Interest on Drawing — End of Month",
+        "formula": "Interest = Total Drawing x Rate/100 x 5.5/12",
+        "note": "End of each month = 5.5 months average period"
+      },
+      {
+        "topic": "Interest on Drawing — Beginning of Quarter",
+        "formula": "Interest = Total Drawing x Rate/100 x 7.5/12",
+        "note": "Beginning of each quarter = 7.5 months average period (MCQ repeat)"
+      },
+      {
+        "topic": "New Profit Sharing Ratio on Admission",
+        "formula": "Old partners sacrifice their share; New Partner's share given; Remaining share = 1 - New Partner's share; Old partners get remaining in old ratio"
+      },
+      {
+        "topic": "Sacrificing Ratio",
+        "formula": "Sacrificing Ratio = Old Ratio - New Ratio"
+      },
+      {
+        "topic": "Gaining Ratio",
+        "formula": "Gaining Ratio = New Ratio - Old Ratio (on retirement/death)"
+      },
+      {
+        "topic": "Hidden Goodwill Calculation",
+        "formula": "Total capital of firm = Partner's capital / (1 - new partner's share); Goodwill = Total capital - Actual capital of all partners"
+      },
+      {
+        "topic": "Calls-in-Advance Interest (Table F)",
+        "formula": "Interest = Amount x 12% x period/12",
+        "example": "₹4 per share on 1500 shares, 2 months = 6000 x 12% x 2/12 = 120"
+      },
+      {
+        "topic": "Inventory Turnover Ratio",
+        "formula": "Inventory Turnover = Cost of Revenue from Operations / Average Inventory; Average Inventory = COGS / Turnover Ratio"
+      },
+      {
+        "topic": "Current Ratio + Liquidity Ratio — Inventory Calculation",
+        "formula": "Current Assets = Current Ratio x Current Liabilities; Liquid Assets = Liquidity Ratio x Current Liabilities; Inventory = Current Assets - Liquid Assets",
+        "example": "CL=60,000; CR=3:1 → CA=1,80,000; LR=2.25:1 → LA=1,35,000; Inventory=45,000"
+      },
+      {
+        "topic": "Cost of Goods Sold",
+        "formula": "COGS = Opening Stock + Net Purchases + Direct Expenses - Closing Stock"
+      },
+      {
+        "topic": "Premium on Redemption",
+        "formula": "Premium = Face Value of Debentures x Premium %",
+        "example": "5,00,000 issued at par, redeemable at 10% premium → Premium = 50,000"
+      },
+      {
+        "topic": "Gain on Cancellation of Own Debentures",
+        "formula": "Gain = Face Value - Purchase Price",
+        "example": "Face Value=4,00,000, Purchase Price=92 per debenture (4000 debentures) → Purchase=3,68,000; Gain=32,000"
+      },
+      {
+        "topic": "Number of Debentures Issued at Discount",
+        "formula": "Number = Amount to be paid / Issue Price per debenture",
+        "example": "Machine=2,00,000, paid ₹2,000 by cheque, remaining=1,98,000; Issue at 10% discount on ₹100 = ₹90; Debentures = 1,98,000/90 = 2200"
+      },
+      {
+        "topic": "Cash Flow from Operating Activities (Indirect)",
+        "formula": "Start with Net Profit; Add back non-cash items (Depreciation, Transfer to Reserve); Adjust working capital changes (Stock, Debtors, Creditors); Deduct tax paid"
+      }
+    ],
+    "important_accounts_to_prepare": [
+      {
+        "account": "Revaluation Account",
+        "when": "On admission / retirement / change in PSR",
+        "section": "Section C / Section D"
+      },
+      {
+        "account": "Partners Capital Account",
+        "when": "On admission / retirement / change in PSR / dissolution",
+        "section": "Section D"
+      },
+      {
+        "account": "P&L Appropriation Account",
+        "when": "Basic concepts / guarantee of profit",
+        "section": "Section B / Section C"
+      },
+      {
+        "account": "Share Forfeiture Account",
+        "when": "Forfeiture and reissue of shares",
+        "section": "Section D"
+      },
+      {
+        "account": "Common Size Balance Sheet",
+        "when": "Ratio analysis / financial statements",
+        "section": "Section B"
+      },
+      {
+        "account": "Comparative Income Statement",
+        "when": "Fill in blanks / ratio analysis",
+        "section": "Section B"
+      },
+      {
+        "account": "Realisation Account",
+        "when": "Dissolution of partnership firm",
+        "section": "Section D"
+      },
+      {
+        "account": "Income & Expenditure Account items",
+        "when": "Non-profit organisation",
+        "section": "Section B / Section C"
+      }
+    ]
+  },
+  "important_diagrams_masterlist": {
+    "note": "RBSE Accountancy — diagrams / account formats / frameworks to practise.",
+    "must_practise": [
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Revaluation Account",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Partners Capital Account",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "P&L Appropriation Account",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Share Forfeiture Account",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Common Size Balance Sheet",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Comparative Income Statement",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Realisation Account",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Income & Expenditure Account items",
+        "note": ""
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Important calculations/formulas for RBSE Accountancy.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "",
+        "chapter_name": "Key Calculations To Practice",
+        "formulas": [
+          "Goodwill by Super Profit Method",
+          "Interest on Drawing — Beginning of Month",
+          "Interest on Drawing — End of Month",
+          "Interest on Drawing — Beginning of Quarter",
+          "New Profit Sharing Ratio on Admission",
+          "Sacrificing Ratio",
+          "Gaining Ratio",
+          "Hidden Goodwill Calculation",
+          "Calls-in-Advance Interest (Table F)",
+          "Inventory Turnover Ratio",
+          "Current Ratio + Liquidity Ratio — Inventory Calculation",
+          "Cost of Goods Sold",
+          "Premium on Redemption",
+          "Gain on Cancellation of Own Debentures",
+          "Number of Debentures Issued at Discount",
+          "Cash Flow from Operating Activities (Indirect)"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Accountancy",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Accountancy",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "RBSE Accountancy has no practical exam. 80 theory + 20 IA = 100.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 40,
+    "medium_percent": 40,
+    "hard_percent": 20,
+    "most_scoring_sections": [
+      "Q1 MCQ (basic concepts)",
+      "Q2 fill blanks (options given)",
+      "Q3 definitions and meanings",
+      "Journal entries for simple debenture/share transactions",
+      "Ratio calculations with given data"
+    ],
+    "most_difficult_sections": [
+      "Q21 Partner admission from full balance sheet (Revaluation + Capital A/c)",
+      "Q22 Over-subscription with pro-rata + forfeiture + reissue complete",
+      "Q23 Debenture redemption with DRR calculation",
+      "Q20 Debt-equity ratio effect on 4 different transactions"
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Q1-Q3 mein 30 marks hain — basic concepts pakke karo. Ye sabse easy scoring section hai.",
+      "Journal entries mein narration likhna mat bhoolna — marks kat jaate hain.",
+      "Q17 se Q23 mein OR choice milti hai — dono options padhkar confident wala choose karo.",
+      "Account preparation mein format bilkul sahi rakho — Dr/Cr sides, totals, balance.",
+      "Revaluation Account aur Partners Capital Account ek saath banao — ek ke figures dusre mein jaate hain.",
+      "Share forfeiture calculation: Forfeiture A/c = amount received till forfeiture date.",
+      "Debenture entries mein: issue price, face value, premium/discount alag track karo.",
+      "Ratio questions mein formula pehle likho, phir calculation — partial marks milte hain.",
+      "Roll number aur question number zaroor likho.",
+      "Multi-part questions (Q22, Q23) ke sab parts ek saath likhna compulsory hai."
+    ],
+    "time_allocation": [
+      {
+        "section_id": "Q1_MCQ",
+        "recommended_minutes": 15,
+        "note": "15 min — carefully attempt karo. Elimination method use karo."
+      },
+      {
+        "section_id": "Q2_Q3_blanks_veryshort",
+        "recommended_minutes": 20,
+        "note": "20 min — Q2 ke 6 blanks + Q3 ke 12 sub-questions. Quick factual answers."
+      },
+      {
+        "section_id": "Q4_to_Q16_short",
+        "recommended_minutes": 45,
+        "note": "45 min — 3-4 min per question. Journal entries mein format sahi rakho."
+      },
+      {
+        "section_id": "Q17_to_Q20_medium",
+        "recommended_minutes": 25,
+        "note": "25 min — 6-7 min per question. Account format strictly follow karo."
+      },
+      {
+        "section_id": "Q21_to_Q23_long",
+        "recommended_minutes": 30,
+        "note": "30 min — 10 min each. Full account preparation with proper format."
+      },
+      {
+        "section_id": "revision",
+        "recommended_minutes": 5,
+        "note": "5 min — roll number, question numbers check karo"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 26",
+        "target_marks": 26,
+        "strategy": "Q1 MCQ (8-10 marks) + Q2 Fill blanks (4-5 marks) + Q3 very short (6-7 marks) + Q4-Q6 Section B (4-6 marks) = 22-28 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Q1 MCQ — NPO objective, without deed no salary/interest, revaluation = nominal, Table F=12%, debenture holders=creditors, balance sheet = subscribed capital",
+          "Q2 fill blanks — interest on drawing=expense, authorised capital, fixed debenture rate, securities premium=credited, trend=financial, liquidity=acid test",
+          "Q3 — interest on drawing nature, items not in Receipt & Payment, new PSR, goodwill journal entry, two financial statements",
+          "Q4 subscription calculation, Q5 interest on drawing calculation, Q6 goodwill by super profit"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "50",
+        "target_marks": 50,
+        "strategy": "Section A full (28-30) + Section B Q4-Q12 (14-16 marks) + Q17 ya Q18 (3 marks) = 45-49 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Full Section A",
+          "Q4-Q8 journal entries and small calculations",
+          "Q13 head/sub-head OR common size balance sheet",
+          "Q15 COGS calculation OR inventory from ratio",
+          "Q17 subscription/stationery OR P&L Appropriation"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "65",
+        "target_marks": 65,
+        "strategy": "Section A (28-30) + Section B all (20-22 marks) + Section C Q17-Q19 (9 marks) + Q22 Section D (4 marks) = 61-65 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All Section A and B",
+          "Q17 Non-profit org calculation",
+          "Q18 retirement payment calculation",
+          "Q19 debentures journal entries",
+          "Q22 share forfeiture and reissue"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping",
+        "target_marks": 0,
+        "strategy": "All 23 questions with correct format. Journal entries with narrations. Account format bilkul sahi rakho.",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [
+      "Unit 2 Admission of Partner (11 marks)",
+      "Unit 3 Retirement Death of Partner (11 marks)",
+      "Unit 1 Share Capital (14 marks)",
+      "Unit 2 Issue of Debentures (13 marks)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 20,
+    "note": "20 marks internal assessment school level par diye jaate hain. Projects aur practicals se milte hain.",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "Accountancy Part 1 (Partnership Accounts)",
+        "author": "",
+        "publisher": "NCERT Class XII",
+        "purpose": "Primary",
+        "note": "Compulsory. Part A ke sab chapters — basic concepts, admission, retirement, dissolution."
+      },
+      {
+        "name": "Accountancy Part 2 (Company Accounts + Financial Statements)",
+        "author": "",
+        "publisher": "NCERT Class XII",
+        "purpose": "Primary",
+        "note": "Compulsory. Part B ke sab chapters — share capital, debentures, financial statements, ratios, cash flow."
+      },
+      {
+        "name": "Pariksha Adhyayan Accountancy Class 12",
+        "author": "",
+        "publisher": "Navbodh / Pariksha Adhyayan",
+        "purpose": "Supplementary",
+        "note": "RBSE specific. PYQs aur model answers. Chapter-wise solved questions."
+      },
+      {
+        "name": "Previous Year Question Papers",
+        "author": "",
+        "publisher": "RBSE",
+        "purpose": "Supplementary",
+        "note": "Same journal entries aur account formats repeat hote hain. Must solve. Pattern samajhne ke liye."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": true,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "rajeduboard.rajasthan.gov.in",
+    "extra_time_given": false,
+    "extra_time_note": "",
+    "reading_time_minutes": 15,
+    "writing_time_minutes": 180
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "roll_number_compulsory: True",
+      "sequence_compulsory: False",
+      "sequence_note: Jo question aasaan lage pehle karo. But question number clearly likho.",
+      "multi_part_note: Jis question mein zyaada parts hain unke sab parts ek saath continuity mein likhna compulsory hai.",
+      "partial_marking: True",
+      "partial_marking_note: Journal entry mein agar ek account sahi aur ek galat toh partial marks milte hain.",
+      "format_marks: Account format ke liye alag marks hote hain — format galat ho toh marks katenge.",
+      "MCQ_no_explanation: MCQ mein sirf option letter kaafi — explanation nahi chahiye."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['Blue', 'Black'] recommendation: Blue pen for answers. Journal entries mein pen hi use karo."
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

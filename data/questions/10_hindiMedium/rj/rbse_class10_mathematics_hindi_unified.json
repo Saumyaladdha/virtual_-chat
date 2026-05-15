@@ -1,0 +1,2286 @@
+{
+  "board": "RBSE (राजस्थान माध्यमिक शिक्षा बोर्ड)",
+  "class": "10",
+  "subject": "गणित",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 0,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 0,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 0,
+    "extra_time_given": false,
+    "extra_time_note": "",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 0,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "",
+    "all_compulsory_note": "",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "",
+    "new_pattern_note": "",
+    "types": []
+  },
+  "paper_pattern": {
+    "note": "",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 0,
+      "medium_percent": 0,
+      "hard_percent": 0,
+      "note": ""
+    },
+    "sections": []
+  },
+  "marks_distribution": {
+    "total_theory": 0,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": []
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 80,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "2",
+      "name": "बीजगणित",
+      "marks": 18,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "वास्तविक संख्याएँ",
+        "marks": 4
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "वास्तविक संख्याएँ",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "बीजगणित",
+        "marks": 18,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "ज्यामिति",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "निर्देशांक ज्यामिति",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "त्रिकोणमिति",
+        "marks": 13,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "क्षेत्रमिति",
+        "marks": 11,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "सांख्यिकी एवं प्रायिकता",
+        "marks": 17,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Mathematics Class 10 — 7 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Mathematics",
+        "category": "Main",
+        "total_marks": 80,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "वास्तविक संख्याएँ",
+            "marks": 4,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "बीजगणित",
+            "marks": 18,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "ज्यामिति",
+            "marks": 10,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "निर्देशांक ज्यामिति",
+            "marks": 7,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "त्रिकोणमिति",
+            "marks": 13,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "क्षेत्रमिति",
+            "marks": 11,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "सांख्यिकी एवं प्रायिकता",
+            "marks": 17,
+            "topics": [],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "वास्तविक संख्याएँ",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 1,
+      "unit_name": "वास्तविक संख्याएँ",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "बीजगणित",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 2,
+      "unit_name": "बीजगणित",
+      "part": "",
+      "weightage_marks": 18,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "ज्यामिति",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 3,
+      "unit_name": "ज्यामिति",
+      "part": "",
+      "weightage_marks": 10,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "निर्देशांक ज्यामिति",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 4,
+      "unit_name": "निर्देशांक ज्यामिति",
+      "part": "",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "त्रिकोणमिति",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 5,
+      "unit_name": "त्रिकोणमिति",
+      "part": "",
+      "weightage_marks": 13,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "क्षेत्रमिति",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 6,
+      "unit_name": "क्षेत्रमिति",
+      "part": "",
+      "weightage_marks": 11,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "सांख्यिकी एवं प्रायिकता",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Class 10",
+      "unit_id": 7,
+      "unit_name": "सांख्यिकी एवं प्रायिकता",
+      "part": "",
+      "weightage_marks": 17,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Mathematics Class 10 — 7 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "बीजगणित",
+      "ज्यामिति",
+      "त्रिकोणमिति",
+      "क्षेत्रमिति",
+      "सांख्यिकी एवं प्रायिकता"
+    ],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [
+      "बीजगणित (18 marks)",
+      "ज्यामिति (10 marks)",
+      "त्रिकोणमिति (13 marks)",
+      "क्षेत्रमिति (11 marks)",
+      "सांख्यिकी एवं प्रायिकता (17 marks)"
+    ],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [
+      "अभाज्य गुणनखंड — घातों का योग MCQ (Q: , )",
+      "AP — nवाँ पद रिक्त स्थान / MCQ (Q: , )",
+      "त्रिकोणमिति सर्वसमिका प्रमाण (खंड D, 4 अंक) (Q: , )",
+      "सांख्यिकी — वर्गीकृत आँकड़ों की माध्यिका (यही वितरण दोहराया) (Q: , )",
+      "दो क्रमागत पूर्णांक वर्गों का योग = 365 (द्विघात) (Q: , )",
+      "दूरी सूत्र — अक्ष से बिंदु की दूरी MCQ (Q: , )",
+      "AP योग (6 से विभाज्य या विषम संख्याएं) (Q: , )",
+      "ऊँचाई एवं दूरी — परछाईं कोण MCQ (Q: , )",
+      "बाह्य बिंदु से स्पर्शरेखा प्रमाण / स्पर्शरेखा लम्बाई (Q: , )",
+      "सांख्यिकी — बारंबारता वितरण का माध्य (Q: , )",
+      "त्रिज्यखंड क्षेत्रफल / चाप लम्बाई (Q: , )",
+      "DE||BC — आधारभूत आनुपातिकता प्रमेय अनुप्रयोग (Q: , )",
+      "प्रायिकता — पासा फेंकना / पत्ता निकालना (Q: , )",
+      "निर्देशांक ज्यामिति — खंड सूत्र / त्रिभुज क्षेत्रफल (Q: , )",
+      "रैखिक युग्म ग्राफीय हल (ग्राफ पेपर) (Q: , )",
+      "सिद्ध करो: बाह्य बिंदु से स्पर्शरेखाएं बराबर (Q: , )"
+    ],
+    "chapters_mostly_theory": [
+      "वास्तविक संख्याएँ",
+      "बीजगणित",
+      "ज्यामिति",
+      "निर्देशांक ज्यामिति",
+      "त्रिकोणमिति",
+      "क्षेत्रमिति",
+      "सांख्यिकी एवं प्रायिकता"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "बीजगणित",
+      "ज्यामिति",
+      "निर्देशांक ज्यामिति",
+      "त्रिकोणमिति",
+      "क्षेत्रमिति",
+      "सांख्यिकी एवं प्रायिकता"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "बीजगणित",
+      "ज्यामिति",
+      "निर्देशांक ज्यामिति",
+      "त्रिकोणमिति",
+      "क्षेत्रमिति",
+      "सांख्यिकी एवं प्रायिकता"
+    ],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "वास्तविक संख्याएँ",
+      "बीजगणित",
+      "ज्यामिति",
+      "निर्देशांक ज्यामिति",
+      "त्रिकोणमिति",
+      "क्षेत्रमिति",
+      "सांख्यिकी एवं प्रायिकता"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "अभाज्य गुणनखंड — घातों का योग MCQ (Q: , )",
+      "AP — nवाँ पद रिक्त स्थान / MCQ (Q: , )",
+      "त्रिकोणमिति सर्वसमिका प्रमाण (खंड D, 4 अंक) (Q: , )",
+      "सांख्यिकी — वर्गीकृत आँकड़ों की माध्यिका (यही वितरण दोहराया) (Q: , )",
+      "दो क्रमागत पूर्णांक वर्गों का योग = 365 (द्विघात) (Q: , )",
+      "दूरी सूत्र — अक्ष से बिंदु की दूरी MCQ (Q: , )",
+      "AP योग (6 से विभाज्य या विषम संख्याएं) (Q: , )",
+      "ऊँचाई एवं दूरी — परछाईं कोण MCQ (Q: , )",
+      "बाह्य बिंदु से स्पर्शरेखा प्रमाण / स्पर्शरेखा लम्बाई (Q: , )",
+      "सांख्यिकी — बारंबारता वितरण का माध्य (Q: , )",
+      "त्रिज्यखंड क्षेत्रफल / चाप लम्बाई (Q: , )",
+      "DE||BC — आधारभूत आनुपातिकता प्रमेय अनुप्रयोग (Q: , )",
+      "प्रायिकता — पासा फेंकना / पत्ता निकालना (Q: , )",
+      "निर्देशांक ज्यामिति — खंड सूत्र / त्रिभुज क्षेत्रफल (Q: , )",
+      "रैखिक युग्म ग्राफीय हल (ग्राफ पेपर) (Q: , )",
+      "सिद्ध करो: बाह्य बिंदु से स्पर्शरेखाएं बराबर (Q: , )"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "topic_importance_ranking": {
+      "rank_1_highest": [
+        {
+          "unit": "बीजगणित",
+          "marks": 18,
+          "reason": "बहुपद + रैखिक समीकरण + द्विघात + AP — हर खंड में आता है"
+        },
+        {
+          "unit": "सांख्यिकी एवं प्रायिकता",
+          "marks": 17,
+          "reason": "सीधे सूत्र आधारित — माध्य/माध्यिका/बहुलक तालिका + प्रायिकता"
+        }
+      ],
+      "rank_2_high": [
+        {
+          "unit": "त्रिकोणमिति",
+          "marks": 13,
+          "reason": "सर्वसमिका प्रमाण (4 अंक) + मान MCQ + ऊँचाई एवं दूरी"
+        },
+        {
+          "unit": "क्षेत्रमिति",
+          "marks": 11,
+          "reason": "सीधे सूत्र — त्रिज्यखंड, CSA, TSA, आयतन"
+        }
+      ],
+      "rank_3_medium": [
+        {
+          "unit": "ज्यामिति",
+          "marks": 10,
+          "reason": "प्रमेय + प्रमाण + रचनाएं"
+        },
+        {
+          "unit": "निर्देशांक ज्यामिति",
+          "marks": 7,
+          "reason": "सूत्र आधारित — दूरी, मध्य बिंदु, खंड, क्षेत्रफल"
+        }
+      ],
+      "rank_4_lower": [
+        {
+          "unit": "वास्तविक संख्याएँ",
+          "marks": 4,
+          "reason": "केवल खंड A — MCQ, रिक्त स्थान, अपरिमेय प्रमाण"
+        }
+      ]
+    },
+    "quick_formula_sheet": {
+      "algebra": {
+        "quadratic_formula": "x = [-b ± √(b²-4ac)] / 2a",
+        "sum_of_zeroes": "-b/a",
+        "product_of_zeroes": "c/a",
+        "AP_nth_term": "a + (n-1)d",
+        "AP_sum": "n/2 × [2a + (n-1)d]",
+        "AP_sum_with_last": "n/2 × (a+l)"
+      },
+      "coordinate_geometry": {
+        "distance": "√[(x₂-x₁)² + (y₂-y₁)²]",
+        "midpoint": "((x₁+x₂)/2, (y₁+y₂)/2)",
+        "section_formula": "((mx₂+nx₁)/(m+n), (my₂+ny₁)/(m+n))",
+        "area_triangle": "(1/2)|x₁(y₂-y₃)+x₂(y₃-y₁)+x₃(y₁-y₂)|"
+      },
+      "trigonometry": {
+        "sin²+cos²": "= 1",
+        "1+tan²": "= sec²",
+        "1+cot²": "= cosec²",
+        "sin30": "1/2",
+        "cos30": "√3/2",
+        "tan30": "1/√3",
+        "sin45": "1/√2",
+        "cos45": "1/√2",
+        "tan45": "1",
+        "sin60": "√3/2",
+        "cos60": "1/2",
+        "tan60": "√3"
+      },
+      "mensuration": {
+        "circle_area": "πr²",
+        "circle_circumference": "2πr",
+        "sector_area": "(θ/360)πr²",
+        "arc_length": "(θ/360)×2πr",
+        "cone_CSA": "πrl (l=तिरछी ऊँचाई)",
+        "sphere_SA": "4πr²",
+        "cylinder_CSA": "2πrh",
+        "cube_TSA": "6a²",
+        "hemisphere_TSA": "3πr²"
+      },
+      "statistics": {
+        "mean": "Σfx/Σf",
+        "assumed_mean": "a + Σfd/Σf",
+        "median": "l + [(n/2 - cf)/f] × h",
+        "mode": "l + [(f₁-f₀)/(2f₁-f₀-f₂)] × h",
+        "empirical": "3 माध्यिका = बहुलक + 2 माध्य"
+      }
+    },
+    "year_wise_paper_summary": {
+      "2023_Praveshika": {
+        "total_questions": 23,
+        "section_A": "Q1 (12 MCQ) + Q2 (6 रिक्त स्थान) + Q3 (12 अति लघु) = ~30 अंक",
+        "section_B": "Q4–Q16 (13 × 2 = 26 अंक)",
+        "section_C": "Q17–Q20 (4 × 3 = 12 अंक, OR Q21–Q23 में)",
+        "section_D": "Q21–Q23 (3 × 4 = 12 अंक, सभी में OR)",
+        "special_note": "Q21 में रैखिक समीकरण का ग्राफ बनाना था — ग्राफ पेपर पर"
+      },
+      "2024_Secondary": {
+        "total_questions": 22,
+        "section_A": "Q1 (15 MCQ) + Q2 (7 रिक्त स्थान) + Q3 (10 अति लघु) = ~32 अंक",
+        "section_B": "Q4–Q15 (12 × 2 = 24 अंक)",
+        "section_C": "Q16–Q19 (4 × 3 = 12 अंक, सभी में OR)",
+        "section_D": "Q20–Q22 (5 प्रश्न मिश्रित, Q20–Q22 में OR)",
+        "special_note": "OR विकल्प Q16–Q22 तक थे"
+      },
+      "2025_Secondary": {
+        "total_questions": 20,
+        "section_A": "Q1 (18 MCQ) + Q2 (6 रिक्त स्थान) + Q3 (12 अति लघु) = ~36 अंक",
+        "section_B": "Q4–Q13 (10 × 2 = 20 अंक)",
+        "section_C": "Q14–Q17 (4 × 3 = 12 अंक, Q14–Q16 में OR)",
+        "section_D": "Q18–Q20 (3 × 4 = 12 अंक, सभी में OR)",
+        "special_note": "2025 पैटर्न = 2026 के लिए सबसे अच्छा संदर्भ। OR विकल्प Q14 से Q20 तक।"
+      }
+    },
+    "unit_wise_pyq_analysis": {
+      "unit1_real_numbers": {
+        "syllabus_marks_2026": 4,
+        "importance": "निम्न-मध्यम — अधिकांश खंड A में (MCQ/रिक्त स्थान)",
+        "mcq_asked": [
+          {
+            "q": "196 के अभाज्य गुणनखंडों की घातों का योग",
+            "ans": "D) 6",
+            "year": "2023",
+            "topic": "अभाज्य गुणनखंड"
+          },
+          {
+            "q": "400 के अभाज्य गुणनखंडों की घातों का योग",
+            "ans": "C) 6",
+            "year": "2025",
+            "topic": "अभाज्य गुणनखंड"
+          }
+        ],
+        "fill_blank_asked": [
+          {
+            "q": "95 और 152 का HCF = ___",
+            "ans": "19",
+            "year": "2023"
+          }
+        ],
+        "very_short_asked": [
+          {
+            "q": "यदि x = 2³×3² और y = 2²×3², x और y का LCM ज्ञात करो",
+            "ans": "72",
+            "year": "2024"
+          },
+          {
+            "q": "13/125 का दशमलव प्रसार",
+            "ans": "0.104",
+            "year": "2023"
+          }
+        ],
+        "short_answer_asked": [
+          {
+            "q": "सिद्ध करो कि √5 अपरिमेय है",
+            "marks": 2,
+            "year": "2024"
+          },
+          {
+            "q": "अभाज्य गुणनखंड से 12, 15, 21 का HCF और LCM ज्ञात करो",
+            "marks": 2,
+            "year": "2025"
+          }
+        ],
+        "key_facts": {
+          "prime_factorisation_196": "196 = 2² × 7² → घातों का योग = 2+2 = 4",
+          "prime_factorisation_400": "400 = 2⁴ × 5² → घातों का योग = 4+2 = 6",
+          "HCF_LCM_relation": "HCF × LCM = दो संख्याओं का गुणनफल",
+          "irrational_proof": "p/q परिमेय मानो (सह-अभाज्य) → विरोधाभास कि p और q दोनों 2 से विभाज्य हैं",
+          "terminating_decimal": "p/q सांत दशमलव होगा यदि q = 2ⁿ × 5ᵐ",
+          "MCQ_tip": "घातों का योग = अभाज्य गुणनखंड में सभी घातांक जोड़ो"
+        }
+      },
+      "unit2_algebra": {
+        "syllabus_marks_2026": 18,
+        "importance": "सर्वोच्च — सबसे ज्यादा अंक, हर खंड में आता है",
+        "sub_topics": {
+          "polynomials": {
+            "mcq_asked": [
+              {
+                "q": "बहुपद x²-2x-8 के शून्यक",
+                "ans": "C) -2, 4",
+                "year": "2024"
+              },
+              {
+                "q": "यदि 2x²+x+k का एक शून्यक 3 है, तो k का मान",
+                "ans": "C) -21",
+                "year": "2025"
+              },
+              {
+                "q": "योग=5, गुणनफल=6 → द्विघात बहुपद",
+                "ans": "D) x²-5x+6",
+                "year": "2025"
+              }
+            ],
+            "fill_blank_asked": [
+              {
+                "q": "बहुपद x²-3 के शून्यक",
+                "ans": "±√3",
+                "year": "2024"
+              }
+            ],
+            "short_asked": [
+              {
+                "q": "x²-x-6 के शून्यक ज्ञात करो",
+                "marks": 2,
+                "year": "2023"
+              },
+              {
+                "q": "2x²-x-6 के शून्यक ज्ञात करो",
+                "marks": 2,
+                "year": "2024"
+              },
+              {
+                "q": "यदि α,β, 3x²-5x+9 के शून्यक हैं, (α+β) और αβ ज्ञात करो",
+                "marks": 2,
+                "year": "2025"
+              }
+            ],
+            "key_facts": {
+              "sum_of_zeroes": "α+β = -b/a",
+              "product_of_zeroes": "αβ = c/a",
+              "quadratic_from_zeroes": "x² - (योग)x + (गुणनफल)",
+              "discriminant": "D = b²-4ac. D>0 दो वास्तविक, D=0 बराबर, D<0 कोई वास्तविक मूल नहीं"
+            }
+          },
+          "linear_equations_pair": {
+            "mcq_asked": [
+              {
+                "q": "3x+2y=11 को संतुष्ट करने वाला युग्म",
+                "ans": "B) (3,1): 9+2=11",
+                "year": "2023"
+              },
+              {
+                "q": "k=? के लिए, x+y-4=0, 2x+ky-3=0 का कोई हल नहीं",
+                "ans": "B) 2",
+                "year": "2025"
+              },
+              {
+                "q": "दो अंकीय संख्या: इकाई अंक x, दहाई अंक y → संख्या है",
+                "ans": "B) 10y+x",
+                "year": "2025"
+              }
+            ],
+            "fill_blank_asked": [
+              {
+                "q": "x+y=14, x-y=4 हल करो",
+                "ans": "x=9, y=5",
+                "year": "2024"
+              }
+            ],
+            "very_short_asked": [
+              {
+                "q": "k=? के लिए 3x-2y=0 और kx+5y=0 के अनंत हल हों",
+                "ans": "k = -15/2",
+                "year": "2023"
+              }
+            ],
+            "short_asked": [
+              {
+                "q": "दो संख्याओं का अंतर 26, एक = दूसरे का 3 गुना। संख्याएं ज्ञात करो",
+                "marks": 2,
+                "year": "2024"
+              },
+              {
+                "q": "विलोपन विधि: 3x+5y=7, 6x+y=-4",
+                "marks": 2,
+                "year": "2025"
+              }
+            ],
+            "essay_asked": [
+              {
+                "q": "ग्राफीय विधि: x+y=14, x-y=4",
+                "marks": 4,
+                "year": "2023",
+                "note": "ग्राफ पेपर पर बनाना था"
+              },
+              {
+                "q": "अथवा: 10 छात्र गणित प्रश्नोत्तरी, लड़कियाँ = लड़के+2, बीजगणितीय और ग्राफीय निरूपण",
+                "marks": 4,
+                "year": "2023"
+              }
+            ],
+            "key_facts": {
+              "no_solution_condition": "a1/a2 = b1/b2 ≠ c1/c2",
+              "infinite_solutions": "a1/a2 = b1/b2 = c1/c2",
+              "unique_solution": "a1/a2 ≠ b1/b2",
+              "graphical_method": "दोनों समीकरणों की तालिका बनाओ, बिंदु आलेखित करो, प्रतिच्छेद = हल",
+              "graph_tip": "x+y=14: (0,14),(14,0),(7,7). x-y=4: (0,-4),(4,0),(9,5)"
+            }
+          },
+          "quadratic_equations": {
+            "mcq_asked": [
+              {
+                "q": "यदि x²-kx+4=0 के मूल बराबर हैं, k का मान",
+                "ans": "D) ±4",
+                "year": "2023"
+              },
+              {
+                "q": "3√3x²+10x+√3=0 का विविक्तकर",
+                "ans": "D) 64",
+                "year": "2023"
+              }
+            ],
+            "very_short_asked": [
+              {
+                "q": "ax²+bx+c=0 के लिए श्रीधराचार्य सूत्र लिखो",
+                "ans": "x = (-b ± √(b²-4ac)) / 2a",
+                "year": "2023"
+              },
+              {
+                "q": "4x²-12x-9=0 के मूलों की प्रकृति",
+                "ans": "D = 144+144 = 288 > 0 → दो भिन्न वास्तविक मूल",
+                "year": "2023"
+              }
+            ],
+            "essay_asked": [
+              {
+                "q": "समकोण त्रिभुज: ऊँचाई = आधार-7, कर्ण=13. अन्य दो भुजाएं ज्ञात करो",
+                "marks": 4,
+                "year": "2024"
+              },
+              {
+                "q": "अथवा: दो क्रमागत धनात्मक पूर्णांक जिनके वर्गों का योग 365 है",
+                "marks": 4,
+                "year": "2024"
+              },
+              {
+                "q": "दो संख्याओं के वर्गों का अंतर = 180। छोटी का वर्ग = 8×बड़ी। दोनों ज्ञात करो",
+                "marks": 4,
+                "year": "2025"
+              },
+              {
+                "q": "अथवा: दो क्रमागत धनात्मक पूर्णांक जिनके वर्गों का योग 365 है",
+                "marks": 4,
+                "year": "2025",
+                "note": "2024 और 2025 में यही प्रश्न दोहराया!"
+              }
+            ],
+            "key_facts": {
+              "sridharacharya": "x = [-b ± √(b²-4ac)] / 2a — अवश्य याद करो",
+              "equal_roots_condition": "D = 0 → b²=4ac",
+              "consecutive_integers_365": "x²+(x+1)²=365 → 2x²+2x-364=0 → x²+x-182=0 → x=13 (उत्तर: 13,14)",
+              "factoring_method": "अधिकांश 2-अंक प्रश्नों में उपयोग करो",
+              "nature_of_roots": "D>0: दो भिन्न वास्तविक, D=0: बराबर, D<0: कोई वास्तविक मूल नहीं"
+            }
+          },
+          "arithmetic_progression": {
+            "mcq_asked": [
+              {
+                "q": "यदि 18,a,b,-3 AP में हैं, a+b का मान",
+                "ans": "C) 15",
+                "year": "2023"
+              },
+              {
+                "q": "AP: पहला पद=2, d=3, nवाँ पद",
+                "ans": "B) 3n-1",
+                "year": "2024"
+              },
+              {
+                "q": "3 के पहले 5 गुणजों का योग",
+                "ans": "C) 45",
+                "year": "2024"
+              }
+            ],
+            "fill_blank_asked": [
+              {
+                "q": "पहला पद a और सार्व अंतर d वाली AP का 5वाँ पद",
+                "ans": "a+4d",
+                "year": "2023"
+              },
+              {
+                "q": "AP: -3, -1/2, 5/2, ... का 11वाँ पद",
+                "ans": "22",
+                "year": "2024"
+              },
+              {
+                "q": "यदि 18, a, 10 AP में हैं, a = ___",
+                "ans": "14",
+                "year": "2025"
+              }
+            ],
+            "short_asked": [
+              {
+                "q": "AP 7,13,19,...,205 में पदों की संख्या ज्ञात करो",
+                "marks": 2,
+                "year": "2025"
+              }
+            ],
+            "long_essay_asked": [
+              {
+                "q": "6 से विभाज्य पहले 40 धनात्मक पूर्णांकों का योग",
+                "marks": 3,
+                "year": "2023"
+              },
+              {
+                "q": "10 और 250 के बीच 4 के कितने गुणज हैं?",
+                "marks": 3,
+                "year": "2024"
+              },
+              {
+                "q": "अथवा: 0 और 50 के बीच विषम संख्याओं का योग",
+                "marks": 3,
+                "year": "2024"
+              },
+              {
+                "q": "AP का nवाँ पद = 3+2n, पहले 15 पदों का योग",
+                "marks": 3,
+                "year": "2025"
+              },
+              {
+                "q": "अथवा: AP में 60 पद, पहला=7, अंतिम=125। 32वाँ पद ज्ञात करो",
+                "marks": 3,
+                "year": "2025"
+              }
+            ],
+            "key_facts": {
+              "nth_term": "aₙ = a + (n-1)d",
+              "sum_of_n_terms": "Sₙ = n/2 × [2a + (n-1)d] या Sₙ = n/2 × (a + l)",
+              "common_difference": "d = (कोई भी पद - पिछला पद)",
+              "AP_check": "a,b,c AP में होंगे यदि 2b = a+c",
+              "multiples_of_6_first_40": "6+12+18+...+240 = 6×(1+2+...+40) = 6×820 = 4920",
+              "odd_between_0_50": "1+3+5+...+49 = 25² = 625",
+              "tip": "जब भी 'योग' पूछा जाए — Sₙ सूत्र उपयोग करो"
+            }
+          }
+        }
+      },
+      "unit3_geometry": {
+        "syllabus_marks_2026": 10,
+        "importance": "उच्च — प्रमेय, प्रमाण, रचनाएं",
+        "sub_topics": {
+          "triangles_similarity": {
+            "mcq_asked": [
+              {
+                "q": "यदि ΔPQR में PQ²+QR²=PR², समकोण कहाँ?",
+                "ans": "B) ∠Q पर",
+                "year": "2024"
+              },
+              {
+                "q": "ΔABC~ΔDEF, AB=10, DE=8। BC:EF का अनुपात",
+                "ans": "D) 5:4",
+                "year": "2025"
+              },
+              {
+                "q": "दिए चित्र: AB=2,AC=4,DE=3,DF=6,∠A=∠D=50°, BC=3. EF ज्ञात करो",
+                "ans": "A) 4.5 cm",
+                "year": "2025"
+              }
+            ],
+            "very_short_asked": [
+              {
+                "q": "समरूप आकृतियाँ परिभाषित करो",
+                "ans": "समान आकार, आनुपातिक भुजाएं — कोण बराबर",
+                "year": "2023"
+              },
+              {
+                "q": "चित्र में DE||BC: AD=x, DB=x-2, AE=x+2, EC=x-1. x ज्ञात करो",
+                "ans": "x=4",
+                "year": "2024"
+              }
+            ],
+            "short_asked": [
+              {
+                "q": "DE||BC, AD=1.5, DB=3, AE=1. EC ज्ञात करो",
+                "marks": 1,
+                "year": "2024"
+              },
+              {
+                "q": "DE||BC, दिए चित्र से x ज्ञात करो",
+                "marks": 2,
+                "year": "2025"
+              }
+            ],
+            "long_asked": [
+              {
+                "q": "यदि दो समरूप त्रिभुजों के क्षेत्रफल बराबर हैं, सिद्ध करो कि वे सर्वांगसम हैं",
+                "marks": 3,
+                "year": "2023"
+              }
+            ],
+            "key_facts": {
+              "BPT": "आधारभूत आनुपातिकता प्रमेय: DE||BC → AD/DB = AE/EC",
+              "similarity_criteria": "AA, SAS, SSS",
+              "area_ratio": "(क्षेत्रफल₁/क्षेत्रफल₂) = (संगत भुजा)²",
+              "Pythagoras": "समकोण त्रिभुज में: कर्ण² = आधार² + लम्ब²",
+              "converse_Pythagoras": "यदि a²+b²=c², तो c के सम्मुख शीर्ष पर समकोण"
+            }
+          },
+          "circles": {
+            "mcq_asked": [
+              {
+                "q": "जीवा जिसकी लम्बाई = 2×त्रिज्या कहलाती है?",
+                "ans": "B) व्यास",
+                "year": "2023"
+              },
+              {
+                "q": "व्यास के सिरों पर स्पर्शरेखाएं परस्पर कैसी होती हैं?",
+                "ans": "B) समांतर",
+                "year": "2024"
+              },
+              {
+                "q": "बाहरी बिंदु P से स्पर्शरेखा: लम्बाई 24cm, केंद्र से दूरी 25cm। त्रिज्या?",
+                "ans": "A) 7 cm",
+                "year": "2025"
+              }
+            ],
+            "fill_blank_asked": [
+              {
+                "q": "वृत्त पर स्थित बिंदु से स्पर्शरेखाओं की संख्या",
+                "ans": "1 (एक)",
+                "year": "2023"
+              },
+              {
+                "q": "वृत्त और स्पर्शरेखा का उभयनिष्ठ बिंदु कहलाता है ___",
+                "ans": "स्पर्श बिंदु",
+                "year": "2023"
+              }
+            ],
+            "short_asked": [
+              {
+                "q": "दो संकेंद्रीय वृत्त r=5 और r=3. बड़े वृत्त की जीवा जो छोटे को स्पर्श करे, उसकी लम्बाई",
+                "marks": 2,
+                "year": "2024"
+              },
+              {
+                "q": "चतुर्भुज ABCD वृत्त के परिगत है। सिद्ध करो AB+CD=AD+BC",
+                "marks": 2,
+                "year": "2025"
+              }
+            ],
+            "long_asked": [
+              {
+                "q": "दो स्पर्शरेखाएं TP और TQ खींची। सिद्ध करो ∠PTQ = 2∠OPQ",
+                "marks": 3,
+                "year": "2023"
+              },
+              {
+                "q": "सिद्ध करो: वृत्त के परिगत समांतर चतुर्भुज एक समचतुर्भुज है",
+                "marks": 3,
+                "year": "2024"
+              },
+              {
+                "q": "अथवा: वृत्त के परिगत चतुर्भुज की विपरीत भुजाएं केंद्र पर संपूरक कोण बनाती हैं",
+                "marks": 3,
+                "year": "2024"
+              },
+              {
+                "q": "सिद्ध करो: बाह्य बिंदु से खींची स्पर्शरेखाएं बराबर होती हैं",
+                "marks": 3,
+                "year": "2025"
+              }
+            ],
+            "key_facts": {
+              "tangent_perpendicular": "स्पर्शरेखा ⊥ स्पर्श बिंदु पर त्रिज्या",
+              "equal_tangents": "बाह्य बिंदु से स्पर्शरेखाएं बराबर — सबसे महत्वपूर्ण प्रमेय",
+              "tangent_from_P_formula": "PT = √(d²-r²) जहाँ d=केंद्र से दूरी",
+              "radius_tangent_24_25": "r = √(25²-24²) = √(625-576) = √49 = 7",
+              "chord_two_concentric": "r1=5, r2=3 → जीवा = 2√(25-9) = 2×4 = 8 cm",
+              "tangents_at_diameter_ends": "हमेशा एक-दूसरे के समांतर"
+            }
+          },
+          "constructions": {
+            "very_short_asked": [
+              {
+                "q": "AB=5cm रेखाखंड खींचो, 2:3 में विभाजित करो। दोनों भागों का माप लिखो",
+                "marks": 1,
+                "year": "2023"
+              },
+              {
+                "q": "6cm भुजा का समबाहु त्रिभुज बनाओ, फिर 2/3 गुनी भुजाओं वाला त्रिभुज",
+                "marks": 2,
+                "year": "2023"
+              },
+              {
+                "q": "4cm त्रिज्या के वृत्त पर दो समांतर स्पर्शरेखाएं खींचो",
+                "marks": 2,
+                "year": "2023"
+              }
+            ],
+            "key_facts": {
+              "division_of_line": "m+n रेखाएं खींचो, nवीं पर समांतर रेखा — आंतरिक विभाजन",
+              "similar_triangle_less": "स्केल गुणक 2/3 — छोटा त्रिभुज बनाना",
+              "parallel_tangents": "व्यास के दोनों सिरों पर स्पर्शरेखा खींचो — वे समांतर होंगी"
+            }
+          }
+        }
+      },
+      "unit4_coordinate_geometry": {
+        "syllabus_marks_2026": 7,
+        "importance": "मध्यम-उच्च — सूत्र आधारित, स्कोरिंग",
+        "mcq_asked": [
+          {
+            "q": "बिंदु (3,4) की y-अक्ष से दूरी",
+            "ans": "C) 3",
+            "year": "2023"
+          },
+          {
+            "q": "बिंदु (0,3) की x-अक्ष से दूरी",
+            "ans": "A) 3",
+            "year": "2024"
+          },
+          {
+            "q": "P(-3,4) की मूल बिंदु O(0,0) से दूरी",
+            "ans": "A) 5",
+            "year": "2025"
+          }
+        ],
+        "fill_blank_asked": [
+          {
+            "q": "P(7,-3) और Q(3,9) का मध्य बिंदु",
+            "ans": "(5,3)",
+            "year": "2025"
+          }
+        ],
+        "very_short_asked": [
+          {
+            "q": "(0,0) और (5,-3) को मिलाने वाले रेखाखंड का मध्य बिंदु",
+            "ans": "(5/2, -3/2)",
+            "year": "2023"
+          },
+          {
+            "q": "(-a,a) और (-a,-a) के बीच दूरी",
+            "ans": "2a",
+            "year": "2024"
+          }
+        ],
+        "short_asked": [
+          {
+            "q": "यदि (x,3) और (5,7) के बीच दूरी 5 इकाई है, x ज्ञात करो",
+            "marks": 2,
+            "year": "2024"
+          },
+          {
+            "q": "x-अक्ष (5,3) और (-3,-2) को मिलाने वाले रेखाखंड को किस अनुपात में विभाजित करता है?",
+            "marks": 2,
+            "year": "2025"
+          }
+        ],
+        "long_asked": [
+          {
+            "q": "शीर्षों (2,3), (-1,0), (2,-4) वाले त्रिभुज का क्षेत्रफल",
+            "marks": 3,
+            "year": "2023"
+          },
+          {
+            "q": "यदि A(6,1),B(8,2),C(9,4),D(p,3) समांतर चतुर्भुज के शीर्ष हैं, p ज्ञात करो",
+            "marks": 3,
+            "year": "2024"
+          },
+          {
+            "q": "अथवा: (-1,7) और (4,-3) को 2:3 में विभाजित करने वाला बिंदु",
+            "marks": 3,
+            "year": "2024"
+          },
+          {
+            "q": "(4,0) और (0,-8) को 4 बराबर भागों में विभाजित करने वाले बिंदुओं के निर्देशांक",
+            "marks": 3,
+            "year": "2025"
+          },
+          {
+            "q": "अथवा: AB वृत्त का व्यास है, केंद्र (2,-3), B=(1,4). A ज्ञात करो",
+            "marks": 3,
+            "year": "2025"
+          }
+        ],
+        "key_facts": {
+          "distance_formula": "d = √[(x₂-x₁)² + (y₂-y₁)²]",
+          "distance_from_origin": "d = √(x²+y²)",
+          "distance_from_x_axis": "= |y-निर्देशांक|",
+          "distance_from_y_axis": "= |x-निर्देशांक|",
+          "midpoint_formula": "M = ((x₁+x₂)/2, (y₁+y₂)/2)",
+          "section_formula": "P = ((mx₂+nx₁)/(m+n), (my₂+ny₁)/(m+n))",
+          "area_of_triangle": "(1/2)|x₁(y₂-y₃) + x₂(y₃-y₁) + x₃(y₁-y₂)|",
+          "collinear_condition": "क्षेत्रफल = 0",
+          "x_axis_divides": "y-निर्देशांकों का अनुपात (चिह्न बदलकर): k = -y₁/y₂",
+          "parallelogram_diagonals": "विकर्ण परस्पर द्विभाजित करते हैं → मध्य बिंदु बराबर"
+        }
+      },
+      "unit5_trigonometry": {
+        "syllabus_marks_2026": 13,
+        "importance": "अत्यंत उच्च — प्रमाण + मान + ऊँचाई-दूरी, हर खंड में",
+        "sub_topics": {
+          "trig_ratios_identities": {
+            "mcq_asked": [
+              {
+                "q": "3 sec45° cos45° = ?",
+                "ans": "D) 3",
+                "year": "2023"
+              },
+              {
+                "q": "2 sin45° cos45° = ?",
+                "ans": "D) 1",
+                "year": "2024"
+              },
+              {
+                "q": "cosec²45° - cot²45° = ?",
+                "ans": "B) 1",
+                "year": "2025"
+              },
+              {
+                "q": "sin2A = 2sinA जब A = ?",
+                "ans": "A) 0°",
+                "year": "2025"
+              },
+              {
+                "q": "यदि cosA = 12/13, sinA = ?",
+                "ans": "C) 5/13",
+                "year": "2025"
+              }
+            ],
+            "fill_blank_asked": [
+              {
+                "q": "cos²45° = ?",
+                "ans": "1/2",
+                "year": "2023"
+              },
+              {
+                "q": "cos²60° - sin²60° = ?",
+                "ans": "-1/2",
+                "year": "2024"
+              },
+              {
+                "q": "sin60° cosec60° + cos30° sec30° = ?",
+                "ans": "2",
+                "year": "2025"
+              }
+            ],
+            "very_short_asked": [
+              {
+                "q": "2tan30° / (1-tan²30°) = ?",
+                "ans": "tan60° = √3",
+                "year": "2023"
+              },
+              {
+                "q": "√(1-cos²θ) का θ=60° पर मान",
+                "ans": "sinθ = √3/2",
+                "year": "2023"
+              },
+              {
+                "q": "4cot²45° - sec²60° + sin²60° = ?",
+                "ans": "4-4+3/4 = 3/4",
+                "year": "2025"
+              }
+            ],
+            "short_asked": [
+              {
+                "q": "यदि tan A = 1, 2 sinA cosA ज्ञात करो",
+                "ans": "A=45°, 2×(1/√2)×(1/√2) = 1",
+                "year": "2024"
+              }
+            ],
+            "long_essay_proofs": [
+              {
+                "q": "सिद्ध करो: √[(1-cosA)/(1+cosA)] = cosecA - cotA",
+                "marks": 4,
+                "year": "2023"
+              },
+              {
+                "q": "अथवा: सिद्ध करो: (sinA+cosecA)² + (cosA+secA)² = 7+tan²A+cot²A",
+                "marks": 4,
+                "year": "2023"
+              },
+              {
+                "q": "सिद्ध करो: (cosecθ - cotθ)² = (1-cosθ)/(1+cosθ)",
+                "marks": 4,
+                "year": "2024"
+              },
+              {
+                "q": "अथवा: सिद्ध करो: (cosecA-sinA)(secA-cosA)(tanA+cotA) = 1",
+                "marks": 4,
+                "year": "2024"
+              },
+              {
+                "q": "सिद्ध करो: 1/(1+sinθ) + 1/(1-sinθ) = 2sec²θ",
+                "marks": 4,
+                "year": "2025"
+              },
+              {
+                "q": "अथवा: सिद्ध करो: sin²θcosθ + cos³θ + tanθ sinθ = secθ",
+                "marks": 4,
+                "year": "2025"
+              }
+            ],
+            "key_facts": {
+              "sin_values": "sin0=0, sin30=1/2, sin45=1/√2, sin60=√3/2, sin90=1",
+              "cos_values": "cos0=1, cos30=√3/2, cos45=1/√2, cos60=1/2, cos90=0",
+              "tan_values": "tan0=0, tan30=1/√3, tan45=1, tan60=√3",
+              "identity_1": "sin²θ + cos²θ = 1",
+              "identity_2": "1 + tan²θ = sec²θ",
+              "identity_3": "1 + cot²θ = cosec²θ",
+              "proof_strategy": "LHS → RHS। सर्वसमिकाएं प्रतिस्थापित करो। LCM लो। विस्तार करो।",
+              "common_proof_trick": "अंश/हर को (1±sinθ) या (1±cosθ) से गुणा करो"
+            }
+          },
+          "heights_and_distances": {
+            "mcq_asked": [
+              {
+                "q": "खड़ी छड़ की परछाईं : छड़ की लम्बाई = 1:√3। सूर्य का उन्नयन कोण?",
+                "ans": "B) 30°",
+                "year": "2023"
+              },
+              {
+                "q": "परछाईं = ऊँचाई/√3। उन्नयन कोण?",
+                "ans": "B) 60°",
+                "year": "2024"
+              },
+              {
+                "q": "खम्बे की परछाईं = खम्बे की ऊँचाई। उन्नयन कोण?",
+                "ans": "D) 45°",
+                "year": "2025"
+              }
+            ],
+            "very_short_asked": [
+              {
+                "q": "10m ऊँची मीनार, अवनमन 30°। आधार से दूरी?",
+                "ans": "10√3 m",
+                "year": "2023"
+              },
+              {
+                "q": "100m दूरी से उन्नयन = 60°। मीनार की ऊँचाई?",
+                "ans": "100√3 m",
+                "year": "2024"
+              }
+            ],
+            "short_asked": [
+              {
+                "q": "मीनार की परछाईं 40m बढ़ जाती है जब उन्नयन 60° से 30° हो। ऊँचाई ज्ञात करो",
+                "marks": 2,
+                "year": "2023",
+                "ans": "h=20√3 m"
+              },
+              {
+                "q": "12m सीढ़ी दीवार के शीर्ष को 60° कोण पर स्पर्श करती है। दीवार की ऊँचाई",
+                "marks": 2,
+                "year": "2025"
+              }
+            ],
+            "key_facts": {
+              "angle_of_elevation": "ऊपर देखना → उन्नयन कोण। tanθ = ऊँचाई/आधार",
+              "angle_of_depression": "नीचे देखना → अवनमन कोण। tanθ = ऊँचाई/आधार (सेम सूत्र)",
+              "shadow_equal_height": "tanθ = h/h = 1 → θ = 45°",
+              "shadow_1_sqrt3": "tan30° = 1/√3 → परछाईं = h√3 → h:परछाईं = 1:√3",
+              "30_60_formula": "tan30° = 1/√3, tan60° = √3"
+            }
+          }
+        }
+      },
+      "unit6_mensuration": {
+        "syllabus_marks_2026": 11,
+        "importance": "उच्च — सूत्र आधारित, सीधे अंक मिलते हैं",
+        "sub_topics": {
+          "areas_circles": {
+            "mcq_asked": [
+              {
+                "q": "वृत्त त्रिज्या 3.5cm, परिधि?",
+                "ans": "B) 22 cm",
+                "year": "2023"
+              },
+              {
+                "q": "घन का कुल पृष्ठ क्षेत्रफल = 486 cm²। भुजा = ?",
+                "ans": "D) 9 cm",
+                "year": "2023"
+              },
+              {
+                "q": "परिधि 176cm, त्रिज्या?",
+                "ans": "C) 28 cm",
+                "year": "2024"
+              },
+              {
+                "q": "r=7cm वृत्त के एक चतुर्थांश का क्षेत्रफल?",
+                "ans": "A) 38.5 cm²",
+                "year": "2025"
+              },
+              {
+                "q": "शंकु त्रिज्या=14, तिरछी ऊँचाई=10। वक्र पृष्ठ क्षेत्रफल?",
+                "ans": "C) 440 cm²",
+                "year": "2025"
+              },
+              {
+                "q": "घड़ी की मिनट सुई: 5 मिनट में कोण?",
+                "ans": "A) 30°",
+                "year": "2025"
+              }
+            ],
+            "fill_blank_asked": [
+              {
+                "q": "वृत्त का क्षेत्रफल = 154 cm²। त्रिज्या = ?",
+                "ans": "7 cm",
+                "year": "2024"
+              },
+              {
+                "q": "शंकु त्रिज्या=6, ऊँचाई=8। तिरछी ऊँचाई = ?",
+                "ans": "10 cm",
+                "year": "2024"
+              },
+              {
+                "q": "ठोस अर्धगोला व्यास=14cm। कुल पृष्ठ क्षेत्रफल = ?",
+                "ans": "462 cm²",
+                "year": "2025"
+              }
+            ],
+            "very_short_asked": [
+              {
+                "q": "वृत्त r=14cm, चाप=22cm। केंद्र पर कोण?",
+                "ans": "θ = l/r → 90°",
+                "year": "2025"
+              }
+            ],
+            "short_asked": [
+              {
+                "q": "वृत्त r=7cm, कोण=60°। त्रिज्यखंड का क्षेत्रफल",
+                "marks": 2,
+                "year": "2023"
+              },
+              {
+                "q": "वृत्त r=21cm, कोण=60°। चाप से बने त्रिज्यखंड का क्षेत्रफल",
+                "marks": 2,
+                "year": "2024"
+              },
+              {
+                "q": "चाप केंद्र पर 50° कोण बनाता है, चाप लम्बाई=5π cm। त्रिज्या ज्ञात करो",
+                "marks": 2,
+                "year": "2025"
+              }
+            ],
+            "key_facts": {
+              "area_of_circle": "πr²",
+              "circumference": "2πr",
+              "area_of_sector": "(θ/360) × πr²",
+              "arc_length": "(θ/360) × 2πr = l",
+              "relation": "त्रिज्यखंड का क्षेत्रफल = (1/2) × l × r",
+              "quadrant_area": "(1/4)πr²",
+              "angle_from_arc": "θ = l/r (रेडियन में). कोण (डिग्री): θ° = (l×360)/(2πr)"
+            }
+          },
+          "surface_areas_volumes": {
+            "very_short_asked": [
+              {
+                "q": "घन का कुल पृष्ठ क्षेत्रफल = 1014 m². भुजा ज्ञात करो",
+                "ans": "6a²=1014 → a=13m",
+                "year": "2024"
+              },
+              {
+                "q": "गोला r=7cm। पृष्ठ क्षेत्रफल?",
+                "ans": "4πr² = 616 cm²",
+                "year": "2024"
+              },
+              {
+                "q": "घन का कुल पृष्ठ क्षेत्रफल = 864 cm². एक फलक का क्षेत्रफल?",
+                "ans": "864/6 = 144 cm²",
+                "year": "2025"
+              },
+              {
+                "q": "दो घन प्रत्येक भुजा=2cm जुड़े। घनाभ का आयतन?",
+                "ans": "l=4, b=2, h=2 → V=16 cm³",
+                "year": "2025"
+              },
+              {
+                "q": "शंकु का आयतन=66 cm³, बेलन समान r और h। बेलन का आयतन?",
+                "ans": "3×66 = 198 cm³",
+                "year": "2025"
+              }
+            ],
+            "short_asked": [
+              {
+                "q": "बेलन आधार क्षेत्रफल=154cm², ऊँचाई=15cm। वक्र पृष्ठ क्षेत्रफल",
+                "marks": 2,
+                "year": "2024"
+              },
+              {
+                "q": "दो घन आयतन=64 cm³ प्रत्येक, जुड़े। घनाभ का पृष्ठ क्षेत्रफल ज्ञात करो",
+                "marks": 2,
+                "year": "2023"
+              }
+            ],
+            "key_facts": {
+              "cube_TSA": "6a²",
+              "cuboid_SA": "2(lb+bh+lh)",
+              "cylinder_CSA": "2πrh",
+              "cylinder_TSA": "2πr(h+r)",
+              "cone_CSA": "πrl जहाँ l=√(r²+h²)",
+              "cone_TSA": "πr(l+r)",
+              "sphere_SA": "4πr²",
+              "hemisphere_TSA": "3πr²",
+              "hemisphere_CSA": "2πr²",
+              "frustum_CSA": "πl(r₁+r₂)",
+              "volume_cone": "(1/3)πr²h",
+              "volume_sphere": "(4/3)πr³",
+              "volume_cylinder": "πr²h",
+              "cone_cylinder_relation": "बेलन का आयतन = 3 × शंकु का आयतन (समान r,h)"
+            }
+          }
+        }
+      },
+      "unit7_statistics_probability": {
+        "syllabus_marks_2026": 17,
+        "importance": "अत्यंत उच्च — दूसरे सबसे ज्यादा अंक, सूत्र आधारित, स्कोरिंग",
+        "sub_topics": {
+          "statistics": {
+            "mcq_asked": [
+              {
+                "q": "3,5,7,4,2,1,4,3,4 का बहुलक",
+                "ans": "C) 4",
+                "year": "2023"
+              },
+              {
+                "q": "पहले 11 पूर्ण संख्याओं का माध्य",
+                "ans": "C) 5.5",
+                "year": "2024"
+              },
+              {
+                "q": "3,3,5,3,4,2,8,4,3,4,3 का बहुलक",
+                "ans": "B) 3",
+                "year": "2024"
+              }
+            ],
+            "fill_blank_asked": [
+              {
+                "q": "3 माध्यिका = 2 माध्य + ___",
+                "ans": "बहुलक",
+                "year": "2024"
+              },
+              {
+                "q": "अंतराल 60-75 का वर्ग-चिह्न",
+                "ans": "67.5",
+                "year": "2024"
+              },
+              {
+                "q": "वर्ग-चिह्न = 17, उच्च सीमा = 24। निम्न सीमा = ?",
+                "ans": "10",
+                "year": "2025"
+              }
+            ],
+            "very_short_asked": [
+              {
+                "q": "बारंबारता वितरण (x:1-6, f:2,4,5,4,2,2) का माध्य",
+                "ans": "Σfx/Σf = 57/19 = 3",
+                "year": "2023"
+              },
+              {
+                "q": "19,17,25,27,18,20,29 की माध्यिका ज्ञात करो",
+                "ans": "व्यवस्थित: 17,18,19,20,25,27,29 → माध्यिका=20",
+                "year": "2025"
+              },
+              {
+                "q": "पहले 10 धनात्मक विषम प्राकृत संख्याओं का समांतर माध्य",
+                "ans": "(1+3+5+...+19)/10 = 100/10 = 10",
+                "year": "2025"
+              }
+            ],
+            "short_asked": [
+              {
+                "q": "माध्य ज्ञात करो (x:5-10, f:8,6,12,7,5,6)",
+                "marks": 2,
+                "year": "2024"
+              },
+              {
+                "q": "यदि 5,7,9,x का समांतर माध्य 9 है, x ज्ञात करो",
+                "marks": 1,
+                "year": "2023",
+                "ans": "x=15"
+              },
+              {
+                "q": "यदि 5,7,9,4,3,(x+2) का माध्य 6 है, x ज्ञात करो",
+                "marks": 1,
+                "year": "2025",
+                "ans": "x=3"
+              }
+            ],
+            "long_asked": [
+              {
+                "q": "वर्ग-चिह्नों की माध्यिका ज्ञात करो (0-10:4, 10-20:28, 20-30:42, 30-40:20, 40-50:6)",
+                "marks": 3,
+                "year": "2023"
+              },
+              {
+                "q": "यही वितरण माध्यिका (दोहराया गया)",
+                "marks": 3,
+                "year": "2024"
+              },
+              {
+                "q": "यदि माध्य 21.5 है, वितरण में k ज्ञात करो (x:5,15,25,35,45 f:6,4,3,k,2)",
+                "marks": 3,
+                "year": "2024"
+              },
+              {
+                "q": "वितरण का माध्य ज्ञात करो (x:5-11, f:5,8,9,12,6,6,4)",
+                "marks": 3,
+                "year": "2025"
+              },
+              {
+                "q": "अथवा: यदि माध्य=7, P ज्ञात करो (x:2,5,P,9,10 f:1,5,4,7,3)",
+                "marks": 3,
+                "year": "2025"
+              }
+            ],
+            "essay_asked": [
+              {
+                "q": "बहुलक ज्ञात करो (10-25,25-40,40-55,55-70,70-85,85-100 f:6,20,44,26,3,1)",
+                "marks": 4,
+                "year": "2023"
+              },
+              {
+                "q": "अथवा: माध्य ज्ञात करो (0-20,20-40,40-60,60-80,80-100 f:6,10,13,7,4)",
+                "marks": 4,
+                "year": "2023"
+              },
+              {
+                "q": "कल्पित माध्य=17.5 से माध्य ज्ञात करो",
+                "marks": 4,
+                "year": "2024"
+              },
+              {
+                "q": "माध्यिका ज्ञात करो (7-67, f:22,18,20,12,15,13)",
+                "marks": 4,
+                "year": "2025"
+              },
+              {
+                "q": "अथवा: बहुलक ज्ञात करो (2-47, f:15,16,17,12,11)",
+                "marks": 4,
+                "year": "2025"
+              }
+            ],
+            "key_facts": {
+              "mean_direct": "x̄ = Σfx / Σf",
+              "mean_assumed": "x̄ = a + (Σfd/Σf) जहाँ d = x-a (कल्पित माध्य)",
+              "median_formula": "M = l + [(n/2 - cf)/f] × h",
+              "mode_formula": "बहुलक = l + [(f₁-f₀)/(2f₁-f₀-f₂)] × h",
+              "empirical_relation": "3 माध्यिका = बहुलक + 2 माध्य",
+              "class_mark": "(निम्न सीमा + उच्च सीमा) / 2",
+              "median_step1": "संचयी बारंबारता तालिका बनाओ, n/2 ढूंढो",
+              "mode_step1": "सबसे अधिक बारंबारता वाला वर्ग = बहुलक वर्ग",
+              "mean_table_tip": "x, f, fx कॉलम बनाओ — साफ तालिका में"
+            }
+          },
+          "probability": {
+            "mcq_asked": [
+              {
+                "q": "पासा फेंकना: P(संख्या > 4)",
+                "ans": "B) 1/3 (5,6 → 2/6)",
+                "year": "2023"
+              },
+              {
+                "q": "52 पत्तों से कार्ड: P(यह दहला है)",
+                "ans": "4/52 = 1/13",
+                "year": "2023"
+              },
+              {
+                "q": "यदि P(E)=0.05, P(not E) = ?",
+                "ans": "D) 0.95",
+                "year": "2024"
+              },
+              {
+                "q": "कौन सा किसी घटना की प्रायिकता नहीं हो सकता: 2/3, 3/2, 0.7, 0.5",
+                "ans": "B) 3/2 (>1)",
+                "year": "2025"
+              }
+            ],
+            "fill_blank_asked": [
+              {
+                "q": "P(पासे पर 6 से अधिक संख्या) = ?",
+                "ans": "0 (असंभव घटना)",
+                "year": "2024"
+              }
+            ],
+            "very_short_asked": [
+              {
+                "q": "दो पासे फेंके: P(योग=7)?",
+                "ans": "6/36 = 1/6",
+                "year": "2023"
+              },
+              {
+                "q": "पासा फेंका: P(संख्या > 5)?",
+                "ans": "1/6",
+                "year": "2025"
+              },
+              {
+                "q": "राम के जीतने की P=4/5. श्याम के जीतने की P?",
+                "ans": "1-4/5 = 1/5",
+                "year": "2025"
+              },
+              {
+                "q": "थैले में 6 लाल, 7 सफेद। P(सफेद)?",
+                "ans": "7/13",
+                "year": "2025"
+              }
+            ],
+            "short_asked": [
+              {
+                "q": "डिब्बे में 8 लाल, 5 सफेद, 2 हरे कंचे। P(लाल)? P(हरा नहीं)?",
+                "marks": 2,
+                "year": "2023"
+              },
+              {
+                "q": "पासे के एक फलक पर A,B,C,D,E,A। एक बार फेंकने पर P(A)? P(D)?",
+                "marks": 2,
+                "year": "2024"
+              }
+            ],
+            "key_facts": {
+              "probability_formula": "P(E) = अनुकूल परिणाम / कुल परिणाम",
+              "complementary": "P(E) + P(E नहीं) = 1",
+              "impossible_event": "P = 0",
+              "sure_event": "P = 1",
+              "valid_range": "0 ≤ P(E) ≤ 1 — 1 से अधिक या 0 से कम असंभव",
+              "two_dice_total_7": "(1,6),(2,5),(3,4),(4,3),(5,2),(6,1) → 6 तरीके → P=6/36=1/6",
+              "deck_of_52": "4 रंग × 13 पत्ते. P(दहला) = 4/52 = 1/13",
+              "die_tip": "पासा: 1 से 6. P(>4) = P(5 या 6) = 2/6 = 1/3"
+            }
+          }
+        }
+      }
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Mathematics.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Formulas for Mathematics Class 10.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "",
+        "chapter_name": "Algebra — Quadratic Formula",
+        "formulas": [
+          "x = [-b ± √(b²-4ac)] / 2a"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Algebra — Sum Of Zeroes",
+        "formulas": [
+          "-b/a"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Algebra — Product Of Zeroes",
+        "formulas": [
+          "c/a"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Algebra — Ap Nth Term",
+        "formulas": [
+          "a + (n-1)d"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Algebra — Ap Sum",
+        "formulas": [
+          "n/2 × [2a + (n-1)d]"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Algebra — Ap Sum With Last",
+        "formulas": [
+          "n/2 × (a+l)"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Coordinate Geometry — Distance",
+        "formulas": [
+          "√[(x₂-x₁)² + (y₂-y₁)²]"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Coordinate Geometry — Midpoint",
+        "formulas": [
+          "((x₁+x₂)/2, (y₁+y₂)/2)"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Coordinate Geometry — Section Formula",
+        "formulas": [
+          "((mx₂+nx₁)/(m+n), (my₂+ny₁)/(m+n))"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Coordinate Geometry — Area Triangle",
+        "formulas": [
+          "(1/2)|x₁(y₂-y₃)+x₂(y₃-y₁)+x₃(y₁-y₂)|"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Trigonometry — Sin²+Cos²",
+        "formulas": [
+          "= 1"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Trigonometry — 1+Tan²",
+        "formulas": [
+          "= sec²"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Trigonometry — 1+Cot²",
+        "formulas": [
+          "= cosec²"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Trigonometry — Sin30",
+        "formulas": [
+          "1/2"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Trigonometry — Cos30",
+        "formulas": [
+          "√3/2"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Trigonometry — Tan30",
+        "formulas": [
+          "1/√3"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Trigonometry — Sin45",
+        "formulas": [
+          "1/√2"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Trigonometry — Cos45",
+        "formulas": [
+          "1/√2"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Trigonometry — Tan45",
+        "formulas": [
+          "1"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Trigonometry — Sin60",
+        "formulas": [
+          "√3/2"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Trigonometry — Cos60",
+        "formulas": [
+          "1/2"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Trigonometry — Tan60",
+        "formulas": [
+          "√3"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Mensuration — Circle Area",
+        "formulas": [
+          "πr²"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Mensuration — Circle Circumference",
+        "formulas": [
+          "2πr"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Mensuration — Sector Area",
+        "formulas": [
+          "(θ/360)πr²"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Mensuration — Arc Length",
+        "formulas": [
+          "(θ/360)×2πr"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Mensuration — Cone Csa",
+        "formulas": [
+          "πrl (l=तिरछी ऊँचाई)"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Mensuration — Sphere Sa",
+        "formulas": [
+          "4πr²"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Mensuration — Cylinder Csa",
+        "formulas": [
+          "2πrh"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Mensuration — Cube Tsa",
+        "formulas": [
+          "6a²"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Mensuration — Hemisphere Tsa",
+        "formulas": [
+          "3πr²"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Statistics — Mean",
+        "formulas": [
+          "Σfx/Σf"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Statistics — Assumed Mean",
+        "formulas": [
+          "a + Σfd/Σf"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Statistics — Median",
+        "formulas": [
+          "l + [(n/2 - cf)/f] × h"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Statistics — Mode",
+        "formulas": [
+          "l + [(f₁-f₀)/(2f₁-f₀-f₂)] × h"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Statistics — Empirical",
+        "formulas": [
+          "3 माध्यिका = बहुलक + 2 माध्य"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Mathematics.",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Mathematics.",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Mathematics Class 10 — no practical exam.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 0,
+    "medium_percent": 0,
+    "hard_percent": 0,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [],
+    "time_allocation": []
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 26",
+        "target_marks": 26,
+        "strategy": "खंड A पूरा प्रयास करो — 36 अंक संभव है। यदि खंड A में 20+ मिलें तो पासिंग निश्चित।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "MCQ में त्रिकोण मान, AP nवाँ पद, दूरी सूत्र याद करो",
+          "रिक्त स्थान में सूत्र — 3 माध्यिका = 2 माध्य + बहुलक",
+          "अति लघु में सीधी गणनाएं"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45",
+        "target_marks": 45,
+        "strategy": "खंड A पूरा (36 अंक) + खंड B में 5-6 प्रश्न (10-12 अंक) + 1 निबंध",
+        "focus_chapters": [],
+        "focus_areas": [
+          "सांख्यिकी माध्य/माध्यिका तालिका — 4 अंक आसान",
+          "AP योग सूत्र — 3 अंक",
+          "त्रिकोणमिति सर्वसमिका प्रमाण — 4 अंक (अगर याद हो)",
+          "त्रिज्यखंड क्षेत्रफल / प्रायिकता — आसान 2 अंक"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60 plus",
+        "target_marks": 60,
+        "strategy": "",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [
+      "बीजगणित (18 marks)",
+      "ज्यामिति (10 marks)",
+      "त्रिकोणमिति (13 marks)",
+      "क्षेत्रमिति (11 marks)",
+      "सांख्यिकी एवं प्रायिकता (17 marks)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": []
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "rajeduboard.rajasthan.gov.in",
+    "extra_time_given": false,
+    "extra_time_note": ""
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": ""
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

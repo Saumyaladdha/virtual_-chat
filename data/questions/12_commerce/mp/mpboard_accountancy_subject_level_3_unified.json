@@ -1,0 +1,1828 @@
+{
+  "board": "MP Board",
+  "class": "12",
+  "subject": "Book Keeping & Accountancy (बुक कीपिंग एण्ड एकाउन्टेन्सी)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 80,
+    "practical_paper": 20,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 27,
+    "passing_marks_practical": 7,
+    "passing_marks_internal": 0,
+    "duration_minutes": 180,
+    "extra_time_given": false,
+    "extra_time_note": "Koi extra reading time nahi. 3 ghante mein hi poora paper solve karna hai.",
+    "internal_assessment_note": "Theory 80 mein se 27 marks (33%) aur overall 33% zaroori hain. 2022 se MP Board ne passing criteria revise kiya hai."
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 23,
+    "total_questions_to_attempt": 23,
+    "total_objective_questions": 31,
+    "total_sets": 4,
+    "sets_note": "MP Board mein Set A, B, C, D hote hain. Sab sets mein same questions, sirf order ya numerical figures thode badal jaate hain.",
+    "sets_same_or_different": "",
+    "language_of_attempt": "Hindi ya English dono allowed. Hindi aur English dono versions paper mein printed aate hain. Discrepancy ki condition mein Hindi version final maana jayega.",
+    "all_compulsory_note": "Sabhi 23 questions hal karna anivary hai — sirf OR option vale mein ek chunna hai, skip nahi kar sakte. Q6 se Q23 tak sab 18 questions mein 'अथवा / OR' option milega — har ek mein internal choice hai.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "MP Board Class 12 Accountancy ka syllabus NCERT par based hai. NCERT ki dono books (Part 1 — Partnership & Company Accounts, Part 2 — Analysis of Financial Statements) sab solve karo. Hindi medium wale bhi NCERT Hindi edition ya 'Jain & Narang' jaise references use kar sakte hain.",
+    "official_scheme_note": "Partnership accounts (Ch 1-5) = ~32 marks aur Company accounts (Ch 6-7) = ~16-18 marks, dono milakar ~60% paper. Financial statements + Ratio + Cash Flow = ~15-18 marks.",
+    "reference_books_note": "",
+    "prescribed_textbooks": [
+      "NCERT Accountancy Part I (Partnership)",
+      "NCERT Accountancy Part II (Company Accounts + Analysis of Financial Statements)"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "MP Board Class 12 Accountancy mein 7 types ke questions: MCQ (1), Fill Blank (1), True/False (1), Match (1), One word (1), Short 2 mark, Short 3 mark, Long 4 mark. Total = 80 marks.",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (Multiple Choice)",
+        "question_number": "",
+        "section": "A (Q1)",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "Option (a)/(b)/(c)/(d) likhna hai — explanation ki zaroorat nahi. 1 mark ke liye 30 second se zyada mat lagao.",
+        "mostly_from": "Partnership Act 1932, interest on capital in absence of deed (6%/nil), super profit definition, Table F (interest on calls 10%), Accounting Standard numbers (AS-3 for cash flow), Schedule III Balance Sheet, dissolution accounting heads.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Fill in the Blanks",
+        "question_number": "",
+        "section": "A (Q2)",
+        "marks_each": 1,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "Ek shabd / phrase / naam likhna hai. Common answers: bank overdraft → Realisation A/c, cash equivalents, AS-3, sacrificing/gaining ratio, 'limited' word, etc.",
+        "mostly_from": "Profit-loss ratio in absence of deed (equal), calls in arrears rate (Table F 10%), current liabilities period (12 months), types of debentures, reserves.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "True / False (Satya-Asatya)",
+        "question_number": "",
+        "section": "A (Q3)",
+        "marks_each": 1,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "Sirf 'सत्य' ya 'असत्य' (True/False) likho. No reasoning needed.",
+        "mostly_from": "Partnership deed compulsory? (False), Revaluation A/c is real A/c? (False — Nominal), debentureholders are owners? (False — creditors), paid-up capital > called-up? (False), bank overdraft → Realisation on dissolution? (True).",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Match the Columns (Sahi Jodi)",
+        "question_number": "",
+        "section": "A (Q4)",
+        "marks_each": 1,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "Column A ki har item ko Column B se match karo aur pair likho.",
+        "mostly_from": "Bearer debentures → transfer through delivery, Shareholders → owners, Preference shares → fixed rate, Equity shares → variable return, Partnership deed → not compulsory, Purchased goodwill → shown as asset.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "One Word / Sentence Answer",
+        "question_number": "",
+        "section": "A (Q5)",
+        "marks_each": 1,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "Ek shabd ya ek sentence. Naam, rate, account name, ya short definition.",
+        "mostly_from": "Deceased partner's payment to → Legal representative, Cash Flow AS → AS-3, Bank overdraft on dissolution → Realisation A/c, goodwill basis → super profit/average profit, Partnership Act → 1932.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Very Short Answer",
+        "question_number": "",
+        "section": "B (Q6-Q15)",
+        "marks_each": 2,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "Definition + ek example ya 2 features/differences. 2 marks = 1 mark concept + 1 mark example/difference.",
+        "mostly_from": "Partnership deed definition, interest on drawings (product method), sacrificing/gaining ratio calculation, legal representative, realisation vs revaluation, share meaning, calls in advance, zero-coupon debenture, secured debenture, Current Ratio calculation, net profit ratio, cash flow meaning, accounting ratio objectives.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "30 shabd",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer",
+        "question_number": "",
+        "section": "C (Q16-Q19)",
+        "marks_each": 3,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "Full working for numerical OR 3 differences/features. 3 marks = concept (1) + entries/steps (1.5) + result (0.5).",
+        "mostly_from": "Forfeiture journal entry, Revaluation Account journal entries, Goodwill by super-profit method, Balance Sheet main heads (Schedule III) classification, Shares vs Debentures (3 differences), Types of preference shares, Retiring partner's loan account, Cash flow from financing examples.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "75 shabd",
+        "notes": ""
+      },
+      {
+        "type": "Long Answer",
+        "question_number": "",
+        "section": "D (Q20-Q23)",
+        "marks_each": 4,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "Full numerical with all calculations OR 4 differences/features with explanation. 4 marks = format (0.5) + adjustments/entries (2.5) + result (1).",
+        "mostly_from": "Profit & Loss Appropriation Account (with guarantee), Revaluation Account + Partners' Capital Account, Goodwill valuation (super profit / capitalisation method), Share issue journal entries (application to final call), Forfeiture + Reissue journal entries, Partnership deed provisions (4 rules), Current Ratio full numerical, Shares vs Debentures (4 differences).",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "120 shabd ya numerical ke liye poora working",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "3 hours, 80 marks, 23 questions, 4 sections. Q1-5 objective (~31 marks), Q6-15 VSA (20 marks), Q16-19 Short (12 marks), Q20-23 Long (16 marks).",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Q6 se Q23 tak sab 18 questions mein 'अथवा / OR' option milega — har ek mein internal choice hai.",
+    "or_questions_note": "Q1-Q5 tak objective questions mein koi internal choice nahi — sab attempt karna compulsory.",
+    "difficulty_distribution": {
+      "easy_percent": 40,
+      "medium_percent": 45,
+      "hard_percent": 15,
+      "note": "MP Board Accountancy paper overall MEDIUM difficulty ka hota hai. Partnership ke numericals thode lamba lagte hain lekin scoring hote hain. Ratio aur Cash Flow mein formulas yaad ho to 18-20 marks easy."
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Objective (MCQ + Fill blanks + True/False + Match + One word)",
+        "type": "Objective",
+        "question_numbers": "Q1 to Q5",
+        "total_questions": 6,
+        "total_sub_questions": 5,
+        "attempt_required": 6,
+        "marks_per_question": 0,
+        "total_marks": 31,
+        "word_limit": "",
+        "breakdown": "Q1_MCQ: 6 (6 × 1); Q2_fill_blanks: 6-7 (6-7 × 1); Q3_true_false: 6-7 (6-7 × 1); Q4_match: 6-7 (6-7 × 1); Q5_one_word: 6-7 (6-7 × 1)",
+        "notes": "35-40 min Section A se 28-30 marks nikalna target rakho — koi negative marking nahi, sab attempt karo. Sirf MCQ mein time lagao."
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Very Short Answer (VSA)",
+        "type": "VSA 2-mark",
+        "question_numbers": "Q6 to Q15",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "30 shabd / 4-5 lines",
+        "breakdown": "Har question mein अथवा/OR option. Definitions, do antar (differences), short concept explain, 1-2 step numericals.",
+        "notes": "45 min"
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Short Answer",
+        "type": "Short 3-mark",
+        "question_numbers": "Q16 to Q19",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": "75 shabd / 8-10 lines",
+        "breakdown": "Har question mein OR option. Short journal entries, formula based calculations, 2-3 point comparisons, main-heads classification.",
+        "notes": "30 min"
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Long Answer",
+        "type": "Long 4-mark",
+        "question_numbers": "Q20 to Q23",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 4,
+        "total_marks": 16,
+        "word_limit": "120 shabd / full working for numericals",
+        "breakdown": "Har question mein OR option. Full P&L Appropriation Account, Revaluation Account, Goodwill calculation, Share issue journal entries with forfeiture, Current Ratio full numerical.",
+        "notes": "50 min"
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 80,
+    "total_practical": 20,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "~31 + 20 + 12 + 16 = 79-80 (exact breakup may vary — objective section mein 1-2 marks ka fluctuation hota hai, total hamesha 80 hi aata hai) + 20 Project = 100",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Objective (MCQ + Fill blanks + True/False + Match + One word)",
+        "question_numbers": "Q1 to Q5",
+        "type": "Objective",
+        "total_questions": 6,
+        "total_sub_questions": 5,
+        "marks_per_question": 0,
+        "total_marks": 31,
+        "word_limit": "",
+        "breakdown": "Q1_MCQ: 6 (6 × 1); Q2_fill_blanks: 6-7 (6-7 × 1); Q3_true_false: 6-7 (6-7 × 1); Q4_match: 6-7 (6-7 × 1); Q5_one_word: 6-7 (6-7 × 1)"
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Very Short Answer (VSA)",
+        "question_numbers": "Q6 to Q15",
+        "type": "VSA 2-mark",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "30 shabd / 4-5 lines",
+        "breakdown": "Har question mein अथवा/OR option. Definitions, do antar (differences), short concept explain, 1-2 step numericals."
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Short Answer",
+        "question_numbers": "Q16 to Q19",
+        "type": "Short 3-mark",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": "75 shabd / 8-10 lines",
+        "breakdown": "Har question mein OR option. Short journal entries, formula based calculations, 2-3 point comparisons, main-heads classification."
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Long Answer",
+        "question_numbers": "Q20 to Q23",
+        "type": "Long 4-mark",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 16,
+        "word_limit": "120 shabd / full working for numericals",
+        "breakdown": "Har question mein OR option. Full P&L Appropriation Account, Revaluation Account, Goodwill calculation, Share issue journal entries with forfeiture, Current Ratio full numerical."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "Part A: Accounting for Partnership Firms and Companies (Ch 1-7) — approx 55-60 marks | Part B: Analysis of Financial Statements (Ch 8-10) — approx 20-25 marks",
+    "total_theory_marks": 80,
+    "objective_percent": 39,
+    "subjective_percent": 61,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "6",
+      "name": "Accounting for Share Capital",
+      "marks": 14,
+      "note": "Highest-weightage chapter (≈14 marks). Q22 typical source."
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "2",
+        "name": "Change in Profit Sharing Ratio",
+        "marks": 4
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Accounting for Partnership — Basic Concepts",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "साझेदारी लेखांकन — मूल अवधारणाएं"
+      },
+      {
+        "chapter_id": "2",
+        "name": "Reconstitution of Partnership — Change in Profit Sharing Ratio",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "साझेदारी का पुनर्गठन — लाभ विभाजन अनुपात में परिवर्तन"
+      },
+      {
+        "chapter_id": "3",
+        "name": "Admission of a Partner",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "नए साझेदार का प्रवेश"
+      },
+      {
+        "chapter_id": "4",
+        "name": "Retirement and Death of a Partner",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "साझेदार की सेवानिवृत्ति एवं मृत्यु"
+      },
+      {
+        "chapter_id": "5",
+        "name": "Dissolution of Partnership Firm",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "साझेदारी फर्म का विघटन"
+      },
+      {
+        "chapter_id": "6",
+        "name": "Accounting for Share Capital",
+        "marks": 14,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "अंशपूंजी लेखांकन"
+      },
+      {
+        "chapter_id": "7",
+        "name": "Issue and Redemption of Debentures",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "ऋणपत्रों का निर्गमन एवं शोधन"
+      },
+      {
+        "chapter_id": "8",
+        "name": "Financial Statements of a Company",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "कंपनी के वित्तीय विवरण"
+      },
+      {
+        "chapter_id": "9",
+        "name": "Analysis of Financial Statements — Ratio Analysis",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "वित्तीय विवरणों का विश्लेषण — अनुपात विश्लेषण"
+      },
+      {
+        "chapter_id": "10",
+        "name": "Cash Flow Statement",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "रोकड़ प्रवाह विवरण"
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 31,
+      "two_mark_total": 20,
+      "three_mark_total": 12,
+      "four_mark_total": 16,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "MP Board Accountancy Class 12 — 10 chapters. Part A (Ch 1-7) Partnership + Company Accounts. Part B (Ch 8-10) Analysis of Financial Statements.",
+    "books": [
+      {
+        "book_name": "NCERT Accountancy Part I & Part II",
+        "category": "chapter",
+        "total_marks": 80,
+        "note": "Part A: Accounting for Partnership Firms and Companies (Ch 1-7) — approx 55-60 marks | Part B: Analysis of Financial Statements (Ch 8-10) — approx 20-25 marks",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Accounting for Partnership — Basic Concepts",
+            "marks": 8,
+            "topics": [
+              "Partnership definition — Indian Partnership Act 1932 (Section 4)",
+              "Essential features — 2+ persons, agreement, business, profit sharing, mutual agency",
+              "Partnership Deed — meaning, contents, importance",
+              "Provisions in absence of partnership deed — profit-loss ratio EQUAL, no interest on capital, 6% interest on partner's loan, no salary/commission, no interest on drawings",
+              "Fixed Capital Method vs Fluctuating Capital Method (differences, current account)",
+              "Profit & Loss Appropriation Account — salary, commission, interest on capital, interest on drawings",
+              "Interest on Drawings — product method, average period method",
+              "Guarantee of minimum profit to a partner (from one partner or by firm)",
+              "Past adjustments / omission entries"
+            ],
+            "note": "Hindi: साझेदारी लेखांकन — मूल अवधारणाएं | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "2",
+            "name": "Reconstitution of Partnership — Change in Profit Sharing Ratio",
+            "marks": 4,
+            "topics": [
+              "Reconstitution meaning — change in profit ratio, admission, retirement, death",
+              "Sacrificing ratio = Old ratio − New ratio",
+              "Gaining ratio = New ratio − Old ratio",
+              "Treatment of accumulated profits and reserves (distributed in OLD ratio)",
+              "Revaluation of assets and liabilities — Revaluation Account (Nominal A/c)",
+              "Adjustment of goodwill through sacrificing/gaining partners"
+            ],
+            "note": "Hindi: साझेदारी का पुनर्गठन — लाभ विभाजन अनुपात में परिवर्तन | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "3",
+            "name": "Admission of a Partner",
+            "marks": 8,
+            "topics": [
+              "Reasons for admission of a new partner",
+              "Rights of a new partner — share in profit, share in assets",
+              "New profit sharing ratio and sacrificing ratio calculation",
+              "Treatment of Goodwill — premium brought in cash (distributed in sacrificing ratio), hidden goodwill, goodwill already in books (written off first)",
+              "Revaluation Account — assets and liabilities revalued",
+              "Accumulated profits and reserves — distributed to old partners in old ratio",
+              "Adjustment of capital — capital brought in proportion to profit share",
+              "Journal entries for admission"
+            ],
+            "note": "Hindi: नए साझेदार का प्रवेश | Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "4",
+            "name": "Retirement and Death of a Partner",
+            "marks": 7,
+            "topics": [
+              "Modes of retirement — with consent, as per agreement, notice",
+              "New profit sharing ratio and gaining ratio",
+              "Treatment of goodwill on retirement (compensation from gaining partners)",
+              "Revaluation Account on retirement",
+              "Amount due to retiring partner — capital + interest + share of goodwill + reserves + revaluation profit − drawings − losses",
+              "Payment options — lump sum, instalments with interest, loan account",
+              "Death of a partner — profit till date of death (time basis or sales basis)",
+              "Legal representative / executor's account",
+              "Joint Life Policy (JLP) — treatment"
+            ],
+            "note": "Hindi: साझेदार की सेवानिवृत्ति एवं मृत्यु | Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "5",
+            "name": "Dissolution of Partnership Firm",
+            "marks": 6,
+            "topics": [
+              "Dissolution of partnership vs dissolution of firm (difference)",
+              "Modes of dissolution — by agreement, notice, court order, compulsory, contingency",
+              "Compulsory dissolution — insolvency of all partners, illegal business",
+              "Realisation Account — sale of all assets, payment of all liabilities",
+              "Transfer of assets (book value) and liabilities to Realisation A/c",
+              "Treatment of unrecorded assets/liabilities",
+              "Bank overdraft → transferred to Realisation A/c",
+              "Undistributed profit/reserve → Partners' Capital A/c (old ratio)",
+              "Payment of expenses of realisation",
+              "Order of settlement of accounts (Sec 48)"
+            ],
+            "note": "Hindi: साझेदारी फर्म का विघटन | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "6",
+            "name": "Accounting for Share Capital",
+            "marks": 14,
+            "topics": [
+              "Company — meaning, features (perpetual succession, limited liability, artificial person created by law)",
+              "Types of companies — Private, Public, One Person Company",
+              "Types of share capital — Authorised / Nominal, Issued, Subscribed, Called-up, Paid-up, Reserve Capital",
+              "Types of shares — Equity (Ordinary) and Preference (Cumulative, Non-cumulative, Participating, Convertible, Redeemable)",
+              "Issue of shares at par, premium, discount",
+              "Oversubscription — full allotment, pro-rata allotment, rejection",
+              "Calls in arrears — interest charged @ 10% p.a. (Table F)",
+              "Calls in advance — interest paid @ 12% p.a. (Table F)",
+              "Forfeiture of shares — procedure, journal entry (Share Capital A/c Dr. with called-up amount)",
+              "Reissue of forfeited shares — at discount (not more than forfeited amount), profit transferred to Capital Reserve",
+              "Securities Premium — uses (Sec 52 of Companies Act 2013)"
+            ],
+            "note": "Hindi: अंशपूंजी लेखांकन | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "7",
+            "name": "Issue and Redemption of Debentures",
+            "marks": 8,
+            "topics": [
+              "Debenture — meaning, features (written instrument of debt, fixed rate of interest, repayment after fixed period)",
+              "Debentureholders — creditors of company (NOT owners), no voting rights",
+              "Types of debentures — (a) From Security view: Secured / Unsecured (b) From Registration: Registered / Bearer (c) From Redemption: Redeemable / Irredeemable (d) From Convertibility: Convertible / Non-convertible (e) From Coupon: Zero-coupon / Specific rate",
+              "Issue of debentures at par, premium, discount",
+              "Issue for consideration other than cash (for purchase of assets or machinery)",
+              "Issue as collateral security",
+              "Interest on debentures (paid whether profit or not)",
+              "Writing off loss on issue of debentures"
+            ],
+            "note": "Hindi: ऋणपत्रों का निर्गमन एवं शोधन | Difficulty: "
+          },
+          {
+            "chapter_id": "8",
+            "name": "Financial Statements of a Company",
+            "marks": 5,
+            "topics": [
+              "Financial Statements — meaning, nature, objectives, importance, limitations",
+              "Balance Sheet as per Schedule III of Companies Act 2013",
+              "Main heads in Balance Sheet: I. Equity and Liabilities — (1) Shareholders' Funds (2) Non-Current Liabilities (3) Current Liabilities; II. Assets — (1) Non-Current Assets (2) Current Assets",
+              "Sub-heads under each main head (Share capital, Reserves & Surplus, Long-term borrowings, Trade payables, Fixed assets, Inventories, Trade receivables, Cash & cash equivalents)",
+              "Statement of Profit and Loss format",
+              "Classification of items — Reserves & Surplus (General Reserve, Capital Reserve, Securities Premium, Surplus)"
+            ],
+            "note": "Hindi: कंपनी के वित्तीय विवरण | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "9",
+            "name": "Analysis of Financial Statements — Ratio Analysis",
+            "marks": 10,
+            "topics": [
+              "Tools of analysis — Comparative Statements, Common Size Statements, Ratio Analysis, Cash Flow Statement",
+              "Horizontal vs Vertical analysis",
+              "Objectives and limitations of financial analysis / ratio analysis",
+              "Types of ratios: (1) Liquidity (2) Solvency (3) Activity/Turnover (4) Profitability",
+              "Liquidity Ratios — Current Ratio = Current Assets / Current Liabilities (Ideal 2:1), Quick Ratio = Quick Assets / Current Liabilities (Ideal 1:1)",
+              "Solvency Ratios — Debt-Equity Ratio, Total Assets to Debt, Proprietary Ratio, Interest Coverage",
+              "Activity Ratios — Inventory Turnover, Debtors Turnover, Creditors Turnover, Working Capital Turnover",
+              "Profitability Ratios — Gross Profit Ratio, Net Profit Ratio, Operating Ratio, Return on Investment (ROI)"
+            ],
+            "note": "Hindi: वित्तीय विवरणों का विश्लेषण — अनुपात विश्लेषण | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "10",
+            "name": "Cash Flow Statement",
+            "marks": 10,
+            "topics": [
+              "Cash Flow Statement — meaning, objectives, importance, limitations",
+              "Accounting Standard 3 (AS-3, Revised)",
+              "Cash and Cash Equivalents — cash, bank, short-term investments (≤3 months)",
+              "Classification of activities — (1) Operating (2) Investing (3) Financing",
+              "Operating Activities — principal revenue-producing activities (cash from customers, to suppliers, employees, interest paid by financial companies)",
+              "Investing Activities — purchase/sale of fixed assets, investments, interest received, dividend received (non-financial co.)",
+              "Financing Activities — issue of shares/debentures, repayment of loans, dividend paid, interest on debentures paid",
+              "Cash flow from operating activities — Indirect Method (Net profit + non-cash + non-operating items ± changes in working capital)"
+            ],
+            "note": "Hindi: रोकड़ प्रवाह विवरण | Difficulty: Medium"
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Accounting for Partnership — Basic Concepts",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Accounting for Partnership — Basic Concepts",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "P&L Appropriation thoda lamba but logical. Guarantee wale questions practice chahiye.",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "साझेदारी लेखांकन — मूल अवधारणाएं",
+      "important_topics": [
+        "Partnership definition — Indian Partnership Act 1932 (Section 4)",
+        "Essential features — 2+ persons, agreement, business, profit sharing, mutual agency",
+        "Partnership Deed — meaning, contents, importance",
+        "Provisions in absence of partnership deed — profit-loss ratio EQUAL, no interest on capital, 6% interest on partner's loan, no salary/commission, no interest on drawings",
+        "Fixed Capital Method vs Fluctuating Capital Method (differences, current account)",
+        "Profit & Loss Appropriation Account — salary, commission, interest on capital, interest on drawings",
+        "Interest on Drawings — product method, average period method",
+        "Guarantee of minimum profit to a partner (from one partner or by firm)",
+        "Past adjustments / omission entries"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Interest on drawings = Total Products × Rate/100 × 1/12",
+        "Average Period (monthly drawings, beginning of month) = (n+1)/2 × Drawings",
+        "Average Period (end of month) = (n-1)/2 × Drawings",
+        "Guaranteed partner deficiency = Guaranteed amount − Actual share (to be borne by guaranteeing partners in agreed ratio)",
+        "Interest on capital = Capital × Rate × Time"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Partnership deed meaning (VSA 2023-2026 har saal), provisions in absence of deed (Long Q 2022, 2024, 2026), P&L Appropriation with guarantee (Long Q 2023, 2025), Interest on drawings calculation (VSA 2026), Fixed vs Fluctuating capital (VSA 2024).",
+      "hindi_name": "साझेदारी लेखांकन — मूल अवधारणाएं",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Reconstitution of Partnership — Change in Profit Sharing Ratio",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part I & Part II",
+      "unit_id": 2,
+      "unit_name": "Reconstitution of Partnership — Change in Profit Sharing Ratio",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Sirf ratio calculation aur concept — jaldi ho jata hai.",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "साझेदारी का पुनर्गठन — लाभ विभाजन अनुपात में परिवर्तन",
+      "important_topics": [
+        "Reconstitution meaning — change in profit ratio, admission, retirement, death",
+        "Sacrificing ratio = Old ratio − New ratio",
+        "Gaining ratio = New ratio − Old ratio",
+        "Treatment of accumulated profits and reserves (distributed in OLD ratio)",
+        "Revaluation of assets and liabilities — Revaluation Account (Nominal A/c)",
+        "Adjustment of goodwill through sacrificing/gaining partners"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Sacrificing Ratio = Old Ratio − New Ratio (positive = sacrifice)",
+        "Gaining Ratio = New Ratio − Old Ratio (positive = gain)",
+        "Revaluation profit/loss distributed in OLD ratio"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Sacrificing vs Gaining ratio differences (VSA 2024, 2026), Sacrificing ratio calculation (Q7 2025), Calculation of new/gaining ratio (VSA 2023, 2024, 2025).",
+      "hindi_name": "साझेदारी का पुनर्गठन — लाभ विभाजन अनुपात में परिवर्तन",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Admission of a Partner",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "Admission of a Partner",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "Admission mein 3-4 adjustments ek saath — practice zaroori.",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "नए साझेदार का प्रवेश",
+      "important_topics": [
+        "Reasons for admission of a new partner",
+        "Rights of a new partner — share in profit, share in assets",
+        "New profit sharing ratio and sacrificing ratio calculation",
+        "Treatment of Goodwill — premium brought in cash (distributed in sacrificing ratio), hidden goodwill, goodwill already in books (written off first)",
+        "Revaluation Account — assets and liabilities revalued",
+        "Accumulated profits and reserves — distributed to old partners in old ratio",
+        "Adjustment of capital — capital brought in proportion to profit share",
+        "Journal entries for admission"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "New ratio when new partner takes share equally from both: New share of old = Old share − (share given/2)",
+        "Hidden goodwill = Implied capital of firm − Actual capital of all partners",
+        "Implied capital = New partner's capital × reciprocal of his share"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "New profit sharing ratio calculation (Q7 2025, 2026), Premium distribution ratio (one-word 2025, 2026), Goodwill journal entries on admission (Long 4-mark, 2024, 2026), Revaluation Account preparation (Long 2024, 2025).",
+      "hindi_name": "नए साझेदार का प्रवेश",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Retirement and Death of a Partner",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part I & Part II",
+      "unit_id": 4,
+      "unit_name": "Retirement and Death of a Partner",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "Retirement ke saath loan account, installments — mechanics samajh lo to easy.",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "साझेदार की सेवानिवृत्ति एवं मृत्यु",
+      "important_topics": [
+        "Modes of retirement — with consent, as per agreement, notice",
+        "New profit sharing ratio and gaining ratio",
+        "Treatment of goodwill on retirement (compensation from gaining partners)",
+        "Revaluation Account on retirement",
+        "Amount due to retiring partner — capital + interest + share of goodwill + reserves + revaluation profit − drawings − losses",
+        "Payment options — lump sum, instalments with interest, loan account",
+        "Death of a partner — profit till date of death (time basis or sales basis)",
+        "Legal representative / executor's account",
+        "Joint Life Policy (JLP) — treatment"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Gaining Ratio = New Ratio − Old Ratio",
+        "Retiring partner's share of goodwill = Firm's goodwill × His share",
+        "Profit till date of death = Last year's profit × (Months till death / 12) × deceased partner's share",
+        "Interest on loan to retiring partner = 6% p.a. (if nothing mentioned)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Retirement circumstances (Long 2024, VSA 2022), Amount due to retiring partner methods (VSA 2026, Long 2024), Legal representative meaning (VSA 2025), Retiring partner's loan account with instalments (Q17 2026, Q21 2023), Gaining ratio calculation (VSA 2023, 2024, 2025).",
+      "hindi_name": "साझेदार की सेवानिवृत्ति एवं मृत्यु",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Dissolution of Partnership Firm",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part I & Part II",
+      "unit_id": 5,
+      "unit_name": "Dissolution of Partnership Firm",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Realisation A/c format simple, bas order of payment yaad karo.",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "साझेदारी फर्म का विघटन",
+      "important_topics": [
+        "Dissolution of partnership vs dissolution of firm (difference)",
+        "Modes of dissolution — by agreement, notice, court order, compulsory, contingency",
+        "Compulsory dissolution — insolvency of all partners, illegal business",
+        "Realisation Account — sale of all assets, payment of all liabilities",
+        "Transfer of assets (book value) and liabilities to Realisation A/c",
+        "Treatment of unrecorded assets/liabilities",
+        "Bank overdraft → transferred to Realisation A/c",
+        "Undistributed profit/reserve → Partners' Capital A/c (old ratio)",
+        "Payment of expenses of realisation",
+        "Order of settlement of accounts (Sec 48)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Realisation profit/loss = (Amount realised from assets) − (Book value of assets + Liabilities paid + Realisation expenses)",
+        "Realisation profit distributed to partners in PROFIT SHARING RATIO (not capital ratio)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Realisation vs Revaluation Account differences (Q6 2026, Q17 2022, VSA 2024), Compulsory dissolution conditions (Q10 2025, Q7 2023), Contingency conditions (VSA 2025), Bank overdraft treatment (T/F 2023, 2026 — one-word answer).",
+      "hindi_name": "साझेदारी फर्म का विघटन",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Accounting for Share Capital",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part I & Part II",
+      "unit_id": 6,
+      "unit_name": "Accounting for Share Capital",
+      "weightage_marks": 14,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Journal entries practice kiya to pakke marks. Forfeiture mein thoda care.",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "अंशपूंजी लेखांकन",
+      "important_topics": [
+        "Company — meaning, features (perpetual succession, limited liability, artificial person created by law)",
+        "Types of companies — Private, Public, One Person Company",
+        "Types of share capital — Authorised / Nominal, Issued, Subscribed, Called-up, Paid-up, Reserve Capital",
+        "Types of shares — Equity (Ordinary) and Preference (Cumulative, Non-cumulative, Participating, Convertible, Redeemable)",
+        "Issue of shares at par, premium, discount",
+        "Oversubscription — full allotment, pro-rata allotment, rejection",
+        "Calls in arrears — interest charged @ 10% p.a. (Table F)",
+        "Calls in advance — interest paid @ 12% p.a. (Table F)",
+        "Forfeiture of shares — procedure, journal entry (Share Capital A/c Dr. with called-up amount)",
+        "Reissue of forfeited shares — at discount (not more than forfeited amount), profit transferred to Capital Reserve",
+        "Securities Premium — uses (Sec 52 of Companies Act 2013)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Forfeiture entry: Share Capital A/c Dr. (called-up amount) | To Share Forfeiture A/c (amount received) | To Calls in Arrears A/c (amount not received)",
+        "Reissue at discount = loss ≤ amount forfeited on those shares",
+        "Profit on reissue = Amount forfeited on reissued shares − Discount on reissue → transferred to Capital Reserve",
+        "Pro-rata allotment ratio = Shares applied / Shares allotted"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Equity share characteristics (VSA 2022, 2025, 2026), Types of share capital (Long 2023, 2026), Issue of shares journal entries (Long 2023, 2024, 2025, 2026 — ALMOST GUARANTEED), Forfeiture & Reissue journal entries (Long 2022, 2023, 2025), Calls in advance meaning (VSA 2022, 2025), Securities premium uses (Q16 2026, Q22 2023), Authorised capital (VSA 2023), Perpetual succession (Q9 2026).",
+      "hindi_name": "अंशपूंजी लेखांकन",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Issue and Redemption of Debentures",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part I & Part II",
+      "unit_id": 7,
+      "unit_name": "Issue and Redemption of Debentures",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Types of debentures easy theory. Issue at premium/discount standard entries.",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "ऋणपत्रों का निर्गमन एवं शोधन",
+      "important_topics": [
+        "Debenture — meaning, features (written instrument of debt, fixed rate of interest, repayment after fixed period)",
+        "Debentureholders — creditors of company (NOT owners), no voting rights",
+        "Types of debentures — (a) From Security view: Secured / Unsecured (b) From Registration: Registered / Bearer (c) From Redemption: Redeemable / Irredeemable (d) From Convertibility: Convertible / Non-convertible (e) From Coupon: Zero-coupon / Specific rate",
+        "Issue of debentures at par, premium, discount",
+        "Issue for consideration other than cash (for purchase of assets or machinery)",
+        "Issue as collateral security",
+        "Interest on debentures (paid whether profit or not)",
+        "Writing off loss on issue of debentures"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Interest on debentures = Face value × Rate × Time (paid even if loss)",
+        "Issue at discount: Bank A/c Dr. (amount received) + Discount on Issue A/c Dr. | To Debentures A/c",
+        "Issue at premium: Bank A/c Dr. | To Debentures A/c | To Securities Premium A/c"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Features of debentures (Q18 2022, Q17 2024), Secured debenture meaning (Q12 2025), Zero-coupon debenture meaning (Q12 2025), Bearer debentures (Q18 2023), Irredeemable debentures (Q13 2022, fill blank 2026), Issue of debentures journal entries (Long 2023, 2024, 2026), Issue for consideration other than cash (Q11 2026, Q12 2024, Q13 2023), Shares vs Debentures differences (Q17 2024, Q23 2026 — VERY COMMON).",
+      "hindi_name": "ऋणपत्रों का निर्गमन एवं शोधन",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Financial Statements of a Company",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part I & Part II",
+      "unit_id": 8,
+      "unit_name": "Financial Statements of a Company",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "Schedule III format yaad karo — 3 mark main heads question pakka.",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": true,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "कंपनी के वित्तीय विवरण",
+      "important_topics": [
+        "Financial Statements — meaning, nature, objectives, importance, limitations",
+        "Balance Sheet as per Schedule III of Companies Act 2013",
+        "Main heads in Balance Sheet: I. Equity and Liabilities — (1) Shareholders' Funds (2) Non-Current Liabilities (3) Current Liabilities; II. Assets — (1) Non-Current Assets (2) Current Assets",
+        "Sub-heads under each main head (Share capital, Reserves & Surplus, Long-term borrowings, Trade payables, Fixed assets, Inventories, Trade receivables, Cash & cash equivalents)",
+        "Statement of Profit and Loss format",
+        "Classification of items — Reserves & Surplus (General Reserve, Capital Reserve, Securities Premium, Surplus)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Meaning & characteristics of financial statements (Q6 2026, Q13 2025, Q14 2022, VSA 2024), Limitations of financial statements (Q12 2026, Q14 2022), Main heads classification (Q18 2026, Q19 2023, Q22 2025 — VERY COMMON 3-mark), Items under Reserve & Surplus (Q18 2026), Items under Current Liabilities (Q15 2022, Q19 2023), Securities Premium head (Q19 2023), Schedule III (MCQ 2026).",
+      "hindi_name": "कंपनी के वित्तीय विवरण",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Analysis of Financial Statements — Ratio Analysis",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part I & Part II",
+      "unit_id": 9,
+      "unit_name": "Analysis of Financial Statements — Ratio Analysis",
+      "weightage_marks": 10,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Formulas yaad rakhna. Current Ratio mein adjustments par dhyaan.",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "वित्तीय विवरणों का विश्लेषण — अनुपात विश्लेषण",
+      "important_topics": [
+        "Tools of analysis — Comparative Statements, Common Size Statements, Ratio Analysis, Cash Flow Statement",
+        "Horizontal vs Vertical analysis",
+        "Objectives and limitations of financial analysis / ratio analysis",
+        "Types of ratios: (1) Liquidity (2) Solvency (3) Activity/Turnover (4) Profitability",
+        "Liquidity Ratios — Current Ratio = Current Assets / Current Liabilities (Ideal 2:1), Quick Ratio = Quick Assets / Current Liabilities (Ideal 1:1)",
+        "Solvency Ratios — Debt-Equity Ratio, Total Assets to Debt, Proprietary Ratio, Interest Coverage",
+        "Activity Ratios — Inventory Turnover, Debtors Turnover, Creditors Turnover, Working Capital Turnover",
+        "Profitability Ratios — Gross Profit Ratio, Net Profit Ratio, Operating Ratio, Return on Investment (ROI)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Current Ratio = Current Assets / Current Liabilities",
+        "Quick Ratio = (Current Assets − Inventory − Prepaid Expenses) / Current Liabilities",
+        "Working Capital = Current Assets − Current Liabilities",
+        "Gross Profit Ratio = (Gross Profit / Revenue from Operations) × 100",
+        "Net Profit Ratio = (Net Profit / Revenue from Operations) × 100",
+        "Operating Ratio = ((Cost of Revenue + Operating Expenses) / Revenue from Operations) × 100",
+        "Debt-Equity Ratio = Long-term Debts / Shareholders' Funds"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Current Ratio calculation (VSA 2022, 2024, Q14 2025, Q14 2026 — HAR SAAL), Net Profit Ratio (VSA 2024), Gross Profit Ratio numerical (Q14 2026), Objectives of ratio analysis (Q13 2026, Q14 2023), Limitations of ratio analysis (Q14 2024, Q19 2023, Q14 2026), Profitability ratios (MCQ 2023), Solvency ratios (MCQ 2023).",
+      "hindi_name": "वित्तीय विवरणों का विश्लेषण — अनुपात विश्लेषण",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Cash Flow Statement",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Accountancy Part I & Part II",
+      "unit_id": 10,
+      "unit_name": "Cash Flow Statement",
+      "weightage_marks": 10,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Activity classification theory easy, full numerical thoda lamba.",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": true,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "रोकड़ प्रवाह विवरण",
+      "important_topics": [
+        "Cash Flow Statement — meaning, objectives, importance, limitations",
+        "Accounting Standard 3 (AS-3, Revised)",
+        "Cash and Cash Equivalents — cash, bank, short-term investments (≤3 months)",
+        "Classification of activities — (1) Operating (2) Investing (3) Financing",
+        "Operating Activities — principal revenue-producing activities (cash from customers, to suppliers, employees, interest paid by financial companies)",
+        "Investing Activities — purchase/sale of fixed assets, investments, interest received, dividend received (non-financial co.)",
+        "Financing Activities — issue of shares/debentures, repayment of loans, dividend paid, interest on debentures paid",
+        "Cash flow from operating activities — Indirect Method (Net profit + non-cash + non-operating items ± changes in working capital)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "AS-3 related to cash flow (MCQ 2024, 2025, 2026 — SEEDHA pucha jata), Cash flow meaning/objectives (Q15 2026, Q15 2022, Q16 2026, Q23 2023), Cash flow from financing activities examples (Q19 2026, Q19 2024, Q15 2023, Q23 2023), Investing activities examples (Q23 2023), Operating activities examples (MCQ 2025), Cash equivalents (Q15 2023, 2024 — fill blank 2024), Financing activities meaning (Q15 2025), Limitations of cash flow (Q19 2026), Benefits/Advantages (Q23 2023).",
+      "hindi_name": "रोकड़ प्रवाह विवरण",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Ch 6 — Accounting for Share Capital (~14 marks — sabse zyada) | Ch 1 + 2 + 3 + 4 + 5 = 8+4+8+7+6 = 33 marks out of 80 (41%) | Ch 6 + 7 = 14 + 8 = 22 marks out of 80 (27.5%)",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "All 10 chapters have questions per blueprint.",
+    "or_questions_note": "Internal OR in Q6-Q23. Q1-Q5 objective — no choice.",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Ch 1 - Accounting for Partnership — Basic Concepts",
+      "Ch 6 - Accounting for Share Capital",
+      "Ch 9 - Analysis of Financial Statements — Ratio Analysis",
+      "Ch 10 - Cash Flow Statement",
+      "Ch 3 - Admission of a Partner",
+      "Ch 4 - Retirement and Death of a Partner",
+      "Ch 7 - Issue and Redemption of Debentures"
+    ],
+    "chapters_never_skip_reason": "Q20 = Ch 1 (P&L Appropriation with guarantee ya deed provisions), Q21 = Ch 3/4 (Admission/Retirement + Goodwill/Revaluation), Q22 = Ch 6 (Share Capital types ya forfeiture), Q23 = Ch 9/10 (Ratio ya Cash Flow). Ye rough pattern 5 saal se consistent hai.",
+    "chapters_with_highest_weightage": [
+      "Ch 6 — Accounting for Share Capital (~14 marks — sabse zyada)",
+      "Ch 9 — Ratio Analysis (~10 marks) aur Ch 10 — Cash Flow (~10 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "Ch 2 - Change in Profit Ratio (4 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "Partnership deed meaning (Section B (VSA), 2 marks, years: 2022, 2023, 2024, 2025, 2026)",
+      "Provisions in absence of partnership deed (Section D (Long), 4 marks, years: 2022, 2024, 2026)",
+      "P&L Appropriation with guarantee of profit (Section D (Long), 4 marks, years: 2023, 2025, 2026 (similar))",
+      "Sacrificing ratio / Gaining ratio calculation (Section B (VSA), 2 marks, years: 2023, 2024, 2025, 2026)",
+      "Revaluation Account preparation (Section D (Long), 4 marks, years: 2024, 2025, 2026)",
+      "Goodwill valuation (super profit / capitalisation) (Section D (Long), 4 marks, years: 2022, 2023, 2025)",
+      "Share issue journal entries (full problem) (Section D (Long), 4 marks, years: 2023, 2024, 2025, 2026)",
+      "Forfeiture and reissue of shares (journal entries) (Section C/D, 3-4 marks, years: 2022, 2023, 2025)",
+      "Shares vs Debentures differences (Section C/D, 3-4 marks, years: 2024, 2026)",
+      "Issue of debentures for consideration other than cash (Section B/C, 2-3 marks, years: 2023, 2024, 2026)",
+      "Balance Sheet main heads classification (Schedule III) (Section C (Short), 3 marks, years: 2023, 2025, 2026)",
+      "Current Ratio calculation (Section B (VSA), 2 marks, years: 2022, 2024, 2025, 2026)",
+      "Cash Flow Statement meaning/objectives (Section B (VSA), 2 marks, years: 2022, 2023, 2024, 2026)",
+      "Cash flow from financing activities examples (Section C (Short), 3 marks, years: 2023, 2024, 2026)",
+      "AS-3 for Cash Flow (MCQ) (Section A (MCQ), 1 marks, years: 2022, 2024, 2025, 2026)",
+      "Interest on capital in absence of deed = NOT paid (MCQ/Fill) (Section A, 1 marks, years: 2022, 2024, 2026)"
+    ],
+    "chapters_mostly_theory": [
+      "Ch 2 - Reconstitution of Partnership — Change in Profit Sharing Ratio",
+      "Ch 7 - Issue and Redemption of Debentures",
+      "Ch 8 - Financial Statements of a Company"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [
+      "Ch 1 - Accounting for Partnership — Basic Concepts",
+      "Ch 6 - Accounting for Share Capital",
+      "Ch 10 - Cash Flow Statement",
+      "Ch 7 - Issue and Redemption of Debentures",
+      "Ch 9 - Analysis of Financial Statements — Ratio Analysis"
+    ],
+    "chapters_with_long_answer": [
+      "Ch 1 - Partnership Basic",
+      "Ch 3 - Admission",
+      "Ch 6 - Share Capital"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "Ch 6 - Share Capital (Q22 typically)",
+      "Ch 9 or Ch 10 (Q23 Ratio or Cash Flow)"
+    ],
+    "chapters_with_numerical": [
+      "Ch 1 - Accounting for Partnership — Basic Concepts",
+      "Ch 3 - Admission of a Partner",
+      "Ch 4 - Retirement and Death of a Partner",
+      "Ch 5 - Dissolution of Partnership Firm",
+      "Ch 6 - Accounting for Share Capital",
+      "Ch 9 - Analysis of Financial Statements — Ratio Analysis",
+      "Ch 10 - Cash Flow Statement"
+    ],
+    "chapters_guaranteed_numerical": [
+      "Ch 1 - Accounting for Partnership — Basic Concepts",
+      "Ch 3 - Admission of a Partner",
+      "Ch 4 - Retirement and Death of a Partner",
+      "Ch 5 - Dissolution of Partnership Firm",
+      "Ch 6 - Accounting for Share Capital",
+      "Ch 9 - Analysis of Financial Statements — Ratio Analysis",
+      "Ch 10 - Cash Flow Statement"
+    ],
+    "chapters_no_numerical": [
+      "Ch 2 - Reconstitution of Partnership — Change in Profit Sharing Ratio",
+      "Ch 7 - Issue and Redemption of Debentures",
+      "Ch 8 - Financial Statements of a Company"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Partnership deed meaning (Section B (VSA), 2 marks)",
+      "Provisions in absence of partnership deed (Section D (Long), 4 marks)",
+      "P&L Appropriation with guarantee of profit (Section D (Long), 4 marks)",
+      "Sacrificing ratio / Gaining ratio calculation (Section B (VSA), 2 marks)",
+      "Revaluation Account preparation (Section D (Long), 4 marks)",
+      "Goodwill valuation (super profit / capitalisation) (Section D (Long), 4 marks)",
+      "Share issue journal entries (full problem) (Section D (Long), 4 marks)",
+      "Forfeiture and reissue of shares (journal entries) (Section C/D, 3-4 marks)",
+      "Shares vs Debentures differences (Section C/D, 3-4 marks)",
+      "Issue of debentures for consideration other than cash (Section B/C, 2-3 marks)",
+      "Balance Sheet main heads classification (Schedule III) (Section C (Short), 3 marks)",
+      "Current Ratio calculation (Section B (VSA), 2 marks)",
+      "Cash Flow Statement meaning/objectives (Section B (VSA), 2 marks)",
+      "Cash flow from financing activities examples (Section C (Short), 3 marks)",
+      "AS-3 for Cash Flow (MCQ) (Section A (MCQ), 1 marks)",
+      "Interest on capital in absence of deed = NOT paid (MCQ/Fill) (Section A, 1 marks)"
+    ],
+    "one_mark_question_facts": {
+      "note": "Section A = ~31 marks (MCQ 6 + Fill ~6-7 + T/F ~6-7 + Match ~6-7 + One-word ~6-7). No negative marking.",
+      "common_formats": [
+        "MCQ",
+        "Fill in the Blanks",
+        "True/False",
+        "Match the Columns",
+        "One Word/Sentence"
+      ]
+    },
+    "key_concepts_masterlist": [
+      "Partnership Act: Indian Partnership Act, 1932 (Section 4 defines partnership)",
+      "Max members in partnership firm: 50 (as per Rule 10, Companies Act 2013 — NOT 100 or 200)",
+      "Min partners: 2 persons",
+      "Interest on capital (no deed): NIL / NOT paid",
+      "Interest on partner's loan (no deed): 6% p.a.",
+      "Profit-loss ratio (no deed): Equal",
+      "Salary/commission to partner (no deed): NIL / Not allowed",
+      "Interest on drawings (no deed): NIL / Not charged",
+      "Super Profit: Excess of Average Profit over Normal Profit (Average Profit − Normal Profit)",
+      "Normal Profit: Capital Employed × Normal Rate of Return",
+      "Goodwill (Super Profit method): Super Profit × No. of years' purchase",
+      "Goodwill (Capitalisation method): Super Profit × (100 / Normal Rate)",
+      "Types of goodwill: Purchased goodwill (shown as asset) and Self-generated goodwill (NOT shown)",
+      "Sacrificing Ratio: Old Ratio − New Ratio",
+      "Gaining Ratio: New Ratio − Old Ratio",
+      "Revaluation A/c nature: Nominal Account",
+      "Realisation A/c nature: Nominal Account (prepared on dissolution)",
+      "Bank overdraft on dissolution: Transferred to Realisation A/c (NOT Bank A/c)",
+      "Undistributed profit on dissolution: Transferred to Partners' Capital A/c in OLD ratio",
+      "Order of payment on dissolution (Sec 48): (1) Third party debts (2) Partner's loan (3) Partner's capital (4) Balance to partners in profit ratio",
+      "Deceased partner's payment: Legal representative / Executor",
+      "Calls in arrears — Interest rate (Table F): 10% p.a.",
+      "Calls in advance — Interest rate (Table F): 12% p.a.",
+      "Max discount on shares: Not allowed under Companies Act 2013 (except sweat equity)",
+      "Max premium on shares: No limit",
+      "Forfeiture — Share Capital A/c debited with: Called-up amount per share × no. of shares forfeited",
+      "Profit on reissue transferred to: Capital Reserve A/c",
+      "Securities Premium uses (Sec 52): Bonus shares, writing off preliminary expenses, writing off discount on shares/debentures, premium on redemption, buy-back of shares",
+      "Balance Sheet format: As per Schedule III of Companies Act 2013",
+      "Cash Flow Statement AS: AS-3 (Revised)",
+      "Ideal Current Ratio: 2:1",
+      "Ideal Quick Ratio: 1:1",
+      "Debentureholders: Creditors of company (NOT owners, no voting rights)",
+      "Equity shareholders: Owners of company (voting rights, variable dividend)",
+      "Preference shareholders dividend: Fixed rate, paid before equity",
+      "Bearer debentures: Transferable by mere delivery (no registration)",
+      "Zero-coupon debenture: No periodic interest; issued at discount, redeemed at face value",
+      "Perpetual / Irredeemable debenture: No fixed maturity date; redeemed only on winding up"
+    ],
+    "essay_question_D_from": "Q20 = Ch 1 (P&L Appropriation with guarantee ya deed provisions), Q21 = Ch 3/4 (Admission/Retirement + Goodwill/Revaluation), Q22 = Ch 6 (Share Capital types ya forfeiture), Q23 = Ch 9/10 (Ratio ya Cash Flow). Ye rough pattern 5 saal se consistent hai.",
+    "final_revision_checklist": {
+      "10_days_before": [
+        "NCERT Partnership (Part I) — sare illustrations + exercises ek baar solve",
+        "NCERT Part II — Company Accounts sare solved examples",
+        "5 saal ke PYQ papers (2021-2025) solve karo, timer lagake",
+        "Journal entries format + narration practice — share issue, forfeiture, debenture issue"
+      ],
+      "5_days_before": [
+        "Formulas aur ratios ki list banao — Current, Quick, GP, NP, ROI",
+        "Balance Sheet Schedule III format yaad karo",
+        "Cash flow activity classification (Operating/Investing/Financing) ka chart banao",
+        "Sacrificing vs Gaining ratio — quick calculations practice"
+      ],
+      "1_day_before": [
+        "Objective section ke sare important points ek baar padh lo (deed provisions, rates, Act names)",
+        "Blueprint dekh ke revise karo ki kahan se kitne marks aayenge",
+        "Admit card + pen + ID ready rakho",
+        "Light dinner, early sleep — exam mein tazgi chahiye"
+      ],
+      "exam_morning": [
+        "Hearty breakfast lo lekin heavy mat khao",
+        "30 min pehle center pahuncho",
+        "Admit card aur pen 3 baar check karo",
+        "Deep breath — tum ready ho, confidence rakho"
+      ]
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Accountancy diagrams = Account formats. Practice these layouts: P&L Appropriation, Revaluation, Realisation, Partner Capital A/c, Journal, Balance Sheet Schedule III.",
+    "must_practise": [
+      {
+        "chapter_id": "1",
+        "chapter_name": "Partnership Basic",
+        "diagram_name": "P&L Appropriation Account format",
+        "note": "To salary/interest/commission | By Net Profit b/d"
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "Partnership Basic",
+        "diagram_name": "Fixed vs Fluctuating Capital Account",
+        "note": "With Current Account"
+      },
+      {
+        "chapter_id": "3",
+        "chapter_name": "Admission of a Partner",
+        "diagram_name": "Revaluation Account format",
+        "note": "Nominal account"
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Retirement and Death of Partner",
+        "diagram_name": "Partner Loan Account with installments",
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Dissolution of Partnership Firm",
+        "diagram_name": "Realisation Account format",
+        "note": "Order of payment"
+      },
+      {
+        "chapter_id": "6",
+        "chapter_name": "Accounting for Share Capital",
+        "diagram_name": "Share Issue Journal Entries (pro-rata + forfeiture + reissue)",
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Debentures",
+        "diagram_name": "Debenture Issue/Redemption journal entries",
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "chapter_name": "Financial Statements of a Company",
+        "diagram_name": "Balance Sheet Schedule III format",
+        "note": "Main heads: Equity, Non-current liabilities, Current liabilities, Assets"
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Ratio Analysis",
+        "diagram_name": "Ratio calculation formula sheet",
+        "note": "Current/Quick/GP/NP/Debt-Equity/ROI"
+      },
+      {
+        "chapter_id": "10",
+        "chapter_name": "Cash Flow Statement",
+        "diagram_name": "Cash Flow Statement format (Operating/Investing/Financing)",
+        "note": "AS-3"
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Accountancy mein formulas aur ratios bahut important hain. Ch 1 (Partnership), Ch 9 (Ratios), Ch 10 (Cash Flow) se numericals har saal aate hain.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "1",
+        "chapter_name": "Accounting for Partnership — Basic Concepts",
+        "formulas": [
+          "Interest on drawings = Total Products × Rate/100 × 1/12",
+          "Average Period (monthly drawings, beginning of month) = (n+1)/2 × Drawings",
+          "Average Period (end of month) = (n-1)/2 × Drawings",
+          "Guaranteed partner deficiency = Guaranteed amount − Actual share (to be borne by guaranteeing partners in agreed ratio)",
+          "Interest on capital = Capital × Rate × Time"
+        ]
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "Reconstitution of Partnership — Change in Profit Sharing Ratio",
+        "formulas": [
+          "Sacrificing Ratio = Old Ratio − New Ratio (positive = sacrifice)",
+          "Gaining Ratio = New Ratio − Old Ratio (positive = gain)",
+          "Revaluation profit/loss distributed in OLD ratio"
+        ]
+      },
+      {
+        "chapter_id": "3",
+        "chapter_name": "Admission of a Partner",
+        "formulas": [
+          "New ratio when new partner takes share equally from both: New share of old = Old share − (share given/2)",
+          "Hidden goodwill = Implied capital of firm − Actual capital of all partners",
+          "Implied capital = New partner's capital × reciprocal of his share"
+        ]
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Retirement and Death of a Partner",
+        "formulas": [
+          "Gaining Ratio = New Ratio − Old Ratio",
+          "Retiring partner's share of goodwill = Firm's goodwill × His share",
+          "Profit till date of death = Last year's profit × (Months till death / 12) × deceased partner's share",
+          "Interest on loan to retiring partner = 6% p.a. (if nothing mentioned)"
+        ]
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Dissolution of Partnership Firm",
+        "formulas": [
+          "Realisation profit/loss = (Amount realised from assets) − (Book value of assets + Liabilities paid + Realisation expenses)",
+          "Realisation profit distributed to partners in PROFIT SHARING RATIO (not capital ratio)"
+        ]
+      },
+      {
+        "chapter_id": "6",
+        "chapter_name": "Accounting for Share Capital",
+        "formulas": [
+          "Forfeiture entry: Share Capital A/c Dr. (called-up amount) | To Share Forfeiture A/c (amount received) | To Calls in Arrears A/c (amount not received)",
+          "Reissue at discount = loss ≤ amount forfeited on those shares",
+          "Profit on reissue = Amount forfeited on reissued shares − Discount on reissue → transferred to Capital Reserve",
+          "Pro-rata allotment ratio = Shares applied / Shares allotted"
+        ]
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Issue and Redemption of Debentures",
+        "formulas": [
+          "Interest on debentures = Face value × Rate × Time (paid even if loss)",
+          "Issue at discount: Bank A/c Dr. (amount received) + Discount on Issue A/c Dr. | To Debentures A/c",
+          "Issue at premium: Bank A/c Dr. | To Debentures A/c | To Securities Premium A/c"
+        ]
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Analysis of Financial Statements — Ratio Analysis",
+        "formulas": [
+          "Current Ratio = Current Assets / Current Liabilities",
+          "Quick Ratio = (Current Assets − Inventory − Prepaid Expenses) / Current Liabilities",
+          "Working Capital = Current Assets − Current Liabilities",
+          "Gross Profit Ratio = (Gross Profit / Revenue from Operations) × 100",
+          "Net Profit Ratio = (Net Profit / Revenue from Operations) × 100",
+          "Operating Ratio = ((Cost of Revenue + Operating Expenses) / Revenue from Operations) × 100",
+          "Debt-Equity Ratio = Long-term Debts / Shareholders' Funds"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Accountancy",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Accountancy",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 20,
+    "passing_marks": 7,
+    "practical_exam_separate": true,
+    "practical_exam_note": "20 marks project evaluated at school level. Overall 33% passing required (33 marks total).",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": true,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": true,
+    "experiment_choice_note": "Students choose from NCERT-suggested Accountancy project topics.",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": "Project report based on real/simulated business accounts"
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "MP Board Accountancy paper overall MEDIUM difficulty ka hota hai. Partnership ke numericals thode lamba lagte hain lekin scoring hote hain. Ratio aur Cash Flow mein formulas yaad ho to 18-20 marks easy.",
+    "easy_percent": 40,
+    "medium_percent": 45,
+    "hard_percent": 15,
+    "most_scoring_sections": [
+      "Easy — 25-28 marks aasaani se aa sakte hain agar concepts clear ho. Har saal similar format.",
+      "Easy to Medium — 2-mark VSA mein definition, formula, chota numerical. OR option se easy chuno."
+    ],
+    "most_difficult_sections": [
+      "Medium-Hard — Full numerical (P&L App, Revaluation, Share issue) ya 4-point comparison. Practice chahiye."
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Section A se 28-31 marks nikalna PAKKA karo — ye sabse safe marks hain, no internal choice lekin no negative marking bhi.",
+      "Partnership chapters (1-5) = 33 marks — sabse important. P&L Appropriation aur Revaluation Account roz practice karo.",
+      "Ch 6 (Share Capital) ki journal entries 5 saal se har paper mein 4-mark Long Answer mein aa rahi hain — zaroor master karo.",
+      "Har numerical mein 'To' aur 'By' side clearly likho, total tally karo, working notes alag likho.",
+      "OR option mein NUMERICAL vs THEORY ka choice mile to apni strength dekhke chuno — agar numerical confident ho to wo, warna theory.",
+      "Ratio Analysis mein 'ideal ratio' yaad rakho — Current 2:1, Quick 1:1, Debt-Equity 2:1 (ideal).",
+      "Cash Flow mein activity classification (Operating/Investing/Financing) seedha MCQ/Fill blank mein aata hai — yaad karo.",
+      "AS-3 = Cash Flow, Schedule III = Balance Sheet — ye facts 100% pakke MCQ/Fill blank.",
+      "Narration (Being...) likhna na bhoolo — 0.5 marks extra har journal entry mein.",
+      "MP Board PYQ (2020-2025) ke solutions mpboardonline.com se download karo — SAME questions repeat hote hain.",
+      "Hindi medium aur English medium dono padhke practice karo — discrepancy ho to Hindi final hai.",
+      "Diagrams/formats (P&L Appropriation, Balance Sheet, Revaluation A/c) ruler se banao — presentation ke marks milte hain."
+    ],
+    "time_allocation": [
+      {
+        "section_id": "section_A_Q1_to_Q5_40min",
+        "recommended_minutes": 1,
+        "note": "Objective sab pehle. 1 minute per question. Confused ho to circle karo, last mein wapas aao."
+      },
+      {
+        "section_id": "section_B_Q6_to_Q15_45min",
+        "recommended_minutes": 5,
+        "note": "4-5 minute per VSA. OR vale mein jo easy lage wo chuno."
+      },
+      {
+        "section_id": "section_C_Q16_to_Q19_30min",
+        "recommended_minutes": 8,
+        "note": "7-8 minute per short answer. Numerical mein working note zaroor likho."
+      },
+      {
+        "section_id": "section_D_Q20_to_Q23_50min",
+        "recommended_minutes": 13,
+        "note": "12-13 minute per long answer. Format pehle banao, phir adjustments."
+      },
+      {
+        "section_id": "revision_15min",
+        "recommended_minutes": 0,
+        "note": "Last mein Objective wapas check karo — ek-do marks aasani se badh sakte hain."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 27,
+        "strategy": "Section A complete karo (25-28 marks pakke) + Section B se 2-3 easy VSA (4-6 marks) = 29-34 marks aaram se.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Objective section (Q1-Q5) — har concept yaad kar lo, 28+ marks almost guaranteed",
+          "Ch 8 (Financial Statements) — theory based easy questions",
+          "Ch 10 (Cash Flow) — meaning, objectives, AS-3 type easy questions",
+          "Partnership deed meaning, absence provisions — har saal aata hai",
+          "Simple formula like Current Ratio (2 marks VSA)"
+        ],
+        "chapters_to_skip_safely": [
+          "Complex Revaluation + Capital Account combined numerical",
+          "Full share issue with forfeiture AND reissue",
+          "Death of partner with complex joint life policy",
+          "Cash flow full 4-mark numerical"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45_marks",
+        "target_marks": 45,
+        "strategy": "Full Section A (28-31) + Section B se 7-8 questions (14-16) + Section C se 1-2 easy (3-6) = 45-53 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Ch 1 — Partnership basic theory aur simple guarantee question",
+          "Ch 6 — Share capital types theory + simple journal entry",
+          "Ch 9 — Current Ratio, Gross Profit Ratio, Net Profit Ratio formulas",
+          "Ch 10 — Cash flow types/activities (theory based)",
+          "Sacrificing vs Gaining ratio calculation (chota numerical)",
+          "Realisation vs Revaluation difference (2 marks)"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60_marks_plus",
+        "target_marks": 60,
+        "strategy": "Full Section A (30+) + Full Section B (18-20) + Section C 3-4 (9-12) + Section D 1-2 easy (4-8) = 60-70 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Journal entries for share issue (pro-rata allotment) — almost 4 marks confirm",
+          "P&L Appropriation with minimum guarantee (4 marks)",
+          "Revaluation Account numerical (4 marks)",
+          "Goodwill by super-profit ya capitalisation method (4 marks)",
+          "Main heads of Balance Sheet — Schedule III (3 marks)",
+          "Shares vs Debentures — 4 differences (4 marks)",
+          "Current Ratio with multiple items (2-4 marks numerical)"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [
+      "Ch 8 - Financial Statements of a Company",
+      "Ch 10 - Cash Flow Statement"
+    ],
+    "highest_roi_chapters": [
+      "Ch 1 - Accounting for Partnership — Basic Concepts",
+      "Ch 6 - Accounting for Share Capital",
+      "Ch 9 - Analysis of Financial Statements — Ratio Analysis",
+      "Ch 10 - Cash Flow Statement"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "20 marks project covers non-theory component (no separate internal assessment).",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Accountancy Class 12 (Part I — Partnership, Part II — Company Accounts + Analysis of Financial Statements)",
+        "author": "",
+        "publisher": "NCERT, New Delhi",
+        "purpose": "Primary",
+        "note": "MP Board syllabus ka base. Sare illustrations aur exercises solve karo — direct questions paper mein aate hain."
+      },
+      {
+        "name": "T.S. Grewal — Double Entry Book Keeping Class 12 (Vol I & II)",
+        "author": "",
+        "publisher": "Sultan Chand & Sons",
+        "purpose": "Primary",
+        "note": "Numericals ki sabse best book. Har chapter mein 50+ solved examples aur 100+ unsolved questions. English medium students ke liye ideal."
+      },
+      {
+        "name": "Jain & Narang / D.K. Goel Accountancy Class 12 (Hindi & English)",
+        "author": "",
+        "publisher": "Kalyani Publishers / Avichal Publishing",
+        "purpose": "Supplementary",
+        "note": "Hindi medium students ke liye detailed theory + numericals. MP Board paper pattern ke hisaab se exercises."
+      },
+      {
+        "name": "MP Board Previous Year Papers 2018-2025 (Sets A, B, C, D)",
+        "author": "",
+        "publisher": "MPBSE Official / mpboardonline.com",
+        "purpose": "Supplementary",
+        "note": "5 saal ke PYQs zaroor solve karo. Same questions (journal entries, P&L App, ratios) repeat hote hain. PDF free available."
+      },
+      {
+        "name": "MP Board Model Paper 2026",
+        "author": "",
+        "publisher": "MPBSE",
+        "purpose": "Supplementary",
+        "note": "Official model paper mpbse.nic.in se download karo — latest pattern aur marking scheme ke liye."
+      },
+      {
+        "name": "MP Board Accountancy Blueprint (Hindi)",
+        "author": "",
+        "publisher": "MPBSE",
+        "purpose": "Supplementary",
+        "note": "Chapter-wise marks distribution aur question type split ka official document."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "Haan — admit card aur ek photo ID (Aadhar card preferred) sath mein zaroori hai.",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "Nahi — mobile, smart watch, calculator, Bluetooth device, earphone sab BAN hain. Pakde gaye to paper cancel.",
+    "reach_before_minutes": 30,
+    "reach_note": "Exam se 30 minute pehle pahuncho. Exam 8:30 AM ya 9:00 AM start hota hai (check admit card).",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "Paper start hone ke 10 minute baad late entry allowed nahi hai.",
+    "timetable_source": "mpbse.nic.in",
+    "extra_time_given": false,
+    "extra_time_note": "3 ghante mein poora paper solve karna hai. No reading time.",
+    "items_to_carry": [
+      "Admit card (color ya black-white print)",
+      "2 blue pens + 2 black pens",
+      "Pencil, rubber, sharpener",
+      "Ruler (accounts mein format banane ke liye zaroori)",
+      "Photo ID (Aadhar card)",
+      "Transparent water bottle"
+    ],
+    "calculator_allowed": "Nahi — koi bhi calculator, digital device ban hai. Sari calculations manually karni hain. Numericals simple figures mein diye jaate hain."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "Har answer sheet page ke upar Roll No. aur Subject code likho.",
+      "Question number clearly likho (Q.6, Q.6 (OR) agar OR wala attempt kiya).",
+      "Unnecessary answers cross mat karo — straight line se strike through.",
+      "Har section ke start par Section A, B, C, D likhna helpful rehta hai (optional).",
+      "Correct answer without working = half marks in numericals (working zaroor dikhao).",
+      "Journal entries mein narration (Being...) likhne ke 0.5 marks alag milte hain.",
+      "Short answers mein heading + example dono zaroori hai.",
+      "Spelling mistake se marks nahi katte — concept clear hona chahiye."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Sirf blue ya black pen use karo. Pencil se sirf ruling aur chart/diagram banao. Numerical accounts (Realisation, Revaluation, P&L Appropriation, Capital A/c) ke liye ruling zaroor karo — 'To', 'By', Dr., Cr. columns clear dikhao."
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "Numericals mein: (1) Format (2) Working notes (3) Journal entries (4) Balance — sab dikhao. Ledger accounts mein 'To' (Dr side) aur 'By' (Cr side) clearly use karo. Every amount ke saath ₹ ya Rs. sign likho. Working notes ko main answer ke neeche 'WN' heading ke saath likho — steps ke marks milte hain.",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

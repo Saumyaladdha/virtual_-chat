@@ -1,0 +1,2049 @@
+{
+  "board": "MPBSE",
+  "class": "12",
+  "subject": "भौतिकी",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 70,
+    "practical_paper": 30,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 23,
+    "passing_marks_practical": 10,
+    "passing_marks_internal": 0,
+    "duration_minutes": 180,
+    "extra_time_given": false,
+    "extra_time_note": "नहीं मिलता। 3 घंटे फिक्स्ड हैं। बेल बजते ही आंसर शीट सबमिट करनी होती है। कोई एक्स्ट्रा टाइम नहीं दिया जाता।",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 33,
+    "total_questions_to_attempt": 26,
+    "total_objective_questions": 0,
+    "total_sets": 4,
+    "sets_note": "MPBSE आमतौर पर 4 सेट्स: A, B, C, D। हर सेट में सेम क्वेश्चन होते हैं, सिर्फ ऑर्डर अलग होता है। मार्क्स डिस्ट्रीब्यूशन हर सेट में बिल्कुल सेम रहता है।",
+    "sets_same_or_different": "सेम क्वेश्चन, अलग ऑर्डर। मार्क्स डिस्ट्रीब्यूशन आइडेंटिकल।",
+    "language_of_attempt": "",
+    "all_compulsory_note": "",
+    "pariksha_bodh_questions_in_exam": "हाँ — परीक्षा बोध (युगबोध) बुक के क्वेश्चन एग्जाम में डायरेक्टली या सिमिलर पैटर्न में आते हैं। इस बुक के इम्पोर्टेंट क्वेश्चन प्रिपेयर करना हाइली रेकमेंडेड है।",
+    "ncert_enough": "NCERT अकेले काफी नहीं है MPBSE के लिए। MPBSE का सिलेबस NCERT पर बेस्ड है लेकिन परीक्षा बोध, प्रीवियस ईयर पेपर्स और MP बोर्ड स्पेसिफिक डेरिवेशन्स जरूरी हैं।",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "ऑफिशियली MPBSE या NCERT की तरफ से जारी होता है। एक्चुअल एग्जाम पैटर्न और डिफिकल्टी लेवल दिखाता है। फॉर्मेट बिल्कुल रियल पेपर जैसा होता है।",
+      "model_paper": "टीचर्स या कोचिंग इंस्टिट्यूट्स बनाते हैं प्रैक्टिस के लिए। पैटर्न सिमिलर होता है लेकिन ऑफिशियली सर्टिफाइड नहीं होता।",
+      "question_bank": "प्रीवियस ईयर क्वेश्चन्स का कलेक्शन होता है। रिवीजन के लिए बेस्ट — जो बार बार आया है वो क्लियरली दिखता है।",
+      "which_to_prefer": "रिवीजन के लिए: क्वेश्चन बैंक > प्रीवियस ईयर पेपर्स > मॉडल पेपर > सैम्पल पेपर। सैम्पल पेपर एग्जाम से पहले एक फुल मॉक टेस्ट के तौर पर करो। रेफरेंस बुक्स - परीक्षा बोध, नवबोध, परीक्षा अध्ययन।",
+      "revision_notes_vs_qbank": "नोट्स से कॉन्सेप्ट क्लियर होता है, क्वेश्चन बैंक से एप्लीकेशन प्रैक्टिस होती है। दोनों जरूरी हैं — पहले नोट्स पढ़ो फिर क्वेश्चन बैंक से सॉल्व करो।"
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "भौतिकी MPBSE क्लास 12 पेपर में 6 टाइप्स के क्वेश्चन आते हैं",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ / वस्तुनिष्ठ",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "आंसर शीट में सिर्फ ऑप्शन (a), (b), (c), (d) लिखना होता है। थ्योरी लिखने की जरूरत नहीं। ऑप्शन लेटर के साथ आंसर वर्ड भी लिख सकते हो — मार्क्स नहीं कटेंगे। सेट नंबर भी आंसर शीट पे लिखो।",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "रिक्त स्थान भरिए",
+        "question_number": "",
+        "section": "A (वस्तुनिष्ठ का हिस्सा)",
+        "marks_each": 1,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "सत्य या असत्य",
+        "question_number": "",
+        "section": "A (वस्तुनिष्ठ का हिस्सा)",
+        "marks_each": 1,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "कॉलम मिलान",
+        "question_number": "",
+        "section": "A (वस्तुनिष्ठ का हिस्सा)",
+        "marks_each": 0,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "अति लघु उत्तरीय",
+        "question_number": "",
+        "section": "B",
+        "marks_each": 2,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "30 से 50 शब्द",
+        "notes": ""
+      },
+      {
+        "type": "लघु उत्तरीय",
+        "question_number": "",
+        "section": "C",
+        "marks_each": 3,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "80 से 120 शब्द",
+        "notes": ""
+      },
+      {
+        "type": "दीर्घ उत्तरीय / विश्लेषणात्मक",
+        "question_number": "",
+        "section": "D",
+        "marks_each": 4,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "150 से 200 शब्द",
+        "notes": ""
+      },
+      {
+        "type": "दीर्घ उत्तरीय / संख्यात्मक",
+        "question_number": "",
+        "section": "E",
+        "marks_each": 5,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "200 से 300 शब्द",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "पेपर में 5 सेक्शन A से E। कुल 33 क्वेश्चन, 26 अटेम्प्ट करने हैं।",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 35,
+      "medium_percent": 45,
+      "hard_percent": 20,
+      "note": ""
+    },
+    "sections": []
+  },
+  "marks_distribution": {
+    "total_theory": 70,
+    "total_practical": 30,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": []
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 70,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "1",
+      "name": "विद्युत आवेश और क्षेत्र",
+      "marks": 4,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "विद्युत आवेश और क्षेत्र",
+        "marks": 4
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "विद्युत आवेश और क्षेत्र",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "Ch 1 — Electric Charges",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "Ch 2 — Capacitance",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "Ch 3 — Current Electricity",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "Ch 4 — Moving Charges",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "Ch 5 — Magnetism Matter",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "Ch 6 — Emi",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "name": "Ch 7 — Alternating Current",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "name": "Ch 8 — Em Waves",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "10",
+        "name": "Ch 9 — Ray Optics",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "11",
+        "name": "Ch 10 — Wave Optics",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "name": "Ch 11 — Dual Nature",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "13",
+        "name": "Ch 12 — Atoms",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "name": "Ch 13 — Nuclei",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "15",
+        "name": "Ch 14 — Semiconductors",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 70,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Physics Class 12 — 0 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT भौतिकी",
+        "category": "Main",
+        "total_marks": 4,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "विद्युत आवेश और क्षेत्र",
+            "marks": 4,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "Ch 1 — Electric Charges",
+            "marks": 0,
+            "topics": [
+              "आवेश के गुण",
+              "कूलॉम्ब का नियम",
+              "गॉस प्रमेय",
+              "द्विध्रुव क्षेत्र डेरिवेशन",
+              "विद्युत क्षेत्र रेखाएं"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "Ch 2 — Capacitance",
+            "marks": 0,
+            "topics": [
+              "समांतर प्लेट संधारित्र",
+              "संधारित्र संयोजन",
+              "संचित ऊर्जा",
+              "समविभव पृष्ठ",
+              "वैन डे ग्राफ जेनरेटर"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "Ch 3 — Current Electricity",
+            "marks": 0,
+            "topics": [
+              "ओम का नियम",
+              "अपवाह वेग",
+              "KCL और KVL",
+              "व्हीटस्टोन सेतु",
+              "मीटर सेतु",
+              "विभवमापी"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "Ch 4 — Moving Charges",
+            "marks": 0,
+            "topics": [
+              "बायोट-सावर्ट",
+              "एम्पीयर का नियम",
+              "लोरेंज़ बल",
+              "साइक्लोट्रॉन",
+              "मूविंग कॉइल गैल्वेनोमीटर",
+              "लूप पर बल आघूर्ण"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "Ch 5 — Magnetism Matter",
+            "marks": 0,
+            "topics": [
+              "डाया/पैरा/फेरो तुलना",
+              "हिस्टेरेसिस वक्र",
+              "क्यूरी का नियम",
+              "दंड चुंबक क्षेत्र"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "Ch 6 — Emi",
+            "marks": 0,
+            "topics": [
+              "फैराडे के नियम",
+              "लेंज का नियम",
+              "गतिज EMF",
+              "स्व/अन्योन्य प्रेरकत्व",
+              "भँवर धाराएँ",
+              "AC जेनरेटर"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "Ch 7 — Alternating Current",
+            "marks": 0,
+            "topics": [
+              "RMS मान",
+              "XL और XC",
+              "LCR प्रतिबाधा",
+              "अनुनाद",
+              "शक्ति गुणांक",
+              "ट्रांसफॉर्मर",
+              "AC जेनरेटर"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "Ch 8 — Em Waves",
+            "marks": 0,
+            "topics": [
+              "विस्थापन धारा",
+              "EM स्पेक्ट्रम खोजकर्ताओं सहित",
+              "EM तरंगों के गुण"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "Ch 9 — Ray Optics",
+            "marks": 0,
+            "topics": [
+              "दर्पण सूत्र",
+              "स्नेल का नियम",
+              "पूर्ण आंतरिक परावर्तन",
+              "प्रिज्म न्यूनतम विचलन",
+              "लेंस निर्माता समीकरण",
+              "सूक्ष्मदर्शी और दूरदर्शी"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "Ch 10 — Wave Optics",
+            "marks": 0,
+            "topics": [
+              "YDSE फ्रिंज चौड़ाई",
+              "व्यतिकरण की शर्तें",
+              "कला-संबद्ध स्रोत",
+              "विवर्तन",
+              "मैलस का नियम",
+              "ब्रूस्टर का नियम"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "Ch 11 — Dual Nature",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "Ch 12 — Atoms",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "14",
+            "name": "Ch 13 — Nuclei",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "15",
+            "name": "Ch 14 — Semiconductors",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "विद्युत आवेश और क्षेत्र",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT भौतिकी Class 12",
+      "unit_id": 1,
+      "unit_name": "विद्युत आवेश और क्षेत्र",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Ch 1 — Electric Charges",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT भौतिकी Class 12",
+      "unit_id": 2,
+      "unit_name": "Ch 1 — Electric Charges",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "आवेश के गुण",
+        "कूलॉम्ब का नियम",
+        "गॉस प्रमेय",
+        "द्विध्रुव क्षेत्र डेरिवेशन",
+        "विद्युत क्षेत्र रेखाएं"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "गॉस प्रमेय का प्रमाण",
+        "द्विध्रुव की अक्षीय स्थिति पर E",
+        "निरक्षीय स्थिति पर E",
+        "द्विध्रुव पर बल आघूर्ण",
+        "गोलीय कोश के कारण E"
+      ],
+      "important_diagrams": [
+        "गाउसीय गोलीय पृष्ठ",
+        "द्विध्रुव अक्षीय/निरक्षीय सेटअप",
+        "गोलीय कोश के लिए E बनाम r ग्राफ",
+        "+ve और -ve आवेश की क्षेत्र रेखाएं"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [
+        "मूल आवेश = 1.6 x 10^-19 C",
+        "1 कूलॉम्ब = 6.25 x 10^18 इलेक्ट्रॉन",
+        "खोखले गोले के अंदर E = शून्य",
+        "धातु का परावैद्युतांक = अनंत",
+        "द्विध्रुव के कारण E 1/r^3 के समानुपाती",
+        "द्विध्रुव 180 डिग्री घुमाने में किया गया कार्य = 2pE",
+        "विद्युत द्विध्रुव आघूर्ण की SI इकाई = कूलॉम्ब-मीटर",
+        "विद्युत क्षेत्र की SI इकाई = N/C",
+        "वायु का परावैद्युतांक = 1"
+      ],
+      "key_fill_blanks": [
+        "आवेश का विमीय सूत्र = AT",
+        "समान आवेश प्रतिकर्षण करते हैं, असमान आकर्षण",
+        "विद्युत क्षेत्र की SI इकाई = NC^-1",
+        "q = plus minus ne  (क्वांटीकरण)",
+        "1 कूलॉम्ब = 6.25 x 10^18 इलेक्ट्रॉन",
+        "विद्युत द्विध्रुव आघूर्ण एक सदिश राशि है"
+      ],
+      "key_true_false": [
+        "खोखले गोले के अंदर E = शून्य : सत्य",
+        "गतिमान आवेशों के लिए कूलॉम्ब नियम : असत्य",
+        "द्विध्रुव आघूर्ण की दिशा: ऋण से धन : सत्य",
+        "चालक के अंदर E = शून्य : सत्य"
+      ],
+      "important_facts": [
+        "मूल आवेश = 1.6 x 10^-19 C",
+        "1 कूलॉम्ब = 6.25 x 10^18 इलेक्ट्रॉन",
+        "खोखले गोले के अंदर E = शून्य",
+        "धातु का परावैद्युतांक = अनंत",
+        "द्विध्रुव के कारण E 1/r^3 के समानुपाती",
+        "द्विध्रुव 180 डिग्री घुमाने में किया गया कार्य = 2pE",
+        "विद्युत द्विध्रुव आघूर्ण की SI इकाई = कूलॉम्ब-मीटर",
+        "विद्युत क्षेत्र की SI इकाई = N/C",
+        "वायु का परावैद्युतांक = 1",
+        "आवेश का विमीय सूत्र = AT",
+        "समान आवेश प्रतिकर्षण करते हैं, असमान आकर्षण",
+        "विद्युत क्षेत्र की SI इकाई = NC^-1",
+        "q = plus minus ne  (क्वांटीकरण)",
+        "1 कूलॉम्ब = 6.25 x 10^18 इलेक्ट्रॉन",
+        "विद्युत द्विध्रुव आघूर्ण एक सदिश राशि है",
+        "खोखले गोले के अंदर E = शून्य : सत्य",
+        "गतिमान आवेशों के लिए कूलॉम्ब नियम : असत्य",
+        "द्विध्रुव आघूर्ण की दिशा: ऋण से धन : सत्य",
+        "चालक के अंदर E = शून्य : सत्य"
+      ]
+    },
+    {
+      "chapter_id": 3,
+      "name": "Ch 2 — Capacitance",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT भौतिकी Class 12",
+      "unit_id": 3,
+      "unit_name": "Ch 2 — Capacitance",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "समांतर प्लेट संधारित्र",
+        "संधारित्र संयोजन",
+        "संचित ऊर्जा",
+        "समविभव पृष्ठ",
+        "वैन डे ग्राफ जेनरेटर"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "C = epsilon_0 A/d",
+        "श्रेणी/समांतर संयोजन",
+        "U = half CV^2"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [
+        "धारिता की SI इकाई = फैराड",
+        "स्थिर V पर परावैद्युत भरने से E घटता है",
+        "पृथकन बढ़ाने से C घटती है",
+        "श्रेणीक्रम संधारित्रों पर आवेश समान होता है",
+        "समांतरक्रम संधारित्रों पर विभव समान होता है",
+        "समविभव पृष्ठ और E के बीच कोण = 90 डिग्री"
+      ],
+      "key_fill_blanks": [
+        "1 फैराड = 1 कूलॉम्ब प्रति वोल्ट",
+        "धारिता का विमीय सूत्र = M^-1 L^-2 T^4 A^2"
+      ],
+      "key_true_false": [],
+      "important_facts": [
+        "धारिता की SI इकाई = फैराड",
+        "स्थिर V पर परावैद्युत भरने से E घटता है",
+        "पृथकन बढ़ाने से C घटती है",
+        "श्रेणीक्रम संधारित्रों पर आवेश समान होता है",
+        "समांतरक्रम संधारित्रों पर विभव समान होता है",
+        "समविभव पृष्ठ और E के बीच कोण = 90 डिग्री",
+        "1 फैराड = 1 कूलॉम्ब प्रति वोल्ट",
+        "धारिता का विमीय सूत्र = M^-1 L^-2 T^4 A^2"
+      ]
+    },
+    {
+      "chapter_id": 4,
+      "name": "Ch 3 — Current Electricity",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT भौतिकी Class 12",
+      "unit_id": 4,
+      "unit_name": "Ch 3 — Current Electricity",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "ओम का नियम",
+        "अपवाह वेग",
+        "KCL और KVL",
+        "व्हीटस्टोन सेतु",
+        "मीटर सेतु",
+        "विभवमापी"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "I = nAev_d",
+        "व्हीटस्टोन संतुलन P/Q=R/S",
+        "R=S(100-L)/L",
+        "E1/E2=l1/l2"
+      ],
+      "important_diagrams": [
+        "मीटर सेतु परिपथ",
+        "विभवमापी EMF तुलना",
+        "व्हीटस्टोन सेतु"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [
+        "धारा मुक्त इलेक्ट्रॉनों के कारण",
+        "विशिष्ट प्रतिरोध पदार्थ पर निर्भर करता है",
+        "तार की लंबाई दोगुनी: प्रतिरोध 4 गुना",
+        "ओमीय चालक का उदाहरण: तांबे का तार",
+        "किरचॉफ का पहला नियम: आवेश का संरक्षण",
+        "श्रेणीक्रम में: धारा सर्वत्र समान"
+      ],
+      "key_fill_blanks": [
+        "तार की लंबाई दोगुनी: प्रतिरोध 4 गुना",
+        "KCL: आवेश का संरक्षण",
+        "KVL: ऊर्जा का संरक्षण",
+        "प्रतिरोधकता की SI इकाई = ओम-मीटर"
+      ],
+      "key_true_false": [],
+      "important_facts": [
+        "धारा मुक्त इलेक्ट्रॉनों के कारण",
+        "विशिष्ट प्रतिरोध पदार्थ पर निर्भर करता है",
+        "तार की लंबाई दोगुनी: प्रतिरोध 4 गुना",
+        "ओमीय चालक का उदाहरण: तांबे का तार",
+        "किरचॉफ का पहला नियम: आवेश का संरक्षण",
+        "श्रेणीक्रम में: धारा सर्वत्र समान",
+        "तार की लंबाई दोगुनी: प्रतिरोध 4 गुना",
+        "KCL: आवेश का संरक्षण",
+        "KVL: ऊर्जा का संरक्षण",
+        "प्रतिरोधकता की SI इकाई = ओम-मीटर"
+      ]
+    },
+    {
+      "chapter_id": 5,
+      "name": "Ch 4 — Moving Charges",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT भौतिकी Class 12",
+      "unit_id": 5,
+      "unit_name": "Ch 4 — Moving Charges",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "बायोट-सावर्ट",
+        "एम्पीयर का नियम",
+        "लोरेंज़ बल",
+        "साइक्लोट्रॉन",
+        "मूविंग कॉइल गैल्वेनोमीटर",
+        "लूप पर बल आघूर्ण"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "वृत्ताकार लूप के केंद्र पर B: B = mu_0 I/2r",
+        "एम्पीयर से परिनालिका के अंदर B: B = mu_0 nI",
+        "अनंत तार से B: B = mu_0 2I/4pi a",
+        "साइक्लोट्रॉन आवृत्ति: f = qB/2pi m",
+        "चालकों के बीच F/l: mu_0 I1 I2/2pi d",
+        "धारा लूप पर बल आघूर्ण: tau = nBIA sin alpha",
+        "मूविंग कॉइल गैल्वेनोमीटर कार्यविधि"
+      ],
+      "important_diagrams": [
+        "साइक्लोट्रॉन",
+        "मूविंग कॉइल गैल्वेनोमीटर",
+        "धारावाही तार पर बल"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [
+        "समांतर चालक सेम दिशा में: आकर्षण",
+        "आदर्श वोल्टमीटर प्रतिरोध: अनंत",
+        "आदर्श अमीटर प्रतिरोध: शून्य",
+        "चुंबकीय क्षेत्र एक सदिश राशि है",
+        "गैल्वेनोमीटर की सुग्राहिता कम होती है: शंट से"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "समांतर चालक सेम दिशा में: आकर्षण",
+        "आदर्श वोल्टमीटर प्रतिरोध: अनंत",
+        "आदर्श अमीटर प्रतिरोध: शून्य",
+        "चुंबकीय क्षेत्र एक सदिश राशि है",
+        "गैल्वेनोमीटर की सुग्राहिता कम होती है: शंट से"
+      ]
+    },
+    {
+      "chapter_id": 6,
+      "name": "Ch 5 — Magnetism Matter",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT भौतिकी Class 12",
+      "unit_id": 6,
+      "unit_name": "Ch 5 — Magnetism Matter",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "डाया/पैरा/फेरो तुलना",
+        "हिस्टेरेसिस वक्र",
+        "क्यूरी का नियम",
+        "दंड चुंबक क्षेत्र"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [
+        "Weber/metre^2 = चुंबकीय क्षेत्र B की इकाई",
+        "लौहचुंबकीय उदाहरण: निकल",
+        "असमान क्षेत्र में सुई पर: बल और बल आघूर्ण"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "Weber/metre^2 = चुंबकीय क्षेत्र B की इकाई",
+        "लौहचुंबकीय उदाहरण: निकल",
+        "असमान क्षेत्र में सुई पर: बल और बल आघूर्ण"
+      ]
+    },
+    {
+      "chapter_id": 7,
+      "name": "Ch 6 — Emi",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT भौतिकी Class 12",
+      "unit_id": 7,
+      "unit_name": "Ch 6 — Emi",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "फैराडे के नियम",
+        "लेंज का नियम",
+        "गतिज EMF",
+        "स्व/अन्योन्य प्रेरकत्व",
+        "भँवर धाराएँ",
+        "AC जेनरेटर"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "e = NBAomega sin(omega t) AC जेनरेटर के लिए",
+        "L = mu_0 n^2 Al परिनालिका के लिए",
+        "epsilon = Blv गतिज EMF"
+      ],
+      "important_diagrams": [
+        "AC जेनरेटर लेबल सहित",
+        "दो समाक्षीय परिनालिकाएं",
+        "रेल पर छड़"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [
+        "स्वप्रेरकत्व की SI इकाई = हेनरी",
+        "प्रेरित EMF चुंबकीय फ्लक्स के परिवर्तन की दर के समानुपाती"
+      ],
+      "key_true_false": [],
+      "important_facts": [
+        "स्वप्रेरकत्व की SI इकाई = हेनरी",
+        "प्रेरित EMF चुंबकीय फ्लक्स के परिवर्तन की दर के समानुपाती"
+      ]
+    },
+    {
+      "chapter_id": 8,
+      "name": "Ch 7 — Alternating Current",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT भौतिकी Class 12",
+      "unit_id": 8,
+      "unit_name": "Ch 7 — Alternating Current",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "RMS मान",
+        "XL और XC",
+        "LCR प्रतिबाधा",
+        "अनुनाद",
+        "शक्ति गुणांक",
+        "ट्रांसफॉर्मर",
+        "AC जेनरेटर"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "LCR प्रतिबाधा Z",
+        "अनुनाद आवृत्ति f0",
+        "शक्ति P = Vrms Irms cos phi",
+        "ट्रांसफॉर्मर अनुपात"
+      ],
+      "important_diagrams": [
+        "LCR परिपथ",
+        "फेज़र डायग्राम",
+        "अनुनाद वक्र",
+        "ट्रांसफॉर्मर"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [
+        "पूर्ण चक्र में AC का माध्य मान = शून्य",
+        "Vrms = 0.707 V0",
+        "संधारित्र केवल AC को अनुमति देता है",
+        "अनुनाद पर प्रतिबाधा = केवल R",
+        "ट्रांसफॉर्मर कोर: मुलायम लोहा परतदार"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "पूर्ण चक्र में AC का माध्य मान = शून्य",
+        "Vrms = 0.707 V0",
+        "संधारित्र केवल AC को अनुमति देता है",
+        "अनुनाद पर प्रतिबाधा = केवल R",
+        "ट्रांसफॉर्मर कोर: मुलायम लोहा परतदार"
+      ]
+    },
+    {
+      "chapter_id": 9,
+      "name": "Ch 8 — Em Waves",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT भौतिकी Class 12",
+      "unit_id": 9,
+      "unit_name": "Ch 8 — Em Waves",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "विस्थापन धारा",
+        "EM स्पेक्ट्रम खोजकर्ताओं सहित",
+        "EM तरंगों के गुण"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [
+        "EM तरंगें उत्पन्न होती हैं: त्वरित आवेश से",
+        "EM तरंगें अनुप्रस्थ होती हैं",
+        "निर्वात में गति = 3x10^8 m/s"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "EM तरंगें उत्पन्न होती हैं: त्वरित आवेश से",
+        "EM तरंगें अनुप्रस्थ होती हैं",
+        "निर्वात में गति = 3x10^8 m/s"
+      ]
+    },
+    {
+      "chapter_id": 10,
+      "name": "Ch 9 — Ray Optics",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT भौतिकी Class 12",
+      "unit_id": 10,
+      "unit_name": "Ch 9 — Ray Optics",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "दर्पण सूत्र",
+        "स्नेल का नियम",
+        "पूर्ण आंतरिक परावर्तन",
+        "प्रिज्म न्यूनतम विचलन",
+        "लेंस निर्माता समीकरण",
+        "सूक्ष्मदर्शी और दूरदर्शी"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "लेंस निर्माता 1/f=(mu-1)(1/R1-1/R2)",
+        "प्रिज्म न्यूनतम विचलन सूत्र",
+        "संयुक्त सूक्ष्मदर्शी आवर्धन",
+        "अपवर्तक दूरदर्शी आवर्धन m=fo/fe",
+        "1/F=1/f1+1/f2 संयोजन"
+      ],
+      "important_diagrams": [
+        "प्रिज्म विचलन अंकित सहित",
+        "संयुक्त सूक्ष्मदर्शी लेबल सहित",
+        "अपवर्तक दूरदर्शी",
+        "लेंस निर्माता सेटअप",
+        "प्रकाशिक फाइबर में पूर्ण आंतरिक परावर्तन"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [
+        "फोकस दूरी निर्भर करती है: पदार्थ, रंग, वक्रता त्रिज्या पर — वस्तु दूरी पर नहीं",
+        "लेंस की शक्ति की इकाई = डायोप्टर",
+        "उत्तल लेंस: धनात्मक शक्ति, अभिसारी",
+        "प्रिज्म में लाल प्रकाश विचलन: न्यूनतम (कम mu)",
+        "बैंगनी प्रकाश विचलन: अधिकतम"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "फोकस दूरी निर्भर करती है: पदार्थ, रंग, वक्रता त्रिज्या पर — वस्तु दूरी पर नहीं",
+        "लेंस की शक्ति की इकाई = डायोप्टर",
+        "उत्तल लेंस: धनात्मक शक्ति, अभिसारी",
+        "प्रिज्म में लाल प्रकाश विचलन: न्यूनतम (कम mu)",
+        "बैंगनी प्रकाश विचलन: अधिकतम"
+      ]
+    },
+    {
+      "chapter_id": 11,
+      "name": "Ch 10 — Wave Optics",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT भौतिकी Class 12",
+      "unit_id": 11,
+      "unit_name": "Ch 10 — Wave Optics",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "YDSE फ्रिंज चौड़ाई",
+        "व्यतिकरण की शर्तें",
+        "कला-संबद्ध स्रोत",
+        "विवर्तन",
+        "मैलस का नियम",
+        "ब्रूस्टर का नियम"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "YDSE फ्रिंज चौड़ाई beta=lambda D/d",
+        "मैलस नियम I=I0 cos^2 theta",
+        "ब्रूस्टर tan ip=mu"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [
+        "ध्रुवण प्रकाश की अनुप्रस्थ प्रकृति सिद्ध करता है",
+        "ध्वनि का ध्रुवण नहीं हो सकता (अनुदैर्ध्य तरंग)",
+        "फ्रिंज चौड़ाई बढ़ती है यदि तरंगदैर्ध्य बढ़े या D बढ़े या d घटे"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "ध्रुवण प्रकाश की अनुप्रस्थ प्रकृति सिद्ध करता है",
+        "ध्वनि का ध्रुवण नहीं हो सकता (अनुदैर्ध्य तरंग)",
+        "फ्रिंज चौड़ाई बढ़ती है यदि तरंगदैर्ध्य बढ़े या D बढ़े या d घटे"
+      ]
+    },
+    {
+      "chapter_id": 12,
+      "name": "Ch 11 — Dual Nature",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT भौतिकी Class 12",
+      "unit_id": 12,
+      "unit_name": "Ch 11 — Dual Nature",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [
+        "आइंस्टीन समीकरण KE_max=hv-phi",
+        "डी-ब्रॉग्ली lambda=h/mv",
+        "lambda=h/root(2meV)"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [
+        "सोडियम की देहली तरंगदैर्ध्य = 6800 ऐंग्स्ट्रॉम",
+        "प्लैंक स्थिरांक h = 6.6 x 10^-34 J/sec",
+        "1 eV = 1.6 x 10^-19 जूल",
+        "रोक विभव को कट-ऑफ विभव भी कहते हैं",
+        "प्रकाश-इलेक्ट्रॉन की KE तीव्रता से स्वतंत्र"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "सोडियम की देहली तरंगदैर्ध्य = 6800 ऐंग्स्ट्रॉम",
+        "प्लैंक स्थिरांक h = 6.6 x 10^-34 J/sec",
+        "1 eV = 1.6 x 10^-19 जूल",
+        "रोक विभव को कट-ऑफ विभव भी कहते हैं",
+        "प्रकाश-इलेक्ट्रॉन की KE तीव्रता से स्वतंत्र"
+      ]
+    },
+    {
+      "chapter_id": 13,
+      "name": "Ch 12 — Atoms",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT भौतिकी Class 12",
+      "unit_id": 13,
+      "unit_name": "Ch 12 — Atoms",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "Ch 13 — Nuclei",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT भौतिकी Class 12",
+      "unit_id": 14,
+      "unit_name": "Ch 13 — Nuclei",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 15,
+      "name": "Ch 14 — Semiconductors",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT भौतिकी Class 12",
+      "unit_id": 15,
+      "unit_name": "Ch 14 — Semiconductors",
+      "part": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [
+        "चालक बैंड अंतराल = शून्य या अतिव्यापी",
+        "अर्धचालक बैंड अंतराल ~ 1 eV",
+        "विद्युतरोधी बैंड अंतराल > 3 eV",
+        "n-टाइप अपमिश्रण: पंचसंयोजी (P, As)",
+        "p-टाइप अपमिश्रण: त्रिसंयोजी (B, In)",
+        "अग्र अभिनति: अवक्षय परत घटती है",
+        "पश्च अभिनति: अवक्षय परत बढ़ती है",
+        "घुटने का वोल्टेज Si = 0.7V, Ge = 0.3V"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [
+        "नैज अर्धचालक इलेक्ट्रॉन = होल : सत्य",
+        "तापमान बढ़ने पर: अर्धचालक प्रतिरोधकता घटती है : सत्य (धातुओं के लिए असत्य)",
+        "N-टाइप बहुसंख्यक वाहक = इलेक्ट्रॉन : सत्य",
+        "परम शून्य पर अर्धचालक = विद्युतरोधी : सत्य",
+        "Si और Ge यौगिक अर्धचालक हैं : असत्य (ये मूल तत्व हैं)"
+      ],
+      "important_facts": [
+        "चालक बैंड अंतराल = शून्य या अतिव्यापी",
+        "अर्धचालक बैंड अंतराल ~ 1 eV",
+        "विद्युतरोधी बैंड अंतराल > 3 eV",
+        "n-टाइप अपमिश्रण: पंचसंयोजी (P, As)",
+        "p-टाइप अपमिश्रण: त्रिसंयोजी (B, In)",
+        "अग्र अभिनति: अवक्षय परत घटती है",
+        "पश्च अभिनति: अवक्षय परत बढ़ती है",
+        "घुटने का वोल्टेज Si = 0.7V, Ge = 0.3V",
+        "नैज अर्धचालक इलेक्ट्रॉन = होल : सत्य",
+        "तापमान बढ़ने पर: अर्धचालक प्रतिरोधकता घटती है : सत्य (धातुओं के लिए असत्य)",
+        "N-टाइप बहुसंख्यक वाहक = इलेक्ट्रॉन : सत्य",
+        "परम शून्य पर अर्धचालक = विद्युतरोधी : सत्य",
+        "Si और Ge यौगिक अर्धचालक हैं : असत्य (ये मूल तत्व हैं)"
+      ]
+    }
+  ],
+  "chapter_facts": {
+    "note": "Physics Class 12 — 0 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [],
+    "chapters_mostly_theory": [
+      "विद्युत आवेश और क्षेत्र",
+      "Ch 1 — Electric Charges",
+      "Ch 2 — Capacitance",
+      "Ch 3 — Current Electricity",
+      "Ch 4 — Moving Charges",
+      "Ch 5 — Magnetism Matter",
+      "Ch 6 — Emi",
+      "Ch 7 — Alternating Current",
+      "Ch 8 — Em Waves",
+      "Ch 9 — Ray Optics",
+      "Ch 10 — Wave Optics",
+      "Ch 11 — Dual Nature",
+      "Ch 12 — Atoms",
+      "Ch 13 — Nuclei",
+      "Ch 14 — Semiconductors"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "important_formula_sheets": {
+      "note": "डायरेक्ट फॉर्मूले पूछे जाते हैं क्या? हाँ — रिक्त स्थान और लघु उत्तर में फॉर्मूला डायरेक्टली माँगा जाता है।",
+      "direct_formula_questions": true,
+      "formula_sheet_allowed_in_exam": false,
+      "electrostatics_numerical_formulas": [
+        "F = (1/4 pi epsilon_0)(q1 q2 / r^2)  — कूलॉम्ब का नियम",
+        "E = F/q0 = (1/4 pi epsilon_0)(q/r^2)  — विद्युत क्षेत्र",
+        "Tau = pE sin theta  — द्विध्रुव पर बल आघूर्ण",
+        "C = epsilon_0 A/d  — समांतर प्लेट संधारित्र",
+        "U = (1/2)CV^2  — संचित ऊर्जा",
+        "C_series: 1/C = 1/C1 + 1/C2",
+        "C_parallel: C = C1 + C2"
+      ],
+      "most_used_formulas_all_chapters": {
+        "ch3": [
+          "V=IR",
+          "R=rho*l/A",
+          "I=nAev_d",
+          "R=S(100-L)/L",
+          "E1/E2=l1/l2"
+        ],
+        "ch4": [
+          "F=qvB sin theta",
+          "f=qB/2pi m",
+          "B=mu_0 nI",
+          "F/l=mu_0 I1 I2/2pi d"
+        ],
+        "ch7": [
+          "Z=root(R^2+(XL-XC)^2)",
+          "f0=1/2pi root(LC)",
+          "Vrms=V0/root2",
+          "N1/N2=V1/V2"
+        ],
+        "ch9": [
+          "1/f=(mu-1)(1/R1-1/R2)",
+          "mu=sin((A+Dm)/2)/sin(A/2)",
+          "m=fo/fe",
+          "P=1/f"
+        ],
+        "ch10": [
+          "beta=lambda D/d"
+        ],
+        "ch11": [
+          "KE_max=hv-phi",
+          "lambda=h/mv"
+        ],
+        "ch12": [
+          "E_n=-13.6/n^2 eV",
+          "r_n=0.529 n^2 Angstrom"
+        ],
+        "ch13": [
+          "T_half=0.693/lambda",
+          "N=N0 e^(-lambda t)"
+        ],
+        "ch14": [
+          "beta=Ic/Ib",
+          "IE=IB+IC"
+        ]
+      }
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Physics.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Formulas for Physics Class 12.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "",
+        "chapter_name": "Electrostatics Numerical Formulas",
+        "formulas": [
+          "F = (1/4 pi epsilon_0)(q1 q2 / r^2)  — कूलॉम्ब का नियम",
+          "E = F/q0 = (1/4 pi epsilon_0)(q/r^2)  — विद्युत क्षेत्र",
+          "Tau = pE sin theta  — द्विध्रुव पर बल आघूर्ण",
+          "C = epsilon_0 A/d  — समांतर प्लेट संधारित्र",
+          "U = (1/2)CV^2  — संचित ऊर्जा",
+          "C_series: 1/C = 1/C1 + 1/C2",
+          "C_parallel: C = C1 + C2"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Most Used Formulas All Chapters — Ch3",
+        "formulas": [
+          "V=IR",
+          "R=rho*l/A",
+          "I=nAev_d",
+          "R=S(100-L)/L",
+          "E1/E2=l1/l2"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Most Used Formulas All Chapters — Ch4",
+        "formulas": [
+          "F=qvB sin theta",
+          "f=qB/2pi m",
+          "B=mu_0 nI",
+          "F/l=mu_0 I1 I2/2pi d"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Most Used Formulas All Chapters — Ch7",
+        "formulas": [
+          "Z=root(R^2+(XL-XC)^2)",
+          "f0=1/2pi root(LC)",
+          "Vrms=V0/root2",
+          "N1/N2=V1/V2"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Most Used Formulas All Chapters — Ch9",
+        "formulas": [
+          "1/f=(mu-1)(1/R1-1/R2)",
+          "mu=sin((A+Dm)/2)/sin(A/2)",
+          "m=fo/fe",
+          "P=1/f"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Most Used Formulas All Chapters — Ch10",
+        "formulas": [
+          "beta=lambda D/d"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Most Used Formulas All Chapters — Ch11",
+        "formulas": [
+          "KE_max=hv-phi",
+          "lambda=h/mv"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Most Used Formulas All Chapters — Ch12",
+        "formulas": [
+          "E_n=-13.6/n^2 eV",
+          "r_n=0.529 n^2 Angstrom"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Most Used Formulas All Chapters — Ch13",
+        "formulas": [
+          "T_half=0.693/lambda",
+          "N=N0 e^(-lambda t)"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Most Used Formulas All Chapters — Ch14",
+        "formulas": [
+          "beta=Ic/Ib",
+          "IE=IB+IC"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Physics.",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Physics.",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 30,
+    "passing_marks": 0,
+    "practical_exam_separate": true,
+    "practical_exam_note": "",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": true,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 35,
+    "medium_percent": 45,
+    "hard_percent": 20,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "डेरिवेशन में पहले डायग्राम बनाओ — 1 मार्क पक्का",
+      "दिया है-फॉर्मूला-सब्स्टिट्यूशन-आंसर फॉर्मेट — पार्शियल मार्क्स मिलेंगे",
+      "इकाइयाँ मत भूलना",
+      "सेक्शन B: पहले सारे 10 पढ़ो फिर सबसे आसान 7 चुनो",
+      "अध्याय 8 आसान — स्पेक्ट्रम टेबल 30 मिनट में तैयार",
+      "लॉजिक गेट्स सत्य सारणी एक बार लिख लो — 3 मार्क्स पक्के",
+      "गॉस प्रमेय + ट्रांसफॉर्मर हर साल आते हैं",
+      "न्यूमेरिकल में फाइनल आंसर बॉक्स करो",
+      "अंतर वाले क्वेश्चन में टेबल बनाओ",
+      "डेरिवेशन में स्टेप्स नंबर करो",
+      "हर आंसर के ऊपर क्वेश्चन नंबर क्लियरली लिखो",
+      "सेट नंबर कवर पेज पे लिखना मत भूलना",
+      "MCQ में सिर्फ ऑप्शन लेटर लिखना काफी है"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "section_A",
+        "recommended_minutes": 0,
+        "note": "10 मिनट — सभी 7, कोई नेगेटिव मार्किंग नहीं"
+      },
+      {
+        "section_id": "section_B",
+        "recommended_minutes": 0,
+        "note": "28 मिनट — सभी 10 पढ़ें, सबसे आसान 7 अटेम्प्ट करें"
+      },
+      {
+        "section_id": "section_C",
+        "recommended_minutes": 0,
+        "note": "35 मिनट — 7 में से 5"
+      },
+      {
+        "section_id": "section_D",
+        "recommended_minutes": 0,
+        "note": "40 मिनट — 5 में से 4, पहले डायग्राम"
+      },
+      {
+        "section_id": "section_E",
+        "recommended_minutes": 0,
+        "note": "37 मिनट — 4 में से 3"
+      },
+      {
+        "section_id": "revision",
+        "recommended_minutes": 0,
+        "note": "10 मिनट — इकाइयाँ चेक करें, लेबल पूरे करें"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing only 23",
+        "target_marks": 23,
+        "strategy": "सेक्शन A सबसे पहले (7 मार्क्स लगभग पक्के)। सेक्शन B में सिर्फ आसान 7 चुनो (8-10 मार्क्स)। 1-2 क्वेश्चन सेक्शन C से (3-6 मार्क्स)। कुल ~20-23 मार्क्स।",
+        "focus_chapters": [
+          "अध्याय 14 (लॉजिक गेट्स, डायोड)",
+          "अध्याय 8 (EM तरंगें स्पेक्ट्रम)",
+          "अध्याय 12 (बोर अभिगृहीत)",
+          "अध्याय 5 (डाया/पैरा/फेरो टेबल)",
+          "अध्याय 3 (ओम का नियम, KCL)"
+        ],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [
+          "अध्याय 2 (कॉम्प्लेक्स न्यूमेरिकल्स)",
+          "अध्याय 6 (AC जेनरेटर डेरिवेशन)",
+          "अध्याय 10 (YDSE डेरिवेशन)"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "40",
+        "target_marks": 40,
+        "strategy": "पास करना + सेक्शन C में 3-4 क्वेश्चन अटेम्प्ट करो + सेक्शन D में 2 आसान वाले।",
+        "focus_chapters": [
+          "अध्याय 14",
+          "अध्याय 9 (TIR, लेंस फॉर्मूला)",
+          "अध्याय 3 (मीटर ब्रिज)",
+          "अध्याय 8",
+          "अध्याय 12",
+          "अध्याय 1 (गॉस प्रमेय)",
+          "अध्याय 11 (प्रकाश विद्युत)"
+        ],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "हर अध्याय से एक आसान टॉपिक पक्का करो। सारे डेरिवेशन्स नहीं चाहिए — सिर्फ कॉमन वाले।",
+        "note": ""
+      },
+      {
+        "target_name": "60",
+        "target_marks": 60,
+        "strategy": "सेक्शन A (7) + सेक्शन B फुल (14) + सेक्शन C 4-5 क्वेश्चन (12-15) + सेक्शन D 3 क्वेश्चन (12) + सेक्शन E 1-2 (5-10) = 50-56+",
+        "focus_chapters": [
+          "अध्याय 14 (पूरा)",
+          "अध्याय 9 (पूरा)",
+          "अध्याय 3 (पूरा)",
+          "अध्याय 7 (LCR, ट्रांसफॉर्मर)",
+          "अध्याय 1 (गॉस, द्विध्रुव)",
+          "अध्याय 10 (YDSE)",
+          "अध्याय 11 (प्रकाश विद्युत)"
+        ],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping",
+        "target_marks": 0,
+        "strategy": "सारे अध्याय तैयार करो। टफ न्यूमेरिकल्स प्रैक्टिस करो। डायग्राम्स परफेक्ट करो।",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "average marks syllabus",
+        "target_marks": 0,
+        "strategy": "",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": []
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": true,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "ऑफिशियल टाइमटेबल mpbse.nic.in पर उपलब्ध होती है।",
+    "extra_time_given": false,
+    "extra_time_note": "3 घंटे फिक्स्ड। बेल बजते ही आंसर शीट सबमिट करनी होती है। कोई एक्स्ट्रा टाइम नहीं मिलता।"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "question_number_note: हाँ — हर आंसर के ऊपर क्वेश्चन नंबर लिखना जरूरी है। एग्जामिनर ढूंढता है। नहीं लिखा तो मार्क्स में कन्फ्यूजन हो सकता है।",
+      "set_number_compulsory: True",
+      "set_number_note: हाँ — अपना सेट नंबर (A/B/C/D) आंसर शीट के कवर पेज पर कम्पल्सरी लिखना होता है।",
+      "question_copy_compulsory: False",
+      "question_copy_note: आंसर शीट में पूरा क्वेश्चन लिखना जरूरी नहीं। सिर्फ क्वेश्चन नंबर लिखो और आंसर शुरू करो।",
+      "rough_work: आंसर शीट का लास्ट पेज रफ वर्क के लिए। क्लियरली ROUGH WORK लिखो। रफ वर्क पे मार्क्स नहीं मिलते लेकिन काम आता है।",
+      "supplementary_sheet: सप्लीमेंट्री शीट लेने से मार्क्स नहीं कटेंगे। जरूरत हो तो लो। लेकिन अनावश्यक ब्लैंक पेजेज वेस्ट मत करो।",
+      "sequence_compulsory: False",
+      "sequence_note: क्वेश्चन्स का सीक्वेंस फॉलो करना जरूरी नहीं। जो आता हो पहले करो। लेकिन क्वेश्चन नंबर क्लियरली लिखो।",
+      "last_to_first: हाँ — पेपर लास्ट से भी स्टार्ट कर सकते हो। कोई रूल नहीं कि सीक्वेंस फॉलो करो।",
+      "long_answer_position: लॉन्ग आंसर्स हमेशा पेपर के लास्ट में नहीं होते। सेक्शन D और E में होते हैं लेकिन सीक्वेंस अलग हो सकती है।",
+      "section_name_before_section: सेक्शन का नाम लिखना कम्पल्सरी नहीं लेकिन रेकमेंडेड है। एग्जामिनर को नेविगेट करना ईज़ी होता है।",
+      "line_after_each_question: जरूरी नहीं। लेकिन दो लाइन्स ड्रॉ करने से आंसर क्लियरली सेपरेट दिखता है — गुड प्रैक्टिस।",
+      "cutting_overwriting: कट्स से मार्क्स डायरेक्टली नहीं कटेंगे। एक क्लीन लाइन से काटो। क्लीन कटिंग एक्सेप्टेबल है।",
+      "short_before_long: पहले शॉर्ट आंसर्स अटेम्प्ट करो फिर लॉन्ग — मार्क्स नहीं कटेंगे। जो भी ऑर्डर सूट करे।",
+      "sub_questions: सब-क्वेश्चन्स मतलब एक क्वेश्चन के अंदर (a), (b), (c) पार्ट्स होते हैं। हर पार्ट के मार्क्स अलग अलग होते हैं।",
+      "partial_marking: True",
+      "partial_marking_note: हाँ — भौतिकी में पार्शियल मार्किंग होती है। फॉर्मूला सही लिखा, सब्स्टिट्यूशन सही, कैलकुलेशन गलत — फिर भी 2 आउट ऑफ 3 मार्क्स मिलेंगे।",
+      "steps_marking: True",
+      "steps_marking_note: हाँ — स्टेप-बाय-स्टेप मार्किंग होती है डेरिवेशन्स और न्यूमेरिकल्स में। अगर डेरिवेशन इनकम्पलीट है तो जो स्टेप्स सही हैं उनके मार्क्स मिलेंगे।",
+      "calculation_compulsory: True",
+      "calculation_note: हाँ — कैलकुलेशन स्टेप्स दिखाने जरूरी। सिर्फ फाइनल आंसर लिखने से फुल मार्क्स नहीं मिलेंगे।",
+      "concept_without_calculation: कॉन्सेप्ट लिखने से थोड़े मार्क्स मिलेंगे — आमतौर पर 1 आउट ऑफ 3 या 4। सिर्फ थ्योरी लिखने से फुल न्यूमेरिकल मार्क्स नहीं मिलेंगे।",
+      "theory_in_numerical: न्यूमेरिकल के कॉन्टेक्स्ट में अगर रिलेवेंट कॉन्सेप्ट/फॉर्मूला लिखते हो तो मार्क्स मिलते हैं — फॉर्मूला का 1 मार्क आमतौर पर।",
+      "correct_answer_wrong_steps: फाइनल आंसर सही लेकिन स्टेप्स में गलती — मार्क्स कट होते हैं। स्टेप्स ज्यादा इम्पोर्टेंट हैं न्यूमेरिकल्स में।",
+      "few_steps_right_answer: स्टेप्स कम किए लेकिन आंसर सही — मार्क्स कट हो सकते हैं। सारे स्टेप्स दिखाने चाहिए।",
+      "wrong_units: यूनिट नहीं लिखी या गलत लिखी तो 0.5 से 1 मार्क कट। हर आंसर के साथ यूनिट लिखना जरूरी।",
+      "no_attempt_marks: कोई भी क्वेश्चन अटेम्प्ट नहीं किया तो जीरो मार्क्स। कुछ भी नहीं लिखने से कोई मार्क्स नहीं मिलते।",
+      "mcq_option_only: MCQ में सिर्फ ऑप्शन लेटर (a), (b), (c), (d) लिखना काफी। थ्योरी लिखने की जरूरत नहीं।",
+      "mcq_wrong_option_right_answer: MCQ में ऑप्शन नंबर सही लेकिन आंसर वर्ड गलत लिखा — आमतौर पर ऑप्शन लेटर से चेक होता है। एग्जामिनर पर डिपेंड करता है।",
+      "marks_if_not_all_attempted: हर क्वेश्चन अटेम्प्ट करना कम्पल्सरी नहीं। जो अटेम्प्ट करो उनके मार्क्स मिलेंगे।"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['नीला', 'काला'] both_colors_together: True single_color_ok: True pencil_use: सिर्फ डायग्राम्स और रफ वर्क के लिए पेंसिल अलाउड है। आंसर कभी पेंसिल से मत लिखो। pen_diagram: पेन से डायग्राम बनाना अलाउड है। मार्क्स नहीं कटेंगे। लेकिन पेंसिल से बनाना ज्यादा नीट होता है — रेकमेंडेड। recommendation: ब्लू पेन से मेन आंसर, ब्लैक से हेडिंग्स/अंडरलाइन। या सिर्फ एक कलर भी चलेगा।"
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "word_limit_excess: वर्ड लिमिट से ज्यादा लिखने से मार्क्स नहीं कटेंगे डायरेक्टली। लेकिन टाइम वेस्ट होगा। कॉन्साइज रहना बेटर है। spelling_mistake: माइनर स्पेलिंग मिस्टेक से मार्क्स आमतौर पर नहीं कटेंगे। कॉन्सेप्ट गलत हो तो मार्क्स कटेंगे। paragraph_vs_bullets: दोनों एक्सेप्टेबल। थ्योरी पैराग्राफ में प्रोफेशनल। कम्पेरिजन में टेबल। डेरिवेशन्स में नंबर्ड स्टेप्स। table_for_differences: डिफरेंस/कम्पेरिजन क्वेश्चन में टेबल स्ट्रॉन्गली रेकमेंडेड। स्ट्रक्चर्ड आंसर्स में ज्यादा मार्क्स मिलने की प्रोबेबिलिटी। highlighting: एक्स्ट्रा मार्क्स नहीं मिलते ऑफिशियली। लेकिन प्रेजेंटेशन बेटर लगती है। short_forms: स्टैंडर्ड शॉर्ट फॉर्म्स चलते हैं: LCR, EMF, AC, DC। नॉन-स्टैंडर्ड मत बनाओ। step_numbering: डेरिवेशन्स में स्टेप नंबर्स कम्पल्सरी नहीं लेकिन हाइली रेकमेंडेड — पार्शियल मार्क्स मिलने में हेल्प करता है। final_answer_box: कम्पल्सरी नहीं लेकिन रेकमेंडेड। एग्जामिनर का ध्यान आता है। beautiful_wrong: सुंदर लिखने से मार्क्स नहीं मिलेंगे अगर कॉन्सेप्ट गलत है। पार्शियल मार्क्स ओनली फॉर करेक्ट स्टेप्स। language: हिंदी और इंग्लिश मिक्स्ड चलेगा। एक ही आंसर में बार बार मत बदलो। formula_in_definition: डेफिनिशन में फॉर्मूला लिखना कम्पल्सरी नहीं लेकिन एक्स्ट्रा मार्क्स मिलते हैं अगर सही लिखा हो। given_that_in_numerical: दिया है (Given That) लिखना कम्पल्सरी नहीं ऑफिशियली। लेकिन लिखना रेकमेंडेड है — ऑर्गेनाइज्ड दिखता है और पार्शियल मार्क्स मिलते हैं अगर आंसर गलत भी हो।",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

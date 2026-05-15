@@ -1,0 +1,2117 @@
+{
+  "board": "UP Board",
+  "class": "12",
+  "subject": "Sociology (Samajshastra)",
+  "subject_code": "340",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 100,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 33,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 0,
+    "extra_time_given": false,
+    "extra_time_note": "",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 29,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "Hindi ya English — dono allowed. Mixed bhi chalega. Paper mein dono versions chhape hote hain (Hindi pehle, English usi question number par neeche).",
+    "all_compulsory_note": "",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "UP Board Class 12 Sociology mein 4 types: MCQ (1 mark), VSA (3 marks, 25 words), SA (6 marks, 50 words), LA (8 marks with OR, 150 words). NO map, NO dates, NO practical.",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (Bahuvikalpiya Prashn)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "Sare 10 attempt karo — no negative marking. MCQ mostly: 'Author of book X?', 'Who gave concept of Y?', 'When was Z established?', 'Main characteristic of W?' — theorist/concept pairs memorise karo.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": "Sare 10 attempt karo — no negative marking. MCQ mostly: 'Author of book X?', 'Who gave concept of Y?', 'When was Z established?', 'Main characteristic of W?' — theorist/concept pairs memorise karo."
+      },
+      {
+        "type": "Very Short Answer (Ati Laghu Uttariya)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 3,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "10 VSA × 3 = 30 marks — SABSE IMPORTANT section. 3-4 lines mein complete definition + 1 example ya feature. 'Define X', 'What do you mean by Y', 'Write types of Z' type.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "~25 words",
+        "notes": "10 VSA × 3 = 30 marks — SABSE IMPORTANT section. 3-4 lines mein complete definition + 1 example ya feature. 'Define X', 'What do you mean by Y', 'Write types of Z' type."
+      },
+      {
+        "type": "Short Answer (Laghu Uttariya)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 6,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "50 words mein 5-6 lines — intro (1 line) + 3-4 numbered points (3-4 lines) + conclusion (1 line). 'Discuss X', 'Describe Y', 'Explain Z' — structured answer.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "~50 words",
+        "notes": "50 words mein 5-6 lines — intro (1 line) + 3-4 numbered points (3-4 lines) + conclusion (1 line). 'Discuss X', 'Describe Y', 'Explain Z' — structured answer."
+      },
+      {
+        "type": "Long Answer (Deergh Uttariya)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 8,
+        "total_in_paper": 3,
+        "attempt": 3,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "150 words = 12-15 lines. Intro para + 4-5 sub-points with sub-headings + conclusion. OR option ka fayda uthao — dono dekho, easier pick karo. Diagrams/flowcharts optional but presentation helps.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "~150 words",
+        "notes": "150 words = 12-15 lines. Intro para + 4-5 sub-points with sub-headings + conclusion. OR option ka fayda uthao — dono dekho, easier pick karo. Diagrams/flowcharts optional but presentation helps."
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "UP Board Sociology = 100 marks theory (no map/dates/practical), 29 questions, 3 hr 15 min (15 min reading). Pattern 2022-2024 consistent.",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 50,
+      "medium_percent": 40,
+      "hard_percent": 10,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "MCQ",
+        "name": "MCQ",
+        "type": "MCQ",
+        "question_numbers": "Q1-Q10",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "N/A — sirf option (A/B/C/D ya i/ii/iii/iv) likhna",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "VSA",
+        "name": "VSA",
+        "type": "VSA",
+        "question_numbers": "Q11-Q20",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 3,
+        "total_marks": 30,
+        "word_limit": "~25 words",
+        "breakdown": "Ye UP Board ka sabse HIGH-WEIGHT single section — 30 marks pura yahan hai. Definitions aur short concepts par focus.",
+        "notes": "Ye UP Board ka sabse HIGH-WEIGHT single section — 30 marks pura yahan hai. Definitions aur short concepts par focus."
+      },
+      {
+        "section_id": "SA",
+        "name": "SA",
+        "type": "SA",
+        "question_numbers": "Q21-Q26",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 6,
+        "total_marks": 36,
+        "word_limit": "~50 words",
+        "breakdown": "Sabse BIGGEST section by marks. 50 words mein structured answer — intro + 3-4 points + conclusion.",
+        "notes": "Sabse BIGGEST section by marks. 50 words mein structured answer — intro + 3-4 points + conclusion."
+      },
+      {
+        "section_id": "LA",
+        "name": "LA",
+        "type": "LA",
+        "question_numbers": "Q27, Q28, Q29",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "attempt_required": 3,
+        "marks_per_question": 8,
+        "total_marks": 24,
+        "word_limit": "~150 words",
+        "breakdown": "",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 100,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "MCQ",
+        "name": "MCQ",
+        "question_numbers": "",
+        "type": "MCQ",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "N/A — sirf option (A/B/C/D ya i/ii/iii/iv) likhna",
+        "breakdown": ""
+      },
+      {
+        "section_id": "VSA",
+        "name": "VSA",
+        "question_numbers": "",
+        "type": "VSA",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 30,
+        "word_limit": "~25 words",
+        "breakdown": "Ye UP Board ka sabse HIGH-WEIGHT single section — 30 marks pura yahan hai. Definitions aur short concepts par focus."
+      },
+      {
+        "section_id": "SA",
+        "name": "SA",
+        "question_numbers": "",
+        "type": "SA",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 6,
+        "total_marks": 36,
+        "word_limit": "~50 words",
+        "breakdown": "Sabse BIGGEST section by marks. 50 words mein structured answer — intro + 3-4 points + conclusion."
+      },
+      {
+        "section_id": "LA",
+        "name": "LA",
+        "question_numbers": "",
+        "type": "LA",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "marks_per_question": 8,
+        "total_marks": 24,
+        "word_limit": "~150 words",
+        "breakdown": ""
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 100,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "6",
+      "name": "Challenges of Cultural Diversity (Sanskritik Vibhinnataon ki Chunautiyan)",
+      "marks": 10,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Introduction to Indian Society (Bhartiya Samaj ka Parichay)",
+        "marks": 4
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Introduction to Indian Society (Bhartiya Samaj ka Parichay)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "khand_A_Bhartiya_Samaj"
+      },
+      {
+        "chapter_id": "2",
+        "name": "Demographic Structure of Indian Society (Jansankhikiy Sanrachna)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "khand_A_Bhartiya_Samaj"
+      },
+      {
+        "chapter_id": "3",
+        "name": "Social Institutions — Continuity and Change (Samajik Sansthayein)",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "khand_A_Bhartiya_Samaj"
+      },
+      {
+        "chapter_id": "4",
+        "name": "Market as a Social Institution (Bazaar ek Samajik Sanstha)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "khand_A_Bhartiya_Samaj"
+      },
+      {
+        "chapter_id": "5",
+        "name": "Social Inequality and Exclusion (Samajik Asamanta aur Bahishkaar)",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "khand_A_Bhartiya_Samaj"
+      },
+      {
+        "chapter_id": "6",
+        "name": "Challenges of Cultural Diversity (Sanskritik Vibhinnataon ki Chunautiyan)",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "khand_A_Bhartiya_Samaj"
+      },
+      {
+        "chapter_id": "7",
+        "name": "Suggestions for Project Work (Pariyojana Karya ke liye Sujhav)",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "khand_A_Bhartiya_Samaj"
+      },
+      {
+        "chapter_id": "8",
+        "name": "Structural Change (Sanrachnatmak Parivartan)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "khand_B_Parivartan_Vikas"
+      },
+      {
+        "chapter_id": "9",
+        "name": "Cultural Change (Sanskritik Parivartan)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "khand_B_Parivartan_Vikas"
+      },
+      {
+        "chapter_id": "10",
+        "name": "Constitution and Social Change (Samvidhan evam Samajik Parivartan)",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "khand_B_Parivartan_Vikas"
+      },
+      {
+        "chapter_id": "11",
+        "name": "Change and Development in Rural Society (Gramin Samaj mein Parivartan aur Vikas)",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "khand_B_Parivartan_Vikas"
+      },
+      {
+        "chapter_id": "12",
+        "name": "Change and Development in Industrial Society (Audyogik Samaj)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "khand_B_Parivartan_Vikas"
+      },
+      {
+        "chapter_id": "13",
+        "name": "Globalization and Social Change (Bhumandalikaran)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "khand_B_Parivartan_Vikas"
+      },
+      {
+        "chapter_id": "14",
+        "name": "Mass Media and Communication (Jan Sampark Madhyam)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "khand_B_Parivartan_Vikas"
+      },
+      {
+        "chapter_id": "15",
+        "name": "Social Movements (Samajik Andolan)",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "khand_B_Parivartan_Vikas"
+      }
+    ],
+    "totals": {
+      "total_marks": 100,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Sociology Class 12 — 15 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Sociology — khand_A_Bhartiya_Samaj",
+        "category": "khand_A_Bhartiya_Samaj",
+        "total_marks": 50,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Introduction to Indian Society (Bhartiya Samaj ka Parichay)",
+            "marks": 4,
+            "topics": [
+              "Colonialism aur naye bazaron ka aavirbhav (emergence of new markets)",
+              "Rashtriyata (nationality/nationalism)",
+              "Samuday (community), Rashtra-rajya (nation-state)",
+              "Colonial rule ka Indian society par prabhav",
+              "Sociological perspective on Indian society"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "Demographic Structure of Indian Society (Jansankhikiy Sanrachna)",
+            "marks": 6,
+            "topics": [
+              "Demography — meaning, types (formal + social)",
+              "Malthus theory of population (geometric growth vs arithmetic food supply) — 'Essay on Population' (1798)",
+              "Demographic transition theory (4 stages)",
+              "Sex ratio, literacy, age structure, birth/death rates",
+              "Rural-urban differences + combination (Rural-Urban continuum)",
+              "Weekly tribal markets (Saptahik Adivasi Bazaar)",
+              "Urbanisation define"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "Social Institutions — Continuity and Change (Samajik Sansthayein)",
+            "marks": 8,
+            "topics": [
+              "Parivar (family) — joint family (traditional Indian form), nuclear family, extended family",
+              "Natedaari (kinship) — primary, secondary, tertiary; types",
+              "Jaati vyavastha (Caste system) — caste-based market and commercial system",
+              "Caste as 'closed class' — McIver and Page",
+              "Sanskritization (M.N. Srinivas), Dominant Caste (M.N. Srinivas)",
+              "Janjatiya samaj (Tribal society) — characteristics, weekly tribal markets",
+              "Tribal communities — Gond, Santhal, Munda, Oraon, Bhil"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "Market as a Social Institution (Bazaar ek Samajik Sanstha)",
+            "marks": 6,
+            "topics": [
+              "Market as social institution (not just economic)",
+              "Bhumandalikaran/Globalization — local, regional, national, international markets ke beech sambandh",
+              "Capitalism and sociological understanding of markets",
+              "Pre-colonial markets vs colonial transformation",
+              "Weekly markets, haat, periodic markets"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "Social Inequality and Exclusion (Samajik Asamanta aur Bahishkaar)",
+            "marks": 8,
+            "topics": [
+              "Jaatigat poorvagraha (caste prejudice)",
+              "Anusuchit Jaatiyan (SC), Anya Pichhde Varg (OBC)",
+              "Janjatiya samudayon ki upeksha (neglect of tribal communities)",
+              "Mahilaon ki samanta ke liye sangharsh (struggle for women's equality)",
+              "Dharmik alpsankhyakon ka sanrakshan (protection of religious minorities)",
+              "Anyatha Saksham (Divyang) — differently-abled people care",
+              "Constitutional provisions for SC/ST/OBC/Minorities"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "Challenges of Cultural Diversity (Sanskritik Vibhinnataon ki Chunautiyan)",
+            "marks": 10,
+            "topics": [
+              "Sampradayikta (communalism), Kshetravad (regionalism), Jaativad (casteism) — democracy obstacles",
+              "State role in multi-cultural and unequal societies",
+              "Hamari samantayein (our commonalities / unity)",
+              "Nation-state aur Dharm sambandhi mudde (state-religion issues)",
+              "State vs Civil Society",
+              "Communalism, Secularism, Nation-state",
+              "Unity in diversity — India's composite culture"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "Suggestions for Project Work (Pariyojana Karya ke liye Sujhav)",
+            "marks": 8,
+            "topics": [
+              "Research methods — Survey method (Sarvekshan pranali)",
+              "Interview (Sakshatkar) — structured, unstructured, its merits and demerits",
+              "Observation (Prekshan) — participant and non-participant",
+              "Sampling methods, questionnaire",
+              "Small research project topics — dowry in local area, migration, farmer issues, women's education etc.",
+              "Samsamyik (contemporary) methods"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Sociology — khand_B_Parivartan_Vikas",
+        "category": "khand_B_Parivartan_Vikas",
+        "total_marks": 50,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "8",
+            "name": "Structural Change (Sanrachnatmak Parivartan)",
+            "marks": 5,
+            "topics": [
+              "Colonialism (Upniveshvad) — impact on Indian society",
+              "Audyogikaran (Industrialisation)",
+              "Nagarikaran (Urbanisation)",
+              "Colonial economic exploitation — deindustrialisation, drain of wealth",
+              "New social classes emerging"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "Cultural Change (Sanskritik Parivartan)",
+            "marks": 6,
+            "topics": [
+              "Types of social change — Sorokin's Ideational-Sensational-Idealistic (MCQ 2023)",
+              "Sanskritization — M.N. Srinivas concept",
+              "Westernization (Pashchimikaran) — M.N. Srinivas concept",
+              "Modernization (Aadhunikikaran)",
+              "Social reform movements — Brahmo Samaj (Raja Ram Mohan Roy, 1828), Arya Samaj (Dayanand Saraswati, 1875), Prarthana Samaj, Ramakrishna Mission (Vivekananda)",
+              "Social reform laws — Sati Abolition Act (1829), Widow Remarriage Act (1856), Child Marriage Restraint Act (Sarda Act 1929), Dowry Prohibition Act (1961)",
+              "Culture = manmade part of environment (Herskovits)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "Constitution and Social Change (Samvidhan evam Samajik Parivartan)",
+            "marks": 7,
+            "topics": [
+              "Constitution as an instrument of social change",
+              "Panchayati Raj — 73rd Amendment (1992), 3-tier (Gram/Kshetra/Zila Panchayat)",
+              "Gram Panchayat functions — economic, social, developmental",
+              "Gram Panchayat chairman = Gram Pradhan",
+              "Social change challenges of Panchayati Raj",
+              "Rajneetik daliyaan (political parties)",
+              "Pressure groups (Daabav samooh) — types and role",
+              "Janataantrik rajneeti (democratic politics)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "Change and Development in Rural Society (Gramin Samaj mein Parivartan aur Vikas)",
+            "marks": 7,
+            "topics": [
+              "Bhumi sudhaar (Land reforms) — Zamindari abolition (1950s), Tenancy reform, Ceiling, Consolidation, Cooperative farming",
+              "Harit Kranti (Green Revolution) — 1960s, HYV seeds, chemical fertilisers, irrigation; effects on villages",
+              "Social consequences of Green Revolution — regional inequality (Punjab-Haryana vs east), class polarisation, farmer suicides later",
+              "Emerging farmer society (Kisan samaj)",
+              "Caste and class in Indian agrarian society",
+              "Globalization, Liberalization impact on rural India",
+              "Farmer suicides, rural distress"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "Change and Development in Industrial Society (Audyogik Samaj)",
+            "marks": 6,
+            "topics": [
+              "Planned industrialisation — 5-year plans, Nehru-Mahalanobis model",
+              "Liberalisation (Udaarikaran) — 1991 reforms, LPG (Liberalisation, Privatisation, Globalisation)",
+              "Vyavsaya prapt karna (getting employment) — formal vs informal sector",
+              "Karya paddhati (work methods) — changes in work culture",
+              "Industrial workers — class, struggles",
+              "Shift from public to private sector"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "Globalization and Social Change (Bhumandalikaran)",
+            "marks": 5,
+            "topics": [
+              "Dimensions of globalization — economic, cultural, political, technological",
+              "Multinational Corporations (MNCs)",
+              "Outsourcing, offshoring",
+              "Cultural homogenisation vs local resistance",
+              "Impact on Indian society — consumerism, media, labour"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "14",
+            "name": "Mass Media and Communication (Jan Sampark Madhyam)",
+            "marks": 6,
+            "topics": [
+              "Types of mass media — Doordarshan (TV), Radio (Akashvani), Newspapers (Samachar patra)",
+              "Print media vs electronic media vs digital/new media",
+              "Changing nature of mass media",
+              "Social media, internet, mobile",
+              "Mass media in colonial and post-colonial India"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "15",
+            "name": "Social Movements (Samajik Andolan)",
+            "marks": 8,
+            "topics": [
+              "Classification of social movements — reformist, revolutionary, redemptive",
+              "Class-based movements — Workers (Mazdoor) movements, Peasant/Farmer (Kisan) movements (Telangana, Tebhaga, Bhoodan, Naxalbari)",
+              "Caste-based movements — Dalit movement (Ambedkar, Dalit Panthers), Backward caste movements, Upper caste reaction",
+              "Women's movements in independent India — first wave (social reform 19th cent), second wave (equality, 1970s), third wave (diverse issues)",
+              "Tribal movements — Santhal (1855), Birsa Munda, Jharkhand, Bodoland, Gorkhaland",
+              "Environmental movements — Chipko (1973, Sunderlal Bahuguna, Chandi Prasad Bhatt; historical origin = Amrita Devi Bishnoi 1730), Narmada Bachao Andolan (Medha Patkar), Silent Valley",
+              "Dowry system (Dahej pratha) — causes, effects (female foeticide, harassment, bride burning), Dowry Prohibition Act 1961, solutions"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Introduction to Indian Society (Bhartiya Samaj ka Parichay)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 1,
+      "unit_name": "",
+      "part": "khand_A_Bhartiya_Samaj",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Colonialism aur naye bazaron ka aavirbhav (emergence of new markets)",
+        "Rashtriyata (nationality/nationalism)",
+        "Samuday (community), Rashtra-rajya (nation-state)",
+        "Colonial rule ka Indian society par prabhav",
+        "Sociological perspective on Indian society"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "MCQ-level colonialism/new markets/community concept. VSA possibility. Low weightage.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Demographic Structure of Indian Society (Jansankhikiy Sanrachna)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 2,
+      "unit_name": "",
+      "part": "khand_A_Bhartiya_Samaj",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Demography — meaning, types (formal + social)",
+        "Malthus theory of population (geometric growth vs arithmetic food supply) — 'Essay on Population' (1798)",
+        "Demographic transition theory (4 stages)",
+        "Sex ratio, literacy, age structure, birth/death rates",
+        "Rural-urban differences + combination (Rural-Urban continuum)",
+        "Weekly tribal markets (Saptahik Adivasi Bazaar)",
+        "Urbanisation define"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Malthus population theory MCQ (2023, 2024 BOTH). Rural-Urban city concept MCQ (2024). Urban community characteristics MCQ (2023). Urbanisation define VSA (2024). Rural society characteristics MCQ (2024 - dynamic is NOT). High-weight topic.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Social Institutions — Continuity and Change (Samajik Sansthayein)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 3,
+      "unit_name": "",
+      "part": "khand_A_Bhartiya_Samaj",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Parivar (family) — joint family (traditional Indian form), nuclear family, extended family",
+        "Natedaari (kinship) — primary, secondary, tertiary; types",
+        "Jaati vyavastha (Caste system) — caste-based market and commercial system",
+        "Caste as 'closed class' — McIver and Page",
+        "Sanskritization (M.N. Srinivas), Dominant Caste (M.N. Srinivas)",
+        "Janjatiya samaj (Tribal society) — characteristics, weekly tribal markets",
+        "Tribal communities — Gond, Santhal, Munda, Oraon, Bhil"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Joint family traditional form MCQ (2023). Caste closed class McIver-Page MCQ (2023). Kinship types/define VSA (2023, 2024). Changes in Indian family SA (2023). Tribal community features VSA (2023). Caste system changes LA (2023). HIGH WEIGHT unit — 8 marks.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Market as a Social Institution (Bazaar ek Samajik Sanstha)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 4,
+      "unit_name": "",
+      "part": "khand_A_Bhartiya_Samaj",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Market as social institution (not just economic)",
+        "Bhumandalikaran/Globalization — local, regional, national, international markets ke beech sambandh",
+        "Capitalism and sociological understanding of markets",
+        "Pre-colonial markets vs colonial transformation",
+        "Weekly markets, haat, periodic markets"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Medium-weight. Liberalization VSA (2023, 2024). Integrated with Unit 13 (Globalization).",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Social Inequality and Exclusion (Samajik Asamanta aur Bahishkaar)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 5,
+      "unit_name": "",
+      "part": "khand_A_Bhartiya_Samaj",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Jaatigat poorvagraha (caste prejudice)",
+        "Anusuchit Jaatiyan (SC), Anya Pichhde Varg (OBC)",
+        "Janjatiya samudayon ki upeksha (neglect of tribal communities)",
+        "Mahilaon ki samanta ke liye sangharsh (struggle for women's equality)",
+        "Dharmik alpsankhyakon ka sanrakshan (protection of religious minorities)",
+        "Anyatha Saksham (Divyang) — differently-abled people care",
+        "Constitutional provisions for SC/ST/OBC/Minorities"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Social exclusion define VSA (2024). Caste prejudice VSA (2023). Divyang meaning VSA (2023, 2024). Divyang problems SA (2024). Women's equality struggle theme. HIGH WEIGHT 8 marks.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Challenges of Cultural Diversity (Sanskritik Vibhinnataon ki Chunautiyan)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 6,
+      "unit_name": "",
+      "part": "khand_A_Bhartiya_Samaj",
+      "weightage_marks": 10,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Sampradayikta (communalism), Kshetravad (regionalism), Jaativad (casteism) — democracy obstacles",
+        "State role in multi-cultural and unequal societies",
+        "Hamari samantayein (our commonalities / unity)",
+        "Nation-state aur Dharm sambandhi mudde (state-religion issues)",
+        "State vs Civil Society",
+        "Communalism, Secularism, Nation-state",
+        "Unity in diversity — India's composite culture"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "HIGHEST WEIGHT unit — 10 marks. Communalism VSA (2023). Regionalism VSA (2024). Indian democracy hurdle MCQ (2024). National integration obstacle MCQ (2023, 2024 — Casteism). Unity in diversity SA (2023). Cultural concept MCQ — Herskovits (2023, 2024). Must master.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Suggestions for Project Work (Pariyojana Karya ke liye Sujhav)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 7,
+      "unit_name": "",
+      "part": "khand_A_Bhartiya_Samaj",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Research methods — Survey method (Sarvekshan pranali)",
+        "Interview (Sakshatkar) — structured, unstructured, its merits and demerits",
+        "Observation (Prekshan) — participant and non-participant",
+        "Sampling methods, questionnaire",
+        "Small research project topics — dowry in local area, migration, farmer issues, women's education etc.",
+        "Samsamyik (contemporary) methods"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Survey method VSA (2024). Interview merits/demerits SA (2024). Social survey purpose LA (2023). HIGH WEIGHT 8 marks — methodology questions guaranteed.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Structural Change (Sanrachnatmak Parivartan)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 8,
+      "unit_name": "",
+      "part": "khand_B_Parivartan_Vikas",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Colonialism (Upniveshvad) — impact on Indian society",
+        "Audyogikaran (Industrialisation)",
+        "Nagarikaran (Urbanisation)",
+        "Colonial economic exploitation — deindustrialisation, drain of wealth",
+        "New social classes emerging"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Urbanisation define VSA (2024). Modernization results MCQ (2024 — All of above). Foundation for many other units.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Cultural Change (Sanskritik Parivartan)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 9,
+      "unit_name": "",
+      "part": "khand_B_Parivartan_Vikas",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Types of social change — Sorokin's Ideational-Sensational-Idealistic (MCQ 2023)",
+        "Sanskritization — M.N. Srinivas concept",
+        "Westernization (Pashchimikaran) — M.N. Srinivas concept",
+        "Modernization (Aadhunikikaran)",
+        "Social reform movements — Brahmo Samaj (Raja Ram Mohan Roy, 1828), Arya Samaj (Dayanand Saraswati, 1875), Prarthana Samaj, Ramakrishna Mission (Vivekananda)",
+        "Social reform laws — Sati Abolition Act (1829), Widow Remarriage Act (1856), Child Marriage Restraint Act (Sarda Act 1929), Dowry Prohibition Act (1961)",
+        "Culture = manmade part of environment (Herskovits)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Brahmo Samaj establishment year MCQ (2024 — 1828). Sanskritization concept giver MCQ (2023 — M.N. Srinivas). Herskovits culture definition MCQ (2023, 2024 BOTH). Sorokin social change types MCQ (2023). Dowry Prohibition Act year MCQ (2024 — 1961). Westernization merits/demerits LA (2023). HIGH SCORING topic.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Constitution and Social Change (Samvidhan evam Samajik Parivartan)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 10,
+      "unit_name": "",
+      "part": "khand_B_Parivartan_Vikas",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Constitution as an instrument of social change",
+        "Panchayati Raj — 73rd Amendment (1992), 3-tier (Gram/Kshetra/Zila Panchayat)",
+        "Gram Panchayat functions — economic, social, developmental",
+        "Gram Panchayat chairman = Gram Pradhan",
+        "Social change challenges of Panchayati Raj",
+        "Rajneetik daliyaan (political parties)",
+        "Pressure groups (Daabav samooh) — types and role",
+        "Janataantrik rajneeti (democratic politics)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Gram Panchayat chairman MCQ (2023). Gram Panchayat functions SA (2024, 2023). Panchayat importance in rural economy SA (2023). Pressure group concept VSA (2024). Democracy + political parties role SA (2024). Indian democracy note SA (2023). HIGH WEIGHT 7 marks.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Change and Development in Rural Society (Gramin Samaj mein Parivartan aur Vikas)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 11,
+      "unit_name": "",
+      "part": "khand_B_Parivartan_Vikas",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Bhumi sudhaar (Land reforms) — Zamindari abolition (1950s), Tenancy reform, Ceiling, Consolidation, Cooperative farming",
+        "Harit Kranti (Green Revolution) — 1960s, HYV seeds, chemical fertilisers, irrigation; effects on villages",
+        "Social consequences of Green Revolution — regional inequality (Punjab-Haryana vs east), class polarisation, farmer suicides later",
+        "Emerging farmer society (Kisan samaj)",
+        "Caste and class in Indian agrarian society",
+        "Globalization, Liberalization impact on rural India",
+        "Farmer suicides, rural distress"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Green Revolution impact on Indian villages LA (2023, 2024 BOTH — ANNUAL). Land reforms SA (2023, 2024 BOTH). Peasant movements LA (2023). Caste system changes LA (2023). HIGH WEIGHT 7 marks — LA guaranteed.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "Change and Development in Industrial Society (Audyogik Samaj)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 12,
+      "unit_name": "",
+      "part": "khand_B_Parivartan_Vikas",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Planned industrialisation — 5-year plans, Nehru-Mahalanobis model",
+        "Liberalisation (Udaarikaran) — 1991 reforms, LPG (Liberalisation, Privatisation, Globalisation)",
+        "Vyavsaya prapt karna (getting employment) — formal vs informal sector",
+        "Karya paddhati (work methods) — changes in work culture",
+        "Industrial workers — class, struggles",
+        "Shift from public to private sector"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Liberalisation VSA (2023, 2024 BOTH). Industrial society essay LA (2024). Modernization results MCQ (2024).",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "Globalization and Social Change (Bhumandalikaran)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 13,
+      "unit_name": "",
+      "part": "khand_B_Parivartan_Vikas",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Dimensions of globalization — economic, cultural, political, technological",
+        "Multinational Corporations (MNCs)",
+        "Outsourcing, offshoring",
+        "Cultural homogenisation vs local resistance",
+        "Impact on Indian society — consumerism, media, labour"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Liberalization-Globalization combo. Integrated with Units 4, 12.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "Mass Media and Communication (Jan Sampark Madhyam)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 14,
+      "unit_name": "",
+      "part": "khand_B_Parivartan_Vikas",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Types of mass media — Doordarshan (TV), Radio (Akashvani), Newspapers (Samachar patra)",
+        "Print media vs electronic media vs digital/new media",
+        "Changing nature of mass media",
+        "Social media, internet, mobile",
+        "Mass media in colonial and post-colonial India"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Mass media changing nature LA (2024). Jan sampark madhyam types.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 15,
+      "name": "Social Movements (Samajik Andolan)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 15,
+      "unit_name": "",
+      "part": "khand_B_Parivartan_Vikas",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Classification of social movements — reformist, revolutionary, redemptive",
+        "Class-based movements — Workers (Mazdoor) movements, Peasant/Farmer (Kisan) movements (Telangana, Tebhaga, Bhoodan, Naxalbari)",
+        "Caste-based movements — Dalit movement (Ambedkar, Dalit Panthers), Backward caste movements, Upper caste reaction",
+        "Women's movements in independent India — first wave (social reform 19th cent), second wave (equality, 1970s), third wave (diverse issues)",
+        "Tribal movements — Santhal (1855), Birsa Munda, Jharkhand, Bodoland, Gorkhaland",
+        "Environmental movements — Chipko (1973, Sunderlal Bahuguna, Chandi Prasad Bhatt; historical origin = Amrita Devi Bishnoi 1730), Narmada Bachao Andolan (Medha Patkar), Silent Valley",
+        "Dowry system (Dahej pratha) — causes, effects (female foeticide, harassment, bride burning), Dowry Prohibition Act 1961, solutions"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Chipko movement starter MCQ (2024 — Sunderlal Bahuguna). Environmental movement SA (2024). Environmental movement causes VSA (2023). Women's movements LA (2024). Tribal movements SA (2023). Peasant movements LA (2023). Dowry causes/effects LA (2023, 2024 BOTH — ANNUAL). Tribal welfare efforts LA (2024). HIGHEST WEIGHT 8 marks + LA guaranteed.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Sociology — 15 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Challenges of Cultural Diversity (Sanskritik Vibhinnataon ki Chunautiyan)"
+    ],
+    "chapters_never_skip_reason": "High-weightage chapters.",
+    "chapters_with_highest_weightage": [
+      "Challenges of Cultural Diversity (Sanskritik Vibhinnataon ki Chunautiyan) (10 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "Introduction to Indian Society (Bhartiya Samaj ka Parichay) (4 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "Malthus population theory / Essay on Population (Q: , 1)",
+      "Herskovits — Culture is manmade part of environment (Q: , 1)",
+      "National integration obstacle = Casteism (Q: , 1)",
+      "Kinship define / types (Q: , 3)",
+      "Social change define (Q: , 3)",
+      "Liberalization (Q: , 3)",
+      "Land reforms in India (Q: , 6)",
+      "Gram Panchayat functions/importance (Q: , 6)",
+      "Green Revolution impact on villages (Q: , 8)",
+      "Dowry system causes and effects (Q: , 8)"
+    ],
+    "chapters_mostly_theory": [
+      "Introduction to Indian Society (Bhartiya Samaj ka Parichay)",
+      "Demographic Structure of Indian Society (Jansankhikiy Sanrachna)",
+      "Social Institutions — Continuity and Change (Samajik Sansthayein)",
+      "Market as a Social Institution (Bazaar ek Samajik Sanstha)",
+      "Social Inequality and Exclusion (Samajik Asamanta aur Bahishkaar)",
+      "Challenges of Cultural Diversity (Sanskritik Vibhinnataon ki Chunautiyan)",
+      "Suggestions for Project Work (Pariyojana Karya ke liye Sujhav)",
+      "Structural Change (Sanrachnatmak Parivartan)",
+      "Cultural Change (Sanskritik Parivartan)",
+      "Constitution and Social Change (Samvidhan evam Samajik Parivartan)",
+      "Change and Development in Rural Society (Gramin Samaj mein Parivartan aur Vikas)",
+      "Change and Development in Industrial Society (Audyogik Samaj)",
+      "Globalization and Social Change (Bhumandalikaran)",
+      "Mass Media and Communication (Jan Sampark Madhyam)",
+      "Social Movements (Samajik Andolan)"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "Challenges of Cultural Diversity (Sanskritik Vibhinnataon ki Chunautiyan)"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "Challenges of Cultural Diversity (Sanskritik Vibhinnataon ki Chunautiyan)"
+    ],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "Introduction to Indian Society (Bhartiya Samaj ka Parichay)",
+      "Demographic Structure of Indian Society (Jansankhikiy Sanrachna)",
+      "Social Institutions — Continuity and Change (Samajik Sansthayein)",
+      "Market as a Social Institution (Bazaar ek Samajik Sanstha)",
+      "Social Inequality and Exclusion (Samajik Asamanta aur Bahishkaar)",
+      "Challenges of Cultural Diversity (Sanskritik Vibhinnataon ki Chunautiyan)",
+      "Suggestions for Project Work (Pariyojana Karya ke liye Sujhav)",
+      "Structural Change (Sanrachnatmak Parivartan)",
+      "Cultural Change (Sanskritik Parivartan)",
+      "Constitution and Social Change (Samvidhan evam Samajik Parivartan)",
+      "Change and Development in Rural Society (Gramin Samaj mein Parivartan aur Vikas)",
+      "Change and Development in Industrial Society (Audyogik Samaj)",
+      "Globalization and Social Change (Bhumandalikaran)",
+      "Mass Media and Communication (Jan Sampark Madhyam)",
+      "Social Movements (Samajik Andolan)"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Malthus population theory / Essay on Population (Q: , 1)",
+      "Herskovits — Culture is manmade part of environment (Q: , 1)",
+      "National integration obstacle = Casteism (Q: , 1)",
+      "Kinship define / types (Q: , 3)",
+      "Social change define (Q: , 3)",
+      "Liberalization (Q: , 3)",
+      "Land reforms in India (Q: , 6)",
+      "Gram Panchayat functions/importance (Q: , 6)",
+      "Green Revolution impact on villages (Q: , 8)",
+      "Dowry system causes and effects (Q: , 8)"
+    ],
+    "one_mark_question_facts": {
+      "note": "Objective section of paper covers MCQs, fill blanks, T/F, match, one-word.",
+      "common_formats": [
+        "MCQ",
+        "Fill in the Blanks",
+        "True/False",
+        "Match the Pairs",
+        "One Word"
+      ]
+    },
+    "theorists_and_concepts_masterlist": {
+      "note": "Sociology ke MCQ (10 marks) aur VSA (30 marks) mein 70% questions theorist + concept pairs par based hote hain. Ye Sociology ka 'named reactions' / 'historical dates' equivalent hai — UP Board ka scoring backbone. 40+ theorists yaad karo.",
+      "foundational_sociologists": [
+        {
+          "theorist": "Auguste Comte (1798-1857)",
+          "key_contributions": "Father of Sociology; coined term 'Sociology' (1838); Law of Three Stages"
+        },
+        {
+          "theorist": "Emile Durkheim (1858-1917)",
+          "key_contributions": "Social facts; Division of Labour in Society; Suicide (4 types); Mechanical vs Organic solidarity"
+        },
+        {
+          "theorist": "Max Weber (1864-1920)",
+          "key_contributions": "Verstehen (understanding); Bureaucracy; Protestant Ethic and Spirit of Capitalism; Authority types (traditional/charismatic/legal-rational)"
+        },
+        {
+          "theorist": "Karl Marx (1818-1883)",
+          "key_contributions": "Class conflict; Historical materialism; Capitalism-Socialism-Communism; Alienation"
+        },
+        {
+          "theorist": "Herbert Spencer (1820-1903)",
+          "key_contributions": "Social Darwinism; Organic analogy; Survival of the fittest applied to society"
+        },
+        {
+          "theorist": "Pitirim Sorokin (1889-1968)",
+          "key_contributions": "Social change types — Ideational, Sensational/Sensate, Idealistic (MCQ asked 2023); Social and Cultural Dynamics"
+        },
+        {
+          "theorist": "Kingsley Davis (1908-1997)",
+          "key_contributions": "Demographic transition theory; 'Human Society' book"
+        },
+        {
+          "theorist": "Thomas Malthus (1766-1834)",
+          "key_contributions": "'Essay on Population' (1798); Population grows geometrically (1,2,4,8) but food arithmetically (1,2,3,4); positive + preventive checks — MCQ asked EVERY year"
+        },
+        {
+          "theorist": "Herskovits (Melville, 1895-1963)",
+          "key_contributions": "'Culture is the man-made part of the environment' — MCQ asked 2023 AND 2024"
+        }
+      ],
+      "indian_sociologists": [
+        {
+          "theorist": "M.N. Srinivas (1916-1999)",
+          "key_contributions": "Sanskritization (1952); Westernization; Dominant Caste; 'Remembered Village'; Religion and Society among Coorgs — MCQ 2023"
+        },
+        {
+          "theorist": "G.S. Ghurye (1893-1983)",
+          "key_contributions": "Father of Indian Sociology; 'Caste and Race in India'; Tribe as 'backward Hindu'"
+        },
+        {
+          "theorist": "D.P. Mukerji (1894-1961)",
+          "key_contributions": "Indian tradition + Marxist perspective"
+        },
+        {
+          "theorist": "A.R. Desai (1915-1994)",
+          "key_contributions": "Marxist perspective on Indian society; 'Social Background of Indian Nationalism'"
+        },
+        {
+          "theorist": "Dr. B.R. Ambedkar (1891-1956)",
+          "key_contributions": "Annihilation of Caste; Dalit movement foundation; Constitution drafting"
+        },
+        {
+          "theorist": "R.K. Mukherjee (1889-1968)",
+          "key_contributions": "'Indian Working Class'; Economic sociology"
+        },
+        {
+          "theorist": "D.N. Majumdar (1903-1960)",
+          "key_contributions": "Tribal studies; Anthropology-Sociology bridge"
+        },
+        {
+          "theorist": "S.C. Dube (1922-1996)",
+          "key_contributions": "'Indian Village' studies"
+        },
+        {
+          "theorist": "Yogendra Singh",
+          "key_contributions": "'Modernization of Indian Tradition'"
+        },
+        {
+          "theorist": "Andre Beteille",
+          "key_contributions": "Caste, class, power in Tanjore village"
+        },
+        {
+          "theorist": "T.K. Oommen",
+          "key_contributions": "Citizenship and nation-state studies"
+        }
+      ],
+      "other_theorists_mcq_relevant": [
+        {
+          "theorist": "McIver and Page",
+          "key_contributions": "'Caste is a closed class' — MCQ 2023; 'Society: An Introductory Analysis'"
+        },
+        {
+          "theorist": "Ross",
+          "key_contributions": "Social control concept"
+        },
+        {
+          "theorist": "Ogburn",
+          "key_contributions": "Cultural Lag theory"
+        },
+        {
+          "theorist": "Redfield (Robert)",
+          "key_contributions": "Folk-Urban continuum; 'Little Community'"
+        },
+        {
+          "theorist": "Raja Ram Mohan Roy",
+          "key_contributions": "Brahmo Samaj (1828) — MCQ 2024; Sati abolition"
+        },
+        {
+          "theorist": "Dayanand Saraswati",
+          "key_contributions": "Arya Samaj (1875); 'Back to Vedas'"
+        },
+        {
+          "theorist": "Swami Vivekananda",
+          "key_contributions": "Ramakrishna Mission; Hinduism revival"
+        },
+        {
+          "theorist": "Ishwar Chandra Vidyasagar",
+          "key_contributions": "Widow Remarriage Act (1856)"
+        },
+        {
+          "theorist": "Keshav Chandra Sen",
+          "key_contributions": "Brahmo Samaj leader"
+        },
+        {
+          "theorist": "Jyotirao Phule",
+          "key_contributions": "Satyashodhak Samaj; anti-caste reformer"
+        },
+        {
+          "theorist": "Sunderlal Bahuguna",
+          "key_contributions": "Chipko Movement — MCQ 2024; 'Ecology is permanent economy'"
+        },
+        {
+          "theorist": "Chandi Prasad Bhatt",
+          "key_contributions": "Chipko Movement co-leader"
+        },
+        {
+          "theorist": "Amrita Devi Bishnoi",
+          "key_contributions": "Khejarli tree protection 1730 — historical precursor to Chipko"
+        },
+        {
+          "theorist": "Medha Patkar",
+          "key_contributions": "Narmada Bachao Andolan"
+        },
+        {
+          "theorist": "Baba Amte",
+          "key_contributions": "Leprosy + Narmada activism"
+        }
+      ],
+      "key_concepts_with_year_if_relevant": [
+        {
+          "concept": "Sanskritization",
+          "coined_by": "M.N. Srinivas (1952)"
+        },
+        {
+          "concept": "Westernization",
+          "coined_by": "M.N. Srinivas"
+        },
+        {
+          "concept": "Dominant Caste",
+          "coined_by": "M.N. Srinivas"
+        },
+        {
+          "concept": "Cultural Lag",
+          "coined_by": "W.F. Ogburn"
+        },
+        {
+          "concept": "Verstehen",
+          "coined_by": "Max Weber"
+        },
+        {
+          "concept": "Anomie",
+          "coined_by": "Emile Durkheim"
+        },
+        {
+          "concept": "Demographic Transition",
+          "coined_by": "Warren Thompson, developed by Kingsley Davis"
+        },
+        {
+          "concept": "Population theory (Essay on Population)",
+          "coined_by": "Thomas Malthus (1798)"
+        },
+        {
+          "concept": "Brahmo Samaj",
+          "founder_year": "Raja Ram Mohan Roy, 1828"
+        },
+        {
+          "concept": "Arya Samaj",
+          "founder_year": "Swami Dayanand Saraswati, 1875"
+        },
+        {
+          "concept": "Ramakrishna Mission",
+          "founder_year": "Swami Vivekananda, 1897"
+        },
+        {
+          "concept": "Dowry Prohibition Act",
+          "year": "1961 — MCQ 2024"
+        },
+        {
+          "concept": "Sati Abolition Act",
+          "year": "1829 by Lord William Bentinck"
+        },
+        {
+          "concept": "Widow Remarriage Act",
+          "year": "1856"
+        },
+        {
+          "concept": "Child Marriage Restraint Act (Sarda Act)",
+          "year": "1929"
+        },
+        {
+          "concept": "Panchayati Raj (73rd Amendment)",
+          "year": "1992"
+        },
+        {
+          "concept": "Economic Liberalization (LPG reforms)",
+          "year": "1991"
+        },
+        {
+          "concept": "Green Revolution",
+          "period": "1960s, led by M.S. Swaminathan"
+        },
+        {
+          "concept": "Chipko Movement",
+          "year": "1973 (Reni village, Uttarakhand)"
+        },
+        {
+          "concept": "Narmada Bachao Andolan",
+          "year": "1985 onwards"
+        },
+        {
+          "concept": "Santhal Rebellion",
+          "year": "1855-56"
+        },
+        {
+          "concept": "Zamindari Abolition",
+          "period": "1948-1956 (various state acts)"
+        },
+        {
+          "concept": "World Women's Day",
+          "date": "8 March — MCQ 2023"
+        }
+      ]
+    },
+    "pyq_analysis_2023_2024": {
+      "summary": "2 saal ke papers (2023, 2024-FN) analysis se pattern extremely consistent. 60-70% questions topic/concept repeat karte hain year-on-year.",
+      "most_repeated_MCQ_topics": [
+        "Malthus population theory (Essay on Population) — 2023, 2024",
+        "Herskovits 'Culture is manmade' — 2023, 2024",
+        "Nation building obstacle = Casteism — 2023, 2024",
+        "Sanskritization = M.N. Srinivas — 2023",
+        "Caste closed class = McIver and Page — 2023",
+        "Sorokin social change — 2023",
+        "Brahmo Samaj 1828 — 2024",
+        "Chipko = Bahuguna — 2024",
+        "Dowry Prohibition 1961 — 2024"
+      ],
+      "most_repeated_VSA_topics": [
+        "Kinship define/types — 2023, 2024 BOTH",
+        "Social change define — 2023, 2024 BOTH",
+        "Liberalization — 2023, 2024 BOTH",
+        "Caste prejudice — 2023",
+        "Divyang — 2023, 2024",
+        "Communalism — 2023",
+        "Regionalism — 2024",
+        "Urbanisation — 2024",
+        "Tribal community characteristics — 2023",
+        "Environmental movement causes — 2023"
+      ],
+      "most_repeated_SA_topics": [
+        "Land reforms in India — 2023, 2024 BOTH",
+        "Gram Panchayat functions/importance — 2023, 2024 BOTH",
+        "Changes in Indian family — 2023",
+        "Unity in diversity — 2023",
+        "Indian democracy note — 2023",
+        "Environmental movement — 2024",
+        "Interview merits/demerits — 2024",
+        "Divyang problems — 2024",
+        "Democracy + political parties — 2024",
+        "Tribal movement consequences — 2023"
+      ],
+      "most_repeated_LA_topics": [
+        "Green Revolution impact on villages — 2023, 2024 BOTH (ANNUAL)",
+        "Dowry system causes and effects — 2023, 2024 BOTH (ANNUAL)",
+        "Caste system changes — 2023",
+        "Peasant movements India — 2023",
+        "Social survey purpose — 2023",
+        "Westernization merits/demerits — 2023",
+        "Industrial society change essay — 2024",
+        "Tribal welfare govt efforts — 2024",
+        "Mass media changing nature — 2024",
+        "Women's movements India — 2024"
+      ],
+      "high_probability_2026_picks": [
+        "MCQ: Malthus OR Herskovits OR Sanskritization (M.N. Srinivas) OR Dowry Act 1961 OR Chipko Bahuguna — 4-5 guaranteed",
+        "VSA: Kinship, Social change, Liberalization, Divyang — 3-4 of these repeat",
+        "SA: Land reforms, Gram Panchayat, Changes in Indian family, Unity in diversity — 2-3 of these repeat",
+        "LA Q27: Green Revolution ↔ Caste system changes OR Industrial society (GR pakka prepare karke jao)",
+        "LA Q28: Dowry ↔ Tribal welfare OR Social survey (Dowry pakka prepare karke jao)",
+        "LA Q29: Mass media ↔ Women's movements (dono prepare karo)"
+      ],
+      "guaranteed_preparation_list": {
+        "memorize_40_theorist_concept_pairs": "See theorists_and_concepts_masterlist section",
+        "memorize_10_VSA_definitions": "Kinship, Social change, Liberalization, Urbanisation, Divyang, Communalism, Regionalism, Caste prejudice, Pressure group, Tribe",
+        "prepare_6_SA_topics": "Land reforms, Gram Panchayat, Indian family changes, Environmental movement, Democracy + parties, Interview methodology",
+        "prepare_4_LA_topics": "Green Revolution, Dowry, Women's movements, Mass media",
+        "total_target": "With above prep = 85+ marks comfortably achievable"
+      }
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Sociology — maps/diagrams/frameworks.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not typically applicable for Sociology (humanities subject).",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Sociology",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Sociology",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Sociology — no practical.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 50,
+    "medium_percent": 40,
+    "hard_percent": 10,
+    "most_scoring_sections": [
+      "Easy — 7-9 sahi easily. Theorist-concept pairs ratte ho toh 9-10 out of 10.",
+      "Easy — definitions 25 words mein. 8-9 attempt = 24-27 marks. Highest ROI section."
+    ],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "VSA (Q11-Q20) mein 30 marks hain — SABSE PEHLE focus yahan do. Har definition mein theorist ka naam shamil karo.",
+      "Theorist-concept pairs ki ek table banao — 40+ pairs. Revision ke time 2-3 baar dohra lo.",
+      "MCQ mein 'author of book X' questions — Essay on Population = Malthus, Sanskritization = Srinivas. Ratte-chipkao style.",
+      "LA mein OR option ka smart use — Q27 mein Green Revolution pakka prepare karke jao (ye 2023, 2024 DONO mein aaya). Q28 mein Dowry pakka karke jao.",
+      "Green Revolution aur Dowry — ye 2 topics toh ANNUALLY aate hain. 150-word ready answer memorize karo.",
+      "Indian examples do — Punjab-Haryana for Green Revolution, Kerala for literacy, Punjab for migration, Maharashtra for Narmada.",
+      "Chipko Movement: MCQ answer = Sunderlal Bahuguna (Chandi Prasad Bhatt bhi co-leader). Historical precursor Amrita Devi Bishnoi 1730 — ye factual detail bonus.",
+      "Panchayati Raj — 73rd Amendment 1992, 3-tier structure, Gram Pradhan as chairman — VSA/SA mein zaroor aata hai.",
+      "Hindi/English mixed OK — terms English mein (Sanskritization, Verstehen, Demography), explanation Hindi mein.",
+      "Clean handwriting UP Board mein important — neat presentation ke alag marks.",
+      "Q29 women's movements agar aaye toh 3 waves batao: 1st wave (19th cent social reform), 2nd wave (1970s equality), 3rd wave (diverse)."
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "Paper pura padho. Q27/28/29 OR options dono dekho, decide which to attempt. VSA ke terms mental mein draft karo."
+      },
+      {
+        "section_id": "Q1_Q10_MCQ_12min",
+        "recommended_minutes": 2,
+        "note": "10 MCQ × 1.2 min. Theorist-concept direct match. No negative marking."
+      },
+      {
+        "section_id": "Q11_Q20_VSA_40min",
+        "recommended_minutes": 4,
+        "note": "10 VSA × 4 min. 25 words = 3-4 lines. SABSE HIGH WEIGHT — 30 marks!"
+      },
+      {
+        "section_id": "Q21_Q26_SA_60min",
+        "recommended_minutes": 10,
+        "note": "6 SA × 10 min. 50 words = 5-6 lines. Heading + 3-4 points + conclusion."
+      },
+      {
+        "section_id": "Q27_Q29_LA_50min",
+        "recommended_minutes": 17,
+        "note": "3 LA × 17 min. 150 words = 12-15 lines. Intro + sub-headings + conclusion."
+      },
+      {
+        "section_id": "revision_13min",
+        "recommended_minutes": 0,
+        "note": "Check question numbers, theorist attributions, handwriting clarity."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 33",
+        "target_marks": 33,
+        "strategy": "MCQ 7-8 (~8 marks) + VSA 6-7 (~18-21 marks) + SA 2-3 (~12-18 marks) = 38-47 marks. Safe pass.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "MCQ — theorist-concept pairs (Malthus, Srinivas, Herskovits, Sorokin, McIver) = 4-5 questions easily",
+          "VSA — 10 common definitions: Class, Kinship, Tribe, Urbanisation, Social change, Liberalization, Divyang, Communalism, Regionalism, Pressure group = 30 marks opportunity",
+          "SA — Green Revolution, Land reforms, Gram Panchayat, Dowry — any 2-3 of these prepared toh 12-18 marks pakke",
+          "LA — SKIP if time short, OR do one easy LA (Dowry OR Green Revolution)"
+        ],
+        "chapters_to_skip_safely": [
+          "Complex research methodology details",
+          "Advanced theorists beyond Malthus/Srinivas/Herskovits",
+          "Minor social movements"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60",
+        "target_marks": 60,
+        "strategy": "MCQ 8-9 + VSA 9-10 + SA 5-6 + LA 2 = 70+ possible.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All 40 theorists-concepts yaad karo (see masterlist)",
+          "VSA all 10 definitions master karo — 30 marks",
+          "SA — prepare: Green Revolution, Land reforms, Gram Panchayat, Women's movements, Tribal movements, Environmental movements, Unity in diversity, Indian democracy, Interview methodology, Survey methodology",
+          "LA — ALL 3 attempt with OR option used smartly. Focus on: Green Revolution, Dowry, Women's movements, Mass media"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "80 marks plus",
+        "target_marks": 80,
+        "strategy": "Full attempt all 29 questions = 100 possible.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All 15 units mastered with theorist attributions",
+          "All 50+ theorist-concept pairs",
+          "Data/years: 1828 Brahmo, 1829 Sati, 1856 Widow, 1929 Sarda, 1961 Dowry, 1991 LPG, 1992 Panchayati Raj",
+          "LA — 6 topics fully prepared (Green Revolution, Dowry, Women's, Tribal, Peasant, Industrial society)",
+          "Indian case studies — Punjab Green Revolution, Narmada Bachao, Chipko, Telangana peasant movement, Dalit Panthers"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [
+      "Challenges of Cultural Diversity (Sanskritik Vibhinnataon ki Chunautiyan) (10 marks)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "Indian Society (Class 12, Part 1)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Khand क ka pura base. 7 units — from colonialism intro to cultural diversity challenges to project methodology."
+      },
+      {
+        "name": "Social Change and Development in India (Class 12, Part 2)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Khand ख ka pura base. 8 units — from structural change to social movements."
+      },
+      {
+        "name": "UP Board Class 12 Sociology Previous Year Papers 2018-2025",
+        "author": "",
+        "publisher": "UPMSP / upboardonline.com",
+        "purpose": "Supplementary",
+        "note": "60-70% questions recur. 5-year analysis se patterns pakdo."
+      },
+      {
+        "name": "UP Board Model Paper 2025-26 (340 series)",
+        "author": "",
+        "publisher": "UPMSP",
+        "purpose": "Supplementary",
+        "note": "Exact 2026 difficulty level aur question phrasing ke liye."
+      },
+      {
+        "name": "Arihant / Navodaya / Shivdas UP Board Sociology Solved",
+        "author": "",
+        "publisher": "Multiple",
+        "purpose": "Supplementary",
+        "note": "Hindi medium model answers + theorist-concept tables. LA answer templates included."
+      },
+      {
+        "name": "IGNOU BSOE Sociology materials (supplementary)",
+        "author": "",
+        "publisher": "IGNOU",
+        "purpose": "Supplementary",
+        "note": "Deep dive into Indian sociologists (Srinivas, Ghurye, Desai) — useful for high-scorers targeting 85+."
+      },
+      {
+        "name": "Sociological Theorists Quick-Revision Chart",
+        "author": "",
+        "publisher": "Self-made / publisher",
+        "purpose": "Supplementary",
+        "note": "40+ theorist-concept pairs. Most critical for 40+ marks (MCQ+VSA combined)."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 minute reading time — likhna allowed nahi is time mein."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "roll_number_on_answer_book: True",
+      "sequence_compulsory: False",
+      "sequence_note: Sequence follow karna zaroori nahi — MCQ pehle attempt karo, phir VSA easy ones, phir SA, phir LA.",
+      "no_negative_marking: True",
+      "mcq_attempt_all: Sare 10 MCQ attempt karo — no negative. Theorist-concept pairs yaad hon toh 8-9 MCQ easily correct.",
+      "vsa_high_weight: Q11-Q20 (30 marks) — HIGHEST single weight. Definitions mein theorist ka naam zaroor include karo. E.g., 'Sanskritization — M.N. Srinivas ne prastut kiya. Ye wo prakriya hai jisme lower caste upper caste ke reeti-riwaz apnakar apna social status badhati hai.'"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['Blue', 'Black'] pencil_use: Sociology mein pencil ki zaroorat barely hoti hai. Agar flowchart/diagram banana ho (e.g., kinship chart, demographic transition curve) toh pencil OK."
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "word_limits: 25 / 50 / 150 — respect karo. Sociology UP Board mein word limit strict hai — zyada likhne se presentation down. headings_subheadings: SA mein 3-4 numbered points. LA mein 4-5 sub-headings + intro + conclusion. theorist_attribution: Hamesha concept ke saath theorist ka naam likho (e.g., 'Sanskritization — M.N. Srinivas', 'Caste as closed class — McIver aur Page'). Examiner ko dikhna chahiye. examples_in_answers: Indian context ke examples do — UP/Bihar tribal communities, Punjab Green Revolution, Narmada Bachao etc. partial_marking: True partial_marking_note: Har point separately evaluate hota hai — ek galat point se baaki cut nahi. hindi_english_mix: Technical terms English mein (Sanskritization, Westernization, Liberalization, Demography) + explanation Hindi mein — common and acceptable.",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

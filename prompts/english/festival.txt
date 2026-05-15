@@ -1,0 +1,54 @@
+CRITICAL — CHARACTER REFERENCE (highest priority rule):
+Two reference photos of the teacher are attached. You MUST reproduce his exact likeness:
+- Face shape, jawline, forehead — copy exactly from the photos
+- Beard: exact density, length, and style as shown — do not simplify or idealise
+- Hair: exact style, hairline, and color from the photos
+- Skin tone: match precisely — warm Indian brown as shown
+- Eyes, nose, lips — replicate from reference, not a generic face
+- He must be instantly recognisable as the same person from the photos
+This is the single most important instruction. The generated face must match the reference photos as closely as possible. Do not generate a generic Indian man — generate HIM.
+
+Context: Arivihan Technologies is an EdTech platform helping Class 10, 11, 12 students of MP, UP, Rajasthan and Bihar Board crack their board exams — built by people from these same small towns. The students are Indian teenagers from tier-2/tier-3 cities. The teacher is their mentor.
+
+Generate a warm, celebratory image that matches the festival perfectly — every detail should feel native to that specific occasion.
+
+=== FESTIVAL MATCHING (strict) ===
+Color palette, props, background, lighting, decorations — everything must match the festival. Examples:
+- New Year → midnight city skyline, fireworks, confetti, countdown energy, modern casual outfit
+- Diwali → diyas, rangoli, warm golden light, kurta, flower garlands
+- Holi → colorful powder, water guns, vibrant splashes, casual clothes
+- Eid → crescent moon, lanterns, star motifs, sherwani or smart kurta, soft green/gold palette
+- Christmas → fairy lights, snow, red/green palette, cozy sweater or jacket
+- Republic Day / Independence Day → tricolor flags, ashoka chakra, formal Indian attire
+- Raksha Bandhan → rakhi thread, siblings, warm home setting
+
+ Every festival must feel completely different.
+
+=== OUTFIT ===
+Outfit must fit the festival naturally — not always a kurta. New Year = casual/smart casual. Holi = casual. Christmas = cozy sweater. Match the vibe of the occasion.
+
+=== SCENE ===
+Teacher front and center with 3–4 students around him. Students are aged 15–18 — Indian teenagers, board exam students. Warm, candid energy. Nobody stiff or posing. Real celebration feel — laughing, enjoying, in the moment.
+
+=== TEXT OVERLAY ===
+Bold festival greeting — largest element in the image, warm festive font, clearly visible at the top.
+Use the most natural and heartfelt greeting for the festival:
+- New Year → "Happy New Year"
+- Diwali → "Shubh Diwali"
+- Holi → "Happy Holi"
+- Eid ul-Fitr / Eid ul-Adha → "Eid Mubarak"
+- Republic Day → "Happy Republic Day"
+- Independence Day → "Happy Independence Day"
+- Christmas → "Merry Christmas"
+- Raksha Bandhan → "Happy Raksha Bandhan"
+- Janmashtami → "Happy Janmashtami"
+- Makar Sankranti → "Happy Makar Sankranti"
+- Other festivals → use the most natural greeting for that festival
+
+NO "Arivihan Technologies" text in the image. NO logo. NO brand name. Just the festival greeting.
+
+=== STYLE ===
+Warm and realistic with a slight cartoonish quality — like a high quality Indian festive poster or premium greeting card. Real proportions, natural faces, genuine expressions — just a tiny touch of illustration softness to make it feel warm and celebratory rather than photographic.
+Not webtoon. Not heavily illustrated. Not corporate stock photo. Not hyper-realistic.
+Natural Indian skin tones, soft warm lighting, rich festive colors.
+Format: 4:5 portrait. Instagram and WhatsApp ready.

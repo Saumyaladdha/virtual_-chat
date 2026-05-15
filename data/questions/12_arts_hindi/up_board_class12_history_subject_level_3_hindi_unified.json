@@ -1,0 +1,2447 @@
+{
+  "board": "यूपी बोर्ड",
+  "class": "12",
+  "subject": "इतिहास (Itihas)",
+  "subject_code": "321",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 100,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 33,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 0,
+    "extra_time_given": false,
+    "extra_time_note": "",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 26,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "हिंदी या इंग्लिश — दोनों अलाउड। मिक्स्ड भी चलेगा। पेपर में दोनों वर्ज़न्स छपे होते हैं (हिंदी पहले, इंग्लिश उसी क्वेश्चन नंबर पर नीचे)।",
+    "all_compulsory_note": "",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "यूपी बोर्ड क्लास 12 हिस्ट्री में 6 टाइप्स: MCQ (1 मार्क), VSA (2 मार्क्स, 30 शब्द), SA (5 मार्क्स, 80 शब्द), LA (10 मार्क्स विद OR, 200-250 शब्द), हिस्टोरिकल डेट्स (1 मार्क each, 10 डेट्स), मैप (2 मार्क्स each, 5 आइटम्स)।",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (बहुविकल्पीय प्रश्न)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "सारे 10 अटेम्प्ट करो — नो नेगेटिव मार्किंग। 4 सब-टाइप्स: डायरेक्ट चॉइस, मैच द फॉलोइंग, असर्शन-रीज़न, स्टेटमेंट-बेस्ड। एलिमिनेशन मेथड यूज़ करो जब कन्फ्यूज़्ड हो।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "अति लघु उत्तरीय (Very Short Answer)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 2,
+        "total_in_paper": 5,
+        "attempt": 5,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "डेफिनिशन + 1-2 की फैक्ट्स। 3-4 लाइन्स मैक्सिमम। एग्ज़ामिनर को कीवर्ड दिखना चाहिए (डेट/नाम/घटना)।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "~30 शब्द",
+        "notes": ""
+      },
+      {
+        "type": "लघु उत्तरीय (Short Answer)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 5,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "इंट्रो लाइन + 3-4 नंबर्ड पॉइंट्स + कंक्लूज़न। 'संक्षिप्त टिप्पणी' टाइप में हेडिंग यूज़ करके 4-5 पॉइंट्स दो।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "~80 शब्द",
+        "notes": ""
+      },
+      {
+        "type": "दीर्घ उत्तरीय (Long Answer)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 10,
+        "total_in_paper": 3,
+        "attempt": 3,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "इंट्रो पैराग्राफ + 4-6 सब-हेडिंग्स विद एक्सप्लेनेशन + कंक्लूज़न। हर LA में 10 मार्क्स — हर पॉइंट का वेट ज़्यादा है। डायग्राम/स्केच मैप अगर रिलेवेंट हो तो बनाओ (हड़प्पा टाउन प्लानिंग, स्तूप स्ट्रक्चर, विजयनगर लेआउट)।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "~200 से 250 शब्द",
+        "notes": ""
+      },
+      {
+        "type": "ऐतिहासिक तिथियाँ (Historical Dates)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "ये 10 ईज़ी मार्क्स हैं अगर टाइमलाइन याद हो। NCERT पार्ट I-II-III के हर चैप्टर के एंड में टाइमलाइन दिया होता है — सब याद कर लो। 30+ इम्पोर्टेंट डेट्स रट लो।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "मानचित्र कार्य (Map Work)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 2,
+        "total_in_paper": 5,
+        "attempt": 5,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "इंडिया का ब्लैंक आउटलाइन मैप दिया जाएगा। 5 हिस्टोरिकल प्लेसेस — हड़प्पा साइट्स, बौद्ध साइट्स, सूफी दरगाह, फ्रीडम मूवमेंट लोकेशन्स, मुगल साइट्स। प्रैक्टिस से 10 मार्क्स ईज़ी।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "यूपी बोर्ड हिस्ट्री = 100 मार्क्स थ्योरी (नो प्रैक्टिकल), 26 मेन क्वेश्चन नंबर्स, 39 टोटल सब-क्वेश्चन्स, 3 घंटे 15 मिनट (15 मिनट रीडिंग)। 5 सेक्शन्स। पैटर्न 2024-2026 कंसिस्टेंट।",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "सिर्फ सेक्शन D (Q22, Q23, Q24 — तीनों LA) में 'अथवा/OR' ऑप्शन मिलता है। सेक्शन A, B, C, E सब कंपल्सरी, नो चॉइस।",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 45,
+      "medium_percent": 40,
+      "hard_percent": 15,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "खंड A — बहुविकल्पीय प्रश्न (Multiple Choice Questions)",
+        "type": "खंड A — बहुविकल्पीय प्रश्न (Multiple Choice Questions)",
+        "question_numbers": "Q1-Q10",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "N/A — सिर्फ ऑप्शन (i/ii/iii/iv या A/B/C/D) लिखना",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "B",
+        "name": "खंड B — अति लघु उत्तरीय (Very Short Answer)",
+        "type": "खंड B — अति लघु उत्तरीय (Very Short Answer)",
+        "question_numbers": "Q11-Q15",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "attempt_required": 5,
+        "marks_per_question": 2,
+        "total_marks": 10,
+        "word_limit": "~30 शब्द",
+        "breakdown": "कुछ VSA क्वेश्चन्स 1+1 में स्प्लिट होते हैं (दो पार्ट्स, प्रत्येक 1 मार्क)।",
+        "notes": "कुछ VSA क्वेश्चन्स 1+1 में स्प्लिट होते हैं (दो पार्ट्स, प्रत्येक 1 मार्क)।"
+      },
+      {
+        "section_id": "C",
+        "name": "खंड C — लघु उत्तरीय (Short Answer)",
+        "type": "खंड C — लघु उत्तरीय (Short Answer)",
+        "question_numbers": "Q16-Q21",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 5,
+        "total_marks": 30,
+        "word_limit": "~80 शब्द",
+        "breakdown": "कुछ SA 2.5+2.5 में स्प्लिट होते हैं (जैसे, सगुण-निर्गुण भक्ति नोट)।",
+        "notes": "कुछ SA 2.5+2.5 में स्प्लिट होते हैं (जैसे, सगुण-निर्गुण भक्ति नोट)।"
+      },
+      {
+        "section_id": "D",
+        "name": "खंड D — दीर्घ / विस्तृत उत्तरीय (Long Answer)",
+        "type": "खंड D — दीर्घ / विस्तृत उत्तरीय (Long Answer)",
+        "question_numbers": "Q22, Q23, Q24",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "attempt_required": 3,
+        "marks_per_question": 10,
+        "total_marks": 30,
+        "word_limit": "~200 से 250 शब्द",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "section_E",
+        "name": "खंड E — ऐतिहासिक तिथियाँ (Historical Dates) + मानचित्र कार्य (Map Work)",
+        "type": "खंड E — ऐतिहासिक तिथियाँ (Historical Dates) + मानचित्र कार्य (Map Work)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 100,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "खंड A — बहुविकल्पीय प्रश्न (Multiple Choice Questions)",
+        "question_numbers": "",
+        "type": "खंड A — बहुविकल्पीय प्रश्न (Multiple Choice Questions)",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "N/A — सिर्फ ऑप्शन (i/ii/iii/iv या A/B/C/D) लिखना",
+        "breakdown": ""
+      },
+      {
+        "section_id": "B",
+        "name": "खंड B — अति लघु उत्तरीय (Very Short Answer)",
+        "question_numbers": "",
+        "type": "खंड B — अति लघु उत्तरीय (Very Short Answer)",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 10,
+        "word_limit": "~30 शब्द",
+        "breakdown": "कुछ VSA क्वेश्चन्स 1+1 में स्प्लिट होते हैं (दो पार्ट्स, प्रत्येक 1 मार्क)।"
+      },
+      {
+        "section_id": "C",
+        "name": "खंड C — लघु उत्तरीय (Short Answer)",
+        "question_numbers": "",
+        "type": "खंड C — लघु उत्तरीय (Short Answer)",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 5,
+        "total_marks": 30,
+        "word_limit": "~80 शब्द",
+        "breakdown": "कुछ SA 2.5+2.5 में स्प्लिट होते हैं (जैसे, सगुण-निर्गुण भक्ति नोट)।"
+      },
+      {
+        "section_id": "D",
+        "name": "खंड D — दीर्घ / विस्तृत उत्तरीय (Long Answer)",
+        "question_numbers": "",
+        "type": "खंड D — दीर्घ / विस्तृत उत्तरीय (Long Answer)",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "marks_per_question": 10,
+        "total_marks": 30,
+        "word_limit": "~200 से 250 शब्द",
+        "breakdown": ""
+      },
+      {
+        "section_id": "section_E",
+        "name": "खंड E — ऐतिहासिक तिथियाँ (Historical Dates) + मानचित्र कार्य (Map Work)",
+        "question_numbers": "",
+        "type": "खंड E — ऐतिहासिक तिथियाँ (Historical Dates) + मानचित्र कार्य (Map Work)",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": ""
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 100,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "1",
+      "name": "ईंटें, मनके तथा अस्थियाँ — हड़प्पा सभ्यता",
+      "marks": 8,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "3",
+        "name": "बंधुत्व, जाति तथा वर्ग — प्रारंभिक समाज",
+        "marks": 4
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "ईंटें, मनके तथा अस्थियाँ — हड़प्पा सभ्यता",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part 1 Ancient India"
+      },
+      {
+        "chapter_id": "2",
+        "name": "राजा, किसान और नगर — प्रारंभिक राज्य और अर्थव्यवस्थाएँ",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part 1 Ancient India"
+      },
+      {
+        "chapter_id": "3",
+        "name": "बंधुत्व, जाति तथा वर्ग — प्रारंभिक समाज",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part 1 Ancient India"
+      },
+      {
+        "chapter_id": "4",
+        "name": "विचारक, विश्वास और इमारतें — सांस्कृतिक विकास (बौद्ध धर्म: साँची स्तूप)",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part 1 Ancient India"
+      },
+      {
+        "chapter_id": "5",
+        "name": "यात्रियों के नजरिये — समाज की धारणाएँ",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part 2 Medieval India"
+      },
+      {
+        "chapter_id": "6",
+        "name": "भक्ति, सूफी परम्पराएँ — धार्मिक विश्वासों में परिवर्तन",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part 2 Medieval India"
+      },
+      {
+        "chapter_id": "7",
+        "name": "एक साम्राज्य की राजधानी — विजयनगर (हम्पी)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part 2 Medieval India"
+      },
+      {
+        "chapter_id": "8",
+        "name": "किसान, जमींदार और राज्य — कृषि समाज और मुगल साम्राज्य",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part 2 Medieval India"
+      },
+      {
+        "chapter_id": "9",
+        "name": "उपनिवेशवाद और देहात — आधिकारिक अभिलेखागार",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part 3 Modern India"
+      },
+      {
+        "chapter_id": "10",
+        "name": "विद्रोही और राज — 1857 का विद्रोह और उसकी व्याख्याएँ",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part 3 Modern India"
+      },
+      {
+        "chapter_id": "11",
+        "name": "महात्मा गाँधी और राष्ट्रीय आंदोलन — सविनय अवज्ञा और उससे आगे",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part 3 Modern India"
+      },
+      {
+        "chapter_id": "12",
+        "name": "संविधान का निर्माण — एक नए युग की शुरुआत",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part 3 Modern India"
+      }
+    ],
+    "totals": {
+      "total_marks": 100,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "History Class 12 — 12 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT History — Part 1 Ancient India",
+        "category": "Part 1 Ancient India",
+        "total_marks": 26,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "ईंटें, मनके तथा अस्थियाँ — हड़प्पा सभ्यता",
+            "marks": 8,
+            "topics": [
+              "हड़प्पा सभ्यता — ओरिजिन्स, एक्सटेंट, क्रोनोलॉजी (2600-1900 BCE)",
+              "फर्स्ट सिटी — हड़प्पा की खोज की कहानी (1921, दयाराम साहनी; मोहनजोदड़ो 1922, R.D. बनर्जी)",
+              "अर्बन सेंटर्स — हड़प्पा, मोहनजोदड़ो, चन्हुदड़ो, लोथल, कालीबंगन, धोलावीरा, राखीगढ़ी",
+              "टाउन प्लानिंग — सिटाडल + लोअर टाउन, ग्रिड पैटर्न, ड्रेनेज सिस्टम (सबसे एडवांस्ड), मोहनजोदड़ो का ग्रेट बाथ, ग्रैनरी",
+              "सब्सिस्टेंस — एग्रीकल्चर, एनिमल हसबैंड्री, फिशिंग, ट्रेड",
+              "क्राफ्ट्स — बीड-मेकिंग (चन्हुदड़ो), सील-मेकिंग, पॉटरी, मेटलर्जी (ब्रॉन्ज़)",
+              "लिपि (अनडेसिफर्ड), वज़न, सील्स",
+              "सोशल डिफरेंसेस — बरियल्स, लक्ज़रीज़",
+              "अन्य सभ्यताओं से संपर्क — मेसोपोटामिया (मेलुहा)",
+              "डिक्लाइन थ्योरीज़ — क्लाइमेट चेंज, आर्यन इन्वेज़न (रिजेक्टेड), रिवर शिफ्ट्स, डीफॉरेस्टेशन",
+              "पुरातत्व — कनिंघम (ASI का प्रथम DG), जॉन मार्शल, R.E.M. व्हीलर",
+              "कालीबंगन — जुते हुए खेत के प्रमाण, अग्नि वेदिकाएँ",
+              "धोलावीरा — गुजरात, वॉटर रिज़र्वॉयर्स, फर्स्ट-डिस्कवर्ड साइनबोर्ड"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "राजा, किसान और नगर — प्रारंभिक राज्य और अर्थव्यवस्थाएँ",
+            "marks": 6,
+            "topics": [
+              "600 BCE से 600 CE तक का पॉलिटिकल और इकोनॉमिक इतिहास",
+              "महाजनपद — 16 छठी शताब्दी BCE में (मगध प्रमुख बना)",
+              "मौर्य साम्राज्य (321-185 BCE) — चंद्रगुप्त मौर्य, बिंदुसार, अशोक (268-232 BCE)",
+              "अशोक के अभिलेख — धम्म, मेजर रॉक एडिक्ट्स, पिलर एडिक्ट्स, ब्राह्मी और खरोष्ठी लिपि",
+              "जेम्स प्रिन्सेप — ब्राह्मी और खरोष्ठी को पहले डिसाइफर किया (1838)",
+              "गुप्त काल (320-550 CE) — चंद्रगुप्त I (320 CE फाउंडेड), समुद्रगुप्त (हरिषेण की प्रयाग प्रशस्ति), चंद्रगुप्त II",
+              "हरिषेण — समुद्रगुप्त का दरबारी कवि, प्रयाग प्रशस्ति की रचना",
+              "भूमि अनुदान — कॉपर प्लेट इंस्क्रिप्शन्स (ताम्र-पत्र)",
+              "कृषि समाज — टैक्सेस, क्रॉप्स, ट्रेड",
+              "कॉइनेज — पंच-मार्क्ड कॉइन्स, गुप्त गोल्ड कॉइन्स (दीनार)",
+              "अर्बन सेंटर्स — पाटलिपुत्र, उज्जैन, मथुरा",
+              "स्रोत — अभिलेख, कॉइन्स, अर्थशास्त्र, इंडिका (मेगस्थनीज़), मुद्राराक्षस (विशाखदत्त), मृच्छकटिकम (शूद्रक)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "बंधुत्व, जाति तथा वर्ग — प्रारंभिक समाज",
+            "marks": 4,
+            "topics": [
+              "महाभारत स्रोत के रूप में — V.S. सुक्थंकर द्वारा क्रिटिकल एडिशन (1919-66, 47 वर्ष)",
+              "वेद व्यास — महाभारत के रचयिता",
+              "बंधुत्व — पितृवंशीयता vs मातृवंशीयता, गोत्र नियम, विवाह (8 रूप)",
+              "जाति (वर्ण-जाति) — 4 वर्ण (ब्राह्मण, क्षत्रिय, वैश्य, शूद्र), पुरुष सूक्त से उत्पत्ति मिथक",
+              "4 वर्णों के परे — अछूत, वन निवासी, शिकारी",
+              "महिलाएँ — गांधारी, द्रौपदी, कुंती — एजेंसी और प्रतिबंध",
+              "राजवंश — कुरु, पांचाल, पांडव",
+              "मनुस्मृति धर्म-शास्त्र स्रोत के रूप में",
+              "महाभारत में संस्कृत vs प्राकृत"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "विचारक, विश्वास और इमारतें — सांस्कृतिक विकास (बौद्ध धर्म: साँची स्तूप)",
+            "marks": 8,
+            "topics": [
+              "यज्ञ धर्म — वैदिक धर्म (ऋग्वेद, यज्ञ)",
+              "छठी शताब्दी BCE — उथल-पुथल; हेटरोडॉक्स सेक्ट्स का उदय",
+              "बौद्ध धर्म — गौतम बुद्ध (जन्म 563 BCE लुंबिनी, ज्ञान बोधगया, प्रथम उपदेश सारनाथ, महापरिनिर्वाण कुशीनगर)",
+              "4 आर्य सत्य, 8-फोल्ड पाथ, त्रिपिटक (विनय, सुत्त, अभिधम्म), संघ",
+              "जैन धर्म — महावीर (24वें तीर्थंकर), 5 महाव्रत (अहिंसा, सत्य, अस्तेय, ब्रह्मचर्य, अपरिग्रह)",
+              "वैष्णव और शैव धर्म (संक्षिप्त)",
+              "साँची स्तूप — 1818 में खोजा गया, अशोक द्वारा निर्मित, तोरण गेटवेज़, बुद्ध को सांकेतिक रूप से दर्शाने वाली मूर्तिकला (पदचिह्न, चक्र, खाली सिंहासन, बोधि वृक्ष) — शुरुआत में कोई मानव रूप नहीं",
+              "अमरावती स्तूप (नष्ट), भरहुत स्तूप",
+              "स्तूप स्थापत्य — अंड (गुंबद), हर्मिका, यष्टि, छत्र",
+              "भाजा गुफाएँ, कार्ले गुफाएँ — रॉक-कट आर्किटेक्चर",
+              "शाहजहाँ की बेगम शाहजहाँ बेगम ऑफ भोपाल ने साँची को संरक्षित करने में मदद की"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT History — Part 2 Medieval India",
+        "category": "Part 2 Medieval India",
+        "total_marks": 22,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "5",
+            "name": "यात्रियों के नजरिये — समाज की धारणाएँ",
+            "marks": 6,
+            "topics": [
+              "अल-बिरूनी (11वीं शताब्दी, उज़्बेक, महमूद गजनवी के साथ 1017 में आया) — अरबी में 'किताब-उल-हिंद' लिखी; संस्कृत कृतियों का अरबी में अनुवाद किया",
+              "इब्न बतूता (14वीं शताब्दी, मोरक्कन, मोहम्मद बिन तुगलक के शासनकाल में 1333 में भारत आया) — अरबी में 'रिहला'; शहरों, भारतीय डाक प्रणाली, नारियल/पान/दासों का वर्णन किया",
+              "फ्रांसिस्को बर्नियर (17वीं शताब्दी, फ्रेंच फिज़िशियन, औरंगज़ेब के शासन में 1656-68 में आया) — फ्रेंच में 'ट्रैवल्स इन द मुगल एम्पायर'; मुगल राज्य का आलोचक, भारत की यूरोप से तुलना, ओरिएंटल डेस्पॉटिज़्म का कॉन्सेप्ट",
+              "अब्दुर रज़्ज़ाक — विजयनगर आया (मेन ट्रैवलर्स लिस्ट में नहीं पर कॉन्टेक्स्ट में)",
+              "अन्य यात्री — मार्को पोलो, डोमिंगो पेस"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "भक्ति, सूफी परम्पराएँ — धार्मिक विश्वासों में परिवर्तन",
+            "marks": 6,
+            "topics": [
+              "भक्ति आंदोलन — व्यक्तिगत ईश्वर के प्रति भक्ति, जाति/अनुष्ठान का त्याग",
+              "अलवार (वैष्णव — विष्णु भक्त, तमिलनाडु, 6-9वीं शताब्दी) — 12 संत जिनमें आंडाल (महिला), नम्मालवार शामिल",
+              "नयनार (शैव — शिव भक्त, तमिलनाडु) — 63 संत",
+              "सगुण भक्ति (सरूप) — तुलसीदास (रामचरितमानस), सूरदास (कृष्ण), मीराबाई (कृष्ण)",
+              "निर्गुण भक्ति (निराकार) — कबीर, गुरु नानक",
+              "सिख धर्म — गुरु नानक (संस्थापक), गुरु गोविंद सिंह ने खालसा पंथ की स्थापना की (1699)",
+              "सूफीवाद — इस्लामिक रहस्यवाद; सिलसिले (चिश्ती, सुहरावर्दी, कादरी, नक्शबंदी)",
+              "चिश्ती ऑर्डर — शेख मोइनुद्दीन चिश्ती (अजमेर), शेख निज़ामुद्दीन औलिया (दिल्ली)",
+              "सूफी कॉन्सेप्ट्स — तरीक़ा (पथ), समा (भक्ति संगीत), खानकाह",
+              "सूफी और भक्ति समानताएँ — प्रेम, भक्ति, रूढ़िवादिता को चुनौती"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "एक साम्राज्य की राजधानी — विजयनगर (हम्पी)",
+            "marks": 4,
+            "topics": [
+              "विजयनगर साम्राज्य (1336-1565) — तुंगभद्रा के किनारे हरिहर और बुक्का द्वारा स्थापित",
+              "संगम, सालुव, तुलुव (कृष्णदेव राय 1509-29 महानतम), अराविडु राजवंश",
+              "तालीकोटा का युद्ध (1565) — पतन",
+              "राजधानी हम्पी — UNESCO विश्व धरोहर",
+              "खोज — कर्नल कॉलिन मैकेंज़ी (1800)",
+              "स्थापत्य — विरूपाक्ष मंदिर, विठ्ठल मंदिर (संगीत स्तंभ), लोटस महल, एलिफैंट स्टेबल्स, रामचंद्र मंदिर (रॉयल टेंपल)",
+              "जल कार्य — हिरिया नहर, कमलापुरम टैंक, बावड़ी, तुंगभद्रा नदी का उपयोग",
+              "प्रशासनिक व्यवस्था — नायक प्रणाली, अमर-नायक (मिलिट्री चीफ्स)",
+              "व्यापार — गोवा में पुर्तगालियों के साथ लंबी दूरी (1510 से आगे)",
+              "स्रोत — डोमिंगो पेस, फर्नाओ नूनिज़, अब्दुर रज़्ज़ाक के विवरण"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "किसान, जमींदार और राज्य — कृषि समाज और मुगल साम्राज्य",
+            "marks": 6,
+            "topics": [
+              "आईन-ए-अकबरी — अबुल फज़ल द्वारा रचित (1590s), अकबरनामा का हिस्सा; प्रशासन का विस्तृत विवरण",
+              "अबुल फज़ल — अकबर का दरबारी इतिहासकार; अकबरनामा 3 खंडों में (आईन तीसरा खंड है)",
+              "कृषि समाज 16-17वीं शताब्दी — जिंस-ए-कामिल (नकदी फसलें), किसान (रैयत, खुद-काश्त, पाही-काश्त)",
+              "भू-राजस्व — टोडरमल की व्यवस्था (ज़ब्ती प्रणाली)",
+              "मनसबदारी प्रणाली — ज़ात (व्यक्तिगत रैंक) + सवार (कैवलरी रैंक), जागीर के रूप में वेतन",
+              "जमींदार — मध्यस्थ, राजस्व एकत्रित करते थे",
+              "कृषि समाज में महिलाएँ",
+              "वन और जनजातियाँ — जंगली क्षेत्र",
+              "व्यापार — हुंडी, सर्राफ (बैंकर), हिंद महासागर व्यापार",
+              "ताजमहल — शाहजहाँ द्वारा निर्मित (1631-53) मुमताज़ महल के लिए आगरा में"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT History — Part 3 Modern India",
+        "category": "Part 3 Modern India",
+        "total_marks": 22,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "9",
+            "name": "उपनिवेशवाद और देहात — आधिकारिक अभिलेखागार",
+            "marks": 6,
+            "topics": [
+              "18वीं शताब्दी का उत्तरार्ध — EIC का उदय, प्लासी का युद्ध (1757), बक्सर का युद्ध (1764)",
+              "राजस्व व्यवस्थाएँ — स्थायी बंदोबस्त (बंगाल, 1793, लॉर्ड कॉर्नवालिस) — ज़मींदार भूस्वामी बने",
+              "सूर्यास्त विधि — अगर ज़मींदार निर्धारित तिथि के सूर्यास्त तक राजस्व नहीं देता, तो संपत्ति नीलाम",
+              "रैयतवाड़ी व्यवस्था (मद्रास, बॉम्बे) — थॉमस मुनरो; रैयत के साथ सीधी बंदोबस्त",
+              "महालवाड़ी व्यवस्था (NW प्रांत, पंजाब) — R.M. बर्ड, होल्ट मैकेंज़ी",
+              "सब्सिडियरी एलायंस — लॉर्ड वेलेज़ली (1798)",
+              "डॉक्ट्रिन ऑफ लैप्स — लॉर्ड डलहौजी",
+              "संथाल विद्रोह (1855-56) — सिद्धू, कान्हू, चांद, भैरव; दामिन-इ-कोह का निर्माण",
+              "नील विद्रोह — बंगाल 1859-60, रैयत vs ब्रिटिश प्लांटर्स",
+              "डेक्कन दंगे — 1875, किसान vs साहूकार",
+              "फ्रांसिस बुकानन — सर्वेयर, भारतीय देहात पर रिपोर्ट्स",
+              "डेक्कन रायट्स रिपोर्ट (1878), फिफ्थ रिपोर्ट (1813)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "विद्रोही और राज — 1857 का विद्रोह और उसकी व्याख्याएँ",
+            "marks": 4,
+            "topics": [
+              "1857 विद्रोह (सिपाही विद्रोह / प्रथम स्वतंत्रता संग्राम) — 10 मई 1857 को मेरठ में शुरू",
+              "कारण — आर्थिक (राजस्व शोषण), राजनीतिक (डॉक्ट्रिन ऑफ लैप्स), धार्मिक (कारतूस इश्यू — गाय/सूअर चर्बी), सामाजिक",
+              "प्रमुख नेता और केंद्र:",
+              "  दिल्ली — बहादुर शाह ज़फ़र (प्रतीकात्मक)",
+              "  कानपुर — नाना साहेब, तात्या टोपे",
+              "  लखनऊ — बेगम हज़रत महल, बिरजिस कद्र",
+              "  झाँसी — रानी लक्ष्मीबाई",
+              "  बिहार — कुँवर सिंह",
+              "  फैज़ाबाद — मौलवी अहमदुल्लाह शाह",
+              "NCERT में लखनऊ पर फोकस",
+              "दृश्य प्रतिनिधित्व — ब्रिटिश चित्र (जैसे 'रिलीफ ऑफ लखनऊ'), भारतीय राष्ट्रवादी पुनर्व्याख्या",
+              "दमन — ब्रिटिश क्रूरता, दिल्ली, लखनऊ की घेराबंदी",
+              "परिणाम — EIC समाप्त (1858), सीधा क्राउन शासन, महारानी विक्टोरिया की घोषणा",
+              "V.D. सावरकर की पुस्तक 'द इंडियन वॉर ऑफ इंडिपेंडेंस, 1857' (1909) — इसे प्रथम स्वतंत्रता संग्राम कहा"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "महात्मा गाँधी और राष्ट्रीय आंदोलन — सविनय अवज्ञा और उससे आगे",
+            "marks": 8,
+            "topics": [
+              "गांधी की दक्षिण अफ्रीका से वापसी (1915)",
+              "प्रारंभिक सत्याग्रह: चंपारण (1917, नील), खेड़ा (1918, राजस्व), अहमदाबाद मिल हड़ताल (1918)",
+              "रौलट सत्याग्रह (1919), जलियाँवाला बाग हत्याकांड (13 अप्रैल 1919, अमृतसर)",
+              "खिलाफत-असहयोग आंदोलन (1920-22) — नेता: अली बंधु (शौकत + मोहम्मद); चौरी चौरा (फरवरी 1922) के बाद वापस लिया गया",
+              "सविनय अवज्ञा आंदोलन (1930-34) — दांडी मार्च (12 मार्च-6 अप्रैल 1930, नमक सत्याग्रह)",
+              "गांधी-इरविन समझौता (मार्च 1931)",
+              "द्वितीय गोलमेज सम्मेलन (1931, लंदन)",
+              "भारत छोड़ो आंदोलन (अगस्त 1942) — 'करो या मरो'; भारत छोड़ो",
+              "सुभाष चंद्र बोस — INA, गांधी को पहले 'राष्ट्रपिता' कहा (1944 रेडियो)",
+              "समाचार पत्र ऐतिहासिक स्रोत के रूप में — द हिंदू, अमृत बाज़ार पत्रिका, यंग इंडिया, हरिजन",
+              "1931 NCERT में फोकल वर्ष"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "संविधान का निर्माण — एक नए युग की शुरुआत",
+            "marks": 4,
+            "topics": [
+              "संविधान सभा गठित — पहली बैठक 9 दिसंबर 1946; डॉ. सच्चिदानंद सिन्हा (अस्थायी अध्यक्ष), फिर डॉ. राजेंद्र प्रसाद (स्थायी)",
+              "उद्देश्य प्रस्ताव — जवाहरलाल नेहरू द्वारा प्रस्तुत (13 दिसंबर 1946), 22 जनवरी 1947 को अपनाया गया",
+              "प्रारूप समिति — डॉ. B.R. अंबेडकर की अध्यक्षता में (अगस्त 1947)",
+              "संविधान अपनाया — 26 नवंबर 1949, लागू हुआ 26 जनवरी 1950",
+              "प्रमुख समितियाँ — संघ शक्तियाँ (नेहरू), प्रांतीय (पटेल), प्रारूप (अंबेडकर), मौलिक अधिकार",
+              "महिला सदस्य — 15 जिनमें सरोजिनी नायडू, विजया लक्ष्मी पंडित, राजकुमारी अमृत कौर, सुचेता कृपलानी, हंसा मेहता, दुर्गाबाई देशमुख, बेगम एज़ाज़ रसूल, दक्षायणी वेलायुधन (1st दलित महिला)",
+              "प्रमुख बहस — राष्ट्रभाषा (हिंदी vs हिंदुस्तानी vs इंग्लिश), संघवाद, अल्पसंख्यक अधिकार, वयस्क मताधिकार",
+              "प्रस्तावना — 'संविधान की आत्मा' (K.M. मुंशी का वाक्यांश); कभी-कभी मौलिक अधिकार को भी आत्मा कहा जाता है",
+              "विशेषताएँ — संप्रभुता, लोकतंत्र, धर्मनिरपेक्षता, मौलिक अधिकार, DPSP, संसदीय प्रणाली, एकात्मक झुकाव वाला संघीय, स्वतंत्र न्यायपालिका"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "ईंटें, मनके तथा अस्थियाँ — हड़प्पा सभ्यता",
+      "unit_or_chapter": "chapter",
+      "book": "थीम्स इन इंडियन हिस्ट्री — पार्ट I",
+      "unit_id": 1,
+      "unit_name": "Part 1 Ancient India",
+      "part": "Part 1 Ancient India",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "हड़प्पा सभ्यता — ओरिजिन्स, एक्सटेंट, क्रोनोलॉजी (2600-1900 BCE)",
+        "फर्स्ट सिटी — हड़प्पा की खोज की कहानी (1921, दयाराम साहनी; मोहनजोदड़ो 1922, R.D. बनर्जी)",
+        "अर्बन सेंटर्स — हड़प्पा, मोहनजोदड़ो, चन्हुदड़ो, लोथल, कालीबंगन, धोलावीरा, राखीगढ़ी",
+        "टाउन प्लानिंग — सिटाडल + लोअर टाउन, ग्रिड पैटर्न, ड्रेनेज सिस्टम (सबसे एडवांस्ड), मोहनजोदड़ो का ग्रेट बाथ, ग्रैनरी",
+        "सब्सिस्टेंस — एग्रीकल्चर, एनिमल हसबैंड्री, फिशिंग, ट्रेड",
+        "क्राफ्ट्स — बीड-मेकिंग (चन्हुदड़ो), सील-मेकिंग, पॉटरी, मेटलर्जी (ब्रॉन्ज़)",
+        "लिपि (अनडेसिफर्ड), वज़न, सील्स",
+        "सोशल डिफरेंसेस — बरियल्स, लक्ज़रीज़",
+        "अन्य सभ्यताओं से संपर्क — मेसोपोटामिया (मेलुहा)",
+        "डिक्लाइन थ्योरीज़ — क्लाइमेट चेंज, आर्यन इन्वेज़न (रिजेक्टेड), रिवर शिफ्ट्स, डीफॉरेस्टेशन",
+        "पुरातत्व — कनिंघम (ASI का प्रथम DG), जॉन मार्शल, R.E.M. व्हीलर",
+        "कालीबंगन — जुते हुए खेत के प्रमाण, अग्नि वेदिकाएँ",
+        "धोलावीरा — गुजरात, वॉटर रिज़र्वॉयर्स, फर्स्ट-डिस्कवर्ड साइनबोर्ड"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "MCQ मैच-द-फॉलोइंग हड़प्पा साइट्स (2026)। IVC सेंटर्स VSA (2024, 2026)। ASI फर्स्ट DG कनिंघम MCQ (2024, 2025)। जुता हुआ खेत कालीबंगन MAP (2024)। हड़प्पा MAP (2026 — 1st साइट फाउंड)। टाउन प्लानिंग LA (2026)। ड्रेनेज सिस्टम LA (2025)। डिक्लाइन रीज़न्स SA (2026)। IVC कैरेक्टरिस्टिक्स SA (2025)। स्तूप-साइज़्ड इम्पोर्टेंस।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "राजा, किसान और नगर — प्रारंभिक राज्य और अर्थव्यवस्थाएँ",
+      "unit_or_chapter": "chapter",
+      "book": "थीम्स इन इंडियन हिस्ट्री — पार्ट I",
+      "unit_id": 2,
+      "unit_name": "Part 1 Ancient India",
+      "part": "Part 1 Ancient India",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "600 BCE से 600 CE तक का पॉलिटिकल और इकोनॉमिक इतिहास",
+        "महाजनपद — 16 छठी शताब्दी BCE में (मगध प्रमुख बना)",
+        "मौर्य साम्राज्य (321-185 BCE) — चंद्रगुप्त मौर्य, बिंदुसार, अशोक (268-232 BCE)",
+        "अशोक के अभिलेख — धम्म, मेजर रॉक एडिक्ट्स, पिलर एडिक्ट्स, ब्राह्मी और खरोष्ठी लिपि",
+        "जेम्स प्रिन्सेप — ब्राह्मी और खरोष्ठी को पहले डिसाइफर किया (1838)",
+        "गुप्त काल (320-550 CE) — चंद्रगुप्त I (320 CE फाउंडेड), समुद्रगुप्त (हरिषेण की प्रयाग प्रशस्ति), चंद्रगुप्त II",
+        "हरिषेण — समुद्रगुप्त का दरबारी कवि, प्रयाग प्रशस्ति की रचना",
+        "भूमि अनुदान — कॉपर प्लेट इंस्क्रिप्शन्स (ताम्र-पत्र)",
+        "कृषि समाज — टैक्सेस, क्रॉप्स, ट्रेड",
+        "कॉइनेज — पंच-मार्क्ड कॉइन्स, गुप्त गोल्ड कॉइन्स (दीनार)",
+        "अर्बन सेंटर्स — पाटलिपुत्र, उज्जैन, मथुरा",
+        "स्रोत — अभिलेख, कॉइन्स, अर्थशास्त्र, इंडिका (मेगस्थनीज़), मुद्राराक्षस (विशाखदत्त), मृच्छकटिकम (शूद्रक)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "महाजनपद संख्या (16) VSA (2026)। हरिषेण MCQ (2024)। अभिलेख डिफाइन VSA (2024)। अशोक इंस्क्रिप्शन्स फर्स्ट रीडर MCQ (2025 — जेम्स प्रिन्सेप)। मौर्य स्रोत SA (2024)। मौर्य प्रशासन LA (2024)। मृच्छकटिकम ऑथर MCQ (2026 — शूद्रक)। जनपद मीनिंग MCQ (2026)। 320 AD (गुप्त फाउंडिंग) कॉमन डेट।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "बंधुत्व, जाति तथा वर्ग — प्रारंभिक समाज",
+      "unit_or_chapter": "chapter",
+      "book": "थीम्स इन इंडियन हिस्ट्री — पार्ट I",
+      "unit_id": 3,
+      "unit_name": "Part 1 Ancient India",
+      "part": "Part 1 Ancient India",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "महाभारत स्रोत के रूप में — V.S. सुक्थंकर द्वारा क्रिटिकल एडिशन (1919-66, 47 वर्ष)",
+        "वेद व्यास — महाभारत के रचयिता",
+        "बंधुत्व — पितृवंशीयता vs मातृवंशीयता, गोत्र नियम, विवाह (8 रूप)",
+        "जाति (वर्ण-जाति) — 4 वर्ण (ब्राह्मण, क्षत्रिय, वैश्य, शूद्र), पुरुष सूक्त से उत्पत्ति मिथक",
+        "4 वर्णों के परे — अछूत, वन निवासी, शिकारी",
+        "महिलाएँ — गांधारी, द्रौपदी, कुंती — एजेंसी और प्रतिबंध",
+        "राजवंश — कुरु, पांचाल, पांडव",
+        "मनुस्मृति धर्म-शास्त्र स्रोत के रूप में",
+        "महाभारत में संस्कृत vs प्राकृत"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "महाभारत रचयिता MCQ (2025 — वेद व्यास)। आमतौर पर थीम 3 मॉडरेट वेटेज। महाभारत फीचर्स के बारे में VSA पॉसिबल।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "विचारक, विश्वास और इमारतें — सांस्कृतिक विकास (बौद्ध धर्म: साँची स्तूप)",
+      "unit_or_chapter": "chapter",
+      "book": "थीम्स इन इंडियन हिस्ट्री — पार्ट I",
+      "unit_id": 4,
+      "unit_name": "Part 1 Ancient India",
+      "part": "Part 1 Ancient India",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम-हार्ड",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "यज्ञ धर्म — वैदिक धर्म (ऋग्वेद, यज्ञ)",
+        "छठी शताब्दी BCE — उथल-पुथल; हेटरोडॉक्स सेक्ट्स का उदय",
+        "बौद्ध धर्म — गौतम बुद्ध (जन्म 563 BCE लुंबिनी, ज्ञान बोधगया, प्रथम उपदेश सारनाथ, महापरिनिर्वाण कुशीनगर)",
+        "4 आर्य सत्य, 8-फोल्ड पाथ, त्रिपिटक (विनय, सुत्त, अभिधम्म), संघ",
+        "जैन धर्म — महावीर (24वें तीर्थंकर), 5 महाव्रत (अहिंसा, सत्य, अस्तेय, ब्रह्मचर्य, अपरिग्रह)",
+        "वैष्णव और शैव धर्म (संक्षिप्त)",
+        "साँची स्तूप — 1818 में खोजा गया, अशोक द्वारा निर्मित, तोरण गेटवेज़, बुद्ध को सांकेतिक रूप से दर्शाने वाली मूर्तिकला (पदचिह्न, चक्र, खाली सिंहासन, बोधि वृक्ष) — शुरुआत में कोई मानव रूप नहीं",
+        "अमरावती स्तूप (नष्ट), भरहुत स्तूप",
+        "स्तूप स्थापत्य — अंड (गुंबद), हर्मिका, यष्टि, छत्र",
+        "भाजा गुफाएँ, कार्ले गुफाएँ — रॉक-कट आर्किटेक्चर",
+        "शाहजहाँ की बेगम शाहजहाँ बेगम ऑफ भोपाल ने साँची को संरक्षित करने में मदद की"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "साँची स्तूप धर्म MCQ (2026 — बौद्ध धर्म)। साँची स्तूप नोट SA (2026)। स्तूप मीनिंग SA (2025)। स्तूप क्यों/कैसे बनाए गए LA (2024)। जैन पंच महाव्रत SA (2024)। जैन शिक्षाएँ LA (2025)। वैदिक जीवन LA (2026)। लुंबिनी MAP (2024, 2026 — बुद्ध जन्म)। बोधगया MAP (2025 — बुद्ध ज्ञान)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "यात्रियों के नजरिये — समाज की धारणाएँ",
+      "unit_or_chapter": "chapter",
+      "book": "थीम्स इन इंडियन हिस्ट्री — पार्ट II",
+      "unit_id": 5,
+      "unit_name": "Part 2 Medieval India",
+      "part": "Part 2 Medieval India",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "अल-बिरूनी (11वीं शताब्दी, उज़्बेक, महमूद गजनवी के साथ 1017 में आया) — अरबी में 'किताब-उल-हिंद' लिखी; संस्कृत कृतियों का अरबी में अनुवाद किया",
+        "इब्न बतूता (14वीं शताब्दी, मोरक्कन, मोहम्मद बिन तुगलक के शासनकाल में 1333 में भारत आया) — अरबी में 'रिहला'; शहरों, भारतीय डाक प्रणाली, नारियल/पान/दासों का वर्णन किया",
+        "फ्रांसिस्को बर्नियर (17वीं शताब्दी, फ्रेंच फिज़िशियन, औरंगज़ेब के शासन में 1656-68 में आया) — फ्रेंच में 'ट्रैवल्स इन द मुगल एम्पायर'; मुगल राज्य का आलोचक, भारत की यूरोप से तुलना, ओरिएंटल डेस्पॉटिज़्म का कॉन्सेप्ट",
+        "अब्दुर रज़्ज़ाक — विजयनगर आया (मेन ट्रैवलर्स लिस्ट में नहीं पर कॉन्टेक्स्ट में)",
+        "अन्य यात्री — मार्को पोलो, डोमिंगो पेस"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "किताब-उल-हिंद ऑथर MCQ (2024, 2026 — अल-बिरूनी)। अल-बिरूनी महत्व LA (2025)। बर्नियर कंट्री MCQ (2024 — फ्रांस)। इब्न बतूता अराइवल ईयर/रूलर VSA (2026 — 1333, मोहम्मद बिन तुगलक)। रिहला लैंग्वेज VSA (2024 — अरबी)। यात्रियों के विवरण स्रोत के रूप में।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "भक्ति, सूफी परम्पराएँ — धार्मिक विश्वासों में परिवर्तन",
+      "unit_or_chapter": "chapter",
+      "book": "थीम्स इन इंडियन हिस्ट्री — पार्ट II",
+      "unit_id": 6,
+      "unit_name": "Part 2 Medieval India",
+      "part": "Part 2 Medieval India",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "भक्ति आंदोलन — व्यक्तिगत ईश्वर के प्रति भक्ति, जाति/अनुष्ठान का त्याग",
+        "अलवार (वैष्णव — विष्णु भक्त, तमिलनाडु, 6-9वीं शताब्दी) — 12 संत जिनमें आंडाल (महिला), नम्मालवार शामिल",
+        "नयनार (शैव — शिव भक्त, तमिलनाडु) — 63 संत",
+        "सगुण भक्ति (सरूप) — तुलसीदास (रामचरितमानस), सूरदास (कृष्ण), मीराबाई (कृष्ण)",
+        "निर्गुण भक्ति (निराकार) — कबीर, गुरु नानक",
+        "सिख धर्म — गुरु नानक (संस्थापक), गुरु गोविंद सिंह ने खालसा पंथ की स्थापना की (1699)",
+        "सूफीवाद — इस्लामिक रहस्यवाद; सिलसिले (चिश्ती, सुहरावर्दी, कादरी, नक्शबंदी)",
+        "चिश्ती ऑर्डर — शेख मोइनुद्दीन चिश्ती (अजमेर), शेख निज़ामुद्दीन औलिया (दिल्ली)",
+        "सूफी कॉन्सेप्ट्स — तरीक़ा (पथ), समा (भक्ति संगीत), खानकाह",
+        "सूफी और भक्ति समानताएँ — प्रेम, भक्ति, रूढ़िवादिता को चुनौती"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "अलवार भक्त MCQ (2024 — विष्णु)। नयनार MCQ (2026 — शैव)। खालसा पंथ संस्थापक MCQ (2025 — गुरु गोविंद सिंह)। मीराबाई SA (2024)। आंडाल VSA (2025)। सगुण-निर्गुण भक्ति SA (2026)। अलवार-नयनार तमिलनाडु LA (2026, 2025)। सूफीवाद बेसिक्स LA (2024)। भक्ति आंदोलन फीचर्स LA (2024, 2025)। निज़ामुद्दीन दरगाह MAP (2024)।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "एक साम्राज्य की राजधानी — विजयनगर (हम्पी)",
+      "unit_or_chapter": "chapter",
+      "book": "थीम्स इन इंडियन हिस्ट्री — पार्ट II",
+      "unit_id": 7,
+      "unit_name": "Part 2 Medieval India",
+      "part": "Part 2 Medieval India",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "विजयनगर साम्राज्य (1336-1565) — तुंगभद्रा के किनारे हरिहर और बुक्का द्वारा स्थापित",
+        "संगम, सालुव, तुलुव (कृष्णदेव राय 1509-29 महानतम), अराविडु राजवंश",
+        "तालीकोटा का युद्ध (1565) — पतन",
+        "राजधानी हम्पी — UNESCO विश्व धरोहर",
+        "खोज — कर्नल कॉलिन मैकेंज़ी (1800)",
+        "स्थापत्य — विरूपाक्ष मंदिर, विठ्ठल मंदिर (संगीत स्तंभ), लोटस महल, एलिफैंट स्टेबल्स, रामचंद्र मंदिर (रॉयल टेंपल)",
+        "जल कार्य — हिरिया नहर, कमलापुरम टैंक, बावड़ी, तुंगभद्रा नदी का उपयोग",
+        "प्रशासनिक व्यवस्था — नायक प्रणाली, अमर-नायक (मिलिट्री चीफ्स)",
+        "व्यापार — गोवा में पुर्तगालियों के साथ लंबी दूरी (1510 से आगे)",
+        "स्रोत — डोमिंगो पेस, फर्नाओ नूनिज़, अब्दुर रज़्ज़ाक के विवरण"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "विजयनगर राजधानी VSA (2026 — हम्पी)। विजयनगर स्थापना VSA (2024 — हरिहर-बुक्का 1336)। विजयनगर जल आवश्यकताएँ SA (2024, 2025)। विजयनगर प्रशासन + जल LA (2026)। 1336 AD कॉमन डेट। 1510 AD पुर्तगाली गोवा कॉमन डेट।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "किसान, जमींदार और राज्य — कृषि समाज और मुगल साम्राज्य",
+      "unit_or_chapter": "chapter",
+      "book": "थीम्स इन इंडियन हिस्ट्री — पार्ट II",
+      "unit_id": 8,
+      "unit_name": "Part 2 Medieval India",
+      "part": "Part 2 Medieval India",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम-हार्ड",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "आईन-ए-अकबरी — अबुल फज़ल द्वारा रचित (1590s), अकबरनामा का हिस्सा; प्रशासन का विस्तृत विवरण",
+        "अबुल फज़ल — अकबर का दरबारी इतिहासकार; अकबरनामा 3 खंडों में (आईन तीसरा खंड है)",
+        "कृषि समाज 16-17वीं शताब्दी — जिंस-ए-कामिल (नकदी फसलें), किसान (रैयत, खुद-काश्त, पाही-काश्त)",
+        "भू-राजस्व — टोडरमल की व्यवस्था (ज़ब्ती प्रणाली)",
+        "मनसबदारी प्रणाली — ज़ात (व्यक्तिगत रैंक) + सवार (कैवलरी रैंक), जागीर के रूप में वेतन",
+        "जमींदार — मध्यस्थ, राजस्व एकत्रित करते थे",
+        "कृषि समाज में महिलाएँ",
+        "वन और जनजातियाँ — जंगली क्षेत्र",
+        "व्यापार — हुंडी, सर्राफ (बैंकर), हिंद महासागर व्यापार",
+        "ताजमहल — शाहजहाँ द्वारा निर्मित (1631-53) मुमताज़ महल के लिए आगरा में"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "आईन-ए-अकबरी ऑथर MCQ (2024 — अबुल फज़ल)। मनसबदारी प्रणाली SA (2026)। ताजमहल लोकेशन MAP (2025 — आगरा)। 1605 AD (अकबर की मृत्यु/जहाँगीर) कॉमन डेट।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "उपनिवेशवाद और देहात — आधिकारिक अभिलेखागार",
+      "unit_or_chapter": "chapter",
+      "book": "थीम्स इन इंडियन हिस्ट्री — पार्ट III",
+      "unit_id": 9,
+      "unit_name": "Part 3 Modern India",
+      "part": "Part 3 Modern India",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "हार्ड",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "18वीं शताब्दी का उत्तरार्ध — EIC का उदय, प्लासी का युद्ध (1757), बक्सर का युद्ध (1764)",
+        "राजस्व व्यवस्थाएँ — स्थायी बंदोबस्त (बंगाल, 1793, लॉर्ड कॉर्नवालिस) — ज़मींदार भूस्वामी बने",
+        "सूर्यास्त विधि — अगर ज़मींदार निर्धारित तिथि के सूर्यास्त तक राजस्व नहीं देता, तो संपत्ति नीलाम",
+        "रैयतवाड़ी व्यवस्था (मद्रास, बॉम्बे) — थॉमस मुनरो; रैयत के साथ सीधी बंदोबस्त",
+        "महालवाड़ी व्यवस्था (NW प्रांत, पंजाब) — R.M. बर्ड, होल्ट मैकेंज़ी",
+        "सब्सिडियरी एलायंस — लॉर्ड वेलेज़ली (1798)",
+        "डॉक्ट्रिन ऑफ लैप्स — लॉर्ड डलहौजी",
+        "संथाल विद्रोह (1855-56) — सिद्धू, कान्हू, चांद, भैरव; दामिन-इ-कोह का निर्माण",
+        "नील विद्रोह — बंगाल 1859-60, रैयत vs ब्रिटिश प्लांटर्स",
+        "डेक्कन दंगे — 1875, किसान vs साहूकार",
+        "फ्रांसिस बुकानन — सर्वेयर, भारतीय देहात पर रिपोर्ट्स",
+        "डेक्कन रायट्स रिपोर्ट (1878), फिफ्थ रिपोर्ट (1813)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "सब्सिडियरी एलायंस MCQ (2024 — वेलेज़ली)। स्थायी बंदोबस्त वर्ष MCQ (2024, 2025 — 1793)। संथाल लीडर्स MCQ (2025 — सिद्धू-कान्हू)। फ्रांसिस बुकानन VSA (2024)। सूर्यास्त विधि SA (2025)। बुकानन का सर्वेक्षण मूल्य SA (2025)। संथाल विद्रोह LA (2025)। 1793 AD, 1855, 1875 कॉमन डेट्स।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "विद्रोही और राज — 1857 का विद्रोह और उसकी व्याख्याएँ",
+      "unit_or_chapter": "chapter",
+      "book": "थीम्स इन इंडियन हिस्ट्री — पार्ट III",
+      "unit_id": 10,
+      "unit_name": "Part 3 Modern India",
+      "part": "Part 3 Modern India",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "1857 विद्रोह (सिपाही विद्रोह / प्रथम स्वतंत्रता संग्राम) — 10 मई 1857 को मेरठ में शुरू",
+        "कारण — आर्थिक (राजस्व शोषण), राजनीतिक (डॉक्ट्रिन ऑफ लैप्स), धार्मिक (कारतूस इश्यू — गाय/सूअर चर्बी), सामाजिक",
+        "प्रमुख नेता और केंद्र:",
+        "  दिल्ली — बहादुर शाह ज़फ़र (प्रतीकात्मक)",
+        "  कानपुर — नाना साहेब, तात्या टोपे",
+        "  लखनऊ — बेगम हज़रत महल, बिरजिस कद्र",
+        "  झाँसी — रानी लक्ष्मीबाई",
+        "  बिहार — कुँवर सिंह",
+        "  फैज़ाबाद — मौलवी अहमदुल्लाह शाह",
+        "NCERT में लखनऊ पर फोकस",
+        "दृश्य प्रतिनिधित्व — ब्रिटिश चित्र (जैसे 'रिलीफ ऑफ लखनऊ'), भारतीय राष्ट्रवादी पुनर्व्याख्या",
+        "दमन — ब्रिटिश क्रूरता, दिल्ली, लखनऊ की घेराबंदी",
+        "परिणाम — EIC समाप्त (1858), सीधा क्राउन शासन, महारानी विक्टोरिया की घोषणा",
+        "V.D. सावरकर की पुस्तक 'द इंडियन वॉर ऑफ इंडिपेंडेंस, 1857' (1909) — इसे प्रथम स्वतंत्रता संग्राम कहा"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "झाँसी नेता 1857 MCQ (2026 — रानी लक्ष्मीबाई)। कानपुर चैलेंजर 1857 VSA (2025 — नाना साहेब)। सावरकर की पुस्तक MCQ (2025)। बेगम हज़रत महल लोकेशन MAP (2026 — लखनऊ)। 10 मई 1857 कॉमन डेट।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "महात्मा गाँधी और राष्ट्रीय आंदोलन — सविनय अवज्ञा और उससे आगे",
+      "unit_or_chapter": "chapter",
+      "book": "थीम्स इन इंडियन हिस्ट्री — पार्ट III",
+      "unit_id": 11,
+      "unit_name": "Part 3 Modern India",
+      "part": "Part 3 Modern India",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "गांधी की दक्षिण अफ्रीका से वापसी (1915)",
+        "प्रारंभिक सत्याग्रह: चंपारण (1917, नील), खेड़ा (1918, राजस्व), अहमदाबाद मिल हड़ताल (1918)",
+        "रौलट सत्याग्रह (1919), जलियाँवाला बाग हत्याकांड (13 अप्रैल 1919, अमृतसर)",
+        "खिलाफत-असहयोग आंदोलन (1920-22) — नेता: अली बंधु (शौकत + मोहम्मद); चौरी चौरा (फरवरी 1922) के बाद वापस लिया गया",
+        "सविनय अवज्ञा आंदोलन (1930-34) — दांडी मार्च (12 मार्च-6 अप्रैल 1930, नमक सत्याग्रह)",
+        "गांधी-इरविन समझौता (मार्च 1931)",
+        "द्वितीय गोलमेज सम्मेलन (1931, लंदन)",
+        "भारत छोड़ो आंदोलन (अगस्त 1942) — 'करो या मरो'; भारत छोड़ो",
+        "सुभाष चंद्र बोस — INA, गांधी को पहले 'राष्ट्रपिता' कहा (1944 रेडियो)",
+        "समाचार पत्र ऐतिहासिक स्रोत के रूप में — द हिंदू, अमृत बाज़ार पत्रिका, यंग इंडिया, हरिजन",
+        "1931 NCERT में फोकल वर्ष"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "गांधी आंदोलन MCQ (2026 — सभी)। भारत छोड़ो प्रारंभ MCQ (2025 — अगस्त 1942)। असहयोग वापसी MCQ (2025 — चौरी चौरा)। राष्ट्रपिता प्रथम उपयोग MCQ (2025 — सुभाष बोस)। खिलाफत नेता VSA (2026 — अली बंधु)। दांडी मार्च SA (2026)। गांधी-इरविन समझौता SA (2024)। गांधी का योगदान LA (2026)। भारतीय राष्ट्रवाद का उदय LA (2024)। भारत छोड़ो निबंध LA (2024)। चंपारण MAP (2026 — 1st सत्याग्रह)। दांडी MAP (2024 — नमक कानून)। जलियाँवाला बाग MAP (2024)। चौरी चौरा MAP (2025)। लाहौर 1929 MAP। 1919, 1942 कॉमन डेट्स।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "संविधान का निर्माण — एक नए युग की शुरुआत",
+      "unit_or_chapter": "chapter",
+      "book": "थीम्स इन इंडियन हिस्ट्री — पार्ट III",
+      "unit_id": 12,
+      "unit_name": "Part 3 Modern India",
+      "part": "Part 3 Modern India",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "संविधान सभा गठित — पहली बैठक 9 दिसंबर 1946; डॉ. सच्चिदानंद सिन्हा (अस्थायी अध्यक्ष), फिर डॉ. राजेंद्र प्रसाद (स्थायी)",
+        "उद्देश्य प्रस्ताव — जवाहरलाल नेहरू द्वारा प्रस्तुत (13 दिसंबर 1946), 22 जनवरी 1947 को अपनाया गया",
+        "प्रारूप समिति — डॉ. B.R. अंबेडकर की अध्यक्षता में (अगस्त 1947)",
+        "संविधान अपनाया — 26 नवंबर 1949, लागू हुआ 26 जनवरी 1950",
+        "प्रमुख समितियाँ — संघ शक्तियाँ (नेहरू), प्रांतीय (पटेल), प्रारूप (अंबेडकर), मौलिक अधिकार",
+        "महिला सदस्य — 15 जिनमें सरोजिनी नायडू, विजया लक्ष्मी पंडित, राजकुमारी अमृत कौर, सुचेता कृपलानी, हंसा मेहता, दुर्गाबाई देशमुख, बेगम एज़ाज़ रसूल, दक्षायणी वेलायुधन (1st दलित महिला)",
+        "प्रमुख बहस — राष्ट्रभाषा (हिंदी vs हिंदुस्तानी vs इंग्लिश), संघवाद, अल्पसंख्यक अधिकार, वयस्क मताधिकार",
+        "प्रस्तावना — 'संविधान की आत्मा' (K.M. मुंशी का वाक्यांश); कभी-कभी मौलिक अधिकार को भी आत्मा कहा जाता है",
+        "विशेषताएँ — संप्रभुता, लोकतंत्र, धर्मनिरपेक्षता, मौलिक अधिकार, DPSP, संसदीय प्रणाली, एकात्मक झुकाव वाला संघीय, स्वतंत्र न्यायपालिका"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "उद्देश्य प्रस्ताव MCQ (2026 — नेहरू)। संविधान की आत्मा MCQ (2024 — प्रस्तावना OR मौलिक अधिकार — व्याख्या पर निर्भर)। संविधान सभा के उद्देश्य SA (2024)। वयस्क मताधिकार लोकतंत्र SA (2025)। राष्ट्रभाषा विशेषताएँ SA (2026)। संविधान मूलभूत विशेषताएँ LA (2025, 2026)। 16 अगस्त 1946 (कैबिनेट मिशन प्लान) कॉमन डेट।",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "History Class 12 — 12 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "सिर्फ सेक्शन D (Q22, Q23, Q24 — तीनों LA) में 'अथवा/OR' ऑप्शन मिलता है। सेक्शन A, B, C, E सब कंपल्सरी, नो चॉइस।",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [
+      "बंधुत्व, जाति तथा वर्ग — प्रारंभिक समाज (4 marks)",
+      "एक साम्राज्य की राजधानी — विजयनगर (हम्पी) (4 marks)",
+      "विद्रोही और राज — 1857 का विद्रोह और उसकी व्याख्याएँ (4 marks)",
+      "संविधान का निर्माण — एक नए युग की शुरुआत (4 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "ASI प्रथम डायरेक्टर जनरल (कनिंघम) (Q: MCQ, 1)",
+      "अल-बिरूनी की पुस्तक किताब-उल-हिंद (Q: MCQ/VSA, 1-2)",
+      "स्थायी बंदोबस्त वर्ष/लेखक (1793/कॉर्नवालिस) (Q: MCQ, 1)",
+      "हड़प्पा साइट्स / IVC केंद्र (Q: MCQ/VSA, 1-2)",
+      "विजयनगर स्थापना/राजधानी/जल (Q: VSA/SA, 2-5)",
+      "भक्ति आंदोलन / अलवार-नयनार (Q: MCQ/LA, 1-10)",
+      "1857 विद्रोह — नेता/लोकेशन्स (Q: MCQ/VSA/MAP, 1-2)",
+      "गांधी के आंदोलन / सत्याग्रह लोकेशन्स (Q: MCQ/SA/LA/MAP, 1-10)",
+      "संविधान विशेषताएँ / संविधान सभा (Q: SA/LA, 5-10)",
+      "भारत छोड़ो 1942 (Q: MCQ/LA, 1-10)",
+      "स्तूप स्थापत्य / साँची (Q: MCQ/SA/LA, 1-10)",
+      "1336 AD (विजयनगर स्थापना) (Q: डेट्स, 1)",
+      "1510 AD (गोवा में पुर्तगाली) (Q: डेट्स, 1)",
+      "320 AD (गुप्त राजवंश स्थापना) (Q: डेट्स, 1)"
+    ],
+    "chapters_mostly_theory": [
+      "ईंटें, मनके तथा अस्थियाँ — हड़प्पा सभ्यता",
+      "राजा, किसान और नगर — प्रारंभिक राज्य और अर्थव्यवस्थाएँ",
+      "बंधुत्व, जाति तथा वर्ग — प्रारंभिक समाज",
+      "विचारक, विश्वास और इमारतें — सांस्कृतिक विकास (बौद्ध धर्म: साँची स्तूप)",
+      "यात्रियों के नजरिये — समाज की धारणाएँ",
+      "भक्ति, सूफी परम्पराएँ — धार्मिक विश्वासों में परिवर्तन",
+      "एक साम्राज्य की राजधानी — विजयनगर (हम्पी)",
+      "किसान, जमींदार और राज्य — कृषि समाज और मुगल साम्राज्य",
+      "उपनिवेशवाद और देहात — आधिकारिक अभिलेखागार",
+      "विद्रोही और राज — 1857 का विद्रोह और उसकी व्याख्याएँ",
+      "महात्मा गाँधी और राष्ट्रीय आंदोलन — सविनय अवज्ञा और उससे आगे",
+      "संविधान का निर्माण — एक नए युग की शुरुआत"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "ईंटें, मनके तथा अस्थियाँ — हड़प्पा सभ्यता",
+      "राजा, किसान और नगर — प्रारंभिक राज्य और अर्थव्यवस्थाएँ",
+      "बंधुत्व, जाति तथा वर्ग — प्रारंभिक समाज",
+      "विचारक, विश्वास और इमारतें — सांस्कृतिक विकास (बौद्ध धर्म: साँची स्तूप)",
+      "यात्रियों के नजरिये — समाज की धारणाएँ",
+      "भक्ति, सूफी परम्पराएँ — धार्मिक विश्वासों में परिवर्तन",
+      "एक साम्राज्य की राजधानी — विजयनगर (हम्पी)",
+      "किसान, जमींदार और राज्य — कृषि समाज और मुगल साम्राज्य",
+      "उपनिवेशवाद और देहात — आधिकारिक अभिलेखागार",
+      "विद्रोही और राज — 1857 का विद्रोह और उसकी व्याख्याएँ",
+      "महात्मा गाँधी और राष्ट्रीय आंदोलन — सविनय अवज्ञा और उससे आगे",
+      "संविधान का निर्माण — एक नए युग की शुरुआत"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "ASI प्रथम डायरेक्टर जनरल (कनिंघम) (Q: MCQ, 1)",
+      "अल-बिरूनी की पुस्तक किताब-उल-हिंद (Q: MCQ/VSA, 1-2)",
+      "स्थायी बंदोबस्त वर्ष/लेखक (1793/कॉर्नवालिस) (Q: MCQ, 1)",
+      "हड़प्पा साइट्स / IVC केंद्र (Q: MCQ/VSA, 1-2)",
+      "विजयनगर स्थापना/राजधानी/जल (Q: VSA/SA, 2-5)",
+      "भक्ति आंदोलन / अलवार-नयनार (Q: MCQ/LA, 1-10)",
+      "1857 विद्रोह — नेता/लोकेशन्स (Q: MCQ/VSA/MAP, 1-2)",
+      "गांधी के आंदोलन / सत्याग्रह लोकेशन्स (Q: MCQ/SA/LA/MAP, 1-10)",
+      "संविधान विशेषताएँ / संविधान सभा (Q: SA/LA, 5-10)",
+      "भारत छोड़ो 1942 (Q: MCQ/LA, 1-10)",
+      "स्तूप स्थापत्य / साँची (Q: MCQ/SA/LA, 1-10)",
+      "1336 AD (विजयनगर स्थापना) (Q: डेट्स, 1)",
+      "1510 AD (गोवा में पुर्तगाली) (Q: डेट्स, 1)",
+      "320 AD (गुप्त राजवंश स्थापना) (Q: डेट्स, 1)"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "map_work_masterlist": {
+      "note": "Q26 = 5 प्लेसेस ऑन इंडिया आउटलाइन मैप × 2 मार्क्स = 10 मार्क्स। हिस्टोरिकल इवेंट्स के लोकेशन्स। NCERT की 3 बुक्स के मैप्स से सेम प्लेसेस। प्रैक्टिस शीट पे ब्लैंक इंडिया मैप पे लोकेशन्स प्लॉट करके याद करो।",
+      "India_map_items_to_master": [
+        {
+          "item": "हड़प्पा",
+          "context": "पहली खोजी गई हड़प्पा साइट (1921) / मुख्य IVC शहर",
+          "state": "पंजाब (अब पाकिस्तान में)",
+          "years_asked": "2026"
+        },
+        {
+          "item": "मोहनजोदड़ो",
+          "context": "ग्रेट बाथ, सबसे बड़ा हड़प्पा शहर",
+          "state": "सिंध (अब पाकिस्तान में)",
+          "years_asked": "कॉमन — NCERT मैप स्टेपल"
+        },
+        {
+          "item": "कालीबंगन",
+          "context": "जुते हुए खेत के प्रमाण / अग्नि वेदिकाएँ",
+          "state": "राजस्थान",
+          "years_asked": "2024"
+        },
+        {
+          "item": "लोथल",
+          "context": "हड़प्पा बंदरगाह / डॉकयार्ड",
+          "state": "गुजरात",
+          "years_asked": "कॉमन"
+        },
+        {
+          "item": "धोलावीरा",
+          "context": "जल जलाशयों वाली हड़प्पा साइट",
+          "state": "गुजरात",
+          "years_asked": "कॉमन"
+        },
+        {
+          "item": "चन्हुदड़ो",
+          "context": "बीड-मेकिंग केंद्र",
+          "state": "सिंध (अब पाकिस्तान में)",
+          "years_asked": "कॉमन"
+        },
+        {
+          "item": "लुंबिनी",
+          "context": "गौतम बुद्ध का जन्मस्थान",
+          "state": "नेपाल (UP/बिहार के बॉर्डर)",
+          "years_asked": "2024, 2026"
+        },
+        {
+          "item": "बोधगया",
+          "context": "बुद्ध को ज्ञान प्राप्ति",
+          "state": "बिहार",
+          "years_asked": "2025"
+        },
+        {
+          "item": "सारनाथ",
+          "context": "बुद्ध का प्रथम उपदेश / धमेक स्तूप",
+          "state": "उत्तर प्रदेश (वाराणसी के पास)",
+          "years_asked": "कॉमन"
+        },
+        {
+          "item": "साँची",
+          "context": "अशोक द्वारा निर्मित ग्रेट स्तूप / बौद्ध साइट",
+          "state": "मध्य प्रदेश",
+          "years_asked": "कॉमन"
+        },
+        {
+          "item": "गिरनार",
+          "context": "अशोक का शिलालेख / सुदर्शन झील (चंद्रगुप्त मौर्य द्वारा निर्मित, रुद्रदमन द्वारा मरम्मत)",
+          "state": "गुजरात",
+          "years_asked": "2026"
+        },
+        {
+          "item": "पाटलिपुत्र (आधुनिक पटना)",
+          "context": "मौर्य राजधानी",
+          "state": "बिहार",
+          "years_asked": "कॉमन"
+        },
+        {
+          "item": "अजमेर",
+          "context": "शेख मोइनुद्दीन चिश्ती की दरगाह",
+          "state": "राजस्थान",
+          "years_asked": "कॉमन"
+        },
+        {
+          "item": "दिल्ली / निज़ामुद्दीन",
+          "context": "शेख निज़ामुद्दीन औलिया की दरगाह",
+          "state": "दिल्ली",
+          "years_asked": "2024"
+        },
+        {
+          "item": "विजयनगर / हम्पी",
+          "context": "विजयनगर साम्राज्य की राजधानी",
+          "state": "कर्नाटक",
+          "years_asked": "कॉमन"
+        },
+        {
+          "item": "आगरा",
+          "context": "ताजमहल / मुगल राजधानी",
+          "state": "उत्तर प्रदेश",
+          "years_asked": "2025"
+        },
+        {
+          "item": "फतेहपुर सीकरी",
+          "context": "अकबर की राजधानी 1571-85 / बुलंद दरवाज़ा",
+          "state": "उत्तर प्रदेश",
+          "years_asked": "कॉमन"
+        },
+        {
+          "item": "कन्नौज",
+          "context": "हर्षवर्धन की बाद की राजधानी (7वीं शताब्दी CE)",
+          "state": "उत्तर प्रदेश",
+          "years_asked": "2025"
+        },
+        {
+          "item": "मेरठ",
+          "context": "1857 विद्रोह का प्रारंभ (10 मई)",
+          "state": "उत्तर प्रदेश",
+          "years_asked": "कॉमन"
+        },
+        {
+          "item": "लखनऊ",
+          "context": "1857 — बेगम हज़रत महल; NCERT फोकल केंद्र भी",
+          "state": "उत्तर प्रदेश",
+          "years_asked": "2026"
+        },
+        {
+          "item": "झाँसी",
+          "context": "रानी लक्ष्मीबाई 1857",
+          "state": "उत्तर प्रदेश",
+          "years_asked": "कॉमन"
+        },
+        {
+          "item": "कानपुर",
+          "context": "1857 — नाना साहेब",
+          "state": "उत्तर प्रदेश",
+          "years_asked": "कॉमन"
+        },
+        {
+          "item": "चंपारण",
+          "context": "गांधी का पहला सत्याग्रह (1917, नील)",
+          "state": "बिहार",
+          "years_asked": "2026"
+        },
+        {
+          "item": "खेड़ा",
+          "context": "गांधी का 1918 राजस्व सत्याग्रह",
+          "state": "गुजरात",
+          "years_asked": "कॉमन"
+        },
+        {
+          "item": "अहमदाबाद",
+          "context": "गांधी की 1918 मिल हड़ताल / साबरमती आश्रम",
+          "state": "गुजरात",
+          "years_asked": "कॉमन"
+        },
+        {
+          "item": "अमृतसर",
+          "context": "जलियाँवाला बाग हत्याकांड (13 अप्रैल 1919) / स्वर्ण मंदिर",
+          "state": "पंजाब",
+          "years_asked": "2024"
+        },
+        {
+          "item": "दांडी",
+          "context": "नमक मार्च का अंतिम बिंदु, नमक कानून तोड़ा (6 अप्रैल 1930)",
+          "state": "गुजरात",
+          "years_asked": "2024"
+        },
+        {
+          "item": "चौरी चौरा",
+          "context": "फरवरी 1922 घटना — असहयोग वापस लिया गया",
+          "state": "उत्तर प्रदेश",
+          "years_asked": "2025"
+        },
+        {
+          "item": "लाहौर",
+          "context": "1929 कांग्रेस अधिवेशन — पूर्ण स्वराज प्रस्ताव",
+          "state": "पंजाब (अब पाकिस्तान में)",
+          "years_asked": "2025"
+        },
+        {
+          "item": "कलकत्ता",
+          "context": "16 अगस्त 1946 प्रत्यक्ष कार्रवाई दिवस हत्याकांड",
+          "state": "पश्चिम बंगाल",
+          "years_asked": "कॉमन"
+        },
+        {
+          "item": "बॉम्बे",
+          "context": "1942 भारत छोड़ो प्रारंभ",
+          "state": "महाराष्ट्र",
+          "years_asked": "कॉमन"
+        }
+      ]
+    },
+    "historical_dates_masterlist": {
+      "note": "सेक्शन E Q25 = 10 डेट्स × 1 मार्क = 10 ईज़ी मार्क्स। 3 साल के पेपर्स देखे तो ये डेट्स फ्रीक्वेंटली रिपीट होते हैं। NCERT पार्ट I, II, III के एंड में टाइमलाइन दिया होता है — सब याद करो।",
+      "ancient_india_dates": [
+        {
+          "date": "c. 2600-1900 BCE",
+          "event": "परिपक्व हड़प्पा सभ्यता"
+        },
+        {
+          "date": "c. 1500 BCE",
+          "event": "प्रारंभिक वैदिक काल की शुरुआत"
+        },
+        {
+          "date": "c. 600 BCE",
+          "event": "महाजनपदों का उदय (16 की संख्या में)"
+        },
+        {
+          "date": "563 BCE",
+          "event": "लुंबिनी में गौतम बुद्ध का जन्म"
+        },
+        {
+          "date": "540 BCE",
+          "event": "महावीर का जन्म"
+        },
+        {
+          "date": "327-325 BCE",
+          "event": "सिकंदर का भारत पर आक्रमण"
+        },
+        {
+          "date": "321 BCE",
+          "event": "चंद्रगुप्त मौर्य ने मौर्य साम्राज्य की स्थापना की (2025 में पूछा)"
+        },
+        {
+          "date": "323 BCE",
+          "event": "सिकंदर महान की मृत्यु (2024 में पूछा)"
+        },
+        {
+          "date": "268-232 BCE",
+          "event": "अशोक का शासनकाल"
+        },
+        {
+          "date": "185 BCE",
+          "event": "मौर्य साम्राज्य का अंत"
+        },
+        {
+          "date": "78 CE",
+          "event": "शक संवत की शुरुआत / कनिष्क (2024 में पूछा)"
+        },
+        {
+          "date": "320 CE",
+          "event": "चंद्रगुप्त I ने गुप्त साम्राज्य की स्थापना की (2024, 2026 में पूछा)"
+        },
+        {
+          "date": "712 CE",
+          "event": "मुहम्मद बिन कासिम द्वारा सिंध पर अरब विजय (2024 में पूछा)"
+        }
+      ],
+      "medieval_india_dates": [
+        {
+          "date": "973 CE",
+          "event": "अल-बिरूनी का जन्म (2025 में पूछा)"
+        },
+        {
+          "date": "1017 CE",
+          "event": "अल-बिरूनी महमूद गजनवी के साथ भारत आया"
+        },
+        {
+          "date": "1192",
+          "event": "तराइन का द्वितीय युद्ध — मुहम्मद गोरी ने पृथ्वीराज चौहान को हराया"
+        },
+        {
+          "date": "1206",
+          "event": "कुतुबुद्दीन ऐबक द्वारा दिल्ली सल्तनत की स्थापना"
+        },
+        {
+          "date": "1333",
+          "event": "इब्न बतूता भारत आया"
+        },
+        {
+          "date": "1336",
+          "event": "हरिहर और बुक्का द्वारा विजयनगर की स्थापना (2024, 2025 में पूछा)"
+        },
+        {
+          "date": "1469",
+          "event": "गुरु नानक का जन्म (2024 में पूछा)"
+        },
+        {
+          "date": "1510",
+          "event": "अल्बुकर्क के नेतृत्व में पुर्तगालियों ने गोवा कब्ज़ा किया (2024, 2026 में पूछा)"
+        },
+        {
+          "date": "1526",
+          "event": "पानीपत का प्रथम युद्ध — बाबर ने इब्राहिम लोदी को हराया, मुगल साम्राज्य की स्थापना"
+        },
+        {
+          "date": "1556-1605",
+          "event": "अकबर का शासनकाल (1605 — 2025 में पूछा)"
+        },
+        {
+          "date": "1565",
+          "event": "तालीकोटा का युद्ध — विजयनगर का पतन"
+        },
+        {
+          "date": "1604",
+          "event": "गुरु अर्जुन देव द्वारा गुरु ग्रंथ साहिब का संकलन (2026 में पूछा)"
+        }
+      ],
+      "modern_india_dates": [
+        {
+          "date": "1757",
+          "event": "प्लासी का युद्ध — सिराजुद्दौला पर ब्रिटिश विजय"
+        },
+        {
+          "date": "1764",
+          "event": "बक्सर का युद्ध"
+        },
+        {
+          "date": "1773",
+          "event": "रेगुलेटिंग एक्ट / वॉरेन हेस्टिंग्स प्रथम गवर्नर-जनरल नियुक्त (2024 में पूछा)"
+        },
+        {
+          "date": "1793",
+          "event": "बंगाल में लॉर्ड कॉर्नवालिस द्वारा स्थायी बंदोबस्त (2026 में पूछा)"
+        },
+        {
+          "date": "1798",
+          "event": "लॉर्ड वेलेज़ली द्वारा सब्सिडियरी एलायंस"
+        },
+        {
+          "date": "1814",
+          "event": "आंग्ल-नेपाल युद्ध की शुरुआत (2026 में पूछा)"
+        },
+        {
+          "date": "1818",
+          "event": "तृतीय आंग्ल-मराठा युद्ध का अंत / अधिकांश भारत पर ब्रिटिश नियंत्रण (2026 में पूछा)"
+        },
+        {
+          "date": "1829",
+          "event": "लॉर्ड विलियम बेंटिंक द्वारा सती प्रथा का उन्मूलन (2025 में पूछा)"
+        },
+        {
+          "date": "1855-56",
+          "event": "संथाल विद्रोह"
+        },
+        {
+          "date": "10 मई 1857",
+          "event": "मेरठ में 1857 विद्रोह का प्रारंभ (2026 में पूछा)"
+        },
+        {
+          "date": "1858",
+          "event": "गवर्नमेंट ऑफ इंडिया एक्ट — EIC समाप्त, क्राउन शासन प्रारंभ"
+        },
+        {
+          "date": "1875",
+          "event": "डेक्कन दंगे / दयानंद सरस्वती द्वारा आर्य समाज स्थापना (2025 में पूछा)"
+        },
+        {
+          "date": "1885",
+          "event": "A.O. ह्यूम द्वारा भारतीय राष्ट्रीय कांग्रेस की स्थापना (2025 में पूछा)"
+        },
+        {
+          "date": "1905",
+          "event": "लॉर्ड कर्ज़न द्वारा बंगाल विभाजन"
+        },
+        {
+          "date": "1907",
+          "event": "सूरत अधिवेशन विभाजन — कांग्रेस मॉडरेट्स और एक्सट्रीमिस्ट्स में विभाजित (2025 में पूछा)"
+        },
+        {
+          "date": "1915",
+          "event": "गांधी की दक्षिण अफ्रीका से वापसी"
+        },
+        {
+          "date": "1917",
+          "event": "चंपारण सत्याग्रह — गांधी का भारत में पहला"
+        },
+        {
+          "date": "1918",
+          "event": "खेड़ा सत्याग्रह / अहमदाबाद मिल हड़ताल (2026 में पूछा)"
+        },
+        {
+          "date": "13 अप्रैल 1919",
+          "event": "जलियाँवाला बाग हत्याकांड (2024, 2025 संबंधित में पूछा)"
+        },
+        {
+          "date": "1919",
+          "event": "रौलट एक्ट / गवर्नमेंट ऑफ इंडिया एक्ट"
+        },
+        {
+          "date": "1920-22",
+          "event": "असहयोग आंदोलन"
+        },
+        {
+          "date": "1921",
+          "event": "प्रिंस ऑफ वेल्स की पहली यात्रा / असहयोग चरम पर (2026 में पूछा)"
+        },
+        {
+          "date": "फरवरी 1922",
+          "event": "चौरी चौरा घटना — असहयोग वापस लिया गया"
+        },
+        {
+          "date": "1930",
+          "event": "सविनय अवज्ञा आंदोलन / दांडी मार्च (12 मार्च - 6 अप्रैल)"
+        },
+        {
+          "date": "1931",
+          "event": "गांधी-इरविन समझौता (मार्च) / द्वितीय गोलमेज सम्मेलन"
+        },
+        {
+          "date": "1935",
+          "event": "गवर्नमेंट ऑफ इंडिया एक्ट 1935 (2025 में पूछा)"
+        },
+        {
+          "date": "अगस्त 1942",
+          "event": "भारत छोड़ो आंदोलन प्रारंभ (2024, 2025 में पूछा)"
+        },
+        {
+          "date": "16 अगस्त 1946",
+          "event": "प्रत्यक्ष कार्रवाई दिवस / कलकत्ता हत्याकांड (2026 में पूछा)"
+        },
+        {
+          "date": "1947",
+          "event": "भारतीय स्वतंत्रता (15 अगस्त) / विभाजन (2024 में पूछा)"
+        },
+        {
+          "date": "26 नवंबर 1949",
+          "event": "भारत का संविधान अपनाया गया"
+        },
+        {
+          "date": "26 जनवरी 1950",
+          "event": "भारत का संविधान लागू हुआ / गणतंत्र दिवस"
+        }
+      ],
+      "high_probability_2026_picks": [
+        "320 AD (गुप्त), 1336 (विजयनगर), 1510 (पुर्तगाली गोवा), 1793 (स्थायी बंदोबस्त), 1918 (खेड़ा), 1921, 16 अगस्त 1946 — ये स्पेसिफिकली 2026-CP में आए। फ्यूचर ईयर्स के लिए, सेम क्लस्टर लाइकली रोटेट करेगा 1885 (INC), 1942 (भारत छोड़ो), 1947 (स्वतंत्रता) के साथ।"
+      ]
+    },
+    "pyq_analysis_2024_to_2026": {
+      "summary": "3 साल के पेपर्स (2024-EF, 2025-IG, 2026-CG) एनालिसिस से पैटर्न कंसिस्टेंट है। 55-65% क्वेश्चन्स कॉन्सेप्ट/टॉपिक पर रिकर करते हैं even if एग्ज़ैक्ट फ्रेज़िंग अलग हो।",
+      "most_repeated_MCQ_topics": [
+        "ASI प्रथम DG (कनिंघम) — 2024, 2025",
+        "अल-बिरूनी की किताब-उल-हिंद — 2024, 2026",
+        "स्थायी बंदोबस्त वर्ष/लेखक — 2024, 2025",
+        "हड़प्पा साइट्स/पुरातत्व — 2024, 2026",
+        "भारत छोड़ो / असहयोग विवरण — 2025, 2026",
+        "संविधान (प्रस्तावना / उद्देश्य प्रस्ताव) — 2024, 2026",
+        "1857 हस्तियाँ (लक्ष्मीबाई आदि) — 2025, 2026",
+        "भक्ति संत / अलवार-नयनार / खालसा संस्थापक — हर साल"
+      ],
+      "most_repeated_VSA_topics": [
+        "विजयनगर स्थापना/राजधानी — 2024, 2026",
+        "इब्न बतूता विवरण (पुस्तक/वर्ष/शासक) — 2024, 2026",
+        "IVC केंद्र / हड़प्पा क्षेत्र — 2024, 2026",
+        "महाजनपद संख्या — 2026",
+        "खिलाफत नेता — 2026",
+        "1857 कानपुर नेता (नाना साहेब) — 2025"
+      ],
+      "most_repeated_SA_topics": [
+        "विजयनगर जल प्रबंधन — 2024, 2025",
+        "साँची स्तूप / स्तूप मीनिंग — 2025, 2026",
+        "संविधान सभा उद्देश्य / वयस्क मताधिकार — 2024, 2025",
+        "भक्ति शाखाएँ (सगुण-निर्गुण) / अलवार-नयनार — 2025, 2026",
+        "मुगल व्यवस्थाएँ (मनसबदारी) — 2026",
+        "दांडी मार्च — 2026",
+        "गांधी-इरविन समझौता — 2024"
+      ],
+      "most_repeated_LA_topics": [
+        "हड़प्पा टाउन प्लानिंग / ड्रेनेज — 2025, 2026",
+        "स्तूप क्यों/कैसे बनाए गए — 2024",
+        "मौर्य प्रशासन — 2024",
+        "भक्ति आंदोलन विशेषताएँ / अल-बिरूनी / सूफीवाद — हर साल",
+        "विजयनगर प्रशासन + जल — 2026",
+        "संथाल विद्रोह / राष्ट्रवाद का उदय / गांधी योगदान — हर साल",
+        "संविधान विशेषताएँ — 2025, 2026",
+        "भारत छोड़ो निबंध — 2024"
+      ],
+      "most_repeated_dates": [
+        "320 AD (गुप्त) — 2024, 2026",
+        "1336 (विजयनगर) — 2024, 2025",
+        "1510 (पुर्तगाली गोवा) — 2024, 2026",
+        "1793 (स्थायी बंदोबस्त) — 2026",
+        "1919 या 1942 (स्वतंत्रता संग्राम) — 2024, 2025",
+        "1947 (स्वतंत्रता) — 2024"
+      ],
+      "most_repeated_map_items": [
+        "लुंबिनी (बुद्ध जन्म) — 2024, 2026",
+        "दांडी (नमक कानून) — 2024",
+        "जलियाँवाला बाग / अमृतसर — 2024",
+        "चौरी चौरा — 2025",
+        "निज़ामुद्दीन दरगाह — 2024",
+        "लखनऊ / चंपारण — 2026"
+      ],
+      "high_probability_future_picks": [
+        "MCQ: ASI DG + भक्ति संत भक्त + 1857 हस्ती + संविधान पार्ट + भारत छोड़ो वर्ष + स्थायी बंदोबस्त",
+        "VSA: कोई 2 IVC केंद्र / विजयनगर वर्ष / इब्न बतूता पुस्तक / 1857 कानपुर नेता",
+        "SA: सगुण-निर्गुण भक्ति / विजयनगर जल / संविधान उद्देश्य / दांडी मार्च / सूर्यास्त विधि",
+        "LA Q22: हड़प्पा टाउन प्लानिंग विद डायग्राम (सेफेस्ट बेट)",
+        "LA Q23: भक्ति आंदोलन विशेषताएँ OR अल-बिरूनी OR विजयनगर प्रशासन",
+        "LA Q24: राष्ट्रीय आंदोलन में गांधी योगदान OR संविधान विशेषताएँ",
+        "डेट्स: 320 AD, 1336, 1510, 1793, 1857, 1919, 1942, 1947 — इनमें से 5-6 हर साल आते हैं",
+        "मैप: हड़प्पा/कालीबंगन/लोथल + लुंबिनी/बोधगया/सारनाथ + अमृतसर/दांडी/चौरी चौरा + हम्पी/आगरा + कोई UP लोकेशन (लखनऊ/कन्नौज/कानपुर/मेरठ)"
+      ]
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "History — maps/diagrams.",
+    "must_practise": [
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Not typically applicable for History (humanities subject).",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for History",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for History",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "History — no practical.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 45,
+    "medium_percent": 40,
+    "hard_percent": 15,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "सेक्शन E (डेट्स + मैप) पहले अटेम्प्ट करना स्मार्ट मूव — 20 मार्क्स 25 मिनट में सिक्योर",
+      "MCQ में असर्शन-रीज़न और मैच-द-फॉलोइंग टाइप = ट्रिकी होते हैं, ऑप्शन्स को केयरफुली पढ़ो",
+      "LA Q22 (प्राचीन) में OR ऑप्शन का फायदा उठाओ — वैदिक जीवन / मौर्य प्रशासन / जैन शिक्षाएँ — तीनों में से जो प्रैक्टिस्ड हो",
+      "हड़प्पा टाउन प्लानिंग LA में ज़रूर स्केच बनाओ — सिटाडल + लोअर टाउन + ग्रेट बाथ + ड्रेनेज ग्रिड = ईज़ी 2-3 एक्स्ट्रा मार्क्स",
+      "स्तूप LA में साँची का डायग्राम (अंड, हर्मिका, यष्टि, छत्र लेबल्ड) बनाओ",
+      "गांधी योगदान LA में क्रोनोलॉजिकल: चंपारण → रौलट → NCM → CDM → QI — ये सीक्वेंस फॉलो करो",
+      "संविधान विशेषताएँ LA में प्रस्तावना कोट करो, 7 फीचर्स लिस्ट करो — सॉवरेन, सोशलिस्ट, सेक्युलर, डेमोक्रेटिक, रिपब्लिक + मौलिक अधिकार + DPSP",
+      "डेट्स सेक्शन = 10 ईज़ी मार्क्स। हर थीम के एंड में NCERT टाइमलाइन ज़रूर रट लो।",
+      "मैप सेक्शन में घबराओ मत — सेम 20 प्लेसेस रोटेट होते हैं हर साल",
+      "हिंदी/इंग्लिश मिक्स चलेगा — Mansabdari, Zabti, Mahalwari, Ryotwari — इंग्लिश नाम ही लिखो, एक्सप्लेनेशन हिंदी में",
+      "क्लीन हैंडराइटिंग — यूपी बोर्ड में नीट प्रेज़ेंटेशन के मार्क्स अलग मिलते हैं",
+      "सब-हेडिंग विद अंडरलाइन यूज़ करो LA में — विज़ुअल स्ट्रक्चर बनाता है"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "पेपर पूरा पढ़ो। Q22/23/24 OR ऑप्शन्स दोनों देख के डिसाइड करो कौनसा अटेम्प्ट करोगे। डेट्स (Q25) और मैप (Q26) मेंटल में सॉल्व करो।"
+      },
+      {
+        "section_id": "Q1_Q10_MCQ_12min",
+        "recommended_minutes": 0,
+        "note": "10 MCQ ~1.2 मिनट each। डायरेक्ट + मैच + असर्शन-रीज़न। नो नेगेटिव मार्किंग।"
+      },
+      {
+        "section_id": "Q11_Q15_VSA_15min",
+        "recommended_minutes": 0,
+        "note": "5 VSA × 3 मिनट। 30 शब्द = 3-4 लाइन्स। नाम/डेट/1-लाइन एक्सप्लेनेशन।"
+      },
+      {
+        "section_id": "Q16_Q21_SA_50min",
+        "recommended_minutes": 0,
+        "note": "6 SA × 8 मिनट। 80 शब्द = 8-10 लाइन्स। हेडिंग + 4-5 पॉइंट्स।"
+      },
+      {
+        "section_id": "Q22_Q24_LA_65min",
+        "recommended_minutes": 0,
+        "note": "3 LA × 22 मिनट। 200-250 शब्द। OR ऑप्शन का यूज़ करो।"
+      },
+      {
+        "section_id": "Q25_dates_10min",
+        "recommended_minutes": 0,
+        "note": "10 डेट्स × 1 मिनट। सिर्फ 1-2 लाइन में इवेंट लिखो।"
+      },
+      {
+        "section_id": "Q26_map_15min",
+        "recommended_minutes": 0,
+        "note": "5 मैप आइटम्स × 3 मिनट। पेंसिल से डॉट, पेन से नाम। मैप आंसर-बुक के साथ अटैच MUST।"
+      },
+      {
+        "section_id": "revision_18min",
+        "recommended_minutes": 0,
+        "note": "मैप अटैच्ड चेक, Q नंबर्स चेक, डेट्स रीचेक।"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 33",
+        "target_marks": 33,
+        "strategy": "MCQ सारे 10 (7-8 ईज़ी से) + VSA 4-5 (8-10 मार्क्स) + SA 2-3 (10-15 मार्क्स) + डेट्स 8-10 (8-10 मार्क्स) + मैप 3-4 (6-8 मार्क्स) = 39-51 मार्क्स ईज़ी अगर बेसिक प्रेप किया है।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "सारे 10 MCQ — नो नेगेटिव, एलिमिनेशन से भी गेस लगाओ",
+          "सेक्शन E डेट्स — 30 इम्पोर्टेंट डेट्स रट लो = 10 ईज़ी मार्क्स",
+          "सेक्शन E मैप — 20 कॉमन प्लेसेस याद = 10 ईज़ी मार्क्स (अगर 5 सही = फुल)",
+          "थीम 1 (हड़प्पा) + थीम 11 (गांधी) + थीम 12 (संविधान) — 3 थीम्स पक्के करो = 30+ मार्क्स",
+          "VSA में ईज़ी डेफिनिशन्स — अभिलेख, महाजनपद, इब्न बतूता, नाना साहेब टाइप"
+        ],
+        "chapters_to_skip_safely": [
+          "कॉम्प्लेक्स जाति/बंधुत्व एनालिसिस (थीम 3)",
+          "डिटेल्ड राजस्व व्यवस्था मैकेनिक्स",
+          "गुप्त भूमि अनुदान बारीकियाँ"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60",
+        "target_marks": 60,
+        "strategy": "सब MCQ + VSA + SA 4-5 + LA 2 (16-18 मार्क्स) + डेट्स फुल + मैप फुल = 70+ पॉसिबल।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "LA Q22 — हड़प्पा टाउन प्लानिंग/ड्रेनेज OR स्तूप (सबसे कॉमन)",
+          "LA Q23 — भक्ति आंदोलन विशेषताएँ OR विजयनगर प्रशासन",
+          "LA Q24 — गांधी का योगदान OR संविधान विशेषताएँ",
+          "सभी 10 MCQ + सभी 10 डेट्स + सभी 5 मैप = 30 डायरेक्ट मार्क्स",
+          "SA — मनसबदारी, साँची, दांडी मार्च, संविधान उद्देश्य, सूर्यास्त विधि"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "80 marks",
+        "target_marks": 80,
+        "strategy": "फुल अटेम्प्ट — MCQ 10 + VSA 10 + SA 30 + LA 30 + डेट्स 10 + मैप 10 = 100।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "सभी 12 थीम्स मास्टर्ड विद क्रोनोलॉजी",
+          "सभी LA टॉपिक्स प्रैक्टिस्ड विद इंट्रो-बॉडी-कंक्लूज़न स्ट्रक्चर",
+          "50+ डेट्स अक्रॉस ऑल 3 NCERT बुक्स",
+          "सभी महिला संविधान सभा सदस्य, सभी 1857 नेता बाय सेंटर, सभी सूफी सिलसिले",
+          "मैप्स — 30+ प्लेसेस प्रैक्टिस्ड ऑन ब्लैंक आउटलाइन",
+          "एनालिसिस स्किल्स — हड़प्पा पतन के मल्टीपल थ्योरी, भक्ति-सूफी कंपेरिज़न, प्रस्तावना vs मौलिक अधिकार बहस"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "थीम्स इन इंडियन हिस्ट्री — पार्ट I (प्राचीन)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "पार्ट 1 (30 मार्क्स) का पूरा बेस। 4 थीम्स — हड़प्पा, राजा-किसान-नगर, बंधुत्व-जाति-वर्ग, विचारक-विश्वास-इमारतें।"
+      },
+      {
+        "name": "थीम्स इन इंडियन हिस्ट्री — पार्ट II (मध्यकालीन)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "पार्ट 2 (30 मार्क्स) का पूरा बेस। 4 थीम्स — यात्री, भक्ति-सूफी, विजयनगर, किसान-जमींदार।"
+      },
+      {
+        "name": "थीम्स इन इंडियन हिस्ट्री — पार्ट III (आधुनिक)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "पार्ट 3 (30 मार्क्स) का पूरा बेस। 4 थीम्स — उपनिवेशवाद, 1857, गांधी, संविधान।"
+      },
+      {
+        "name": "यूपी बोर्ड क्लास 12 हिस्ट्री प्रीवियस ईयर पेपर्स 2018-2025",
+        "author": "",
+        "publisher": "UPMSP / upboardonline.com",
+        "purpose": "Supplementary",
+        "note": "रिपीट पैटर्न्स स्पॉट करने के लिए। 60-70% कॉन्सेप्ट्स रिविज़िट होते हैं।"
+      },
+      {
+        "name": "यूपी बोर्ड मॉडल पेपर 2025-26 (पेपर 321-CG)",
+        "author": "",
+        "publisher": "UPMSP",
+        "purpose": "Supplementary",
+        "note": "ऑफिशियल मॉडल पेपर — एग्ज़ैक्ट 2026 डिफिकल्टी और स्टाइल।"
+      },
+      {
+        "name": "अरिहंत / शिवदास / YCT सॉल्व्ड पेपर्स — क्लास 12 हिस्ट्री",
+        "author": "",
+        "publisher": "मल्टीपल",
+        "purpose": "Supplementary",
+        "note": "हिंदी-मीडियम सॉल्यूशन्स + LA मॉडल आंसर्स। टाइमलाइन और मैप प्रैक्टिस शीट्स इन्क्लूडेड।"
+      },
+      {
+        "name": "NCERT टाइमलाइन हैंडआउट्स (पार्ट I-II-III)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Supplementary",
+        "note": "हर थीम के एंड में टाइमलाइन — Q25 के 10 मार्क्स का डायरेक्ट सोर्स।"
+      },
+      {
+        "name": "ब्लैंक इंडिया आउटलाइन मैप्स — प्रैक्टिस शीट्स",
+        "author": "",
+        "publisher": "कोई भी",
+        "purpose": "Supplementary",
+        "note": "Q26 के 10 मार्क्स — 20-30 प्लेसेस को प्लॉट करने की प्रैक्टिस 2-3 बार करो।"
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 मिनट रीडिंग टाइम (पेपर पढ़ने के लिए) — लिखना अलाउड नहीं इस टाइम में।"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "roll_and_name_on_answer_book_and_map: True",
+      "sequence_compulsory: False",
+      "sequence_note: सीक्वेंस फॉलो करना ज़रूरी नहीं — सेक्शन E (डेट्स+मैप) पहले भी अटेम्प्ट कर सकते हो (ईज़ी 20 मार्क्स)।",
+      "no_negative_marking: True",
+      "mcq_attempt_all: सारे 10 MCQ अटेम्प्ट करो — नो नेगेटिव।",
+      "dates_sirf_1_line: Q25 में डेट दिया गया है — सिर्फ 1-2 लाइन में इवेंट लिखो। पैराग्राफ लिखने की ज़रूरत नहीं।",
+      "map_item_split: हर मैप आइटम = 1 (लोकेशन/डॉट) + 1 (नाम) = 2 मार्क्स। दोनों सही होने चाहिए फुल मार्क्स के लिए।"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['ब्लू', 'ब्लैक'] pencil_use: मैप के लिए पेंसिल से सिंबल बनाओ, नाम पेन से लिखो। डायग्राम्स (स्तूप स्ट्रक्चर, हड़प्पा टाउन लेआउट) भी पेंसिल से बेटर। map_attachment: सप्लाइड आउटलाइन मैप को क्वेश्चन पेपर से फाड़ के, उसमें 5 प्लेसेस को डॉट (●) + नाम से आइडेंटिफाई करके, आंसर बुक के साथ मज़बूती से अटैच करना कंपल्सरी।"
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "illustrate_with_sketch: इंस्ट्रक्शन्स में नहीं लिखा होता (ज्योग्राफी से अलग) पर हड़प्पा टाउन प्लानिंग, स्तूप, विजयनगर वॉटर सिस्टम जैसे टॉपिक्स में स्केच बनाओ — एक्स्ट्रा मार्क्स मिलते हैं। headings_subheadings: LA (200-250 शब्द) में 4-5 सब-हेडिंग्स यूज़ करो — 'कारण', 'प्रकृति', 'महत्व' आदि। word_limits: 30 / 80 / 200-250 — रिस्पेक्ट करो। ज़्यादा लिखने से टाइम वेस्ट। partial_marking: True partial_marking_note: SA/LA में जितने पॉइंट्स सही होंगे, उन सब के मार्क्स मिलेंगे। एक गलत पॉइंट से बाकी कट नहीं होते। hindi_english_mix: नाम/टेक्निकल टर्म्स इंग्लिश में (Permanent Settlement, Mansabdari, Drainage system) + एक्सप्लेनेशन हिंदी में चलेगा।",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

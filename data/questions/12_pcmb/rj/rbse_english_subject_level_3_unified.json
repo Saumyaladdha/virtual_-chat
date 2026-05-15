@@ -1,0 +1,2121 @@
+{
+  "board": "RBSE",
+  "class": "12",
+  "subject": "English Compulsory (Angreji Anivarya)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 80,
+    "practical_paper": 0,
+    "internal_assessment": 20,
+    "total": 100,
+    "passing_marks_theory": 26,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": true,
+    "extra_time_note": "Haan — 15 minute reading time milta hai. Is time mein sirf paper padho, rough work ya answers likhna allowed nahi.",
+    "internal_assessment_note": "Theory mein 80 mein se pass karna hoga. Internal assessment alag se hota hai."
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 53,
+    "total_questions_to_attempt": 53,
+    "total_objective_questions": 12,
+    "total_sets": 0,
+    "sets_note": "RBSE mein usually multiple sets hote hain. Har set mein same questions hote hain, sirf order alag hota hai.",
+    "sets_same_or_different": "",
+    "language_of_attempt": "English mein attempt karna hoga. Hindi translation optional hai kuch jagah.",
+    "all_compulsory_note": "Q3, Q4, Q5, Q11, Q13, Q14 aur Q16 mein internal choice (OR option) milta hai.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "RBSE ka syllabus NCERT (Flamingo + Vistas) par based hai lekin RBSE ke specific patterns aur SP Examination Idea jaise reference books bhi zaroori hain.",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [
+      "Flamingo (NCERT)",
+      "Vistas (NCERT)"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "Official RBSE website se download karo — rajeduboard.rajasthan.gov.in > Books/Old Papers/Model Questions > Model Papers 2026.",
+      "question_bank": "SP Examination Idea English Compulsory Class 12 (Science Publications, Jaipur) — RBSE ke liye sabse popular reference book.",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": "Pichhle 5-7 saalo ke papers solve karo. Reading passages, writing formats aur textual questions repeat hote hain."
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "RBSE Class 12 English paper mein 6 types ke questions aate hain — MCQ (1), Fill Blank (1), Very Short/VSA (1), Short Answer (2), Long Answer (3-5), Essay/Writing (4-5).",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (Bahuvikalpiy)",
+        "question_number": "",
+        "section": "A and D",
+        "marks_each": 1,
+        "total_in_paper": 12,
+        "attempt": 12,
+        "negative_marking": false,
+        "how_to_attempt": "Sirf correct option (a/b/c/d) likhna hota hai. Section A mein passage se, Section D mein chapters se. No explanation needed.",
+        "mostly_from": "Vistas comprehension (Q18), Flamingo passage MCQs (Q10), unseen passage MCQs (Q1/Q2)",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Fill in the Blanks (Rikt Sthan)",
+        "question_number": "",
+        "section": "C",
+        "marks_each": 1,
+        "total_in_paper": 8,
+        "attempt": 8,
+        "negative_marking": false,
+        "how_to_attempt": "Given options mein se correct word/verb/conjunction choose karke likhna hota hai. Always choose from given brackets.",
+        "mostly_from": "Phrasal verbs (Q6), Conjunctions (Q7), Conditional sentences (Q9)",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Very Short Answer (Ati Laghu Uttariy)",
+        "question_number": "",
+        "section": "A and D",
+        "marks_each": 1,
+        "total_in_paper": 20,
+        "attempt": 20,
+        "negative_marking": false,
+        "how_to_attempt": "Direct answer from passage or text. Ek sentence mein khatam karo. For vocabulary: single word answer.",
+        "mostly_from": "Unseen passage comprehension (Q1/Q2), Flamingo/Vistas objective (Q10, Q18)",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "1-2 lines",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer (Laghu Uttariy)",
+        "question_number": "",
+        "section": "C and D",
+        "marks_each": 2,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "2-3 clear sentences. Direct answer to the question. For synthesis: combine in one sentence as directed.",
+        "mostly_from": "Flamingo Prose (Q12), Flamingo Poetry (Q15), Vistas (Q17), Synthesis (Q8)",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "20-40 words",
+        "notes": ""
+      },
+      {
+        "type": "Long Answer (Dirgha Uttariy)",
+        "question_number": "",
+        "section": "D",
+        "marks_each": 3,
+        "total_in_paper": 3,
+        "attempt": 3,
+        "negative_marking": false,
+        "how_to_attempt": "3 marks = intro point (1) + main explanation with 2-3 supporting points (1.5) + conclusion (0.5). Number your points for clarity.",
+        "mostly_from": "Flamingo Prose any one (Q11), Flamingo Poetry any one (Q14), Vistas any one (Q16)",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "60 words",
+        "notes": ""
+      },
+      {
+        "type": "Stanza Explanation (Sandarbh Sahit Vyakhya)",
+        "question_number": "",
+        "section": "D",
+        "marks_each": 5,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Format: (1) Reference — poem name + poet name. (2) Context — kab/kahan yeh lines hain. (3) Explanation — line by line meaning. (4) Special significance — why these lines matter.",
+        "mostly_from": "Any poem from Flamingo — A Thing of Beauty, My Mother at Sixty-Six, Keeping Quiet, etc.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "100-120 words",
+        "notes": ""
+      },
+      {
+        "type": "Writing — Notice/Letter/Report",
+        "question_number": "",
+        "section": "B",
+        "marks_each": 0,
+        "total_in_paper": 3,
+        "attempt": 3,
+        "negative_marking": false,
+        "how_to_attempt": "Always use the correct format. Notice needs: heading, date, body, signature. Letter needs: sender address, date, salutation, body, closing. Report needs: headline, date, byline, body paragraphs.",
+        "mostly_from": "Notice/Advertisement/Invitation (Q3), Report/Paragraph (Q4), Formal/Informal Letter/Application (Q5)",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "80-120 words",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "4 sections: A Reading (15) + B Writing (14) + C Grammar (10) + D Textual (41) = 80",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Q3, Q4, Q5, Q11, Q13, Q14 aur Q16 mein internal choice (OR option) milta hai.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 45,
+      "medium_percent": 40,
+      "hard_percent": 15,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Reading",
+        "type": "Section A — Reading",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 2,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 15,
+        "word_limit": "",
+        "breakdown": "unseen_passage_1: 9 marks; unseen_passage_2: 6 marks",
+        "notes": ""
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Writing",
+        "type": "Section B — Writing",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 3,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 14,
+        "word_limit": "",
+        "breakdown": "notice_advertisement_invitation_argument: 4 marks; report_paragraph: 5 marks; letter: 5 marks",
+        "notes": ""
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Grammar",
+        "type": "Section C — Grammar",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 4,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "conditional_sentences: 2 marks; phrasal_verbs: 3 marks; synthesis: 2 marks; conjunction: 3 marks",
+        "notes": ""
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Textual Questions",
+        "type": "Section D — Textual Questions",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 9,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 41,
+        "word_limit": "",
+        "breakdown": "flamingo_prose_passage: 6 marks; flamingo_prose_long: 3 marks; flamingo_prose_short: 4 marks; flamingo_poetry_stanza: 5 marks; flamingo_poetry_long: 3 marks; flamingo_poetry_short: 4 marks; vistas_long: 3 marks; vistas_short: 4 marks; vistas_mcq_objective: 9 marks",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 80,
+    "total_practical": 0,
+    "internal_assessment": 20,
+    "grand_total": 100,
+    "marks_summary_note": "A(15) + B(14) + C(10) + D(41) = 80 theory + 20 IA = 100.",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Reading",
+        "question_numbers": "",
+        "type": "Section A — Reading",
+        "total_questions": 0,
+        "total_sub_questions": 2,
+        "marks_per_question": 0,
+        "total_marks": 15,
+        "word_limit": "",
+        "breakdown": "unseen_passage_1: 9 marks; unseen_passage_2: 6 marks"
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Writing",
+        "question_numbers": "",
+        "type": "Section B — Writing",
+        "total_questions": 0,
+        "total_sub_questions": 3,
+        "marks_per_question": 0,
+        "total_marks": 14,
+        "word_limit": "",
+        "breakdown": "notice_advertisement_invitation_argument: 4 marks; report_paragraph: 5 marks; letter: 5 marks"
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Grammar",
+        "question_numbers": "",
+        "type": "Section C — Grammar",
+        "total_questions": 0,
+        "total_sub_questions": 4,
+        "marks_per_question": 0,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "conditional_sentences: 2 marks; phrasal_verbs: 3 marks; synthesis: 2 marks; conjunction: 3 marks"
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Textual Questions",
+        "question_numbers": "",
+        "type": "Section D — Textual Questions",
+        "total_questions": 0,
+        "total_sub_questions": 9,
+        "marks_per_question": 0,
+        "total_marks": 41,
+        "word_limit": "",
+        "breakdown": "flamingo_prose_passage: 6 marks; flamingo_prose_long: 3 marks; flamingo_prose_short: 4 marks; flamingo_poetry_stanza: 5 marks; flamingo_poetry_long: 3 marks; flamingo_poetry_short: 4 marks; vistas_long: 3 marks; vistas_short: 4 marks; vistas_mcq_objective: 9 marks"
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "RBSE English blueprint — 4 sections + objective-wise distribution.",
+    "total_theory_marks": 80,
+    "objective_percent": 30,
+    "subjective_percent": 70,
+    "analytical_percent": 10,
+    "highest_marks_chapter": {
+      "chapter_id": "D",
+      "name": "Section D — Textual Questions",
+      "marks": 41,
+      "note": "Flamingo + Vistas textual = highest-weightage section."
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "C",
+        "name": "Section C — Grammar",
+        "marks": 10
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "A",
+        "name": "Section A — Reading",
+        "marks": 15,
+        "one_mark_count": 15,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Unseen Passage 1 (9) + Passage 2 (6)"
+      },
+      {
+        "chapter_id": "B",
+        "name": "Section B — Writing",
+        "marks": 14,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 1,
+        "five_mark_count": 2,
+        "note": "Notice/Ad (4) + Report/Paragraph (5) + Letter (5)"
+      },
+      {
+        "chapter_id": "C",
+        "name": "Section C — Grammar",
+        "marks": 10,
+        "one_mark_count": 10,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Phrasal Verbs (3) + Conjunctions (3) + Synthesis (2) + Conditional (2)"
+      },
+      {
+        "chapter_id": "D",
+        "name": "Section D — Textual Questions",
+        "marks": 41,
+        "one_mark_count": 15,
+        "two_mark_count": 6,
+        "three_mark_count": 3,
+        "four_mark_count": 0,
+        "five_mark_count": 1,
+        "note": "Flamingo Prose (16) + Poetry (12) + Vistas (13)"
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 40,
+      "two_mark_total": 12,
+      "three_mark_total": 9,
+      "four_mark_total": 4,
+      "five_mark_total": 15
+    }
+  },
+  "syllabus": {
+    "note": "RBSE English Class 12 — Flamingo (6 prose + 5 poetry) + Vistas (8 chapters).",
+    "books": [
+      {
+        "book_name": "Flamingo (Prose)",
+        "category": "Main reader — prose",
+        "total_marks": 0,
+        "note": "Q10 (passage), Q11 (long), Q12 (short) from Flamingo Prose.",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "The Last Lesson",
+            "marks": 0,
+            "topics": [
+              "Loss of language and culture",
+              "Patriotism and national identity",
+              "M. Hamel's last French lesson in Alsace",
+              "Franz's transformation from careless to responsible student"
+            ],
+            "note": "Author: Alphonse Daudet | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "2",
+            "name": "Lost Spring",
+            "marks": 0,
+            "topics": [
+              "Child labour — Saheb and Mukesh",
+              "Poverty and broken dreams",
+              "Bangle makers of Firozabad",
+              "Vicious cycle of poverty"
+            ],
+            "note": "Author: Anees Jung | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "3",
+            "name": "Deep Water",
+            "marks": 0,
+            "topics": [
+              "Overcoming fear of water",
+              "Missoula pool and YMCA pool incidents",
+              "Role of instructor in building confidence",
+              "Determination and courage"
+            ],
+            "note": "Author: William Douglas | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "4",
+            "name": "The Rattrap",
+            "marks": 0,
+            "topics": [
+              "World as a rattrap metaphor",
+              "Redemption through kindness",
+              "Edla Willmansson's compassion transforms the peddler",
+              "Captain von Stahle identity"
+            ],
+            "note": "Author: Selma Lagerlöf | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "5",
+            "name": "Indigo",
+            "marks": 0,
+            "topics": [
+              "Gandhi's Champaran movement",
+              "Indigo sharecropping — tinkathia system",
+              "Civil disobedience against British",
+              "Social reforms in Champaran"
+            ],
+            "note": "Author: Louis Fischer | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "6",
+            "name": "Going Places",
+            "marks": 0,
+            "topics": [
+              "Adolescent fantasy and hero worship",
+              "Sophie's dreams vs reality",
+              "Danny Casey — imaginary encounter",
+              "Class and ambition"
+            ],
+            "note": "Author: A.R. Barton | Difficulty: Easy"
+          }
+        ]
+      },
+      {
+        "book_name": "Flamingo (Poetry)",
+        "category": "Main reader — poetry",
+        "total_marks": 0,
+        "note": "Q13 (stanza), Q14 (long), Q15 (short) from Flamingo Poetry.",
+        "chapters": [
+          {
+            "chapter_id": "7",
+            "name": "My Mother at Sixty-Six",
+            "marks": 0,
+            "topics": [
+              "Fear of losing mother",
+              "Contrast between mother's aging face and young children outside",
+              "Parting and pain",
+              "Mother's face 'ashen like that of a corpse'"
+            ],
+            "note": "Poet: Kamala Das | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "8",
+            "name": "A Thing of Beauty",
+            "marks": 0,
+            "topics": [
+              "Beauty is a joy forever",
+              "Natural things of beauty — sun, moon, trees, rivers",
+              "Beauty removes sorrow and suffering",
+              "Endless fountain of immortal drink"
+            ],
+            "note": "Poet: John Keats | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "9",
+            "name": "Keeping Quiet",
+            "marks": 0,
+            "topics": [
+              "Need for stillness and introspection",
+              "Stop war, violence, rushing",
+              "Count to twelve and keep quiet",
+              "Exotic moment — unity of humanity"
+            ],
+            "note": "Poet: Pablo Neruda | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "10",
+            "name": "A Roadside Stand",
+            "marks": 0,
+            "topics": [
+              "Rural poverty vs urban prosperity",
+              "Plea of roadside stall owners for help",
+              "City people's indifference",
+              "False promises of progress"
+            ],
+            "note": "Poet: Robert Frost | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "11",
+            "name": "Aunt Jennifer's Tigers",
+            "marks": 0,
+            "topics": [
+              "Oppression of women in marriage",
+              "Aunt Jennifer's tigers — freedom and courage she lacks",
+              "Contrast between tigers' freedom and Aunt's bondage",
+              "Feminist poem"
+            ],
+            "note": "Poet: Adrienne Rich | Difficulty: Easy-Medium"
+          }
+        ]
+      },
+      {
+        "book_name": "Vistas",
+        "category": "Supplementary reader",
+        "total_marks": 13,
+        "note": "Q16 (long), Q17 (short), Q18 (MCQs) from Vistas.",
+        "chapters": [
+          {
+            "chapter_id": "12",
+            "name": "The Third Level",
+            "marks": 0,
+            "topics": [
+              "Escapism and fantasy",
+              "Third level at Grand Central Station",
+              "1890s world as refuge from modern stress",
+              "Charley's psychiatrist friend Sam"
+            ],
+            "note": "Author: Jack Finney | Difficulty: Easy"
+          },
+          {
+            "chapter_id": "13",
+            "name": "The Tiger King",
+            "marks": 0,
+            "topics": [
+              "Prediction at birth — 100th tiger kills the king",
+              "Tiger King kills 99 tigers",
+              "Hundredth tiger — wooden toy tiger kills him",
+              "Satire on power and arrogance"
+            ],
+            "note": "Author: Kalki | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "14",
+            "name": "Journey to the End of the Earth",
+            "marks": 0,
+            "topics": [
+              "Antarctica — pristine, frozen, scientific importance",
+              "Students on Ice programme — Geoff Green",
+              "Climate change and global warming study",
+              "Human history visible in ice"
+            ],
+            "note": "Author: Tishani Doshi | Difficulty: Easy"
+          },
+          {
+            "chapter_id": "15",
+            "name": "The Enemy",
+            "marks": 0,
+            "topics": [
+              "Dr. Sadao saves an American enemy soldier",
+              "Conflict between duty as doctor vs patriotism",
+              "Hana and Sadao's dilemma",
+              "Humanity above nationality"
+            ],
+            "note": "Author: Pearl S. Buck | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "16",
+            "name": "Should Wizard Hit Mommy",
+            "marks": 0,
+            "topics": [
+              "Bedtime stories and parent-child relationship",
+              "Jack's story of Roger Skunk",
+              "Conformity vs individuality",
+              "Mother's authority"
+            ],
+            "note": "Author: John Updike | Difficulty: Easy"
+          },
+          {
+            "chapter_id": "17",
+            "name": "On the Face of It",
+            "marks": 0,
+            "topics": [
+              "Derry — boy with burnt face, isolated",
+              "Mr. Lamb — philosophical old man with tin leg",
+              "Overcoming disability and self-pity",
+              "Friendship and acceptance"
+            ],
+            "note": "Author: Susan Hill | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "18",
+            "name": "Evans Tries an O-Level",
+            "marks": 0,
+            "topics": [
+              "Evans — clever prisoner attempts escape during exam",
+              "Cat and mouse game with prison authorities",
+              "Clever plotting and irony"
+            ],
+            "note": "Author: Colin Dexter | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "19",
+            "name": "Memories of Childhood",
+            "marks": 0,
+            "topics": [
+              "Discrimination and untouchability (Bama's story)",
+              "Native American girl's humiliation at school (Zitkala-Sa)",
+              "Resistance to oppression",
+              "Cultural identity"
+            ],
+            "note": "Author:  | Difficulty: Easy-Medium"
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "The Last Lesson",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "prose",
+      "author": "Alphonse Daudet",
+      "genre": "Prose",
+      "weightage_marks": "2-3",
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Loss of language and culture",
+        "Patriotism and national identity",
+        "M. Hamel's last French lesson in Alsace",
+        "Franz's transformation from careless to responsible student"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "What does M. Hamel think about French language? (Q12 type — 20-30 words)",
+        "Character sketch of M. Hamel or Franz (long answer type)",
+        "MCQ — 'I never saw him look so tall' — what does it mean?"
+      ],
+      "important_lines": [
+        "'I never saw him look so tall' — M. Hamel standing straight, dignity, patriotism",
+        "'Vive La France!' — cry for freedom, love for motherland"
+      ],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Lost Spring",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "prose",
+      "author": "Anees Jung",
+      "genre": "Prose",
+      "weightage_marks": "2-3",
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Child labour — Saheb and Mukesh",
+        "Poverty and broken dreams",
+        "Bangle makers of Firozabad",
+        "Vicious cycle of poverty"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "'It is his Karam, his destiny' — who said this and why? (long answer with OR)",
+        "Why does Saheb pick rags? What is his dream?",
+        "MCQ — Who wants to drive a car? (Mukesh)"
+      ],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Deep Water",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "prose",
+      "author": "William Douglas",
+      "genre": "Prose",
+      "weightage_marks": "3-4",
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Overcoming fear of water",
+        "Missoula pool and YMCA pool incidents",
+        "Role of instructor in building confidence",
+        "Determination and courage"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Describe the efforts done by the author to conquer the fear of water (Q11 type)",
+        "How did Douglas overcome his fear of water? (long answer — OR)",
+        "MCQ — Douglas decided to learn to swim when he was ten or eleven years old"
+      ],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "The Rattrap",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "prose",
+      "author": "Selma Lagerlöf",
+      "genre": "Prose",
+      "weightage_marks": "4-5",
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "World as a rattrap metaphor",
+        "Redemption through kindness",
+        "Edla Willmansson's compassion transforms the peddler",
+        "Captain von Stahle identity"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Passage-based MCQ (Q10) — letter from Captain von Stahle, rattrap Christmas gift",
+        "Character sketch of the peddler (long answer)",
+        "What was the peddler's idea about the world being a rattrap? (Q21 type)",
+        "Why did the peddler sign himself as Captain von Stahle?"
+      ],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Indigo",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "prose",
+      "author": "Louis Fischer",
+      "genre": "Prose",
+      "weightage_marks": "3",
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Gandhi's Champaran movement",
+        "Indigo sharecropping — tinkathia system",
+        "Civil disobedience against British",
+        "Social reforms in Champaran"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Describe works done by Gandhi for improving health condition in Champaran (Q11 type)",
+        "Why did Gandhiji scold the lawyers?",
+        "What was the long term contract? (Indigo — 3 marks)"
+      ],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Going Places",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "prose",
+      "author": "A.R. Barton",
+      "genre": "Prose",
+      "weightage_marks": "1-2",
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Adolescent fantasy and hero worship",
+        "Sophie's dreams vs reality",
+        "Danny Casey — imaginary encounter",
+        "Class and ambition"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Short answer: Sophie's fantasy about Danny Casey",
+        "MCQ type questions"
+      ],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "My Mother at Sixty-Six",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "poetry",
+      "author": "Kamala Das",
+      "genre": "Poetry",
+      "weightage_marks": "5-7",
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Fear of losing mother",
+        "Contrast between mother's aging face and young children outside",
+        "Parting and pain",
+        "Mother's face 'ashen like that of a corpse'"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Driving from my parent's home to Cochin... — very frequently asked for Q13 stanza explanation"
+      ],
+      "important_lines": [],
+      "literary_devices": [
+        "Simile — 'face ashen like that of a corpse'",
+        "Imagery — dozing mother vs running children"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "A Thing of Beauty",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "poetry",
+      "author": "John Keats",
+      "genre": "Poetry",
+      "weightage_marks": "4-5",
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Beauty is a joy forever",
+        "Natural things of beauty — sun, moon, trees, rivers",
+        "Beauty removes sorrow and suffering",
+        "Endless fountain of immortal drink"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "'And such too is the grandeur of the dooms / We have imagined for the mighty dead...' — very frequently asked for Q13"
+      ],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Keeping Quiet",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "poetry",
+      "author": "Pablo Neruda",
+      "genre": "Poetry",
+      "weightage_marks": "3-4",
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Need for stillness and introspection",
+        "Stop war, violence, rushing",
+        "Count to twelve and keep quiet",
+        "Exotic moment — unity of humanity"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "A Roadside Stand",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "poetry",
+      "author": "Robert Frost",
+      "genre": "Poetry",
+      "weightage_marks": "2-3",
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Rural poverty vs urban prosperity",
+        "Plea of roadside stall owners for help",
+        "City people's indifference",
+        "False promises of progress"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Aunt Jennifer's Tigers",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "poetry",
+      "author": "Adrienne Rich",
+      "genre": "Poetry",
+      "weightage_marks": "3",
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Oppression of women in marriage",
+        "Aunt Jennifer's tigers — freedom and courage she lacks",
+        "Contrast between tigers' freedom and Aunt's bondage",
+        "Feminist poem"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "The Third Level",
+      "unit_or_chapter": "chapter",
+      "book": "Vistas",
+      "category": "supplementary",
+      "author": "Jack Finney",
+      "genre": "Supplementary",
+      "weightage_marks": "3-4",
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Escapism and fantasy",
+        "Third level at Grand Central Station",
+        "1890s world as refuge from modern stress",
+        "Charley's psychiatrist friend Sam"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "What is meant by the modern world? (20 words)",
+        "Which newspaper was there on the platform of the third level? (MCQ — The World)",
+        "What was the name of Charley's psychiatrist? (MCQ — Sam)"
+      ],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "The Tiger King",
+      "unit_or_chapter": "chapter",
+      "book": "Vistas",
+      "category": "supplementary",
+      "author": "Kalki",
+      "genre": "Supplementary",
+      "weightage_marks": "3-4",
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Prediction at birth — 100th tiger kills the king",
+        "Tiger King kills 99 tigers",
+        "Hundredth tiger — wooden toy tiger kills him",
+        "Satire on power and arrogance"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "How was the tiger king killed by the hundredth tiger? (Q16 type — 60 words OR)",
+        "Why does the name 'Tiger King' justify in the story? (20 words)",
+        "What proclamation was issued by the Maharaja? (2 marks)",
+        "MCQ — How much money paid to British jewellers for fifty rings? (3 lacs)"
+      ],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "Journey to the End of the Earth",
+      "unit_or_chapter": "chapter",
+      "book": "Vistas",
+      "category": "supplementary",
+      "author": "Tishani Doshi",
+      "genre": "Supplementary",
+      "weightage_marks": "2-3",
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Antarctica — pristine, frozen, scientific importance",
+        "Students on Ice programme — Geoff Green",
+        "Climate change and global warming study",
+        "Human history visible in ice"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "For what purpose is Antarctica regarded as ideal place for scientific study? (Q17 type)",
+        "Why is Antarctica a crucial element in the debate of climate change? (2 marks)",
+        "MCQ — Who was the head of 'Students on Ice' programme? (Geoff Green)"
+      ],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 15,
+      "name": "The Enemy",
+      "unit_or_chapter": "chapter",
+      "book": "Vistas",
+      "category": "supplementary",
+      "author": "Pearl S. Buck",
+      "genre": "Supplementary",
+      "weightage_marks": "4-5",
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Dr. Sadao saves an American enemy soldier",
+        "Conflict between duty as doctor vs patriotism",
+        "Hana and Sadao's dilemma",
+        "Humanity above nationality"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Did Dr. Sadao do his duty honestly? (Q16 type — 60 words OR)",
+        "What was the chief concern of Sadao's father? (20 words)",
+        "Why could Sadao not kill his enemy? (2 marks)",
+        "MCQ — Where was Sadao's wife born? (USA)",
+        "How did Sadao have his reward? (long answer)"
+      ],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 16,
+      "name": "Should Wizard Hit Mommy",
+      "unit_or_chapter": "chapter",
+      "book": "Vistas",
+      "category": "supplementary",
+      "author": "John Updike",
+      "genre": "Supplementary",
+      "weightage_marks": "1-2",
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Bedtime stories and parent-child relationship",
+        "Jack's story of Roger Skunk",
+        "Conformity vs individuality",
+        "Mother's authority"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "Short answer type questions",
+        "MCQ type"
+      ],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 17,
+      "name": "On the Face of It",
+      "unit_or_chapter": "chapter",
+      "book": "Vistas",
+      "category": "supplementary",
+      "author": "Susan Hill",
+      "genre": "Supplementary",
+      "weightage_marks": "3-4",
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Derry — boy with burnt face, isolated",
+        "Mr. Lamb — philosophical old man with tin leg",
+        "Overcoming disability and self-pity",
+        "Friendship and acceptance"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "What does Mr. Lamb do all day? (20 words)",
+        "How old was Derry? (MCQ — fourteen)",
+        "How did Mr. Lamb lose his leg? (MCQ — Lost in a war)",
+        "'Handsome is as handsome does' — explain. (2 marks)"
+      ],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 18,
+      "name": "Evans Tries an O-Level",
+      "unit_or_chapter": "chapter",
+      "book": "Vistas",
+      "category": "supplementary",
+      "author": "Colin Dexter",
+      "genre": "Supplementary",
+      "weightage_marks": "1-2",
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Evans — clever prisoner attempts escape during exam",
+        "Cat and mouse game with prison authorities",
+        "Clever plotting and irony"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "MCQ/Short answer type"
+      ],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 19,
+      "name": "Memories of Childhood",
+      "unit_or_chapter": "chapter",
+      "book": "Vistas",
+      "category": "supplementary",
+      "author": "",
+      "genre": "Supplementary",
+      "weightage_marks": "3-5",
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Discrimination and untouchability (Bama's story)",
+        "Native American girl's humiliation at school (Zitkala-Sa)",
+        "Resistance to oppression",
+        "Cultural identity"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": [
+        "How can the indignities of untouchability be thrown away? (Q17 type — 20-30 words)",
+        "What terrible warning did Zitkala-Sa receive from Judewin? (MCQ — Cutting of the hair)",
+        "Why did Zitkala-Sa feel humiliated during cutting of her hair? (MCQ)",
+        "What was the meaning of third bell? (20 words)",
+        "'We too are Human Beings' — who is the victim here and why? (long answer OR)"
+      ],
+      "important_lines": [],
+      "literary_devices": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "RBSE English — Flamingo (6 prose + 5 poetry) + Vistas (8 supplementary) = 19 chapters total.",
+    "can_chapter_have_zero_questions": true,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "Section D covers chapters in mixed fashion — broad preparation needed.",
+    "or_questions_note": "Q3, Q4, Q5, Q11, Q13, Q14 aur Q16 mein internal choice (OR option) milta hai.",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "The Rattrap (Q10 passage frequently)",
+      "My Mother at Sixty-Six",
+      "A Thing of Beauty"
+    ],
+    "chapters_never_skip_reason": "High frequency in passage extract (Q10) and stanza explanation (Q13).",
+    "chapters_with_highest_weightage": [
+      "Flamingo Prose (Q10-Q12 = 16 marks)",
+      "Flamingo Poetry (Q13-Q15 = 12 marks)",
+      "Vistas (Q16-Q18 = 13 marks)"
+    ],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [
+      "Unseen Passage 1 — Comprehension (9 marks)",
+      "Unseen Passage 2 — Comprehension (6 marks)",
+      "Notice / Invitation writing",
+      "Report writing on school event",
+      "Letter to District Collector / Job Application",
+      "Phrasal verbs fill in blanks",
+      "Conjunctions fill in blanks",
+      "The Rattrap — Captain von Stahle letter passage (Q10)",
+      "Deep Water OR Indigo — long answer (Q11)",
+      "The Last Lesson + The Interview — short answers (Q12)",
+      "A Thing of Beauty OR My Mother at Sixty-Six — stanza explanation (Q13)",
+      "Keeping Quiet OR Aunt Jennifer's Tigers — long answer (Q14)",
+      "A Thing of Beauty + A Roadside Stand — short answers (Q15)",
+      "The Enemy OR The Tiger King — long answer (Q16)",
+      "Memories of Childhood + Journey to End of Earth — short answers (Q17)",
+      "Vistas MCQ — all 8 chapters (Q18)"
+    ],
+    "chapters_mostly_theory": [],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Unseen Passage 1 — Comprehension (9 marks)",
+      "Unseen Passage 2 — Comprehension (6 marks)",
+      "Notice / Invitation writing",
+      "Report writing on school event",
+      "Letter to District Collector / Job Application",
+      "Phrasal verbs fill in blanks",
+      "Conjunctions fill in blanks",
+      "The Rattrap — Captain von Stahle letter passage (Q10)",
+      "Deep Water OR Indigo — long answer (Q11)",
+      "The Last Lesson + The Interview — short answers (Q12)",
+      "A Thing of Beauty OR My Mother at Sixty-Six — stanza explanation (Q13)",
+      "Keeping Quiet OR Aunt Jennifer's Tigers — long answer (Q14)",
+      "A Thing of Beauty + A Roadside Stand — short answers (Q15)",
+      "The Enemy OR The Tiger King — long answer (Q16)",
+      "Memories of Childhood + Journey to End of Earth — short answers (Q17)",
+      "Vistas MCQ — all 8 chapters (Q18)"
+    ],
+    "one_mark_question_facts": {
+      "note": "MCQ = 1 mark each. Section A (reading) + Section D (textual) = primary sources.",
+      "common_formats": []
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for English",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not applicable for English — no formulas.",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Section C grammar topics (10 marks total).",
+    "topics": [
+      {
+        "topic_name": "Phrasal Verbs",
+        "question_number": "Q6",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "100 common phrasal verbs yaad karo. Always choose from given brackets — no new phrasal verb likhna.",
+        "tip": "",
+        "frequently_asked": [
+          "broke out / broke through",
+          "carry on / carry out",
+          "turn on / turn off",
+          "broke down / broke up",
+          "bring up / bring to",
+          "give up / give in",
+          "look up / look after",
+          "set up / set out"
+        ],
+        "types": []
+      },
+      {
+        "topic_name": "Conjunctions",
+        "question_number": "Q7",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "Conjunctions ka use context se samjho. Adversative (though, although, but), causal (because, so), conditional (if, unless).",
+        "tip": "",
+        "frequently_asked": [
+          "though / when",
+          "unless / so that",
+          "so / if",
+          "because / although",
+          "as soon as / until",
+          "either...or / neither...nor",
+          "not only...but also"
+        ],
+        "types": []
+      },
+      {
+        "topic_name": "Synthesis (Combining Sentences)",
+        "question_number": "Q8",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "Practice combining sentence pairs. Infinitive — 'He has duties to perform.' Participle — 'Jumping, the monkey ran away.'",
+        "tip": "",
+        "frequently_asked": [],
+        "types": []
+      },
+      {
+        "topic_name": "Conditional Sentences",
+        "question_number": "Q9",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "Teen types clearly samjho. Type 2 mein 'were' use hota hai even for I/he/she.",
+        "tip": "",
+        "frequently_asked": [
+          "If I were the principal... (Type 2 — were, not was)",
+          "If India had played well, it would have won... (Type 3)",
+          "If you study hard, you will pass... (Type 1)"
+        ],
+        "types": []
+      }
+    ]
+  },
+  "writing_section_formats": {
+    "note": "Section B writing formats (14 marks total).",
+    "formats": [
+      {
+        "format_name": "Notice",
+        "structure": "School/Organisation name (top centre) | NOTICE (heading — bold, underlined) | Date | Subject/Title | Body — what, when, where, who | Name and Designation of writer",
+        "word_limit": "~80 words",
+        "tip": "Word limit strict hai. Formal language. No personal pronouns. Box the notice.",
+        "frequently_asked_topics": [
+          "Yuva Mahotsav, cultural events, school activities, awareness programmes"
+        ]
+      },
+      {
+        "format_name": "Report",
+        "structure": "Headline (what happened) | Byline (by [Name], [Designation/Reporter]) | Date and Place | Opening paragraph — the 5 Ws (what, when, where, who, why) | Middle — details of event | Conclusion — outcome/closing remarks",
+        "word_limit": "~100 words",
+        "tip": "Third person use karo. Past tense. Bullet points allowed in some RBSE papers.",
+        "frequently_asked_topics": [
+          "Career Fair, Annual Function, Tree plantation drive, Debate competition"
+        ]
+      },
+      {
+        "format_name": "Paragraph",
+        "structure": "Topic sentence (first line introduces the topic) | Supporting sentences — 3-4 points with explanation | Concluding sentence",
+        "word_limit": "~100 words",
+        "tip": "",
+        "frequently_asked_topics": [
+          "Hariyalo Rajasthan Abhiyan, Water conservation, Digital India, Yoga Day"
+        ]
+      },
+      {
+        "format_name": "Formal Letter / Complaint Letter",
+        "structure": "Sender's address (top right) | Date | Receiver's address (left) | Subject line | Salutation (Dear Sir/Ma'am) | Body — introduction, main complaint/request, conclusion | Yours faithfully/sincerely | Name and Signature",
+        "word_limit": "~100-120 words",
+        "tip": "",
+        "frequently_asked_topics": [
+          "Complaint to collector about wine shop near school, noise pollution, road repair"
+        ]
+      },
+      {
+        "format_name": "Application Letter with Resume",
+        "structure": "",
+        "word_limit": "~120 words + Resume",
+        "tip": "",
+        "frequently_asked_topics": [
+          "Yoga Teacher application, English Teacher post, any job application"
+        ]
+      },
+      {
+        "format_name": "Informal Letter / Invitation Decline",
+        "structure": "Sender address | Date | Salutation (Dear [Name],) | Body — thank for invite, reason for inability, apology | Yours affectionately/lovingly | Name",
+        "word_limit": "~80 words",
+        "tip": "",
+        "frequently_asked_topics": [
+          "Declining wedding invitation, declining birthday party, unable to attend function"
+        ]
+      }
+    ]
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "RBSE English has no practical. 80 theory + 20 IA = 100.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Easy-Medium",
+    "note": "",
+    "easy_percent": 45,
+    "medium_percent": 40,
+    "hard_percent": 15,
+    "most_scoring_sections": [
+      "Easy — agar passage dhyan se padha ho toh 12-14 marks aasaan hain",
+      "Easy — options given hain. Grammar basic NCERT level ka hai.",
+      "Easy to Medium — chapters se direct questions. MCQs aur short answers scoring."
+    ],
+    "most_difficult_sections": [
+      "Medium — format yaad ho toh scoring. Letter/Application mein content creative hona chahiye."
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Reading time mein OR options decide karo — dono mat padhna exam time mein",
+      "Unseen passage mein answer passage mein se hi likhna hai — apni understanding add karo",
+      "Writing section mein format marks bhi milte hain — format bilkul sahi rakho",
+      "Section C mein options given hain — bahut carefully choose karo, dono options padhne ke baad",
+      "Q10 ka passage carefully padho — 6 marks isme hain aur mostly story ka famous extract hota hai",
+      "Q13 stanza explanation mein: Poem ka naam + Poet ka naam likho pehle — 0.5 mark pakka",
+      "Q18 Vistas MCQs — 9 marks, no negative marking — sab attempt karo",
+      "Letter mein Subject line mat bhoolna — marks katenge",
+      "Notice mein date aur designation compulsory hai",
+      "Numerals aur facts sahi likhna — MCQs mein close options aate hain"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "Dono unseen passages padho. OR options decide karo Section B + D mein. Q10 ka passage ek baar padho."
+      },
+      {
+        "section_id": "section_A_25min",
+        "recommended_minutes": 0,
+        "note": "Dono passages — direct answers likhte jao. 1 mark each — overthink mat karo."
+      },
+      {
+        "section_id": "section_B_35min",
+        "recommended_minutes": 12,
+        "note": "3 writing questions × ~10-12 min. Format pehle likhna start karo — saves time."
+      },
+      {
+        "section_id": "section_C_15min",
+        "recommended_minutes": 0,
+        "note": "4 grammar questions — choose from given options. Synthesis ka ek sentence banana hai only."
+      },
+      {
+        "section_id": "section_D_60min",
+        "recommended_minutes": 10,
+        "note": "Q10 (6 marks) — 10 min. Q11-Q17 — ~40 min. Q18 MCQs — 10 min."
+      },
+      {
+        "section_id": "revision_5min",
+        "recommended_minutes": 0,
+        "note": "Word count check karo. Question numbers verify karo. Roll number correctly written hai?"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 26,
+        "strategy": "Section A ke dono passages se 10-12 marks aasaan hain. Section C grammar se 6-7 marks. Section D ke MCQ (Q18) se 5-6 marks. Total = 21-25 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Unseen passages — zyaada se zyaada attempt karo (no negative marking)",
+          "Q18 — Vistas MCQs — 9 marks, bas chapters ek baar padho",
+          "Q6, Q7 — Phrasal verbs + Conjunctions (given options se choose karna hai — easy 6 marks)",
+          "Q10 — Rattrap passage MCQ (1 mark each — easy if chapter read)"
+        ],
+        "chapters_to_skip_safely": [
+          "Stanza explanation (Q13) — agar preparation nahi hai toh skip karo",
+          "Application with Resume — time consuming",
+          "Long derivation type questions"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45_marks",
+        "target_marks": 45,
+        "strategy": "Section A full (14-15) + Section C full (10) + Section D MCQs + short answers (25) + Section B ek writing (4-5) = 53-55 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Flamingo Prose — Rattrap, Deep Water, Indigo — short + long answers",
+          "Flamingo Poetry — My Mother at Sixty Six, A Thing of Beauty — stanza ready karo",
+          "Writing Section — Notice aur Report format perfect karo",
+          "All Vistas chapters — MCQ ke liye ek baar padho"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60_marks_plus",
+        "target_marks": 60,
+        "strategy": "Section A full (15) + Section B full (14) + Section C full (10) + Section D full attempt (38-41) = 77-80.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All 6 Flamingo Prose chapters — character sketches + themes ready",
+          "All 5 Flamingo Poems — stanza explanations prepared",
+          "All 8 Vistas chapters — short answers + MCQs",
+          "All writing formats — Notice, Report, Paragraph, Formal Letter, Application + Resume",
+          "Grammar — all 4 types thoroughly practised"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping",
+        "target_marks": 70,
+        "strategy": "Sab sections mein maximum marks aao. Writing section ke 14 marks aur Section D ke 41 marks — yahan farak padta hai.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Writing — word limit strictly follow karo. Format perfect hona chahiye.",
+          "Stanza explanation (Q13) — 5 marks — reference + context + line-by-line + device = full marks",
+          "Unseen passages mein vocabulary answers precise rakho",
+          "Section D mein 60-word answers mein specific examples do — marks improve hote hain"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "Writing — word limit strictly follow karo. Format perfect hona chahiye.",
+          "Stanza explanation (Q13) — 5 marks — reference + context + line-by-line + device = full marks",
+          "Unseen passages mein vocabulary answers precise rakho",
+          "Section D mein 60-word answers mein specific examples do — marks improve hote hain"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 20,
+    "note": "20 marks internal assessment school-level (projects, assignments, periodic tests).",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "SP Examination Idea — English Compulsory Class 12",
+        "author": "",
+        "publisher": "Science Publications, Jaipur",
+        "purpose": "Primary",
+        "note": "RBSE ke liye #1 book. Chapter-wise questions, writing formats, grammar exercises aur model papers hain."
+      },
+      {
+        "name": "NCERT Flamingo + Vistas Class 12",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Base textbooks. Sab questions inhi se aate hain. Dono books ek baar zaroor puri padho."
+      },
+      {
+        "name": "Previous Year Papers 2018-2025",
+        "author": "",
+        "publisher": "RBSE",
+        "purpose": "Supplementary",
+        "note": "Official website rajeduboard.rajasthan.gov.in se download karo. Pattern samajhne ke liye must solve. Unseen passages bhi repeat themes pe aate hain."
+      },
+      {
+        "name": "RBSE Model Paper 2026",
+        "author": "",
+        "publisher": "RBSE Official",
+        "purpose": "Supplementary",
+        "note": "Official model paper download link: rajeduboard.rajasthan.gov.in > Books/Old Papers/Model Questions."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "rajeduboard.rajasthan.gov.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 minute reading time milta hai. Is time mein sirf paper padho — answers likhna allowed nahi."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "Write question number clearly before each answer",
+      "Set number compulsory on cover page",
+      "Sequence not compulsory — attempt easiest first",
+      "Rough work on last page, clearly marked"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Blue pen for main answers. Black pen for headings/underlining."
+    },
+    "rough_work_rules": "Rough work on last page — clearly label \"ROUGH WORK\".",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

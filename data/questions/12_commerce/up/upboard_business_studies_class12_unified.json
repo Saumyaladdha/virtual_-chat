@@ -1,0 +1,2056 @@
+{
+  "board": "UP Board",
+  "class": "12",
+  "subject": "Business Studies",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 100,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 33,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": true,
+    "extra_time_note": "3 Hours 15 Minutes total. First 15 minutes reading time only — no writing allowed.",
+    "internal_assessment_note": "Minimum 33 out of 100 required to pass."
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 30,
+    "total_questions_to_attempt": 30,
+    "total_objective_questions": 10,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "English or Hindi both allowed. In case of discrepancy, Hindi version is final.",
+    "all_compulsory_note": "Long Answer questions (Q27-Q30) have OR option in each.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "UP Board BST syllabus fully NCERT-based.",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [
+      "NCERT Business Studies Part I",
+      "NCERT Business Studies Part II"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "4 types: MCQ (1M), Very Short Answer (2M), Short Answer (5M), Long Answer (10M)",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "Multiple Choice Questions",
+        "question_number": "A",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "10 MCQs, all compulsory. Includes CBQ (Competency Based Questions). Write only the correct answer letter in the answer book. Easy to Medium level.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Very Short Answer Type Questions",
+        "question_number": "B",
+        "section": "B",
+        "marks_each": 2,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "10 questions × 2 marks = 20 marks. All compulsory. Short definitions, 2 features/characteristics, or one short explanation. Easy to Medium.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "20-30 words",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer Type Questions",
+        "question_number": "C",
+        "section": "C",
+        "marks_each": 5,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "6 questions × 5 marks = 30 marks. Some questions carry part marks (2+3 or 4+1). No internal choice. Easy to Medium. Comparison/differentiation tables score well.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "80-100 words",
+        "notes": ""
+      },
+      {
+        "type": "Long Answer Type Questions",
+        "question_number": "D",
+        "section": "D",
+        "marks_each": 10,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "4 questions × 10 marks = 40 marks. Each has OR option. Some carry part marks (4+6, 7+3 etc). Medium to Difficult. Detailed explanations, numbered points, examples required.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "200-250 words",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "UP Board Business Studies Class 12 — 30 questions, 100 marks, 3 hrs 15 min.",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Only Q27-Q30 (Long Answer) have OR. Q1-Q26 all compulsory.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 30,
+      "medium_percent": 55,
+      "hard_percent": 15,
+      "note": "Medium to Difficult — four categories. MCQ easy to medium; VSA easy to medium; SA easy to medium; LA medium to difficult."
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Multiple Choice Questions",
+        "type": "Multiple Choice Questions",
+        "question_numbers": "Q1 to Q10",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "10 MCQs, all compulsory. Includes CBQ (Competency Based Questions). Write only the correct answer letter in the answer book. Easy to Medium level.",
+        "notes": ""
+      },
+      {
+        "section_id": "B",
+        "name": "Very Short Answer Type Questions",
+        "type": "Very Short Answer Type Questions",
+        "question_numbers": "Q11 to Q20",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "20-30 words",
+        "breakdown": "10 questions × 2 marks = 20 marks. All compulsory. Short definitions, 2 features/characteristics, or one short explanation. Easy to Medium.",
+        "notes": ""
+      },
+      {
+        "section_id": "C",
+        "name": "Short Answer Type Questions",
+        "type": "Short Answer Type Questions",
+        "question_numbers": "Q21 to Q26",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 5,
+        "total_marks": 30,
+        "word_limit": "80-100 words",
+        "breakdown": "6 questions × 5 marks = 30 marks. Some questions carry part marks (2+3 or 4+1). No internal choice. Easy to Medium. Comparison/differentiation tables score well.",
+        "notes": ""
+      },
+      {
+        "section_id": "D",
+        "name": "Long Answer Type Questions",
+        "type": "Long Answer Type Questions",
+        "question_numbers": "Q27 to Q30",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 10,
+        "total_marks": 40,
+        "word_limit": "200-250 words",
+        "breakdown": "4 questions × 10 marks = 40 marks. Each has OR option. Some carry part marks (4+6, 7+3 etc). Medium to Difficult. Detailed explanations, numbered points, examples required.",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 100,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "10 MCQ + 20 VSA + 30 SA + 40 LA = 100",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Multiple Choice Questions",
+        "question_numbers": "Q1 to Q10",
+        "type": "Multiple Choice Questions",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "10 MCQs, all compulsory. Includes CBQ (Competency Based Questions). Write only the correct answer letter in the answer book. Easy to Medium level."
+      },
+      {
+        "section_id": "B",
+        "name": "Very Short Answer Type Questions",
+        "question_numbers": "Q11 to Q20",
+        "type": "Very Short Answer Type Questions",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "20-30 words",
+        "breakdown": "10 questions × 2 marks = 20 marks. All compulsory. Short definitions, 2 features/characteristics, or one short explanation. Easy to Medium."
+      },
+      {
+        "section_id": "C",
+        "name": "Short Answer Type Questions",
+        "question_numbers": "Q21 to Q26",
+        "type": "Short Answer Type Questions",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 5,
+        "total_marks": 30,
+        "word_limit": "80-100 words",
+        "breakdown": "6 questions × 5 marks = 30 marks. Some questions carry part marks (2+3 or 4+1). No internal choice. Easy to Medium. Comparison/differentiation tables score well."
+      },
+      {
+        "section_id": "D",
+        "name": "Long Answer Type Questions",
+        "question_numbers": "Q27 to Q30",
+        "type": "Long Answer Type Questions",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 10,
+        "total_marks": 40,
+        "word_limit": "200-250 words",
+        "breakdown": "4 questions × 10 marks = 40 marks. Each has OR option. Some carry part marks (4+6, 7+3 etc). Medium to Difficult. Detailed explanations, numbered points, examples required."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "UP Board BST blueprint: Part A Principles & Functions (60 marks, Ch 1-8) + Part B Finance & Marketing (40 marks, Ch 9-11).",
+    "total_theory_marks": 100,
+    "objective_percent": 10,
+    "subjective_percent": 90,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "10",
+      "name": "Marketing",
+      "marks": 16,
+      "note": "Highest-weightage chapter"
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Nature and Significance of Management",
+        "marks": 5
+      },
+      {
+        "chapter_id": "2",
+        "name": "Principles of Management",
+        "marks": 5
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Nature and Significance of Management",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — 7-13"
+      },
+      {
+        "chapter_id": "2",
+        "name": "Principles of Management",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — 13-18"
+      },
+      {
+        "chapter_id": "3",
+        "name": "Business Environment",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — 19-24"
+      },
+      {
+        "chapter_id": "4",
+        "name": "Planning",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — 25-30"
+      },
+      {
+        "chapter_id": "5",
+        "name": "Organising",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — 31-39"
+      },
+      {
+        "chapter_id": "6",
+        "name": "Staffing",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — 39-46"
+      },
+      {
+        "chapter_id": "7",
+        "name": "Directing",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — 47-55"
+      },
+      {
+        "chapter_id": "8",
+        "name": "Controlling",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part A — 55-58"
+      },
+      {
+        "chapter_id": "9",
+        "name": "Business Finance",
+        "marks": 12,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B — 59-66"
+      },
+      {
+        "chapter_id": "10",
+        "name": "Marketing",
+        "marks": 16,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B — 66-78"
+      },
+      {
+        "chapter_id": "11",
+        "name": "Consumer Protection",
+        "marks": 12,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Part B — 79-84"
+      }
+    ],
+    "totals": {
+      "total_marks": 100,
+      "one_mark_questions": 10,
+      "two_mark_total": 20,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 30
+    }
+  },
+  "syllabus": {
+    "note": "UP Board Class 12 BST — 11 chapters (8 Part A + 3 Part B).",
+    "books": [
+      {
+        "book_name": "NCERT Business Studies Part I — Principles and Functions of Management",
+        "category": "Part A",
+        "total_marks": 60,
+        "note": "Ch 1-8 covering management principles, business environment, 5 functions.",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Nature and Significance of Management",
+            "marks": 5,
+            "topics": [
+              "Management — Concept, Definitions (Taylor, Koontz & Weihrich)",
+              "Characteristics/Features of Management (7 characteristics)",
+              "Objectives of Management: Organisational, Social, Personal",
+              "Importance of Management (5 points)",
+              "Nature of Management: Art, Science, Profession",
+              "Levels of Management: Top Level, Middle Level, Operational Level",
+              "Functions of Management: Planning, Organising, Staffing, Directing, Controlling",
+              "Coordination — Meaning, Importance, Essence of Management",
+              "Management in 21st Century"
+            ],
+            "note": "Pages: 7-13 | "
+          },
+          {
+            "chapter_id": "2",
+            "name": "Principles of Management",
+            "marks": 5,
+            "topics": [
+              "Concept and Nature of Principles of Management",
+              "Significance of Principles of Management",
+              "Scientific Management by FW Taylor — Definition, Principles (4), Techniques (6)",
+              "Functional Foremanship — 8 Foremen",
+              "Standardisation and Simplification of Work",
+              "Method Study, Motion Study, Time Study, Fatigue Study",
+              "Differential Piece Wage System",
+              "14 Principles of Management by Henry Fayol",
+              "Fayol vs Taylor: A Comparison"
+            ],
+            "note": "Pages: 13-18 | Medium"
+          },
+          {
+            "chapter_id": "3",
+            "name": "Business Environment",
+            "marks": 10,
+            "topics": [
+              "Meaning of Business Environment (Arthur M Weimer definition)",
+              "Importance of Business Environment (6 points)",
+              "Dimensions: Economic, Social, Technological, Political, Legal",
+              "Economic Environment in India",
+              "Liberalisation — Meaning and Features",
+              "Privatisation — Meaning",
+              "Globalisation — Meaning",
+              "Demonetisation — Meaning, Features, Effects",
+              "Economic Reforms 1991: LPG Policy"
+            ],
+            "note": "Pages: 19-24 | Easy-Medium"
+          },
+          {
+            "chapter_id": "4",
+            "name": "Planning",
+            "marks": 7,
+            "topics": [
+              "Meaning and Definition of Planning (ME Hurley)",
+              "Features/Characteristics of Planning (7 features)",
+              "Importance of Planning",
+              "Limitations of Planning: Internal and External",
+              "Process of Planning (7 steps)",
+              "Types of Planning: Corporate, Strategic, Tactical etc.",
+              "Types of Plan: Single Use Plan vs Standing Plan",
+              "Objectives, Strategy, Policy, Procedures, Methods, Rules, Programmes, Budget"
+            ],
+            "note": "Pages: 25-30 | Easy-Medium"
+          },
+          {
+            "chapter_id": "5",
+            "name": "Organising",
+            "marks": 10,
+            "topics": [
+              "Meaning and Definitions (Theo Haimann, Louis Allen)",
+              "Process of Organising: 4 Steps",
+              "Importance of Organising",
+              "Organisational Structure: Functional and Divisional",
+              "Formal Organisation — Meaning, Features, Merits, Demerits",
+              "Informal Organisation — Meaning, Features, Merits, Demerits",
+              "Delegation: Meaning, Elements (Authority, Responsibility, Accountability)",
+              "Importance of Delegation",
+              "Centralisation and Decentralisation — Meaning, Importance",
+              "Principles of Decentralisation",
+              "Span of Management"
+            ],
+            "note": "Pages: 31-39 | Medium"
+          },
+          {
+            "chapter_id": "6",
+            "name": "Staffing",
+            "marks": 7,
+            "topics": [
+              "Meaning and Importance of Staffing (Koontz & O'Donnell definition)",
+              "Staffing as Part of Human Resource Management",
+              "Evolution of Human Resource Management",
+              "Staffing Process — 8 Steps",
+              "Recruitment: Meaning, Sources (Internal and External), Merits & Demerits",
+              "Selection: Meaning, Selection Process (8 steps)",
+              "Training and Development — Meaning, Importance, Difference",
+              "Methods of Training: On-the-job (Apprenticeship, Internship, Job Rotation) and Off-the-job"
+            ],
+            "note": "Pages: 39-46 | Medium"
+          },
+          {
+            "chapter_id": "7",
+            "name": "Directing",
+            "marks": 10,
+            "topics": [
+              "Meaning and Definition of Directing (Theo Haimann)",
+              "Features and Importance of Directing",
+              "Principles of Directing",
+              "Elements of Directing: Supervision, Motivation, Leadership, Communication",
+              "Supervision — Meaning, Importance (Viteless definition)",
+              "Motivation — Meaning, Process, Importance (William Scott)",
+              "Maslow's Need Hierarchy Theory — 5 Levels",
+              "Financial and Non-financial Incentives",
+              "Leadership — Meaning, Characteristics, Importance, Styles",
+              "Communication — Meaning, Elements, Importance, Process",
+              "Formal and Informal Communication (Grapevine)",
+              "Barriers to Communication: Semantic, Psychological, Organisational, Personal",
+              "Measures to Overcome Communication Barriers"
+            ],
+            "note": "Pages: 47-55 | Medium-Difficult"
+          },
+          {
+            "chapter_id": "8",
+            "name": "Controlling",
+            "marks": 6,
+            "topics": [
+              "Meaning and Definitions (Koontz & O'Donnell)",
+              "Importance of Controlling",
+              "Limitations of Controlling",
+              "Relationship between Planning and Controlling",
+              "Process of Controlling (Steps)"
+            ],
+            "note": "Pages: 55-58 | Easy-Medium"
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Business Studies Part II — Business Finance and Marketing",
+        "category": "Part B",
+        "total_marks": 40,
+        "note": "Ch 9-11 covering Finance, Marketing, Consumer Protection.",
+        "chapters": [
+          {
+            "chapter_id": "9",
+            "name": "Business Finance",
+            "marks": 12,
+            "topics": [
+              "Meaning of Business Finance",
+              "Financial Management — Concept, Role, Objectives (Weston & Brigham)",
+              "Financial Decision: Investment, Financing, Dividend",
+              "Financial Planning — Meaning, Importance, Objectives",
+              "Capital Structure — Meaning, Factors Affecting",
+              "Fixed Capital and Working Capital — Meaning, Differences",
+              "Factors Affecting Fixed Capital Requirements",
+              "Factors Affecting Working Capital Requirements"
+            ],
+            "note": "Pages: 59-66 | Medium"
+          },
+          {
+            "chapter_id": "10",
+            "name": "Marketing",
+            "marks": 16,
+            "topics": [
+              "Concept of Marketing (Philip Kotler definition)",
+              "Marketing Management — Meaning, Philosophies (5)",
+              "Functions of Marketing",
+              "Marketing Mix — Meaning and 4 Elements (4 Ps: Product, Price, Place, Promotion)",
+              "Product — Meaning, Types",
+              "Branding — Meaning, Characteristics of Good Brand Name",
+              "Packaging — Meaning, Levels, Importance, Functions",
+              "Labelling — Meaning and Functions",
+              "Price Determination — Meaning, Factors",
+              "Physical Distribution — Components",
+              "Promotion Mix — Advertising, Personal Selling, Sales Promotion, Public Relations",
+              "Advertising — Meaning, Features, Merits, Demerits",
+              "Personal Selling — Meaning, Features, Merits",
+              "Sales Promotion — Meaning, Merits, Limitations, Activities",
+              "Public Relations — Meaning, Role, Characteristics"
+            ],
+            "note": "Pages: 66-78 | Medium-Difficult"
+          },
+          {
+            "chapter_id": "11",
+            "name": "Consumer Protection",
+            "marks": 12,
+            "topics": [
+              "Concept and Importance of Consumer Protection",
+              "Need for Consumer Protection",
+              "Consumer Protection Act, 2019 — Introduction, Scope",
+              "Who is a Consumer (Definition)",
+              "Consumer Rights (6 Rights)",
+              "Consumer Responsibilities",
+              "Ways and Means of Consumer Protection",
+              "Redressal Agencies: District Commission (upto ₹1 crore), State Commission (₹1–10 crore), National Commission (above ₹10 crore)",
+              "Reliefs Available under CPA",
+              "Consumer Organisations and NGOs"
+            ],
+            "note": "Pages: 79-84 | Easy-Medium"
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Nature and Significance of Management",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Part A: Principles and Functions of Management",
+      "part": "A",
+      "weightage_marks": 5,
+      "typical_breakdown": "7-13",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Management — Concept, Definitions (Taylor, Koontz & Weihrich)",
+        "Characteristics/Features of Management (7 characteristics)",
+        "Objectives of Management: Organisational, Social, Personal",
+        "Importance of Management (5 points)",
+        "Nature of Management: Art, Science, Profession",
+        "Levels of Management: Top Level, Middle Level, Operational Level",
+        "Functions of Management: Planning, Organising, Staffing, Directing, Controlling",
+        "Coordination — Meaning, Importance, Essence of Management",
+        "Management in 21st Century"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Principles of Management",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part I & Part II",
+      "unit_id": 2,
+      "unit_name": "Part A: Principles and Functions of Management",
+      "part": "A",
+      "weightage_marks": 5,
+      "typical_breakdown": "13-18",
+      "difficulty": "Medium",
+      "difficulty_reason": "Taylor's principles/techniques + Fayol's 14 principles — need memorisation. High repeat rate.",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Concept and Nature of Principles of Management",
+        "Significance of Principles of Management",
+        "Scientific Management by FW Taylor — Definition, Principles (4), Techniques (6)",
+        "Functional Foremanship — 8 Foremen",
+        "Standardisation and Simplification of Work",
+        "Method Study, Motion Study, Time Study, Fatigue Study",
+        "Differential Piece Wage System",
+        "14 Principles of Management by Henry Fayol",
+        "Fayol vs Taylor: A Comparison"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Business Environment",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "Part A: Principles and Functions of Management",
+      "part": "A",
+      "weightage_marks": 10,
+      "typical_breakdown": "19-24",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "LPG, Demonetisation, dimensions — factual and straightforward.",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Meaning of Business Environment (Arthur M Weimer definition)",
+        "Importance of Business Environment (6 points)",
+        "Dimensions: Economic, Social, Technological, Political, Legal",
+        "Economic Environment in India",
+        "Liberalisation — Meaning and Features",
+        "Privatisation — Meaning",
+        "Globalisation — Meaning",
+        "Demonetisation — Meaning, Features, Effects",
+        "Economic Reforms 1991: LPG Policy"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Planning",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part I & Part II",
+      "unit_id": 4,
+      "unit_name": "Part A: Principles and Functions of Management",
+      "part": "A",
+      "weightage_marks": 7,
+      "typical_breakdown": "25-30",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "Process of planning (7 steps), types of plans — sequential questions common.",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Meaning and Definition of Planning (ME Hurley)",
+        "Features/Characteristics of Planning (7 features)",
+        "Importance of Planning",
+        "Limitations of Planning: Internal and External",
+        "Process of Planning (7 steps)",
+        "Types of Planning: Corporate, Strategic, Tactical etc.",
+        "Types of Plan: Single Use Plan vs Standing Plan",
+        "Objectives, Strategy, Policy, Procedures, Methods, Rules, Programmes, Budget"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Organising",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part I & Part II",
+      "unit_id": 5,
+      "unit_name": "Part A: Principles and Functions of Management",
+      "part": "A",
+      "weightage_marks": 10,
+      "typical_breakdown": "31-39",
+      "difficulty": "Medium",
+      "difficulty_reason": "Delegation, Decentralisation, Formal vs Informal — comparison questions high value.",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Meaning and Definitions (Theo Haimann, Louis Allen)",
+        "Process of Organising: 4 Steps",
+        "Importance of Organising",
+        "Organisational Structure: Functional and Divisional",
+        "Formal Organisation — Meaning, Features, Merits, Demerits",
+        "Informal Organisation — Meaning, Features, Merits, Demerits",
+        "Delegation: Meaning, Elements (Authority, Responsibility, Accountability)",
+        "Importance of Delegation",
+        "Centralisation and Decentralisation — Meaning, Importance",
+        "Principles of Decentralisation",
+        "Span of Management"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Staffing",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part I & Part II",
+      "unit_id": 6,
+      "unit_name": "Part A: Principles and Functions of Management",
+      "part": "A",
+      "weightage_marks": 7,
+      "typical_breakdown": "39-46",
+      "difficulty": "Medium",
+      "difficulty_reason": "Recruitment vs Selection, selection process steps — LA and SA frequently asked.",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Meaning and Importance of Staffing (Koontz & O'Donnell definition)",
+        "Staffing as Part of Human Resource Management",
+        "Evolution of Human Resource Management",
+        "Staffing Process — 8 Steps",
+        "Recruitment: Meaning, Sources (Internal and External), Merits & Demerits",
+        "Selection: Meaning, Selection Process (8 steps)",
+        "Training and Development — Meaning, Importance, Difference",
+        "Methods of Training: On-the-job (Apprenticeship, Internship, Job Rotation) and Off-the-job"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Directing",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part I & Part II",
+      "unit_id": 7,
+      "unit_name": "Part A: Principles and Functions of Management",
+      "part": "A",
+      "weightage_marks": 10,
+      "typical_breakdown": "47-55",
+      "difficulty": "Medium-Difficult",
+      "difficulty_reason": "Maslow's theory, barriers to communication, leadership styles — deep understanding needed.",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Meaning and Definition of Directing (Theo Haimann)",
+        "Features and Importance of Directing",
+        "Principles of Directing",
+        "Elements of Directing: Supervision, Motivation, Leadership, Communication",
+        "Supervision — Meaning, Importance (Viteless definition)",
+        "Motivation — Meaning, Process, Importance (William Scott)",
+        "Maslow's Need Hierarchy Theory — 5 Levels",
+        "Financial and Non-financial Incentives",
+        "Leadership — Meaning, Characteristics, Importance, Styles",
+        "Communication — Meaning, Elements, Importance, Process",
+        "Formal and Informal Communication (Grapevine)",
+        "Barriers to Communication: Semantic, Psychological, Organisational, Personal",
+        "Measures to Overcome Communication Barriers"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Controlling",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part I & Part II",
+      "unit_id": 8,
+      "unit_name": "Part A: Principles and Functions of Management",
+      "part": "A",
+      "weightage_marks": 6,
+      "typical_breakdown": "55-58",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "Process, Planning-Controlling relationship — straightforward.",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Meaning and Definitions (Koontz & O'Donnell)",
+        "Importance of Controlling",
+        "Limitations of Controlling",
+        "Relationship between Planning and Controlling",
+        "Process of Controlling (Steps)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Business Finance",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part I & Part II",
+      "unit_id": 9,
+      "unit_name": "Part B: Business Finance and Marketing",
+      "part": "B",
+      "weightage_marks": 12,
+      "typical_breakdown": "59-66",
+      "difficulty": "Medium",
+      "difficulty_reason": "Financial decisions, working capital, capital structure — factual + application.",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Meaning of Business Finance",
+        "Financial Management — Concept, Role, Objectives (Weston & Brigham)",
+        "Financial Decision: Investment, Financing, Dividend",
+        "Financial Planning — Meaning, Importance, Objectives",
+        "Capital Structure — Meaning, Factors Affecting",
+        "Fixed Capital and Working Capital — Meaning, Differences",
+        "Factors Affecting Fixed Capital Requirements",
+        "Factors Affecting Working Capital Requirements"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Marketing",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part I & Part II",
+      "unit_id": 10,
+      "unit_name": "Part B: Business Finance and Marketing",
+      "part": "B",
+      "weightage_marks": 16,
+      "typical_breakdown": "66-78",
+      "difficulty": "Medium-Difficult",
+      "difficulty_reason": "4Ps, promotion mix (4 elements) — highest marks; detailed answers needed.",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Concept of Marketing (Philip Kotler definition)",
+        "Marketing Management — Meaning, Philosophies (5)",
+        "Functions of Marketing",
+        "Marketing Mix — Meaning and 4 Elements (4 Ps: Product, Price, Place, Promotion)",
+        "Product — Meaning, Types",
+        "Branding — Meaning, Characteristics of Good Brand Name",
+        "Packaging — Meaning, Levels, Importance, Functions",
+        "Labelling — Meaning and Functions",
+        "Price Determination — Meaning, Factors",
+        "Physical Distribution — Components",
+        "Promotion Mix — Advertising, Personal Selling, Sales Promotion, Public Relations",
+        "Advertising — Meaning, Features, Merits, Demerits",
+        "Personal Selling — Meaning, Features, Merits",
+        "Sales Promotion — Meaning, Merits, Limitations, Activities",
+        "Public Relations — Meaning, Role, Characteristics"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Consumer Protection",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part I & Part II",
+      "unit_id": 11,
+      "unit_name": "Part B: Business Finance and Marketing",
+      "part": "B",
+      "weightage_marks": 12,
+      "typical_breakdown": "79-84",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "Rights (6), CPA 2019, three commissions with limits — factual, easy to score.",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Concept and Importance of Consumer Protection",
+        "Need for Consumer Protection",
+        "Consumer Protection Act, 2019 — Introduction, Scope",
+        "Who is a Consumer (Definition)",
+        "Consumer Rights (6 Rights)",
+        "Consumer Responsibilities",
+        "Ways and Means of Consumer Protection",
+        "Redressal Agencies: District Commission (upto ₹1 crore), State Commission (₹1–10 crore), National Commission (above ₹10 crore)",
+        "Reliefs Available under CPA",
+        "Consumer Organisations and NGOs"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "UP Board Business Studies Class 12 — 11 chapters (Part A 8 chapters principles/functions + Part B 3 chapters finance/marketing).",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "All chapters covered. High-weightage (Ch 3, 5, 7, 9, 10, 11) especially important.",
+    "or_questions_note": "OR choice only in Q27-Q30.",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Ch 3 - Business Environment (10 marks)",
+      "Ch 5 - Organising (10 marks)",
+      "Ch 7 - Directing (10 marks)",
+      "Ch 9 - Business Finance (12 marks)",
+      "Ch 10 - Marketing (16 marks)",
+      "Ch 11 - Consumer Protection (12 marks)"
+    ],
+    "chapters_never_skip_reason": "High-weightage chapters — guaranteed LA questions.",
+    "chapters_with_highest_weightage": [
+      "Ch 9 - Business Finance (12 marks)",
+      "Ch 10 - Marketing (16 marks)",
+      "Ch 11 - Consumer Protection (12 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "Ch 1 - Nature and Significance of Management (5 marks)",
+      "Ch 2 - Principles of Management (5 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "What is formal organisation? (2 marks, Ch5 Organising)",
+      "What are the internal sources of recruitment? (5 marks, Ch6 Staffing)",
+      "Distinguish between formal and informal communication. (5 marks, Ch7 Directing)",
+      "Discuss the relationship between planning and controlling. (5 marks, Ch8 Controlling)",
+      "What is working capital? Explain the factors affecting working capital. (5 marks, Ch9 Business Finance)",
+      "Explain the functions of management. (10 marks, Ch1 Management)",
+      "Outline the various steps involved in the selection process. (10 marks, Ch6 Staffing)",
+      "Explain the significance of management. (10 marks, Ch1 Management)",
+      "Write any five principles of scientific management by FW Taylor. (5 marks, Ch2 Principles)",
+      "Distinguish between recruitment and selection of employees. (5 marks, Ch6 Staffing)"
+    ],
+    "chapters_mostly_theory": [
+      "Ch 1 - Nature and Significance of Management",
+      "Ch 2 - Principles of Management",
+      "Ch 3 - Business Environment",
+      "Ch 4 - Planning",
+      "Ch 5 - Organising",
+      "Ch 6 - Staffing",
+      "Ch 7 - Directing",
+      "Ch 8 - Controlling",
+      "Ch 9 - Business Finance",
+      "Ch 10 - Marketing",
+      "Ch 11 - Consumer Protection"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "Ch 3 - Business Environment",
+      "Ch 5 - Organising",
+      "Ch 7 - Directing",
+      "Ch 9 - Business Finance",
+      "Ch 10 - Marketing",
+      "Ch 11 - Consumer Protection"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "Ch 3 - Business Environment",
+      "Ch 5 - Organising",
+      "Ch 7 - Directing",
+      "Ch 9 - Business Finance",
+      "Ch 10 - Marketing",
+      "Ch 11 - Consumer Protection"
+    ],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "Ch 1 - Nature and Significance of Management",
+      "Ch 2 - Principles of Management",
+      "Ch 3 - Business Environment",
+      "Ch 4 - Planning",
+      "Ch 5 - Organising",
+      "Ch 6 - Staffing",
+      "Ch 7 - Directing",
+      "Ch 8 - Controlling",
+      "Ch 9 - Business Finance",
+      "Ch 10 - Marketing",
+      "Ch 11 - Consumer Protection"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "What is formal organisation?",
+      "What are the internal sources of recruitment?",
+      "Distinguish between formal and informal communication.",
+      "Discuss the relationship between planning and controlling.",
+      "What is working capital? Explain the factors affecting working capital.",
+      "Explain the functions of management.",
+      "Outline the various steps involved in the selection process.",
+      "Explain the significance of management.",
+      "Write any five principles of scientific management by FW Taylor.",
+      "Distinguish between recruitment and selection of employees.",
+      "What are the steps of organising?",
+      "What is business environment? Explain its importance.",
+      "Define controlling. State the different steps in the process of controlling.",
+      "Explain the term 'product mix' and describe its components.",
+      "Define financial management and explain its objectives.",
+      "What is centralisation? Explain advantages and disadvantages.",
+      "What is Maslow's Need Hierarchy Theory? Explain all five levels.",
+      "Describe the barriers to effective communication and measures to overcome them.",
+      "Distinguish between centralisation and decentralisation.",
+      "What is Consumer Protection Act 2019? Explain the redressal machinery."
+    ],
+    "one_mark_question_facts": {
+      "note": "Q1-Q10 = 10 MCQ × 1 mark including CBQ. No negative marking.",
+      "common_formats": [
+        "MCQ",
+        "CBQ",
+        "VSA",
+        "Short Answer",
+        "Long Answer (with OR)"
+      ]
+    },
+    "fast_track_revision": {
+      "key_definitions": {
+        "Management": "A process of interrelated functions performed by all managers to effectively and efficiently achieve the goals of an organisation. (Koontz: creating an internal environment where individuals work effectively).",
+        "Coordination": "The force that binds all the functions of management together. It synchronises activities of different departments towards common goals. It is the ESSENCE of management.",
+        "Scientific_Management": "Knowing exactly what you want men to do and seeing that they do it in the best and cheapest way. (FW Taylor)",
+        "Planning": "Deciding in advance what is to be done, when, how and by whom. It bridges the gap between where we are and where we want to go. (ME Hurley: selection among alternatives of policies, procedures and programmes)",
+        "Organising": "The process of identifying and grouping activities, defining authority-responsibility relationships to achieve organisational goals. (Louis Allen)",
+        "Delegation": "The downward transfer of authority from a superior to a subordinate to operate within prescribed limits. (Theo Haimann) Authority is delegated; responsibility is never delegated.",
+        "Decentralisation": "Systematic effort to delegate to the lowest level all authority except that which can only be exercised at central points. (Louis Allen)",
+        "Staffing": "The process of hiring and developing the required personnel to fill in various positions in the organisation. (Koontz & O'Donnell)",
+        "Recruitment": "The process of searching for prospective employees and stimulating them to apply for jobs.",
+        "Selection": "The process of selecting the best candidate from applicants, mainly by interviewing and conducting selection tests.",
+        "Training": "Activity conducted to increase the skill and knowledge of the person to do a specific job.",
+        "Development": "Activity that aims for overall growth of the employee beyond the current job.",
+        "Directing": "Consists of the processes and techniques utilised in issuing instructions and making decisions that operations are carried on as originally planned. (Theo Haimann)",
+        "Motivation": "A process of stimulating people to action to accomplish desired goals. (William Scott)",
+        "Leadership": "The activity of influencing people to strive willingly for group objectives. (George Terry)",
+        "Communication": "The process of passing information and understanding from one person to another.",
+        "Controlling": "Managerial control implies the measurement of accomplishment against the standard and the correction of deviations to assure attainment of objectives. (Koontz & O'Donnell)",
+        "Financial_Management": "Area of financial decision-making, harmonising individual motives and enterprise goals. (Weston & Brigham)",
+        "Marketing": "A social process by which individual groups obtain what they need and want through creating, freely exchanging products and services of value with others. (Philip Kotler)",
+        "Marketing_Mix": "The set of marketing tools that a firm uses to pursue its marketing objectives in the target market — 4Ps: Product, Price, Place, Promotion. (Philip Kotler)",
+        "Consumer": "Any person who buys any goods for consideration which has been paid or promised or partly paid and partly promised or under any scheme of deferred payment. (CPA 2019)",
+        "Business_Environment": "The sum total of all individuals, institutions and other forces outside the control of a business enterprise that may affect its performance. (Arthur M Weimer)"
+      },
+      "key_facts_for_mcq": {
+        "Father_of_Scientific_Management": "FW Taylor",
+        "Father_of_Modern_Management_Theory": "Henry Fayol",
+        "Fayol_born": "France",
+        "Taylor_born": "USA",
+        "Fayol_principles_count": "14",
+        "Taylor_techniques": "Functional Foremanship (8 foremen), Time Study, Motion Study, Fatigue Study, Method Study, Standardisation, Simplification, Differential Piece Wage System",
+        "Functional_Foremanship_foremen": "8 (4 for planning: Route clerk, Instruction card clerk, Time and Cost clerk, Disciplinarian; 4 for execution: Speed boss, Gang boss, Repair boss, Inspector)",
+        "Coordination_is": "Essence of management (NOT a function)",
+        "Planning_is": "First/Primary function of management",
+        "Management_essence": "Coordination",
+        "Maslow_needs_hierarchy": "5 levels: Physiological → Safety/Security → Belongingness/Social → Esteem → Self-Actualisation (bottom to top)",
+        "Financial_incentives": "Pay and allowances, Bonus, Profit sharing, Co-partnership, Productivity linked wages, Retirement benefits, Perquisites",
+        "Non_financial_incentives": "Status, Job enrichment, Job security, Employee participation, Organisational climate, Career advancement, Employee recognition, Employee empowerment",
+        "Leadership_styles": "Autocratic, Democratic/Participative, Laissez-faire/Free-rein",
+        "Communication_barriers": "Semantic, Psychological, Organisational, Personal",
+        "Grapevine": "Informal communication — fast but may be distorted",
+        "Financial_decisions_3": "Investment Decision (capital budgeting), Financing Decision (capital structure), Dividend Decision",
+        "Working_capital_sources": "Debtors, bank overdraft, cash sales",
+        "4Ps_marketing": "Product, Price, Place (Physical Distribution), Promotion",
+        "Promotion_mix_4": "Advertising, Personal Selling, Sales Promotion, Public Relations",
+        "AGMARK": "Quality certification mark for agricultural products",
+        "ISI": "Quality certification mark for industrial/consumer goods",
+        "FPO": "Quality certification mark for processed food products",
+        "Hallmark": "Quality certification mark for jewellery (gold and silver)",
+        "District_Commission_limit": "Upto ₹1 crore",
+        "State_Commission_limit": "More than ₹1 crore but not exceeding ₹10 crore",
+        "National_Commission_limit": "More than ₹10 crore",
+        "CPA_2019_appeal_from_State": "Appeal goes to National Commission within 30 days",
+        "Consumer_rights_6": "Right to Safety, Right to be Informed, Right to be Assured, Right to be Heard, Right to Seek Redressal, Right to Consumer Education",
+        "LPG_policy_year": "1991",
+        "Demonetisation_Nov_2016": "₹500 and ₹1000 notes banned on 8 Nov 2016",
+        "Planning_is_bridge": "Planning bridges the gap between where we are and where we want to go",
+        "Delegation_elements": "Authority, Responsibility, Accountability"
+      },
+      "important_thinkers": {
+        "FW_Taylor": "Father of Scientific Management; 4 Principles; 8 functional foremen; Differential Piece Wage System",
+        "Henry_Fayol": "Father of Modern Management / Administrative Management; 14 Principles; Born in France",
+        "Harold_Koontz": "'Management is an art of getting work done by others'",
+        "Koontz_and_Weihrich": "Management is the process of designing and maintaining an environment in which individuals working in groups efficiently accomplish selected aims",
+        "Peter_Drucker": "Management guru — defined management as a multipurpose organ",
+        "George_Terry": "'Leadership is the activity of influencing people to strive willingly for group objectives'",
+        "Abraham_Maslow": "Need Hierarchy Theory — 5 levels of human needs",
+        "William_Scott": "'Motivation means a process of stimulating people to action to accomplish desired goals'",
+        "Theo_Haimann": "Directing definition; Delegation of authority definition; Organising definition",
+        "Louis_Allen": "Organising and Delegation definitions; Decentralisation definition",
+        "Chester_Barnard": "Formal organisation definition",
+        "Keith_Davis": "Informal organisation definition",
+        "Philip_Kotler": "Marketing definition and Marketing Mix (4Ps)",
+        "Arthur_M_Weimer": "Business environment definition",
+        "ME_Hurley": "Planning definition",
+        "Weston_and_Brigham": "Financial management definition",
+        "Walker_and_Baughn": "Financial planning definition",
+        "Viteless": "Supervision definition",
+        "Stainley_Vense": "NOT the one who said 'management is art of getting work done by others' (Harold Koontz did)"
+      }
+    },
+    "comparison_tables": {
+      "note": "High-scoring comparison tables frequently asked in SA and LA questions.",
+      "fayol_vs_taylor": {
+        "headers": [
+          "Basis",
+          "Henry Fayol",
+          "FW Taylor"
+        ],
+        "rows": [
+          [
+            "Approach",
+            "Top-down — concerned with top management",
+            "Bottom-up — concerned with shop floor management"
+          ],
+          [
+            "Focus",
+            "Managerial efficiency",
+            "Production efficiency / worker efficiency"
+          ],
+          [
+            "Basis",
+            "Personal observation and experience",
+            "Scientific experimentation"
+          ],
+          [
+            "Principles",
+            "14 principles of management",
+            "4 principles of scientific management"
+          ],
+          [
+            "Title",
+            "Father of Modern Management",
+            "Father of Scientific Management"
+          ],
+          [
+            "Applicability",
+            "Universal — applicable to all organisations",
+            "Limited — mainly to factory/production settings"
+          ],
+          [
+            "Perspective",
+            "Macro — overall management",
+            "Micro — task and worker level"
+          ]
+        ]
+      },
+      "centralisation_vs_decentralisation": {
+        "headers": [
+          "Basis",
+          "Centralisation",
+          "Decentralisation"
+        ],
+        "rows": [
+          [
+            "Meaning",
+            "Authority retained at top level",
+            "Authority delegated to lower levels"
+          ],
+          [
+            "Decision-making",
+            "Top management makes decisions",
+            "Lower management participates in decisions"
+          ],
+          [
+            "Suitable for",
+            "Small organisations",
+            "Large organisations"
+          ],
+          [
+            "Employee initiative",
+            "Limited",
+            "Encouraged"
+          ],
+          [
+            "Communication",
+            "Mostly downward",
+            "Both upward and downward"
+          ]
+        ]
+      },
+      "formal_vs_informal_organisation": {
+        "headers": [
+          "Basis",
+          "Formal Organisation",
+          "Informal Organisation"
+        ],
+        "rows": [
+          [
+            "Origin",
+            "Created deliberately by management",
+            "Emerges from social interaction"
+          ],
+          [
+            "Nature",
+            "Official, systematic",
+            "Unofficial, spontaneous"
+          ],
+          [
+            "Rules",
+            "Has defined rules and procedures",
+            "No defined rules"
+          ],
+          [
+            "Communication",
+            "Follows official channels",
+            "Free and informal"
+          ],
+          [
+            "Durability",
+            "More stable and permanent",
+            "Less stable, may change"
+          ]
+        ]
+      },
+      "training_vs_development": {
+        "headers": [
+          "Basis",
+          "Training",
+          "Development"
+        ],
+        "rows": [
+          [
+            "Focus",
+            "Specific job skills",
+            "Overall personality and career growth"
+          ],
+          [
+            "Duration",
+            "Short-term",
+            "Long-term"
+          ],
+          [
+            "Scope",
+            "Narrow — task specific",
+            "Broad — includes attitudes, values"
+          ],
+          [
+            "For whom",
+            "Workers and new employees",
+            "Managers and executives"
+          ],
+          [
+            "Purpose",
+            "To improve present performance",
+            "To prepare for future roles"
+          ]
+        ]
+      }
+    },
+    "top_20_important_questions": [
+      {
+        "q_no": 1,
+        "question": "What is formal organisation?",
+        "marks": 2,
+        "chapter": "Ch5 Organising",
+        "important": false
+      },
+      {
+        "q_no": 2,
+        "question": "What are the internal sources of recruitment?",
+        "marks": 5,
+        "chapter": "Ch6 Staffing",
+        "important": false
+      },
+      {
+        "q_no": 3,
+        "question": "Distinguish between formal and informal communication.",
+        "marks": 5,
+        "chapter": "Ch7 Directing",
+        "important": false
+      },
+      {
+        "q_no": 4,
+        "question": "Discuss the relationship between planning and controlling.",
+        "marks": 5,
+        "chapter": "Ch8 Controlling",
+        "important": false
+      },
+      {
+        "q_no": 5,
+        "question": "What is working capital? Explain the factors affecting working capital.",
+        "marks": 5,
+        "chapter": "Ch9 Business Finance",
+        "important": true
+      },
+      {
+        "q_no": 6,
+        "question": "Explain the functions of management.",
+        "marks": 10,
+        "chapter": "Ch1 Management",
+        "important": true
+      },
+      {
+        "q_no": 7,
+        "question": "Outline the various steps involved in the selection process.",
+        "marks": 10,
+        "chapter": "Ch6 Staffing",
+        "important": true
+      },
+      {
+        "q_no": 8,
+        "question": "Explain the significance of management.",
+        "marks": 10,
+        "chapter": "Ch1 Management",
+        "important": false
+      },
+      {
+        "q_no": 9,
+        "question": "Write any five principles of scientific management by FW Taylor.",
+        "marks": 5,
+        "chapter": "Ch2 Principles",
+        "important": true
+      },
+      {
+        "q_no": 10,
+        "question": "Distinguish between recruitment and selection of employees.",
+        "marks": 5,
+        "chapter": "Ch6 Staffing",
+        "important": true
+      },
+      {
+        "q_no": 11,
+        "question": "What are the steps of organising?",
+        "marks": 5,
+        "chapter": "Ch5 Organising",
+        "important": false
+      },
+      {
+        "q_no": 12,
+        "question": "What is business environment? Explain its importance.",
+        "marks": 10,
+        "chapter": "Ch3 Business Environment",
+        "important": true
+      },
+      {
+        "q_no": 13,
+        "question": "Define controlling. State the different steps in the process of controlling.",
+        "marks": 10,
+        "chapter": "Ch8 Controlling",
+        "important": true
+      },
+      {
+        "q_no": 14,
+        "question": "Explain the term 'product mix' and describe its components.",
+        "marks": 10,
+        "chapter": "Ch10 Marketing",
+        "important": true
+      },
+      {
+        "q_no": 15,
+        "question": "Define financial management and explain its objectives.",
+        "marks": 10,
+        "chapter": "Ch9 Business Finance",
+        "important": true
+      },
+      {
+        "q_no": 16,
+        "question": "What is centralisation? Explain advantages and disadvantages.",
+        "marks": 10,
+        "chapter": "Ch5 Organising",
+        "important": false
+      },
+      {
+        "q_no": 17,
+        "question": "What is Maslow's Need Hierarchy Theory? Explain all five levels.",
+        "marks": 10,
+        "chapter": "Ch7 Directing",
+        "important": true
+      },
+      {
+        "q_no": 18,
+        "question": "Describe the barriers to effective communication and measures to overcome them.",
+        "marks": 10,
+        "chapter": "Ch7 Directing",
+        "important": true
+      },
+      {
+        "q_no": 19,
+        "question": "Distinguish between centralisation and decentralisation.",
+        "marks": 5,
+        "chapter": "Ch5 Organising",
+        "important": false
+      },
+      {
+        "q_no": 20,
+        "question": "What is Consumer Protection Act 2019? Explain the redressal machinery.",
+        "marks": 10,
+        "chapter": "Ch11 Consumer Protection",
+        "important": true
+      }
+    ],
+    "board_paper_2025_questions": {
+      "set": "350",
+      "duration": "3 H 15 Min",
+      "total_marks": 100,
+      "mcq_q1_q10": [
+        "Q1. Maximum incentive giving function of management to employees is — Ans: (b) motivation",
+        "Q2. By scientific management profits are — Ans: (a) increased",
+        "Q3. Economic liberalisation policy was implemented in India in the year — Ans: (a) 1991",
+        "Q4. Budget refers to — Ans: (d) statement of expected results expressed in numerical terms",
+        "Q5. ......depends on the willingness of employees — Ans: (c) Informal organisation",
+        "Q6. Staffing is the responsibility of — Ans: (d) All of these",
+        "Q7. Motivated employees are rewarded — Ans: (b) positive",
+        "Q8. Management control is done — Ans: (d) by all levels of managers",
+        "Q9. The source of working capital is — Ans: (d) All of these (debtors, bank overdraft, cash sales)",
+        "Q10. Money spent on marketing is — Ans: (d) investment"
+      ],
+      "vsa_q11_q20": [
+        "Q11. What is meant by motion study? (2)",
+        "Q12. What is procedure in planning? (2)",
+        "Q13. Mention any two features of formal organisation. (2)",
+        "Q14. What is meant by job rotation? (2)",
+        "Q15. Write two characteristics of a good leadership. (2)",
+        "Q16. Write the names of any two stages of control process. (2)",
+        "Q17. What are the two main objectives of capital structure? (2)",
+        "Q18. Write two benefits of packaging. (2)",
+        "Q19. Write two elements included in communication process. (2)",
+        "Q20. State two remedies available to consumers under Consumer Protection Act, 2019. (2)"
+      ],
+      "sa_q21_q26": [
+        "Q21. Write any five principles of scientific management. (5)",
+        "Q22. Distinguish between recruitment and selection of employees. (5)",
+        "Q23. What are the steps of organising? (5)",
+        "Q24. What are the internal sources of recruitment? (5)",
+        "Q25. Distinguish between 'formal' and 'informal' communication. (5)",
+        "Q26. What is capital structure? Describe any three factors determining it. (2+3)"
+      ],
+      "la_q27_q30": [
+        "Q27. Explain the functions of management. (10) OR Management is the combination of art and science. Explain in detail.",
+        "Q28. Outline the various steps involved in the selection process. (10) OR Explain the various sources of recruitment.",
+        "Q29. Define controlling. State the different steps in the process of controlling. (4+6) OR Explain the term 'product mix' and describe its components. (4+6)",
+        "Q30. Explain the term 'product mix' and describe its components. (4+6)"
+      ],
+      "answers_mcq": "1.(b) 2.(a) 3.(a) 4.(d) 5.(c) 6.(d) 7.(b) 8.(d) 9.(d) 10.(d)"
+    },
+    "board_paper_2024_questions": {
+      "note": "General instruction: Refer to 2025 paper for structure. Same pattern.",
+      "mcq_q1_q10_highlights": [
+        "Q1. Henry Fayol was born in — Ans: (d) France",
+        "Q2. Planning is — Ans: (d) for all terms",
+        "Q3. In an enterprise organisation is established by — Ans: (a) top management",
+        "Q4. Business environment is not the study of — Ans: (d) capital output ratio",
+        "Q5. Which leadership style is unsuitable — Ans: (b) Bureaucratic style",
+        "Q6. Included in process of control — Ans: (c) Analysing variations",
+        "Q7. Not a characteristic of training — Ans: (d) Natural process",
+        "Q8. Not a principle of organisation — Ans: (d) Hierarchy theory of needs",
+        "Q9. Not external source of recruitment — Ans: (a) Advertisement [Note: Advertisement IS external]",
+        "Q10. Not a method of on-the-job training — Ans: (a) Internship training [Note: it IS on-the-job]"
+      ],
+      "la_q27_q30": [
+        "Q27. What is centralisation? Explain its advantages and disadvantages. (2+4+4) OR Describe the principles of decentralisation. Differentiate between decentralisation and delegation. (7+3)",
+        "Q28. What is business environment? Explain its importance. (4+6) OR Explain the different factors of business environment. (10)"
+      ]
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "BST uses comparison tables and conceptual frameworks rather than scientific diagrams.",
+    "must_practise": [
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Fayol Vs Taylor",
+        "note": "{\"headers\": [\"Basis\", \"Henry Fayol\", \"FW Taylor\"], \"rows\": [[\"Approach\", \"Top-down — concerned with top management\", \"Bottom-up — concerned with shop floor management\"], [\"Focus\", \"Managerial efficien"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Centralisation Vs Decentralisation",
+        "note": "{\"headers\": [\"Basis\", \"Centralisation\", \"Decentralisation\"], \"rows\": [[\"Meaning\", \"Authority retained at top level\", \"Authority delegated to lower levels\"], [\"Decision-making\", \"Top management makes d"
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Formal Vs Informal Organisation",
+        "note": "{\"headers\": [\"Basis\", \"Formal Organisation\", \"Informal Organisation\"], \"rows\": [[\"Origin\", \"Created deliberately by management\", \"Emerges from social interaction\"], [\"Nature\", \"Official, systematic\", "
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "",
+        "diagram_name": "Training Vs Development",
+        "note": "{\"headers\": [\"Basis\", \"Training\", \"Development\"], \"rows\": [[\"Focus\", \"Specific job skills\", \"Overall personality and career growth\"], [\"Duration\", \"Short-term\", \"Long-term\"], [\"Scope\", \"Narrow — task "
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Not applicable for Business Studies — theory-based. Marketing Mix 4Ps, Maslow pyramid, etc. are concepts not formulas.",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Business Studies",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Business Studies",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "UP Board Business Studies is theory-only (100 marks).",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium to Difficult",
+    "note": "Medium to Difficult — four categories. MCQ easy to medium; VSA easy to medium; SA easy to medium; LA medium to difficult.",
+    "easy_percent": 30,
+    "medium_percent": 55,
+    "hard_percent": 15,
+    "most_scoring_sections": [
+      "MCQ (Q1-Q10)",
+      "VSA (Q11-Q20)"
+    ],
+    "most_difficult_sections": [
+      "LA (Q27-Q30) — detailed explanations + comparison tables required"
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Q1-Q26 ALL compulsory — never leave any blank. Attempt every question for part marks",
+      "Only Q27-Q30 have OR choice — use reading time to decide which option is easier",
+      "MCQ traps: 'Coordination is the ESSENCE (not function)'; 'Staffing is responsibility of ALL levels'; 'Money spent on marketing is INVESTMENT not wastage'",
+      "FW Taylor = Scientific Management; Henry Fayol = Administrative Management (Modern Management). Do NOT confuse",
+      "Fayol's 14 principles: memorise all 14 — Unity of Command, Unity of Direction, Scalar Chain, Division of Work, Authority & Responsibility, Discipline, Subordination of Individual to General Interest, Remuneration, Centralisation, Order, Equity, Stability of Personnel, Initiative, Esprit de Corps",
+      "Taylor's 8 foremen: 4 for Planning (Route clerk, Instruction card clerk, Time & Cost clerk, Disciplinarian) + 4 for Execution (Speed boss, Gang boss, Repair boss, Inspector)",
+      "Maslow's hierarchy BOTTOM to TOP: Physiological → Safety → Social/Belonging → Esteem → Self-Actualisation",
+      "Consumer Protection limits: District ≤ ₹1 crore; State ₹1-10 crore; National > ₹10 crore",
+      "Quality marks: ISI = industrial goods; AGMARK = agricultural; FPO = processed food; Hallmark = jewellery",
+      "For SA distinction questions: USE TABLE FORMAT — examiners give bonus marks for clarity",
+      "For LA: Start with definition, list points with bold headings, end with conclusion or significance",
+      "Comparison asked: Fayol vs Taylor; Centralisation vs Decentralisation; Formal vs Informal Org; Training vs Development; Recruitment vs Selection",
+      "LPG = Liberalisation, Privatisation, Globalisation — implemented in India in 1991",
+      "Demonetisation: 8 November 2016 — ₹500 and ₹1000 notes banned"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "Reading_15min",
+        "recommended_minutes": 15,
+        "note": "First 15 min: read entire paper. Decide OR options for Q27-Q30 — choose the topic you know better."
+      },
+      {
+        "section_id": "MCQ_Q1_Q10_10min",
+        "recommended_minutes": 10,
+        "note": "10 marks. 10 minutes. All compulsory. Eliminate wrong options — CBQ questions need careful reading."
+      },
+      {
+        "section_id": "VSA_Q11_Q20_25min",
+        "recommended_minutes": 25,
+        "note": "20 marks. 25 minutes. All compulsory. 20-30 words each — 2 clear points maximum. Use keywords."
+      },
+      {
+        "section_id": "SA_Q21_Q26_45min",
+        "recommended_minutes": 45,
+        "note": "30 marks. 45 minutes. All compulsory. Numbered points. Use comparison tables for distinction questions."
+      },
+      {
+        "section_id": "LA_Q27_Q30_65min",
+        "recommended_minutes": 65,
+        "note": "40 marks. 65 minutes. OR in each. Subheadings help. Full detailed answers required."
+      },
+      {
+        "section_id": "Revision_15min",
+        "recommended_minutes": 0,
+        "note": "Check MCQ answers, spelling (Fayol, Taylor, Maslow, Kotler), verify chapter-wise completeness."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 33,
+        "strategy": "MCQ (6+) + VSA (10+) + SA (10+) + LA (8+) = 34 marks",
+        "focus_chapters": [],
+        "focus_areas": [
+          "MCQ: Coordination = essence; FW Taylor = father of scientific management; Fayol born in France",
+          "VSA: Define management, staffing, delegation — all easy definitions",
+          "SA Q21 (Taylor's 5 principles) and Q23 (steps of organising) — most straightforward",
+          "LA: Attempt Q27 on Functions of Management — easiest LA question"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "50_to_65",
+        "target_marks": 50,
+        "strategy": "MCQ (8+) + VSA all (18+) + SA (20+) + LA (20+) = 66 marks",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All VSA with clear 2-point answers",
+          "SA: Recruitment vs Selection table, formal vs informal communication table",
+          "LA: Selection process (8 steps) OR Functions of management",
+          "Business Environment importance — 6 points well-memorised"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "80_plus",
+        "target_marks": 80,
+        "strategy": "MCQ (9-10) + VSA all (19-20) + SA all (28-30) + LA all (35-40) = 91-100",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Perfect table comparisons in SA — extra marks for neat tables",
+          "LA: Maslow hierarchy with diagram; Communication barriers with measures to overcome",
+          "Marketing — 4Ps detailed with examples; Promotion mix all 4 elements",
+          "Fayol vs Taylor comparison in detail — frequently in LA"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [
+      "Ch 1 - Nature and Significance of Management",
+      "Ch 2 - Principles of Management"
+    ],
+    "highest_roi_chapters": [
+      "Ch 3 - Business Environment (10 marks)",
+      "Ch 5 - Organising (10 marks)",
+      "Ch 7 - Directing (10 marks)",
+      "Ch 9 - Business Finance (12 marks)",
+      "Ch 10 - Marketing (16 marks)",
+      "Ch 11 - Consumer Protection (12 marks)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "UP Board BST is theory-only (no IA/practical).",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Business Studies Part I — Principles and Functions of Management",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Chapters 1-8 entirely based on this. All definitions, principles and theories from here."
+      },
+      {
+        "name": "NCERT Business Studies Part II — Business Finance and Marketing",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Chapters 9-11 from this. Financial decisions, marketing mix, consumer protection."
+      },
+      {
+        "name": "Arihant AVTAR Question Bank Business Studies Class 12 (English, 2025-26)",
+        "author": "",
+        "publisher": "Arihant Prakashan, Meerut",
+        "purpose": "Supplementary",
+        "note": "UP Board 2025-26 based. Previous year papers 2025-2022. 20 Most Important Questions. 5 Model Papers. Chapter-wise MCQ, VSA, SA, LA with answers. CBQ coverage."
+      },
+      {
+        "name": "UP Board Previous Year Papers",
+        "author": "",
+        "publisher": "UPMSP / upmsp.edu.in",
+        "purpose": "Supplementary",
+        "note": "Solve 2025, 2024, 2023, 2022 papers. VSA and MCQ questions repeat across years."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 minutes — read only, no writing. Decide OR options for Q27-Q30.",
+    "reading_time": "15 minutes — read only, no writing. Decide OR options for Q27-Q30.",
+    "passing_criteria": "Minimum 33 out of 100 marks required to pass."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "Internal choice: ONLY Q27, Q28, Q29 and Q30 have OR choice. Q1-Q26 all compulsory.",
+      "Passing criteria: Minimum 33 out of 100 marks required to pass."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Blue or Black pen only."
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "Use comparison tables for distinction questions. Number points in long answers.",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

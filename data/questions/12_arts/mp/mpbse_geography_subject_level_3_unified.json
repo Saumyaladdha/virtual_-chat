@@ -1,0 +1,2436 @@
+{
+  "board": "MPBSE",
+  "class": "12",
+  "subject": "Geography (Bhugol)",
+  "subject_code": "",
+  "exam_year": "",
+  "marks_structure": {
+    "theory_paper": 70,
+    "practical_paper": 30,
+    "internal_assessment": 0,
+    "total": 70,
+    "passing_marks_theory": 23,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 180,
+    "extra_time_given": false,
+    "extra_time_note": "3 ghante. Koi extra reading time nahi milta.",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 20,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "Hindi ya English dono allowed. Hindi version final maana jaata hai.",
+    "all_compulsory_note": "Q6 se Q20 tak sabhi questions mein internal choice (athva/OR) diya jaata hai.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (Sahi Vikalp)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "Sirf correct option (a)/(b)/(c)/(d) likhna hai. No explanation needed.",
+        "mostly_from": "Transport network, population density, agriculture types, government policies, town types (garrison/administrative), HDI, human geography schools, subsistence activities, port types, quaternary activities, river bank cities.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Fill in the Blanks (Rikt Sthan)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "One word/number/name likhna hai.",
+        "mostly_from": "Humanistic approach/Amartya Sen, Channel Tunnel/London, marginal workers less than 183 days, administrative city/New Delhi, fiber crops/jute, HDI values, NHAI year 1995, scheduled languages, 1951-1981 population explosion period.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "True/False (Satya/Asatya)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "Sirf Satya ya Asatya likhna hai.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Match the Column (Sahi Jodi)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 5,
+        "attempt": 5,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "One Sentence Answer (Ek Vakya)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 5,
+        "attempt": 5,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "HDR published by UNDP, WTO formed 1995, population density 382/sq km (2011), Asia largest slum Dharavi, Indira Gandhi Canal from Harika Barrage Firozpur, Indian Railways zones 18, National Water Policy 2012.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Very Short Answer (Ati Laghu Uttariya)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 2,
+        "total_in_paper": 8,
+        "attempt": 8,
+        "negative_marking": false,
+        "how_to_attempt": "Definition ya 2-3 line answer. OR option mein se ek choose karo.",
+        "mostly_from": "Stop and go determinism, human geography definition, death rate formula, population density formula, 4 approaches human development, why humans prefer certain regions, Mediterranean agriculture 2 features, cooperative farming, working population categories India, main vs marginal workers, isolated settlement, urban settlement features, ground water states India, water conservation measures, air pollution sources, air pollution health effects, shifting cultivation, basic needs approach, small scale industry 2 features, population growth Phase-II India, hamleted settlements, cottage industry, manufacturing industry, Beti Bachao Beti Padhao reason, Smart Cities Mission.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "30 words",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer (Laghu Uttariya)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 3,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "3 numbered points + example. Comparative questions ke liye table better hai.",
+        "mostly_from": "Geographical factors population distribution (3 points), economic factors (3 points), plantation agriculture 3 features, dairy farming 3 features, Northern Atlantic sea route 3 features, Mediterranean-Indian Ocean route 3 features, large rural population reasons (3), Indian agriculture 3 problems, Kisan Portal importance (3), urban population distribution India (3), Phase-III population growth, bio-energy utility (3), Hill Area Development Programme, commercial livestock vs nomadic herding (3 bases), primary vs secondary differences (3), population growth phases India, solar energy 3 arguments, industrialization-employment-migration interrelation.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "75 words",
+        "notes": ""
+      },
+      {
+        "type": "Long Answer (Dirgh Uttariya)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 4,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Intro + 4 numbered points + conclusion. Table format for differences.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "120 words",
+        "notes": ""
+      },
+      {
+        "type": "World Map (Vishwa Manchitra)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 5,
+        "attempt": 5,
+        "negative_marking": false,
+        "how_to_attempt": "Map mein arrows ke paas sahi naam likhna hai. Pencil se mark, pen se naam.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "India Map (Bharat Manchitra)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 5,
+        "attempt": 5,
+        "negative_marking": false,
+        "how_to_attempt": "India map mein arrows se 5 sthan dikhane hain. Naam clearly likho.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Q6 se Q20 tak sabhi questions mein internal choice (athva/OR) diya jaata hai.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 0,
+      "medium_percent": 0,
+      "hard_percent": 0,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "question_1",
+        "name": "Q1 — Sahi Vikalp (MCQ)",
+        "type": "Q1 — Sahi Vikalp (MCQ)",
+        "question_numbers": "",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "6 MCQ x 1 = 6 marks. Sirf sahi option likhna hai.",
+        "notes": "6 MCQ x 1 = 6 marks. Sirf sahi option likhna hai."
+      },
+      {
+        "section_id": "question_2",
+        "name": "Q2 — Rikt Sthan (Fill in the Blanks)",
+        "type": "Q2 — Rikt Sthan (Fill in the Blanks)",
+        "question_numbers": "",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "question_3",
+        "name": "Q3 — Satya/Asatya (True/False)",
+        "type": "Q3 — Satya/Asatya (True/False)",
+        "question_numbers": "",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "question_4",
+        "name": "Q4 — Sahi Jodi (Match the Column)",
+        "type": "Q4 — Sahi Jodi (Match the Column)",
+        "question_numbers": "",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "attempt_required": 5,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "question_5",
+        "name": "Q5 — Ek Vakya Mein Uttar (One Sentence Answer)",
+        "type": "Q5 — Ek Vakya Mein Uttar (One Sentence Answer)",
+        "question_numbers": "",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "attempt_required": 5,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "questions_6_to_13",
+        "name": "Q6 to Q13 — Ati Laghu Uttariya (Very Short Answer)",
+        "type": "Q6 to Q13 — Ati Laghu Uttariya (Very Short Answer)",
+        "question_numbers": "",
+        "total_questions": 8,
+        "total_sub_questions": 0,
+        "attempt_required": 8,
+        "marks_per_question": 2,
+        "total_marks": 16,
+        "word_limit": 30,
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "questions_14_to_17",
+        "name": "Q14 to Q17 — Laghu Uttariya (Short Answer)",
+        "type": "Q14 to Q17 — Laghu Uttariya (Short Answer)",
+        "question_numbers": "",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": 75,
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "question_18",
+        "name": "Q18 — Dirgh Uttariya (Long Answer)",
+        "type": "Q18 — Dirgh Uttariya (Long Answer)",
+        "question_numbers": "",
+        "total_questions": 1,
+        "total_sub_questions": 0,
+        "attempt_required": 1,
+        "marks_per_question": 4,
+        "total_marks": 4,
+        "word_limit": 120,
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "question_19",
+        "name": "Q19 — Vishwa Manchitra (World Map)",
+        "type": "Q19 — Vishwa Manchitra (World Map)",
+        "question_numbers": "",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "attempt_required": 5,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "question_20",
+        "name": "Q20 — Bharat Manchitra (India Map)",
+        "type": "Q20 — Bharat Manchitra (India Map)",
+        "question_numbers": "",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "attempt_required": 5,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 70,
+    "total_practical": 30,
+    "internal_assessment": 0,
+    "grand_total": 70,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "question_1",
+        "name": "Q1 — Sahi Vikalp (MCQ)",
+        "question_numbers": "",
+        "type": "Q1 — Sahi Vikalp (MCQ)",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "6 MCQ x 1 = 6 marks. Sirf sahi option likhna hai."
+      },
+      {
+        "section_id": "question_2",
+        "name": "Q2 — Rikt Sthan (Fill in the Blanks)",
+        "question_numbers": "",
+        "type": "Q2 — Rikt Sthan (Fill in the Blanks)",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "question_3",
+        "name": "Q3 — Satya/Asatya (True/False)",
+        "question_numbers": "",
+        "type": "Q3 — Satya/Asatya (True/False)",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "question_4",
+        "name": "Q4 — Sahi Jodi (Match the Column)",
+        "question_numbers": "",
+        "type": "Q4 — Sahi Jodi (Match the Column)",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "question_5",
+        "name": "Q5 — Ek Vakya Mein Uttar (One Sentence Answer)",
+        "question_numbers": "",
+        "type": "Q5 — Ek Vakya Mein Uttar (One Sentence Answer)",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "questions_6_to_13",
+        "name": "Q6 to Q13 — Ati Laghu Uttariya (Very Short Answer)",
+        "question_numbers": "",
+        "type": "Q6 to Q13 — Ati Laghu Uttariya (Very Short Answer)",
+        "total_questions": 8,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 16,
+        "word_limit": 30,
+        "breakdown": ""
+      },
+      {
+        "section_id": "questions_14_to_17",
+        "name": "Q14 to Q17 — Laghu Uttariya (Short Answer)",
+        "question_numbers": "",
+        "type": "Q14 to Q17 — Laghu Uttariya (Short Answer)",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": 75,
+        "breakdown": ""
+      },
+      {
+        "section_id": "question_18",
+        "name": "Q18 — Dirgh Uttariya (Long Answer)",
+        "question_numbers": "",
+        "type": "Q18 — Dirgh Uttariya (Long Answer)",
+        "total_questions": 1,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 4,
+        "word_limit": 120,
+        "breakdown": ""
+      },
+      {
+        "section_id": "question_19",
+        "name": "Q19 — Vishwa Manchitra (World Map)",
+        "question_numbers": "",
+        "type": "Q19 — Vishwa Manchitra (World Map)",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "question_20",
+        "name": "Q20 — Bharat Manchitra (India Map)",
+        "question_numbers": "",
+        "type": "Q20 — Bharat Manchitra (India Map)",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 5,
+        "word_limit": "",
+        "breakdown": ""
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 70,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "1",
+      "name": "Human Geography: Nature and Scope",
+      "marks": 0,
+      "note": ""
+    },
+    "lowest_marks_chapters": [],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Human Geography: Nature and Scope",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "A"
+      },
+      {
+        "chapter_id": "2",
+        "name": "People — World Population",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "A"
+      },
+      {
+        "chapter_id": "3",
+        "name": "Human Settlements — World",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "A"
+      },
+      {
+        "chapter_id": "4",
+        "name": "Human Activities (Manavi Kriyakalap)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "A"
+      },
+      {
+        "chapter_id": "5",
+        "name": "Transport, Communication and Trade — World",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "A"
+      },
+      {
+        "chapter_id": "6",
+        "name": "People — India (Population)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "B"
+      },
+      {
+        "chapter_id": "7",
+        "name": "Human Settlements — India",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "B"
+      },
+      {
+        "chapter_id": "8",
+        "name": "Resources and Development — India",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "B"
+      },
+      {
+        "chapter_id": "9",
+        "name": "Transport, Communication and International Trade — India",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "B"
+      },
+      {
+        "chapter_id": "10",
+        "name": "Geographical Thinking on Selected Issues and Problems",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "B"
+      }
+    ],
+    "totals": {
+      "total_marks": 70,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Geography Class 12 — 10 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Geography — A",
+        "category": "A",
+        "total_marks": 0,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Human Geography: Nature and Scope",
+            "marks": 0,
+            "topics": [
+              "Definition of Human Geography — Ratzel, Semple, Vidal de la Blache",
+              "Environmental Determinism — Ratzel, Semple",
+              "Possibilism — Vidal de la Blache (2 characteristics: human has choices, man modifies environment)",
+              "Neo-Determinism (Stop and Go) — Griffin and Taylor (2 characteristics: neither fully deterministic nor fully possibilistic, middle path)",
+              "Humanistic approach — associated with Prof. Amartya Sen",
+              "Radical approach — 1970s, focuses on poverty and inequality",
+              "Welfare/Behavioural approach"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "People — World Population",
+            "marks": 0,
+            "topics": [
+              "World population distribution — densely vs sparsely populated areas",
+              "Population density formulas — arithmetic, agricultural (physiological), vegetative",
+              "Natural growth = Birth Rate - Death Rate",
+              "Negative growth of population",
+              "Demographic Transition Theory — 4 stages",
+              "Migration — immigration/emigration definitions",
+              "Human Development Index (HDI) — UNDP publishes HDR annually",
+              "4 Approaches to Human Development: Income, Welfare, Basic Needs, Capability/Empowerment",
+              "Growth vs Development difference",
+              "Income approach vs Welfare approach comparison"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "Human Settlements — World",
+            "marks": 0,
+            "topics": [
+              "Rural settlement patterns — linear, rectangular, circular, T-shaped, star-shaped, cross-shaped",
+              "Isolated (Ekaaki) settlements — definition and location (hills, forests, deserts)",
+              "Urban settlements — definition and 2 characteristics",
+              "Town types — Administrative (New Delhi), Garrison/Cantonment (Ambala, Nainital), Educational, Industrial, Religious/Pilgrimage, Commercial/Market",
+              "Medieval towns in India — features",
+              "Hamleted settlements — features",
+              "Problems of urban areas — housing, unemployment, slums, pollution, traffic"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "Human Activities (Manavi Kriyakalap)",
+            "marks": 0,
+            "topics": [
+              "Primary activities — hunting/gathering (oldest), pastoral, mining, fishing, agriculture",
+              "Secondary activities — manufacturing (cottage/small/large scale)",
+              "Tertiary activities — services, trade, transport",
+              "Quaternary activities — R&D, IT, knowledge-based, high innovation level",
+              "Quinary activities — gold collar workers, top-level decision making",
+              "Agriculture types — all details below"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "Transport, Communication and Trade — World",
+            "marks": 0,
+            "topics": [
+              "Land transport — railways (Trans-Siberian, Trans-Canadian, Australian Trans-Continental)",
+              "Water transport — sea routes (importance, busiest routes)",
+              "Air transport — USA uses 60% of world's air traffic (2 reasons: economic power, large aircraft manufacturers, large domestic air market, maximum airports)",
+              "Pipeline transport — importance for liquids and gases",
+              "Canals — Suez Canal and Panama Canal",
+              "Internet — Global Village concept",
+              "International trade — WTO formed 1995"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Geography — B",
+        "category": "B",
+        "total_marks": 0,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "6",
+            "name": "People — India (Population)",
+            "marks": 0,
+            "topics": [
+              "India population density 2011 = 382 persons per sq km",
+              "1921 = Year of Great Divide (death rate started declining)",
+              "Population growth phases — 4 phases",
+              "1951-1981 = Period of Population Explosion in India",
+              "Working population categories: Cultivators, Agricultural Labourers, Household Industry, Other Workers",
+              "Main worker = 183+ days per year; Marginal worker = less than 183 days",
+              "Sex ratio India (2011) = 943 females per 1000 males",
+              "Migration — push and pull factors",
+              "Beti Bachao Beti Padhao — reasons: declining sex ratio, female foeticide",
+              "National Youth Policy = February 2014",
+              "Secondary/tertiary sector growing — reasons (2011 census)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "Human Settlements — India",
+            "marks": 0,
+            "topics": [
+              "Rural settlements in India — 4 types: (1) Compact/Nucleated, (2) Semi-Compact, (3) Hamleted/Palli, (4) Dispersed/Scattered",
+              "Nagaland mein dispersed settlements paye jaate hain",
+              "Urban settlements — definition, characteristics",
+              "Smart Cities Mission — objectives: sustainable infrastructure, clean energy, 100 smart cities selected",
+              "Urban population distribution India — Maharashtra, Tamil Nadu, Uttar Pradesh have large urban populations",
+              "Metropolitan cities (10 lakh+), megacities (1 crore+)",
+              "Asia's largest slum: Dharavi, Mumbai"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "Resources and Development — India",
+            "marks": 0,
+            "topics": [
+              "Land resources — fallow land, current fallow, forest, net sown area",
+              "Water resources — surface water (rivers, lakes) and ground water",
+              "Highest ground water usage states: Punjab, Haryana, Rajasthan",
+              "Water conservation structures — Kul/Kuhls, Tanka, Baoli/Johad, Bamboo drip, Phad",
+              "National Water Policy 2012",
+              "Watershed management definition",
+              "Mineral resources — iron ore, coal, petroleum, nuclear, non-ferrous",
+              "4 Mineral Belts of India",
+              "Agriculture — food crops and cash crops",
+              "Manufacturing industries and industrial regions",
+              "Hill Area Development Programme (5th Five Year Plan)",
+              "Drought-Prone Area Programme (DPAP)",
+              "PMKSY — Pradhan Mantri Krishi Sinchayee Yojana",
+              "Kisan Portal importance",
+              "Indian agriculture problems"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "Transport, Communication and International Trade — India",
+            "marks": 0,
+            "topics": [
+              "Roadways — National Highways, NHAI (National Highway Authority of India) operationalised 1995",
+              "NH7 (now NH44) — Varanasi to Kanyakumari — longest national highway India",
+              "Railways — 18 zones; Indian Railways one of world's largest networks",
+              "National Waterways — NW1 (Ganga: Allahabad to Haldia), NW2 (Brahmaputra), NW3 (Kerala backwaters)",
+              "Pipeline transport in India",
+              "Major Ports of India — Mumbai, Kandla, Marmagao, Kochi, Paradwip, Visakhapatnam, Chennai, Haldia, Ennore",
+              "Indira Gandhi Canal — from Harika Barrage (Firozpur, Punjab) to Rajasthan (Barmer)",
+              "International trade India — composition and direction",
+              "WTO — World Trade Organization, formed 1995"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "Geographical Thinking on Selected Issues and Problems",
+            "marks": 0,
+            "topics": [
+              "Air pollution — major sources, effects on human health, control measures",
+              "Water pollution — causes and effects",
+              "Noise pollution — sources and effects",
+              "Land degradation — causes and remedies",
+              "Bio-energy — utility and importance",
+              "Non-conventional energy sources — solar, wind, biogas, tidal, geothermal, hydrogen",
+              "Conventional energy — coal, petroleum, natural gas, hydel, nuclear",
+              "Solar energy as non-conventional — 3 arguments in its favour",
+              "Farmers suicides — indebtedness as cause, relation with crop failure",
+              "Hill Area Development Programme — started in 5th Five Year Plan"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Human Geography: Nature and Scope",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 1,
+      "unit_name": "Human Geography: Nature and Scope",
+      "part": "A",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Definition of Human Geography — Ratzel, Semple, Vidal de la Blache",
+        "Environmental Determinism — Ratzel, Semple",
+        "Possibilism — Vidal de la Blache (2 characteristics: human has choices, man modifies environment)",
+        "Neo-Determinism (Stop and Go) — Griffin and Taylor (2 characteristics: neither fully deterministic nor fully possibilistic, middle path)",
+        "Humanistic approach — associated with Prof. Amartya Sen",
+        "Radical approach — 1970s, focuses on poverty and inequality",
+        "Welfare/Behavioural approach"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Stop and go determinism 2 characteristics (VSA), Human geography definition (VSA), Possibilism 2 characteristics (VSA), Neo-determinism 2 characteristics (VSA), Schools comparison (Short)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "People — World Population",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 2,
+      "unit_name": "People — World Population",
+      "part": "A",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "World population distribution — densely vs sparsely populated areas",
+        "Population density formulas — arithmetic, agricultural (physiological), vegetative",
+        "Natural growth = Birth Rate - Death Rate",
+        "Negative growth of population",
+        "Demographic Transition Theory — 4 stages",
+        "Migration — immigration/emigration definitions",
+        "Human Development Index (HDI) — UNDP publishes HDR annually",
+        "4 Approaches to Human Development: Income, Welfare, Basic Needs, Capability/Empowerment",
+        "Growth vs Development difference",
+        "Income approach vs Welfare approach comparison"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Population Density = Total Population / Total Area",
+        "Agricultural Density = Agricultural Population / Net Sown Area",
+        "Vegetative Density = Total Population / Net Cultivable Area",
+        "Natural Growth = Birth Rate - Death Rate",
+        "Crude Death Rate = (Deaths in year / Population) x 1000"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Population density formula (VSA), 4 approaches human development (VSA — baar baar aata hai), Growth vs Development 2 differences (VSA/Short), Income vs Welfare approach compare (VSA), Natural/negative growth definition (VSA), Population distribution world factors (Short)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Human Settlements — World",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 3,
+      "unit_name": "Human Settlements — World",
+      "part": "A",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Rural settlement patterns — linear, rectangular, circular, T-shaped, star-shaped, cross-shaped",
+        "Isolated (Ekaaki) settlements — definition and location (hills, forests, deserts)",
+        "Urban settlements — definition and 2 characteristics",
+        "Town types — Administrative (New Delhi), Garrison/Cantonment (Ambala, Nainital), Educational, Industrial, Religious/Pilgrimage, Commercial/Market",
+        "Medieval towns in India — features",
+        "Hamleted settlements — features",
+        "Problems of urban areas — housing, unemployment, slums, pollution, traffic"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Isolated settlement definition (VSA), Urban settlement 2 characteristics (VSA), Garrison vs Administrative town MCQ, Hamleted settlements 2 features (VSA), Medieval towns 2 features (VSA), Smart Cities Mission (VSA under Unit 7)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Human Activities (Manavi Kriyakalap)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 4,
+      "unit_name": "Human Activities (Manavi Kriyakalap)",
+      "part": "A",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium — agriculture types comparison table banao",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Primary activities — hunting/gathering (oldest), pastoral, mining, fishing, agriculture",
+        "Secondary activities — manufacturing (cottage/small/large scale)",
+        "Tertiary activities — services, trade, transport",
+        "Quaternary activities — R&D, IT, knowledge-based, high innovation level",
+        "Quinary activities — gold collar workers, top-level decision making",
+        "Agriculture types — all details below"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Plantation agriculture 3 features (Short), Dairy farming 2-3 features (VSA/Short), Mediterranean agriculture 2 features (VSA), Nomadic herding 2 features (VSA), Commercial livestock vs Nomadic 3 differences (Short), Primary vs Secondary 4 differences (Long), Cottage industry definition (VSA), Manufacturing industry definition (VSA), Dryland farming — sugarcane NOT grown (MCQ/T-F), Primitive subsistence = Nomadic herding (MCQ), Quaternary activities definition (MCQ/VSA)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Transport, Communication and Trade — World",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 5,
+      "unit_name": "Transport, Communication and Trade — World",
+      "part": "A",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Land transport — railways (Trans-Siberian, Trans-Canadian, Australian Trans-Continental)",
+        "Water transport — sea routes (importance, busiest routes)",
+        "Air transport — USA uses 60% of world's air traffic (2 reasons: economic power, large aircraft manufacturers, large domestic air market, maximum airports)",
+        "Pipeline transport — importance for liquids and gases",
+        "Canals — Suez Canal and Panama Canal",
+        "Internet — Global Village concept",
+        "International trade — WTO formed 1995"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Northern Atlantic sea route 3 features (Short), Mediterranean-Indian Ocean 3 features (Short), Pipeline transport 4 importance (Long), USA 60% air traffic 2 reasons (VSA), Internet global village 2 arguments (VSA), International ports 4 features (Long), Suez Canal vs Panama Canal comparison (Short)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "People — India (Population)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 6,
+      "unit_name": "People — India (Population)",
+      "part": "B",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "India population density 2011 = 382 persons per sq km",
+        "1921 = Year of Great Divide (death rate started declining)",
+        "Population growth phases — 4 phases",
+        "1951-1981 = Period of Population Explosion in India",
+        "Working population categories: Cultivators, Agricultural Labourers, Household Industry, Other Workers",
+        "Main worker = 183+ days per year; Marginal worker = less than 183 days",
+        "Sex ratio India (2011) = 943 females per 1000 males",
+        "Migration — push and pull factors",
+        "Beti Bachao Beti Padhao — reasons: declining sex ratio, female foeticide",
+        "National Youth Policy = February 2014",
+        "Secondary/tertiary sector growing — reasons (2011 census)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Population density 382/sq km (MCQ/Q5), Population growth phases India (Short/Long), Phase-III explanation (Short), Occupational composition India meaning (VSA), Main vs Marginal workers definition (VSA), Beti Bachao Beti Padhao reason (VSA), Secondary/tertiary sector participation increasing — 2 reasons (VSA), Large rural population in some states — 3 reasons (Short)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Human Settlements — India",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 7,
+      "unit_name": "Human Settlements — India",
+      "part": "B",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Rural settlements in India — 4 types: (1) Compact/Nucleated, (2) Semi-Compact, (3) Hamleted/Palli, (4) Dispersed/Scattered",
+        "Nagaland mein dispersed settlements paye jaate hain",
+        "Urban settlements — definition, characteristics",
+        "Smart Cities Mission — objectives: sustainable infrastructure, clean energy, 100 smart cities selected",
+        "Urban population distribution India — Maharashtra, Tamil Nadu, Uttar Pradesh have large urban populations",
+        "Metropolitan cities (10 lakh+), megacities (1 crore+)",
+        "Asia's largest slum: Dharavi, Mumbai"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Rural settlements India — kitne types? (VSA — 4 types with names), Hamleted settlements 2 features (VSA), Urban settlement 2 characteristics (VSA), Smart Cities Mission — kya hai aur objectives (VSA), Urban population distribution India (Short), Medieval towns 2 features (VSA)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Resources and Development — India",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 8,
+      "unit_name": "Resources and Development — India",
+      "part": "B",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard — highest marks unit (20 marks)",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Land resources — fallow land, current fallow, forest, net sown area",
+        "Water resources — surface water (rivers, lakes) and ground water",
+        "Highest ground water usage states: Punjab, Haryana, Rajasthan",
+        "Water conservation structures — Kul/Kuhls, Tanka, Baoli/Johad, Bamboo drip, Phad",
+        "National Water Policy 2012",
+        "Watershed management definition",
+        "Mineral resources — iron ore, coal, petroleum, nuclear, non-ferrous",
+        "4 Mineral Belts of India",
+        "Agriculture — food crops and cash crops",
+        "Manufacturing industries and industrial regions",
+        "Hill Area Development Programme (5th Five Year Plan)",
+        "Drought-Prone Area Programme (DPAP)",
+        "PMKSY — Pradhan Mantri Krishi Sinchayee Yojana",
+        "Kisan Portal importance",
+        "Indian agriculture problems"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Ground water use states (VSA), Water conservation 2 measures (VSA), Watershed management (VSA), Mineral belts India 4 (Long/Short), Wheat conditions + states (Short), Cotton Maharashtra, Jute WB (MCQ/Fill Blank), Tea NE India area (Q20 map), Coffee Karnataka (MCQ/Q20 map), Sugarcane UP (Q20 map), India wheat 2nd not 1st (T-F), Indian agriculture 3 problems (Short), PMKSY 4 objectives (Long), DPAP + dryland farming 4 points (Long), Kisan Portal importance 3 (Short), Hill Area Development Programme (Short/VSA), Mumbai High (Q20 map), Raniganj, Bailadila, Bina oil refinery (Q20 map), Amarkantak Narmada origin (Q20 map), Indira Gandhi Canal (Q20 map)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Transport, Communication and International Trade — India",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 9,
+      "unit_name": "Transport, Communication and International Trade — India",
+      "part": "B",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Roadways — National Highways, NHAI (National Highway Authority of India) operationalised 1995",
+        "NH7 (now NH44) — Varanasi to Kanyakumari — longest national highway India",
+        "Railways — 18 zones; Indian Railways one of world's largest networks",
+        "National Waterways — NW1 (Ganga: Allahabad to Haldia), NW2 (Brahmaputra), NW3 (Kerala backwaters)",
+        "Pipeline transport in India",
+        "Major Ports of India — Mumbai, Kandla, Marmagao, Kochi, Paradwip, Visakhapatnam, Chennai, Haldia, Ennore",
+        "Indira Gandhi Canal — from Harika Barrage (Firozpur, Punjab) to Rajasthan (Barmer)",
+        "International trade India — composition and direction",
+        "WTO — World Trade Organization, formed 1995"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "NHAI year 1995 (Fill Blank), Indian Railways zones 18 (Q5), Ports MCQ — land locked NOT Bhopal (river city), Visakhapatnam = deepest landlocked harbour, Kandla location Gulf of Kutch (MCQ), Marmagao/Haldia/Paradwip/Bina on India map (Q20), International trade features India (Short), Indira Gandhi Canal from Harika Barrage Firozpur (Q5)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Geographical Thinking on Selected Issues and Problems",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 10,
+      "unit_name": "Geographical Thinking on Selected Issues and Problems",
+      "part": "B",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Air pollution — major sources, effects on human health, control measures",
+        "Water pollution — causes and effects",
+        "Noise pollution — sources and effects",
+        "Land degradation — causes and remedies",
+        "Bio-energy — utility and importance",
+        "Non-conventional energy sources — solar, wind, biogas, tidal, geothermal, hydrogen",
+        "Conventional energy — coal, petroleum, natural gas, hydel, nuclear",
+        "Solar energy as non-conventional — 3 arguments in its favour",
+        "Farmers suicides — indebtedness as cause, relation with crop failure",
+        "Hill Area Development Programme — started in 5th Five Year Plan"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Air pollution major sources (VSA), Air pollution health effects 2 points (VSA), Noise pollution sources (VSA), Bio-energy utility 3 points (Short), Solar energy 3 arguments (Short/Long), Hill Area Development Programme — kya hai aur kab shuru (VSA/Short), Farmers suicides indebtedness connection (Short), Non-conventional energy 3 examples (MCQ/VSA)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Geography — 10 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "Q6 se Q20 tak sabhi questions mein internal choice (athva/OR) diya jaata hai.",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "High-weightage chapters.",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [
+      "Stop and Go determinism / Possibilism / Human Geography definition (Q: , 2)",
+      "Death rate formula / Natural growth / Negative growth population (Q: , 2)",
+      "4 approaches to Human Development / Growth vs Development (Q: , 2)",
+      "Mediterranean / Plantation / Dairy / Nomadic herding agriculture features (Q: , 2-3)",
+      "Cooperative farming / Shifting cultivation definition (Q: , 2)",
+      "Working population categories / Main vs Marginal workers India (Q: , 2)",
+      "Isolated settlement / Urban settlement features (Q: , 2)",
+      "Ground water use states / Water conservation measures (Tanka, Johad etc.) (Q: , 2)",
+      "Air pollution major sources / health effects / control (Q: , 2)",
+      "Geographical factors influencing world population distribution (3 points) (Q: , 3)",
+      "Plantation / Dairy / Nomadic herding comparison (3 features) (Q: , 3)",
+      "Northern Atlantic sea route / Mediterranean-Indian Ocean sea route (3 features) (Q: , 3)",
+      "Large rural population reasons in some Indian states (3 reasons) (Q: , 3)",
+      "Indian agriculture problems / Kisan Portal importance (3 points) (Q: , 3)",
+      "Population growth phases India / Phase III / effects (3 points) (Q: , 3)",
+      "Bio-energy utility / Solar energy 3 arguments (Q: , 3)",
+      "Primary vs Secondary activities 4 differences (table format best) (Q: , 4)",
+      "DPAP Drought Prone Area Programme + dryland farming 4 points (Q: , 4)",
+      "PMKSY — Pradhan Mantri Krishi Sinchayee Yojana 4 broad objectives (Q: , 4)",
+      "Pipeline transport importance 4 points (Q: , 4)",
+      "World Map — Suez Canal, Cape Town to London, Trans-Siberian, Coffee Brazil, Dairy Europe (Q: , 1 each)",
+      "India Map — Mumbai High, Raniganj, Tea Assam, Indira Gandhi Canal, Kerala literacy, Bailadila, Bina refinery (Q: , 1 each)"
+    ],
+    "chapters_mostly_theory": [],
+    "chapters_mostly_diagram_based": [
+      "Human Geography: Nature and Scope",
+      "People — World Population",
+      "Human Settlements — World",
+      "Human Activities (Manavi Kriyakalap)",
+      "Transport, Communication and Trade — World",
+      "People — India (Population)",
+      "Human Settlements — India",
+      "Resources and Development — India",
+      "Transport, Communication and International Trade — India",
+      "Geographical Thinking on Selected Issues and Problems"
+    ],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "Human Geography: Nature and Scope",
+      "People — World Population",
+      "Human Settlements — World",
+      "Human Activities (Manavi Kriyakalap)",
+      "Transport, Communication and Trade — World",
+      "People — India (Population)",
+      "Human Settlements — India",
+      "Resources and Development — India",
+      "Transport, Communication and International Trade — India",
+      "Geographical Thinking on Selected Issues and Problems"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Stop and Go determinism / Possibilism / Human Geography definition (Q: , 2)",
+      "Death rate formula / Natural growth / Negative growth population (Q: , 2)",
+      "4 approaches to Human Development / Growth vs Development (Q: , 2)",
+      "Mediterranean / Plantation / Dairy / Nomadic herding agriculture features (Q: , 2-3)",
+      "Cooperative farming / Shifting cultivation definition (Q: , 2)",
+      "Working population categories / Main vs Marginal workers India (Q: , 2)",
+      "Isolated settlement / Urban settlement features (Q: , 2)",
+      "Ground water use states / Water conservation measures (Tanka, Johad etc.) (Q: , 2)",
+      "Air pollution major sources / health effects / control (Q: , 2)",
+      "Geographical factors influencing world population distribution (3 points) (Q: , 3)",
+      "Plantation / Dairy / Nomadic herding comparison (3 features) (Q: , 3)",
+      "Northern Atlantic sea route / Mediterranean-Indian Ocean sea route (3 features) (Q: , 3)",
+      "Large rural population reasons in some Indian states (3 reasons) (Q: , 3)",
+      "Indian agriculture problems / Kisan Portal importance (3 points) (Q: , 3)",
+      "Population growth phases India / Phase III / effects (3 points) (Q: , 3)",
+      "Bio-energy utility / Solar energy 3 arguments (Q: , 3)",
+      "Primary vs Secondary activities 4 differences (table format best) (Q: , 4)",
+      "DPAP Drought Prone Area Programme + dryland farming 4 points (Q: , 4)",
+      "PMKSY — Pradhan Mantri Krishi Sinchayee Yojana 4 broad objectives (Q: , 4)",
+      "Pipeline transport importance 4 points (Q: , 4)",
+      "World Map — Suez Canal, Cape Town to London, Trans-Siberian, Coffee Brazil, Dairy Europe (Q: , 1 each)",
+      "India Map — Mumbai High, Raniganj, Tea Assam, Indira Gandhi Canal, Kerala literacy, Bailadila, Bina refinery (Q: , 1 each)"
+    ],
+    "one_mark_question_facts": {
+      "note": "Objective section of paper covers MCQs, fill blanks, T/F, match, one-word.",
+      "common_formats": [
+        "MCQ",
+        "Fill in the Blanks",
+        "True/False",
+        "Match the Pairs",
+        "One Word"
+      ]
+    },
+    "key_facts_quick_revision": {
+      "geography_schools": {
+        "Environmental_Determinism": "Ratzel, Semple — paryavaran manav ko control karta hai",
+        "Possibilism": "Vidal de la Blache — manav ke paas choices hain, environment modify kar sakta hai",
+        "Neo_Determinism_Stop_and_Go": "Griffin, Taylor — middle path, kuch hadd tak determinism",
+        "Humanistic": "Amartya Sen — individual welfare and choices",
+        "Radical": "1970s — poverty, inequality focus"
+      },
+      "important_years_and_numbers": {
+        "India_population_density_2011": "382 persons per sq km",
+        "India_railway_zones": "18",
+        "NHAI_established": "1995",
+        "WTO_formed": "1995",
+        "National_Youth_Policy": "February 2014",
+        "National_Water_Policy": "2012",
+        "Atomic_Energy_Commission": "1948",
+        "Suez_Canal_length_km": "156",
+        "Panama_Canal_length_km": "82",
+        "Suez_Canal_opened": "1869",
+        "Marginal_worker_days": "Less than 183 days per year",
+        "Main_worker_days": "183 or more days per year",
+        "NH44_route": "Varanasi to Kanyakumari (longest NH India)"
+      },
+      "true_false_quick_facts": {
+        "90_percent_world_pop_in_10_percent_land": "SATYA (True)",
+        "Hunting_oldest_economic_activity": "SATYA (True)",
+        "Coffee_is_plantation_crop": "SATYA (True)",
+        "Rice_main_food_crop_India": "SATYA (True)",
+        "India_largest_wheat_producer": "ASATYA (False — China is largest, India is 2nd)",
+        "Public_sector_owned_by_private": "ASATYA (False — government owned)",
+        "Singapore_entrepot_for_Europe": "ASATYA (False — for SE Asia)",
+        "Panama_connects_Atlantic_to_Pacific": "SATYA (True)",
+        "Demand_for_transport_influenced_by_population_size": "SATYA (True)",
+        "Dispersed_settlements_found_in_Nagaland": "SATYA (True)",
+        "More_ports_on_western_coast_than_eastern_coast": "ASATYA (False — more ports on eastern coast)"
+      },
+      "crop_to_state_mapping": {
+        "Largest_rice_producer": "West Bengal",
+        "Largest_wheat_producer": "Uttar Pradesh",
+        "Largest_cotton_producer": "Maharashtra",
+        "Largest_jute_producer": "West Bengal (main fiber crop)",
+        "Largest_tea_producer": "Assam",
+        "Largest_coffee_producer": "Karnataka (Coorg/Madikere)",
+        "Largest_sugarcane_producer": "Uttar Pradesh",
+        "Largest_rubber_producer": "Kerala"
+      },
+      "mineral_to_location_mapping": {
+        "Bailadila_iron_ore": "Chhattisgarh",
+        "Khetri_copper": "Rajasthan",
+        "Neyveli_lignite": "Tamil Nadu",
+        "Jharia_best_coking_coal": "Jharkhand",
+        "Raniganj_coal": "West Bengal",
+        "Singrauli_coal": "MP-UP border",
+        "Talcher_coal": "Odisha",
+        "Mumbai_High_petroleum": "Offshore Maharashtra west coast",
+        "Jamnagar_oil_refinery": "Gujarat",
+        "Bina_oil_refinery": "Madhya Pradesh",
+        "Haldia_oil_refinery_and_port": "West Bengal",
+        "Balaghat_manganese": "Madhya Pradesh",
+        "Amarkantak_Narmada_origin": "Madhya Pradesh"
+      },
+      "port_facts": {
+        "Largest_port": "Mumbai (natural harbour)",
+        "Kandla_location": "Gulf of Kutch, Gujarat (petroleum)",
+        "Paradwip_specialty": "Iron ore export — Odisha",
+        "Haldia_purpose": "Reduce congestion at Kolkata port",
+        "Ennore_type": "Artificial harbour, near Chennai"
+      },
+      "exam_strategy": {
+        "time_management": {
+          "Q1_to_Q5_25min": "28 marks ke objective — 25 minutes. MCQ/Fill Blank/T-F sirf answer likhna hai.",
+          "Q6_to_Q13_VSA_35min": "8 VSA x 2 marks. Har question 4-5 minutes. 30 words limit — seedha 2-3 point.",
+          "Q14_to_Q17_Short_30min": "4 short x 3 marks. 7-8 minutes each. Numbered points mein likho.",
+          "Q18_Long_15min": "1 long answer x 4 marks. 15 minutes. 120 words. Table format for differences.",
+          "Q19_Q20_Maps_25min": "World + India map = 10 marks. 12-13 minutes each. Pencil se arrows, pen se naam.",
+          "Revision_10min": "Spellings check — Paradwip, Marmagao, Visakhapatnam, Amarkantak, Bailadila."
+        },
+        "tips": [
+          "Q1-Q5 ke sab 28 questions attempt karo — no negative marking, ek bhi blank mat chhodna",
+          "Q6-Q20 mein har question mein OR option hai — pehle dono padhkar aasaan wala choose karo",
+          "VSA mein 30 words ki limit — zyada likhne ki zarurat nahi, 2-3 numbered points kaafi hain",
+          "Short answer mein numbered/bulleted points better than paragraph",
+          "Long answer (Q18) mein intro + 4 numbered points + short conclusion — table format for differences",
+          "Agriculture MCQ: Dryland farming mein sugarcane nahi hoti — yaad rakho",
+          "India is NOT the largest wheat producer — China hai (ASATYA likhna answer mein)",
+          "Garrison towns: Ambala, Nainital; Administrative: New Delhi; largest slum: Dharavi",
+          "WTO = 1995, NHAI = 1995, National Youth Policy = February 2014 — fill blank mein aate hain",
+          "4 approaches to HDI: Income, Welfare, Basic Needs, Capability — har saal aata hai",
+          "Map practice daily karo — 10 marks sirf maps se milte hain",
+          "Set number (A/B/C/D) answer sheet pe pehle clearly likho"
+        ]
+      },
+      "paper_difficulty_analysis": {
+        "overall_breakdown": {
+          "easy_percent": 40,
+          "medium_percent": 45,
+          "tough_percent": 15
+        },
+        "section_wise": {
+          "Q1_to_Q5_objective": "Easy — agar facts yaad hain toh 24-28 marks confirm",
+          "Q6_to_Q13_VSA": "Easy to Medium — definitions aur 2-3 points",
+          "Q14_to_Q17_Short": "Medium — 3 points waale comparative questions",
+          "Q18_Long": "Medium — DPAP/PMKSY/Primary vs Secondary standard questions",
+          "Q19_Q20_Maps": "Medium — regular practice se easy ho jaata hai"
+        },
+        "unit_difficulty": [
+          {
+            "unit": 1,
+            "difficulty": "Easy",
+            "note": "Definitions yaad karo"
+          },
+          {
+            "unit": 2,
+            "difficulty": "Medium",
+            "note": "Density formulas + HDI 4 approaches"
+          },
+          {
+            "unit": 3,
+            "difficulty": "Easy",
+            "note": "Settlement types + town MCQ"
+          },
+          {
+            "unit": 4,
+            "difficulty": "Medium",
+            "note": "Agriculture types comparison table banao"
+          },
+          {
+            "unit": 5,
+            "difficulty": "Medium",
+            "note": "Sea routes + canals facts"
+          },
+          {
+            "unit": 6,
+            "difficulty": "Medium",
+            "note": "Population growth phases + worker categories"
+          },
+          {
+            "unit": 7,
+            "difficulty": "Easy",
+            "note": "Smart Cities + settlement types 4"
+          },
+          {
+            "unit": 8,
+            "difficulty": "Medium-Hard",
+            "note": "20 marks unit — sab cover karo"
+          },
+          {
+            "unit": 9,
+            "difficulty": "Medium",
+            "note": "Ports + highways facts"
+          },
+          {
+            "unit": 10,
+            "difficulty": "Easy-Medium",
+            "note": "Pollution + non-conventional energy"
+          }
+        ]
+      },
+      "marks_targets": {
+        "for_passing_23_marks": {
+          "strategy": "Q1-Q5 objective mein 20+ marks aasaan. Q6-Q8 VSA 3-4 attempt (6-8 marks). Total 26-28 marks comfortably.",
+          "focus_areas": [
+            "Q1-Q5 sab attempt karo — no negative marking",
+            "Unit 1 (geography schools), Unit 3 (settlements) — easy",
+            "Unit 10 (air pollution) — easy VSA",
+            "Map mein jo pata hai woh likho"
+          ],
+          "safely_skip": [
+            "Unit 4 deep agriculture comparisons",
+            "Complex sea route derivations"
+          ]
+        },
+        "for_40_to_50_marks": {
+          "strategy": "Objective (25+) + VSA 5-6 (10-12) + Short 2 (6) + Map 6-8 = 47-51.",
+          "focus_areas": [
+            "Unit 8 Resources — most important 20 marks",
+            "Unit 5 World Transport — sea routes Short answer",
+            "Unit 4 Agriculture — plantation/dairy/nomadic comparison",
+            "Map Q19 — Sea routes + Suez + Trans-Siberian",
+            "Map Q20 — Mumbai High, Raniganj, Bailadila, Tea NE India, Indira Gandhi Canal"
+          ]
+        },
+        "for_60_plus": {
+          "strategy": "Objective sab (28) + VSA sab (16) + Short 3-4 (9-12) + Long (4) + Map 8-10 = 65-70.",
+          "focus_areas": [
+            "Population growth phases India — Phase III clearly explain karo",
+            "Primary vs Secondary 4 differences — table format",
+            "DPAP / PMKSY long answer 4 clear points",
+            "World map — all agriculture areas, sea routes, railways practice",
+            "India map — all minerals, ports, agriculture areas locate karo"
+          ]
+        }
+      },
+      "reference_books": {
+        "primary": [
+          {
+            "name": "NCERT Geography Class 12 Part 1 — Manav Bhugol ke Mool Sidhant",
+            "publisher": "NCERT",
+            "why": "Base book. MPBSE syllabus NCERT par based. Sare examples aur case studies padhna zaruri."
+          },
+          {
+            "name": "NCERT Geography Class 12 Part 2 — Bharat: Log aur Arthvyavastha",
+            "publisher": "NCERT",
+            "why": "India part ke liye essential. Maps, tables, programmes sab NCERT se pooche jaate hain."
+          }
+        ],
+        "supplementary": [
+          {
+            "name": "MP Board Previous Year Papers 2022-2026 (Set A, B, C, D)",
+            "publisher": "MPBSE",
+            "why": "mpboardonline.com se download karo. Same question types repeat hote hain — maps especially."
+          },
+          {
+            "name": "MP Board Model Paper 2026 — Geography",
+            "publisher": "MPBSE",
+            "why": "Official model paper — exact format aur question style samjho."
+          },
+          {
+            "name": "Navbodh / Sanjeev Pass Book — MP Board Geography Class 12",
+            "publisher": "Local MP Board Publishers",
+            "why": "MP Board ke liye special guides with chapter-wise solved questions."
+          }
+        ]
+      },
+      "exam_day_rules": {
+        "admit_card_compulsory": true,
+        "electronic_devices_allowed": false,
+        "reach_before_minutes": 30,
+        "extra_time_given": false,
+        "extra_time_note": "MPBSE mein koi extra reading time nahi — 3 ghante mein hi sab karo.",
+        "duration_total": "3 Hours (180 minutes)",
+        "pen_rules": "Blue ya Black pen se answers. Pencil sirf maps/diagrams ke liye.",
+        "map_rules": "Map mein pencil se location mark, pen se naam clearly likho. Map answer book ke saath attach karo.",
+        "set_note": "Set number (A/B/C/D) clearly answer sheet pe pehle likho.",
+        "language_note": "Hindi aur English dono allowed. Discrepancy pe Hindi version final.",
+        "passing_criteria": "70 mein se approximately 23 marks (33%) minimum.",
+        "official_website": "mpbse.nic.in"
+      }
+    },
+    "map_preparation": {
+      "world_map_Q19_common_locations": [
+        {
+          "location": "Coffee producing region",
+          "place": "Brazil (SE Brazil, south of Amazon basin)"
+        },
+        {
+          "location": "Cape Town to London sea route",
+          "place": "Around S. Africa, up W. Africa coast to UK"
+        },
+        {
+          "location": "London to New York sea route",
+          "place": "North Atlantic — most frequently asked"
+        },
+        {
+          "location": "New York to Cape Town sea route",
+          "place": "South Atlantic Ocean"
+        },
+        {
+          "location": "London to Battle Harbour sea route",
+          "place": "North Atlantic — Canada side"
+        },
+        {
+          "location": "Suez Canal",
+          "place": "NE Egypt — between Mediterranean and Red Sea"
+        },
+        {
+          "location": "Panama Canal",
+          "place": "Central America — between Atlantic and Pacific"
+        },
+        {
+          "location": "Trans-Siberian Railway",
+          "place": "Russia — Moscow to Vladivostok"
+        },
+        {
+          "location": "Australian Trans-Continental Railway",
+          "place": "Perth (W) to Sydney (E) — horizontal"
+        },
+        {
+          "location": "Trans-Canadian Railway",
+          "place": "Vancouver to Halifax — horizontal across Canada"
+        },
+        {
+          "location": "Dairy farming area Europe",
+          "place": "NW Europe — Netherlands, Denmark, Germany"
+        },
+        {
+          "location": "Dairy farming area N. America",
+          "place": "NE USA and SE Canada"
+        },
+        {
+          "location": "Mixed farming area Europe",
+          "place": "NW Europe — UK, France, Germany"
+        },
+        {
+          "location": "Mixed farming area S. America",
+          "place": "La Plata/Pampas region — Argentina/Uruguay"
+        },
+        {
+          "location": "Extensive commercial grain farming N. America",
+          "place": "Great Plains — USA/Canada prairies"
+        },
+        {
+          "location": "Nomadic herding N. Africa",
+          "place": "Sahara Desert and N. Africa coast"
+        },
+        {
+          "location": "Commercial livestock rearing Africa",
+          "place": "Velds in South Africa"
+        },
+        {
+          "location": "Commercial livestock rearing Australia",
+          "place": "SE and SW Australia — Downs"
+        },
+        {
+          "location": "Commercial livestock rearing S. America",
+          "place": "Pampas — Argentina"
+        },
+        {
+          "location": "Subsistence gathering N. America",
+          "place": "N. Canada and Alaska"
+        },
+        {
+          "location": "Halifax",
+          "place": "NE Canada"
+        },
+        {
+          "location": "Yokohama",
+          "place": "Japan (near Tokyo)"
+        },
+        {
+          "location": "Buenos Aires",
+          "place": "SE Argentina (Pampas)"
+        },
+        {
+          "location": "St. Petersburg",
+          "place": "NW Russia (Baltic Sea coast)"
+        },
+        {
+          "location": "Madagascar",
+          "place": "Large island east coast of Africa"
+        }
+      ],
+      "india_map_Q20_common_locations": [
+        {
+          "location": "Mumbai High",
+          "place": "Offshore petroleum — west coast Maharashtra"
+        },
+        {
+          "location": "Raniganj coal field",
+          "place": "West Bengal (near Asansol)"
+        },
+        {
+          "location": "Jharia coal field",
+          "place": "Jharkhand (Dhanbad area) — best coking coal"
+        },
+        {
+          "location": "Singrauli coal",
+          "place": "MP-UP border area"
+        },
+        {
+          "location": "Talcher coal",
+          "place": "Odisha"
+        },
+        {
+          "location": "Neyveli lignite",
+          "place": "Tamil Nadu"
+        },
+        {
+          "location": "Bailadila iron ore mine",
+          "place": "Chhattisgarh (Bastar)"
+        },
+        {
+          "location": "Khetri copper",
+          "place": "Rajasthan (Jhunjhunu district)"
+        },
+        {
+          "location": "Balaghat manganese",
+          "place": "Madhya Pradesh"
+        },
+        {
+          "location": "Jamnagar oil refinery",
+          "place": "Gujarat (Saurashtra)"
+        },
+        {
+          "location": "Haldia oil refinery and port",
+          "place": "West Bengal"
+        },
+        {
+          "location": "Bina oil refinery",
+          "place": "Madhya Pradesh (Sagar district)"
+        },
+        {
+          "location": "Amarkantak — Narmada river origin",
+          "place": "Madhya Pradesh (Anuppur)"
+        },
+        {
+          "location": "Tea producing area",
+          "place": "Assam (NE India) + W. Bengal (Darjeeling)"
+        },
+        {
+          "location": "Coffee producing area",
+          "place": "Karnataka (Coorg/Madikere — SW Karnataka)"
+        },
+        {
+          "location": "Largest sugarcane state",
+          "place": "Uttar Pradesh (Ganga plains)"
+        },
+        {
+          "location": "State with highest literacy",
+          "place": "Kerala (SW India)"
+        },
+        {
+          "location": "Indira Gandhi Canal",
+          "place": "Rajasthan — starts from Firozpur Punjab, goes to Barmer"
+        },
+        {
+          "location": "Marmagao Port",
+          "place": "Goa (W coast)"
+        },
+        {
+          "location": "Paradwip Port",
+          "place": "Odisha (E coast)"
+        },
+        {
+          "location": "Haldia Port",
+          "place": "West Bengal (E coast)"
+        },
+        {
+          "location": "Visakhapatnam Port",
+          "place": "Andhra Pradesh (E coast)"
+        },
+        {
+          "location": "Chennai Port",
+          "place": "Tamil Nadu (E coast) — oldest artificial port"
+        },
+        {
+          "location": "Kandla Port",
+          "place": "Gujarat (Gulf of Kutch, W coast)"
+        },
+        {
+          "location": "Kochi Port",
+          "place": "Kerala (W coast, backwaters)"
+        }
+      ],
+      "map_tips": [
+        "World map mein rivers nahi hoti — sirf sea routes, agriculture areas, railways, cities, canals",
+        "India map mein arrows se location point karo — naam clearly pen se likho",
+        "Cape Town to London route — around S. Africa ka tip (Cape of Good Hope) se north-west",
+        "Trans-Siberian = Russia ki railway (Moscow to Vladivostok) — world's longest",
+        "Australian Trans-Continental = Perth (west coast) to Sydney (east coast) — horizontal",
+        "Suez Canal = NE Egypt between Mediterranean Sea and Red Sea",
+        "Panama Canal = Central America between Atlantic Ocean and Pacific Ocean",
+        "Bailadila = Chhattisgarh (iron ore) — NOT Jharkhand (common confusion)",
+        "Bina oil refinery = Madhya Pradesh — frequently asked in Q20",
+        "Amarkantak = Narmada river origin in Madhya Pradesh — NOT Chhattisgarh",
+        "Indira Gandhi Canal starts from Harika Barrage in Firozpur, Punjab — not from Rajasthan",
+        "Haldia = both oil refinery AND port in West Bengal — dual use site",
+        "Neyveli = lignite (brown coal) in Tamil Nadu — NOT in Jharkhand"
+      ]
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Geography — maps/diagrams/frameworks.",
+    "must_practise": [
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Coffee producing region",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Cape Town to London sea route",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "London to New York sea route",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "New York to Cape Town sea route",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "London to Battle Harbour sea route",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Suez Canal",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Panama Canal",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Trans-Siberian Railway",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Australian Trans-Continental Railway",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Trans-Canadian Railway",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Dairy farming area Europe",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Dairy farming area N. America",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Mixed farming area Europe",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Mixed farming area S. America",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Extensive commercial grain farming N. America",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Nomadic herding N. Africa",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Commercial livestock rearing Africa",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Commercial livestock rearing Australia",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Commercial livestock rearing S. America",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Subsistence gathering N. America",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Halifax",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Yokohama",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Buenos Aires",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "St. Petersburg",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "world_map_Q19_common_locations",
+        "diagram_name": "Madagascar",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Mumbai High",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Raniganj coal field",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Jharia coal field",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Singrauli coal",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Talcher coal",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Neyveli lignite",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Bailadila iron ore mine",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Khetri copper",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Balaghat manganese",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Jamnagar oil refinery",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Haldia oil refinery and port",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Bina oil refinery",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Amarkantak — Narmada river origin",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Tea producing area",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Coffee producing area",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Largest sugarcane state",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "State with highest literacy",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Indira Gandhi Canal",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Marmagao Port",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Paradwip Port",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Haldia Port",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Visakhapatnam Port",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Chennai Port",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Kandla Port",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "india_map_Q20_common_locations",
+        "diagram_name": "Kochi Port",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "World map mein rivers nahi hoti — sirf sea routes, agriculture areas, railways, cities, canals",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "India map mein arrows se location point karo — naam clearly pen se likho",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "Cape Town to London route — around S. Africa ka tip (Cape of Good Hope) se north-west",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "Trans-Siberian = Russia ki railway (Moscow to Vladivostok) — world's longest",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "Australian Trans-Continental = Perth (west coast) to Sydney (east coast) — horizontal",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "Suez Canal = NE Egypt between Mediterranean Sea and Red Sea",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "Panama Canal = Central America between Atlantic Ocean and Pacific Ocean",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "Bailadila = Chhattisgarh (iron ore) — NOT Jharkhand (common confusion)",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "Bina oil refinery = Madhya Pradesh — frequently asked in Q20",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "Amarkantak = Narmada river origin in Madhya Pradesh — NOT Chhattisgarh",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "Indira Gandhi Canal starts from Harika Barrage in Firozpur, Punjab — not from Rajasthan",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "Haldia = both oil refinery AND port in West Bengal — dual use site",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "map_tips",
+        "diagram_name": "Neyveli = lignite (brown coal) in Tamil Nadu — NOT in Jharkhand",
+        "note": ""
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Not typically applicable for Geography (humanities subject).",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Geography",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Geography",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Geography — no practical.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 0,
+    "medium_percent": 0,
+    "hard_percent": 0,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [],
+    "time_allocation": []
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": []
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": false,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 0,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "",
+    "extra_time_given": false,
+    "extra_time_note": ""
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": ""
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

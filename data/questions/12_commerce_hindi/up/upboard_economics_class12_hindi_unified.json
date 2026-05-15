@@ -1,0 +1,2608 @@
+{
+  "board": "UP Board",
+  "class": "12",
+  "subject": "अर्थशास्त्र (Economics)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 100,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 33,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": false,
+    "extra_time_note": "कुल 3 घंटे 15 मिनट। पहले 15 मिनट केवल रीडिंग टाइम — लिखना allowed नहीं।",
+    "internal_assessment_note": "उत्तीर्ण होने के लिए 100 में से न्यूनतम 33 अंक आवश्यक।"
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 27,
+    "total_questions_to_attempt": 27,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "हिंदी या अंग्रेज़ी दोनों allowed। विसंगति की स्थिति में हिंदी संस्करण ही अंतिम माना जाएगा।",
+    "all_compulsory_note": "केवल दीर्घ उत्तरीय प्रश्नों (प्रश्न 25, 26, 27) में — प्रत्येक में 'अथवा' विकल्प।",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "",
+    "new_pattern_note": "",
+    "types": []
+  },
+  "paper_pattern": {
+    "note": "",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "केवल दीर्घ उत्तरीय प्रश्नों (प्रश्न 25, 26, 27) में — प्रत्येक में 'अथवा' विकल्प।",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 0,
+      "medium_percent": 0,
+      "hard_percent": 0,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "section_mcq",
+        "name": "बहुविकल्पीय प्रश्न (वस्तुनिष्ठ)",
+        "type": "बहुविकल्पीय प्रश्न (वस्तुनिष्ठ)",
+        "question_numbers": "प्रश्न 1 से 10",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "10 MCQ, सभी अनिवार्य। Competency Based Questions (CBQ) भी शामिल — कथन-आधारित एवं उपपत्ति-कारण प्रकार। उत्तर पुस्तिका में केवल सही विकल्प का अक्षर लिखें।",
+        "notes": "10 MCQ, सभी अनिवार्य। Competency Based Questions (CBQ) भी शामिल — कथन-आधारित एवं उपपत्ति-कारण प्रकार। उत्तर पुस्तिका में केवल सही विकल्प का अक्षर लिखें।"
+      },
+      {
+        "section_id": "section_vsa",
+        "name": "अति लघु उत्तरीय प्रश्न",
+        "type": "अति लघु उत्तरीय प्रश्न",
+        "question_numbers": "प्रश्न 11 से 18",
+        "total_questions": 8,
+        "total_sub_questions": 0,
+        "attempt_required": 8,
+        "marks_per_question": 3,
+        "total_marks": 24,
+        "word_limit": "प्रत्येक उत्तर लगभग 30-50 शब्दों में",
+        "breakdown": "8 प्रश्न × 3 अंक = 24 अंक। कुछ प्रश्नों में 1½ + 1½ अंकों का विभाजन (दो-भाग उत्तर)। कोई internal choice नहीं। परिभाषाएँ, 2-3 मुख्य बिंदु, अंतर प्रश्न।",
+        "notes": "8 प्रश्न × 3 अंक = 24 अंक। कुछ प्रश्नों में 1½ + 1½ अंकों का विभाजन (दो-भाग उत्तर)। कोई internal choice नहीं। परिभाषाएँ, 2-3 मुख्य बिंदु, अंतर प्रश्न।"
+      },
+      {
+        "section_id": "section_sa",
+        "name": "लघु उत्तरीय प्रश्न",
+        "type": "लघु उत्तरीय प्रश्न",
+        "question_numbers": "प्रश्न 19 से 24",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 6,
+        "total_marks": 36,
+        "word_limit": "प्रत्येक उत्तर लगभग 100-150 शब्दों में",
+        "breakdown": "6 प्रश्न × 6 अंक = 36 अंक। कोई internal choice नहीं। सभी अनिवार्य। जहाँ आवश्यक हो रेखाचित्र बनाइए। मध्यम से कठिन स्तर।",
+        "notes": "6 प्रश्न × 6 अंक = 36 अंक। कोई internal choice नहीं। सभी अनिवार्य। जहाँ आवश्यक हो रेखाचित्र बनाइए। मध्यम से कठिन स्तर।"
+      },
+      {
+        "section_id": "section_la",
+        "name": "दीर्घ उत्तरीय प्रश्न (निबंधात्मक)",
+        "type": "दीर्घ उत्तरीय प्रश्न (निबंधात्मक)",
+        "question_numbers": "प्रश्न 25, 26, 27",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "attempt_required": 3,
+        "marks_per_question": 10,
+        "total_marks": 30,
+        "word_limit": "प्रत्येक उत्तर लगभग 250-300 शब्दों में",
+        "breakdown": "3 प्रश्न × 10 अंक = 30 अंक। प्रत्येक में 'अथवा' विकल्प — आसान चुनिए। रेखाचित्र एवं व्याख्या आवश्यक। मध्यम से कठिन।",
+        "notes": "3 प्रश्न × 10 अंक = 30 अंक। प्रत्येक में 'अथवा' विकल्प — आसान चुनिए। रेखाचित्र एवं व्याख्या आवश्यक। मध्यम से कठिन।"
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 100,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "section_mcq",
+        "name": "बहुविकल्पीय प्रश्न (वस्तुनिष्ठ)",
+        "question_numbers": "प्रश्न 1 से 10",
+        "type": "बहुविकल्पीय प्रश्न (वस्तुनिष्ठ)",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "10 MCQ, सभी अनिवार्य। Competency Based Questions (CBQ) भी शामिल — कथन-आधारित एवं उपपत्ति-कारण प्रकार। उत्तर पुस्तिका में केवल सही विकल्प का अक्षर लिखें।"
+      },
+      {
+        "section_id": "section_vsa",
+        "name": "अति लघु उत्तरीय प्रश्न",
+        "question_numbers": "प्रश्न 11 से 18",
+        "type": "अति लघु उत्तरीय प्रश्न",
+        "total_questions": 8,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 24,
+        "word_limit": "प्रत्येक उत्तर लगभग 30-50 शब्दों में",
+        "breakdown": "8 प्रश्न × 3 अंक = 24 अंक। कुछ प्रश्नों में 1½ + 1½ अंकों का विभाजन (दो-भाग उत्तर)। कोई internal choice नहीं। परिभाषाएँ, 2-3 मुख्य बिंदु, अंतर प्रश्न।"
+      },
+      {
+        "section_id": "section_sa",
+        "name": "लघु उत्तरीय प्रश्न",
+        "question_numbers": "प्रश्न 19 से 24",
+        "type": "लघु उत्तरीय प्रश्न",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 6,
+        "total_marks": 36,
+        "word_limit": "प्रत्येक उत्तर लगभग 100-150 शब्दों में",
+        "breakdown": "6 प्रश्न × 6 अंक = 36 अंक। कोई internal choice नहीं। सभी अनिवार्य। जहाँ आवश्यक हो रेखाचित्र बनाइए। मध्यम से कठिन स्तर।"
+      },
+      {
+        "section_id": "section_la",
+        "name": "दीर्घ उत्तरीय प्रश्न (निबंधात्मक)",
+        "question_numbers": "प्रश्न 25, 26, 27",
+        "type": "दीर्घ उत्तरीय प्रश्न (निबंधात्मक)",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "marks_per_question": 10,
+        "total_marks": 30,
+        "word_limit": "प्रत्येक उत्तर लगभग 250-300 शब्दों में",
+        "breakdown": "3 प्रश्न × 10 अंक = 30 अंक। प्रत्येक में 'अथवा' विकल्प — आसान चुनिए। रेखाचित्र एवं व्याख्या आवश्यक। मध्यम से कठिन।"
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 100,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "2",
+      "name": "उपभोक्ता व्यवहार का सिद्धांत",
+      "marks": 18,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "6",
+        "name": "समष्टि अर्थशास्त्र का परिचय",
+        "marks": 1
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "व्यष्टि अर्थशास्त्र का परिचय",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: परिचयात्मक व्यष्टि अर्थशास्त्र"
+      },
+      {
+        "chapter_id": "2",
+        "name": "उपभोक्ता व्यवहार का सिद्धांत",
+        "marks": 18,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: परिचयात्मक व्यष्टि अर्थशास्त्र"
+      },
+      {
+        "chapter_id": "3",
+        "name": "उत्पादन एवं लागत",
+        "marks": 18,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: परिचयात्मक व्यष्टि अर्थशास्त्र"
+      },
+      {
+        "chapter_id": "4",
+        "name": "पूर्ण प्रतियोगिता में फर्म का सिद्धांत",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: परिचयात्मक व्यष्टि अर्थशास्त्र"
+      },
+      {
+        "chapter_id": "5",
+        "name": "बाज़ार साम्य",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग A: परिचयात्मक व्यष्टि अर्थशास्त्र"
+      },
+      {
+        "chapter_id": "6",
+        "name": "समष्टि अर्थशास्त्र का परिचय",
+        "marks": 1,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग B: परिचयात्मक समष्टि अर्थशास्त्र"
+      },
+      {
+        "chapter_id": "7",
+        "name": "राष्ट्रीय आय लेखांकन",
+        "marks": 12,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग B: परिचयात्मक समष्टि अर्थशास्त्र"
+      },
+      {
+        "chapter_id": "8",
+        "name": "मुद्रा एवं बैंकिंग",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग B: परिचयात्मक समष्टि अर्थशास्त्र"
+      },
+      {
+        "chapter_id": "9",
+        "name": "आय एवं रोज़गार का निर्धारण",
+        "marks": 14,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग B: परिचयात्मक समष्टि अर्थशास्त्र"
+      },
+      {
+        "chapter_id": "10",
+        "name": "सरकारी बजट एवं अर्थव्यवस्था",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग B: परिचयात्मक समष्टि अर्थशास्त्र"
+      },
+      {
+        "chapter_id": "11",
+        "name": "खुली अर्थव्यवस्था समष्टि अर्थशास्त्र (भुगतान संतुलन)",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "भाग B: परिचयात्मक समष्टि अर्थशास्त्र"
+      }
+    ],
+    "totals": {
+      "total_marks": 100,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Economics Class 12 — 11 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Economics — भाग A: परिचयात्मक व्यष्टि अर्थशास्त्र",
+        "category": "भाग A: परिचयात्मक व्यष्टि अर्थशास्त्र",
+        "total_marks": 54,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "व्यष्टि अर्थशास्त्र का परिचय",
+            "marks": 4,
+            "topics": [
+              "व्यष्टि एवं समष्टि अर्थशास्त्र का अर्थ",
+              "प्रत्यक्षात्मक एवं आदर्शात्मक अर्थशास्त्र",
+              "अर्थव्यवस्था क्या है? अर्थव्यवस्था की केंद्रीय समस्याएँ",
+              "क्या, कैसे एवं किसके लिए उत्पादन करें",
+              "उत्पादन संभावना वक्र (PPF) एवं अवसर लागत",
+              "सीमांत अवसर लागत (MOC)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "उपभोक्ता व्यवहार का सिद्धांत",
+            "marks": 18,
+            "topics": [
+              "उपयोगिता — कुल उपयोगिता (TU) एवं सीमांत उपयोगिता (MU)",
+              "सीमांत उपयोगिता ह्रास नियम (DMU)",
+              "उपभोक्ता का साम्य — एक वस्तु एवं दो वस्तुओं की स्थिति",
+              "अनधिमान वक्र (IC) विश्लेषण — अनधिमान समूह, मानचित्र, MRS",
+              "उपभोक्ता का बजट — बजट समूह एवं बजट रेखा",
+              "माँग, बाज़ार माँग, माँग तालिका, माँग वक्र",
+              "माँग के निर्धारक, माँग वक्र में स्थानांतरण",
+              "माँग की क़ीमत लोच — मापन, प्रकार, कारक",
+              "लोच की प्रतिशत परिवर्तन विधि"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "उत्पादन एवं लागत",
+            "marks": 18,
+            "topics": [
+              "उत्पादन फलन — अल्पकाल एवं दीर्घकाल",
+              "कुल उत्पाद (TP), औसत उत्पाद (AP), सीमांत उत्पाद (MP)",
+              "परिवर्ती अनुपात का नियम — 3 अवस्थाएँ",
+              "पैमाने के प्रतिफल — वर्धमान, स्थिर, ह्रासमान",
+              "लागत की अवधारणाएँ: TFC, TVC, TC, AFC, AVC, AC, MC",
+              "TC, TVC, TFC के बीच संबंध",
+              "MC एवं AC के बीच संबंध",
+              "आगम — TR, AR, MR एवं उनका संबंध",
+              "उत्पादक का साम्य — MR = MC की शर्त"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "पूर्ण प्रतियोगिता में फर्म का सिद्धांत",
+            "marks": 10,
+            "topics": [
+              "बाज़ार के स्वरूप — पूर्ण एवं अपूर्ण प्रतियोगिता",
+              "पूर्ण प्रतियोगिता की विशेषताएँ",
+              "बाज़ार साम्य का निर्धारण — माँग एवं पूर्ति में स्थानांतरण का प्रभाव",
+              "सरल अनुप्रयोग — मूल्य की अधिकतम सीमा (Price Ceiling), मूल्य की न्यूनतम सीमा (Price Floor)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "बाज़ार साम्य",
+            "marks": 4,
+            "topics": [
+              "पूर्ति — बाज़ार पूर्ति, पूर्ति के निर्धारक, पूर्ति तालिका एवं वक्र",
+              "पूर्ति की क़ीमत लोच — मापन, प्रतिशत परिवर्तन विधि",
+              "साम्य मूल्य एवं मात्रा",
+              "माँग एवं पूर्ति में स्थानांतरण एवं उनके प्रभाव"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Economics — भाग B: परिचयात्मक समष्टि अर्थशास्त्र",
+        "category": "भाग B: परिचयात्मक समष्टि अर्थशास्त्र",
+        "total_marks": 51,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "6",
+            "name": "समष्टि अर्थशास्त्र का परिचय",
+            "marks": 1,
+            "topics": [
+              "समष्टि अर्थशास्त्र का अर्थ एवं क्षेत्र",
+              "आय का चक्रीय प्रवाह — दो-क्षेत्र मॉडल",
+              "स्टॉक एवं प्रवाह चर",
+              "रिसाव एवं अंतर्वेशन"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "राष्ट्रीय आय लेखांकन",
+            "marks": 12,
+            "topics": [
+              "आधारभूत अवधारणाएँ: उपभोग वस्तुएँ, पूँजीगत वस्तुएँ, अंतिम वस्तुएँ, मध्यवर्ती वस्तुएँ",
+              "स्टॉक एवं प्रवाह, सकल निवेश एवं मूल्यह्रास",
+              "बाज़ार मूल्य पर सकल घरेलू उत्पाद (GDP_MP), NDP_MP, GNP_MP, NNP_MP",
+              "साधन लागत पर GDP (GDP_FC), NDP_FC, GNP_FC, NNP_FC",
+              "राष्ट्रीय आय (NNP_FC) तथा GDP एवं जनकल्याण",
+              "विधियाँ: मूल्य-वर्धित विधि (GVA), आय विधि, व्यय विधि",
+              "मौद्रिक GDP बनाम वास्तविक GDP",
+              "शुद्ध अप्रत्यक्ष कर (NIT), विदेशों से प्राप्त शुद्ध साधन आय (NFIA)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "मुद्रा एवं बैंकिंग",
+            "marks": 8,
+            "topics": [
+              "मुद्रा — अर्थ एवं कार्य (4 कार्य)",
+              "मुद्रा की पूर्ति — जनता के पास मुद्रा एवं शुद्ध माँग जमाएँ",
+              "वाणिज्यिक बैंकिंग प्रणाली द्वारा मुद्रा सृजन",
+              "केंद्रीय बैंक (RBI) एवं इसके कार्य",
+              "साख नियंत्रण के साधन: बैंक दर, CRR, SLR, रेपो दर, रिवर्स रेपो दर",
+              "खुले बाज़ार की क्रियाएँ, मार्जिन आवश्यकता"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "आय एवं रोज़गार का निर्धारण",
+            "marks": 14,
+            "topics": [
+              "समग्र माँग (AD) एवं इसके घटक: C + I + G + (X - M)",
+              "समग्र पूर्ति (AS) = Y = C + S",
+              "उपभोग फलन — APC एवं MPC",
+              "बचत फलन — APS एवं MPS",
+              "अल्पकालीन साम्य उत्पाद (AD = AS)",
+              "निवेश गुणक (k = 1/MPS = 1/(1-MPC))",
+              "अधिक माँग एवं न्यून माँग",
+              "रोज़गार का कीन्सवादी सिद्धांत",
+              "पूर्ण रोज़गार एवं अनैच्छिक बेरोज़गारी का अर्थ",
+              "अधिक/न्यून माँग को ठीक करने के उपाय"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "सरकारी बजट एवं अर्थव्यवस्था",
+            "marks": 8,
+            "topics": [
+              "सरकारी बजट — अर्थ, उद्देश्य एवं घटक",
+              "राजस्व बजट एवं पूँजी बजट",
+              "राजस्व प्राप्तियाँ: कर राजस्व (प्रत्यक्ष एवं अप्रत्यक्ष) एवं ग़ैर-कर राजस्व",
+              "पूँजीगत प्राप्तियाँ",
+              "राजस्व व्यय एवं पूँजीगत व्यय",
+              "बजट के प्रकार: संतुलित, आधिक्य, घाटे का बजट",
+              "सरकारी घाटे के प्रकार: राजस्व घाटा, राजकोषीय घाटा, प्राथमिक घाटा"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "खुली अर्थव्यवस्था समष्टि अर्थशास्त्र (भुगतान संतुलन)",
+            "marks": 8,
+            "topics": [
+              "भुगतान संतुलन (BoP) खाता — अर्थ एवं घटक",
+              "चालू खाता एवं पूँजी खाता",
+              "BoP में स्वायत्त बनाम समायोजक मदें",
+              "BoP घाटा — अर्थ एवं कारण",
+              "विदेशी विनिमय दर — अर्थ एवं प्रकार",
+              "स्थिर विनिमय दर प्रणाली (स्वर्ण मानक, ब्रेटन वुड्स)",
+              "परिवर्तनशील (तैरती) विनिमय दर प्रणाली",
+              "प्रबंधित तैरती विनिमय दर",
+              "विदेशी विनिमय की माँग एवं पूर्ति"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "व्यष्टि अर्थशास्त्र का परिचय",
+      "unit_or_chapter": "chapter",
+      "book": "अर्थशास्त्र (Economics)",
+      "unit_id": 1,
+      "unit_name": "व्यष्टि अर्थशास्त्र का परिचय",
+      "part": "भाग A: परिचयात्मक व्यष्टि अर्थशास्त्र",
+      "weightage_marks": 4,
+      "typical_breakdown": "9-13",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "व्यष्टि एवं समष्टि अर्थशास्त्र का अर्थ",
+        "प्रत्यक्षात्मक एवं आदर्शात्मक अर्थशास्त्र",
+        "अर्थव्यवस्था क्या है? अर्थव्यवस्था की केंद्रीय समस्याएँ",
+        "क्या, कैसे एवं किसके लिए उत्पादन करें",
+        "उत्पादन संभावना वक्र (PPF) एवं अवसर लागत",
+        "सीमांत अवसर लागत (MOC)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "उपभोक्ता व्यवहार का सिद्धांत",
+      "unit_or_chapter": "chapter",
+      "book": "अर्थशास्त्र (Economics)",
+      "unit_id": 2,
+      "unit_name": "उपभोक्ता व्यवहार का सिद्धांत",
+      "part": "भाग A: परिचयात्मक व्यष्टि अर्थशास्त्र",
+      "weightage_marks": 18,
+      "typical_breakdown": "14-30",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "उपयोगिता — कुल उपयोगिता (TU) एवं सीमांत उपयोगिता (MU)",
+        "सीमांत उपयोगिता ह्रास नियम (DMU)",
+        "उपभोक्ता का साम्य — एक वस्तु एवं दो वस्तुओं की स्थिति",
+        "अनधिमान वक्र (IC) विश्लेषण — अनधिमान समूह, मानचित्र, MRS",
+        "उपभोक्ता का बजट — बजट समूह एवं बजट रेखा",
+        "माँग, बाज़ार माँग, माँग तालिका, माँग वक्र",
+        "माँग के निर्धारक, माँग वक्र में स्थानांतरण",
+        "माँग की क़ीमत लोच — मापन, प्रकार, कारक",
+        "लोच की प्रतिशत परिवर्तन विधि"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "उत्पादन एवं लागत",
+      "unit_or_chapter": "chapter",
+      "book": "अर्थशास्त्र (Economics)",
+      "unit_id": 3,
+      "unit_name": "उत्पादन एवं लागत",
+      "part": "भाग A: परिचयात्मक व्यष्टि अर्थशास्त्र",
+      "weightage_marks": 18,
+      "typical_breakdown": "31-43",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "उत्पादन फलन — अल्पकाल एवं दीर्घकाल",
+        "कुल उत्पाद (TP), औसत उत्पाद (AP), सीमांत उत्पाद (MP)",
+        "परिवर्ती अनुपात का नियम — 3 अवस्थाएँ",
+        "पैमाने के प्रतिफल — वर्धमान, स्थिर, ह्रासमान",
+        "लागत की अवधारणाएँ: TFC, TVC, TC, AFC, AVC, AC, MC",
+        "TC, TVC, TFC के बीच संबंध",
+        "MC एवं AC के बीच संबंध",
+        "आगम — TR, AR, MR एवं उनका संबंध",
+        "उत्पादक का साम्य — MR = MC की शर्त"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "पूर्ण प्रतियोगिता में फर्म का सिद्धांत",
+      "unit_or_chapter": "chapter",
+      "book": "अर्थशास्त्र (Economics)",
+      "unit_id": 4,
+      "unit_name": "पूर्ण प्रतियोगिता में फर्म का सिद्धांत",
+      "part": "भाग A: परिचयात्मक व्यष्टि अर्थशास्त्र",
+      "weightage_marks": 10,
+      "typical_breakdown": "43-58",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "बाज़ार के स्वरूप — पूर्ण एवं अपूर्ण प्रतियोगिता",
+        "पूर्ण प्रतियोगिता की विशेषताएँ",
+        "बाज़ार साम्य का निर्धारण — माँग एवं पूर्ति में स्थानांतरण का प्रभाव",
+        "सरल अनुप्रयोग — मूल्य की अधिकतम सीमा (Price Ceiling), मूल्य की न्यूनतम सीमा (Price Floor)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "बाज़ार साम्य",
+      "unit_or_chapter": "chapter",
+      "book": "अर्थशास्त्र (Economics)",
+      "unit_id": 5,
+      "unit_name": "बाज़ार साम्य",
+      "part": "भाग A: परिचयात्मक व्यष्टि अर्थशास्त्र",
+      "weightage_marks": 4,
+      "typical_breakdown": "59-66",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "पूर्ति — बाज़ार पूर्ति, पूर्ति के निर्धारक, पूर्ति तालिका एवं वक्र",
+        "पूर्ति की क़ीमत लोच — मापन, प्रतिशत परिवर्तन विधि",
+        "साम्य मूल्य एवं मात्रा",
+        "माँग एवं पूर्ति में स्थानांतरण एवं उनके प्रभाव"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "समष्टि अर्थशास्त्र का परिचय",
+      "unit_or_chapter": "chapter",
+      "book": "अर्थशास्त्र (Economics)",
+      "unit_id": 6,
+      "unit_name": "समष्टि अर्थशास्त्र का परिचय",
+      "part": "भाग B: परिचयात्मक समष्टि अर्थशास्त्र",
+      "weightage_marks": 1,
+      "typical_breakdown": "69-72",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "समष्टि अर्थशास्त्र का अर्थ एवं क्षेत्र",
+        "आय का चक्रीय प्रवाह — दो-क्षेत्र मॉडल",
+        "स्टॉक एवं प्रवाह चर",
+        "रिसाव एवं अंतर्वेशन"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "राष्ट्रीय आय लेखांकन",
+      "unit_or_chapter": "chapter",
+      "book": "अर्थशास्त्र (Economics)",
+      "unit_id": 7,
+      "unit_name": "राष्ट्रीय आय लेखांकन",
+      "part": "भाग B: परिचयात्मक समष्टि अर्थशास्त्र",
+      "weightage_marks": 12,
+      "typical_breakdown": "72-86",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "आधारभूत अवधारणाएँ: उपभोग वस्तुएँ, पूँजीगत वस्तुएँ, अंतिम वस्तुएँ, मध्यवर्ती वस्तुएँ",
+        "स्टॉक एवं प्रवाह, सकल निवेश एवं मूल्यह्रास",
+        "बाज़ार मूल्य पर सकल घरेलू उत्पाद (GDP_MP), NDP_MP, GNP_MP, NNP_MP",
+        "साधन लागत पर GDP (GDP_FC), NDP_FC, GNP_FC, NNP_FC",
+        "राष्ट्रीय आय (NNP_FC) तथा GDP एवं जनकल्याण",
+        "विधियाँ: मूल्य-वर्धित विधि (GVA), आय विधि, व्यय विधि",
+        "मौद्रिक GDP बनाम वास्तविक GDP",
+        "शुद्ध अप्रत्यक्ष कर (NIT), विदेशों से प्राप्त शुद्ध साधन आय (NFIA)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "मुद्रा एवं बैंकिंग",
+      "unit_or_chapter": "chapter",
+      "book": "अर्थशास्त्र (Economics)",
+      "unit_id": 8,
+      "unit_name": "मुद्रा एवं बैंकिंग",
+      "part": "भाग B: परिचयात्मक समष्टि अर्थशास्त्र",
+      "weightage_marks": 8,
+      "typical_breakdown": "87-95",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "मुद्रा — अर्थ एवं कार्य (4 कार्य)",
+        "मुद्रा की पूर्ति — जनता के पास मुद्रा एवं शुद्ध माँग जमाएँ",
+        "वाणिज्यिक बैंकिंग प्रणाली द्वारा मुद्रा सृजन",
+        "केंद्रीय बैंक (RBI) एवं इसके कार्य",
+        "साख नियंत्रण के साधन: बैंक दर, CRR, SLR, रेपो दर, रिवर्स रेपो दर",
+        "खुले बाज़ार की क्रियाएँ, मार्जिन आवश्यकता"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "आय एवं रोज़गार का निर्धारण",
+      "unit_or_chapter": "chapter",
+      "book": "अर्थशास्त्र (Economics)",
+      "unit_id": 9,
+      "unit_name": "आय एवं रोज़गार का निर्धारण",
+      "part": "भाग B: परिचयात्मक समष्टि अर्थशास्त्र",
+      "weightage_marks": 14,
+      "typical_breakdown": "96-107",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "समग्र माँग (AD) एवं इसके घटक: C + I + G + (X - M)",
+        "समग्र पूर्ति (AS) = Y = C + S",
+        "उपभोग फलन — APC एवं MPC",
+        "बचत फलन — APS एवं MPS",
+        "अल्पकालीन साम्य उत्पाद (AD = AS)",
+        "निवेश गुणक (k = 1/MPS = 1/(1-MPC))",
+        "अधिक माँग एवं न्यून माँग",
+        "रोज़गार का कीन्सवादी सिद्धांत",
+        "पूर्ण रोज़गार एवं अनैच्छिक बेरोज़गारी का अर्थ",
+        "अधिक/न्यून माँग को ठीक करने के उपाय"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "सरकारी बजट एवं अर्थव्यवस्था",
+      "unit_or_chapter": "chapter",
+      "book": "अर्थशास्त्र (Economics)",
+      "unit_id": 10,
+      "unit_name": "सरकारी बजट एवं अर्थव्यवस्था",
+      "part": "भाग B: परिचयात्मक समष्टि अर्थशास्त्र",
+      "weightage_marks": 8,
+      "typical_breakdown": "108-116",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "सरकारी बजट — अर्थ, उद्देश्य एवं घटक",
+        "राजस्व बजट एवं पूँजी बजट",
+        "राजस्व प्राप्तियाँ: कर राजस्व (प्रत्यक्ष एवं अप्रत्यक्ष) एवं ग़ैर-कर राजस्व",
+        "पूँजीगत प्राप्तियाँ",
+        "राजस्व व्यय एवं पूँजीगत व्यय",
+        "बजट के प्रकार: संतुलित, आधिक्य, घाटे का बजट",
+        "सरकारी घाटे के प्रकार: राजस्व घाटा, राजकोषीय घाटा, प्राथमिक घाटा"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "खुली अर्थव्यवस्था समष्टि अर्थशास्त्र (भुगतान संतुलन)",
+      "unit_or_chapter": "chapter",
+      "book": "अर्थशास्त्र (Economics)",
+      "unit_id": 11,
+      "unit_name": "खुली अर्थव्यवस्था समष्टि अर्थशास्त्र (भुगतान संतुलन)",
+      "part": "भाग B: परिचयात्मक समष्टि अर्थशास्त्र",
+      "weightage_marks": 8,
+      "typical_breakdown": "116-125",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "भुगतान संतुलन (BoP) खाता — अर्थ एवं घटक",
+        "चालू खाता एवं पूँजी खाता",
+        "BoP में स्वायत्त बनाम समायोजक मदें",
+        "BoP घाटा — अर्थ एवं कारण",
+        "विदेशी विनिमय दर — अर्थ एवं प्रकार",
+        "स्थिर विनिमय दर प्रणाली (स्वर्ण मानक, ब्रेटन वुड्स)",
+        "परिवर्तनशील (तैरती) विनिमय दर प्रणाली",
+        "प्रबंधित तैरती विनिमय दर",
+        "विदेशी विनिमय की माँग एवं पूर्ति"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Economics Class 12 — 11 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "केवल दीर्घ उत्तरीय प्रश्नों (प्रश्न 25, 26, 27) में — प्रत्येक में 'अथवा' विकल्प।",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "उपभोक्ता व्यवहार का सिद्धांत",
+      "उत्पादन एवं लागत",
+      "पूर्ण प्रतियोगिता में फर्म का सिद्धांत",
+      "राष्ट्रीय आय लेखांकन",
+      "मुद्रा एवं बैंकिंग",
+      "आय एवं रोज़गार का निर्धारण",
+      "सरकारी बजट एवं अर्थव्यवस्था",
+      "खुली अर्थव्यवस्था समष्टि अर्थशास्त्र (भुगतान संतुलन)"
+    ],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [
+      "उपभोक्ता व्यवहार का सिद्धांत (18 marks)",
+      "उत्पादन एवं लागत (18 marks)",
+      "पूर्ण प्रतियोगिता में फर्म का सिद्धांत (10 marks)",
+      "राष्ट्रीय आय लेखांकन (12 marks)",
+      "मुद्रा एवं बैंकिंग (8 marks)",
+      "आय एवं रोज़गार का निर्धारण (14 marks)",
+      "सरकारी बजट एवं अर्थव्यवस्था (8 marks)",
+      "खुली अर्थव्यवस्था समष्टि अर्थशास्त्र (भुगतान संतुलन) (8 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "समष्टि अर्थशास्त्र का परिचय (1 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [],
+    "chapters_mostly_theory": [
+      "व्यष्टि अर्थशास्त्र का परिचय",
+      "उपभोक्ता व्यवहार का सिद्धांत",
+      "उत्पादन एवं लागत",
+      "पूर्ण प्रतियोगिता में फर्म का सिद्धांत",
+      "बाज़ार साम्य",
+      "समष्टि अर्थशास्त्र का परिचय",
+      "राष्ट्रीय आय लेखांकन",
+      "मुद्रा एवं बैंकिंग",
+      "आय एवं रोज़गार का निर्धारण",
+      "सरकारी बजट एवं अर्थव्यवस्था",
+      "खुली अर्थव्यवस्था समष्टि अर्थशास्त्र (भुगतान संतुलन)"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "उपभोक्ता व्यवहार का सिद्धांत",
+      "उत्पादन एवं लागत",
+      "पूर्ण प्रतियोगिता में फर्म का सिद्धांत",
+      "राष्ट्रीय आय लेखांकन",
+      "मुद्रा एवं बैंकिंग",
+      "आय एवं रोज़गार का निर्धारण",
+      "सरकारी बजट एवं अर्थव्यवस्था",
+      "खुली अर्थव्यवस्था समष्टि अर्थशास्त्र (भुगतान संतुलन)"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "उपभोक्ता व्यवहार का सिद्धांत",
+      "उत्पादन एवं लागत",
+      "पूर्ण प्रतियोगिता में फर्म का सिद्धांत",
+      "राष्ट्रीय आय लेखांकन",
+      "मुद्रा एवं बैंकिंग",
+      "आय एवं रोज़गार का निर्धारण",
+      "सरकारी बजट एवं अर्थव्यवस्था",
+      "खुली अर्थव्यवस्था समष्टि अर्थशास्त्र (भुगतान संतुलन)"
+    ],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "व्यष्टि अर्थशास्त्र का परिचय",
+      "उपभोक्ता व्यवहार का सिद्धांत",
+      "उत्पादन एवं लागत",
+      "पूर्ण प्रतियोगिता में फर्म का सिद्धांत",
+      "बाज़ार साम्य",
+      "समष्टि अर्थशास्त्र का परिचय",
+      "राष्ट्रीय आय लेखांकन",
+      "मुद्रा एवं बैंकिंग",
+      "आय एवं रोज़गार का निर्धारण",
+      "सरकारी बजट एवं अर्थव्यवस्था",
+      "खुली अर्थव्यवस्था समष्टि अर्थशास्त्र (भुगतान संतुलन)"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "twenty_most_important_questions": {
+      "note": "UP Board 2026 परीक्षा में आने की सर्वाधिक संभावना वाले प्रश्न। अरिहंत की आवृत्ति एवं पैटर्न विश्लेषण पर आधारित चुनाव।",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "अर्थव्यवस्था की तीन केंद्रीय समस्याओं की व्याख्या कीजिए।",
+          "marks": 3,
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 2,
+          "q": "व्यष्टि अर्थशास्त्र क्या है? व्यष्टि अर्थशास्त्र के विषय-वस्तु की व्याख्या कीजिए।",
+          "marks": 3,
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 3,
+          "q": "उत्पादन संभावना वक्र को परिभाषित कीजिए। इसके गुणों की व्याख्या कीजिए।",
+          "marks": 3,
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 4,
+          "q": "जब क़ीमत ₹5 से घटकर ₹4 होती है एवं माँग 100 से बढ़कर 110 इकाइयाँ हो जाती है, तो माँग की लोच ज्ञात कीजिए।",
+          "marks": 3,
+          "chapter": "भाग A अध्याय 2"
+        },
+        {
+          "q_no": 5,
+          "q": "लागत से आप क्या समझते हैं? कुल लागत, औसत लागत एवं सीमांत लागत को रेखाचित्र सहित परिभाषित कीजिए।",
+          "marks": 6,
+          "chapter": "भाग A अध्याय 3"
+        },
+        {
+          "q_no": 6,
+          "q": "परिवर्ती अनुपात के नियम की रेखाचित्र सहित व्याख्या कीजिए।",
+          "marks": 10,
+          "chapter": "भाग A अध्याय 3",
+          "imp": true
+        },
+        {
+          "q_no": 7,
+          "q": "माँग की लोच क्या है? माँग की लोच को प्रभावित करने वाले विभिन्न कारकों का वर्णन कीजिए।",
+          "marks": 10,
+          "chapter": "भाग A अध्याय 2",
+          "imp": true
+        },
+        {
+          "q_no": 8,
+          "q": "पूर्ण प्रतियोगिता की विभिन्न विशेषताओं का वर्णन कीजिए।",
+          "marks": 6,
+          "chapter": "भाग A अध्याय 4"
+        },
+        {
+          "q_no": 9,
+          "q": "व्यष्टि अर्थशास्त्र एवं समष्टि अर्थशास्त्र में अंतर स्पष्ट कीजिए।",
+          "marks": 10,
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 10,
+          "q": "दो-क्षेत्र अर्थव्यवस्था में आय के चक्रीय प्रवाह की व्याख्या कीजिए।",
+          "marks": 6,
+          "chapter": "भाग B अध्याय 1/अध्याय 2"
+        },
+        {
+          "q_no": 11,
+          "q": "दिए गए आँकड़ों से बाज़ार मूल्य पर GDP एवं राष्ट्रीय आय ज्ञात कीजिए।",
+          "marks": 6,
+          "chapter": "भाग B अध्याय 2",
+          "imp": true
+        },
+        {
+          "q_no": 12,
+          "q": "मुद्रा के चार कार्यों की व्याख्या कीजिए।",
+          "marks": 6,
+          "chapter": "भाग B अध्याय 3"
+        },
+        {
+          "q_no": 13,
+          "q": "व्याख्या कीजिए कि RBI अर्थव्यवस्था में साख को कैसे नियंत्रित करता है।",
+          "marks": 6,
+          "chapter": "भाग B अध्याय 3"
+        },
+        {
+          "q_no": 14,
+          "q": "यदि MPC = 0.8, तो MPS एवं निवेश गुणक ज्ञात कीजिए। यदि निवेश ₹500 करोड़ बढ़ता है तो आय में क्या परिवर्तन होगा?",
+          "marks": 3,
+          "chapter": "भाग B अध्याय 4",
+          "imp": true
+        },
+        {
+          "q_no": 15,
+          "q": "रोज़गार के कीन्सवादी सिद्धांत का वर्णन कीजिए।",
+          "marks": 10,
+          "chapter": "भाग B अध्याय 4",
+          "imp": true
+        },
+        {
+          "q_no": 16,
+          "q": "अर्थव्यवस्था की आय सृजन प्रक्रिया में गुणक की कार्यप्रणाली की विवेचना कीजिए।",
+          "marks": 10,
+          "chapter": "भाग B अध्याय 4",
+          "imp": true
+        },
+        {
+          "q_no": 17,
+          "q": "सरकारी बजट क्या है? इसके उद्देश्यों का वर्णन कीजिए।",
+          "marks": 6,
+          "chapter": "भाग B अध्याय 5"
+        },
+        {
+          "q_no": 18,
+          "q": "राजस्व घाटा, राजकोषीय घाटा एवं प्राथमिक घाटा में अंतर स्पष्ट कीजिए।",
+          "marks": 6,
+          "chapter": "भाग B अध्याय 5"
+        },
+        {
+          "q_no": 19,
+          "q": "भुगतान संतुलन में पूँजी खाते के विभिन्न घटकों का वर्णन कीजिए।",
+          "marks": 6,
+          "chapter": "भाग B अध्याय 6"
+        },
+        {
+          "q_no": 20,
+          "q": "विदेशी विनिमय दर का अर्थ समझाइए। स्थिर एवं परिवर्तनशील विनिमय दर प्रणाली में अंतर स्पष्ट कीजिए।",
+          "marks": 6,
+          "chapter": "भाग B अध्याय 6"
+        }
+      ]
+    },
+    "board_paper_2025_questions": {
+      "note": "UP Board 2025 पेपर के वास्तविक प्रश्न (Set 329 JE)। इस question bank में सभी प्रश्न सम्मिलित हैं।",
+      "sets": [
+        "329 JE",
+        "329 JF",
+        "329 JG",
+        "329 JH",
+        "329 JI",
+        "329 JJ"
+      ],
+      "unsolved_paper_page_range": "138-147",
+      "set_329_JE": {
+        "mcq_q1_to_q10": [
+          "प्रश्न 1. केंद्रीयकृत नियोजित अर्थव्यवस्था में सरकार निर्णय लेती है... उत्तर: (द)",
+          "प्रश्न 2. रोज़गार की बदलती स्थिति का अध्ययन... उत्तर: (ब) गत्यात्मक अर्थशास्त्र",
+          "प्रश्न 3. नियोजित अर्थव्यवस्था में निर्णय किसके द्वारा... उत्तर: (अ) सरकार",
+          "प्रश्न 4. मिश्रित अर्थव्यवस्था में निर्णय किसके द्वारा... उत्तर: (द) सार्वजनिक एवं निजी क्षेत्र",
+          "प्रश्न 5. Principles of Economics किसने लिखी... उत्तर: (ब) मार्शल",
+          "प्रश्न 6. 'क्या होना चाहिए?' किसका विषय... उत्तर: (ब) आदर्शात्मक अर्थशास्त्र",
+          "प्रश्न 7. कथन I एवं II (निजी विद्यालय फ़ीस / अनुचित)... उत्तर: (स) I = प्रत्यक्षात्मक, II = आदर्शात्मक",
+          "प्रश्न 8. प्रत्यक्षात्मक अर्थशास्त्र का संबंध... उत्तर: (अ) तथ्यों से",
+          "प्रश्न 9. मुद्रा पूर्ति/मूल्य स्तर कथन... उत्तर: (ब) प्रत्यक्षात्मक अर्थशास्त्र",
+          "प्रश्न 10. समष्टि अर्थशास्त्र का प्रवर्तक... उत्तर: (स) जे. एम. कीन्स"
+        ],
+        "vsa_q11_to_q18": [
+          "प्रश्न 11. दो अनधिमान वक्र एक-दूसरे को नहीं काटते। व्याख्या। (3)",
+          "प्रश्न 12. स्थानापन्न एवं पूरक वस्तुओं में अंतर। (1½+1½)",
+          "प्रश्न 13. स्थिर लागत एवं परिवर्तनशील लागत की व्याख्या। (1½+1½)",
+          "प्रश्न 14. अल्पकाल में लाभ अधिकतमीकरण की तीन शर्तें। (1+1+1)",
+          "प्रश्न 15. बाज़ार मूल्य पर GDP एवं साधन लागत पर GDP की व्याख्या। (1½+1½)",
+          "प्रश्न 16. आय का पूर्ण रोज़गार स्तर क्या है? (3)",
+          "प्रश्न 17. राजस्व प्राप्तियों एवं पूँजीगत प्राप्तियों में अंतर। (1½+1½)",
+          "प्रश्न 18. विदेशी विनिमय की माँग को प्रभावित करने वाले कारक। (3)"
+        ],
+        "sa_q19_to_q24": [
+          "प्रश्न 19. पूर्ण स्थानापन्नों के बीच MRS स्थिर रहती है — रेखाचित्र सहित व्याख्या। (6)",
+          "प्रश्न 20. MC, AC एवं TC के बीच संबंध रेखाचित्र सहित। (6)",
+          "प्रश्न 21. मुद्रा के चार कार्य। (6)",
+          "प्रश्न 22. पूर्ण प्रतियोगिता की विशेषताएँ। (6)",
+          "प्रश्न 23. सरकारी बजट के विभिन्न उद्देश्य। (6)",
+          "प्रश्न 24. भुगतान संतुलन में पूँजी खाते के घटक। (6)"
+        ],
+        "la_q25_to_q27": [
+          "प्रश्न 25. माँग की लोच — इसे प्रभावित करने वाले कारक। (10) अथवा राष्ट्रीय आय एवं जनकल्याण निबंध।",
+          "प्रश्न 26. TR, AR, MR संबंध रेखाचित्र सहित। (10) अथवा परिवर्ती अनुपात का नियम रेखाचित्र सहित।",
+          "प्रश्न 27. रोज़गार का कीन्सवादी सिद्धांत। (10) अथवा आय सृजन में गुणक की कार्यप्रणाली।"
+        ]
+      }
+    },
+    "fast_track_revision": {
+      "key_definitions": {
+        "अर्थशास्त्र": "दुर्लभ संसाधनों एवं उनके वैकल्पिक उपयोगों से उत्पन्न आर्थिक मुद्दों के अध्ययन से संबंधित विषय।",
+        "व्यष्टि_अर्थशास्त्र": "अर्थशास्त्र की वह शाखा जो व्यक्तिगत स्तर पर आर्थिक मुद्दों से संबंधित है — व्यक्ति, फर्म, उद्योग।",
+        "समष्टि_अर्थशास्त्र": "अर्थशास्त्र की वह शाखा जो संपूर्ण अर्थव्यवस्था के व्यवहार से संबंधित है — राष्ट्रीय आय, रोज़गार, मूल्य स्तर।",
+        "प्रत्यक्षात्मक_अर्थशास्त्र": "कारण-प्रभाव संबंध तक सीमित — बताता है 'क्या है'। तथ्यों पर आधारित।",
+        "आदर्शात्मक_अर्थशास्त्र": "'क्या होना चाहिए' से संबंधित। मूल्य-निर्णय देता है। विचारों पर आधारित।",
+        "PPF": "उत्पादन संभावना वक्र — दिए गए संसाधनों से दो वस्तुओं के वैकल्पिक उत्पादन संयोगों को दर्शाने वाला वक्र।",
+        "अवसर_लागत": "चुनाव करते समय त्यागे गए अगले सर्वोत्तम विकल्प की लागत।",
+        "MOC": "सीमांत अवसर लागत — MOC = वस्तु Y में हानि / वस्तु X में लाभ।",
+        "उपयोगिता": "वस्तुओं एवं सेवाओं के उपभोग से प्राप्त संतुष्टि।",
+        "सीमांत_उपयोगिता": "एक अतिरिक्त इकाई के उपभोग से प्राप्त अतिरिक्त उपयोगिता। MU = TU_n – TU_(n-1)।",
+        "उपभोक्ता_साम्य": "वह स्थिति जहाँ उपभोक्ता दिए गए संसाधनों से संतुष्टि अधिकतम कर लेता है।",
+        "अनधिमान_वक्र": "दो वस्तुओं के संयोगों का ग्राफ़िक प्रदर्शन जो समान संतुष्टि स्तर देते हैं।",
+        "MRS": "सीमांत प्रतिस्थापन दर — वह दर जिस पर उपभोक्ता एक IC पर एक वस्तु को दूसरी से बदलता है। MRS = ΔY/ΔX।",
+        "माँग_की_क़ीमत_लोच": "क़ीमत में परिवर्तन के प्रति माँगी गई मात्रा की प्रतिक्रिया की मात्रा। E_d = (% ΔQd) / (% ΔP)।",
+        "कुल_उत्पाद_TP": "परिवर्ती साधन की सभी इकाइयों द्वारा उत्पादित कुल उत्पाद। TP = AP × L।",
+        "सीमांत_उत्पाद_MP": "परिवर्ती साधन की एक अतिरिक्त इकाई लगाने से TP में वृद्धि। MP = TP_n – TP_(n-1)।",
+        "GDP_MP": "किसी वर्ष में घरेलू क्षेत्र में उत्पादित सभी अंतिम वस्तुओं एवं सेवाओं का बाज़ार मूल्य।",
+        "राष्ट्रीय_आय": "साधन लागत पर NNP — किसी वर्ष में सामान्य निवासियों द्वारा अर्जित साधन आयों का योग।",
+        "MPC": "सीमांत उपभोग प्रवृत्ति = ΔC/ΔY। सदैव 0 एवं 1 के बीच।",
+        "MPS": "सीमांत बचत प्रवृत्ति = ΔS/ΔY। MPC + MPS = 1।",
+        "निवेश_गुणक": "k = 1/MPS = 1/(1–MPC)। निवेश में वृद्धि से आय में गुणक वृद्धि।",
+        "सरकारी_बजट": "वित्तीय वर्ष (1 अप्रैल से 31 मार्च) के लिए सरकार की अपेक्षित प्राप्तियों एवं व्यय का वार्षिक विवरण।",
+        "राजकोषीय_घाटा": "कुल व्यय एवं उधार को छोड़कर कुल प्राप्तियों का अंतर। = उधार।",
+        "राजस्व_घाटा": "राजस्व प्राप्तियों पर राजस्व व्यय का आधिक्य।",
+        "प्राथमिक_घाटा": "राजकोषीय घाटा – ब्याज भुगतान।",
+        "भुगतान_संतुलन_BoP": "किसी देश के निवासियों एवं शेष विश्व के बीच सभी आर्थिक लेनदेनों का व्यवस्थित अभिलेख।",
+        "विदेशी_विनिमय_दर": "वह दर जिस पर घरेलू मुद्रा की एक इकाई को विदेशी मुद्रा की इकाइयों से बदला जाता है।"
+      },
+      "important_formulas": {
+        "TU_from_MU": "TU = MU₁ + MU₂ + ... + MUn = ΣMU",
+        "MU_formula": "MU_nवाँ = TU_n – TU_(n-1) = ΔTU/ΔQ",
+        "Consumer_equilibrium_one_good": "MU_x / P_x = MU_M (मुद्रा की सीमांत उपयोगिता)",
+        "Consumer_equilibrium_two_goods": "MU_x / P_x = MU_y / P_y = MU_M",
+        "Budget_line": "M = P_x.Q_x + P_y.Q_y",
+        "Price_elasticity": "E_d = (–) (ΔQ/ΔP) × (P/Q)",
+        "Percentage_change_method": "E_d = (मात्रा में % परिवर्तन) / (क़ीमत में % परिवर्तन)",
+        "MP": "MP = TP_n – TP_(n-1) = ΔTP/ΔL",
+        "AP": "AP = TP / L",
+        "AC": "AC = TC / Q",
+        "MC": "MC = TC_n – TC_(n-1) = ΔTC/ΔQ",
+        "TC": "TC = TFC + TVC",
+        "TR": "TR = क़ीमत × मात्रा",
+        "MR": "MR = TR_n – TR_(n-1) = ΔTR/ΔQ",
+        "GDP_FC": "GDP_FC = GDP_MP – NIT (शुद्ध अप्रत्यक्ष कर)",
+        "NDP_MP": "NDP_MP = GDP_MP – मूल्यह्रास",
+        "GNP_MP": "GNP_MP = GDP_MP + NFIA",
+        "NNP_FC_National_Income": "NNP_FC = GNP_MP – मूल्यह्रास – NIT",
+        "Income_method": "NNP_FC = मज़दूरी + किराया + ब्याज + लाभ + मिश्रित आय + NFIA",
+        "Value_added_method": "GVA_MP = विक्रय + स्टॉक में परिवर्तन – मध्यवर्ती लागत",
+        "Expenditure_method": "GDP_MP = C + I + G + (X – M)",
+        "Consumption_function": "C = f(Y), जहाँ C = उपभोग, Y = आय",
+        "AS": "AS = Y = C + S",
+        "AD": "AD = C + I (दो-क्षेत्र), AD = C + I + G + (X-M) (खुली अर्थव्यवस्था)",
+        "APC": "APC = C/Y",
+        "MPC": "MPC = ΔC/ΔY",
+        "APS": "APS = S/Y",
+        "MPS": "MPS = ΔS/ΔY",
+        "MPC_plus_MPS": "MPC + MPS = 1",
+        "Multiplier": "k = 1/MPS = 1/(1–MPC) = ΔY/ΔI"
+      },
+      "key_facts_for_mcq": {
+        "अर्थशास्त्र_के_जनक": "एडम स्मिथ",
+        "समष्टि_अर्थशास्त्र_के_जनक": "जे. एम. कीन्स",
+        "समष्टि_अर्थशास्त्र_के_प्रवर्तक": "जे. एम. कीन्स",
+        "Wealth_of_Nations_के_लेखक": "एडम स्मिथ",
+        "Principles_of_Economics_के_लेखक": "मार्शल",
+        "कल्याण_परिभाषा_अर्थशास्त्र": "मार्शल",
+        "दुर्लभता_परिभाषा_अर्थशास्त्र": "रॉबिन्स",
+        "मुद्रा_धुरी_उद्धरण": "मार्शल",
+        "General_Theory_के_लेखक": "जे. एम. कीन्स (1936)",
+        "माँग_की_लोच_किसने": "अल्फ़्रेड मार्शल",
+        "अनधिमान_वक्र_किसने": "जे. आर. हिक्स एवं आर. जी. डी. एलन",
+        "PPF_आकार": "मूल बिंदु के प्रति अवतल (MOC बढ़ता है)",
+        "IC_आकार": "मूल बिंदु के प्रति उन्नतोदर (MRS घटती है)",
+        "IC_पूर्ण_स्थानापन्न": "सीधी नीचे ढलती रेखा (MRS स्थिर)",
+        "IC_पूर्ण_पूरक": "L-आकार (समकोण) वक्र",
+        "पूर्णतया_लोचदार_माँग_वक्र": "क्षैतिज रेखा (X-अक्ष के समांतर), E_d = अनंत",
+        "पूर्णतया_बेलोचदार_माँग_वक्र": "ऊर्ध्वाधर रेखा (Y-अक्ष के समांतर), E_d = 0",
+        "AR_MR_पूर्ण_प्रतियोगिता": "AR = MR = क़ीमत (स्थिर, क्षैतिज)",
+        "AR_MR_एकाधिकार": "AR > MR, दोनों नीचे की ओर ढालू",
+        "MPC_परास": "0 < MPC < 1",
+        "MPS_परास": "0 < MPS < 1",
+        "गुणक_परास": "k > 1 (सदैव 1 से अधिक)",
+        "बेरोज़गारी_के_प्रकार": "ऐच्छिक एवं अनैच्छिक",
+        "CRR_पूर्ण_रूप": "नकद आरक्षित अनुपात (Cash Reserve Ratio)",
+        "SLR_पूर्ण_रूप": "वैधानिक तरलता अनुपात (Statutory Liquidity Ratio)",
+        "रेपो_दर": "वह दर जिस पर RBI वाणिज्यिक बैंकों को उधार देता है",
+        "रिवर्स_रेपो_दर": "वह दर जिस पर RBI वाणिज्यिक बैंकों से उधार लेता है",
+        "राजकोषीय_घाटा_अर्थ": "कुल व्यय – कुल प्राप्तियाँ (उधार छोड़कर) = उधार",
+        "राजस्व_घाटा_अर्थ": "राजस्व व्यय – राजस्व प्राप्तियाँ",
+        "प्राथमिक_घाटा_अर्थ": "राजकोषीय घाटा – ब्याज भुगतान",
+        "चालू_खाता_BoP": "वस्तुओं एवं सेवाओं का व्यापार, एकतरफ़ा हस्तांतरण",
+        "पूँजी_खाता_BoP": "विदेशी निवेश, ऋण, बैंकिंग पूँजी",
+        "राष्ट्रीय_आय_समानता_बंद": "Y = C + I + G",
+        "राष्ट्रीय_आय_समानता_खुली": "Y = C + I + G + (X–M)",
+        "स्वतंत्रता_पर_1947": "1 रुपया = 2 आठ आने = 64 पैसे (दशमलव-पूर्व)"
+      }
+    },
+    "numerical_question_bank": {
+      "note": "संख्यात्मक प्रश्न मुख्यतः VSA (3 अंक) एवं SA (6 अंक) में आते हैं। मुख्य क्षेत्र: राष्ट्रीय आय गणना, माँग की लोच, MPC/MPS, निवेश गुणक, लागत गणना।",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "जब किसी वस्तु की क़ीमत ₹5 प्रति इकाई से घटकर ₹4 प्रति इकाई हो जाती है, तो उसकी माँग 100 इकाइयों से बढ़कर 110 इकाइयाँ हो जाती है। माँग की लोच की गणना कीजिए।",
+          "solution": "मूल क़ीमत (P) = ₹5, नई क़ीमत (P₁) = ₹4, ΔP = –1\nमूल माँग (Q) = 100, नई माँग (Q₁) = 110, ΔQ = 10\nE_d = (–) (ΔQ/ΔP) × (P/Q) = (–) (10/–1) × (5/100) = (–)(–10) × 0.05 = 0.5\nE_d = 0.5 (इकाई से कम लोचदार माँग)",
+          "marks": 3,
+          "chapter": "भाग A अध्याय 2"
+        },
+        {
+          "q_no": 2,
+          "q": "निम्नलिखित आँकड़े एक अर्थव्यवस्था से संबंधित हैं। राष्ट्रीय आय की गणना कीजिए। मदें: मज़दूरी ₹10,000 करोड़, किराया ₹5,000, ब्याज ₹500, लाभांश ₹3,000, मिश्रित आय ₹500, विदेशों से प्राप्त शुद्ध साधन आय ₹1,000 करोड़।",
+          "solution": "NNP_FC (राष्ट्रीय आय) = मज़दूरी + किराया + ब्याज + लाभांश + मिश्रित आय + NFIA\n= 10,000 + 5,000 + 500 + 3,000 + 500 + 1,000\n= ₹20,000 करोड़",
+          "marks": 6,
+          "year": "2024",
+          "chapter": "भाग B अध्याय 2"
+        },
+        {
+          "q_no": 3,
+          "q": "यदि राष्ट्रीय आय (Y) ₹100 करोड़ बढ़ती है एवं राष्ट्रीय उपभोग (C) ₹80 करोड़ बढ़ता है, तो ज्ञात कीजिए: (i) MPC (ii) MPS (iii) निवेश गुणक।",
+          "solution": "MPC = ΔC/ΔY = 80/100 = 0.8\nMPS = 1 – MPC = 1 – 0.8 = 0.2\nनिवेश गुणक (k) = 1/MPS = 1/0.2 = 5",
+          "marks": 3,
+          "year": "2025",
+          "chapter": "भाग B अध्याय 4",
+          "imp": true
+        },
+        {
+          "q_no": 4,
+          "q": "निम्न आँकड़ों से, प्रत्येक उत्पाद स्तर पर TC, TVC, TFC, AFC, AVC, SAC एवं SMC ज्ञात कीजिए: Q: 3,4,5,6 — TC: 55, 70, 90, 120।",
+          "solution": "TFC स्थिर है। Q=3 पर, TC=55; Q=4 पर, TC=70; Q=5 पर, TC=90; Q=6 पर, TC=120।\nमान लें TFC=10: TVC = TC – TFC = 45, 60, 80, 110\nAFC = TFC/Q = 3.33, 2.50, 2.0, 1.67\nAVC = TVC/Q = 15, 15, 16, 18.33\nSAC (AC) = TC/Q = 18.33, 17.50, 18, 20\nSMC = TC_n – TC_(n-1) = 15, 20, 30",
+          "marks": 6,
+          "year": "NCERT",
+          "chapter": "भाग A अध्याय 3"
+        }
+      ]
+    },
+    "mcq_question_bank": {
+      "marks_each": 1,
+      "total_questions_in_bank": 33,
+      "note": "UP Board के पिछले पेपर 2020-2025 एवं NCERT/CBQ प्रकार से। परीक्षा में: 10 MCQ अनिवार्य। Competency Based Questions (CBQ) एवं कथन I/II प्रकार शामिल।",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "केंद्रीयकृत नियोजित अर्थव्यवस्था में सरकार निर्णय लेती है",
+          "options": [
+            "(अ) केवल उत्पादन एवं उत्पादन तकनीक पर",
+            "(ब) केवल उपभोग वस्तुओं एवं उपभोग मात्रा पर",
+            "(स) केवल उत्पादन एवं आय के वितरण पर",
+            "(द) उत्पादन, उपभोग, वितरण एवं विदेशी व्यापार सभी पर"
+          ],
+          "answer": "(द) उत्पादन, उपभोग, वितरण एवं विदेशी व्यापार सभी पर",
+          "year": "2025",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 2,
+          "q": "अर्थव्यवस्था में रोज़गार की बदलती स्थिति का अध्ययन किसका विषय है?",
+          "options": [
+            "(अ) स्थैतिक अर्थशास्त्र",
+            "(ब) गत्यात्मक अर्थशास्त्र",
+            "(स) व्यष्टि अर्थशास्त्र",
+            "(द) ये सभी"
+          ],
+          "answer": "(ब) गत्यात्मक अर्थशास्त्र",
+          "year": "2025",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 3,
+          "q": "नियोजित अर्थव्यवस्था में उत्पादन एवं वितरण से संबंधित निर्णय कौन लेता है?",
+          "options": [
+            "(अ) सरकार",
+            "(ब) बाज़ार",
+            "(स) कॉर्पोरेट क्षेत्र",
+            "(द) मूल्य तंत्र"
+          ],
+          "answer": "(अ) सरकार",
+          "year": "2024",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 4,
+          "q": "मिश्रित अर्थव्यवस्था में उत्पादन एवं उपभोग से संबंधित निर्णय किसके द्वारा लिए जाते हैं?",
+          "options": [
+            "(अ) केवल केंद्र सरकार",
+            "(ब) केवल राज्य सरकारें",
+            "(स) केंद्र एवं राज्य सरकारें दोनों",
+            "(द) सार्वजनिक क्षेत्र एवं निजी क्षेत्र"
+          ],
+          "answer": "(द) सार्वजनिक क्षेत्र एवं निजी क्षेत्र",
+          "year": "2025",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 5,
+          "q": "प्रसिद्ध पुस्तक 'Principles of Economics' किसने लिखी?",
+          "options": [
+            "(अ) एडम स्मिथ",
+            "(ब) मार्शल",
+            "(स) रॉबिन्स",
+            "(द) मेहता"
+          ],
+          "answer": "(ब) मार्शल",
+          "year": "2024",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 6,
+          "q": "'क्या होना चाहिए?' (What ought to be?) किसका विषय है?",
+          "options": [
+            "(अ) प्रत्यक्षात्मक अर्थशास्त्र",
+            "(ब) आदर्शात्मक अर्थशास्त्र",
+            "(स) (अ) एवं (ब) दोनों",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(ब) आदर्शात्मक अर्थशास्त्र",
+          "year": "2025",
+          "type": "direct",
+          "chapter": "भाग A अध्याय 1",
+          "imp": true
+        },
+        {
+          "q_no": 7,
+          "q": "निम्नलिखित कथनों के संदर्भ में सही विकल्प चुनिए। कथन I: देश में क़ीमतें बढ़ने से निजी विद्यालयों की फ़ीस बढ़ जाती है। कथन II: विद्यालय फ़ीस बढ़ना अनुचित है।",
+          "options": [
+            "(अ) कथन I एवं II दोनों प्रत्यक्षात्मक अर्थशास्त्र के कथन हैं",
+            "(ब) कथन I एवं II दोनों आदर्शात्मक अर्थशास्त्र के कथन हैं",
+            "(स) कथन I प्रत्यक्षात्मक एवं कथन II आदर्शात्मक अर्थशास्त्र का है",
+            "(द) कथन I आदर्शात्मक एवं कथन II प्रत्यक्षात्मक अर्थशास्त्र का है"
+          ],
+          "answer": "(स) कथन I प्रत्यक्षात्मक एवं कथन II आदर्शात्मक अर्थशास्त्र का है",
+          "year": "2024",
+          "type": "CBQ",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 8,
+          "q": "प्रत्यक्षात्मक अर्थशास्त्र का संबंध है",
+          "options": [
+            "(अ) तथ्यों से",
+            "(ब) सुझावों से",
+            "(स) (अ) एवं (ब) दोनों",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(अ) तथ्यों से",
+          "year": "2023",
+          "chapter": "भाग A अध्याय 1",
+          "imp": true
+        },
+        {
+          "q_no": 9,
+          "q": "'अन्य बातें समान रहने पर, मुद्रा की पूर्ति बढ़ने से मूल्य स्तर बढ़ेगा' — यह कथन किस अर्थशास्त्र से संबंधित है?",
+          "options": [
+            "(अ) आदर्शात्मक अर्थशास्त्र",
+            "(ब) प्रत्यक्षात्मक अर्थशास्त्र",
+            "(स) व्यष्टि अर्थशास्त्र",
+            "(द) ये सभी"
+          ],
+          "answer": "(ब) प्रत्यक्षात्मक अर्थशास्त्र",
+          "year": "2025",
+          "type": "CBQ",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 10,
+          "q": "समष्टि अर्थशास्त्र का प्रवर्तक किसे माना जाता है?",
+          "options": [
+            "(अ) जे. आर. हिक्स",
+            "(ब) ए. एच. हैन्सन",
+            "(स) जे. एम. कीन्स",
+            "(द) ए. सी. पीगू"
+          ],
+          "answer": "(स) जे. एम. कीन्स",
+          "year": "2022",
+          "chapter": "भाग B अध्याय 1",
+          "imp": true
+        },
+        {
+          "q_no": 11,
+          "q": "प्रसिद्ध पुस्तक 'Wealth of Nations' किसने लिखी?",
+          "options": [
+            "(अ) एडम स्मिथ",
+            "(ब) मार्शल",
+            "(स) रॉबिन्स",
+            "(द) मेहता"
+          ],
+          "answer": "(अ) एडम स्मिथ",
+          "year": "2025",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 12,
+          "q": "निम्नलिखित में से किसका अध्ययन व्यष्टि अर्थशास्त्र के अंतर्गत होता है?",
+          "options": [
+            "(अ) वस्त्र उद्योग",
+            "(ब) बेरोज़गारी",
+            "(स) प्राथमिक क्षेत्र",
+            "(द) ये सभी"
+          ],
+          "answer": "(अ) वस्त्र उद्योग",
+          "year": "2022",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 13,
+          "q": "निम्नलिखित में से कौन व्यष्टि अर्थशास्त्र का उदाहरण नहीं है?",
+          "options": [
+            "(अ) किसी व्यक्ति की बचत",
+            "(ब) किसी परिवार का उपभोग",
+            "(स) किसी फर्म की लागत",
+            "(द) अर्थव्यवस्था में समग्र माँग"
+          ],
+          "answer": "(द) अर्थव्यवस्था में समग्र माँग",
+          "year": "2022",
+          "type": "CBQ",
+          "chapter": "भाग A अध्याय 1",
+          "imp": true
+        },
+        {
+          "q_no": 14,
+          "q": "'मुद्रा वह धुरी है जिसके चारों ओर अर्थशास्त्र घूमता है।' यह कथन किसका है?",
+          "options": [
+            "(अ) एडम स्मिथ",
+            "(ब) ए. सी. पीगू",
+            "(स) मार्शल",
+            "(द) क्राउथर"
+          ],
+          "answer": "(स) मार्शल",
+          "year": "2025",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 15,
+          "q": "निम्नलिखित में से किसका अध्ययन समष्टि अर्थशास्त्र के अंतर्गत होता है?",
+          "options": [
+            "(अ) व्यक्तिगत आय",
+            "(ब) व्यक्तिगत बचत",
+            "(स) राष्ट्रीय आय",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(स) राष्ट्रीय आय",
+          "year": "2023",
+          "chapter": "भाग B अध्याय 1"
+        },
+        {
+          "q_no": 16,
+          "q": "दुर्लभ संसाधनों के ......... वैकल्पिक उपयोग होते हैं।",
+          "options": [
+            "(अ) कई",
+            "(ब) सीमित",
+            "(स) नियत",
+            "(द) शून्य"
+          ],
+          "answer": "(अ) कई",
+          "year": "2020",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 17,
+          "q": "अर्थशास्त्र का पिता किसे माना जाता है?",
+          "options": [
+            "(अ) एडम स्मिथ",
+            "(ब) मार्शल",
+            "(स) रॉबिन्स",
+            "(द) मेहता"
+          ],
+          "answer": "(अ) एडम स्मिथ",
+          "year": "2025",
+          "chapter": "भाग A अध्याय 1",
+          "imp": true
+        },
+        {
+          "q_no": 18,
+          "q": "उत्पादन संभावना वक्र का कौन-सा गुण है?",
+          "options": [
+            "(अ) बाएँ से दाएँ नीचे की ओर ढालू",
+            "(ब) मूल बिंदु की ओर अवतल",
+            "(स) (अ) एवं (ब) दोनों",
+            "(द) न (अ) न (ब)"
+          ],
+          "answer": "(स) (अ) एवं (ब) दोनों",
+          "year": "2025",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 19,
+          "q": "एक वस्तु की स्थिति में उपभोक्ता के साम्य की शर्त कौन-सी है?",
+          "options": [
+            "(अ) MU_x/MU_M = P_x",
+            "(ब) MU_y/MU_x = MU_N",
+            "(स) P_x/P_y = MU_N",
+            "(द) इनमें से कोई नहीं"
+          ],
+          "answer": "(अ) MU_x/MU_M = P_x",
+          "year": "CBQ",
+          "chapter": "भाग A अध्याय 2"
+        },
+        {
+          "q_no": 20,
+          "q": "किसी वस्तु की एक अतिरिक्त इकाई के उपभोग से प्राप्त उपयोगिता क्या कहलाती है?",
+          "options": [
+            "(अ) कुल उपयोगिता",
+            "(ब) औसत उपयोगिता",
+            "(स) सामान्य उपयोगिता",
+            "(द) सीमांत उपयोगिता"
+          ],
+          "answer": "(द) सीमांत उपयोगिता",
+          "year": "2016",
+          "chapter": "भाग A अध्याय 2"
+        },
+        {
+          "q_no": 21,
+          "q": "अनधिमान वक्र आमतौर पर",
+          "options": [
+            "(अ) मूल बिंदु के प्रति अवतल",
+            "(ब) मूल बिंदु के प्रति उन्नतोदर",
+            "(स) सीधी रेखा",
+            "(द) X-अक्ष के समांतर"
+          ],
+          "answer": "(ब) मूल बिंदु के प्रति उन्नतोदर",
+          "chapter": "भाग A अध्याय 2"
+        },
+        {
+          "q_no": 22,
+          "q": "माँग की क़ीमत लोच का अर्थ है",
+          "options": [
+            "(अ) क़ीमत में परिवर्तन के कारण माँग में परिवर्तन",
+            "(ब) माँग में परिवर्तन",
+            "(स) वास्तविक आय में परिवर्तन",
+            "(द) क़ीमत में परिवर्तन"
+          ],
+          "answer": "(अ) क़ीमत में परिवर्तन के कारण माँग में परिवर्तन",
+          "year": "2024",
+          "chapter": "भाग A अध्याय 2",
+          "imp": true
+        },
+        {
+          "q_no": 23,
+          "q": "यदि माँग वक्र Y-अक्ष के समांतर हो तो माँग की लोच होगी",
+          "options": [
+            "(अ) एक",
+            "(ब) एक से कम",
+            "(स) एक से अधिक",
+            "(द) शून्य"
+          ],
+          "answer": "(द) शून्य",
+          "year": "2025",
+          "chapter": "भाग A अध्याय 2",
+          "imp": true
+        },
+        {
+          "q_no": 24,
+          "q": "माँग की लोच की अवधारणा किसने प्रतिपादित की?",
+          "options": [
+            "(अ) कीन्स",
+            "(ब) पीगू",
+            "(स) मार्शल",
+            "(द) जे. एस. मिल"
+          ],
+          "answer": "(स) मार्शल",
+          "year": "2022",
+          "chapter": "भाग A अध्याय 2"
+        },
+        {
+          "q_no": 25,
+          "q": "विलासिता की वस्तुओं की माँग की लोच कैसी होगी?",
+          "options": [
+            "(अ) एक से अधिक",
+            "(ब) एक से कम",
+            "(स) शून्य",
+            "(द) अनंत"
+          ],
+          "answer": "(अ) एक से अधिक",
+          "year": "2022",
+          "chapter": "भाग A अध्याय 2",
+          "imp": true
+        },
+        {
+          "q_no": 26,
+          "q": "पूर्ण प्रतियोगिता बाज़ार की परिस्थितियाँ पाई जाती हैं",
+          "options": [
+            "(अ) समाजवादी आर्थिक प्रणाली में",
+            "(ब) पूँजीवादी आर्थिक प्रणाली में",
+            "(स) मिश्रित अर्थव्यवस्था में",
+            "(द) वास्तव में कहीं नहीं"
+          ],
+          "answer": "(द) वास्तव में कहीं नहीं",
+          "year": "2025",
+          "chapter": "भाग A अध्याय 4"
+        },
+        {
+          "q_no": 27,
+          "q": "निम्नलिखित में से कौन सत्य है? कुल परिवर्तनशील लागत बराबर है",
+          "options": [
+            "(अ) औसत परिवर्तनशील लागत × मात्रा",
+            "(ब) औसत परिवर्तनशील लागत / मात्रा",
+            "(स) सीमांत परिवर्तनशील लागत × मात्रा",
+            "(द) सीमांत परिवर्तनशील लागत / मात्रा"
+          ],
+          "answer": "(अ) औसत परिवर्तनशील लागत × मात्रा",
+          "year": "2025",
+          "chapter": "भाग A अध्याय 3"
+        },
+        {
+          "q_no": 28,
+          "q": "निम्नलिखित में से कौन सत्य है? शुद्ध निवेश बराबर है",
+          "options": [
+            "(अ) सकल निवेश – लागत",
+            "(ब) सकल निवेश – मूल्यह्रास",
+            "(स) सकल निवेश – सीमांत निवेश",
+            "(द) सकल निवेश – शुद्ध लाभ"
+          ],
+          "answer": "(ब) सकल निवेश – मूल्यह्रास",
+          "year": "2025",
+          "chapter": "भाग B अध्याय 2"
+        },
+        {
+          "q_no": 29,
+          "q": "बंद अर्थव्यवस्था के लिए 'राष्ट्रीय आय समानता' को कौन-सा व्यक्त करता है?",
+          "options": [
+            "(अ) Y = C + I + G",
+            "(ब) Y = C + I + G + X",
+            "(स) Y = C + I + G + (X – M)",
+            "(द) Y = C + I + G + NX"
+          ],
+          "answer": "(अ) Y = C + I + G",
+          "year": "2025",
+          "chapter": "भाग B अध्याय 2"
+        },
+        {
+          "q_no": 30,
+          "q": "यदि किसी देश की राष्ट्रीय आय (Y) में ₹100 करोड़ की वृद्धि होती है एवं राष्ट्रीय उपभोग (C) में ₹80 करोड़ की वृद्धि होती है, तो सीमांत बचत प्रवृत्ति होगी",
+          "options": [
+            "(अ) 0.2",
+            "(ब) 0.8",
+            "(स) 2.0",
+            "(द) 8.0"
+          ],
+          "answer": "(अ) 0.2",
+          "year": "2025",
+          "chapter": "भाग B अध्याय 4"
+        },
+        {
+          "q_no": 31,
+          "q": "स्वतंत्रता (1947) के समय, एक भारतीय रुपया बराबर था",
+          "options": [
+            "(अ) 4 चार आने",
+            "(ब) 2 आठ आने",
+            "(स) 64 पैसे",
+            "(द) 100 पैसे"
+          ],
+          "answer": "(ब) 2 आठ आने",
+          "year": "2025",
+          "chapter": "भाग B अध्याय 3"
+        },
+        {
+          "q_no": 32,
+          "q": "निम्नलिखित में से कौन भुगतान संतुलन के पूँजी खाते का घटक नहीं है?",
+          "options": [
+            "(अ) विदेशी ऋण",
+            "(ब) विदेशी निवेश",
+            "(स) विदेशी प्रेषण",
+            "(द) विदेशी सहायता"
+          ],
+          "answer": "(स) विदेशी प्रेषण",
+          "year": "2025",
+          "chapter": "भाग B अध्याय 6"
+        },
+        {
+          "q_no": 33,
+          "q": "पूर्ण प्रतियोगिता बाज़ार में निम्नलिखित में से क्या सत्य है?",
+          "options": [
+            "(अ) औसत आगम (AR) = सीमांत आगम (MR)",
+            "(ब) औसत आगम (AR) > सीमांत आगम (MR)",
+            "(स) औसत आगम (AR) < सीमांत आगम (MR)",
+            "(द) औसत आगम (AR) = कुल आगम (TR)"
+          ],
+          "answer": "(अ) औसत आगम (AR) = सीमांत आगम (MR)",
+          "year": "2025",
+          "chapter": "भाग A अध्याय 4"
+        }
+      ]
+    },
+    "vsa_question_bank": {
+      "marks_each": 3,
+      "total_questions_in_bank": 15,
+      "note": "अति लघु उत्तरीय प्रकार। लगभग 30-50 शब्द प्रति उत्तर। कुछ प्रश्न 1½+1½ अंकों में विभाजित (दो-भाग उत्तर)।",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "व्यष्टि अर्थशास्त्र क्या है? व्यष्टि अर्थशास्त्र के विषय-वस्तु की व्याख्या कीजिए।",
+          "answer_points": [
+            "व्यष्टि अर्थशास्त्र: यह अर्थशास्त्र की वह शाखा है जो व्यक्तिगत स्तर पर आर्थिक समस्याओं से संबंधित है — एक व्यक्ति, एक फर्म का उत्पादन, एक उद्योग आदि।",
+            "विषय-वस्तु: बाज़ार में उत्पादकों एवं उपभोक्ताओं की अंतःक्रिया व्यष्टि अर्थशास्त्र की विषय-वस्तु है। यह व्यक्तिगत इकाइयों की माँग एवं पूर्ति पर विचार करता है।",
+            "प्रमुख सिद्धांत: उपभोक्ता व्यवहार का सिद्धांत, उत्पादक व्यवहार का सिद्धांत, क़ीमत सिद्धांत।"
+          ],
+          "marks": 3,
+          "year": "2025, 2024, 2023, 2020",
+          "chapter": "भाग A अध्याय 1",
+          "imp": true
+        },
+        {
+          "q_no": 2,
+          "q": "अर्थव्यवस्था की केंद्रीय समस्याएँ क्या हैं?",
+          "answer_points": [
+            "अर्थव्यवस्था की केंद्रीय समस्याएँ अधिकतम आवश्यकताओं की संतुष्टि हेतु संसाधनों के पूर्ण एवं कुशल उपयोग की समस्याएँ हैं।",
+            "तीन केंद्रीय समस्याएँ: (i) क्या उत्पादन किया जाए? (ii) कैसे उत्पादन किया जाए? (iii) किसके लिए उत्पादन किया जाए?",
+            "ये सभी अर्थव्यवस्थाओं — बाज़ार, समाजवादी एवं मिश्रित — में समान रूप से पाई जाती हैं।"
+          ],
+          "marks": 3,
+          "year": "2023, 2022",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 3,
+          "q": "प्रत्यक्षात्मक आर्थिक विश्लेषण से आप क्या समझते हैं? / प्रत्यक्षात्मक अर्थशास्त्र क्या है?",
+          "answer_points": [
+            "प्रत्यक्षात्मक आर्थिक विश्लेषण कारण-प्रभाव संबंध तक सीमित है। दूसरे शब्दों में, यह बताता है कि 'क्या है'।",
+            "यह विभिन्न आर्थिक परिघटनाओं से संबंधित तथ्य प्रस्तुत करता है।",
+            "उदाहरण: 'बेरोज़गारी के कारण क्या हैं?' जैसे प्रश्नों का विश्लेषण — बिना मूल्य-निर्णय के तथ्य प्रस्तुत करना।"
+          ],
+          "marks": 3,
+          "year": "2025, NCERT",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 4,
+          "q": "आदर्शात्मक अर्थशास्त्र क्या है? / आदर्शात्मक आर्थिक विश्लेषण से आप क्या समझते हैं?",
+          "answer_points": [
+            "आदर्शात्मक आर्थिक विश्लेषण 'क्या होना चाहिए' से संबंधित है। यह वास्तविक आर्थिक घटनाओं का नैतिक एवं आदर्शात्मक दृष्टिकोण से परीक्षण करता है।",
+            "यह निर्णय करता है कि कोई आर्थिक घटना वांछनीय है या अवांछनीय। यह मूल्य-निर्णय देता है।",
+            "उदाहरण: 'आम जनता के लिए खाद्यान्न की क़ीमतें क्या होनी चाहिए?' जैसे प्रश्नों का विश्लेषण।"
+          ],
+          "marks": 3,
+          "year": "2024, NCERT",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 5,
+          "q": "उत्पादन संभावना वक्र को परिभाषित कीजिए।",
+          "answer_points": [
+            "उत्पादन संभावना वक्र वह वक्र है जो दिए गए संसाधनों एवं उत्पादन तकनीकों से दो वस्तुओं के उत्पादन की वैकल्पिक संभावनाओं को दर्शाता है।",
+            "इसे उत्पादन संभावना रेखा, रूपांतरण वक्र या उत्पादन सीमा भी कहते हैं।",
+            "गुण: (i) बाएँ से दाएँ नीचे की ओर ढालू, (ii) मूल बिंदु के प्रति अवतल — क्योंकि MOC बढ़ता है।"
+          ],
+          "marks": 3,
+          "year": "2023, NCERT",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 6,
+          "q": "दो अनधिमान वक्र एक-दूसरे को नहीं काटते। व्याख्या कीजिए।",
+          "answer_points": [
+            "दो अनधिमान वक्र एक-दूसरे को कभी नहीं काटते क्योंकि प्रत्येक IC संतुष्टि का एक भिन्न स्तर प्रदर्शित करता है — संतुष्टि के संदर्भ में IC2 > IC1 होता है।",
+            "यदि वे बिंदु A पर प्रतिच्छेदन करें तो उपभोक्ता बिंदु A पर IC1 एवं IC2 के दो समूहों के बीच तटस्थ होगा। चूँकि IC2 अधिक संतुष्टि का प्रतिनिधित्व करता है, यह विरोधाभास होगा।",
+            "अतः ICs का प्रतिच्छेदन वरीयता की सकर्मकता (transitivity) की मान्यता का उल्लंघन करता है।"
+          ],
+          "marks": 3,
+          "year": "2025",
+          "chapter": "भाग A अध्याय 2"
+        },
+        {
+          "q_no": 7,
+          "q": "स्थानापन्न एवं पूरक वस्तुओं में अंतर स्पष्ट कीजिए।",
+          "answer_points": [
+            "स्थानापन्न वस्तुएँ: वे वस्तुएँ जिनका एक-दूसरे के स्थान पर प्रयोग किया जा सकता है — जैसे चाय एवं कॉफ़ी, पेन एवं पेंसिल। एक की क़ीमत बढ़ने पर दूसरे की माँग बढ़ती है।",
+            "पूरक वस्तुएँ: वे वस्तुएँ जिनका एक साथ प्रयोग किया जाता है — जैसे कार एवं पेट्रोल, पेन एवं स्याही। एक की क़ीमत बढ़ने पर दूसरे की माँग घटती है।",
+            "मुख्य अंतर: स्थानापन्न वस्तुओं के लिए क्रॉस क़ीमत लोच धनात्मक एवं पूरक वस्तुओं के लिए ऋणात्मक होती है।"
+          ],
+          "marks": 3,
+          "year": "2025",
+          "chapter": "भाग A अध्याय 2"
+        },
+        {
+          "q_no": 8,
+          "q": "स्थिर लागत एवं परिवर्तनशील लागत की अवधारणाओं की व्याख्या कीजिए।",
+          "answer_points": [
+            "स्थिर लागत (TFC): वे लागतें जो अल्पकाल में उत्पाद के स्तर के साथ नहीं बदलतीं। उत्पादन शून्य हो या अधिकतम — ये स्थिर रहती हैं। जैसे कारख़ाने का किराया, ऋण पर ब्याज, बीमा प्रभार।",
+            "परिवर्तनशील लागत (TVC): वे लागतें जो उत्पादन के स्तर के साथ प्रत्यक्ष रूप से बदलती हैं। उत्पादन बढ़ने पर TVC बढ़ती है, उत्पादन शून्य होने पर TVC भी शून्य होती है। जैसे कच्चे माल की लागत, दैनिक मज़दूरों का वेतन।",
+            "संबंध: TC = TFC + TVC"
+          ],
+          "marks": 3,
+          "year": "2025",
+          "chapter": "भाग A अध्याय 3"
+        },
+        {
+          "q_no": 9,
+          "q": "अल्पकाल में एक फर्म के लिए लाभ अधिकतमीकरण की तीन शर्तें क्या हैं?",
+          "answer_points": [
+            "शर्त 1: MR = MC — फर्म उस उत्पाद स्तर पर उत्पादन करती है जहाँ सीमांत आगम सीमांत लागत के बराबर हो।",
+            "शर्त 2: साम्य बिंदु पर MC बढ़ती हुई होनी चाहिए (MC नीचे से MR को काटती हो)।",
+            "शर्त 3: MR ≥ AVC (क़ीमत कम से कम औसत परिवर्तनशील लागत को पूरा करनी चाहिए, अन्यथा फर्म बंद होगी)।"
+          ],
+          "marks": 3,
+          "year": "2025",
+          "chapter": "भाग A अध्याय 3 / अध्याय 4"
+        },
+        {
+          "q_no": 10,
+          "q": "बाज़ार मूल्य पर GDP एवं साधन लागत पर GDP की अवधारणा की व्याख्या कीजिए।",
+          "answer_points": [
+            "बाज़ार मूल्य पर GDP (GDP_MP): किसी वर्ष में देश के घरेलू क्षेत्र में निवासियों एवं ग़ैर-निवासियों द्वारा उत्पादित अंतिम वस्तुओं एवं सेवाओं का बाज़ार मूल्य, मूल्यह्रास सहित।",
+            "साधन लागत पर GDP (GDP_FC): घरेलू क्षेत्र के भीतर अंतिम वस्तुओं के उत्पादन पर व्यय साधन लागतों का योग, शुद्ध अप्रत्यक्ष करों (NIT) को छोड़कर। GDP_FC = GDP_MP – NIT",
+            "संबंध: GDP_FC = GDP_MP – NIT, जहाँ NIT = अप्रत्यक्ष कर – सहायिकी।"
+          ],
+          "marks": 3,
+          "year": "2025",
+          "chapter": "भाग B अध्याय 2"
+        },
+        {
+          "q_no": 11,
+          "q": "'आय का पूर्ण रोज़गार स्तर' से आपका क्या अभिप्राय है?",
+          "answer_points": [
+            "आय का पूर्ण रोज़गार स्तर राष्ट्रीय आय के उस स्तर को दर्शाता है जिस पर प्रचलित मज़दूरी दर पर कार्य करने हेतु इच्छुक एवं सक्षम सभी व्यक्तियों को कार्य मिल सकता है।",
+            "इस स्तर पर अर्थव्यवस्था में कोई अनैच्छिक बेरोज़गारी नहीं होती।",
+            "कीन्सवादी दृष्टिकोण: पूर्ण रोज़गार एक विशेष स्थिति है, सामान्य नहीं। अर्थव्यवस्था पूर्ण रोज़गार स्तर से कम पर भी साम्य में हो सकती है।"
+          ],
+          "marks": 3,
+          "year": "2025",
+          "chapter": "भाग B अध्याय 4"
+        },
+        {
+          "q_no": 12,
+          "q": "राजस्व प्राप्तियों एवं पूँजीगत प्राप्तियों में अंतर स्पष्ट कीजिए।",
+          "answer_points": [
+            "राजस्व प्राप्तियाँ: वे प्राप्तियाँ जो न तो सरकार के लिए दायित्व उत्पन्न करतीं और न ही संपत्ति में कमी लातीं। जैसे कर राजस्व (आयकर, GST), ग़ैर-कर राजस्व (शुल्क, जुर्माना, PSU के लाभ)। ये आवर्ती प्रकृति की होती हैं।",
+            "पूँजीगत प्राप्तियाँ: वे प्राप्तियाँ जो या तो दायित्व उत्पन्न करें (उधार) या सरकार की संपत्ति में कमी लाएँ। जैसे बाज़ार से उधार, ऋणों की वसूली, विनिवेश।",
+            "मुख्य अंतर: राजस्व प्राप्तियाँ अप्रतिदेय होती हैं; पूँजीगत प्राप्तियाँ या तो दायित्व बढ़ाती हैं या संपत्ति घटाती हैं।"
+          ],
+          "marks": 3,
+          "year": "2025",
+          "chapter": "भाग B अध्याय 5"
+        },
+        {
+          "q_no": 13,
+          "q": "विदेशी विनिमय की माँग को प्रभावित करने वाले विभिन्न कारकों का वर्णन कीजिए।",
+          "answer_points": [
+            "विदेशी विनिमय की माँग उत्पन्न होती है: (i) विदेशी वस्तुओं की ख़रीद (वस्तुओं एवं सेवाओं का आयात), (ii) अंतरराष्ट्रीय ऋणों की वापसी।",
+            "(iii) शेष विश्व को उपहार एवं अनुदान (एकतरफ़ा हस्तांतरण), (iv) शेष विश्व में निवेश।",
+            "(v) विदेश में पर्यटन पर व्यय, (vi) विनिमय दरों में परिवर्तन से लाभ कमाने हेतु सट्टा गतिविधियाँ।"
+          ],
+          "marks": 3,
+          "year": "2025",
+          "chapter": "भाग B अध्याय 6"
+        },
+        {
+          "q_no": 14,
+          "q": "उच्चतर अनधिमान वक्र संतुष्टि के उच्च स्तर को दर्शाता है। व्याख्या कीजिए।",
+          "answer_points": [
+            "उच्चतर अनधिमान वक्र (IC2) IC मानचित्र पर निम्नतर अनधिमान वक्र (IC1) के दाईं ओर स्थित होता है।",
+            "IC2 पर कोई भी बिंदु दो वस्तुओं के ऐसे संयोग को दर्शाता है जिसमें कम से कम एक वस्तु अधिक मात्रा में एवं दूसरी वस्तु की मात्रा IC1 से कम नहीं होती।",
+            "चूँकि अधिक वस्तुएँ अधिक संतुष्टि देती हैं (एकस्वरूपी वरीयता मान्यता), IC2, IC1 से उच्च संतुष्टि दर्शाता है।"
+          ],
+          "marks": 3,
+          "year": "2025",
+          "chapter": "भाग A अध्याय 2"
+        },
+        {
+          "q_no": 15,
+          "q": "सामान्य वस्तुओं एवं निकृष्ट वस्तुओं में अंतर स्पष्ट कीजिए।",
+          "answer_points": [
+            "सामान्य वस्तुएँ: वे वस्तुएँ जिनकी माँग उपभोक्ता की आय बढ़ने पर बढ़ती है एवं आय घटने पर घटती है। आय माँग लोच धनात्मक होती है। जैसे ब्रांडेड कपड़े, कारें।",
+            "निकृष्ट वस्तुएँ: वे वस्तुएँ जिनकी माँग उपभोक्ता की आय बढ़ने पर घटती है (उपभोक्ता बेहतर स्थानापन्नों की ओर जाता है)। आय माँग लोच ऋणात्मक होती है। जैसे मोटे अनाज, पुरानी वस्तुएँ।",
+            "मुख्य बात: सामान्य वस्तुओं के लिए आय एवं माँग एक ही दिशा में चलते हैं; निकृष्ट वस्तुओं के लिए विपरीत दिशा में।"
+          ],
+          "marks": 3,
+          "year": "2025",
+          "chapter": "भाग A अध्याय 2"
+        }
+      ]
+    },
+    "sa_question_bank": {
+      "marks_each": 6,
+      "total_questions_in_bank": 8,
+      "note": "लघु उत्तरीय प्रकार। लगभग 100-150 शब्द प्रति उत्तर। जहाँ लागू हो रेखाचित्र आवश्यक। परीक्षा में सभी अनिवार्य — कोई विकल्प नहीं।",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "अर्थशास्त्र की विषय-वस्तु की विवेचना कीजिए।",
+          "answer_points": [
+            "अर्थशास्त्र उन आर्थिक मुद्दों अथवा समस्याओं के अध्ययन से संबंधित है जो इसलिए उत्पन्न होती हैं क्योंकि हमारी आवश्यकताओं के सापेक्ष संसाधन दुर्लभ हैं एवं दुर्लभ संसाधनों के वैकल्पिक उपयोग हैं।",
+            "विषय-वस्तु का अध्ययन दो व्यापक शाखाओं में — व्यष्टि अर्थशास्त्र एवं समष्टि अर्थशास्त्र।",
+            "व्यष्टि अर्थशास्त्र के प्रमुख सिद्धांत: (i) उपभोक्ता व्यवहार का सिद्धांत, (ii) उत्पादक व्यवहार का सिद्धांत, (iii) क़ीमत सिद्धांत।",
+            "समष्टि अर्थशास्त्र के प्रमुख सिद्धांत: (i) उत्पाद एवं रोज़गार के साम्य स्तर से संबंधित सिद्धांत, (ii) स्फीति/अपस्फीति अंतराल से संबंधित सिद्धांत, (iii) गुणक सिद्धांत, (iv) सरकारी बजट का अध्ययन, (v) विनिमय दर एवं भुगतान संतुलन का अध्ययन।",
+            "नोट: अर्थशास्त्र एक अंतर-विषयक विषय है — यह अन्य सामाजिक विज्ञान विषयों से मिलता-जुलता है।"
+          ],
+          "marks": 6,
+          "year": "NCERT",
+          "chapter": "भाग A अध्याय 1"
+        },
+        {
+          "q_no": 2,
+          "q": "पूर्ण प्रतियोगिता की विभिन्न विशेषताओं का वर्णन कीजिए।",
+          "answer_points": [
+            "1. क्रेताओं एवं विक्रेताओं की अधिक संख्या: कोई भी व्यक्तिगत क्रेता अथवा विक्रेता बाज़ार मूल्य को प्रभावित नहीं कर सकता — प्रत्येक क़ीमत-स्वीकारक होता है।",
+            "2. समरूप उत्पाद: सभी फर्में समान उत्पाद बेचती हैं, अतः क्रेताओं की किसी एक विक्रेता के प्रति कोई वरीयता नहीं होती।",
+            "3. मुक्त प्रवेश एवं निर्गमन: दीर्घकाल में फर्में उद्योग में मुक्त रूप से प्रवेश कर सकती हैं अथवा बाहर जा सकती हैं — कोई बाधा नहीं।",
+            "4. पूर्ण ज्ञान: सभी क्रेताओं एवं विक्रेताओं को क़ीमतों एवं बाज़ार स्थितियों की पूर्ण जानकारी होती है।",
+            "5. साधनों की पूर्ण गतिशीलता: उत्पादन के साधन विभिन्न उपयोगों के बीच मुक्त रूप से स्थानांतरित हो सकते हैं।",
+            "6. AR = MR: क़ीमत स्थिर होने के कारण, प्रत्येक उत्पाद स्तर पर औसत आगम सीमांत आगम के बराबर होता है।"
+          ],
+          "marks": 6,
+          "year": "2025",
+          "chapter": "भाग A अध्याय 4"
+        },
+        {
+          "q_no": 3,
+          "q": "'पूर्ण स्थानापन्नों के बीच सीमांत प्रतिस्थापन दर (MRS) स्थिर रहती है।' रेखाचित्र सहित व्याख्या कीजिए।",
+          "answer_points": [
+            "MRS वह दर है जिस पर उपभोक्ता एक ही अनधिमान वक्र पर रहते हुए एक वस्तु को दूसरी वस्तु से प्रतिस्थापित करने को तैयार रहता है।",
+            "पूर्ण स्थानापन्नों के लिए (जैसे 5 रुपये का सिक्का एवं पाँच 1 रुपये के सिक्के), उपभोक्ता उन्हें सदैव एक स्थिर अनुपात में बदलने को तैयार रहता है।",
+            "अतः उपभोग में परिवर्तन पर MRS स्थिर रहती है — न तो बढ़ती है न घटती है।",
+            "रेखाचित्र: पूर्ण स्थानापन्नों के लिए IC एक सीधी नीचे ढलती रेखा होती है (अवतल नहीं) क्योंकि MRS प्रत्येक बिंदु पर स्थिर है।"
+          ],
+          "marks": 6,
+          "year": "2025",
+          "chapter": "भाग A अध्याय 2"
+        },
+        {
+          "q_no": 4,
+          "q": "सीमांत लागत (MC), औसत लागत (AC) एवं कुल लागत (TC) के बीच संबंध की रेखाचित्र सहित व्याख्या कीजिए।",
+          "answer_points": [
+            "कुल लागत (TC): उत्पादन के एक निश्चित स्तर पर होने वाली कुल लागत। TC = TFC + TVC",
+            "औसत लागत (AC) = TC/Q = प्रति इकाई उत्पादन लागत।",
+            "सीमांत लागत (MC) = ΔTC/ΔQ = एक अतिरिक्त इकाई के उत्पादन से TC में हुआ परिवर्तन।",
+            "संबंध: (i) जब MC < AC हो, AC गिरती है। (ii) जब MC > AC हो, AC बढ़ती है। (iii) जब MC = AC हो, AC न्यूनतम होती है।",
+            "रेखाचित्र: MC एवं AC दोनों U-आकार के वक्र हैं। MC वक्र AC को इसके न्यूनतम बिंदु पर काटता है।",
+            "नोट: MC स्थिर लागतों से स्वतंत्र होती है — यह केवल परिवर्तनशील लागतों में परिवर्तन से प्रभावित होती है।"
+          ],
+          "marks": 6,
+          "year": "2025",
+          "chapter": "भाग A अध्याय 3"
+        },
+        {
+          "q_no": 5,
+          "q": "मुद्रा के चार कार्यों की व्याख्या कीजिए।",
+          "answer_points": [
+            "1. प्राथमिक कार्य — विनिमय का माध्यम: मुद्रा वस्तुओं एवं सेवाओं के क्रय-विक्रय हेतु माध्यम है। यह दोहरी इच्छाओं के संयोग (वस्तु-विनिमय की सीमा) की समस्या को दूर करती है।",
+            "2. प्राथमिक कार्य — मूल्य का मापक (लेखा की इकाई): मुद्रा मूल्य के एक सामान्य मापक का कार्य करती है — सभी वस्तुओं एवं सेवाओं की क़ीमतें मुद्रा में होती हैं।",
+            "3. गौण कार्य — मूल्य संचय: मुद्रा को भविष्य के उपयोग हेतु संचित एवं भंडारित किया जा सकता है। यह समय के साथ मूल्य हस्तांतरण में सहायक है।",
+            "4. गौण कार्य — आस्थगित भुगतान का मानक: मुद्रा का उपयोग भविष्य के भुगतानों/ऋणों के निपटान हेतु किया जाता है क्योंकि इसका मूल्य अपेक्षाकृत स्थिर होता है। यह उधार एवं ऋण को सुगम बनाती है।"
+          ],
+          "marks": 6,
+          "year": "2025",
+          "chapter": "भाग B अध्याय 3"
+        },
+        {
+          "q_no": 6,
+          "q": "सरकारी बजट के विभिन्न उद्देश्यों का वर्णन कीजिए।",
+          "answer_points": [
+            "1. आय एवं संपत्ति का पुनर्वितरण: अमीरों पर प्रगतिशील करों एवं ग़रीबों पर कल्याण व्यय के माध्यम से सरकार आय की असमानता कम करती है।",
+            "2. संसाधनों का पुनः आवंटन: सरकार करों एवं सहायिकी के माध्यम से संसाधनों को सामाजिक रूप से वांछनीय क्षेत्रों (मेरिट वस्तुएँ, सार्वजनिक वस्तुएँ) की ओर निर्देशित करती है।",
+            "3. आर्थिक विकास: बजटीय नीति बचत एवं निवेश को बढ़ावा देती है, जो आर्थिक विकास दर बढ़ाने में सहायक है।",
+            "4. रोज़गार सृजन: सरकार श्रम-प्रधान सार्वजनिक कार्यों (सड़कें, बाँध) को रोज़गार बढ़ाने हेतु चलाती है।",
+            "5. आर्थिक स्थिरता: राजकोषीय नीति के माध्यम से सरकार मूल्य स्तर की स्थिरता बनाए रखने हेतु स्फीति एवं अपस्फीति को नियंत्रित करती है।",
+            "6. सार्वजनिक उपक्रमों का प्रबंधन: PSUs सामाजिक कल्याण के लिए संचालित होते हैं, लाभ अधिकतमीकरण के लिए नहीं।"
+          ],
+          "marks": 6,
+          "year": "2025",
+          "chapter": "भाग B अध्याय 5"
+        },
+        {
+          "q_no": 7,
+          "q": "भुगतान संतुलन में पूँजी खाते के विभिन्न घटकों का वर्णन कीजिए।",
+          "answer_points": [
+            "पूँजी खाता संपत्तियों से संबंधित सभी अंतरराष्ट्रीय लेनदेन को रिकॉर्ड करता है — यह दर्शाता है कि देश अपने चालू खाते के घाटे या आधिक्य का वित्तपोषण कैसे करता है।",
+            "पूँजी खाते के घटक:",
+            "1. विदेशी निवेश: (i) प्रत्यक्ष विदेशी निवेश (FDI) — विदेश में भौतिक संपत्तियों में निवेश, (ii) पोर्टफ़ोलियो निवेश — शेयरों एवं बॉन्डों में निवेश।",
+            "2. ऋण एवं उधार: बाह्य वाणिज्यिक उधार, IMF/World Bank से ऋण, विदेशी सरकारों से ऋण।",
+            "3. बैंकिंग पूँजी: वाणिज्यिक बैंकों की विदेशी परिसंपत्तियों एवं देनदारियों में परिवर्तन।",
+            "4. रुपया ऋण सेवा: विदेशी ऋणों के मूलधन की वापसी।",
+            "नोट: विदेशी प्रेषण (विदेश में काम करने वाले श्रमिकों द्वारा घर भेजा धन) चालू खाते का हिस्सा है — पूँजी खाते का नहीं।"
+          ],
+          "marks": 6,
+          "year": "2025",
+          "chapter": "भाग B अध्याय 6"
+        },
+        {
+          "q_no": 8,
+          "q": "कुल आगम, औसत आगम एवं सीमांत आगम के बीच संबंध की रेखाचित्र सहित व्याख्या कीजिए।",
+          "answer_points": [
+            "कुल आगम (TR) = क़ीमत × मात्रा = AR × Q। पूर्ण प्रतियोगिता में TR मूल बिंदु से होकर सीधी रेखा है (क़ीमत स्थिर होने से)।",
+            "औसत आगम (AR) = TR/Q = क़ीमत। पूर्ण प्रतियोगिता में AR स्थिर एवं क़ीमत के बराबर — क्षैतिज रेखा।",
+            "सीमांत आगम (MR) = ΔTR/ΔQ = एक अतिरिक्त इकाई के विक्रय से कुल आगम में परिवर्तन।",
+            "पूर्ण प्रतियोगिता में: AR = MR = क़ीमत (स्थिर) — दोनों एक ही क्षैतिज रेखा।",
+            "एकाधिकार में: AR > MR एवं दोनों नीचे की ओर ढालू। AR वक्र माँग वक्र होता है।",
+            "रेखाचित्र: पूर्ण प्रतियोगिता की स्थिति (क्षैतिज AR = MR रेखा) एवं एकाधिकार की स्थिति (AR नीचे ढालू MR के ऊपर) दिखाइए।"
+          ],
+          "marks": 6,
+          "year": "2025",
+          "chapter": "भाग A अध्याय 3/अध्याय 4",
+          "imp": true
+        }
+      ]
+    },
+    "la_question_bank": {
+      "marks_each": 10,
+      "total_questions_in_bank": 4,
+      "note": "दीर्घ उत्तरीय (निबंधात्मक) प्रकार। लगभग 250-300 शब्द। परीक्षा में प्रत्येक प्रश्न के साथ 'अथवा' विकल्प। रेखाचित्र आवश्यक। मध्यम से कठिन।",
+      "questions": [
+        {
+          "q_no": 1,
+          "q": "माँग की लोच क्या है? माँग की लोच को प्रभावित करने वाले विभिन्न कारकों का वर्णन कीजिए।",
+          "answer_points": [
+            "माँग की लोच: यह किसी वस्तु की क़ीमत में परिवर्तन के प्रति माँगी गई मात्रा की प्रतिक्रिया की मात्रा को मापती है। अल्फ़्रेड मार्शल द्वारा प्रतिपादित।",
+            "सूत्र: E_d = (माँगी गई मात्रा में % परिवर्तन) / (क़ीमत में % परिवर्तन)",
+            "क़ीमत लोच के प्रकार: (i) पूर्णतया लोचदार (E_d = ∞, क्षैतिज माँग वक्र), (ii) पूर्णतया बेलोचदार (E_d = 0, ऊर्ध्वाधर वक्र), (iii) इकाई लोच (E_d = 1, आयताकार अतिपरवलय), (iv) इकाई से अधिक लोचदार (E_d > 1, चपटा वक्र), (v) इकाई से कम लोचदार (E_d < 1, खड़ा वक्र)।",
+            "माँग की लोच को प्रभावित करने वाले कारक:",
+            "1. वस्तु की प्रकृति — आवश्यक वस्तुओं की माँग बेलोचदार, विलासिता की वस्तुओं की लोचदार।",
+            "2. स्थानापन्नों की उपलब्धता — अधिक स्थानापन्न → अधिक लोचदार।",
+            "3. आय का अनुपात — छोटा अनुपात → बेलोचदार।",
+            "4. समय अवधि — दीर्घकाल में माँग अधिक लोचदार।",
+            "5. उपयोगों की संख्या — अधिक उपयोग → अधिक लोचदार।",
+            "6. आदत बनाने वाली वस्तुएँ — बेलोचदार (जैसे तंबाकू, मदिरा)।",
+            "7. टिकाऊ वस्तुएँ — माँग अधिक लोचदार।",
+            "रेखाचित्र: माँग वक्रों के सभी 5 प्रकार दिखाइए।"
+          ],
+          "marks": 10,
+          "year": "2025",
+          "chapter": "भाग A अध्याय 2",
+          "imp": true,
+          "or_option": "राष्ट्रीय आय एवं जनकल्याण के बीच संबंध पर निबंध लिखिए।"
+        },
+        {
+          "q_no": 2,
+          "q": "परिवर्ती अनुपात के नियम की रेखाचित्र सहित व्याख्या कीजिए।",
+          "answer_points": [
+            "परिवर्ती अनुपात का नियम (एक साधन के प्रतिफल): अल्पकाल में जब स्थिर साधनों के साथ परिवर्ती साधन की अधिक इकाइयाँ लगाई जाती हैं, तो कुल उत्पाद पहले बढ़ती दर से बढ़ता है, फिर घटती दर से, अधिकतम तक पहुँचता है एवं अंततः गिरता है।",
+            "तीन अवस्थाएँ: अवस्था I — वर्धमान प्रतिफल (TP बढ़ती दर से बढ़ता है, MP बढ़ता है), अवस्था II — ह्रासमान प्रतिफल (TP घटती दर से बढ़ता है, MP गिरता है पर धनात्मक), अवस्था III — ऋणात्मक प्रतिफल (TP गिरता है, MP ऋणात्मक हो जाता है)।",
+            "मान्यताएँ: (i) केवल एक साधन परिवर्ती, (ii) उत्पादन तकनीक स्थिर, (iii) परिवर्ती साधन की सभी इकाइयाँ समान रूप से कुशल।",
+            "रेखाचित्र: तीन अवस्थाएँ दिखाते हुए TP एवं MP वक्र बनाइए। TP उल्टी-U आकार का; MP पहाड़ी-आकार का ऋणात्मक जाता हुआ।",
+            "TP एवं MP के बीच संबंध: जब MP बढ़ता है तो TP बढ़ती दर से बढ़ता है; जब MP अधिकतम हो तो TP पर विभाजन बिंदु; जब MP = 0 हो तो TP अधिकतम; जब MP < 0 हो तो TP गिरता है।",
+            "आर्थिक महत्व: विवेकी उत्पादक अवस्था II में कार्य करता है (जहाँ MP धनात्मक एवं गिरता है)।"
+          ],
+          "marks": 10,
+          "year": "2025",
+          "chapter": "भाग A अध्याय 3",
+          "imp": true,
+          "or_option": "कुल आगम, औसत आगम एवं सीमांत आगम के बीच संबंध की रेखाचित्र सहित विवेचना कीजिए।"
+        },
+        {
+          "q_no": 3,
+          "q": "रोज़गार के कीन्सवादी सिद्धांत का संक्षेप में वर्णन कीजिए।",
+          "answer_points": [
+            "कीन्सवादी सिद्धांत (जे. एम. कीन्स, 1936): 'General Theory of Employment, Interest and Money' में प्रतिपादित। शास्त्रीय विचार को चुनौती — कि पूर्ण रोज़गार सामान्य है।",
+            "मुख्य तर्क: रोज़गार का स्तर प्रभावी माँग (समग्र माँग) के स्तर द्वारा निर्धारित होता है। अर्थव्यवस्था पूर्ण रोज़गार से कम पर भी साम्य में हो सकती है।",
+            "प्रभावी माँग: वह बिंदु जहाँ समग्र माँग (AD) = समग्र पूर्ति (AS) हो। AD = C + I; AS = C + S।",
+            "साम्य: Y = AD = C + I उस बिंदु पर जहाँ AD वक्र 45° रेखा को काटती है।",
+            "पूर्ण रोज़गार एक विशेष स्थिति: यदि AD अपर्याप्त हो तो न्यून माँग एवं बेरोज़गारी होगी।",
+            "निवेश गुणक (k): k = 1/MPS = 1/(1-MPC)। निवेश में वृद्धि से आय में गुणक वृद्धि होती है।",
+            "नीतिगत निहितार्थ: पूर्ण रोज़गार प्राप्त करने हेतु मंदी के समय सरकार को व्यय (G) बढ़ाना चाहिए ताकि AD बढ़े।",
+            "रेखाचित्र: AD-AS रेखाचित्र बनाइए जो पूर्ण रोज़गार से कम एवं पूर्ण रोज़गार स्तर पर साम्य दिखाता हो।"
+          ],
+          "marks": 10,
+          "year": "2025",
+          "chapter": "भाग B अध्याय 4",
+          "imp": true,
+          "or_option": "अर्थव्यवस्था की आय सृजन प्रक्रिया में गुणक की कार्यप्रणाली की विवेचना कीजिए।"
+        },
+        {
+          "q_no": 4,
+          "q": "व्यष्टि अर्थशास्त्र एवं समष्टि अर्थशास्त्र में अंतर स्पष्ट कीजिए।",
+          "answer_table": {
+            "headers": [
+              "आधार",
+              "व्यष्टि अर्थशास्त्र",
+              "समष्टि अर्थशास्त्र"
+            ],
+            "rows": [
+              [
+                "अर्थ",
+                "व्यक्तिगत इकाई के स्तर पर आर्थिक समस्याओं से संबंधित",
+                "संपूर्ण अर्थव्यवस्था के व्यवहार से संबंधित — समुच्चय"
+              ],
+              [
+                "विषय-वस्तु",
+                "व्यक्तिगत माँग, पूर्ति, क़ीमत, उत्पाद, साधन मूल्य",
+                "राष्ट्रीय आय, रोज़गार, मुद्रा पूर्ति, स्फीति, BoP"
+              ],
+              [
+                "विश्लेषण",
+                "आंशिक साम्य विश्लेषण",
+                "सामान्य साम्य विश्लेषण"
+              ],
+              [
+                "क़ीमत सिद्धांत",
+                "व्यक्तिगत क़ीमत निर्धारण सिद्धांत",
+                "सामान्य मूल्य स्तर सिद्धांत"
+              ],
+              [
+                "उदाहरण विषय",
+                "उपभोक्ता साम्य, फर्म का साम्य, लोच",
+                "GDP, गुणक, सरकारी बजट, भुगतान संतुलन"
+              ],
+              [
+                "जनक",
+                "एडम स्मिथ को संस्थापक माना जाता है",
+                "जे. एम. कीन्स — आधुनिक समष्टि अर्थशास्त्र के जनक"
+              ],
+              [
+                "क्षेत्र",
+                "'छोटी तस्वीर' अर्थशास्त्र",
+                "'बड़ी तस्वीर' अर्थशास्त्र"
+              ]
+            ]
+          },
+          "marks": 10,
+          "year": "2024",
+          "chapter": "भाग A अध्याय 1"
+        }
+      ]
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Economics.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not applicable for Economics.",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Economics",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Economics",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Economics — theory-only.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 0,
+    "medium_percent": 0,
+    "hard_percent": 0,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "MCQ प्रश्न 1-10 एवं VSA प्रश्न 11-18 एवं SA प्रश्न 19-24 सभी अनिवार्य हैं — कोई भी खाली मत छोड़िए",
+      "केवल प्रश्न 25, 26, 27 में 'अथवा' है — रीडिंग टाइम के दौरान आसान विकल्प चुनिए",
+      "MCQ में: CBQ (कथन I/II) प्रश्नों में — दोनों कथन ध्यान से पढ़िए। आमतौर पर एक प्रत्यक्षात्मक, दूसरा आदर्शात्मक होता है",
+      "MCQ के लिए याद रखने योग्य मुख्य तथ्य: अर्थशास्त्र के जनक = एडम स्मिथ; समष्टि अर्थशास्त्र के जनक = कीन्स; लोच = मार्शल; IC विश्लेषण = हिक्स एवं एलन",
+      "संख्यात्मक के लिए: MPC + MPS = 1; गुणक k = 1/MPS; E_d सूत्र = (–)(ΔQ/ΔP)×(P/Q)",
+      "रेखाचित्र नियम: सदैव X-अक्ष, Y-अक्ष, वक्र (D, S, IC, MR, MC आदि) एवं साम्य बिंदु label कीजिए। पहले पेंसिल से फिर पेन से trace कीजिए",
+      "VSA 1½+1½ प्रकार के लिए: स्पष्ट रूप से अलग 2-बिंदु उत्तर दीजिए। examiner द्वारा अपेक्षित मुख्य शब्दों का प्रयोग कीजिए",
+      "TR, AR, MR प्रश्न — पूर्ण प्रतियोगिता AND एकाधिकार दोनों की व्याख्या कीजिए पूरे अंकों के लिए",
+      "राष्ट्रीय आय के संख्यात्मक: विधि पहचानिए (आय/व्यय/मूल्य-वर्धित), सूत्र लिखिए, step-by-step प्रतिस्थापन कीजिए",
+      "परिवर्ती अनुपात का नियम: सदैव TP AND MP दोनों वक्र बनाइए एवं सभी 3 अवस्थाएँ दिखाइए — examiner यही जाँचता है",
+      "कीन्सवादी सिद्धांत: बेहतर अंकों के लिए सदैव शास्त्रीय सिद्धांत से तुलना कीजिए। 'प्रभावी माँग' का स्पष्ट उल्लेख कीजिए",
+      "भुगतान संतुलन: याद रखिए — विदेश में श्रमिकों द्वारा प्रेषण = चालू खाता (पूँजी खाता नहीं)। विदेशी निवेश = पूँजी खाता",
+      "राजकोषीय घाटा = कुल व्यय – (कुल प्राप्तियाँ – उधार)। प्राथमिक घाटा = राजकोषीय घाटा – ब्याज भुगतान",
+      "जमा करने से पहले: उत्तर पुस्तिका एवं यदि कोई मानचित्र-पत्र हो तो उन पर रोल नंबर verify कीजिए"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "रीडिंग_15_मिनट",
+        "recommended_minutes": 0,
+        "note": "पहले 15 मिनट — केवल पेपर पढ़िए, लिखिए नहीं। सभी 3 दीर्घ उत्तरीय 'अथवा' विकल्प पढ़िए — अभी तय कीजिए कि कौन से आसान हैं।"
+      },
+      {
+        "section_id": "MCQ_Q1_Q10_15_मिनट",
+        "recommended_minutes": 0,
+        "note": "10 अंक। सभी 10 attempt कीजिए। CBQ (कथन I/II) प्रकार से सावधान — उत्तर देने से पहले दोनों कथन ध्यान से पढ़िए।"
+      },
+      {
+        "section_id": "VSA_Q11_Q18_30_मिनट",
+        "recommended_minutes": 0,
+        "note": "24 अंक। सभी 8 अनिवार्य। 30-50 शब्दों तक सीमित रखिए। 1½+1½ विभाजित प्रश्नों में 2 अलग-अलग, स्पष्ट रूप से अंकित बिंदु दीजिए।"
+      },
+      {
+        "section_id": "SA_Q19_Q24_50_मिनट",
+        "recommended_minutes": 0,
+        "note": "36 अंक। सभी 6 अनिवार्य। शीर्षक एवं क्रमांकित बिंदुओं का प्रयोग कीजिए। जहाँ आवश्यक हो रेखाचित्र बनाइए — सभी अक्ष, वक्र एवं बिंदु label कीजिए।"
+      },
+      {
+        "section_id": "LA_Q25_Q27_50_मिनट",
+        "recommended_minutes": 0,
+        "note": "30 अंक। आसान 'अथवा' विकल्प चुनिए। प्रत्येक उत्तर परिभाषा से शुरू कीजिए। labelled रेखाचित्र शामिल कीजिए। शीर्षकों सहित अनुच्छेदों का प्रयोग कीजिए।"
+      },
+      {
+        "section_id": "पुनरावलोकन_15_मिनट",
+        "recommended_minutes": 0,
+        "note": "MCQ उत्तर पुनः जाँचिए, संख्यात्मक गणनाएँ verify कीजिए, रेखाचित्र के label एवं वर्तनी देखिए।"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 33",
+        "target_marks": 33,
+        "strategy": "MCQ (6+) + VSA (12+) + SA (12+) + LA (6+) = 36 अंक",
+        "focus_chapters": [],
+        "focus_areas": [
+          "MCQ: अर्थशास्त्र के जनक, कीन्स/समष्टि अर्थशास्त्र, प्रत्यक्षात्मक बनाम आदर्शात्मक की परिभाषाएँ",
+          "VSA: व्यष्टि अर्थशास्त्र, केंद्रीय समस्याएँ, मुद्रा के कार्य, MPS गणना",
+          "SA प्रश्न 22 (पूर्ण प्रतियोगिता) एवं प्रश्न 21 (मुद्रा के कार्य) — सबसे आसान SA",
+          "LA: प्रश्न 25 लोच की परिभाषा एवं कारकों के साथ attempt कीजिए — 6-7 अंक आसान"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "50 to 60",
+        "target_marks": 50,
+        "strategy": "MCQ (8+) + सभी VSA (20+) + SA (24+) + LA (10+) = 62+ अंक",
+        "focus_chapters": [],
+        "focus_areas": [
+          "मुख्य शब्दों के साथ सभी VSA",
+          "SA: लागत रेखाचित्र, बजट उद्देश्य, BoP घटक",
+          "LA: परिवर्ती अनुपात का नियम अथवा कीन्सवादी सिद्धांत",
+          "राष्ट्रीय आय संख्यात्मक — आय विधि का अभ्यास"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "75 plus",
+        "target_marks": 75,
+        "strategy": "MCQ (9-10) + सभी VSA (22-24) + सभी SA (30-36) + सभी LA (25-30) = 86-100",
+        "focus_chapters": [],
+        "focus_areas": [
+          "SA एवं LA में परिपूर्ण रेखाचित्र — गुणवत्तापूर्ण रेखाचित्रों पर अतिरिक्त अंक",
+          "संख्यात्मक: सभी लागत तालिका एवं राष्ट्रीय आय गणनाएँ",
+          "LA 'अथवा': आसान विकल्प चुनिए — गुणक की कार्यप्रणाली अथवा लोच के कारक",
+          "सभी सूत्रों एवं सटीक परिभाषाओं का पुनरावलोकन"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [
+      "उपभोक्ता व्यवहार का सिद्धांत (18 marks)",
+      "उत्पादन एवं लागत (18 marks)",
+      "पूर्ण प्रतियोगिता में फर्म का सिद्धांत (10 marks)",
+      "राष्ट्रीय आय लेखांकन (12 marks)",
+      "मुद्रा एवं बैंकिंग (8 marks)",
+      "आय एवं रोज़गार का निर्धारण (14 marks)",
+      "सरकारी बजट एवं अर्थव्यवस्था (8 marks)",
+      "खुली अर्थव्यवस्था समष्टि अर्थशास्त्र (भुगतान संतुलन) (8 marks)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Introductory Microeconomics (कक्षा 12)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "भाग A का पाठ्यक्रम पूरी तरह इसी पर आधारित। सभी रेखाचित्र, परिभाषाएँ एवं सिद्धांत यहीं से। ज़रूर पढ़िए।"
+      },
+      {
+        "name": "NCERT Introductory Macroeconomics (कक्षा 12)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "भाग B का पाठ्यक्रम पूरी तरह इसी पर आधारित। राष्ट्रीय आय, गुणक, BoP — सब यहीं से।"
+      },
+      {
+        "name": "Arihant AVTAR Question Bank अर्थशास्त्र कक्षा 12 (अंग्रेज़ी, 2025-26)",
+        "author": "",
+        "publisher": "Arihant Prakashan, मेरठ",
+        "purpose": "Supplementary",
+        "note": "UP Board 2025-26 पाठ्यक्रम आधारित। पिछले वर्षों के पेपर 2025-2022। 20 सर्वाधिक महत्वपूर्ण प्रश्न। 5 मॉडल पेपर। Chapter-wise MCQ, VSA, SA, LA प्रश्न उत्तर सहित। CBQ कवरेज।"
+      },
+      {
+        "name": "UP Board पिछले वर्षों के पेपर",
+        "author": "",
+        "publisher": "UPMSP / upmsp.edu.in",
+        "purpose": "Supplementary",
+        "note": "2025, 2024, 2023, 2022 के पेपर solve कीजिए। MCQ एवं VSA प्रश्न वर्षों में अक्सर दोहराए जाते हैं।"
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": false,
+    "extra_time_note": "15 मिनट — केवल पढ़िए, लिखिए नहीं। इस समय LA के 'अथवा' विकल्प तय कीजिए।",
+    "duration_total": "3 घंटे 15 मिनट (195 मिनट = 15 रीडिंग + 180 लेखन)",
+    "passing_criteria": "उत्तीर्ण होने के लिए 100 में से न्यूनतम 33 अंक आवश्यक।"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": ""
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

@@ -1,0 +1,2146 @@
+{
+  "board": "MPBSE",
+  "class": "12",
+  "subject": "English",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 80,
+    "practical_paper": 0,
+    "internal_assessment": 20,
+    "total": 100,
+    "passing_marks_theory": 26,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 7,
+    "duration_minutes": 180,
+    "extra_time_given": false,
+    "extra_time_note": "Nahi milta. 3 ghante fixed hain. Bell bajte hi answer sheet submit karni hoti hai.",
+    "internal_assessment_note": "20 marks internal assessment school level par diye jaate hain — ye board exam mein nahi hote. Projects, assignments, class participation se milte hain."
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 15,
+    "total_questions_to_attempt": 15,
+    "total_objective_questions": 0,
+    "total_sets": 4,
+    "sets_note": "MPBSE typically 4 sets: A, B, C, D. Har set mein same questions hote hain, sirf order alag hota hai.",
+    "sets_same_or_different": "",
+    "language_of_attempt": "English only. Hindi mein likhne se marks nahi milenge.",
+    "all_compulsory_note": "15 questions total — mostly all compulsory. Kuch questions mein internal OR choice hoti hai (Q3/Q4/Q5, Q14, Q15).",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "NCERT (Flamingo + Vistas) compulsory hai. Section D ke sare questions NCERT chapters se hi aate hain. Sample papers aur previous year papers bhi zaroori hain.",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [
+      "Flamingo (Main reader)",
+      "Vistas (Supplementary reader)"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "Officially MPBSE ya NCERT ki taraf se jari hota hai. Actual exam pattern aur difficulty level dikhata hai.",
+      "model_paper": "Teachers ya coaching institutes banate hain practice ke liye.",
+      "question_bank": "Previous year questions ka collection. Revision ke liye best.",
+      "which_to_prefer": "Revision ke liye: Previous Year Papers > Sample Papers > Model Papers. Reference books: Pariksha Adhyayan English, Navbodh English.",
+      "revision_notes_vs_qbank": "Chapter summaries aur character sketches yaad karo, phir previous year questions solve karo."
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "English MPBSE Class 12 paper mein 4 sections hain: A (Reading), B (Writing), C (Grammar), D (Textbooks). Total 15 questions, 80 marks.",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "Reading Comprehension (Unseen Passage)",
+        "question_number": "Q1",
+        "section": "A",
+        "marks_each": 10,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Passage pehle ek baar quickly padho. Phir questions padho. MCQ mein options se answer dhundho. Vocabulary questions mein noun/adjective forms puchhte hain — grammar yaad rakho.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": "Main idea, author's tone aur vocabulary questions har saal aate hain. Passage se seedha answer milta hai — imagination mat lagao."
+      },
+      {
+        "type": "Note Making",
+        "question_number": "Q2",
+        "section": "A",
+        "marks_each": 4,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Notes points mein likhni hain — complete sentences nahi. Abbreviations use karo. Main heading + sub-headings format use karo. Title concise aur relevant hona chahiye.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Notes mein full sentences nahi — bullet points ya short phrases",
+        "notes": "Note making mein format marks milte hain. Roman numerals (I, II, III) aur indentation use karo. Abbreviations clearly define karo agar use karo."
+      },
+      {
+        "type": "Notice / Advertisement / Poster",
+        "question_number": "Q3",
+        "section": "B",
+        "marks_each": 4,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Format marks milte hain — proper heading/date/signature hamesha likho. Content relevant aur concise rakho.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "50-80 words",
+        "notes": "Notice mein NOTICE heading capital mein, school/organisation ka naam, date, aur issuing authority zaroori hain."
+      },
+      {
+        "type": "Letter Writing",
+        "question_number": "Q4",
+        "section": "B",
+        "marks_each": 4,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Format strictly follow karo — address, date, subject, salutation, body paragraphs, closing. Content relevant aur well-organized rakho.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "120-150 words",
+        "notes": "Formal letter mein 'Yours faithfully' aur informal mein 'Yours affectionately/sincerely' use karo. Yeh marks dilata hai."
+      },
+      {
+        "type": "Long Composition (Report / Paragraph / Article / Essay)",
+        "question_number": "Q5",
+        "section": "B",
+        "marks_each": 4,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Report mein headline aur dateline zaroori hain. Paragraph mein topic sentence pehle likhni chahiye. Word limit strictly follow karo.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "120 words",
+        "notes": ""
+      },
+      {
+        "type": "Fill in the Blanks (Grammar)",
+        "question_number": "Q6",
+        "section": "C",
+        "marks_each": 5,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Options mein se grammatically correct option choose karo. Grammar rules apply karo — lest ke saath 'should', made of/from, articles ka use.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": "Lest = should. 'Made of' for material. 'Made from' for chemical change. 'The' for specific nouns. Ye rules yaad karo."
+      },
+      {
+        "type": "Do as Directed (Grammar)",
+        "question_number": "Q7",
+        "section": "C",
+        "marks_each": 5,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Instruction carefully padho. Ek bhi word unnecessarily mat badlo. Sirf required transformation karo.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": "'As soon as' ko 'No sooner...than' mein badalne ka pattern: 'No sooner did + subject + verb + than + subject + verb.' Har saal aata hai."
+      },
+      {
+        "type": "Extract from Prose (Flamingo)",
+        "question_number": "Q8",
+        "section": "D",
+        "marks_each": 5,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Extract dhyan se padho. Questions mostly character identification, event identification, word meaning, mood/tone ke hote hain. Options mein se sahi jawab choose karo.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": "Har chapter ka central character, key event aur important quotes yaad karo. Extract se hi answer milta hai — wild guess mat karo."
+      },
+      {
+        "type": "Extract from Poetry (Flamingo)",
+        "question_number": "Q9",
+        "section": "D",
+        "marks_each": 7,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Poetry extract mein poet ka naam, poem ka theme, poetic devices (metaphor, imagery) aur specific line meanings puchhte hain. Vistas extract mein character identification aur event-based questions hote hain.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Prose Short Answer (Flamingo)",
+        "question_number": "Q10",
+        "section": "D",
+        "marks_each": 10,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "2 marks = 2 clear points. 30 words = 2-3 sentences. Direct, factual answer likhna hai — lengthy explanation nahi chahiye.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "About 30 words",
+        "notes": "Pehle saare 7 questions padho. Jinke jawab clearly pata hain unhe select karo. Do not attempt all 7 even if you think you know — only 5 required."
+      },
+      {
+        "type": "Poetry Short Answer (Flamingo)",
+        "question_number": "Q11",
+        "section": "D",
+        "marks_each": 6,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Poetry questions mein imagery, symbolism aur central idea puchha jaata hai. 2-3 lines mein concise answer do. Quote line from poem agar relevant ho.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "About 30 words",
+        "notes": "Answer any 3 out of 4 questions — 2 marks each, about 30 words"
+      },
+      {
+        "type": "Vistas Short Answer (Supplementary Reader)",
+        "question_number": "Q12",
+        "section": "D",
+        "marks_each": 4,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Vistas ke chapters se direct factual questions hote hain. Short, precise answer do.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "About 30 words",
+        "notes": "Answer any 2 out of 3 questions — 2 marks each, about 30 words"
+      },
+      {
+        "type": "Prose Long Answer (Flamingo)",
+        "question_number": "Q13",
+        "section": "D",
+        "marks_each": 6,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "3 marks = introduction + 2-3 key points + brief conclusion. 75 words mein complete, well-structured answer likhna hai. Title justification, character analysis, theme explanation — these are common question types.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "About 75 words",
+        "notes": "Har answer mein chapter ka naam ya character ka naam pehli line mein mention karo. Structured paragraphs mein likho."
+      },
+      {
+        "type": "Poetry Long Answer (Flamingo)",
+        "question_number": "Q14",
+        "section": "D",
+        "marks_each": 3,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Central idea, theme, poetic devices — these are common. 75 words mein poem ka message clearly explain karo. Poem ki kuch specific lines cite karo.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "About 75 words",
+        "notes": "Dono OR options padho. Jis poem ke baare mein zyaada pata ho woh select karo."
+      },
+      {
+        "type": "Vistas Long Answer (Supplementary Reader)",
+        "question_number": "Q15",
+        "section": "D",
+        "marks_each": 3,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Character sketch, theme explanation, plot summary — these are common. 75 words mein well-organized answer likhna hai.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "About 75 words",
+        "notes": "Character sketch mein physical appearance se zyaada character traits aur actions par focus karo."
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "English paper has 4 sections A to D. Total 15 questions. Maximum 80 marks. Duration 3 hours.",
+    "all_sections_compulsory": false,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Internal choice in Q3/Q4/Q5, Q14, Q15. Also \"any N of M\" pattern in Q6, Q7, Q10, Q11, Q12, Q13.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 45,
+      "medium_percent": 40,
+      "hard_percent": 15,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Reading Skills",
+        "type": "Reading Skills",
+        "question_numbers": "Q1 to Q2",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 14,
+        "word_limit": "",
+        "breakdown": "Q1 = 10 marks unseen passage MCQs. Q2 = 4 marks note making.",
+        "notes": "Section A mein koi choice nahi — dono questions compulsory hain."
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Writing Skills",
+        "type": "Writing Skills",
+        "question_numbers": "Q3 to Q5",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 12,
+        "word_limit": "",
+        "breakdown": "Q3 = 4 marks (Notice/Ad/Poster with OR). Q4 = 4 marks (Letter with OR). Q5 = 4 marks (Report/Paragraph with OR).",
+        "notes": "Har question mein OR option hota hai. Dono mein se ek attempt karo."
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Grammar",
+        "type": "Grammar",
+        "question_numbers": "Q6 to Q7",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "Q6 = Fill blanks any 5 of 6 (5 marks). Q7 = Do as directed any 5 of 6 (5 marks).",
+        "notes": "6 mein se 5 attempt karna hai. Sabse aasaan 5 choose karo."
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Textbooks (Flamingo + Vistas)",
+        "type": "Textbooks (Flamingo + Vistas)",
+        "question_numbers": "Q8 to Q15",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 44,
+        "word_limit": "",
+        "breakdown": "Q8=5, Q9(A+B)=7, Q10=10, Q11=6, Q12=4, Q13=6, Q14=3, Q15=3",
+        "notes": "Section D sabse zyaada marks ka section hai — 44 marks. NCERT chapters thoroughly padhna zaroori hai. Q10 mein any 5 of 7, Q11 mein any 3 of 4, Q12 mein any 2 of 3, Q13 mein any 2 of 3, Q14 mein OR, Q15 mein OR."
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 80,
+    "total_practical": 0,
+    "internal_assessment": 20,
+    "grand_total": 100,
+    "marks_summary_note": "Section A=14, B=12, C=10, D=44 = 80 theory + 20 IA = 100",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Reading Skills",
+        "question_numbers": "Q1 to Q2",
+        "type": "Reading Skills",
+        "total_questions": 0,
+        "total_sub_questions": 2,
+        "marks_per_question": 0,
+        "total_marks": 14,
+        "word_limit": "",
+        "breakdown": "Q1_unseen_passage_MCQ: 10; Q2_note_making: 4"
+      },
+      {
+        "section_id": "B",
+        "name": "Writing Skills",
+        "question_numbers": "Q3 to Q5",
+        "type": "Writing Skills",
+        "total_questions": 0,
+        "total_sub_questions": 3,
+        "marks_per_question": 0,
+        "total_marks": 12,
+        "word_limit": "",
+        "breakdown": "Q3_notice_advertisement_poster: 4; Q4_letter_writing: 4; Q5_long_composition: 4"
+      },
+      {
+        "section_id": "C",
+        "name": "Grammar",
+        "question_numbers": "Q6 to Q7",
+        "type": "Grammar",
+        "total_questions": 0,
+        "total_sub_questions": 2,
+        "marks_per_question": 0,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "Q6_fill_blanks: 5; Q7_do_as_directed: 5"
+      },
+      {
+        "section_id": "D",
+        "name": "Textbooks (Flamingo + Vistas)",
+        "question_numbers": "Q8 to Q15",
+        "type": "Textbooks (Flamingo + Vistas)",
+        "total_questions": 0,
+        "total_sub_questions": 9,
+        "marks_per_question": 0,
+        "total_marks": 44,
+        "word_limit": "",
+        "breakdown": "Q8_prose_extract_Flamingo: 5; Q9A_poetry_extract_Flamingo: 3; Q9B_prose_extract_Vistas: 4; Q10_prose_short_answer_Flamingo: 10; Q11_poetry_short_answer_Flamingo: 6; Q12_Vistas_short_answer: 4; Q13_prose_long_answer_Flamingo: 6; Q14_poetry_long_answer_Flamingo: 3; Q15_Vistas_long_answer: 3"
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "English has no chapter-wise blueprint. Marks distributed by section (A/B/C/D), not by chapter.",
+    "total_theory_marks": 80,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "",
+      "name": "",
+      "marks": 0,
+      "note": "Not chapter-weighted. Section D (textbooks) = 44 marks."
+    },
+    "lowest_marks_chapters": [],
+    "units_or_chapters": [],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "English textbooks: Flamingo (main) + Vistas (supplementary). Section D questions all from these.",
+    "books": [
+      {
+        "book_name": "Flamingo",
+        "category": "Main reader",
+        "total_marks": 34,
+        "note": "Prose (Q8, Q10, Q13) + Poetry (Q9A, Q11, Q14)",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "The Last Lesson",
+            "marks": 0,
+            "topics": [
+              "Patriotism",
+              "Love for mother tongue",
+              "Loss and regret"
+            ],
+            "note": "Author: Alphonse Daudet | Title justification, Franz's change of heart, M. Hamel's tribute to French language"
+          },
+          {
+            "chapter_id": "2",
+            "name": "Lost Spring",
+            "marks": 0,
+            "topics": [
+              "Child labour",
+              "Poverty",
+              "Lost childhood"
+            ],
+            "note": "Author: Anees Jung | Saheb in garbage dumps, Mukesh's dream to be a motor mechanic, why Firozabad is famous for bangles"
+          },
+          {
+            "chapter_id": "3",
+            "name": "Deep Water",
+            "marks": 0,
+            "topics": [
+              "Fear",
+              "Determination",
+              "Self-conquest"
+            ],
+            "note": "Author: William Douglas | Why was Douglas determined to overcome fear, YMCA pool incident, how he finally conquered fear"
+          },
+          {
+            "chapter_id": "4",
+            "name": "The Rattrap",
+            "marks": 0,
+            "topics": [
+              "Redemption",
+              "Human goodness",
+              "Temptation"
+            ],
+            "note": "Author: Selma Lagerlof | Rattrap philosophy, how Edla changed the peddler, why peddler finally changed his ways"
+          },
+          {
+            "chapter_id": "5",
+            "name": "Indigo",
+            "marks": 0,
+            "topics": [
+              "Civil disobedience",
+              "Peasant rights",
+              "Gandhi's leadership"
+            ],
+            "note": "Author: Louis Fischer | Why Gandhi agreed to 25% refund, role of civil disobedience in Champaran, Gandhi's leadership qualities"
+          },
+          {
+            "chapter_id": "6",
+            "name": "Poets and Pancakes",
+            "marks": 0,
+            "topics": [
+              "Film industry life",
+              "Ambition",
+              "Irony"
+            ],
+            "note": "Author: Asokamitran | Why Pancakes related to Gemini Studios, role of make-up department, Subbu's character"
+          },
+          {
+            "chapter_id": "7",
+            "name": "The Interview",
+            "marks": 0,
+            "topics": [
+              "Media",
+              "Journalism",
+              "Celebrity"
+            ],
+            "note": "Author: Christopher Silvester / An Interview with Umberto Eco | Why some celebrities hate interviews, Umberto Eco on his writing process"
+          },
+          {
+            "chapter_id": "8",
+            "name": "Going Places",
+            "marks": 0,
+            "topics": [
+              "Adolescent fantasy",
+              "Dreams vs Reality",
+              "Hero worship"
+            ],
+            "note": "Author: A.R. Barton | What Sophie was dreaming of, why her dreams were unrealistic, contrast between Sophie and Jansie"
+          }
+        ]
+      },
+      {
+        "book_name": "Flamingo (Poetry)",
+        "category": "Main reader — poetry",
+        "total_marks": 0,
+        "note": "Q9A poetry extract + Q11 short + Q14 long",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "My Mother at Sixty-Six",
+            "marks": 0,
+            "topics": [
+              "Ageing",
+              "Fear of separation",
+              "Mother-child bond"
+            ],
+            "note": "Author:  | Why young trees described as sprinting, what is childish longing, central idea"
+          },
+          {
+            "chapter_id": "2",
+            "name": "Keeping Quiet",
+            "marks": 0,
+            "topics": [
+              "Peace",
+              "Introspection",
+              "Anti-war"
+            ],
+            "note": "Author:  | What poet wants us to do, victory with no survivors, sadness the poet refers to"
+          },
+          {
+            "chapter_id": "3",
+            "name": "A Thing of Beauty",
+            "marks": 0,
+            "topics": [
+              "Beauty as joy",
+              "Nature",
+              "Immortality of beauty"
+            ],
+            "note": "Author:  | Things of beauty mentioned in poem, central idea, how beauty is a source of joy"
+          },
+          {
+            "chapter_id": "4",
+            "name": "A Roadside Stand",
+            "marks": 0,
+            "topics": [
+              "Rural poverty",
+              "Urban indifference",
+              "Social inequality"
+            ],
+            "note": "Author:  | Why poet calls cars selfish, plea of folk at roadside stand, poet's sympathy"
+          },
+          {
+            "chapter_id": "5",
+            "name": "Aunt Jennifer's Tigers",
+            "marks": 0,
+            "topics": [
+              "Female oppression",
+              "Art as escape",
+              "Male dominance"
+            ],
+            "note": "Author:  | What tigers symbolise, how Aunt Jennifer expresses bitterness, third stanza significance"
+          }
+        ]
+      },
+      {
+        "book_name": "Vistas",
+        "category": "Supplementary reader",
+        "total_marks": 10,
+        "note": "Q9B extract + Q12 short + Q15 long",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "The Third Level",
+            "marks": 0,
+            "topics": [
+              "Escapism",
+              "Anxiety",
+              "Modern life stress"
+            ],
+            "note": "Author: Jack Finney | What does third level refer to, is it real or fantasy, why does Charley want to escape"
+          },
+          {
+            "chapter_id": "2",
+            "name": "The Tiger King",
+            "marks": 0,
+            "topics": [
+              "Power",
+              "Irony",
+              "Fate"
+            ],
+            "note": "Author: Kalki | How Tiger King stood in danger of losing kingdom, irony of his death, satire on royalty"
+          },
+          {
+            "chapter_id": "3",
+            "name": "Journey to the End of the Earth",
+            "marks": 0,
+            "topics": [
+              "Antarctica",
+              "Climate change",
+              "Human history"
+            ],
+            "note": "Author: Tishani Doshi | Why Antarctica to understand earth's past present future, role of students on ice programme"
+          },
+          {
+            "chapter_id": "4",
+            "name": "The Enemy",
+            "marks": 0,
+            "topics": [
+              "Humanity vs War",
+              "Duty vs Conscience",
+              "Moral dilemma"
+            ],
+            "note": "Author: Pearl S. Buck | Character sketch of Dr. Sadao, condition in which white man was found, moral dilemma"
+          },
+          {
+            "chapter_id": "5",
+            "name": "On the Face of It",
+            "marks": 0,
+            "topics": [
+              "Disability",
+              "Loneliness",
+              "Human connection"
+            ],
+            "note": "Author: Susan Hill | How Derry's face was burnt, how Mr. Lamb overcomes feelings, what Derry learns from Mr. Lamb"
+          },
+          {
+            "chapter_id": "6",
+            "name": "Memories of Childhood",
+            "marks": 0,
+            "topics": [
+              "Discrimination",
+              "Cultural identity",
+              "Caste / Racial prejudice"
+            ],
+            "note": "Author: Zitkala-Sa / Bama | How Zitkala-Sa resisted cultural assimilation, what Bama realised about caste, what the Royal infant grew up to be"
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "The Last Lesson",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "prose",
+      "author": "Alphonse Daudet",
+      "genre": "Prose",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Patriotism",
+        "Love for mother tongue",
+        "Loss and regret"
+      ],
+      "important_characters": [
+        "Franz",
+        "M. Hamel"
+      ],
+      "frequently_asked": "Title justification, Franz's change of heart, M. Hamel's tribute to French language",
+      "important_topics": [
+        "Patriotism",
+        "Love for mother tongue",
+        "Loss and regret"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Lost Spring",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "prose",
+      "author": "Anees Jung",
+      "genre": "Prose",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Child labour",
+        "Poverty",
+        "Lost childhood"
+      ],
+      "important_characters": [
+        "Saheb",
+        "Mukesh"
+      ],
+      "frequently_asked": "Saheb in garbage dumps, Mukesh's dream to be a motor mechanic, why Firozabad is famous for bangles",
+      "important_topics": [
+        "Child labour",
+        "Poverty",
+        "Lost childhood"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Deep Water",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "prose",
+      "author": "William Douglas",
+      "genre": "Prose (Autobiography)",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Fear",
+        "Determination",
+        "Self-conquest"
+      ],
+      "important_characters": [
+        "William Douglas"
+      ],
+      "frequently_asked": "Why was Douglas determined to overcome fear, YMCA pool incident, how he finally conquered fear",
+      "important_topics": [
+        "Fear",
+        "Determination",
+        "Self-conquest"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "The Rattrap",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "prose",
+      "author": "Selma Lagerlof",
+      "genre": "Prose",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Redemption",
+        "Human goodness",
+        "Temptation"
+      ],
+      "important_characters": [
+        "The Peddler",
+        "Edla Willmansson",
+        "The Ironmaster"
+      ],
+      "frequently_asked": "Rattrap philosophy, how Edla changed the peddler, why peddler finally changed his ways",
+      "important_topics": [
+        "Redemption",
+        "Human goodness",
+        "Temptation"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Indigo",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "prose",
+      "author": "Louis Fischer",
+      "genre": "Prose (Biography)",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Civil disobedience",
+        "Peasant rights",
+        "Gandhi's leadership"
+      ],
+      "important_characters": [
+        "Gandhi",
+        "Rajkumar Shukla",
+        "Champaran peasants"
+      ],
+      "frequently_asked": "Why Gandhi agreed to 25% refund, role of civil disobedience in Champaran, Gandhi's leadership qualities",
+      "important_topics": [
+        "Civil disobedience",
+        "Peasant rights",
+        "Gandhi's leadership"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Poets and Pancakes",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "prose",
+      "author": "Asokamitran",
+      "genre": "Prose",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Film industry life",
+        "Ambition",
+        "Irony"
+      ],
+      "important_characters": [
+        "Asokamitran",
+        "The make-up man",
+        "Subbu"
+      ],
+      "frequently_asked": "Why Pancakes related to Gemini Studios, role of make-up department, Subbu's character",
+      "important_topics": [
+        "Film industry life",
+        "Ambition",
+        "Irony"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "The Interview",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "prose",
+      "author": "Christopher Silvester / An Interview with Umberto Eco",
+      "genre": "Prose",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Media",
+        "Journalism",
+        "Celebrity"
+      ],
+      "important_characters": [
+        "Umberto Eco"
+      ],
+      "frequently_asked": "Why some celebrities hate interviews, Umberto Eco on his writing process",
+      "important_topics": [
+        "Media",
+        "Journalism",
+        "Celebrity"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Going Places",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "prose",
+      "author": "A.R. Barton",
+      "genre": "Prose",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Adolescent fantasy",
+        "Dreams vs Reality",
+        "Hero worship"
+      ],
+      "important_characters": [
+        "Sophie",
+        "Jansie",
+        "Danny Casey"
+      ],
+      "frequently_asked": "What Sophie was dreaming of, why her dreams were unrealistic, contrast between Sophie and Jansie",
+      "important_topics": [
+        "Adolescent fantasy",
+        "Dreams vs Reality",
+        "Hero worship"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "My Mother at Sixty-Six",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "poetry",
+      "author": "",
+      "genre": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Ageing",
+        "Fear of separation",
+        "Mother-child bond"
+      ],
+      "important_characters": [],
+      "frequently_asked": "Why young trees described as sprinting, what is childish longing, central idea",
+      "important_topics": [
+        "Ageing",
+        "Fear of separation",
+        "Mother-child bond"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Keeping Quiet",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "poetry",
+      "author": "",
+      "genre": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Peace",
+        "Introspection",
+        "Anti-war"
+      ],
+      "important_characters": [],
+      "frequently_asked": "What poet wants us to do, victory with no survivors, sadness the poet refers to",
+      "important_topics": [
+        "Peace",
+        "Introspection",
+        "Anti-war"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "A Thing of Beauty",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "poetry",
+      "author": "",
+      "genre": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Beauty as joy",
+        "Nature",
+        "Immortality of beauty"
+      ],
+      "important_characters": [],
+      "frequently_asked": "Things of beauty mentioned in poem, central idea, how beauty is a source of joy",
+      "important_topics": [
+        "Beauty as joy",
+        "Nature",
+        "Immortality of beauty"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "A Roadside Stand",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "poetry",
+      "author": "",
+      "genre": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Rural poverty",
+        "Urban indifference",
+        "Social inequality"
+      ],
+      "important_characters": [],
+      "frequently_asked": "Why poet calls cars selfish, plea of folk at roadside stand, poet's sympathy",
+      "important_topics": [
+        "Rural poverty",
+        "Urban indifference",
+        "Social inequality"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "Aunt Jennifer's Tigers",
+      "unit_or_chapter": "chapter",
+      "book": "Flamingo",
+      "category": "poetry",
+      "author": "",
+      "genre": "",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Female oppression",
+        "Art as escape",
+        "Male dominance"
+      ],
+      "important_characters": [],
+      "frequently_asked": "What tigers symbolise, how Aunt Jennifer expresses bitterness, third stanza significance",
+      "important_topics": [
+        "Female oppression",
+        "Art as escape",
+        "Male dominance"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "The Third Level",
+      "unit_or_chapter": "chapter",
+      "book": "Vistas",
+      "category": "supplementary",
+      "author": "Jack Finney",
+      "genre": "Fiction / Fantasy",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Escapism",
+        "Anxiety",
+        "Modern life stress"
+      ],
+      "important_characters": [],
+      "frequently_asked": "What does third level refer to, is it real or fantasy, why does Charley want to escape",
+      "important_topics": [
+        "Escapism",
+        "Anxiety",
+        "Modern life stress"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 15,
+      "name": "The Tiger King",
+      "unit_or_chapter": "chapter",
+      "book": "Vistas",
+      "category": "supplementary",
+      "author": "Kalki",
+      "genre": "Satire",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Power",
+        "Irony",
+        "Fate"
+      ],
+      "important_characters": [],
+      "frequently_asked": "How Tiger King stood in danger of losing kingdom, irony of his death, satire on royalty",
+      "important_topics": [
+        "Power",
+        "Irony",
+        "Fate"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 16,
+      "name": "Journey to the End of the Earth",
+      "unit_or_chapter": "chapter",
+      "book": "Vistas",
+      "category": "supplementary",
+      "author": "Tishani Doshi",
+      "genre": "Travel writing",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Antarctica",
+        "Climate change",
+        "Human history"
+      ],
+      "important_characters": [],
+      "frequently_asked": "Why Antarctica to understand earth's past present future, role of students on ice programme",
+      "important_topics": [
+        "Antarctica",
+        "Climate change",
+        "Human history"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 17,
+      "name": "The Enemy",
+      "unit_or_chapter": "chapter",
+      "book": "Vistas",
+      "category": "supplementary",
+      "author": "Pearl S. Buck",
+      "genre": "Fiction",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Humanity vs War",
+        "Duty vs Conscience",
+        "Moral dilemma"
+      ],
+      "important_characters": [
+        "Dr. Sadao",
+        "Hana",
+        "Tom (the American soldier)"
+      ],
+      "frequently_asked": "Character sketch of Dr. Sadao, condition in which white man was found, moral dilemma",
+      "important_topics": [
+        "Humanity vs War",
+        "Duty vs Conscience",
+        "Moral dilemma"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 18,
+      "name": "On the Face of It",
+      "unit_or_chapter": "chapter",
+      "book": "Vistas",
+      "category": "supplementary",
+      "author": "Susan Hill",
+      "genre": "Drama",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Disability",
+        "Loneliness",
+        "Human connection"
+      ],
+      "important_characters": [
+        "Derry",
+        "Mr. Lamb"
+      ],
+      "frequently_asked": "How Derry's face was burnt, how Mr. Lamb overcomes feelings, what Derry learns from Mr. Lamb",
+      "important_topics": [
+        "Disability",
+        "Loneliness",
+        "Human connection"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 19,
+      "name": "Memories of Childhood",
+      "unit_or_chapter": "chapter",
+      "book": "Vistas",
+      "category": "supplementary",
+      "author": "Zitkala-Sa / Bama",
+      "genre": "Autobiography",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": true,
+      "can_be_skipped": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "key_themes": [
+        "Discrimination",
+        "Cultural identity",
+        "Caste / Racial prejudice"
+      ],
+      "important_characters": [],
+      "frequently_asked": "How Zitkala-Sa resisted cultural assimilation, what Bama realised about caste, what the Royal infant grew up to be",
+      "important_topics": [
+        "Discrimination",
+        "Cultural identity",
+        "Caste / Racial prejudice"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Section D mein 44 marks hain. Flamingo (8 prose + 5 poetry) aur Vistas (6 chapters) — sab important hain.",
+    "can_chapter_have_zero_questions": true,
+    "can_chapter_be_skipped": true,
+    "can_chapter_be_skipped_note": "Some chapters asked every year — those should never be skipped.",
+    "or_questions_note": "",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "The Last Lesson — extract Q8 mein almost every year",
+      "The Rattrap — extract Q8 mein frequently",
+      "Deep Water — short answer Q10 mein har saal",
+      "Indigo — short + long answer Q10/Q13 mein har saal",
+      "Keeping Quiet — Q9A extract + Q11/Q14 long answer har saal",
+      "My Mother at Sixty-Six — Q9A extract + Q11 short answer frequent",
+      "A Thing of Beauty — Q14 long answer frequent",
+      "The Enemy (Dr. Sadao) — Q9B extract + Q12/Q15 har saal",
+      "The Third Level — Q12 short answer frequent",
+      "The Tiger King — Q15 long answer frequent"
+    ],
+    "chapters_never_skip_reason": "Frequent extract / short-answer / long-answer chapters per Q8-Q15 history.",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [
+      "Q8_prose_extract: The Last Lesson, The Rattrap, Deep Water",
+      "Q9A_poetry_extract: Keeping Quiet, My Mother at Sixty-Six",
+      "Q9B_Vistas_extract: The Enemy, Journey to the End of the Earth"
+    ],
+    "chapters_mostly_theory": [],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Franz's unusual observations on the last day — Q10 (Section D, 2 marks)",
+      "Mukesh's dream / Saheb in garbage — Q10 (Section D, 2 marks)",
+      "Douglas determined to overcome fear of water — Q10 (Section D, 2 marks)",
+      "Rattrap philosophy — Q10 or Q13 (Section D, 2-3 marks)",
+      "Gandhi's 25% refund settlement — Q10 or Q13 (Section D, 2-3 marks)",
+      "Keeping Quiet — central idea / victory with no survivors — Q11 or Q14 (Section D, 2-3 marks)",
+      "My Mother at Sixty-Six — childish longing / young trees sprinting — Q11 (Section D, 2 marks)",
+      "Dr. Sadao character sketch — Q15 (Section D, 3 marks)",
+      "The Third Level — what it refers to — Q12 (Section D, 2 marks)",
+      "Tiger King — danger to kingdom / irony — Q15 (Section D, 3 marks)"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for English",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not applicable for English",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Section C grammar topics — fill in blanks (Q6) and do as directed (Q7).",
+    "topics": [
+      {
+        "topic_name": "fill_in_blanks_Q6",
+        "question_number": "Q6",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [
+          "lest = always followed by 'should'",
+          "made of = for material (table made of wood)",
+          "made from = for chemical change (wine made from grapes)",
+          "Would you like = always followed by 'some' (not any)",
+          "haven't + V3 = since/for present perfect",
+          "'the' before specific/known noun",
+          "Walk carefully OR else = 'else' after imperatives"
+        ],
+        "types": [
+          "Articles — a, an, the (use with specific/non-specific nouns, vowel sounds)",
+          "Prepositions — in, on, at, of, from, with, into, by, for",
+          "Tenses — Present perfect (have/has + V3), Past simple, Future",
+          "Modals — can/could, may/might, should, would, will, lest+should",
+          "Conjunctions — lest, unless, else, although, as long as, as soon as",
+          "Determiners — any, some, many, much, few, little, a lot of"
+        ]
+      },
+      {
+        "topic_name": "do_as_directed_Q7",
+        "question_number": "Q7",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [
+          "As soon as → No sooner + did/had + subject + V1/V3 + than + subject + V2",
+          "Unless → If...not (meaning stays same)",
+          "Too tired to work → So tired that he could not work",
+          "Mumbai is larger than Bhopal → Bhopal is not as large as Mumbai (positive degree)",
+          "He failed. He did not study. → He failed, so he did not study / He failed because he did not study"
+        ],
+        "types": [
+          "Active to Passive voice (all tenses)",
+          "Direct to Indirect narration (all types — statement, question, command)",
+          "Degrees of comparison — Positive to Comparative to Superlative",
+          "Combining sentences — using who/which/that, so/because, although/though",
+          "No sooner...than (transforming 'As soon as' sentences)",
+          "Unless to If transformation",
+          "Too...to to So...that transformation",
+          "Identifying clause types — noun clause, adjective clause, adverb clause"
+        ]
+      }
+    ]
+  },
+  "writing_section_formats": {
+    "note": "Section B writing formats — notice, advertisement, letters, report, paragraph.",
+    "formats": [
+      {
+        "format_name": "notice",
+        "structure": "NOTICE (heading — centered, capital) | Name of organisation/school | Date | Subject/Title of notice (underlined) | Body — what, who, when, where (2-3 sentences) | Name and Designation of issuing authority",
+        "word_limit": "50-80 words",
+        "tip": "Box format mein likhna highly recommended. NOTICE heading hamesha capital mein.",
+        "frequently_asked_topics": []
+      },
+      {
+        "format_name": "advertisement",
+        "structure": "Catchy headline (bold/capital) | Product/Service details | Key features (3-4 bullet points) | Price if applicable | Contact details — phone/address | Box format",
+        "word_limit": "50-80 words",
+        "tip": "Classified ad chhota aur to-the-point hona chahiye. Contact details compulsory hain.",
+        "frequently_asked_topics": []
+      },
+      {
+        "format_name": "formal letter",
+        "structure": "Sender's address (right side) | Date | Receiver's address/designation (left side) | Subject (underlined) | Salutation — Sir/Madam | Body — 3 paragraphs (reason/problem/request) | Complimentary close — Yours faithfully | Signature + Full name",
+        "word_limit": "120-150 words",
+        "tip": "Subject line hamesha likhna zaroori hai. 'Yours faithfully' for formal, 'Yours sincerely' for semi-formal.",
+        "frequently_asked_topics": []
+      },
+      {
+        "format_name": "informal letter",
+        "structure": "Sender's address | Date | Salutation — Dear [Name] | Body — personal tone, 2-3 paragraphs | Complimentary close — Yours affectionately/Yours lovingly | Signature",
+        "word_limit": "120-150 words",
+        "tip": "Informal letter mein casual, friendly tone. No subject line needed.",
+        "frequently_asked_topics": []
+      },
+      {
+        "format_name": "newspaper report",
+        "structure": "Headline (bold, striking) | Dateline — Place, Date (e.g., Bhopal, April 14) | Byline — By [Reporter Name] (optional) | Lead paragraph — 5W+1H (what/where/when/who/why/how) | Body — details, quotes, aftermath | Concluding line",
+        "word_limit": "120 words",
+        "tip": "Report mein third person likhna zaroori hai — 'I was there' nahi likhna. Passive voice aur past tense use karo.",
+        "frequently_asked_topics": []
+      },
+      {
+        "format_name": "paragraph essay",
+        "structure": "Introduction — topic sentence (1-2 lines) | Body — 3-4 supporting points | Conclusion — summarising statement",
+        "word_limit": "120 words",
+        "tip": "Word limit strictly 120 words. Introduction aur conclusion hamesha likhna zaroori hai.",
+        "frequently_asked_topics": []
+      }
+    ]
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "English has no practical exam. Internal assessment (20 marks) covers projects/assignments.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Easy-Medium",
+    "note": "",
+    "easy_percent": 45,
+    "medium_percent": 40,
+    "hard_percent": 15,
+    "most_scoring_sections": [
+      "Q1 (unseen passage MCQs)",
+      "Q6 (fill blanks with options)",
+      "Q8 (extract MCQs)",
+      "Q9 (extract MCQs)"
+    ],
+    "most_difficult_sections": [
+      "Q2 (note making format)",
+      "Q7 (grammar transformations)",
+      "Q13 (75-word long answers)"
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Section D mein 44 marks hain — yahaan sabse zyaada time do",
+      "Q10 mein 7 mein se 5 — pehle saare 7 padho, jinke jawab pakke pata hain unhe select karo",
+      "Extract questions (Q8, Q9) mein extract se hi answer milta hai — chapter yaad na ho tab bhi attempt karo",
+      "Grammar Q6 aur Q7 mein 6 mein se 5 — sabse mushkil wala skip karo",
+      "Writing Section (B) mein format marks alag hote hain — format galat mat karo",
+      "Note Making (Q2) mein complete sentences mat likhna — bullet points only",
+      "Letter mein address, date, subject, salutation, closing — sab likhna zaroori hai",
+      "Long answers (Q13, Q14, Q15) mein word limit 75 words — count karke rakho",
+      "Unseen passage (Q1) carefully padhne se 10 marks almost pakke hain",
+      "NCERT ke chapter summaries aur character sketches yaad karo",
+      "Previous year papers solve karo — same question types repeat hote hain",
+      "Set number cover page pe likhna mat bhoolna"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "section_A_Q1_Q2",
+        "recommended_minutes": 30,
+        "note": "30 min — Q1 passage carefully padhke 10 MCQ. Q2 note making format carefully."
+      },
+      {
+        "section_id": "section_B_Q3_Q4_Q5",
+        "recommended_minutes": 35,
+        "note": "35 min — Formats prepare karke rakho. Content 5-7 min per question."
+      },
+      {
+        "section_id": "section_C_Q6_Q7",
+        "recommended_minutes": 20,
+        "note": "20 min — Grammar rules apply karo. Any 5 of 6 — skip the toughest one."
+      },
+      {
+        "section_id": "section_D_Q8_to_Q15",
+        "recommended_minutes": 75,
+        "note": "75 min — Extract questions pehle (Q8, Q9). Phir Q10-Q13 short/long answers."
+      },
+      {
+        "section_id": "revision",
+        "recommended_minutes": 10,
+        "note": "5-10 min — spellings check karo, word limits verify karo"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 26,
+        "strategy": "Section A Q1 MCQs (8-10 marks almost certain if passage read carefully). Grammar Q6 fill blanks (4-5 marks). Section D Q10 easy prose questions (4-6 marks). Total = 16-21 marks easily.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Q1 — Unseen passage MCQs (no chapter prep needed — just read carefully)",
+          "Q6 — Articles, prepositions, modals (basic grammar rules)",
+          "Q10 — The Last Lesson, Deep Water, Indigo (3 easy chapters)",
+          "Q9A — Keeping Quiet, My Mother at Sixty-Six (2 easy poems)"
+        ],
+        "chapters_to_skip_safely": [
+          "Poets and Pancakes (complex)",
+          "The Interview (less frequent)",
+          "Journey to the End of the Earth (complex)"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "40_marks",
+        "target_marks": 40,
+        "strategy": "Section A full (12-14 marks) + Grammar (8-10 marks) + Section D Q8/Q9/Q10 (15-18 marks) = 35-42 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Q1 + Q2 full Section A (practice note making format)",
+          "Q6 + Q7 Grammar (practice transformations daily)",
+          "Q8 — Last Lesson extract (memorise key quotes)",
+          "Q10 — any 5 from prose chapters you know well",
+          "Q11 — Keeping Quiet + My Mother at Sixty-Six"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60_marks",
+        "target_marks": 60,
+        "strategy": "Section A (14) + Section B (8-10) + Grammar (10) + Section D Q8-Q13 (30-35) = 62-69 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Section B — practice letter formats and report writing",
+          "All Flamingo prose chapters — short answers Q10 + Q13",
+          "All Flamingo poems — Q11 + Q14",
+          "Vistas — at least 3 chapters for Q12 + Q15"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping",
+        "target_marks": 80,
+        "strategy": "All 15 questions attempt with full preparation. Section B scoring mein creativity aur vocabulary help karta hai.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Vocabulary — use varied words in writing sections",
+          "All Vistas chapters thoroughly",
+          "Grammar — all transformation patterns",
+          "Long answers — practice writing in 75 words exactly"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "Vocabulary — use varied words in writing sections",
+          "All Vistas chapters thoroughly",
+          "Grammar — all transformation patterns",
+          "Long answers — practice writing in 75 words exactly"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "70% syllabus kaafi hai 50+ marks ke liye",
+      "skip_safely": "Poets and Pancakes — complex chapter, low scoring, The Interview — less frequently asked, Memories of Childhood — optional if short on time, Going Places — light chapter, focus on Sophie's dreams only"
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": [
+      "Poets and Pancakes — complex chapter, low scoring",
+      "The Interview — less frequently asked",
+      "Memories of Childhood — optional if short on time",
+      "Going Places — light chapter, focus on Sophie's dreams only"
+    ]
+  },
+  "internal_assessment": {
+    "total_marks": 20,
+    "note": "20 marks internal assessment school level par diye jaate hain — ye board exam mein nahi hote. Projects, assignments, class participation se milte hain.",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "Flamingo — Class 12 English Core",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Compulsory. Section D ke sare prose/poetry questions isi book se."
+      },
+      {
+        "name": "Vistas — Class 12 English Core (Supplementary)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Compulsory. Q9B, Q12, Q15 isi se aate hain."
+      },
+      {
+        "name": "Pariksha Adhyayan English Class 12",
+        "author": "",
+        "publisher": "Navbodh / Pariksha Adhyayan",
+        "purpose": "Supplementary",
+        "note": "MPBSE specific. PYQs aur model answers. Chapter-wise questions."
+      },
+      {
+        "name": "Previous Year Question Papers 2019-2025",
+        "author": "",
+        "publisher": "MPBSE",
+        "purpose": "Supplementary",
+        "note": "Pattern aur repeated questions samajhne ke liye must solve."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "uniform_compulsory": true,
+    "electronic_devices_allowed": false,
+    "reach_before_minutes": 30,
+    "extra_time_given": false,
+    "extra_time_note": "3 ghante fixed. Bell bajte hi answer sheet submit karni hoti hai.",
+    "timetable_source": "mpbse.nic.in"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "question_number_note: Har answer ke upar clearly Q1, Q2(i) etc. likhna zaroori hai.",
+      "set_number_compulsory: True",
+      "sequence_compulsory: False",
+      "sequence_note: Jo question aasaan lage pehle karo. But clearly number karo.",
+      "word_limit_note: Word limits strictly follow karo — zyaada likhne se time waste hoga, marks nahi badhenge."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Blue pen for main answer, black for headings/underlining."
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

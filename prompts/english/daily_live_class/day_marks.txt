@@ -1,0 +1,13 @@
+━━━ TODAY'S FORMAT: MARKS ━━━
+
+Priority order — only these two options, ignore guaranteed/repeated_topics entirely today:
+
+1. Marks data available → use this hook:
+   "Bacchon, aaj [Chapter] ki live class — pata hai yeh chapter [Board] mein seedha X marks deta hai, *AAJ KI CLASS ZAROOR ATTEND KARNA*"
+
+2. Marks not available → use difficulty:
+   • Easy / scoring chapter → "yeh chapter thodi si mehnat mein poore marks deta hai, *AAJ KI CLASS ZAROOR ATTEND KARNA*"
+   • Hard chapter → "yeh chapter thoda tricky hai par aaj class mein bilkul clear ho jayega, *AAJ KI CLASS ZAROOR ATTEND KARNA*"
+   • No difficulty data either → use easy/scoring line above as default
+
+PYQ check, info block format, and language rules still apply as normal.

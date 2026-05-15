@@ -1,0 +1,1877 @@
+{
+  "board": "RBSE",
+  "class": "12",
+  "subject": "Physics (Bhautik Vigyan)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 56,
+    "practical_paper": 30,
+    "internal_assessment": 14,
+    "total": 100,
+    "passing_marks_theory": 20,
+    "passing_marks_practical": 10,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": true,
+    "extra_time_note": "Haan — 15 minute reading time milta hai. Is time mein sirf paper padho, rough work ya answers likhna allowed nahi.",
+    "internal_assessment_note": "Theory mein 56 mein se kam se kam 20 aur practical mein 30 mein se 10 marks laane zaroori hain. Dono mein alag-alag pass karna hoga."
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 52,
+    "total_questions_to_attempt": 52,
+    "total_objective_questions": 37,
+    "total_sets": 0,
+    "sets_note": "RBSE mein usually multiple sets hote hain. Har set mein same questions hote hain, sirf order alag hota hai.",
+    "sets_same_or_different": "",
+    "language_of_attempt": "Hindi ya English dono mein attempt kar sakte hain. Mixed bhi allowed hai.",
+    "all_compulsory_note": "Section C (Long Answer) aur Section D (Essay) mein internal choice (OR option) milta hai.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "RBSE ka syllabus NCERT par based hai lekin RBSE ke specific patterns, previous year questions aur SP Examination Idea jaise reference books bhi zaroori hain.",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [
+      "NCERT Physics Part I",
+      "NCERT Physics Part II"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "Official RBSE website se download karo — rajeduboard.rajasthan.gov.in > Books/Old Papers/Model Questions > Model Papers 2026.",
+      "question_bank": "SP Examination Idea Physics (Science Publications, Jaipur) — RBSE ke liye sabse popular reference book. Chapter-wise MCQs, Short and Long Q hain.",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": "Pichhle 5-7 saalo ke papers solve karo. Same question types repeat hote hain."
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "RBSE Class 12 Physics paper mein 6 types ke questions aate hain — MCQ (0.5), Fill Blank (0.5), Very Short (1), Short (1.5), Long (3), Essay (4).",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (Bahuvikalpiy Prashna)",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 0.5,
+        "total_in_paper": 18,
+        "attempt": 18,
+        "negative_marking": false,
+        "how_to_attempt": "Sirf correct option ka letter (a)/(b)/(c)/(d) likhna hota hai. Koi explanation nahi chahiye. 0.5 mark ke liye zyaada time mat lgao.",
+        "mostly_from": "Har chapter se aate hain — definitions, units, dimensions, formulas, device names, properties. Chapter 14 (Semiconductors) se sabse zyaada MCQs.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Fill in the Blanks (Rikt Sthan Bhariye)",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 0.5,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "Ek word ya ek formula likhna hota hai. SI unit, dimensional formula, specific values.",
+        "mostly_from": "SI units, formulas, constants (e = 1.6×10⁻¹⁹ C), device characteristics.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Very Short Answer (Ati Laghu Uttariy)",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 9,
+        "attempt": 9,
+        "negative_marking": false,
+        "how_to_attempt": "Definition, law statement, ya ek-do sentence mein answer. Formula bhi likh sakte ho.",
+        "mostly_from": "Definitions (Gauss's law, Faraday's law, Bohr postulates), conditions (TIR conditions, resonance), simple numerical answers.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "1-2 lines",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer (Laghu Uttariy)",
+        "question_number": "",
+        "section": "B",
+        "marks_each": 1.5,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "Short reasoning questions, small derivations, easy numericals, comparisons. 1.5 marks = 1 mark concept/law + 0.5 mark formula/diagram.",
+        "mostly_from": "All chapters — law with formula, numerical (1 step), comparison questions, small diagram questions.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "40-60 words / 4-6 lines",
+        "notes": ""
+      },
+      {
+        "type": "Long Answer (Dirgha Uttariy)",
+        "question_number": "",
+        "section": "C",
+        "marks_each": 3,
+        "total_in_paper": 3,
+        "attempt": 3,
+        "negative_marking": false,
+        "how_to_attempt": "Full derivation with diagram. Diagram = 1 mark (usually). Steps numbered. Final result boxed. 3 marks = diagram (1) + steps (1.5) + result (0.5).",
+        "mostly_from": "Standard derivations — Gauss's law applications, Biot-Savart, potentiometer, lens/mirror formula, AC circuits.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "100-150 words",
+        "notes": ""
+      },
+      {
+        "type": "Essay / Very Long Answer (Nibandhatmak)",
+        "question_number": "",
+        "section": "D",
+        "marks_each": 4,
+        "total_in_paper": 1,
+        "attempt": 1,
+        "negative_marking": false,
+        "how_to_attempt": "Biggest derivation of the paper. Diagram compulsory. Detailed explanation. 4 marks = diagram (1) + derivation steps (2) + result + application (1).",
+        "mostly_from": "High-weightage derivations — Moving Charges and Magnetism (most frequent for 4-mark), AC circuits, Optics derivations.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "150-200 words",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "RBSE Physics theory paper = 56 marks. 4 sections. 52 questions total. Duration: 3 hours 15 minutes (15 min reading time extra).",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Section C (Long Answer) aur Section D (Essay) mein internal choice (OR option) milta hai.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 35,
+      "medium_percent": 45,
+      "hard_percent": 20,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Objective (MCQ + Fill Blanks + Very Short Answer)",
+        "type": "MCQ (18) + Fill Blanks (10) + Very Short Answer (9)",
+        "question_numbers": "",
+        "total_questions": 37,
+        "total_sub_questions": 0,
+        "attempt_required": 37,
+        "marks_per_question": 0,
+        "total_marks": 23,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": "Sare 37 attempt karne hain. Koi choice nahi. MCQ and fill blanks = 0.5 mark — sirf option/word likhna hai."
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Short Answer",
+        "type": "Short Answer",
+        "question_numbers": "",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 1.5,
+        "total_marks": 15,
+        "word_limit": "",
+        "breakdown": "10 short answer questions × 1.5 marks each = 15 marks",
+        "notes": "Sare 10 attempt karne hain. 4-6 lines mein answer. Formula + 1-2 steps + answer."
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Long Answer",
+        "type": "Long Answer",
+        "question_numbers": "",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "attempt_required": 3,
+        "marks_per_question": 3,
+        "total_marks": 9,
+        "word_limit": "",
+        "breakdown": "3 long answer questions × 3 marks each = 9 marks. Internal OR choice milta hai.",
+        "notes": "3 questions, har ek mein OR choice. Diagram banana zaroori hai — diagram = 1 mark."
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Essay / Very Long Answer",
+        "type": "Essay / Very Long Answer",
+        "question_numbers": "",
+        "total_questions": 1,
+        "total_sub_questions": 0,
+        "attempt_required": 1,
+        "marks_per_question": 4,
+        "total_marks": 4,
+        "word_limit": "",
+        "breakdown": "1 essay type question × 4 marks = 4 marks. Internal OR choice milta hai.",
+        "notes": "1 question, OR choice milti hai. Biggest derivation of paper. Diagram aur complete steps zaroori."
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 56,
+    "total_practical": 30,
+    "internal_assessment": 14,
+    "grand_total": 100,
+    "marks_summary_note": "A(23) + B(15) + C(9) + D(4) = ~51 theory + 30 practical + 14 sessional = 100 (exact breakup varies year to year)",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Objective (MCQ + Fill Blanks + Very Short Answer)",
+        "question_numbers": "",
+        "type": "MCQ (18) + Fill Blanks (10) + Very Short Answer (9)",
+        "total_questions": 37,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 23,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Short Answer",
+        "question_numbers": "",
+        "type": "Short Answer",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 1.5,
+        "total_marks": 15,
+        "word_limit": "",
+        "breakdown": "10 short answer questions × 1.5 marks each = 15 marks"
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Long Answer",
+        "question_numbers": "",
+        "type": "Long Answer",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 9,
+        "word_limit": "",
+        "breakdown": "3 long answer questions × 3 marks each = 9 marks. Internal OR choice milta hai."
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Essay / Very Long Answer",
+        "question_numbers": "",
+        "type": "Essay / Very Long Answer",
+        "total_questions": 1,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 4,
+        "word_limit": "",
+        "breakdown": "1 essay type question × 4 marks = 4 marks. Internal OR choice milta hai."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "RBSE Physics unit-wise blueprint (9 units, 14 chapters).",
+    "total_theory_marks": 56,
+    "objective_percent": 41,
+    "subjective_percent": 59,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "9",
+      "name": "Ray Optics and Optical Instruments",
+      "marks": 7,
+      "note": "Highest-weightage chapter within highest-weightage unit (Optics, 12 marks)"
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "8",
+        "name": "Electromagnetic Waves",
+        "marks": 2
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Sthir Vaidyutiki (Electrostatics)",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Chapters: 1. Vidyut Aavesh tatha Kshetra (Electric Charges and Fields); 2. Sthir Vidyut Vibhav tatha Dharita (Electrostatic Potential and Capacitance)"
+      },
+      {
+        "chapter_id": "2",
+        "name": "Vidyut Dhara (Current Electricity)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Chapters: 3. Vidyut Dhara (Current Electricity)"
+      },
+      {
+        "chapter_id": "3",
+        "name": "Vidyut Dhara ke Chumbakiy Prabhav evam Chumbaktva",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Chapters: 4. Gatiman Aavesh aur Chumbaktva (Moving Charges and Magnetism); 5. Chumbaktva evam Dravya (Magnetism and Matter)"
+      },
+      {
+        "chapter_id": "4",
+        "name": "Vidyut Chumbakiy Prerana evam Pratyavarti Dhara",
+        "marks": 9,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Chapters: 6. Vidyut Chumbakiy Prerana (Electromagnetic Induction); 7. Pratyavarti Dhara (Alternating Current)"
+      },
+      {
+        "chapter_id": "5",
+        "name": "Vaidyutchumbakiy Tarangein (Electromagnetic Waves)",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Chapters: 8. Vaidyutchumbakiy Tarangein (Electromagnetic Waves)"
+      },
+      {
+        "chapter_id": "6",
+        "name": "Prakash (Optics)",
+        "marks": 12,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Chapters: 9. Kiran Prakashiki evam Prakashik Yantra (Ray Optics and Optical Instruments); 10. Tarang Prakashiki (Wave Optics)"
+      },
+      {
+        "chapter_id": "7",
+        "name": "Vikiran tatha Dravya ki Dvait Prakriti",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Chapters: 11. Vikiran tatha Dravya ki Dvait Prakriti (Dual Nature of Radiation and Matter)"
+      },
+      {
+        "chapter_id": "8",
+        "name": "Paramanu tatha Nabhik (Atoms and Nuclei)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Chapters: 12. Paramanu (Atoms); 13. Nabhik (Nuclei)"
+      },
+      {
+        "chapter_id": "9",
+        "name": "Ilektraanik Yuktiyaan (Electronic Devices)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Chapters: 14. Ardhachalak Ilektroniky — Padarth, Yuktiyaan tatha Saral Paripth (Semiconductor Electronics)"
+      }
+    ],
+    "totals": {
+      "total_marks": 56,
+      "one_mark_questions": 28,
+      "two_mark_total": 15,
+      "three_mark_total": 9,
+      "four_mark_total": 4,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "RBSE Physics Class 12 — 14 chapters across 9 units.",
+    "books": [
+      {
+        "book_name": "NCERT Physics Part I & Part II",
+        "category": "chapter",
+        "total_marks": 56,
+        "note": "RBSE syllabus is NCERT-based with Hindi + English chapter titles.",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Vidyut Aavesh tatha Kshetra (Electric Charges and Fields)",
+            "marks": 4,
+            "topics": [
+              "Properties of Charge — Conservation, Quantization, Additivity",
+              "Coulomb’s Law",
+              "Electric Field — Due to Point Charge and Dipole",
+              "Electric Field Lines",
+              "Gauss’s Law and its Applications — Infinite Line Charge, Plane Sheet, Spherical Shell",
+              "Electric Dipole — Dipole Moment, Field on Axial and Equatorial Positions"
+            ],
+            "note": "Unit: Sthir Vaidyutiki (Electrostatics) | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "2",
+            "name": "Sthir Vidyut Vibhav tatha Dharita (Electrostatic Potential and Capacitance)",
+            "marks": 3,
+            "topics": [
+              "Electric Potential — Due to Point Charge and Dipole",
+              "Equipotential Surfaces — Properties",
+              "Capacitance — Parallel Plate Capacitor",
+              "Dielectrics and Polarization",
+              "Combination of Capacitors — Series and Parallel",
+              "Energy Stored in a Capacitor"
+            ],
+            "note": "Unit: Sthir Vaidyutiki (Electrostatics) | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "3",
+            "name": "Vidyut Dhara (Current Electricity)",
+            "marks": 3,
+            "topics": [
+              "Ohm’s Law — V = IR",
+              "Resistivity and Conductivity",
+              "Drift Velocity — I = nAev_d",
+              "EMF and Internal Resistance",
+              "Kirchhoff’s Laws — KCL, KVL",
+              "Wheatstone Bridge",
+              "Meter Bridge",
+              "Potentiometer — Comparison of EMF"
+            ],
+            "note": "Unit: Vidyut Dhara (Current Electricity) | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "4",
+            "name": "Gatiman Aavesh aur Chumbaktva (Moving Charges and Magnetism)",
+            "marks": 5,
+            "topics": [
+              "Lorentz Force",
+              "Biot–Savart Law",
+              "Ampere’s Circuital Law",
+              "Magnetic Field at the Centre of Circular Loop",
+              "Solenoid and Toroid",
+              "Cyclotron",
+              "Moving Coil Galvanometer",
+              "Force Between Two Parallel Current-Carrying Conductors"
+            ],
+            "note": "Unit: Vidyut Dhara ke Chumbakiy Prabhav evam Chumbaktva | Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "5",
+            "name": "Chumbaktva evam Dravya (Magnetism and Matter)",
+            "marks": 3,
+            "topics": [
+              "Magnetic Dipole Moment",
+              "Magnetic Field Lines",
+              "Diamagnetic, Paramagnetic, Ferromagnetic Substances",
+              "Magnetization, Magnetic Susceptibility, Magnetic Intensity",
+              "Hysteresis Curve"
+            ],
+            "note": "Unit: Vidyut Dhara ke Chumbakiy Prabhav evam Chumbaktva | Difficulty: Easy"
+          },
+          {
+            "chapter_id": "6",
+            "name": "Vidyut Chumbakiy Prerana (Electromagnetic Induction)",
+            "marks": 4,
+            "topics": [
+              "फैराडे के विद्युत-चुम्बकीय प्रेरण के नियम",
+              "लेंज का नियम",
+              "प्रेरित EMF — गतिशील चालक",
+              "स्व-प्रेरण और अन्योन्य प्रेरण",
+              "AC जनित्र (generator)"
+            ],
+            "note": "Unit: Vidyut Chumbakiy Prerana evam Pratyavarti Dhara | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "7",
+            "name": "Pratyavarti Dhara (Alternating Current)",
+            "marks": 5,
+            "topics": [
+              "AC का वर्ग माध्य मूल (rms) मान",
+              "AC परिपथ — R, L, C अलग-अलग",
+              "LCR श्रेणी परिपथ",
+              "अनुनाद",
+              "शक्ति गुणांक",
+              "ट्रांसफॉर्मर"
+            ],
+            "note": "Unit: Vidyut Chumbakiy Prerana evam Pratyavarti Dhara | Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "8",
+            "name": "Vaidyutchumbakiy Tarangein (Electromagnetic Waves)",
+            "marks": 2,
+            "topics": [
+              "EM तरंगें — विशेषताएं",
+              "EM स्पेक्ट्रम — रेडियो, माइक्रोवेव, IR, दृश्य, UV, X-ray, Gamma",
+              "प्रत्येक का उपयोग और तरंगदैर्ध्य",
+              "EM तरंगों की गति c = 3 × 10⁸ m/s"
+            ],
+            "note": "Unit: Vaidyutchumbakiy Tarangein (Electromagnetic Waves) | Difficulty: Easy"
+          },
+          {
+            "chapter_id": "9",
+            "name": "Kiran Prakashiki evam Prakashik Yantra (Ray Optics and Optical Instruments)",
+            "marks": 7,
+            "topics": [
+              "Reflection — Spherical Mirrors",
+              "Refraction — Snell’s Law",
+              "Total Internal Reflection (TIR) — Critical Angle",
+              "Lenses — Convex and Concave",
+              "Lens Maker’s Formula",
+              "Refraction through Prism — Angle of Deviation",
+              "Optical Instruments — Simple and Compound Microscope, Telescope"
+            ],
+            "note": "Unit: Prakash (Optics) | Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "10",
+            "name": "Tarang Prakashiki (Wave Optics)",
+            "marks": 5,
+            "topics": [
+              "Huygens' Principle",
+              "Interference — Young’s Double Slit Experiment (YDSE)",
+              "Diffraction — Single Slit",
+              "Polarization — Brewster’s Law, Malus’ Law"
+            ],
+            "note": "Unit: Prakash (Optics) | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "11",
+            "name": "Vikiran tatha Dravya ki Dvait Prakriti (Dual Nature of Radiation and Matter)",
+            "marks": 4,
+            "topics": [
+              "Photoelectric Effect",
+              "Einstein’s Photoelectric Equation: KE_max = hν − φ",
+              "Photon — Energy E = hν, Momentum p = h/λ",
+              "Matter Waves — de Broglie Wavelength: λ = h/mv"
+            ],
+            "note": "Unit: Vikiran tatha Dravya ki Dvait Prakriti | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "12",
+            "name": "Paramanu (Atoms)",
+            "marks": 3,
+            "topics": [
+              "Thomson Model, Rutherford Model",
+              "Bohr’s Atomic Model — Postulates",
+              "Bohr Radius and Energy Formulas",
+              "Hydrogen Spectrum — Series"
+            ],
+            "note": "Unit: Paramanu tatha Nabhik (Atoms and Nuclei) | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "13",
+            "name": "Nabhik (Nuclei)",
+            "marks": 3,
+            "topics": [
+              "Nuclear Force — Properties",
+              "Binding Energy and Mass Defect",
+              "Radioactivity — Alpha, Beta, Gamma Decay",
+              "Half-life and Decay Law",
+              "Nuclear Fission and Fusion"
+            ],
+            "note": "Unit: Paramanu tatha Nabhik (Atoms and Nuclei) | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "14",
+            "name": "Ardhachalak Ilektroniky — Padarth, Yuktiyaan tatha Saral Paripth (Semiconductor Electronics)",
+            "marks": 5,
+            "topics": [
+              "Energy Band Theory — Conductors, Semiconductors, Insulators",
+              "Intrinsic and Extrinsic Semiconductors",
+              "n-type and p-type Semiconductors",
+              "p–n Junction Diode — Forward Bias and Reverse Bias",
+              "Rectifiers — Half-wave and Full-wave",
+              "Zener Diode — Voltage Regulator",
+              "BJT Transistor — CB, CE, CC Configurations",
+              "Logic Gates — AND, OR, NOT, NAND, NOR"
+            ],
+            "note": "Unit: Ilektraanik Yuktiyaan (Electronic Devices) | Difficulty: Easy-Medium"
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Vidyut Aavesh tatha Kshetra (Electric Charges and Fields)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Sthir Vaidyutiki (Electrostatics)",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Properties of Charge — Conservation, Quantization, Additivity",
+        "Coulomb’s Law",
+        "Electric Field — Due to Point Charge and Dipole",
+        "Electric Field Lines",
+        "Gauss’s Law and its Applications — Infinite Line Charge, Plane Sheet, Spherical Shell",
+        "Electric Dipole — Dipole Moment, Field on Axial and Equatorial Positions"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Gauss’s Theorem — Proof",
+        "Electric Field due to an Infinite Long Charged Wire",
+        "Electric Field due to a Charged Plane Sheet",
+        "Electric Field due to a Charged Spherical Shell (Outside, Inside, On Surface)",
+        "Electric Field of a Dipole on Axial and Equatorial Points"
+      ],
+      "important_diagrams": [
+        "Gaussian spherical surface",
+        "Dipole field lines",
+        "E vs r graph for spherical shell"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Gauss's law applications (long answer), Coulomb's law vs Gauss's law (short), charge properties (MCQ)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Sthir Vidyut Vibhav tatha Dharita (Electrostatic Potential and Capacitance)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Sthir Vaidyutiki (Electrostatics)",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Electric Potential — Due to Point Charge and Dipole",
+        "Equipotential Surfaces — Properties",
+        "Capacitance — Parallel Plate Capacitor",
+        "Dielectrics and Polarization",
+        "Combination of Capacitors — Series and Parallel",
+        "Energy Stored in a Capacitor"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Parallel Plate Capacitor: C = ε₀A/d",
+        "Series and Parallel Combination of Capacitors",
+        "Energy Stored in a Capacitor: U = ½CV²",
+        "Capacitance in Dielectric Medium: C = Kε₀A/d"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Capacitor derivations (long answer), equipotential surface properties (short/MCQ)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Vidyut Dhara (Current Electricity)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 2,
+      "unit_name": "Vidyut Dhara (Current Electricity)",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Ohm’s Law — V = IR",
+        "Resistivity and Conductivity",
+        "Drift Velocity — I = nAev_d",
+        "EMF and Internal Resistance",
+        "Kirchhoff’s Laws — KCL, KVL",
+        "Wheatstone Bridge",
+        "Meter Bridge",
+        "Potentiometer — Comparison of EMF"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "I = nAev_d (Drift Velocity Formula)",
+        "Wheatstone Bridge Balance Condition: P/Q = R/S",
+        "Meter Bridge: R = S(100-L)/L",
+        "Potentiometer: E₁/E₂ = l₁/l₂"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Meter bridge numerical (short answer/long), Kirchhoff's laws (short), drift velocity derivation",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Gatiman Aavesh aur Chumbaktva (Moving Charges and Magnetism)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "Vidyut Dhara ke Chumbakiy Prabhav evam Chumbaktva",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": true,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "RBSE blueprint के अनुसार Section D (4-mark essay) Moving Charges and Magnetism से आता है।",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Lorentz Force",
+        "Biot–Savart Law",
+        "Ampere’s Circuital Law",
+        "Magnetic Field at the Centre of Circular Loop",
+        "Solenoid and Toroid",
+        "Cyclotron",
+        "Moving Coil Galvanometer",
+        "Force Between Two Parallel Current-Carrying Conductors"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Magnetic Field at the Centre of Circular Loop: B = μ₀I/2r",
+        "Magnetic Field Inside Solenoid: B = μ₀nI",
+        "Cyclotron Frequency: f = qB/2πm",
+        "Force Between Two Parallel Conductors: F/l = μ₀I₁I₂/2πd",
+        "Torque on Rectangular Current Loop: τ = nBIA sinα",
+        "Moving Coil Galvanometer"
+      ],
+      "important_diagrams": [
+        "Cyclotron",
+        "Moving coil galvanometer",
+        "Solenoid B-field"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Cyclotron (long answer), galvanometer to ammeter/voltmeter conversion (short), Biot-Savart derivation",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Chumbaktva evam Dravya (Magnetism and Matter)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "Vidyut Dhara ke Chumbakiy Prabhav evam Chumbaktva",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Magnetic Dipole Moment",
+        "Magnetic Field Lines",
+        "Diamagnetic, Paramagnetic, Ferromagnetic Substances",
+        "Magnetization, Magnetic Susceptibility, Magnetic Intensity",
+        "Hysteresis Curve"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Dia/Para/Ferro table (MCQ, fill blank, short answer), Hysteresis loop (diagram)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Vidyut Chumbakiy Prerana (Electromagnetic Induction)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 4,
+      "unit_name": "Vidyut Chumbakiy Prerana evam Pratyavarti Dhara",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "फैराडे के विद्युत-चुम्बकीय प्रेरण के नियम",
+        "लेंज का नियम",
+        "प्रेरित EMF — गतिशील चालक",
+        "स्व-प्रेरण और अन्योन्य प्रेरण",
+        "AC जनित्र (generator)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "e = -dΦ/dt (फैराडे का नियम)",
+        "L = μ₀n²Al (परिनालिका का स्व-प्रेरकत्व)",
+        "AC जनित्र का सिद्धांत और EMF: e = e₀sinωt"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "AC generator diagram and derivation (long), Faraday's laws (short/VSA), Lenz's law applications",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Pratyavarti Dhara (Alternating Current)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 4,
+      "unit_name": "Vidyut Chumbakiy Prerana evam Pratyavarti Dhara",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "AC का वर्ग माध्य मूल (rms) मान",
+        "AC परिपथ — R, L, C अलग-अलग",
+        "LCR श्रेणी परिपथ",
+        "अनुनाद",
+        "शक्ति गुणांक",
+        "ट्रांसफॉर्मर"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "V_rms = V₀/√2",
+        "LCR श्रेणी परिपथ: Z = √(R² + (X_L - X_C)²)",
+        "अनुनाद आवृत्ति: f₀ = 1/(2π√LC)",
+        "ट्रांसफॉर्मर: N₁/N₂ = V₁/V₂ = I₂/I₁"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "LCR circuit numerical (long/short), Transformer derivation, resonance frequency (VSA/MCQ)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Vaidyutchumbakiy Tarangein (Electromagnetic Waves)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 5,
+      "unit_name": "Vaidyutchumbakiy Tarangein (Electromagnetic Waves)",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "EM तरंगें — विशेषताएं",
+        "EM स्पेक्ट्रम — रेडियो, माइक्रोवेव, IR, दृश्य, UV, X-ray, Gamma",
+        "प्रत्येक का उपयोग और तरंगदैर्ध्य",
+        "EM तरंगों की गति c = 3 × 10⁸ m/s"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "EM spectrum table (MCQ/Fill blank), properties of EM waves (VSA), uses of each wave (short answer)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Kiran Prakashiki evam Prakashik Yantra (Ray Optics and Optical Instruments)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 6,
+      "unit_name": "Prakash (Optics)",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Reflection — Spherical Mirrors",
+        "Refraction — Snell’s Law",
+        "Total Internal Reflection (TIR) — Critical Angle",
+        "Lenses — Convex and Concave",
+        "Lens Maker’s Formula",
+        "Refraction through Prism — Angle of Deviation",
+        "Optical Instruments — Simple and Compound Microscope, Telescope"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Mirror Formula: 1/v + 1/u = 1/f",
+        "Refraction at Spherical Surface",
+        "Lens Maker’s Formula: 1/f = (μ-1)(1/R₁ - 1/R₂)",
+        "Prism Deviation: μ = sin((A+Dm)/2) / sin(A/2)",
+        "Magnification of Compound Microscope: m = m₀ × me",
+        "Magnification of Astronomical Telescope: m = f₀/fe"
+      ],
+      "important_diagrams": [
+        "Compound microscope",
+        "Astronomical telescope",
+        "Prism deviation",
+        "TIR diagram"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Lens-maker's formula (long answer), prism formula (long), TIR conditions (VSA), telescope magnification (short)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Tarang Prakashiki (Wave Optics)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 6,
+      "unit_name": "Prakash (Optics)",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Huygens' Principle",
+        "Interference — Young’s Double Slit Experiment (YDSE)",
+        "Diffraction — Single Slit",
+        "Polarization — Brewster’s Law, Malus’ Law"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "YDSE — Fringe Width: β = λD/d",
+        "Single Slit Diffraction — Width of Central Maximum",
+        "Brewster’s Law: tan i_B = μ"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "YDSE fringe width derivation (long answer), YDSE numerical (short), polarisation by reflection (short)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Vikiran tatha Dravya ki Dvait Prakriti (Dual Nature of Radiation and Matter)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 7,
+      "unit_name": "Vikiran tatha Dravya ki Dvait Prakriti",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": true,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Photoelectric Effect",
+        "Einstein’s Photoelectric Equation: KE_max = hν − φ",
+        "Photon — Energy E = hν, Momentum p = h/λ",
+        "Matter Waves — de Broglie Wavelength: λ = h/mv"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "Einstein's photoelectric equation",
+        "de Broglie wavelength: λ = h/mv = h/√(2mEk)"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Photoelectric effect explanation (long/short), photoelectric numerical (short), de Broglie numerical (short/long)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "Paramanu (Atoms)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 8,
+      "unit_name": "Paramanu tatha Nabhik (Atoms and Nuclei)",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Thomson Model, Rutherford Model",
+        "Bohr’s Atomic Model — Postulates",
+        "Bohr Radius and Energy Formulas",
+        "Hydrogen Spectrum — Series"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Bohr radius: r_n = 0.529n² Å",
+        "Energy of nth orbit: E_n = -13.6/n² eV",
+        "Frequency of spectral line: 1/λ = R(1/n₁² - 1/n₂²)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Bohr postulates (VSA/short), energy level numerical (short), hydrogen spectrum series (MCQ/fill blank)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "Nabhik (Nuclei)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 8,
+      "unit_name": "Paramanu tatha Nabhik (Atoms and Nuclei)",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Nuclear Force — Properties",
+        "Binding Energy and Mass Defect",
+        "Radioactivity — Alpha, Beta, Gamma Decay",
+        "Half-life and Decay Law",
+        "Nuclear Fission and Fusion"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "T₁/₂ = 0.693/λ",
+        "N = N₀e^(-λt)",
+        "Binding Energy per nucleon"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Radioactive decay law (short/long), half-life numerical (short), nuclear fission vs fusion (short/MCQ)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "Ardhachalak Ilektroniky — Padarth, Yuktiyaan tatha Saral Paripth (Semiconductor Electronics)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Physics Part I & Part II",
+      "unit_id": 9,
+      "unit_name": "Ilektraanik Yuktiyaan (Electronic Devices)",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "Section A में सबसे ज़्यादा MCQs Chapter 14 से आते हैं।",
+      "important_topics": [
+        "Energy Band Theory — Conductors, Semiconductors, Insulators",
+        "Intrinsic and Extrinsic Semiconductors",
+        "n-type and p-type Semiconductors",
+        "p–n Junction Diode — Forward Bias and Reverse Bias",
+        "Rectifiers — Half-wave and Full-wave",
+        "Zener Diode — Voltage Regulator",
+        "BJT Transistor — CB, CE, CC Configurations",
+        "Logic Gates — AND, OR, NOT, NAND, NOR"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "p-n junction formation",
+        "V-I characteristics of diode",
+        "Full wave rectifier circuit",
+        "Zener diode as voltage regulator",
+        "Transistor CE configuration",
+        "Logic gate truth tables and symbols"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "p-n junction V-I characteristics (long), rectifier circuit (short/long), logic gates truth table (MCQ/short), Zener diode (short)",
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "RBSE Physics — 14 chapters across 9 units. Optics (Unit 6) is highest-weightage (12 marks).",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "Blueprint covers all units. High-weightage chapters especially must not be skipped.",
+    "or_questions_note": "Internal OR choice in Section C and Section D.",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Ch 4 - Gatiman Aavesh aur Chumbaktva (Moving Charges and Magnetism)",
+      "Ch 9 - Kiran Prakashiki evam Prakashik Yantra (Ray Optics and Optical Instruments)",
+      "Ch 7 - Pratyavarti Dhara (Alternating Current)",
+      "Ch 14 - Ardhachalak Ilektroniky — Padarth, Yuktiyaan tatha Saral Paripth (Semiconductor Electronics)",
+      "Ch 1 - Vidyut Aavesh tatha Kshetra (Electric Charges and Fields)",
+      "Ch 3 - Vidyut Dhara (Current Electricity)"
+    ],
+    "chapters_never_skip_reason": "Unit 6 — Optics (12 marks: Ch 9 = 7 marks + Ch 10 = 5 marks)",
+    "chapters_with_highest_weightage": [
+      "Unit 6 — Optics (12 marks: Ch 9 = 7 marks + Ch 10 = 5 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "Ch 8 - Vaidyutchumbakiy Tarangein (Electromagnetic Waves) (2 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "Ch 4 - Gatiman Aavesh aur Chumbaktva (Moving Charges and Magnetism)",
+      "Ch 9 - Kiran Prakashiki evam Prakashik Yantra (Ray Optics and Optical Instruments)",
+      "Ch 7 - Pratyavarti Dhara (Alternating Current)",
+      "Ch 14 - Ardhachalak Ilektroniky — Padarth, Yuktiyaan tatha Saral Paripth (Semiconductor Electronics)",
+      "Ch 1 - Vidyut Aavesh tatha Kshetra (Electric Charges and Fields)",
+      "Ch 3 - Vidyut Dhara (Current Electricity)"
+    ],
+    "chapters_mostly_theory": [
+      "Ch 5 - Chumbaktva evam Dravya (Magnetism and Matter)",
+      "Ch 8 - Vaidyutchumbakiy Tarangein (Electromagnetic Waves)"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [
+      "Ch 14 - Ardhachalak Ilektroniky — Padarth, Yuktiyaan tatha Saral Paripth (Semiconductor Electronics)",
+      "Ch 4 - Gatiman Aavesh aur Chumbaktva (Moving Charges and Magnetism)",
+      "Ch 3 - Vidyut Dhara (Current Electricity)",
+      "Ch 1 - Vidyut Aavesh tatha Kshetra (Electric Charges and Fields)",
+      "Ch 12 - Paramanu (Atoms)"
+    ],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [
+      "Ch 3 - Vidyut Dhara (Current Electricity)",
+      "Ch 7 - Pratyavarti Dhara (Alternating Current)",
+      "Ch 9 - Kiran Prakashiki evam Prakashik Yantra (Ray Optics and Optical Instruments)",
+      "Ch 11 - Vikiran tatha Dravya ki Dvait Prakriti (Dual Nature of Radiation and Matter)",
+      "Ch 12 - Paramanu (Atoms)",
+      "Ch 13 - Nabhik (Nuclei)"
+    ],
+    "chapters_guaranteed_numerical": [
+      "Ch 3 - Vidyut Dhara (Current Electricity)",
+      "Ch 7 - Pratyavarti Dhara (Alternating Current)",
+      "Ch 9 - Kiran Prakashiki evam Prakashik Yantra (Ray Optics and Optical Instruments)",
+      "Ch 11 - Vikiran tatha Dravya ki Dvait Prakriti (Dual Nature of Radiation and Matter)",
+      "Ch 12 - Paramanu (Atoms)",
+      "Ch 13 - Nabhik (Nuclei)"
+    ],
+    "chapters_no_numerical": [
+      "Ch 5 - Chumbaktva evam Dravya (Magnetism and Matter)",
+      "Ch 8 - Vaidyutchumbakiy Tarangein (Electromagnetic Waves)"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Gauss's law applications (infinite wire/plane/sphere) (Section C or D, 3-4 marks)",
+      "Cyclotron working + derivation (Section C or D, 3-4 marks)",
+      "LCR circuit / AC numerical (Section B or C, 1.5-3 marks)",
+      "Transformer derivation (Section C, 3 marks)",
+      "Lens-maker's formula derivation (Section C or D, 3-4 marks)",
+      "YDSE fringe width derivation (Section C, 3 marks)",
+      "Photoelectric effect (Einstein's equation) (Section C, 3 marks)",
+      "p-n junction V-I characteristics (Section C, 3 marks)",
+      "Bohr model postulates/numerical (Section A or B, 1-1.5 marks)",
+      "Dia/Para/Ferro properties table (Section A/B, 0.5-1.5 marks)",
+      "Logic gates truth tables (Section A/B, 0.5-1.5 marks)"
+    ],
+    "one_mark_question_facts": {
+      "note": "MCQ/Fill Blank = 0.5 mark each. VSA = 1 mark. Attempt all — no negative marking.",
+      "common_formats": []
+    },
+    "essay_question_D_most_frequent_from": "Ch 4 (Moving Charges and Magnetism) — RBSE blueprint mein Section D 4-mark question typically yahan se aata hai."
+  },
+  "important_diagrams_masterlist": {
+    "note": "Diagram = 1 mark in Section C and D. Must practise.",
+    "must_practise": [
+      {
+        "chapter_id": "1",
+        "chapter_name": "Vidyut Aavesh tatha Kshetra (Electric Charges and Fields)",
+        "diagram_name": "Gaussian spherical surface",
+        "note": ""
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "Vidyut Aavesh tatha Kshetra (Electric Charges and Fields)",
+        "diagram_name": "Dipole field lines",
+        "note": ""
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "Vidyut Aavesh tatha Kshetra (Electric Charges and Fields)",
+        "diagram_name": "E vs r graph for spherical shell",
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Gatiman Aavesh aur Chumbaktva (Moving Charges and Magnetism)",
+        "diagram_name": "Cyclotron",
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Gatiman Aavesh aur Chumbaktva (Moving Charges and Magnetism)",
+        "diagram_name": "Moving coil galvanometer",
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Gatiman Aavesh aur Chumbaktva (Moving Charges and Magnetism)",
+        "diagram_name": "Solenoid B-field",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Kiran Prakashiki evam Prakashik Yantra (Ray Optics and Optical Instruments)",
+        "diagram_name": "Compound microscope",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Kiran Prakashiki evam Prakashik Yantra (Ray Optics and Optical Instruments)",
+        "diagram_name": "Astronomical telescope",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Kiran Prakashiki evam Prakashik Yantra (Ray Optics and Optical Instruments)",
+        "diagram_name": "Prism deviation",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Kiran Prakashiki evam Prakashik Yantra (Ray Optics and Optical Instruments)",
+        "diagram_name": "TIR diagram",
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "chapter_name": "Ardhachalak Ilektroniky — Padarth, Yuktiyaan tatha Saral Paripth (Semiconductor Electronics)",
+        "diagram_name": "p-n junction formation",
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "chapter_name": "Ardhachalak Ilektroniky — Padarth, Yuktiyaan tatha Saral Paripth (Semiconductor Electronics)",
+        "diagram_name": "V-I characteristics of diode",
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "chapter_name": "Ardhachalak Ilektroniky — Padarth, Yuktiyaan tatha Saral Paripth (Semiconductor Electronics)",
+        "diagram_name": "Full wave rectifier circuit",
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "chapter_name": "Ardhachalak Ilektroniky — Padarth, Yuktiyaan tatha Saral Paripth (Semiconductor Electronics)",
+        "diagram_name": "Zener diode as voltage regulator",
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "chapter_name": "Ardhachalak Ilektroniky — Padarth, Yuktiyaan tatha Saral Paripth (Semiconductor Electronics)",
+        "diagram_name": "Transistor CE configuration",
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "chapter_name": "Ardhachalak Ilektroniky — Padarth, Yuktiyaan tatha Saral Paripth (Semiconductor Electronics)",
+        "diagram_name": "Logic gate truth tables and symbols",
+        "note": ""
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Chapter-level important formulas from RBSE physics syllabus.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "12",
+        "chapter_name": "Paramanu (Atoms)",
+        "formulas": [
+          "Bohr radius: r_n = 0.529n² Å",
+          "Energy of nth orbit: E_n = -13.6/n² eV",
+          "Frequency of spectral line: 1/λ = R(1/n₁² - 1/n₂²)"
+        ]
+      },
+      {
+        "chapter_id": "13",
+        "chapter_name": "Nabhik (Nuclei)",
+        "formulas": [
+          "T₁/₂ = 0.693/λ",
+          "N = N₀e^(-λt)",
+          "Binding Energy per nucleon"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Physics",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Physics",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 30,
+    "passing_marks": 10,
+    "practical_exam_separate": true,
+    "practical_exam_note": "Practical 30 marks conducted separately. Separate passing in theory (20/56) and practical (10/30).",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": true,
+    "viva_marks": 10,
+    "individual": true,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [
+      {
+        "name": "Experiments",
+        "marks": 15,
+        "note": ""
+      },
+      {
+        "name": "Activities / Project",
+        "marks": 5,
+        "note": ""
+      },
+      {
+        "name": "Viva Voce",
+        "marks": 10,
+        "note": ""
+      }
+    ],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    },
+    "important_experiments": [
+      "Ohm's law — V vs I graph",
+      "Meter bridge — resistance measurement",
+      "Potentiometer — EMF comparison, internal resistance",
+      "Focal length of concave mirror and convex lens",
+      "Refractive index using prism / glass slab",
+      "Zener diode characteristic curve",
+      "p-n junction diode characteristic (forward + reverse bias)"
+    ]
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 35,
+    "medium_percent": 45,
+    "hard_percent": 20,
+    "most_scoring_sections": [
+      "Easy — agar syllabus thoroughly padha ho toh 18-20 marks pakke",
+      "Easy to Medium — formulas yaad ho toh scoring"
+    ],
+    "most_difficult_sections": [
+      "Medium to Hard — 4-mark essay for highest derivation"
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Reading time mein OR options mein se ek choose karo — dono mat padhna exam time mein",
+      "Section A ke 28 questions (MCQ+Fill blank) = 14 marks — 0.5 mark ke liye zyaada time mat lgao",
+      "Section D ke 4-mark essay ke liye diagram PEHLE banao — 1 mark pakka",
+      "Numerical mein 'Given', 'Formula', 'Substitution', 'Answer with unit' format use karo",
+      "Section C/D mein steps number karo — partial marks milte hain",
+      "Ch 14 ke MCQs poore karke rakho — sabse zyaada aate hain",
+      "EM Waves (Ch 8) = pure theory, scoring, easy — zaroor prepare karo",
+      "No negative marking — sare 52 questions attempt karo, koi bhi mat chhodna",
+      "Set number aur question number clearly likho",
+      "Diagram ke labels English mein likhna OK hai — marks nahi katenge"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "Sirf paper padho — questions samjho, OR mein se kaunsa karoge decide karo."
+      },
+      {
+        "section_id": "section_A_40min",
+        "recommended_minutes": 0,
+        "note": "37 objective questions. MCQ + Fill blank = sirf option/word likhna hai — time waste mat karo."
+      },
+      {
+        "section_id": "section_B_30min",
+        "recommended_minutes": 3,
+        "note": "10 short answers × 3 min each. Formula + steps + answer."
+      },
+      {
+        "section_id": "section_C_30min",
+        "recommended_minutes": 10,
+        "note": "3 long answers × 10 min each. Diagram pehle banao."
+      },
+      {
+        "section_id": "section_D_20min",
+        "recommended_minutes": 0,
+        "note": "1 essay. Biggest derivation. Complete diagram + numbered steps."
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "Units check karo, question numbers verify karo, diagrams labels check karo."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 20,
+        "strategy": "Section A ke MCQ + Fill blanks + VSA mein 15+ marks aasaan hain. Section B se 3-4 easy short answers (4-6 marks). Total = 19-21 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Ch 14 (Semiconductors) — sab MCQs",
+          "Ch 8 (EM Waves) — EM spectrum yaad karo",
+          "Ch 12 (Atoms) — Bohr radius, energy formula",
+          "Ch 5 (Magnetism) — Dia/Para/Ferro table",
+          "Section A completely attempt karo — no negative marking"
+        ],
+        "chapters_to_skip_safely": [
+          "Ch 7 LCR complex numericals",
+          "Ch 9/10 big derivations",
+          "Ch 4 Cyclotron proof"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "35_marks",
+        "target_marks": 35,
+        "strategy": "Section A (18-20) + Section B 5-6 questions (7-9 marks) + Section C 1-2 questions (3-6) = 28-35.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Ch 4 (Moving Charges) — for Section D essay",
+          "Ch 9 (Ray Optics) — lens formula short/long",
+          "Ch 3 (Current Electricity) — meter bridge numerical",
+          "Ch 7 (AC) — transformer short",
+          "Section B sab attempt karo"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45_marks_plus",
+        "target_marks": 45,
+        "strategy": "Section A full (21-23) + Section B full (15) + Section C 2-3 (6-9) + Section D (4) = 46-51.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All major derivations — Gauss's law, Cyclotron, Lens-maker, YDSE, Transformer, AC circuits",
+          "Practice numericals from all chapters",
+          "Diagrams perfect karo — each saves/earns 1 mark in C/D"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping",
+        "target_marks": 50,
+        "strategy": "Sab 52 questions mein maximum marks aao. Section D ka essay perfect + Section C ke 3 derivations perfect.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Section A mein 0.5 mark wale 28 questions — koi bhi mat chhodna",
+          "Numericals with proper steps, units, boxed answers",
+          "Diagrams neat + labelled",
+          "Reading time ka use karo — pehle easiest section se shuru karo"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "Section A mein 0.5 mark wale 28 questions — koi bhi mat chhodna",
+          "Numericals with proper steps, units, boxed answers",
+          "Diagrams neat + labelled",
+          "Reading time ka use karo — pehle easiest section se shuru karo"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 14,
+    "note": "14 marks sessional/internal assessment — school-level (assignments, projects, class tests).",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Physics Class 12 (Part I + II)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Base book. RBSE syllabus NCERT par based hai. All derivations NCERT se hain."
+      },
+      {
+        "name": "Previous Year Papers 2018-2025",
+        "author": "",
+        "publisher": "RBSE",
+        "purpose": "Supplementary",
+        "note": "Official website rajeduboard.rajasthan.gov.in se download karo. Pattern samajhne ke liye must solve."
+      },
+      {
+        "name": "RBSE Model Paper 2026",
+        "author": "",
+        "publisher": "RBSE Official",
+        "purpose": "Supplementary",
+        "note": "Official model paper download link: rajeduboard.rajasthan.gov.in > Books/Old Papers/Model Questions."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "rajeduboard.rajasthan.gov.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 minute reading time milta hai. Is time mein sirf paper padho — answers likhna allowed nahi."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "set_number_compulsory: True",
+      "reading_time_note: 15 minute reading time mein sirf padho — likhna nahi. Bell bajne ke baad hi likh sakte ho.",
+      "sequence_compulsory: False",
+      "rough_work: Answer sheet ka last page rough ke liye. Clearly ROUGH WORK likho."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Blue pen se answers, pencil se diagrams (neater aur cleaner)"
+    },
+    "rough_work_rules": "Answer sheet ka last page rough ke liye. Clearly ROUGH WORK likho.",
+    "diagram_rules": "Long answer (3 marks) aur Essay (4 marks) mein labelled diagram alag se 1 mark hota hai. Nahi banaya toh woh mark nahi milega.",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

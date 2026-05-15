@@ -1,0 +1,2771 @@
+{
+  "board": "UP Board",
+  "class": "12",
+  "subject": "Geography (Bhugol)",
+  "subject_code": "322",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 70,
+    "practical_paper": 30,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 23,
+    "passing_marks_practical": 10,
+    "passing_marks_internal": 0,
+    "duration_minutes": 0,
+    "extra_time_given": false,
+    "extra_time_note": "",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 26,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "Hindi ya English — dono allowed. Mixed bhi chalega. Paper mein dono versions chhape hote hain.",
+    "all_compulsory_note": "",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "UP Board Class 12 Geography mein 5 types: MCQ (1 mark), VSA (2 marks, 20 words), SA (4 marks, 50 words), LA (6 marks, 150 words), Map (1 mark per item, 5 items each from India + World).",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (Bahuvikalpiya Prashn)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 1,
+        "total_in_paper": 8,
+        "attempt": 8,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "Sare 8 attempt karo — no negative marking. Elimination se answer nikalo. Har saal 2-3 questions repeat hote hain (primary/secondary/tertiary activity identify, highest/lowest density state, human geography concept).",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "N/A — sirf option (a/b/c/d) likhna hai",
+        "notes": "Sare 8 attempt karo — no negative marking. Elimination se answer nikalo. Har saal 2-3 questions repeat hote hain (primary/secondary/tertiary activity identify, highest/lowest density state, human geography concept)."
+      },
+      {
+        "type": "Very Short Answer (Ati Laghu Uttariya)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 2,
+        "total_in_paper": 8,
+        "attempt": 8,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "Definition + 1 example ya 2 points. Zyada mat likho — 20 words limit strict hai. Examiners ko keyword dikhna chahiye. Sex ratio, human resource, clustered settlements, migration — ye har saal aate hain.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "~20 words",
+        "notes": "Definition + 1 example ya 2 points. Zyada mat likho — 20 words limit strict hai. Examiners ko keyword dikhna chahiye. Sex ratio, human resource, clustered settlements, migration — ye har saal aate hain."
+      },
+      {
+        "type": "Short Answer (Laghu Uttariya)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 4,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "Intro + 3-4 points + conclusion. 'Vivechna kijiye' / 'Vibhed kijiye' / 'Ullekh kijiye' type questions. Points numbered form mein likhna better.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "~50 words",
+        "notes": "Intro + 3-4 points + conclusion. 'Vivechna kijiye' / 'Vibhed kijiye' / 'Ullekh kijiye' type questions. Points numbered form mein likhna better."
+      },
+      {
+        "type": "Long Answer (Vistrit Uttariya)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 6,
+        "total_in_paper": 2,
+        "attempt": 2,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "Intro paragraph + heading-wise points + diagram/sketch map + conclusion. Human Geography nature-scope aur Iron ore/Petroleum distribution — ye LA mein sabse common. Dono OR options padh ke jo easier lage wo attempt karo.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "~150 words",
+        "notes": "Intro paragraph + heading-wise points + diagram/sketch map + conclusion. Human Geography nature-scope aur Iron ore/Petroleum distribution — ye LA mein sabse common. Dono OR options padh ke jo easier lage wo attempt karo."
+      },
+      {
+        "type": "Map Work (Manchitra Karya)",
+        "question_number": "",
+        "section": "",
+        "marks_each": 0,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "",
+        "mostly_from": "Supplied outline map paper mein hota hai — ANSWER SHEET mein NAHI. Map ko fadke, usmein symbol + naam likhke, answer book ke saath mazbooti se attach karna hai. Symbol saaf aur naam spelling sahi — dono ke liye alag-alag half mark.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": "Supplied outline map paper mein hota hai — ANSWER SHEET mein NAHI. Map ko fadke, usmein symbol + naam likhke, answer book ke saath mazbooti se attach karna hai. Symbol saaf aur naam spelling sahi — dono ke liye alag-alag half mark."
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "UP Board Geography theory paper = 70 marks, 26 questions, 3 hr 15 min (15 min reading). Pattern 2022-2026 tak consistent raha hai — koi major change nahi.",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 40,
+      "medium_percent": 45,
+      "hard_percent": 15,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Fundamentals of Human Geography (Manav Bhugol ke Mool Siddhant)",
+        "type": "Section A — Fundamentals of Human Geography (Manav Bhugol ke Mool Siddhant)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 35,
+        "word_limit": "",
+        "breakdown": "Unit 1 (Ch 1) + Unit 2 (Ch 2-3) + Unit 3 (Ch 4-8). Map question Q26 (World Map) in jin units se aata hai.",
+        "notes": "Unit 1 (Ch 1) + Unit 2 (Ch 2-3) + Unit 3 (Ch 4-8). Map question Q26 (World Map) in jin units se aata hai."
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — India: People and Economy (Bharat: Log evam Arthvyavastha)",
+        "type": "Section B — India: People and Economy (Bharat: Log evam Arthvyavastha)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 35,
+        "word_limit": "",
+        "breakdown": "Unit I (Ch 1) + Unit II (Ch 2) + Unit III (Ch 3-6) + Unit IV (Ch 7-8) + Unit V (Ch 9). Map question Q25 (India Map) in jin units se aata hai.",
+        "notes": "Unit I (Ch 1) + Unit II (Ch 2) + Unit III (Ch 3-6) + Unit IV (Ch 7-8) + Unit V (Ch 9). Map question Q25 (India Map) in jin units se aata hai."
+      },
+      {
+        "section_id": "question_distribution",
+        "name": "question distribution",
+        "type": "question_distribution",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 70,
+    "total_practical": 30,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Fundamentals of Human Geography (Manav Bhugol ke Mool Siddhant)",
+        "question_numbers": "",
+        "type": "Section A — Fundamentals of Human Geography (Manav Bhugol ke Mool Siddhant)",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 35,
+        "word_limit": "",
+        "breakdown": "Unit 1 (Ch 1) + Unit 2 (Ch 2-3) + Unit 3 (Ch 4-8). Map question Q26 (World Map) in jin units se aata hai."
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — India: People and Economy (Bharat: Log evam Arthvyavastha)",
+        "question_numbers": "",
+        "type": "Section B — India: People and Economy (Bharat: Log evam Arthvyavastha)",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 35,
+        "word_limit": "",
+        "breakdown": "Unit I (Ch 1) + Unit II (Ch 2) + Unit III (Ch 3-6) + Unit IV (Ch 7-8) + Unit V (Ch 9). Map question Q25 (India Map) in jin units se aata hai."
+      },
+      {
+        "section_id": "question_distribution",
+        "name": "question distribution",
+        "question_numbers": "",
+        "type": "question_distribution",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": ""
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 70,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "2",
+      "name": "World Population — Distribution, Density and Growth (Vishva Jansankhya)",
+      "marks": 5,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "15",
+        "name": "Transport and Communication — India (Bharat mein Parivahan evam Sanchar)",
+        "marks": 2
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Human Geography — Nature and Scope (Manav Bhugol — Prakriti evam Vishay Kshetra)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section A"
+      },
+      {
+        "chapter_id": "2",
+        "name": "World Population — Distribution, Density and Growth (Vishva Jansankhya)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section A"
+      },
+      {
+        "chapter_id": "3",
+        "name": "Human Development (Manav Vikas)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section A"
+      },
+      {
+        "chapter_id": "4",
+        "name": "Primary Activities (Prathmik Kriyaayein)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section A"
+      },
+      {
+        "chapter_id": "5",
+        "name": "Secondary Activities (Dwitiyak Kriyaayein)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section A"
+      },
+      {
+        "chapter_id": "6",
+        "name": "Tertiary and Quaternary Activities (Tratiyak aur Chaturthyak Kriyakalap)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section A"
+      },
+      {
+        "chapter_id": "7",
+        "name": "Transport and Communication (Parivahan evam Sanchar)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section A"
+      },
+      {
+        "chapter_id": "8",
+        "name": "International Trade (Antarrashtriya Vyapar)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section A"
+      },
+      {
+        "chapter_id": "9",
+        "name": "Population — Distribution, Density, Growth and Composition (Bharat: Jansankhya)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "10",
+        "name": "Human Settlements (Manav Bastiyaan)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "11",
+        "name": "Land Resources and Agriculture (Bhoo-sansadhan tatha Krishi)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "12",
+        "name": "Water Resources (Jal Sansadhan)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "13",
+        "name": "Mineral and Energy Resources (Khanij tatha Urja Sansadhan)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "14",
+        "name": "Planning and Sustainable Development in Indian Context (Niyojan aur Sustainable Vikas)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "15",
+        "name": "Transport and Communication — India (Bharat mein Parivahan evam Sanchar)",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "16",
+        "name": "International Trade — India (Bharat ka Antarrashtriya Vyapar)",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "17",
+        "name": "Geographical Perspective on Selected Issues and Problems",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Section B"
+      },
+      {
+        "chapter_id": "18",
+        "name": "Data — Sources and Compilation (Aankde — Strot tatha Sankalan)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Practical"
+      },
+      {
+        "chapter_id": "19",
+        "name": "Data Processing (Aankdon ka Prakraman)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Practical"
+      },
+      {
+        "chapter_id": "20",
+        "name": "Graphical Representation of Data (Aankdon ka Aalekhiya Nirupan)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Practical"
+      },
+      {
+        "chapter_id": "21",
+        "name": "Spatial Information Technology (Sthanik Suchana Praudyogiki)",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Practical"
+      }
+    ],
+    "totals": {
+      "total_marks": 70,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Geography Class 12 — 0 units/chapters.",
+    "books": [
+      {
+        "book_name": "Section A",
+        "category": "Section A",
+        "total_marks": 30,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Human Geography — Nature and Scope (Manav Bhugol — Prakriti evam Vishay Kshetra)",
+            "marks": 4,
+            "topics": [
+              "Manav ka prakritikaran aur prakriti ka manavikaran",
+              "Determinism vs Possibilism vs Neo-determinism (Stop-and-Go Determinism)",
+              "Scholars: E.C. Semple (Determinism), Vidal de la Blache (Possibilism), Griffith Taylor (Neo-determinism/Stop-and-Go), Jean Brunhes, Ratzel, Huntington",
+              "Fields and sub-fields of human geography",
+              "Approaches: Areal differentiation, Quantitative revolution, Spatial organisation, Exploration and description"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "World Population — Distribution, Density and Growth (Vishva Jansankhya)",
+            "marks": 5,
+            "topics": [
+              "Jansankhya vitran ke pattern — geographical, economic, social-cultural factors",
+              "Jansankhya ghanatva (density) — formula: total population / total area",
+              "Jansankhya vitran ko prabhavit karne wale karak (geographical, economic, social-cultural, demographic)",
+              "Jansankhya vriddhi ke ghatak — birth rate, death rate, migration",
+              "Demographic transition theory (4 stages)",
+              "Jansankhya niyantran ke upay"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "Human Development (Manav Vikas)",
+            "marks": 3,
+            "topics": [
+              "Growth vs Development — difference",
+              "4 pillars: Equity, Sustainability, Productivity, Empowerment",
+              "Approaches to human development: Income approach, Welfare approach, Basic needs approach, Capability approach",
+              "HDI measurement — Life expectancy + Education + GNI per capita",
+              "Dr. Mahbub-ul-Haq and Prof. Amartya Sen ka contribution",
+              "International comparisons — high/medium/low HDI countries"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "Primary Activities (Prathmik Kriyaayein)",
+            "marks": 5,
+            "topics": [
+              "Hunting and gathering, Pastoralism (nomadic herding + commercial livestock rearing)",
+              "Agriculture types — Subsistence (intensive + primitive), Plantation, Mixed, Commercial grain, Dairy, Mediterranean, Market gardening/Truck farming, Co-operative, Collective",
+              "Plantation crops: Tea, Coffee, Rubber, Sugarcane (Malaysia=rubber, Brazil=coffee)",
+              "Mining — methods (surface/open-cast, underground/shaft)",
+              "Intensive subsistence agriculture features"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "Secondary Activities (Dwitiyak Kriyaayein)",
+            "marks": 3,
+            "topics": [
+              "Manufacturing — characteristics, specialisation of skills, production methods",
+              "Technological innovation, organisational structure",
+              "Factors of industrial location — raw material, market, labour, power, transport, capital",
+              "Classification of industries — size based, raw material based, output based, ownership based",
+              "High-technology industry concept"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "Tertiary and Quaternary Activities (Tratiyak aur Chaturthyak Kriyakalap)",
+            "marks": 3,
+            "topics": [
+              "Types of tertiary — trade/commerce, transport, communication, services",
+              "Tourism — tourist regions, attractions, medical tourism (India for overseas patients)",
+              "Quaternary activities — knowledge sector (R&D, info processing)",
+              "Quinary (Pancham) — highest decision-makers, consultancy",
+              "Outsourcing, Digital divide"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "Transport and Communication (Parivahan evam Sanchar)",
+            "marks": 3,
+            "topics": [
+              "Road transport — highways, border roads",
+              "Rail transport — Trans-continental railways (Trans-Siberian, Trans-Canadian, Trans-Australian, Orient Express)",
+              "Water transport — important sea routes, inland waterways",
+              "Air transport — intercontinental airways",
+              "Pipelines",
+              "Communication — satellite, cyberspace, internet"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "International Trade (Antarrashtriya Vyapar)",
+            "marks": 4,
+            "topics": [
+              "History of international trade",
+              "Basis — difference in national resources, population factors, stage of economic development, extent of foreign investment, transport",
+              "Balance of trade (favourable vs unfavourable)",
+              "Types — bilateral, multilateral",
+              "Free trade, WTO (World Trade Organisation)",
+              "Ports — types (industrial, commercial, comprehensive, inland, out, oil, naval, fishing) and gateways of international trade",
+              "Land-locked harbours (e.g., Vishakhapatnam is land-locked in India)"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "Section B",
+        "category": "Section B",
+        "total_marks": 30,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "9",
+            "name": "Population — Distribution, Density, Growth and Composition (Bharat: Jansankhya)",
+            "marks": 4,
+            "topics": [
+              "Distribution, density, growth of population in India",
+              "Regional variations in population growth",
+              "Population composition — rural-urban, linguistic, religious",
+              "Working population (occupational structure)",
+              "Beti Bachao-Beti Padhao campaign",
+              "Smallest and largest religious groups (Smallest = Jain per 2011 census)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "Human Settlements (Manav Bastiyaan)",
+            "marks": 3,
+            "topics": [
+              "Rural settlements — types (clustered, semi-clustered, hamleted, dispersed) and distribution",
+              "Dispersed settlements NOT in: Ganga plains, Himalayan lower valleys, arid Rajasthan (found in: NE forests, hills)",
+              "Urban settlements — types, classification",
+              "Growth of towns in India",
+              "Urbanisation in India — problems",
+              "Functional classification of towns",
+              "Smart City Mission"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "Land Resources and Agriculture (Bhoo-sansadhan tatha Krishi)",
+            "marks": 4,
+            "topics": [
+              "Land use classification (9 categories)",
+              "Changing land-use pattern in India",
+              "Common Property Resources (CPR)",
+              "Agricultural land use in India",
+              "Crop seasons — Kharif, Rabi, Zaid",
+              "Food crops — Wheat, Rice, Jowar, Bajra, Maize, Pulses (Chana), Oilseeds",
+              "Fibre crops — Cotton, Jute",
+              "Other crops — Sugarcane, Tea, Coffee",
+              "Agricultural development in India, NMSA (National Mission on Sustainable Agriculture)",
+              "Farmer portal of India, Problems of Indian agriculture"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "Water Resources (Jal Sansadhan)",
+            "marks": 3,
+            "topics": [
+              "Water resources of India — surface water, ground water, lagoons and backwaters",
+              "Demand and utilization",
+              "Water quality deterioration, water pollution causes and prevention",
+              "Water conservation and management — recycling, reuse",
+              "Watershed management — Case study: Ahmednagar (Maharashtra)",
+              "Rainwater harvesting",
+              "National Water Policy 2012, Jal Kranti Abhiyan 2015-16",
+              "Four sources of surface water: rivers, lakes, ponds, tanks"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "Mineral and Energy Resources (Khanij tatha Urja Sansadhan)",
+            "marks": 5,
+            "topics": [
+              "Types of minerals — metallic (ferrous: iron ore, manganese / non-ferrous: bauxite, copper), non-metallic (mica)",
+              "Iron ore — distribution (Odisha, Chhattisgarh, Jharkhand, Karnataka)",
+              "Manganese — distribution, production",
+              "Bauxite, Copper, Mica",
+              "Coal — Jharkhand (Jharia, Bokaro), Chhattisgarh, Odisha, West Bengal",
+              "Petroleum — Assam (Digboi, Naharkatiya), Gujarat (Ankleshwar), Bombay High (offshore)",
+              "Natural gas",
+              "Non-conventional: Nuclear (Tarapur=1st, Kalpakkam, Narora, Rawatbhata/Rana Pratap Sagar, Kaiga, Kakrapar), Solar, Wind, Tidal, Geothermal, Bio-energy",
+              "Mineral conservation"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "14",
+            "name": "Planning and Sustainable Development in Indian Context (Niyojan aur Sustainable Vikas)",
+            "marks": 3,
+            "topics": [
+              "Target area planning",
+              "Hill Area Development Programme (HADP)",
+              "Drought Prone Area Development Programme (DPAP)",
+              "Case study: Bharmaur — Integrated Tribal Development Programme (ITDP)",
+              "Sustainable development concept",
+              "Case study: Indira Gandhi Canal Command Area",
+              "Measures to promote sustainable development"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "15",
+            "name": "Transport and Communication — India (Bharat mein Parivahan evam Sanchar)",
+            "marks": 2,
+            "topics": [
+              "Land transport — road (NH, SH, border roads), rail",
+              "Water transport, air transport",
+              "Oil and gas pipelines",
+              "Communication networks — personal and mass communication",
+              "Information Technology revolution in India"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "16",
+            "name": "International Trade — India (Bharat ka Antarrashtriya Vyapar)",
+            "marks": 2,
+            "topics": [
+              "Changing pattern of India's exports and imports",
+              "Direction of trade",
+              "Sea ports as gateways — Western coast: Kandla, Mumbai, Jawaharlal Nehru, Mormugao, Mangalore, Cochin",
+              "Eastern coast: Kolkata, Haldia, Paradip, Vishakhapatnam (land-locked), Chennai, Ennore, Tuticorin",
+              "Airports"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "17",
+            "name": "Geographical Perspective on Selected Issues and Problems",
+            "marks": 4,
+            "topics": [
+              "Environmental pollution — water pollution, air pollution (acid rain cause), noise pollution",
+              "Urban waste disposal",
+              "Rural-urban migration — case study",
+              "Problems of slums (ganda bastiyaan)",
+              "Land degradation — case study",
+              "Namami Gange Programme"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "Practical",
+        "category": "Practical",
+        "total_marks": 0,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "18",
+            "name": "Data — Sources and Compilation (Aankde — Strot tatha Sankalan)",
+            "marks": 0,
+            "topics": [
+              "Primary, secondary and other sources",
+              "Tabulation of data",
+              "Classification",
+              "Ogive curve",
+              "Frequency polygon"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "19",
+            "name": "Data Processing (Aankdon ka Prakraman)",
+            "marks": 0,
+            "topics": [
+              "Measures of central tendency",
+              "Mean, Median, Mode and their comparison"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "20",
+            "name": "Graphical Representation of Data (Aankdon ka Aalekhiya Nirupan)",
+            "marks": 0,
+            "topics": [
+              "Construction of diagrams",
+              "Bar diagrams",
+              "Line diagrams and flow charts",
+              "Thematic maps",
+              "Dot map, Choropleth, Isopleth"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "21",
+            "name": "Spatial Information Technology (Sthanik Suchana Praudyogiki)",
+            "marks": 0,
+            "topics": [
+              "GIS (Geographical Information System) and components",
+              "Software",
+              "Raster and vector data formats",
+              "Sequence of GIS operations"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Human Geography — Nature and Scope (Manav Bhugol — Prakriti evam Vishay Kshetra)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "A1",
+      "unit_name": 1,
+      "part": "Section A",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Manav ka prakritikaran aur prakriti ka manavikaran",
+        "Determinism vs Possibilism vs Neo-determinism (Stop-and-Go Determinism)",
+        "Scholars: E.C. Semple (Determinism), Vidal de la Blache (Possibilism), Griffith Taylor (Neo-determinism/Stop-and-Go), Jean Brunhes, Ratzel, Huntington",
+        "Fields and sub-fields of human geography",
+        "Approaches: Areal differentiation, Quantitative revolution, Spatial organisation, Exploration and description"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Nature and scope LA (2022, 2024, 2026) — almost har saal. Determinism/Possibilism concept MCQ har saal Q1 mein. Fields and sub-fields LA.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "World Population — Distribution, Density and Growth (Vishva Jansankhya)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "A2",
+      "unit_name": 2,
+      "part": "Section A",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Jansankhya vitran ke pattern — geographical, economic, social-cultural factors",
+        "Jansankhya ghanatva (density) — formula: total population / total area",
+        "Jansankhya vitran ko prabhavit karne wale karak (geographical, economic, social-cultural, demographic)",
+        "Jansankhya vriddhi ke ghatak — birth rate, death rate, migration",
+        "Demographic transition theory (4 stages)",
+        "Jansankhya niyantran ke upay"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Factors affecting population distribution — SA (4 marks) almost every year, sometimes LA (6 marks). Densely populated regions MCQ — South East Asia common answer. Demographic transition SA (2023).",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Human Development (Manav Vikas)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "A3",
+      "unit_name": 2,
+      "part": "Section A",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Growth vs Development — difference",
+        "4 pillars: Equity, Sustainability, Productivity, Empowerment",
+        "Approaches to human development: Income approach, Welfare approach, Basic needs approach, Capability approach",
+        "HDI measurement — Life expectancy + Education + GNI per capita",
+        "Dr. Mahbub-ul-Haq and Prof. Amartya Sen ka contribution",
+        "International comparisons — high/medium/low HDI countries"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Human development define — VSA (2024, 2026). Approaches MCQ (2025). Scholars identification MCQ (2024).",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Primary Activities (Prathmik Kriyaayein)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "A4",
+      "unit_name": 3,
+      "part": "Section A",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Hunting and gathering, Pastoralism (nomadic herding + commercial livestock rearing)",
+        "Agriculture types — Subsistence (intensive + primitive), Plantation, Mixed, Commercial grain, Dairy, Mediterranean, Market gardening/Truck farming, Co-operative, Collective",
+        "Plantation crops: Tea, Coffee, Rubber, Sugarcane (Malaysia=rubber, Brazil=coffee)",
+        "Mining — methods (surface/open-cast, underground/shaft)",
+        "Intensive subsistence agriculture features"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Plantation crop MCQ (2022, 2023, 2026). Nomadic vs Commercial livestock SA (2023, 2024). Intensive subsistence features SA (2026). Primary activity identify MCQ (every year). Truck farming VSA (2025).",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Secondary Activities (Dwitiyak Kriyaayein)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "A5",
+      "unit_name": 3,
+      "part": "Section A",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Manufacturing — characteristics, specialisation of skills, production methods",
+        "Technological innovation, organisational structure",
+        "Factors of industrial location — raw material, market, labour, power, transport, capital",
+        "Classification of industries — size based, raw material based, output based, ownership based",
+        "High-technology industry concept"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Secondary activity identify MCQ (2026). Agro-based industry MCQ (2026). Factors of industrial location LA/SA. Modern industrial trends SA (2025). Primary vs Secondary activities SA (2023, 2024).",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Tertiary and Quaternary Activities (Tratiyak aur Chaturthyak Kriyakalap)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "A6",
+      "unit_name": 3,
+      "part": "Section A",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Types of tertiary — trade/commerce, transport, communication, services",
+        "Tourism — tourist regions, attractions, medical tourism (India for overseas patients)",
+        "Quaternary activities — knowledge sector (R&D, info processing)",
+        "Quinary (Pancham) — highest decision-makers, consultancy",
+        "Outsourcing, Digital divide"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Tertiary activity identify MCQ (2023). Quaternary services VSA (2024).",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Transport and Communication (Parivahan evam Sanchar)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "A7",
+      "unit_name": 3,
+      "part": "Section A",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Road transport — highways, border roads",
+        "Rail transport — Trans-continental railways (Trans-Siberian, Trans-Canadian, Trans-Australian, Orient Express)",
+        "Water transport — important sea routes, inland waterways",
+        "Air transport — intercontinental airways",
+        "Pipelines",
+        "Communication — satellite, cyberspace, internet"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Usually MCQ or VSA level. Water transport advantages VSA (2025).",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "International Trade (Antarrashtriya Vyapar)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "A8",
+      "unit_name": 3,
+      "part": "Section A",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "History of international trade",
+        "Basis — difference in national resources, population factors, stage of economic development, extent of foreign investment, transport",
+        "Balance of trade (favourable vs unfavourable)",
+        "Types — bilateral, multilateral",
+        "Free trade, WTO (World Trade Organisation)",
+        "Ports — types (industrial, commercial, comprehensive, inland, out, oil, naval, fishing) and gateways of international trade",
+        "Land-locked harbours (e.g., Vishakhapatnam is land-locked in India)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Port types MCQ (2022, 2024, 2025, 2026). Land-locked harbour MCQ (2025 — Vishakhapatnam).",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Population — Distribution, Density, Growth and Composition (Bharat: Jansankhya)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B1",
+      "unit_name": "I",
+      "part": "Section B",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Distribution, density, growth of population in India",
+        "Regional variations in population growth",
+        "Population composition — rural-urban, linguistic, religious",
+        "Working population (occupational structure)",
+        "Beti Bachao-Beti Padhao campaign",
+        "Smallest and largest religious groups (Smallest = Jain per 2011 census)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Highest density state MCQ (2022-2025 — answer: Bihar). Lowest density state MCQ (2026 — Arunachal Pradesh). Smallest religious group MCQ (2026 — Jain). Factors affecting distribution SA/LA every year.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Human Settlements (Manav Bastiyaan)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B2",
+      "unit_name": "II",
+      "part": "Section B",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Rural settlements — types (clustered, semi-clustered, hamleted, dispersed) and distribution",
+        "Dispersed settlements NOT in: Ganga plains, Himalayan lower valleys, arid Rajasthan (found in: NE forests, hills)",
+        "Urban settlements — types, classification",
+        "Growth of towns in India",
+        "Urbanisation in India — problems",
+        "Functional classification of towns",
+        "Smart City Mission"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Clustered settlements define VSA (2023, 2026). Dispersed rural settlements environment MCQ (2025). Rural vs urban settlements LA (2023, 2024). Urbanisation problems SA (2023).",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Land Resources and Agriculture (Bhoo-sansadhan tatha Krishi)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B3",
+      "unit_name": "III",
+      "part": "Section B",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Land use classification (9 categories)",
+        "Changing land-use pattern in India",
+        "Common Property Resources (CPR)",
+        "Agricultural land use in India",
+        "Crop seasons — Kharif, Rabi, Zaid",
+        "Food crops — Wheat, Rice, Jowar, Bajra, Maize, Pulses (Chana), Oilseeds",
+        "Fibre crops — Cotton, Jute",
+        "Other crops — Sugarcane, Tea, Coffee",
+        "Agricultural development in India, NMSA (National Mission on Sustainable Agriculture)",
+        "Farmer portal of India, Problems of Indian agriculture"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Changing land-use pattern LA (2026). Common Property Resources VSA (2025). Largest rice producer state MAP (2022). Drought Prone Area Development SA (2026). Citrus fruits farming type MCQ (2023 — Mediterranean).",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "Water Resources (Jal Sansadhan)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B4",
+      "unit_name": "III",
+      "part": "Section B",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Water resources of India — surface water, ground water, lagoons and backwaters",
+        "Demand and utilization",
+        "Water quality deterioration, water pollution causes and prevention",
+        "Water conservation and management — recycling, reuse",
+        "Watershed management — Case study: Ahmednagar (Maharashtra)",
+        "Rainwater harvesting",
+        "National Water Policy 2012, Jal Kranti Abhiyan 2015-16",
+        "Four sources of surface water: rivers, lakes, ponds, tanks"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Water pollution causes VSA (2025, 2026). Water conservation importance SA (2024). Sources of surface water VSA (2025).",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "Mineral and Energy Resources (Khanij tatha Urja Sansadhan)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B5",
+      "unit_name": "III",
+      "part": "Section B",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Types of minerals — metallic (ferrous: iron ore, manganese / non-ferrous: bauxite, copper), non-metallic (mica)",
+        "Iron ore — distribution (Odisha, Chhattisgarh, Jharkhand, Karnataka)",
+        "Manganese — distribution, production",
+        "Bauxite, Copper, Mica",
+        "Coal — Jharkhand (Jharia, Bokaro), Chhattisgarh, Odisha, West Bengal",
+        "Petroleum — Assam (Digboi, Naharkatiya), Gujarat (Ankleshwar), Bombay High (offshore)",
+        "Natural gas",
+        "Non-conventional: Nuclear (Tarapur=1st, Kalpakkam, Narora, Rawatbhata/Rana Pratap Sagar, Kaiga, Kakrapar), Solar, Wind, Tidal, Geothermal, Bio-energy",
+        "Mineral conservation"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Oil fields state MCQ (2024, 2025, 2026 — Assam). Bombay High MCQ (2023 — mineral oil). Iron ore production LA (2024). Manganese LA (2025). Atomic plants VSA (2024). Metallic minerals names VSA (2024, 2026). Coal producing areas VSA (2022, 2023). Petroleum resources LA (2023). Iron-steel industry LA (2022).",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "Planning and Sustainable Development in Indian Context (Niyojan aur Sustainable Vikas)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B6",
+      "unit_name": "III",
+      "part": "Section B",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Target area planning",
+        "Hill Area Development Programme (HADP)",
+        "Drought Prone Area Development Programme (DPAP)",
+        "Case study: Bharmaur — Integrated Tribal Development Programme (ITDP)",
+        "Sustainable development concept",
+        "Case study: Indira Gandhi Canal Command Area",
+        "Measures to promote sustainable development"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "ITDP MCQ (2025 — Integrated Tribal Development). Hill Area Programme VSA (2023, 2024). Sustainable development LA (2023, 2024). DPAP importance SA (2026). Indira Gandhi Canal passes through MCQ (2023, 2024 — Rajasthan).",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 15,
+      "name": "Transport and Communication — India (Bharat mein Parivahan evam Sanchar)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B7",
+      "unit_name": "IV",
+      "part": "Section B",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Land transport — road (NH, SH, border roads), rail",
+        "Water transport, air transport",
+        "Oil and gas pipelines",
+        "Communication networks — personal and mass communication",
+        "Information Technology revolution in India"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "IT revolution impacts SA (2025). Generally low-weight chapter.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 16,
+      "name": "International Trade — India (Bharat ka Antarrashtriya Vyapar)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B8",
+      "unit_name": "IV",
+      "part": "Section B",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Changing pattern of India's exports and imports",
+        "Direction of trade",
+        "Sea ports as gateways — Western coast: Kandla, Mumbai, Jawaharlal Nehru, Mormugao, Mangalore, Cochin",
+        "Eastern coast: Kolkata, Haldia, Paradip, Vishakhapatnam (land-locked), Chennai, Ennore, Tuticorin",
+        "Airports"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Port location MCQs (2022, 2024-Haldia=WB, 2025 land-locked=Vishakhapatnam, 2026 west coast=Marmagao). Map work heavy.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 17,
+      "name": "Geographical Perspective on Selected Issues and Problems",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "B9",
+      "unit_name": "V",
+      "part": "Section B",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Environmental pollution — water pollution, air pollution (acid rain cause), noise pollution",
+        "Urban waste disposal",
+        "Rural-urban migration — case study",
+        "Problems of slums (ganda bastiyaan)",
+        "Land degradation — case study",
+        "Namami Gange Programme"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Acid rain cause MCQ (2025 — air pollution). Air pollution in India SA (2026). Water pollution causes VSA/SA (2025, 2026). Noise pollution sources VSA (2026). Urban waste management SA/LA (2024, 2025, 2026). Migration types SA (2024). Land degradation LA (2025). Slums problems, Namami Gange — expected soon.",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 18,
+      "name": "Data — Sources and Compilation (Aankde — Strot tatha Sankalan)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "P1",
+      "unit_name": "Practical",
+      "part": "Practical",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Primary, secondary and other sources",
+        "Tabulation of data",
+        "Classification",
+        "Ogive curve",
+        "Frequency polygon"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 19,
+      "name": "Data Processing (Aankdon ka Prakraman)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "P2",
+      "unit_name": "Practical",
+      "part": "Practical",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Measures of central tendency",
+        "Mean, Median, Mode and their comparison"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 20,
+      "name": "Graphical Representation of Data (Aankdon ka Aalekhiya Nirupan)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "P3",
+      "unit_name": "Practical",
+      "part": "Practical",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Construction of diagrams",
+        "Bar diagrams",
+        "Line diagrams and flow charts",
+        "Thematic maps",
+        "Dot map, Choropleth, Isopleth"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 21,
+      "name": "Spatial Information Technology (Sthanik Suchana Praudyogiki)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": "P4",
+      "unit_name": "Practical",
+      "part": "Practical",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "GIS (Geographical Information System) and components",
+        "Software",
+        "Raster and vector data formats",
+        "Sequence of GIS operations"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Geography — 0 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "High-weightage chapters.",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [
+      "Human Geography — Nature and Scope (Manav Bhugol — Prakriti evam Vishay Kshetra) (4 marks)",
+      "Human Development (Manav Vikas) (3 marks)",
+      "Secondary Activities (Dwitiyak Kriyaayein) (3 marks)",
+      "Tertiary and Quaternary Activities (Tratiyak aur Chaturthyak Kriyakalap) (3 marks)",
+      "Transport and Communication (Parivahan evam Sanchar) (3 marks)",
+      "International Trade (Antarrashtriya Vyapar) (4 marks)",
+      "Population — Distribution, Density, Growth and Composition (Bharat: Jansankhya) (4 marks)",
+      "Human Settlements (Manav Bastiyaan) (3 marks)",
+      "Land Resources and Agriculture (Bhoo-sansadhan tatha Krishi) (4 marks)",
+      "Water Resources (Jal Sansadhan) (3 marks)",
+      "Planning and Sustainable Development in Indian Context (Niyojan aur Sustainable Vikas) (3 marks)",
+      "Transport and Communication — India (Bharat mein Parivahan evam Sanchar) (2 marks)",
+      "International Trade — India (Bharat ka Antarrashtriya Vyapar) (2 marks)",
+      "Geographical Perspective on Selected Issues and Problems (4 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "Highest/Lowest population density state (Bihar/Arunachal Pradesh) (Q: , 1)",
+      "Human Geography approach/concept (determinism types) (Q: , 1-6)",
+      "Plantation crop identification (rubber/tea/coffee) (Q: , 1)",
+      "Primary/Secondary/Tertiary activity identification (Q: , 1)",
+      "Sex ratio definition/measurement (Q: , 2)",
+      "Factors influencing population distribution (world) (Q: , 4-6)",
+      "Human Geography nature and scope (LA) (Q: , 6)",
+      "Iron ore / Iron-steel / Petroleum / Manganese distribution in India (Q: , 6)",
+      "Capital of UP (Lucknow) — India map (Q: , 1)",
+      "Central America shipping canal (Panama) — World map (Q: , 1)",
+      "Important river of NE Africa/Egypt (Nile) — World map (Q: , 1)",
+      "Capital of Japan (Tokyo) — World map (Q: , 1)"
+    ],
+    "chapters_mostly_theory": [
+      "Human Geography — Nature and Scope (Manav Bhugol — Prakriti evam Vishay Kshetra)",
+      "World Population — Distribution, Density and Growth (Vishva Jansankhya)",
+      "Human Development (Manav Vikas)",
+      "Primary Activities (Prathmik Kriyaayein)",
+      "Secondary Activities (Dwitiyak Kriyaayein)",
+      "Tertiary and Quaternary Activities (Tratiyak aur Chaturthyak Kriyakalap)",
+      "Transport and Communication (Parivahan evam Sanchar)",
+      "International Trade (Antarrashtriya Vyapar)",
+      "Population — Distribution, Density, Growth and Composition (Bharat: Jansankhya)",
+      "Human Settlements (Manav Bastiyaan)",
+      "Land Resources and Agriculture (Bhoo-sansadhan tatha Krishi)",
+      "Water Resources (Jal Sansadhan)",
+      "Mineral and Energy Resources (Khanij tatha Urja Sansadhan)",
+      "Planning and Sustainable Development in Indian Context (Niyojan aur Sustainable Vikas)",
+      "Transport and Communication — India (Bharat mein Parivahan evam Sanchar)",
+      "International Trade — India (Bharat ka Antarrashtriya Vyapar)",
+      "Geographical Perspective on Selected Issues and Problems",
+      "Data — Sources and Compilation (Aankde — Strot tatha Sankalan)",
+      "Data Processing (Aankdon ka Prakraman)",
+      "Graphical Representation of Data (Aankdon ka Aalekhiya Nirupan)",
+      "Spatial Information Technology (Sthanik Suchana Praudyogiki)"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "Human Geography — Nature and Scope (Manav Bhugol — Prakriti evam Vishay Kshetra)",
+      "World Population — Distribution, Density and Growth (Vishva Jansankhya)",
+      "Human Development (Manav Vikas)",
+      "Primary Activities (Prathmik Kriyaayein)",
+      "Secondary Activities (Dwitiyak Kriyaayein)",
+      "Tertiary and Quaternary Activities (Tratiyak aur Chaturthyak Kriyakalap)",
+      "Transport and Communication (Parivahan evam Sanchar)",
+      "International Trade (Antarrashtriya Vyapar)",
+      "Population — Distribution, Density, Growth and Composition (Bharat: Jansankhya)",
+      "Human Settlements (Manav Bastiyaan)",
+      "Land Resources and Agriculture (Bhoo-sansadhan tatha Krishi)",
+      "Water Resources (Jal Sansadhan)",
+      "Mineral and Energy Resources (Khanij tatha Urja Sansadhan)",
+      "Planning and Sustainable Development in Indian Context (Niyojan aur Sustainable Vikas)",
+      "Transport and Communication — India (Bharat mein Parivahan evam Sanchar)",
+      "International Trade — India (Bharat ka Antarrashtriya Vyapar)",
+      "Geographical Perspective on Selected Issues and Problems",
+      "Data — Sources and Compilation (Aankde — Strot tatha Sankalan)",
+      "Data Processing (Aankdon ka Prakraman)",
+      "Graphical Representation of Data (Aankdon ka Aalekhiya Nirupan)",
+      "Spatial Information Technology (Sthanik Suchana Praudyogiki)"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Highest/Lowest population density state (Bihar/Arunachal Pradesh) (Q: , 1)",
+      "Human Geography approach/concept (determinism types) (Q: , 1-6)",
+      "Plantation crop identification (rubber/tea/coffee) (Q: , 1)",
+      "Primary/Secondary/Tertiary activity identification (Q: , 1)",
+      "Sex ratio definition/measurement (Q: , 2)",
+      "Factors influencing population distribution (world) (Q: , 4-6)",
+      "Human Geography nature and scope (LA) (Q: , 6)",
+      "Iron ore / Iron-steel / Petroleum / Manganese distribution in India (Q: , 6)",
+      "Capital of UP (Lucknow) — India map (Q: , 1)",
+      "Central America shipping canal (Panama) — World map (Q: , 1)",
+      "Important river of NE Africa/Egypt (Nile) — World map (Q: , 1)",
+      "Capital of Japan (Tokyo) — World map (Q: , 1)"
+    ],
+    "one_mark_question_facts": {
+      "note": "Objective section of paper covers MCQs, fill blanks, T/F, match, one-word.",
+      "common_formats": [
+        "MCQ",
+        "Fill in the Blanks",
+        "True/False",
+        "Match the Pairs",
+        "One Word"
+      ]
+    },
+    "map_work_masterlist": {
+      "note": "Ye list 2022-2026 ke PYQ se banayi gayi hai. Pura paper 10 marks ka map work — yaad kar lo toh easy 8-10 marks.",
+      "India_map_items_to_master": [
+        {
+          "item": "Bihar",
+          "context": "Highest population density state",
+          "years_asked": "2023"
+        },
+        {
+          "item": "Arunachal Pradesh",
+          "context": "Lowest population density state",
+          "years_asked": "2024, 2025"
+        },
+        {
+          "item": "Uttar Pradesh (Lucknow)",
+          "context": "Largest population state / Capital city",
+          "years_asked": "2023, 2024, 2025"
+        },
+        {
+          "item": "Kerala",
+          "context": "Highest literacy rate state",
+          "years_asked": "2023"
+        },
+        {
+          "item": "Kerala",
+          "context": "Highest HDI state",
+          "years_asked": "2023"
+        },
+        {
+          "item": "Haryana",
+          "context": "Lowest sex ratio state",
+          "years_asked": "2024"
+        },
+        {
+          "item": "West Bengal",
+          "context": "Largest rice producer state",
+          "years_asked": "2022"
+        },
+        {
+          "item": "Assam (Digboi/Naharkatiya)",
+          "context": "Major oil fields state",
+          "years_asked": "2024, 2026"
+        },
+        {
+          "item": "Jharkhand (Jharia/Bokaro)",
+          "context": "Major coal producing area",
+          "years_asked": "2024"
+        },
+        {
+          "item": "Tarapur (Maharashtra)",
+          "context": "First atomic power station",
+          "years_asked": "2024"
+        },
+        {
+          "item": "Rajasthan",
+          "context": "Indira Gandhi Canal passes through",
+          "years_asked": "2023, 2024"
+        },
+        {
+          "item": "Aravalli Range (Rajasthan)",
+          "context": "Mountain range of Rajasthan",
+          "years_asked": "2026"
+        },
+        {
+          "item": "Mahanadi (Odisha)",
+          "context": "Important river of Odisha",
+          "years_asked": "2026"
+        },
+        {
+          "item": "Andhra Pradesh",
+          "context": "Largest state in SE India / AP capital",
+          "years_asked": "2026"
+        },
+        {
+          "item": "Haldia (West Bengal)",
+          "context": "Port location",
+          "years_asked": "2024"
+        },
+        {
+          "item": "Kandla (Gujarat)",
+          "context": "Gujarat sea port",
+          "years_asked": "2025"
+        },
+        {
+          "item": "Vishakhapatnam (Andhra Pradesh)",
+          "context": "Land-locked port / AP port",
+          "years_asked": "2022, 2025"
+        },
+        {
+          "item": "Mathura/Panipat/Bathinda (Punjab)",
+          "context": "Oil refinery of Punjab (answer: Bathinda/Panipat)",
+          "years_asked": "2025"
+        },
+        {
+          "item": "Bengaluru",
+          "context": "IT city of India",
+          "years_asked": "2025"
+        },
+        {
+          "item": "Hyderabad",
+          "context": "Million-plus city of Telangana",
+          "years_asked": "2022"
+        }
+      ],
+      "World_map_items_to_master": [
+        {
+          "item": "Panama Canal",
+          "context": "Shipping canal of Central America",
+          "years_asked": "2024, 2026"
+        },
+        {
+          "item": "Nile",
+          "context": "Important river of NE Africa / Egypt",
+          "years_asked": "2024, 2025, 2026"
+        },
+        {
+          "item": "Tokyo",
+          "context": "Capital of Japan",
+          "years_asked": "2024, 2026"
+        },
+        {
+          "item": "Moscow",
+          "context": "Capital of Russia",
+          "years_asked": "2025"
+        },
+        {
+          "item": "Beijing",
+          "context": "Capital of China",
+          "years_asked": "2023"
+        },
+        {
+          "item": "Washington DC",
+          "context": "Capital of USA",
+          "years_asked": "2023"
+        },
+        {
+          "item": "Ottawa",
+          "context": "Capital of Canada",
+          "years_asked": "2022"
+        },
+        {
+          "item": "Sahara",
+          "context": "Largest tropical desert",
+          "years_asked": "2025"
+        },
+        {
+          "item": "Brazil",
+          "context": "Coffee producer of South America",
+          "years_asked": "2025"
+        },
+        {
+          "item": "USA",
+          "context": "Largest population country in North America / Highest HDI country often",
+          "years_asked": "2022, 2024, 2025"
+        },
+        {
+          "item": "Indonesia / Pakistan",
+          "context": "3rd largest population country (depends on year)",
+          "years_asked": "2022, 2024"
+        },
+        {
+          "item": "London",
+          "context": "Most populated city of Great Britain",
+          "years_asked": "2026"
+        },
+        {
+          "item": "Sydney / Melbourne",
+          "context": "Major sea port of Australia",
+          "years_asked": "2026"
+        },
+        {
+          "item": "Mediterranean France/Italy/Spain (Rhone valley, Tuscany)",
+          "context": "Major grape producing area of Europe",
+          "years_asked": "2026"
+        },
+        {
+          "item": "Marseille / Barcelona / Genoa",
+          "context": "Mediterranean sea port",
+          "years_asked": "2024"
+        },
+        {
+          "item": "Yokohama / Kobe",
+          "context": "Major sea port of Japan",
+          "years_asked": "2023, 2026"
+        },
+        {
+          "item": "Amazon",
+          "context": "Important river of South America",
+          "years_asked": "2023"
+        },
+        {
+          "item": "Santos / Rio de Janeiro",
+          "context": "Brazil sea port",
+          "years_asked": "2022"
+        },
+        {
+          "item": "Norway / Switzerland",
+          "context": "Highest HDI country",
+          "years_asked": "2022, 2024"
+        },
+        {
+          "item": "Australia",
+          "context": "Continent with lowest population",
+          "years_asked": "2024"
+        },
+        {
+          "item": "Sheffield / Birmingham",
+          "context": "Iron-steel area of Great Britain",
+          "years_asked": "2022"
+        }
+      ]
+    },
+    "pyq_analysis_2022_to_2026": {
+      "summary": "5 saal ke papers (2022, 2023, 2024, 2025, 2026-CP) analysis se pattern ekdum clear hai. 60-70% questions repeat concept/topic par based hote hain.",
+      "most_repeated_MCQ_topics": [
+        "Human geography concept (determinism/possibilism/neo-determinism) — har saal Q1",
+        "Population density state (highest/lowest) — har saal",
+        "Plantation crop — 3/5 years",
+        "Primary/Secondary/Tertiary activity identification — 4/5 years",
+        "Oil field state (Assam) / Bombay High — 4/5 years",
+        "Port location — 4/5 years"
+      ],
+      "most_repeated_VSA_topics": [
+        "Sex ratio definition (4/5 years)",
+        "Human resource meaning (2/5 years)",
+        "Human development definition (2/5 years)",
+        "Clustered settlements (2/5 years)",
+        "Metallic minerals names (2/5 years)",
+        "Water pollution causes (2/5 years)"
+      ],
+      "most_repeated_SA_topics": [
+        "Population distribution factors (world) — every year in some form",
+        "Nomadic vs Commercial livestock (2/5 years)",
+        "Primary vs Secondary activities (2/5 years)",
+        "Types of migration (2022, 2024)"
+      ],
+      "most_repeated_LA_topics": [
+        "Human Geography Nature and Scope — 3/5 years (2022, 2024, 2026)",
+        "Iron ore / Iron-Steel industry — 3/5 years (2022, 2023, 2024)",
+        "Population distribution factors (world) — 3/5 years (2022, 2023, 2025)",
+        "Sustainable development — 2/5 years (2023, 2024)",
+        "Rural vs Urban settlements — 2/5 years (2023, 2024)"
+      ],
+      "high_probability_2026_predictions": [
+        "MCQ: Ek human geo concept + ek density state + ek oil/coal state + ek port + ek activity type — all confirmed in 2026-CP already",
+        "LA Q23: Human Geography Nature-Scope OR Industry Location (confirmed 2026-CP)",
+        "LA Q24: Land Use Change OR Urban Waste Management (confirmed 2026-CP)",
+        "India Map: State with lowest population, Aravalli range, Mahanadi, SE state, its capital (confirmed 2026-CP)",
+        "World Map: Panama, Nile, Australian port, European grape region, London (confirmed 2026-CP)"
+      ]
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Geography — maps/diagrams/frameworks.",
+    "must_practise": [
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "India_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "World_map_items_to_master",
+        "diagram_name": "",
+        "note": ""
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Not typically applicable for Geography (humanities subject).",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Geography",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Geography",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 30,
+    "passing_marks": 0,
+    "practical_exam_separate": true,
+    "practical_exam_note": "",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": true,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "UP Board Geography CBSE se thoda simpler hai — par presentation strict hai. Map work 10/70 marks scoring opportunity.",
+    "easy_percent": 40,
+    "medium_percent": 45,
+    "hard_percent": 15,
+    "most_scoring_sections": [
+      "Easy — 6-7 correct easily if concepts clear. Repeat hote hain har saal.",
+      "Easy to Medium — Definitions aur 2-line explanations. Yaad kar lo toh full marks.",
+      "Easy — agar practice ki ho. Har saal same type ke items: density state, crop state, port, canal, capital, river."
+    ],
+    "most_difficult_sections": [
+      "Medium to Medium-Hard — 150 words mein nature-scope, industry distribution, sustainable development. Diagram zaroor banao."
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Map questions SABSE LAST mein karo — taaki answer book ke saath attach karne mein dikkat na ho",
+      "MCQ 10 minute mein nikal lo — jaldi start karo for confidence boost",
+      "VSA mein 2-3 line se zyada nahi — words waste mat karo",
+      "LA mein diagram/sketch map zaroor banao — even rough one milta hai extra marks",
+      "Section A ke LA (Q23) mein 'Human Geography Nature and Scope' practice karke jao — 3 saal se aaya hai",
+      "Section B ke LA (Q24) mein Iron Ore / Petroleum / Manganese distribution ek pakka karo — India ka map sketch with shading",
+      "OR option padh ke jo easier lage wo attempt karo — dono dekh ke decide karo",
+      "Map items: India ke liye 20 common locations yaad — World ke liye 20 common locations yaad. Dono sheet me alag-alag practice karo",
+      "Hinglish chalega — koi term English mein aata hai toh wohi likho (Demographic Transition, HDI, GIS — English mein hi)",
+      "Answer sheet pe writing clean honi chahiye — UP Board strict hai presentation ke liye",
+      "150 word LA mein 2-3 sub-headings banao — examiner ko visual structure dikhta hai"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "Paper padho. OR options mein se easier choose karo. Map items ka mental plan banao (kaunsa state kahan hai)."
+      },
+      {
+        "section_id": "Q1_to_Q8_MCQ_10min",
+        "recommended_minutes": 1,
+        "note": "8 MCQ, har ek ~1 minute. Jaldi nikal lo. Confused ho toh elimination use karo — no negative marking."
+      },
+      {
+        "section_id": "Q9_to_Q16_VSA_25min",
+        "recommended_minutes": 3,
+        "note": "8 VSA, har ek ~3 min. 20 words strict — 2-3 lines maximum. Keyword-based answer."
+      },
+      {
+        "section_id": "Q17_to_Q22_SA_50min",
+        "recommended_minutes": 8,
+        "note": "6 SA, har ek ~8 min. 50 words — 5-6 lines. Intro + 3-4 points + ek line conclusion."
+      },
+      {
+        "section_id": "Q23_Q24_LA_40min",
+        "recommended_minutes": 20,
+        "note": "2 LA, har ek ~20 min. 150 words + sketch map/diagram. Heading structure use karo."
+      },
+      {
+        "section_id": "Q25_Q26_Map_15min",
+        "recommended_minutes": 0,
+        "note": "Dono maps — pencil se symbol + pen se naam. Map ko answer book ke saath strong staple."
+      },
+      {
+        "section_id": "revision_15min",
+        "recommended_minutes": 0,
+        "note": "Map attachment check, question numbers check, roll number check."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 23 marks",
+        "target_marks": 23,
+        "strategy": "Sare 8 MCQ (8 marks, no negative) + 5-6 VSA (10-12 marks) + 1 easy SA (4 marks) + India map sare 5 items (5 marks). Total = 27-29 marks. Safe pass.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "MCQ — sare 8 attempt karo, elimination se",
+          "VSA ke easy topics — Sex ratio, Human Resource, Clustered Settlements, Migration, Metallic minerals",
+          "India map — Lucknow, Assam, Jharkhand, Rajasthan (IG Canal), Vishakhapatnam — ye 5 yaad kar lo guaranteed 5 marks",
+          "World map — Panama, Nile, Tokyo, Sahara, Brazil — guaranteed 5 more"
+        ],
+        "chapters_to_skip_safely": [
+          "Complex LA mechanisms",
+          "Detailed industrial location SA",
+          "Spatial Information Tech (practical only)"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45",
+        "target_marks": 45,
+        "strategy": "MCQ (8) + VSA all 8 (16) + SA 4-5 (16-20) + LA 1 easy (6) + Map both (10) = 56+ easy.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Section A Ch 1, 2, 4 deeply",
+          "Section B Ch 1, 5 deeply (map heavy)",
+          "All named scholars: E.C. Semple, Vidal de la Blache, Griffith Taylor, Amartya Sen, Mahbub-ul-Haq",
+          "Iron ore, petroleum, manganese distribution — 3 state-wise tables yaad karo",
+          "Population distribution factors (world + India) — both LA and SA level"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60 marks plus",
+        "target_marks": 60,
+        "strategy": "Sab kuch attempt — MCQ (8) + VSA (16) + SA all 6 (24) + LA both (12) + Map both (10) = 70.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All scholars and their concepts — MCQ Q1 always from this",
+          "All LA topics practiced with diagrams and sketch maps",
+          "Both India and World map items — 40+ locations",
+          "Case studies — Bharmaur, Indira Gandhi Canal, Ahmednagar watershed, Namami Gange",
+          "Demographic transition 4 stages, HDI approaches 4 types, Land use 9 classifications — in teeno lists ko ratt lo",
+          "Ports list — east coast + west coast both"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Geography Class 12 Part I — Fundamentals of Human Geography",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Section A pura isi se. Har chapter ke exercises solve karo."
+      },
+      {
+        "name": "NCERT Geography Class 12 Part II — India People and Economy",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Section B pura isi se. Case studies (Bharmaur, IG Canal, Namami Gange) yahin milenge."
+      },
+      {
+        "name": "NCERT Geography Class 12 Part III — Practical Work in Geography",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Practical paper ka 30 marks base yahin se. Mean/Median/Mode + Choropleth + GIS chapters."
+      },
+      {
+        "name": "UP Board Class 12 Geography Previous Year Papers 2018-2025",
+        "author": "",
+        "publisher": "UPMSP / upboardonline.com",
+        "purpose": "Supplementary",
+        "note": "Same questions repeat hote hain. Kam se kam 5 saal ke papers solve karo."
+      },
+      {
+        "name": "UP Board Model Paper 2025-26 (Paper 322-CP)",
+        "author": "",
+        "publisher": "UPMSP",
+        "purpose": "Supplementary",
+        "note": "Official model paper — exact difficulty aur question style samjhne ke liye."
+      },
+      {
+        "name": "UP Board Solved Papers — Any publisher (Arihant, Shivdas, YCT)",
+        "author": "",
+        "publisher": "Multiple",
+        "purpose": "Supplementary",
+        "note": "Hindi medium solutions + map diagrams. Particularly useful for LA answer structure."
+      },
+      {
+        "name": "NCERT Map Practice Workbook",
+        "author": "",
+        "publisher": "NCERT or private publishers",
+        "purpose": "Supplementary",
+        "note": "10 marks ka map work — practice sheets pe India aur World ke blank maps pe locations plot karne ki practice."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 minute reading time milta hai (paper padhne ke liye) — is time mein likhna allowed nahi."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "roll_number_and_name_on_both_answer_book_and_maps: True",
+      "map_attachment: Supplied map ko question paper se fadke, usmein symbols + naam likhke, answer book ke saath mazbooti se (mazbooti se = strong staple ya tie) attach karna COMPULSORY hai. Agar attach nahi kiya toh 10 marks ka nuksaan.",
+      "sequence_compulsory: False",
+      "sequence_note: Question ka sequence follow karna zaroori nahi — MCQ pehle bhi attempt kar sakte ho, Map pehle bhi. Bas har answer ke upar question number clearly likho.",
+      "no_negative_marking: True",
+      "mcq_attempt_all: Sare 8 MCQ attempt karo — no negative marking.",
+      "map_item_split: Har map item ka 1 mark = 1/2 (sahi symbol/location) + 1/2 (sahi naam). Dono sahi hone chahiye for full mark.",
+      "spelling_of_places: Place names ki spelling sahi honi chahiye — Mormugao, Vishakhapatnam, Marmagao jaise naam practice kar lo. Galat spelling se 1/2 mark cut."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['Blue', 'Black'] pencil_use: Maps, sketch maps, diagrams ke liye pencil use karo — clean dikhta hai aur galti hone pe erase kar sakte ho. map_symbols_note: Map mein symbols pencil se bana ke, naam blue/black pen se likhna sabse safe."
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "sketch_maps_and_diagrams: Instructions mein likha hai 'Illustrate your answers with suitable sketch maps and diagrams' — SA aur LA mein jahan possible ho, small sketch banao. Extra marks milte hain. headings_and_subheadings: LA (150 words) mein heading-subheading structure use karo — examiner ko points clearly dikhne chahiye. word_limit_respect: 20/50/150 words limit ko respect karo. Zyada likhne se time waste aur neat presentation nahi rahega. hindi_or_english: Dono languages allowed. Mixed bhi chalega — term English mein (e.g., 'Demographic Transition') aur explanation Hindi mein — common practice hai. partial_marking: True partial_marking_note: SA/LA mein partial marks milte hain — ek point galat ho toh baaki points ke marks milenge.",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

@@ -1,0 +1,117 @@
+Accounts / Commerce Common Mistakes — Class 11 & 12 Board Exam Students ke liye
+
+---
+
+MISTAKE 1 — T-SHAPE FORMAT SAHI SE NAHI BANANA
+Accounts ka sabse basic rule hai ki T-account sahi format mein banana — heading centred, Dr. left side, Cr. right side, columns properly aligned. Board exam mein format galat ho toh presentation marks seedha kaat lete hain.
+
+Galat tarika:
+Dr.    Cr.
+To drawings 2000   By balance b/d 10000
+To interest 500    By profit 3000  To cash 1000
+Total 13500        Total 14000
+
+(Koi alignment nahi, entries mix ho gayi, totals bhi galat)
+
+Sahi tarika:
+
+                     Current Account
+Dr.                                                    Cr.
+Particulars         ₹       Particulars               ₹
+To Drawings      2,000      By Balance b/d         10,000
+To Interest        500      By Profit & Loss        3,000
+To Balance c/d  10,500
+Total            13,000      Total                  13,000
+
+Yaad rakho:
+- Account ka naam heading mein centred likhna zaroori hai
+- Dr. hamesha left side, Cr. hamesha right side
+- Dr. side pe entries "To" se shuru hoti hain
+- Cr. side pe entries "By" se shuru hoti hain
+- Dono taraf ke totals hamesha equal hone chahiye
+
+Rule: Account banana shuru karne se pehle mentally decide karo — heading, Dr/Cr labels, column names, phir entries. Seedha entries mat likhna shuru karo.
+
+Applies to: All chapters — Current Account, Capital Account, Profit & Loss Account, Trading Account, Balance Sheet.
+
+---
+
+MISTAKE 2 — "TO" AUR "BY" PREFIX BHOOL JAANA
+Dr. side pe "To" aur Cr. side pe "By" likhna compulsory hai. Bina iske examiner marks kaat leta hai kyunki yeh accounting ka basic convention hai.
+
+Galat tarika:
+Dr. side mein likha: "Drawings 2,000" (bina "To" ke)
+Cr. side mein likha: "Balance b/d 10,000" (bina "By" ke)
+
+Sahi tarika:
+Dr. side mein: "To Drawings 2,000"
+Cr. side mein: "By Balance b/d 10,000"
+
+Rule: Ek simple trick — Dr. = "To" (T se T yaad rakho), Cr. = "By" (C se "By" — Credit waala By). Yeh dono prefix kabhi mat bhoolna.
+
+Applies to: Ledger accounts, Current Account, Capital Account, Profit & Loss Account — har jagah jahan T-format use hota hai.
+
+---
+
+MISTAKE 3 — FORMULA LIKHNA SKIP KARNA — SEEDHA CALCULATION KARNA
+Students aksar formula skip karke seedha calculation likh dete hain. Agar answer galat aaya toh zero milta hai. Formula likhne se step marks milte hain — bhale answer galat ho.
+
+Galat tarika:
+= 12,000 × 10% × 6/12
+= ₹600
+Interest on Drawings = ₹600
+
+(Koi formula nahi likha — sirf calculation hai)
+
+Sahi tarika:
+Interest on Drawings = Total Drawings × Rate × Time/12
+= 12,000 × 10% × 6/12
+= ₹600
+
+Aur bhi examples:
+- Goodwill = Super Profit × Purchase Years — pehle formula, phir values substitute karo
+- Net Profit = Gross Profit − Operating Expenses — formula pehle likhna zaroori hai
+
+Rule: Har numerical mein pehla kaam hai — formula likhna. Phir values dalna. Phir calculation. Yeh 3-step order kabhi mat todna — step marking yahi se milti hai.
+
+Applies to: Interest on Capital, Interest on Drawings, Goodwill calculation, Depreciation, Ratio Analysis — sabhi numerical chapters.
+
+---
+
+MISTAKE 4 — ACCOUNTS KA BALANCING GALAT KARNA
+Account balance out karna bhool jaana ya totals galat likhna — yeh ek mistake se poora account spoil ho jaata hai. Board mein ek bhi figure galat ho toh dono totals mismatch ho jaate hain.
+
+Galat tarika:
+Dr. side total: ₹13,500
+Cr. side total: ₹14,000
+
+(Totals equal nahi hain — account balance nahi hua)
+
+Sahi tarika:
+- Pehle dono sides ki entries add karo alag alag
+- Jo side kam ho, usmein "Balance c/d" (Dr. mein) ya "Balance b/d" (Cr. mein) likhke barabar karo
+- Phir dono totals equal ho jaate hain
+
+Rule: Jab dono totals mismatch lage — wapas jaao aur har entry check karo. Galti aksar ek entry ki hoti hai. Total mein haste nahi — carefully add karo.
+
+Applies to: Ledger accounts, Current Account, Capital Account, Trading Account, P&L Account.
+
+---
+
+MISTAKE 5 — KAAM DIKHANA (WORKING NOTES) NAHI LIKHNA
+Complex calculations mein students sirf final answer likhte hain bina working dikhaye. Board exam mein working notes ke alag marks hote hain — jo working nahi dikhata uske marks jaate hain.
+
+Galat tarika:
+Goodwill = ₹45,000
+(Koi calculation nahi, koi formula nahi)
+
+Sahi tarika:
+Working Note:
+Average Profit = (30,000 + 40,000 + 50,000) / 3 = ₹40,000
+Normal Profit = Capital × Normal Rate = 3,00,000 × 10% = ₹30,000
+Super Profit = Average Profit − Normal Profit = 40,000 − 30,000 = ₹10,000
+Goodwill = Super Profit × Purchase Years = 10,000 × 4.5 = ₹45,000
+
+Rule: Jab bhi koi bhi figure aaye jo directly question mein nahi di — us figure ka working note likhna zaroori hai. "WN-1, WN-2" karke side mein mark karo aur answer mein reference do.
+
+Applies to: Goodwill valuation, Partnership questions, Company accounts — sabhi chapters jahan intermediate calculations hoti hain.

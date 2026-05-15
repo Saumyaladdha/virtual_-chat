@@ -1,0 +1,22 @@
+━━━ TODAY'S FORMAT: IMPORTANT TOPICS ━━━
+
+Follow this priority order strictly — stop at the first one that has data:
+
+1. Marks available
+   → "yeh chapter [Board] mein seedha X marks deta hai"
+
+2. Guaranteed question (guaranteed_annual = Yes)
+   → "is chapter se board exam mein sawaal pakka aata hai"
+
+3. Repeated topic found in repeated_topics data
+   → pick ONE topic name, say: "[topic] board mein baar baar pucha jaata hai"
+   → never paste raw text, never mention years
+
+4. Difficulty data available
+   → Hard: "yeh chapter thoda tricky hai par aaj class mein bilkul clear ho jayega"
+   → Easy: "yeh chapter thodi si mehnat mein poore marks deta hai"
+
+5. Nothing available — use this fallback:
+   → {fallback_hook}
+
+All other rules (PYQ check, info block, language) apply as normal.

@@ -1,0 +1,1900 @@
+{
+  "board": "RBSE",
+  "class": "12",
+  "subject": "जीव विज्ञान (Biology)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 56,
+    "practical_paper": 30,
+    "internal_assessment": 14,
+    "total": 100,
+    "passing_marks_theory": 20,
+    "passing_marks_practical": 10,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": true,
+    "extra_time_note": "हाँ — 15 मिनट पठन समय मिलता है। प्रश्न-पत्र पढ़ें, OR विकल्पों का निर्णय लें।",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 0,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "RBSE में कई सेट्स (sets) होते हैं। सभी सेट्स में प्रश्न समान होते हैं, केवल क्रम (order) अलग होता है।",
+    "sets_same_or_different": "",
+    "language_of_attempt": "हिन्दी या अंग्रेज़ी दोनों में उत्तर दे सकते हैं।",
+    "all_compulsory_note": "खण्ड स (दीर्घ उत्तरीय Q16-Q18) तथा खण्ड द (निबन्धात्मक Q19-Q20) में आन्तरिक विकल्प (OR) मिलता है।",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "RBSE जीव विज्ञान का पाठ्यक्रम NCERT पर आधारित है। NCERT के सभी अध्याय भली-भाँति पढ़ें। SP Examination Idea Biology भी ज़रूरी है।",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "RBSE जीव विज्ञान प्रश्न-पत्र: 20 मुख्य प्रश्न, 51 उप-प्रश्न, 56 अंक। खण्ड अ = MCQ(0.5) + रिक्त स्थान(0.5) + अति लघु(1)। खण्ड ब = लघु(1.5)। खण्ड स = दीर्घ(3)। खण्ड द = निबन्धात्मक(4)।",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "बहुविकल्पीय प्रश्न (MCQ)",
+        "question_number": "Q1",
+        "section": "अ",
+        "marks_each": 0.5,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "केवल सही विकल्प (a)/(b)/(c)/(d) लिखें। कोई व्याख्या नहीं। 0.5 अंक के लिए 30 सेकंड से अधिक समय न दें।",
+        "mostly_from": "सभी अध्यायों से — परिभाषाएँ, जीवों के नाम, प्रक्रियाओं के नाम, रोग एवं कारक, चित्र पहचान।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "रिक्त स्थान भरिए (Fill in the Blanks)",
+        "question_number": "Q2",
+        "section": "अ",
+        "marks_each": 0.5,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "एक वैज्ञानिक शब्द, जीव का नाम, अथवा प्रक्रिया का नाम लिखना होता है।",
+        "mostly_from": "वैज्ञानिक नाम, विशिष्ट पारिभाषिक शब्द (स्पोरोपोलेनिन, सहसहायक कोशिकाएँ, MHC), रोग कारक, गुणसूत्र संख्याएँ।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "अति लघु उत्तरीय (Very Short Answer / VSA)",
+        "question_number": "Q3",
+        "section": "अ",
+        "marks_each": 1,
+        "total_in_paper": 0,
+        "attempt": 0,
+        "negative_marking": false,
+        "how_to_attempt": "शब्द की परिभाषा, जीव/प्रक्रिया का नाम, अथवा एक वाक्य में उत्तर। वैज्ञानिक नाम शुद्ध लिखना ज़रूरी।",
+        "mostly_from": "परिभाषाएँ (असंगजनन, अनिषेक फलन, सहलग्नता), शर्तें, वैज्ञानिकों के नाम।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "1-2 पंक्तियाँ",
+        "notes": ""
+      },
+      {
+        "type": "लघु उत्तरीय (Short Answer)",
+        "question_number": "",
+        "section": "ब",
+        "marks_each": 1.5,
+        "total_in_paper": 12,
+        "attempt": 12,
+        "negative_marking": false,
+        "how_to_attempt": "1.5 अंक = अवधारणा/परिभाषा (0.5) + व्याख्या/उदाहरण (0.5) + चित्र यदि पूछा गया हो (0.5)। 4-5 पंक्तियाँ पर्याप्त।",
+        "mostly_from": "सभी 13 अध्यायों से — अंतर सम्बन्धी प्रश्न, संक्षिप्त प्रक्रिया व्याख्या, सरल चित्र।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "40-60 शब्द / 4-6 पंक्तियाँ",
+        "notes": ""
+      },
+      {
+        "type": "दीर्घ उत्तरीय (Long Answer)",
+        "question_number": "",
+        "section": "स",
+        "marks_each": 3,
+        "total_in_paper": 3,
+        "attempt": 3,
+        "negative_marking": false,
+        "how_to_attempt": "3 अंक = अवधारणा (1) + चरण/चित्र सहित व्याख्या (1.5) + निष्कर्ष/महत्व (0.5)। जहाँ लागू हो, नामांकित चित्र अनिवार्य।",
+        "mostly_from": "प्रजनन (भ्रूणकोष, द्विनिषेचन), आनुवंशिकी (संकरण, DNA), पारिस्थितिकी (पिरामिड, पोषक चक्र), जैव प्रौद्योगिकी।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "80-120 शब्द",
+        "notes": ""
+      },
+      {
+        "type": "निबन्धात्मक (Essay Type)",
+        "question_number": "",
+        "section": "द",
+        "marks_each": 4,
+        "total_in_paper": 2,
+        "attempt": 2,
+        "negative_marking": false,
+        "how_to_attempt": "4 अंक = प्रस्तावना (0.5) + नामांकित चित्र सहित विस्तृत व्याख्या (2) + चरण/क्रियाविधि (1) + महत्व/निष्कर्ष (0.5)। चित्र अनिवार्य।",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "120-150 शब्द",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "RBSE जीव विज्ञान थ्योरी प्रश्न-पत्र = 56 अंक। 4 खण्ड (अ-द)। 20 मुख्य प्रश्न (51 उप-प्रश्न)। अवधि 3 घण्टे 15 मिनट (15 मिनट पठन समय अतिरिक्त)।",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "खण्ड स (दीर्घ उत्तरीय Q16-Q18) तथा खण्ड द (निबन्धात्मक Q19-Q20) में आन्तरिक विकल्प (OR) मिलता है।",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 40,
+      "medium_percent": 40,
+      "hard_percent": 20,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "खण्ड अ — वस्तुनिष्ठ (Objective)",
+        "type": "खण्ड अ — वस्तुनिष्ठ (Objective)",
+        "question_numbers": "Q1, Q2, Q3",
+        "total_questions": 0,
+        "total_sub_questions": 3,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 21,
+        "word_limit": "",
+        "breakdown": "Q1_MCQ: {'type': 'बहुविकल्पीय प्रश्न (MCQ)', 'sub_parts': 16, 'marks_each': 0.5, 'total': 8, 'note': 'Q1 में 16 उप-भाग × 0.5 अंक = 8 अंक'}; Q2_fill_blanks: {'type': 'रिक्त स्थान भरिए (Fill in the Blanks)', 'sub_parts': 10, 'marks_each': 0.5, 'total': 5, 'note': 'Q2 में 10 उप-भाग × 0.5 अंक = 5 अंक'}; Q3_very_short: {'type': 'अति लघु उत्तरीय (Very Short Answer)', 'sub_parts': 8, 'marks_each': 1, 'total': 8, 'note': 'Q3 में 8 उप-भाग × 1 अंक = 8 अंक'}",
+        "notes": ""
+      },
+      {
+        "section_id": "B",
+        "name": "खण्ड ब — लघु उत्तरीय (Short Answer)",
+        "type": "खण्ड ब — लघु उत्तरीय (Short Answer)",
+        "question_numbers": "Q4 से Q15",
+        "total_questions": 12,
+        "total_sub_questions": 0,
+        "attempt_required": 12,
+        "marks_per_question": 1.5,
+        "total_marks": 18,
+        "word_limit": "",
+        "breakdown": "Q4 से Q15 — 12 प्रश्न × 1.5 अंक = 18 अंक। सभी अनिवार्य।",
+        "notes": "Q4 से Q15 — 12 प्रश्न × 1.5 अंक = 18 अंक। सभी अनिवार्य।"
+      },
+      {
+        "section_id": "C",
+        "name": "खण्ड स — दीर्घ उत्तरीय (Long Answer)",
+        "type": "खण्ड स — दीर्घ उत्तरीय (Long Answer)",
+        "question_numbers": "Q16 से Q18",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "attempt_required": 3,
+        "marks_per_question": 3,
+        "total_marks": 9,
+        "word_limit": "",
+        "breakdown": "Q16, Q17, Q18 — 3 प्रश्न × 3 अंक = 9 अंक। आन्तरिक OR विकल्प मिलता है।",
+        "notes": "Q16, Q17, Q18 — 3 प्रश्न × 3 अंक = 9 अंक। आन्तरिक OR विकल्प मिलता है।"
+      },
+      {
+        "section_id": "D",
+        "name": "खण्ड द — निबन्धात्मक (Essay Type)",
+        "type": "खण्ड द — निबन्धात्मक (Essay Type)",
+        "question_numbers": "Q19 तथा Q20",
+        "total_questions": 2,
+        "total_sub_questions": 0,
+        "attempt_required": 2,
+        "marks_per_question": 4,
+        "total_marks": 8,
+        "word_limit": "",
+        "breakdown": "Q19 तथा Q20 — 2 प्रश्न × 4 अंक = 8 अंक। आन्तरिक OR विकल्प मिलता है।",
+        "notes": "Q19 तथा Q20 — 2 प्रश्न × 4 अंक = 8 अंक। आन्तरिक OR विकल्प मिलता है।"
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 56,
+    "total_practical": 30,
+    "internal_assessment": 14,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "खण्ड अ — वस्तुनिष्ठ (Objective)",
+        "question_numbers": "Q1, Q2, Q3",
+        "type": "खण्ड अ — वस्तुनिष्ठ (Objective)",
+        "total_questions": 0,
+        "total_sub_questions": 3,
+        "marks_per_question": 0,
+        "total_marks": 21,
+        "word_limit": "",
+        "breakdown": "Q1_MCQ: {'type': 'बहुविकल्पीय प्रश्न (MCQ)', 'sub_parts': 16, 'marks_each': 0.5, 'total': 8, 'note': 'Q1 में 16 उप-भाग × 0.5 अंक = 8 अंक'}; Q2_fill_blanks: {'type': 'रिक्त स्थान भरिए (Fill in the Blanks)', 'sub_parts': 10, 'marks_each': 0.5, 'total': 5, 'note': 'Q2 में 10 उप-भाग × 0.5 अंक = 5 अंक'}; Q3_very_short: {'type': 'अति लघु उत्तरीय (Very Short Answer)', 'sub_parts': 8, 'marks_each': 1, 'total': 8, 'note': 'Q3 में 8 उप-भाग × 1 अंक = 8 अंक'}"
+      },
+      {
+        "section_id": "B",
+        "name": "खण्ड ब — लघु उत्तरीय (Short Answer)",
+        "question_numbers": "Q4 से Q15",
+        "type": "खण्ड ब — लघु उत्तरीय (Short Answer)",
+        "total_questions": 12,
+        "total_sub_questions": 0,
+        "marks_per_question": 1.5,
+        "total_marks": 18,
+        "word_limit": "",
+        "breakdown": "Q4 से Q15 — 12 प्रश्न × 1.5 अंक = 18 अंक। सभी अनिवार्य।"
+      },
+      {
+        "section_id": "C",
+        "name": "खण्ड स — दीर्घ उत्तरीय (Long Answer)",
+        "question_numbers": "Q16 से Q18",
+        "type": "खण्ड स — दीर्घ उत्तरीय (Long Answer)",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 9,
+        "word_limit": "",
+        "breakdown": "Q16, Q17, Q18 — 3 प्रश्न × 3 अंक = 9 अंक। आन्तरिक OR विकल्प मिलता है।"
+      },
+      {
+        "section_id": "D",
+        "name": "खण्ड द — निबन्धात्मक (Essay Type)",
+        "question_numbers": "Q19 तथा Q20",
+        "type": "खण्ड द — निबन्धात्मक (Essay Type)",
+        "total_questions": 2,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 8,
+        "word_limit": "",
+        "breakdown": "Q19 तथा Q20 — 2 प्रश्न × 4 अंक = 8 अंक। आन्तरिक OR विकल्प मिलता है।"
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 56,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "5",
+      "name": "आनुवंशिकता का आणविक आधार (Molecular Basis of Inheritance)",
+      "marks": 6,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "3",
+        "name": "प्रजनन स्वास्थ्य (Reproductive Health)",
+        "marks": 2
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "पुष्पी पादपों में लैंगिक प्रजनन (Sexual Reproduction in Flowering Plants)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "मानव प्रजनन (Human Reproduction)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "प्रजनन स्वास्थ्य (Reproductive Health)",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "वंशागति के सिद्धान्त तथा विविधताएँ (Inheritance Principles and Variation)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "आनुवंशिकता का आणविक आधार (Molecular Basis of Inheritance)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "विकास (Evolution)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "मानव स्वास्थ्य एवं रोग (Human Health and Diseases)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "name": "मानव कल्याण में सूक्ष्मजीवों की भूमिका (Role of Microbes in Human Welfare)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "name": "जैव प्रौद्योगिकी के सिद्धान्त एवं जैव प्रौद्योगिकी आधारित प्रक्रम (Principles of Biotechnology and Biotechnology-Based Processes)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "10",
+        "name": "जैव प्रौद्योगिकी से सम्बन्धित अनुप्रयोग (Applications Related to Biotechnology)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "11",
+        "name": "जीव एवं समष्टियाँ (Organisms and Population)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "name": "पारितंत्र (Ecosystems)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "13",
+        "name": "जैव विविधता एवं उसका संरक्षण (Biodiversity and Its Conservation)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 56,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Biology Class 12 — 13 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Biology",
+        "category": "Main",
+        "total_marks": 56,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "पुष्पी पादपों में लैंगिक प्रजनन (Sexual Reproduction in Flowering Plants)",
+            "marks": 5,
+            "topics": [
+              "पुष्प की संरचना — पुंकेसर, स्त्रीकेसर, परागकोश, अण्डाशय",
+              "लघुबीजाणुजनन — परागकण निर्माण",
+              "गुरुबीजाणुजनन — भ्रूणकोष निर्माण (7-कोशिकीय, 8-केंद्रकीय)",
+              "परागण के प्रकार — स्वयुग्मन (autogamy), सजातपुष्पी (geitonogamy), परनिषेचन (xenogamy)",
+              "द्विनिषेचन — युग्मसंयोजन + त्रिसंलयन",
+              "भ्रूणपोष एवं भ्रूण विकास",
+              "असंगजनन (Apomixis), बहुभ्रूणता (Polyembryony), अनिषेक फलन (Parthenocarpy)",
+              "स्पोरोपोलेनिन — प्रतिरोधकता, भण्डारण"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "मानव प्रजनन (Human Reproduction)",
+            "marks": 4,
+            "topics": [
+              "नर प्रजनन तंत्र — शुक्रजनक नलिकाएँ, शुक्राणुजनन",
+              "मादा प्रजनन तंत्र — अण्डाशय, ग्राफियन पुटक, अण्डजनन",
+              "ऋतुस्राव चक्र — चरण, हार्मोन (FSH, LH, एस्ट्रोजन, प्रोजेस्टेरोन)",
+              "निषेचन एवं अन्तर्रोपण",
+              "गर्भावस्था — गर्भनाल के कार्य, HCG",
+              "भ्रूणीय विकास — जननिक स्तर"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "प्रजनन स्वास्थ्य (Reproductive Health)",
+            "marks": 2,
+            "topics": [
+              "यौन संचारित रोग (STIs) — प्रकार, बचाव",
+              "गर्भनिरोधक विधियाँ — अवरोधक, IUD, मौखिक गोलियाँ, शल्य विधि",
+              "MTP — गर्भावस्था का चिकित्सकीय समापन",
+              "एम्नियोसेन्टेसिस — उपयोग एवं नैतिकता",
+              "बाँझपन — IVF, ZIFT, GIFT"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "वंशागति के सिद्धान्त तथा विविधताएँ (Inheritance Principles and Variation)",
+            "marks": 5,
+            "topics": [
+              "मेंडल के नियम — पृथक्करण, स्वतंत्र अपव्यूहन",
+              "एकसंकर संकरण — 3:1 अनुपात",
+              "द्विसंकर संकरण — 9:3:3:1 अनुपात",
+              "अपूर्ण प्रभाविता — 1:2:1",
+              "सह-प्रभाविता — ABO रक्त समूह",
+              "सहलग्नता एवं विनिमय",
+              "लिंग निर्धारण — XX/XY",
+              "लिंग-सहलग्न वंशागति — हीमोफीलिया, वर्णान्धता",
+              "गुणसूत्रीय विकार — डाउन सिण्ड्रोम (ट्राइसोमी 21), टर्नर, क्लाइनफेल्टर",
+              "उत्परिवर्तन के प्रकार"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "आनुवंशिकता का आणविक आधार (Molecular Basis of Inheritance)",
+            "marks": 6,
+            "topics": [
+              "DNA संरचना — वॉटसन-क्रिक द्विकुण्डलित मॉडल, चारगॉफ नियम",
+              "DNA कुण्डलन — न्यूक्लिओसोम, हिस्टोन प्रोटीन",
+              "DNA प्रतिकृति — अर्धसंरक्षी (मेसेलसन-स्टाल प्रयोग)",
+              "अनुलेखन (Transcription) — टेम्पलेट स्ट्रैण्ड, mRNA",
+              "आनुवंशिक कूट — गुणधर्म (अपभ्रष्टता, सार्वभौमिकता)",
+              "अनुवादन (Translation) — राइबोसोम, tRNA, ऐमीनोएसिल tRNA सिंथेटेज़",
+              "जीन विनियमन — लैक ओपेरॉन (E. coli)",
+              "मानव जीनोम परियोजना — लक्ष्य, परिणाम",
+              "DNA अंगुलिछापी — VNTR"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "विकास (Evolution)",
+            "marks": 3,
+            "topics": [
+              "जीवन की उत्पत्ति के सिद्धान्त — मिलर-यूरे प्रयोग",
+              "ओपेरिन-हाल्डेन सिद्धान्त — रासायनिक विकास",
+              "डार्विन का सिद्धान्त — प्राकृतिक चयन",
+              "लैमार्क का सिद्धान्त — उपयोग एवं अनुपयोग",
+              "हार्डी-वाइनबर्ग सिद्धान्त — p² + 2pq + q² = 1",
+              "प्राकृतिक चयन के प्रकार — दिशात्मक, स्थिरीकरण, विदारक",
+              "मानव विकास — चरण (होमो हैबिलिस → होमो सेपिएन्स)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "मानव स्वास्थ्य एवं रोग (Human Health and Diseases)",
+            "marks": 6,
+            "topics": [
+              "सामान्य रोग — टाइफॉइड (Salmonella typhi), निमोनिया (Streptococcus), मलेरिया (Plasmodium), अमीबियासिस (Entamoeba), एस्केरियासिस, फाइलेरिया, दाद",
+              "प्रतिरक्षा — जन्मजात बनाम उपार्जित",
+              "सक्रिय बनाम निष्क्रिय प्रतिरक्षा",
+              "एंटीबॉडी संरचना — Y-आकार, IgG/IgM",
+              "प्राथमिक बनाम द्वितीयक प्रतिरक्षा अनुक्रिया",
+              "टीके एवं टीकाकरण",
+              "कैंसर — ऑन्कोजीन, कैन्सरजन, कैंसर प्रसार, उपचार",
+              "एड्स — HIV (रेट्रोवायरस), CD4 कोशिकाएँ, ELISA परीक्षण, संचरण, बचाव",
+              "औषधि एवं मद्य दुरुपयोग"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "मानव कल्याण में सूक्ष्मजीवों की भूमिका (Role of Microbes in Human Welfare)",
+            "marks": 5,
+            "topics": [
+              "किण्वन — ब्रेड (यीस्ट), दही (Lactobacillus), बीयर/वाइन",
+              "एंटीबायोटिक्स — पेनिसिलिन (एलेक्ज़ेंडर फ्लेमिंग), स्ट्रेप्टोमाइसिन",
+              "मल जल उपचार — प्राथमिक (भौतिक) तथा द्वितीयक (जैविक/BOD)",
+              "बायोगैस उत्पादन — मेथेनोजन, बायोगैस संयंत्र",
+              "जैव उर्वरक — Rhizobium, Azospirillum, नील-हरित शैवाल, कवकमूल",
+              "जैव कीटनाशक — Bacillus thuringiensis (Bt विषैला प्रोटीन)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "जैव प्रौद्योगिकी के सिद्धान्त एवं जैव प्रौद्योगिकी आधारित प्रक्रम (Principles of Biotechnology and Biotechnology-Based Processes)",
+            "marks": 4,
+            "topics": [
+              "पुनर्योगज DNA प्रौद्योगिकी — चरण",
+              "प्रतिबन्ध एन्डोन्यूक्लिऐज़ — अभिज्ञान अनुक्रम, चिपचिपे सिरे, पैलिण्ड्रोमिक अनुक्रम",
+              "क्लोनिंग संवाहक — प्लास्मिड विशेषताएँ (ori, चयनात्मक चिह्नक, MCS)",
+              "PCR — 3 चरण (विकृतीकरण 94°C, तापानुशीलन 45-55°C, विस्तार 72°C), Taq पॉलीमरेज़",
+              "जेल वैद्युत कण संचलन — आकार के अनुसार DNA पृथक्करण",
+              "जैवरिऐक्टर — प्रकार एवं उपयोग"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "जैव प्रौद्योगिकी से सम्बन्धित अनुप्रयोग (Applications Related to Biotechnology)",
+            "marks": 4,
+            "topics": [
+              "Bt कपास — बॉलवर्म प्रतिरोधिता, Bt विषैला प्रोटीन की क्रियाविधि",
+              "गोल्डन राइस — विटामिन A समृद्धीकरण (बीटा-कैरोटीन)",
+              "जीन चिकित्सा — ADA अभाव का मामला",
+              "ELISA — एन्जाइम-लिंक्ड इम्यूनोसॉर्बेंट ऐसे — रोग पहचान में उपयोग",
+              "पारजीनी प्राणी — उपयोग",
+              "जैव चोरी — बासमती, हल्दी के उदाहरण",
+              "GEAC — आनुवंशिक अभियांत्रिकी अनुमोदन समिति"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "जीव एवं समष्टियाँ (Organisms and Population)",
+            "marks": 4,
+            "topics": [
+              "अजैविक कारक — तापमान, जल, प्रकाश, मृदा",
+              "अनुकूलन — तापीय नियमन, परासरण नियमन, शीत निष्क्रियता, ग्रीष्म निष्क्रियता",
+              "समष्टि वृद्धि — चरघातांकी (J-वक्र: dN/dt = rN) बनाम लॉजिस्टिक (S-वक्र)",
+              "समष्टि अन्तःक्रियाएँ — परभक्षण, स्पर्धा, सहोपकारिता, सहभोजिता, परजीविता, उदासीनता",
+              "r तथा K रणनीतियाँ"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "पारितंत्र (Ecosystems)",
+            "marks": 5,
+            "topics": [
+              "पारितंत्र के घटक — जैविक एवं अजैविक",
+              "आहार श्रृंखला एवं आहार जाल",
+              "पोषण स्तर",
+              "10% ऊर्जा नियम — लिण्डेमान नियम",
+              "पारिस्थितिक पिरामिड — संख्या, जैवभार, ऊर्जा (ऊर्जा पिरामिड सदैव सीधा)",
+              "उत्पादकता — GPP, NPP (NPP = GPP - श्वसन)",
+              "पोषक चक्रण — कार्बन चक्र, नाइट्रोजन चक्र",
+              "अपघटन — अपरद (detritus), ह्यूमस, खनिजीकरण"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "जैव विविधता एवं उसका संरक्षण (Biodiversity and Its Conservation)",
+            "marks": 3,
+            "topics": [
+              "जैव विविधता के स्तर — आनुवंशिक, जातीय, पारितंत्रीय",
+              "जैव विविधता हॉटस्पॉट — मापदण्ड (>1500 स्थानिक पौधे + >70% आवास हानि)",
+              "भारत के हॉटस्पॉट — पश्चिमी घाट, हिमालय, पूर्वोत्तर, अण्डमान-निकोबार",
+              "खतरे — HIPPO (आवास हानि, आक्रामक जातियाँ, प्रदूषण, जनसंख्या, अतिदोहन)",
+              "स्व-स्थाने संरक्षण — राष्ट्रीय उद्यान, वन्यजीव अभयारण्य, जैवमण्डल आरक्षित क्षेत्र",
+              "बाह्य स्थाने संरक्षण — चिड़ियाघर, बीज बैंक, जीन बैंक, निम्नतापी परिरक्षण",
+              "जैवमण्डल आरक्षित क्षेत्र के ज़ोन — केन्द्रीय, बफर, संक्रमण",
+              "टाइगर परियोजना (1973)"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "पुष्पी पादपों में लैंगिक प्रजनन (Sexual Reproduction in Flowering Plants)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 1,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "सरल-मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "पुष्प की संरचना — पुंकेसर, स्त्रीकेसर, परागकोश, अण्डाशय",
+        "लघुबीजाणुजनन — परागकण निर्माण",
+        "गुरुबीजाणुजनन — भ्रूणकोष निर्माण (7-कोशिकीय, 8-केंद्रकीय)",
+        "परागण के प्रकार — स्वयुग्मन (autogamy), सजातपुष्पी (geitonogamy), परनिषेचन (xenogamy)",
+        "द्विनिषेचन — युग्मसंयोजन + त्रिसंलयन",
+        "भ्रूणपोष एवं भ्रूण विकास",
+        "असंगजनन (Apomixis), बहुभ्रूणता (Polyembryony), अनिषेक फलन (Parthenocarpy)",
+        "स्पोरोपोलेनिन — प्रतिरोधकता, भण्डारण"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "पुष्प का अनुदैर्घ्य काट L.S. (नामांकित)",
+        "परागकोश का अनुप्रस्थ काट T.S.",
+        "परिपक्व भ्रूणकोष (7-कोशिकीय, 8-केंद्रकीय) — सर्वाधिक महत्वपूर्ण",
+        "परागकण संरचना (बहिःचोल-अन्तःचोल)"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "भ्रूणकोष संरचना (दीर्घ/लघु), द्विनिषेचन (लघु/दीर्घ), असंगजनन बनाम अनिषेक फलन (लघु/MCQ), स्पोरोपोलेनिन गुणधर्म (अति लघु/रिक्त स्थान)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "मानव प्रजनन (Human Reproduction)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 2,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "नर प्रजनन तंत्र — शुक्रजनक नलिकाएँ, शुक्राणुजनन",
+        "मादा प्रजनन तंत्र — अण्डाशय, ग्राफियन पुटक, अण्डजनन",
+        "ऋतुस्राव चक्र — चरण, हार्मोन (FSH, LH, एस्ट्रोजन, प्रोजेस्टेरोन)",
+        "निषेचन एवं अन्तर्रोपण",
+        "गर्भावस्था — गर्भनाल के कार्य, HCG",
+        "भ्रूणीय विकास — जननिक स्तर"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "नर प्रजनन तंत्र",
+        "मादा प्रजनन तंत्र",
+        "परिपक्व ग्राफियन पुटक"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "शुक्राणुजनन बनाम अण्डजनन (लघु/दीर्घ), ऋतुस्राव चक्र के चरण (लघु), गर्भनाल के कार्य (लघु/अति लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "प्रजनन स्वास्थ्य (Reproductive Health)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 3,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "सरल",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "यौन संचारित रोग (STIs) — प्रकार, बचाव",
+        "गर्भनिरोधक विधियाँ — अवरोधक, IUD, मौखिक गोलियाँ, शल्य विधि",
+        "MTP — गर्भावस्था का चिकित्सकीय समापन",
+        "एम्नियोसेन्टेसिस — उपयोग एवं नैतिकता",
+        "बाँझपन — IVF, ZIFT, GIFT"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "गर्भनिरोधक विधियाँ (लघु/अति लघु), STI बचाव (अति लघु), एम्नियोसेन्टेसिस का उद्देश्य (अति लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "वंशागति के सिद्धान्त तथा विविधताएँ (Inheritance Principles and Variation)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 4,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "मेंडल के नियम — पृथक्करण, स्वतंत्र अपव्यूहन",
+        "एकसंकर संकरण — 3:1 अनुपात",
+        "द्विसंकर संकरण — 9:3:3:1 अनुपात",
+        "अपूर्ण प्रभाविता — 1:2:1",
+        "सह-प्रभाविता — ABO रक्त समूह",
+        "सहलग्नता एवं विनिमय",
+        "लिंग निर्धारण — XX/XY",
+        "लिंग-सहलग्न वंशागति — हीमोफीलिया, वर्णान्धता",
+        "गुणसूत्रीय विकार — डाउन सिण्ड्रोम (ट्राइसोमी 21), टर्नर, क्लाइनफेल्टर",
+        "उत्परिवर्तन के प्रकार"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "एकसंकर संकरण — पनेट वर्ग",
+        "द्विसंकर संकरण — पनेट वर्ग",
+        "लिंग-सहलग्न रोग हेतु वंशावली चार्ट"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "द्विसंकर संकरण 9:3:3:1 (दीर्घ/लघु), ABO रक्त समूह सह-प्रभाविता (लघु/MCQ), हीमोफीलिया लिंग-सहलग्न वंशागति (लघु), डाउन सिण्ड्रोम (अति लघु/MCQ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "आनुवंशिकता का आणविक आधार (Molecular Basis of Inheritance)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 5,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "कठिन",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "DNA संरचना — वॉटसन-क्रिक द्विकुण्डलित मॉडल, चारगॉफ नियम",
+        "DNA कुण्डलन — न्यूक्लिओसोम, हिस्टोन प्रोटीन",
+        "DNA प्रतिकृति — अर्धसंरक्षी (मेसेलसन-स्टाल प्रयोग)",
+        "अनुलेखन (Transcription) — टेम्पलेट स्ट्रैण्ड, mRNA",
+        "आनुवंशिक कूट — गुणधर्म (अपभ्रष्टता, सार्वभौमिकता)",
+        "अनुवादन (Translation) — राइबोसोम, tRNA, ऐमीनोएसिल tRNA सिंथेटेज़",
+        "जीन विनियमन — लैक ओपेरॉन (E. coli)",
+        "मानव जीनोम परियोजना — लक्ष्य, परिणाम",
+        "DNA अंगुलिछापी — VNTR"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "DNA द्विकुण्डल (नामांकित)",
+        "न्यूक्लिओसोम मॉडल",
+        "लैक ओपेरॉन (प्रेरित + दमित अवस्था)",
+        "अनुलेखन एकक"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "DNA अर्धसंरक्षी प्रतिकृति प्रमाण (दीर्घ/निबन्धात्मक), लैक ओपेरॉन क्रियाविधि (दीर्घ/निबन्धात्मक), DNA संरचना (लघु/MCQ), मेसेलसन-स्टाल प्रयोग (लघु/दीर्घ), आनुवंशिक कूट गुणधर्म (अति लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "विकास (Evolution)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 6,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "जीवन की उत्पत्ति के सिद्धान्त — मिलर-यूरे प्रयोग",
+        "ओपेरिन-हाल्डेन सिद्धान्त — रासायनिक विकास",
+        "डार्विन का सिद्धान्त — प्राकृतिक चयन",
+        "लैमार्क का सिद्धान्त — उपयोग एवं अनुपयोग",
+        "हार्डी-वाइनबर्ग सिद्धान्त — p² + 2pq + q² = 1",
+        "प्राकृतिक चयन के प्रकार — दिशात्मक, स्थिरीकरण, विदारक",
+        "मानव विकास — चरण (होमो हैबिलिस → होमो सेपिएन्स)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "डार्विन बनाम लैमार्क (लघु), हार्डी-वाइनबर्ग सिद्धान्त (लघु/अति लघु), मिलर प्रयोग का महत्व (अति लघु), मानव विकास चरण (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "मानव स्वास्थ्य एवं रोग (Human Health and Diseases)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 7,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "सरल-मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "सामान्य रोग — टाइफॉइड (Salmonella typhi), निमोनिया (Streptococcus), मलेरिया (Plasmodium), अमीबियासिस (Entamoeba), एस्केरियासिस, फाइलेरिया, दाद",
+        "प्रतिरक्षा — जन्मजात बनाम उपार्जित",
+        "सक्रिय बनाम निष्क्रिय प्रतिरक्षा",
+        "एंटीबॉडी संरचना — Y-आकार, IgG/IgM",
+        "प्राथमिक बनाम द्वितीयक प्रतिरक्षा अनुक्रिया",
+        "टीके एवं टीकाकरण",
+        "कैंसर — ऑन्कोजीन, कैन्सरजन, कैंसर प्रसार, उपचार",
+        "एड्स — HIV (रेट्रोवायरस), CD4 कोशिकाएँ, ELISA परीक्षण, संचरण, बचाव",
+        "औषधि एवं मद्य दुरुपयोग"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "एंटीबॉडी संरचना (Y-आकार)",
+        "मलेरिया जीवन चक्र (Plasmodium मच्छर एवं मानव में)"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "प्रतिरक्षा के प्रकार — सक्रिय बनाम निष्क्रिय (लघु/दीर्घ), एड्स संचरण एवं बचाव (दीर्घ), कैंसर बनाम सामान्य कोशिका (लघु), मलेरिया कारक एवं वाहक (MCQ/अति लघु), एंटीबॉडी संरचना (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "मानव कल्याण में सूक्ष्मजीवों की भूमिका (Role of Microbes in Human Welfare)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 8,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "सरल",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "किण्वन — ब्रेड (यीस्ट), दही (Lactobacillus), बीयर/वाइन",
+        "एंटीबायोटिक्स — पेनिसिलिन (एलेक्ज़ेंडर फ्लेमिंग), स्ट्रेप्टोमाइसिन",
+        "मल जल उपचार — प्राथमिक (भौतिक) तथा द्वितीयक (जैविक/BOD)",
+        "बायोगैस उत्पादन — मेथेनोजन, बायोगैस संयंत्र",
+        "जैव उर्वरक — Rhizobium, Azospirillum, नील-हरित शैवाल, कवकमूल",
+        "जैव कीटनाशक — Bacillus thuringiensis (Bt विषैला प्रोटीन)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "मल जल उपचार चरण (लघु/दीर्घ), जैव उर्वरक प्रकार (MCQ/लघु), पेनिसिलिन की खोज (अति लघु), Bt विषैला प्रोटीन की क्रियाविधि (लघु), बायोगैस उत्पादन (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "जैव प्रौद्योगिकी के सिद्धान्त एवं जैव प्रौद्योगिकी आधारित प्रक्रम (Principles of Biotechnology and Biotechnology-Based Processes)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 9,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "पुनर्योगज DNA प्रौद्योगिकी — चरण",
+        "प्रतिबन्ध एन्डोन्यूक्लिऐज़ — अभिज्ञान अनुक्रम, चिपचिपे सिरे, पैलिण्ड्रोमिक अनुक्रम",
+        "क्लोनिंग संवाहक — प्लास्मिड विशेषताएँ (ori, चयनात्मक चिह्नक, MCS)",
+        "PCR — 3 चरण (विकृतीकरण 94°C, तापानुशीलन 45-55°C, विस्तार 72°C), Taq पॉलीमरेज़",
+        "जेल वैद्युत कण संचलन — आकार के अनुसार DNA पृथक्करण",
+        "जैवरिऐक्टर — प्रकार एवं उपयोग"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "PCR प्रक्रिया का चित्र (3 चरण)",
+        "प्रतिबन्ध एन्जाइम कटाव — चिपचिपे सिरे",
+        "क्लोनिंग संवाहक के रूप में प्लास्मिड"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "PCR चरण (लघु/दीर्घ), प्रतिबन्ध एन्जाइम क्रिया (लघु/अति लघु), जेल वैद्युत कण संचलन सिद्धान्त (लघु/MCQ), पैलिण्ड्रोमिक अनुक्रम (अति लघु/रिक्त स्थान)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "जैव प्रौद्योगिकी से सम्बन्धित अनुप्रयोग (Applications Related to Biotechnology)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 10,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "सरल-मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Bt कपास — बॉलवर्म प्रतिरोधिता, Bt विषैला प्रोटीन की क्रियाविधि",
+        "गोल्डन राइस — विटामिन A समृद्धीकरण (बीटा-कैरोटीन)",
+        "जीन चिकित्सा — ADA अभाव का मामला",
+        "ELISA — एन्जाइम-लिंक्ड इम्यूनोसॉर्बेंट ऐसे — रोग पहचान में उपयोग",
+        "पारजीनी प्राणी — उपयोग",
+        "जैव चोरी — बासमती, हल्दी के उदाहरण",
+        "GEAC — आनुवंशिक अभियांत्रिकी अनुमोदन समिति"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Bt कपास प्रतिरोध क्रियाविधि (लघु/MCQ), जीन चिकित्सा ADA अभाव (लघु), गोल्डन राइस का महत्व (अति लघु/लघु), ELISA सिद्धान्त (अति लघु/लघु), जैव चोरी के उदाहरण (अति लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "जीव एवं समष्टियाँ (Organisms and Population)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 11,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "सरल-मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "अजैविक कारक — तापमान, जल, प्रकाश, मृदा",
+        "अनुकूलन — तापीय नियमन, परासरण नियमन, शीत निष्क्रियता, ग्रीष्म निष्क्रियता",
+        "समष्टि वृद्धि — चरघातांकी (J-वक्र: dN/dt = rN) बनाम लॉजिस्टिक (S-वक्र)",
+        "समष्टि अन्तःक्रियाएँ — परभक्षण, स्पर्धा, सहोपकारिता, सहभोजिता, परजीविता, उदासीनता",
+        "r तथा K रणनीतियाँ"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "चरघातांकी वृद्धि: dN/dt = rN",
+        "लॉजिस्टिक वृद्धि: dN/dt = rN(K-N)/K  (K = वहन क्षमता)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "J-वक्र बनाम S-वक्र (लघु/MCQ), समष्टि अन्तःक्रियाओं के प्रकार (MCQ/लघु), वहन क्षमता की अवधारणा (अति लघु/लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "पारितंत्र (Ecosystems)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 12,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "पारितंत्र के घटक — जैविक एवं अजैविक",
+        "आहार श्रृंखला एवं आहार जाल",
+        "पोषण स्तर",
+        "10% ऊर्जा नियम — लिण्डेमान नियम",
+        "पारिस्थितिक पिरामिड — संख्या, जैवभार, ऊर्जा (ऊर्जा पिरामिड सदैव सीधा)",
+        "उत्पादकता — GPP, NPP (NPP = GPP - श्वसन)",
+        "पोषक चक्रण — कार्बन चक्र, नाइट्रोजन चक्र",
+        "अपघटन — अपरद (detritus), ह्यूमस, खनिजीकरण"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "पारिस्थितिक पिरामिड (संख्या, जैवभार, ऊर्जा)",
+        "नाइट्रोजन चक्र",
+        "कार्बन चक्र"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "पारिस्थितिक पिरामिड के प्रकार (लघु/MCQ), 10% ऊर्जा नियम (अति लघु/लघु), नाइट्रोजन चक्र के चरण (दीर्घ/लघु), NPP बनाम GPP (अति लघु/MCQ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "जैव विविधता एवं उसका संरक्षण (Biodiversity and Its Conservation)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 13,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "सरल",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "जैव विविधता के स्तर — आनुवंशिक, जातीय, पारितंत्रीय",
+        "जैव विविधता हॉटस्पॉट — मापदण्ड (>1500 स्थानिक पौधे + >70% आवास हानि)",
+        "भारत के हॉटस्पॉट — पश्चिमी घाट, हिमालय, पूर्वोत्तर, अण्डमान-निकोबार",
+        "खतरे — HIPPO (आवास हानि, आक्रामक जातियाँ, प्रदूषण, जनसंख्या, अतिदोहन)",
+        "स्व-स्थाने संरक्षण — राष्ट्रीय उद्यान, वन्यजीव अभयारण्य, जैवमण्डल आरक्षित क्षेत्र",
+        "बाह्य स्थाने संरक्षण — चिड़ियाघर, बीज बैंक, जीन बैंक, निम्नतापी परिरक्षण",
+        "जैवमण्डल आरक्षित क्षेत्र के ज़ोन — केन्द्रीय, बफर, संक्रमण",
+        "टाइगर परियोजना (1973)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "स्व-स्थाने बनाम बाह्य स्थाने संरक्षण (लघु/MCQ), जैव विविधता हॉटस्पॉट मापदण्ड (अति लघु/MCQ), HIPPO खतरे (अति लघु/लघु), जैवमण्डल आरक्षित क्षेत्र के ज़ोन (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Biology Class 12 — 13 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "खण्ड स (दीर्घ उत्तरीय Q16-Q18) तथा खण्ड द (निबन्धात्मक Q19-Q20) में आन्तरिक विकल्प (OR) मिलता है।",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [
+      "प्रजनन स्वास्थ्य (Reproductive Health) (2 marks)",
+      "विकास (Evolution) (3 marks)",
+      "जैव विविधता एवं उसका संरक्षण (Biodiversity and Its Conservation) (3 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "भ्रूणकोष संरचना (7-कोशिकीय, 8-केंद्रकीय) (Q: , 1.5-3)",
+      "द्विनिषेचन (Q: , 1.5-3)",
+      "प्रतिरक्षा — सक्रिय बनाम निष्क्रिय (दीर्घ/निबन्धात्मक) (Q: , 3-4)",
+      "एड्स — HIV, CD4, ELISA, संचरण (Q: , 3-4)",
+      "DNA प्रतिकृति — अर्धसंरक्षी / मेसेलसन-स्टाल (Q: , 3-4)",
+      "PCR — तापमान सहित 3 चरण (Q: , 1.5-3)",
+      "पारिस्थितिक पिरामिड के प्रकार (सीधा/उल्टा) (Q: , 1.5-3)",
+      "नाइट्रोजन चक्र (Q: , 1.5-3)",
+      "मलेरिया — Plasmodium, Anopheles मच्छर (Q: , 0.5-1.5)",
+      "द्विसंकर संकरण 9:3:3:1 (Q: , 1.5-3)",
+      "स्व-स्थाने बनाम बाह्य स्थाने संरक्षण (Q: , 0.5-1.5)",
+      "Bt कपास / जीन चिकित्सा (Q: , 1.5)"
+    ],
+    "chapters_mostly_theory": [
+      "पुष्पी पादपों में लैंगिक प्रजनन (Sexual Reproduction in Flowering Plants)",
+      "मानव प्रजनन (Human Reproduction)",
+      "प्रजनन स्वास्थ्य (Reproductive Health)",
+      "वंशागति के सिद्धान्त तथा विविधताएँ (Inheritance Principles and Variation)",
+      "आनुवंशिकता का आणविक आधार (Molecular Basis of Inheritance)",
+      "विकास (Evolution)",
+      "मानव स्वास्थ्य एवं रोग (Human Health and Diseases)",
+      "मानव कल्याण में सूक्ष्मजीवों की भूमिका (Role of Microbes in Human Welfare)",
+      "जैव प्रौद्योगिकी के सिद्धान्त एवं जैव प्रौद्योगिकी आधारित प्रक्रम (Principles of Biotechnology and Biotechnology-Based Processes)",
+      "जैव प्रौद्योगिकी से सम्बन्धित अनुप्रयोग (Applications Related to Biotechnology)",
+      "जीव एवं समष्टियाँ (Organisms and Population)",
+      "पारितंत्र (Ecosystems)",
+      "जैव विविधता एवं उसका संरक्षण (Biodiversity and Its Conservation)"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "आनुवंशिकता का आणविक आधार (Molecular Basis of Inheritance)",
+      "मानव स्वास्थ्य एवं रोग (Human Health and Diseases)"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "आनुवंशिकता का आणविक आधार (Molecular Basis of Inheritance)",
+      "मानव स्वास्थ्य एवं रोग (Human Health and Diseases)"
+    ],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "पुष्पी पादपों में लैंगिक प्रजनन (Sexual Reproduction in Flowering Plants)",
+      "मानव प्रजनन (Human Reproduction)",
+      "प्रजनन स्वास्थ्य (Reproductive Health)",
+      "वंशागति के सिद्धान्त तथा विविधताएँ (Inheritance Principles and Variation)",
+      "आनुवंशिकता का आणविक आधार (Molecular Basis of Inheritance)",
+      "विकास (Evolution)",
+      "मानव स्वास्थ्य एवं रोग (Human Health and Diseases)",
+      "मानव कल्याण में सूक्ष्मजीवों की भूमिका (Role of Microbes in Human Welfare)",
+      "जैव प्रौद्योगिकी के सिद्धान्त एवं जैव प्रौद्योगिकी आधारित प्रक्रम (Principles of Biotechnology and Biotechnology-Based Processes)",
+      "जैव प्रौद्योगिकी से सम्बन्धित अनुप्रयोग (Applications Related to Biotechnology)",
+      "जीव एवं समष्टियाँ (Organisms and Population)",
+      "पारितंत्र (Ecosystems)",
+      "जैव विविधता एवं उसका संरक्षण (Biodiversity and Its Conservation)"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "भ्रूणकोष संरचना (7-कोशिकीय, 8-केंद्रकीय) (Q: , 1.5-3)",
+      "द्विनिषेचन (Q: , 1.5-3)",
+      "प्रतिरक्षा — सक्रिय बनाम निष्क्रिय (दीर्घ/निबन्धात्मक) (Q: , 3-4)",
+      "एड्स — HIV, CD4, ELISA, संचरण (Q: , 3-4)",
+      "DNA प्रतिकृति — अर्धसंरक्षी / मेसेलसन-स्टाल (Q: , 3-4)",
+      "PCR — तापमान सहित 3 चरण (Q: , 1.5-3)",
+      "पारिस्थितिक पिरामिड के प्रकार (सीधा/उल्टा) (Q: , 1.5-3)",
+      "नाइट्रोजन चक्र (Q: , 1.5-3)",
+      "मलेरिया — Plasmodium, Anopheles मच्छर (Q: , 0.5-1.5)",
+      "द्विसंकर संकरण 9:3:3:1 (Q: , 1.5-3)",
+      "स्व-स्थाने बनाम बाह्य स्थाने संरक्षण (Q: , 0.5-1.5)",
+      "Bt कपास / जीन चिकित्सा (Q: , 1.5)"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Biology — diagrams/maps.",
+    "must_practise": [
+      {
+        "chapter_id": "1",
+        "chapter_name": "",
+        "diagram_name": "परिपक्व भ्रूणकोष (7-कोशिकीय, 8-केंद्रकीय)",
+        "note": "हर साल"
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "",
+        "diagram_name": "पुष्प का अनुदैर्घ्य काट L.S. (पूर्ण नामांकित)",
+        "note": "बहुत बार"
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "",
+        "diagram_name": "परागकोश का अनुप्रस्थ काट T.S.",
+        "note": "बार-बार"
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "",
+        "diagram_name": "नर प्रजनन तंत्र",
+        "note": "बार-बार"
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "",
+        "diagram_name": "मादा प्रजनन तंत्र",
+        "note": "बार-बार"
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "",
+        "diagram_name": "DNA द्विकुण्डल (नामांकित)",
+        "note": "हर साल"
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "",
+        "diagram_name": "लैक ओपेरॉन (प्रेरित + दमित अवस्था)",
+        "note": "बहुत बार"
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "",
+        "diagram_name": "एंटीबॉडी संरचना (Y-आकार)",
+        "note": "बार-बार"
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "",
+        "diagram_name": "PCR प्रक्रिया (3 चरण)",
+        "note": "बार-बार"
+      },
+      {
+        "chapter_id": "12",
+        "chapter_name": "",
+        "diagram_name": "पारिस्थितिक पिरामिड (संख्या, जैवभार, ऊर्जा)",
+        "note": "बार-बार"
+      },
+      {
+        "chapter_id": "12",
+        "chapter_name": "",
+        "diagram_name": "नाइट्रोजन चक्र",
+        "note": "बार-बार"
+      },
+      {
+        "chapter_id": "13",
+        "chapter_name": "",
+        "diagram_name": "जैवमण्डल आरक्षित क्षेत्र के ज़ोन",
+        "note": "मध्यम"
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "पुष्पी पादपों में लैंगिक प्रजनन (Sexual Reproduction in Flowering Plants)",
+        "diagram_name": "पुष्प का अनुदैर्घ्य काट L.S. (नामांकित)",
+        "note": ""
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "पुष्पी पादपों में लैंगिक प्रजनन (Sexual Reproduction in Flowering Plants)",
+        "diagram_name": "परागकोश का अनुप्रस्थ काट T.S.",
+        "note": ""
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "पुष्पी पादपों में लैंगिक प्रजनन (Sexual Reproduction in Flowering Plants)",
+        "diagram_name": "परिपक्व भ्रूणकोष (7-कोशिकीय, 8-केंद्रकीय) — सर्वाधिक महत्वपूर्ण",
+        "note": ""
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "पुष्पी पादपों में लैंगिक प्रजनन (Sexual Reproduction in Flowering Plants)",
+        "diagram_name": "परागकण संरचना (बहिःचोल-अन्तःचोल)",
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "मानव प्रजनन (Human Reproduction)",
+        "diagram_name": "नर प्रजनन तंत्र",
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "मानव प्रजनन (Human Reproduction)",
+        "diagram_name": "मादा प्रजनन तंत्र",
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "मानव प्रजनन (Human Reproduction)",
+        "diagram_name": "परिपक्व ग्राफियन पुटक",
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "वंशागति के सिद्धान्त तथा विविधताएँ (Inheritance Principles and Variation)",
+        "diagram_name": "एकसंकर संकरण — पनेट वर्ग",
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "वंशागति के सिद्धान्त तथा विविधताएँ (Inheritance Principles and Variation)",
+        "diagram_name": "द्विसंकर संकरण — पनेट वर्ग",
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "वंशागति के सिद्धान्त तथा विविधताएँ (Inheritance Principles and Variation)",
+        "diagram_name": "लिंग-सहलग्न रोग हेतु वंशावली चार्ट",
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "आनुवंशिकता का आणविक आधार (Molecular Basis of Inheritance)",
+        "diagram_name": "DNA द्विकुण्डल (नामांकित)",
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "आनुवंशिकता का आणविक आधार (Molecular Basis of Inheritance)",
+        "diagram_name": "न्यूक्लिओसोम मॉडल",
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "आनुवंशिकता का आणविक आधार (Molecular Basis of Inheritance)",
+        "diagram_name": "लैक ओपेरॉन (प्रेरित + दमित अवस्था)",
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "आनुवंशिकता का आणविक आधार (Molecular Basis of Inheritance)",
+        "diagram_name": "अनुलेखन एकक",
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "मानव स्वास्थ्य एवं रोग (Human Health and Diseases)",
+        "diagram_name": "एंटीबॉडी संरचना (Y-आकार)",
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "मानव स्वास्थ्य एवं रोग (Human Health and Diseases)",
+        "diagram_name": "मलेरिया जीवन चक्र (Plasmodium मच्छर एवं मानव में)",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "जैव प्रौद्योगिकी के सिद्धान्त एवं जैव प्रौद्योगिकी आधारित प्रक्रम (Principles of Biotechnology and Biotechnology-Based Processes)",
+        "diagram_name": "PCR प्रक्रिया का चित्र (3 चरण)",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "जैव प्रौद्योगिकी के सिद्धान्त एवं जैव प्रौद्योगिकी आधारित प्रक्रम (Principles of Biotechnology and Biotechnology-Based Processes)",
+        "diagram_name": "प्रतिबन्ध एन्जाइम कटाव — चिपचिपे सिरे",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "जैव प्रौद्योगिकी के सिद्धान्त एवं जैव प्रौद्योगिकी आधारित प्रक्रम (Principles of Biotechnology and Biotechnology-Based Processes)",
+        "diagram_name": "क्लोनिंग संवाहक के रूप में प्लास्मिड",
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "chapter_name": "पारितंत्र (Ecosystems)",
+        "diagram_name": "पारिस्थितिक पिरामिड (संख्या, जैवभार, ऊर्जा)",
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "chapter_name": "पारितंत्र (Ecosystems)",
+        "diagram_name": "नाइट्रोजन चक्र",
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "chapter_name": "पारितंत्र (Ecosystems)",
+        "diagram_name": "कार्बन चक्र",
+        "note": ""
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Formulas for Biology Class 12.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "11",
+        "chapter_name": "जीव एवं समष्टियाँ (Organisms and Population)",
+        "formulas": [
+          "चरघातांकी वृद्धि: dN/dt = rN",
+          "लॉजिस्टिक वृद्धि: dN/dt = rN(K-N)/K  (K = वहन क्षमता)"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Biology.",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Biology.",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 30,
+    "passing_marks": 0,
+    "practical_exam_separate": true,
+    "practical_exam_note": "",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": true,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 40,
+    "medium_percent": 40,
+    "hard_percent": 20,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "खण्ड अ के 34 उप-भाग (21 अंक) — सभी हल करें, कोई ऋणात्मक अंकन नहीं",
+      "खण्ड द निबन्धात्मक = 8 अंक — अध्याय 5 (DNA प्रतिकृति) तथा अध्याय 7 (प्रतिरक्षा/एड्स) तैयार करें",
+      "चित्र पेंसिल से बनाएँ — साफ़ दिखते हैं, labels पेन से",
+      "वैज्ञानिक नाम शुद्ध लिखें — Plasmodium vivax, Bacillus thuringiensis इत्यादि",
+      "खण्ड ब के 12 लघु उत्तरीय (18 अंक) = पेपर का 32% — सभी अनिवार्य, एक भी न छोड़ें",
+      "PCR के तीन चरणों के तापमान याद करें — 94°C, 45-55°C, 72°C",
+      "पारिस्थितिक पिरामिड — ऊर्जा पिरामिड सदैव सीधा, जैवभार पिरामिड जलीय में उल्टा — यह MCQ में पक्का आता है",
+      "प्रतिरक्षा — सक्रिय (शरीर बनाता है, धीमी पर दीर्घकालिक) बनाम निष्क्रिय (तैयार, तेज़ पर अल्पकालिक) — हर साल",
+      "पठन समय में खण्ड स/द के OR विकल्प दोनों पढ़ें — सरल चुनें",
+      "सेट संख्या तथा प्रश्न संख्या स्पष्ट लिखें"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "प्रश्न-पत्र पढ़ें — Q16-Q18 तथा Q19-Q20 के OR विकल्पों का निर्णय पहले करें।"
+      },
+      {
+        "section_id": "section_A_35min",
+        "recommended_minutes": 0,
+        "note": "34 उप-भाग × औसत 1 मिनट। MCQ = 30 सेकंड, रिक्त स्थान = 30 सेकंड, अति लघु = 1.5 मिनट।"
+      },
+      {
+        "section_id": "section_B_30min",
+        "recommended_minutes": 0,
+        "note": "12 लघु उत्तरीय × 2.5 मिनट। प्रति उत्तर 4-5 पंक्तियाँ।"
+      },
+      {
+        "section_id": "section_C_30min",
+        "recommended_minutes": 0,
+        "note": "3 दीर्घ उत्तरीय × 10 मिनट। पहले चित्र बनाएँ (1 अंक पक्का)।"
+      },
+      {
+        "section_id": "section_D_30min",
+        "recommended_minutes": 0,
+        "note": "2 निबन्धात्मक × 15 मिनट। विस्तृत चित्र + व्याख्या।"
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "वैज्ञानिक नाम जाँचें, labels verify करें, प्रश्न संख्याएँ जाँचें।"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 20 marks",
+        "target_marks": 20,
+        "strategy": "खण्ड अ (Q1-Q3) में 34 उप-भाग हल करें — 18+ अंक सरलता से। खण्ड ब में 4-5 सरल लघु उत्तरीय (6-7 अंक)। कुल = 24-25 अंक।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Q1 MCQ (16 × 0.5 = 8 अंक) — सभी हल करें",
+          "अध्याय 7 (मानव स्वास्थ्य) — रोगों की सूची, प्रतिरक्षा के प्रकार — सरल सिद्धान्त",
+          "अध्याय 13 (जैव विविधता) — स्व-स्थाने/बाह्य स्थाने, हॉटस्पॉट — सरल MCQ",
+          "अध्याय 8 (सूक्ष्मजीव) — पेनिसिलिन, मल जल उपचार — सरल तथ्य",
+          "अध्याय 3 (प्रजनन स्वास्थ्य) — गर्भनिरोधक विधियाँ (अति लघु)"
+        ],
+        "chapters_to_skip_safely": [
+          "अध्याय 5 जटिल लैक ओपेरॉन क्रियाविधि",
+          "अध्याय 4 जटिल वंशावली प्रश्न",
+          "जटिल भ्रूणकोष चित्र"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "35",
+        "target_marks": 35,
+        "strategy": "खण्ड अ (18-20) + खण्ड ब 8-9 प्रश्न (12-14) + खण्ड स 1 (3) = 33-37 अंक।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "अध्याय 1 (पुष्पी पादप) — भ्रूणकोष लघु उत्तर",
+          "अध्याय 7 (मानव स्वास्थ्य) — प्रतिरक्षा, एड्स (खण्ड स/द)",
+          "अध्याय 5 (आणविक आधार) — DNA संरचना लघु, PCR लघु",
+          "अध्याय 12 (पारितंत्र) — पारिस्थितिक पिरामिड, पोषक चक्र",
+          "पारिस्थितिकी से LPP अवधारणा"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45 marks plus",
+        "target_marks": 45,
+        "strategy": "खण्ड अ पूर्ण (19-21) + खण्ड ब पूर्ण (16-18) + खण्ड स 2-3 (6-9) + खण्ड द 1-2 (4-8) = 45-56 अंक।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "सभी 13 अध्याय गहनता से",
+          "खण्ड द निबन्धात्मक — अध्याय 5 DNA प्रतिकृति/लैक ओपेरॉन + अध्याय 7 प्रतिरक्षा/एड्स",
+          "सभी महत्वपूर्ण चित्र labels सहित",
+          "आनुवंशिक संकरण का पूर्ण अभ्यास"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 14,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": []
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "rajeduboard.rajasthan.gov.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 मिनट पठन समय मिलता है — इस समय में केवल प्रश्न-पत्र पढ़ें, उत्तर न लिखें।"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "set_number_compulsory: True",
+      "reading_time_note: 15 मिनट पठन समय में केवल पढ़ें — लिखें नहीं।",
+      "sequence_compulsory: False",
+      "no_negative_marking: True",
+      "mcq_attempt_all: कोई ऋणात्मक अंकन नहीं — सभी 16 MCQ तथा 10 रिक्त स्थान हल करें।",
+      "diagram_marks: खण्ड स तथा द में सामान्यतः 1 अंक चित्र के लिए अलग से होता है। न बनाने पर वह अंक नहीं मिलेगा।"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['नीला', 'काला'] pencil_use: जीव वैज्ञानिक चित्रों के लिए पेंसिल अत्यधिक अनुशंसित — सफ़ाई महत्वपूर्ण। diagram_note: जैविक चित्र (भ्रूणकोष, समसूत्रण, DNA, एंटीबॉडी, PCR) पेंसिल से अधिक साफ़ बनते हैं। Labels पेन से लिखना ठीक है।"
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "diagrams_compulsory_long: दीर्घ उत्तरीय (3 अंक) तथा निबन्धात्मक (4 अंक) में नामांकित चित्र व्यावहारिक रूप से अनिवार्य है। चित्र के बिना अंक कटते हैं। labelling_compulsory: True scientific_names: वैज्ञानिक नाम italics में अथवा underline कर लिखें — Plasmodium vivax, Rhizobium इत्यादि। शुद्ध वर्तनी महत्वपूर्ण। partial_marking: True partial_marking_note: दीर्घ उत्तर अधूरा हो तो जो बिंदु सही हैं उनके अंक मिलेंगे।",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

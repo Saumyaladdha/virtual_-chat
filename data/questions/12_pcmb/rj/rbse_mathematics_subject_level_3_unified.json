@@ -1,0 +1,1765 @@
+{
+  "board": "RBSE",
+  "class": "12",
+  "subject": "Mathematics (Ganit)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 80,
+    "practical_paper": 0,
+    "internal_assessment": 20,
+    "total": 100,
+    "passing_marks_theory": 26,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": true,
+    "extra_time_note": "Haan — 15 minute reading time milta hai. Is time mein paper padho aur OR options decide karo.",
+    "internal_assessment_note": "Maths mein koi practical paper nahi hota. 20 marks internal assessment school level par milte hain — periodic tests, projects, activities."
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 30,
+    "total_questions_to_attempt": 30,
+    "total_objective_questions": 30,
+    "total_sets": 0,
+    "sets_note": "RBSE mein multiple sets hote hain. Har set mein same questions, sirf order alag.",
+    "sets_same_or_different": "",
+    "language_of_attempt": "Hindi ya English dono allowed. Mathematical notation same rahegi.",
+    "all_compulsory_note": "Section C (Long Answer) aur Section D (Essay) mein internal choice (OR option) milta hai.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "RBSE Maths ka syllabus NCERT par based hai. NCERT ke sare examples aur exercise problems solve karo. SP Examination Idea Mathematics (Science Publications, Jaipur) bhi zaroori hai.",
+    "official_scheme_note": "Mathematics mein steps dikhana bahut zaroori hai. Sirf final answer se full marks nahi milenge — sare steps clearly likhna zaroori hai.",
+    "reference_books_note": "",
+    "prescribed_textbooks": [
+      "NCERT Mathematics Part I",
+      "NCERT Mathematics Part II"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "RBSE Class 12 Maths paper mein 6 types ke questions: MCQ (1 mark), Fill Blank (1 mark), VSA (1 mark), Short (2 marks), Long (4 marks), Essay (5 marks). Total 80 marks, 30 questions.",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (Multiple Choice Questions)",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 18,
+        "attempt": 18,
+        "negative_marking": false,
+        "how_to_attempt": "Sirf correct option (a)/(b)/(c)/(d) likhna hai. No working needed. 1 mark ke liye 30 second se zyaada mat do.",
+        "mostly_from": "Relations/Functions types, matrix operations, determinant properties, limits, derivative rules, integral types, vector dot/cross product, 3D geometry angles/distances, probability formulas.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Fill in the Blanks",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "Direct formula value, specific term (like domain, range), or numerical answer likhna hota hai.",
+        "mostly_from": "Number of relations, determinant value, derivative formulas, integral results, distance formulas.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Very Short Answer (VSA)",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "Direct formula application. Ek step mein answer.",
+        "mostly_from": "Simple derivatives, simple integrals, matrix order, vector magnitude, basic probability.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "1 step ya 1-2 lines",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer",
+        "question_number": "",
+        "section": "B",
+        "marks_each": 2,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "2 marks = 2 clear steps. Show working clearly. Formulas + substitution + answer.",
+        "mostly_from": "All chapters — small proofs, 2-3 step numericals, matrix operations, continuity/differentiability checks, small integrals, vector operations, basic probability problems.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "3-5 lines",
+        "notes": ""
+      },
+      {
+        "type": "Long Answer",
+        "question_number": "",
+        "section": "C",
+        "marks_each": 4,
+        "total_in_paper": 5,
+        "attempt": 5,
+        "negative_marking": false,
+        "how_to_attempt": "4 marks = numbered steps showing full working. Each step = partial marks. For integration: substitution clearly shown. For matrices: row operations clearly written.",
+        "mostly_from": "Determinants (Cramer's rule), integration by parts/substitution, application of derivatives (maxima/minima), differential equations, 3D geometry (line/plane equations), probability (Bayes' theorem).",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Half page to full page",
+        "notes": ""
+      },
+      {
+        "type": "Essay / Very Long Answer",
+        "question_number": "",
+        "section": "D",
+        "marks_each": 5,
+        "total_in_paper": 2,
+        "attempt": 2,
+        "negative_marking": false,
+        "how_to_attempt": "5 marks = complete proof/derivation with all steps. Start with standard formula/theorem. Show all intermediate steps. Final boxed answer.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Full page to 1.5 pages",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "RBSE Maths theory paper = 80 marks. 4 sections. 30 questions. Duration: 3 hours 15 minutes (15 min reading time extra). No practical — 20 marks internal assessment.",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Section C (Long Answer) aur Section D (Essay) mein internal choice (OR option) milta hai.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 40,
+      "medium_percent": 40,
+      "hard_percent": 20,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Objective (MCQ + Fill Blanks + VSA)",
+        "type": "MCQ (18) + Fill Blanks (6) + VSA (6)",
+        "question_numbers": "",
+        "total_questions": 30,
+        "total_sub_questions": 0,
+        "attempt_required": 30,
+        "marks_per_question": 0,
+        "total_marks": 30,
+        "word_limit": "",
+        "breakdown": "RBSE Maths mein Section A ke marks Physics/Chemistry se alag hain — MCQ 1 mark each (0.5 nahi).",
+        "notes": "Sare 30 attempt karo. No negative marking. MCQ = 1 mark (Maths mein 0.5 nahi, 1 mark each)."
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Short Answer",
+        "type": "Short Answer",
+        "question_numbers": "",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "10 short answer questions × 2 marks = 20 marks. Sare compulsory.",
+        "notes": "Sare 10 compulsory. 2 marks = 2 clear steps. Show working."
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Long Answer",
+        "type": "Long Answer",
+        "question_numbers": "",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "attempt_required": 5,
+        "marks_per_question": 4,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "5 long answer questions × 4 marks = 20 marks. Internal OR choice milti hai.",
+        "notes": "5 questions with OR choice. LPP (4 marks) yahan aata hai — guaranteed."
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Essay / Very Long Answer",
+        "type": "Essay / Very Long Answer",
+        "question_numbers": "",
+        "total_questions": 2,
+        "total_sub_questions": 0,
+        "attempt_required": 2,
+        "marks_per_question": 5,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "2 essay questions × 5 marks = 10 marks. Internal OR choice milti hai. Integrals se typically aata hai.",
+        "notes": "2 essay questions with OR choice. Typically from Integrals (Ch 7) and 3D Geometry/Determinants. Full proof with all steps."
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 80,
+    "total_practical": 0,
+    "internal_assessment": 20,
+    "grand_total": 100,
+    "marks_summary_note": "A(30) + B(20) + C(20) + D(10) = 80 theory + 20 IA = 100. No practical.",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Objective (MCQ + Fill Blanks + VSA)",
+        "question_numbers": "",
+        "type": "MCQ (18) + Fill Blanks (6) + VSA (6)",
+        "total_questions": 30,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 30,
+        "word_limit": "",
+        "breakdown": "RBSE Maths mein Section A ke marks Physics/Chemistry se alag hain — MCQ 1 mark each (0.5 nahi)."
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Short Answer",
+        "question_numbers": "",
+        "type": "Short Answer",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "10 short answer questions × 2 marks = 20 marks. Sare compulsory."
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Long Answer",
+        "question_numbers": "",
+        "type": "Long Answer",
+        "total_questions": 5,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "5 long answer questions × 4 marks = 20 marks. Internal OR choice milti hai."
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Essay / Very Long Answer",
+        "question_numbers": "",
+        "type": "Essay / Very Long Answer",
+        "total_questions": 2,
+        "total_sub_questions": 0,
+        "marks_per_question": 5,
+        "total_marks": 10,
+        "word_limit": "",
+        "breakdown": "2 essay questions × 5 marks = 10 marks. Internal OR choice milti hai. Integrals se typically aata hai."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "RBSE Mathematics unit-wise blueprint (6 units, 13 chapters).",
+    "total_theory_marks": 80,
+    "objective_percent": 37,
+    "subjective_percent": 63,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "3",
+      "name": "Calculus",
+      "marks": 36,
+      "note": "Unit 3 Calculus = 36 marks (Ch 5-9). 45% of paper."
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "5",
+        "name": "Linear Programming",
+        "marks": 4
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Relations and Functions",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "Algebra",
+        "marks": 10,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "Calculus",
+        "marks": 36,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "Vectors and 3D Geometry",
+        "marks": 16,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "Linear Programming",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "Probability",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 30,
+      "two_mark_total": 20,
+      "three_mark_total": 0,
+      "four_mark_total": 20,
+      "five_mark_total": 10
+    }
+  },
+  "syllabus": {
+    "note": "RBSE Mathematics Class 12 — 13 chapters across 6 units.",
+    "books": [
+      {
+        "book_name": "NCERT Mathematics Part I & Part II",
+        "category": "chapter",
+        "total_marks": 80,
+        "note": "RBSE Mathematics fully NCERT-based.",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Relations and Functions",
+            "marks": 7,
+            "topics": [
+              "Types of relations — reflexive, symmetric, transitive, equivalence",
+              "Types of functions — one-one (injective), onto (surjective), bijective",
+              "Composition of functions",
+              "Inverse of a function",
+              "Binary operations"
+            ],
+            "note": "Unit 1: Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "2",
+            "name": "Inverse Trigonometric Functions",
+            "marks": 7,
+            "topics": [
+              "Domain and range of inverse trig functions",
+              "Properties of inverse trig functions",
+              "Principal value — sin⁻¹, cos⁻¹, tan⁻¹",
+              "Simplification of inverse trig expressions"
+            ],
+            "note": "Unit 1: Difficulty: Medium"
+          },
+          {
+            "chapter_id": "3",
+            "name": "Matrices",
+            "marks": 10,
+            "topics": [
+              "Types of matrices — row, column, square, zero, identity, diagonal, symmetric, skew-symmetric",
+              "Matrix operations — addition, scalar multiplication, matrix multiplication",
+              "Transpose of a matrix — properties",
+              "Symmetric and skew-symmetric matrices",
+              "Elementary row/column transformations",
+              "Invertible matrices"
+            ],
+            "note": "Unit 2: Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "4",
+            "name": "Determinants",
+            "marks": 10,
+            "topics": [
+              "Properties of determinants",
+              "Area of triangle using determinants",
+              "Adjoint and inverse of a matrix",
+              "Applications — system of linear equations using Cramer's rule and matrix method",
+              "Consistency of system of equations"
+            ],
+            "note": "Unit 2: Difficulty: Medium"
+          },
+          {
+            "chapter_id": "5",
+            "name": "Continuity and Differentiability",
+            "marks": 36,
+            "topics": [
+              "Continuity — definition, check at a point, every differentiable is continuous",
+              "Differentiability — LHD, RHD",
+              "Chain rule of differentiation",
+              "Derivatives of composite, implicit, parametric functions",
+              "Derivatives of logarithmic and exponential functions",
+              "Second order derivatives",
+              "Rolle's theorem and Mean Value Theorem (Lagrange)"
+            ],
+            "note": "Unit 3: Difficulty: Medium"
+          },
+          {
+            "chapter_id": "6",
+            "name": "Applications of Derivatives",
+            "marks": 36,
+            "topics": [
+              "Rate of change",
+              "Increasing and decreasing functions",
+              "Tangents and normals",
+              "Maxima and minima — first derivative test, second derivative test",
+              "Approximations using differentials"
+            ],
+            "note": "Unit 3: Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "7",
+            "name": "Integrals",
+            "marks": 36,
+            "topics": [
+              "Indefinite integrals — standard formulas",
+              "Methods — substitution, integration by parts",
+              "Partial fractions",
+              "Integration of special forms",
+              "Definite integrals — properties",
+              "Definite integral as limit of sum"
+            ],
+            "note": "Unit 3: Difficulty: Hard"
+          },
+          {
+            "chapter_id": "8",
+            "name": "Applications of the Integrals",
+            "marks": 36,
+            "topics": [
+              "Area under curves using definite integrals",
+              "Area between two curves",
+              "Area of standard figures — circle, parabola, ellipse"
+            ],
+            "note": "Unit 3: Difficulty: Medium"
+          },
+          {
+            "chapter_id": "9",
+            "name": "Differential Equations",
+            "marks": 36,
+            "topics": [
+              "Order and degree of differential equations",
+              "General and particular solutions",
+              "Methods — variable separable, homogeneous, linear first order (integrating factor)",
+              "Formation of differential equations"
+            ],
+            "note": "Unit 3: Difficulty: Medium"
+          },
+          {
+            "chapter_id": "10",
+            "name": "Vector Algebra",
+            "marks": 16,
+            "topics": [
+              "Types of vectors — unit, zero, position, collinear, equal",
+              "Addition of vectors — triangle and parallelogram law",
+              "Scalar (dot) product — angle between vectors, projection",
+              "Vector (cross) product — area of parallelogram/triangle",
+              "Scalar triple product"
+            ],
+            "note": "Unit 4: Difficulty: Medium"
+          },
+          {
+            "chapter_id": "11",
+            "name": "Three Dimensional Geometry",
+            "marks": 16,
+            "topics": [
+              "Direction cosines and direction ratios",
+              "Equation of line in 3D — vector and Cartesian form",
+              "Angle between two lines",
+              "Distance of a point from a line",
+              "Equation of plane — various forms",
+              "Angle between plane and line",
+              "Distance of point from a plane",
+              "Shortest distance between skew lines"
+            ],
+            "note": "Unit 4: Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "12",
+            "name": "Linear Programming",
+            "marks": 4,
+            "topics": [
+              "Formulation of LPP from word problems",
+              "Graphical method — feasible region",
+              "Corner point method — find objective function value at each corner",
+              "Maximum and minimum of objective function",
+              "Bounded and unbounded feasible regions"
+            ],
+            "note": "Unit 5: Difficulty: Easy"
+          },
+          {
+            "chapter_id": "13",
+            "name": "Probability",
+            "marks": 7,
+            "topics": [
+              "Conditional probability — P(A|B) = P(A∩B)/P(B)",
+              "Multiplication theorem",
+              "Independent events",
+              "Bayes' theorem",
+              "Random variables — discrete probability distribution",
+              "Mean and variance of a random variable",
+              "Binomial distribution — P(X=r) = ⁿCr · pʳ · qⁿ⁻ʳ"
+            ],
+            "note": "Unit 6: Difficulty: Medium"
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Relations and Functions",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Types of relations — reflexive, symmetric, transitive, equivalence",
+        "Types of functions — one-one (injective), onto (surjective), bijective",
+        "Composition of functions",
+        "Inverse of a function",
+        "Binary operations"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Prove relation is equivalence (short/long), check one-one onto (short), composition of functions (short), binary operation properties (short)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Inverse Trigonometric Functions",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "",
+      "weightage_marks": 7,
+      "typical_breakdown": "Unit 1 total = 7 marks shared between Ch 1 and Ch 2",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Domain and range of inverse trig functions",
+        "Properties of inverse trig functions",
+        "Principal value — sin⁻¹, cos⁻¹, tan⁻¹",
+        "Simplification of inverse trig expressions"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "sin⁻¹x + cos⁻¹x = π/2",
+        "tan⁻¹x + tan⁻¹y = tan⁻¹((x+y)/(1-xy)) for xy < 1",
+        "2tan⁻¹x = sin⁻¹(2x/(1+x²)) = cos⁻¹((1-x²)/(1+x²)) = tan⁻¹(2x/(1-x²))"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Simplify/prove inverse trig expressions (short/long), principal value (MCQ/VSA), domain range (MCQ)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Matrices",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "unit_id": 2,
+      "unit_name": "",
+      "weightage_marks": 10,
+      "typical_breakdown": "Unit 2 (Algebra) = 10 marks shared between Ch 3 and Ch 4",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Types of matrices — row, column, square, zero, identity, diagonal, symmetric, skew-symmetric",
+        "Matrix operations — addition, scalar multiplication, matrix multiplication",
+        "Transpose of a matrix — properties",
+        "Symmetric and skew-symmetric matrices",
+        "Elementary row/column transformations",
+        "Invertible matrices"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Matrix multiplication (short), symmetric/skew-symmetric proof (short), transpose properties (short/MCQ), find inverse using elementary transformations (long)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Determinants",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "unit_id": 2,
+      "unit_name": "",
+      "weightage_marks": 10,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Properties of determinants",
+        "Area of triangle using determinants",
+        "Adjoint and inverse of a matrix",
+        "Applications — system of linear equations using Cramer's rule and matrix method",
+        "Consistency of system of equations"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "A⁻¹ = (1/|A|) × adj(A)",
+        "Cramer's rule: x = D₁/D, y = D₂/D, z = D₃/D",
+        "Area of triangle = (1/2)|x₁(y₂-y₃) + x₂(y₃-y₁) + x₃(y₁-y₂)|"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Solve system of equations using matrix method (long/essay), determinant expansion properties (short), find inverse (long), consistency check (short)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Continuity and Differentiability",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "",
+      "weightage_marks": 36,
+      "typical_breakdown": "Unit 3 (Calculus) total = 36 marks shared among Ch 5, 6, 7, 8, 9",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Continuity — definition, check at a point, every differentiable is continuous",
+        "Differentiability — LHD, RHD",
+        "Chain rule of differentiation",
+        "Derivatives of composite, implicit, parametric functions",
+        "Derivatives of logarithmic and exponential functions",
+        "Second order derivatives",
+        "Rolle's theorem and Mean Value Theorem (Lagrange)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "d/dx(sin x) = cos x, d/dx(cos x) = -sin x",
+        "d/dx(tan x) = sec²x, d/dx(cot x) = -cosec²x",
+        "d/dx(eˣ) = eˣ, d/dx(ln x) = 1/x",
+        "Chain rule: d/dx[f(g(x))] = f'(g(x)) · g'(x)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Implicit differentiation (short/long), parametric differentiation (long), second order derivative (long), Rolle's/Lagrange's theorem (short/long), continuity check (short)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Applications of Derivatives",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "",
+      "weightage_marks": 36,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "Maxima-minima word problems (like largest rectangle in circle, shortest path) come in Section C/D.",
+      "important_topics": [
+        "Rate of change",
+        "Increasing and decreasing functions",
+        "Tangents and normals",
+        "Maxima and minima — first derivative test, second derivative test",
+        "Approximations using differentials"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Maxima/minima problems — optimization (long/essay), increasing/decreasing intervals (short/long), tangent and normal equations (short), rate of change (short)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Integrals",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "",
+      "weightage_marks": 36,
+      "typical_breakdown": "",
+      "difficulty": "Hard",
+      "difficulty_reason": "Highest marks — needs maximum practice",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "Integration (by parts/substitution/definite)",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "Section D (5-mark essay) most frequently comes from Integrals — integration by parts, definite integrals.",
+      "important_topics": [
+        "Indefinite integrals — standard formulas",
+        "Methods — substitution, integration by parts",
+        "Partial fractions",
+        "Integration of special forms",
+        "Definite integrals — properties",
+        "Definite integral as limit of sum"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "∫xⁿ dx = xⁿ⁺¹/(n+1) + C",
+        "∫eˣ dx = eˣ + C",
+        "∫(1/x) dx = ln|x| + C",
+        "Integration by parts: ∫u·v dx = u·∫v dx - ∫(u'·∫v dx) dx",
+        "ILATE rule — Inverse trig, Logarithmic, Algebraic, Trigonometric, Exponential",
+        "∫ₐᵇ f(x) dx = F(b) - F(a)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Integration by parts (long/essay), definite integral using properties (long), partial fractions integration (long), standard substitution integrals (short)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Applications of the Integrals",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "",
+      "weightage_marks": 36,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Area under curves using definite integrals",
+        "Area between two curves",
+        "Area of standard figures — circle, parabola, ellipse"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Area = ∫ₐᵇ f(x) dx (when f(x) ≥ 0)",
+        "Area between curves = ∫ₐᵇ [f(x) - g(x)] dx"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Area under parabola/line/circle (long/essay), area between two curves (long), sketch + integrate (long)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Differential Equations",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "",
+      "weightage_marks": 36,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Order and degree of differential equations",
+        "General and particular solutions",
+        "Methods — variable separable, homogeneous, linear first order (integrating factor)",
+        "Formation of differential equations"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Variable separable: f(y)dy = g(x)dx → integrate both sides",
+        "Linear DE: dy/dx + Py = Q → IF = e^(∫P dx)",
+        "Solution: y × IF = ∫Q × IF dx + C"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Solve linear DE using integrating factor (long), variable separable DE (short/long), form DE from given solution (short)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Vector Algebra",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "unit_id": 4,
+      "unit_name": "",
+      "weightage_marks": 16,
+      "typical_breakdown": "Unit 4 (Vectors + 3D Geometry) = 16 marks shared between Ch 10 and Ch 11",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Types of vectors — unit, zero, position, collinear, equal",
+        "Addition of vectors — triangle and parallelogram law",
+        "Scalar (dot) product — angle between vectors, projection",
+        "Vector (cross) product — area of parallelogram/triangle",
+        "Scalar triple product"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "a⃗ · b⃗ = |a||b|cosθ (dot product)",
+        "a⃗ × b⃗ = |a||b|sinθ n̂ (cross product)",
+        "Area of parallelogram = |a⃗ × b⃗|",
+        "Area of triangle = (1/2)|a⃗ × b⃗|",
+        "Scalar triple product: a⃗ · (b⃗ × c⃗)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Dot product / angle between vectors (short), cross product / area (short/long), projection of vector (short/VSA), prove vectors coplanar (long)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Three Dimensional Geometry",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "unit_id": 4,
+      "unit_name": "",
+      "weightage_marks": 16,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Direction cosines and direction ratios",
+        "Equation of line in 3D — vector and Cartesian form",
+        "Angle between two lines",
+        "Distance of a point from a line",
+        "Equation of plane — various forms",
+        "Angle between plane and line",
+        "Distance of point from a plane",
+        "Shortest distance between skew lines"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Line through point (x₁,y₁,z₁) with DR (a,b,c): (x-x₁)/a = (y-y₁)/b = (z-z₁)/c",
+        "Plane equation: ax + by + cz = d",
+        "Distance from point to plane: |ax₁+by₁+cz₁-d|/√(a²+b²+c²)",
+        "Shortest distance between skew lines formula"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Equation of plane through 3 points (long), shortest distance between skew lines (long/essay), distance of point from plane (short/long), angle between line and plane (short)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "Linear Programming",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "unit_id": 5,
+      "unit_name": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "Guaranteed 4 marks — must prepare",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "Linear Programming — graphical method",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "Graph clearly draw karo. Corner points clearly mark karo. Objective function har corner par calculate karo. Maximum/minimum clearly state karo.",
+      "important_topics": [
+        "Formulation of LPP from word problems",
+        "Graphical method — feasible region",
+        "Corner point method — find objective function value at each corner",
+        "Maximum and minimum of objective function",
+        "Bounded and unbounded feasible regions"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "LPP graphical solution — maximize/minimize (long answer — guaranteed every year)",
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "Probability",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "unit_id": 6,
+      "unit_name": "",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Conditional probability — P(A|B) = P(A∩B)/P(B)",
+        "Multiplication theorem",
+        "Independent events",
+        "Bayes' theorem",
+        "Random variables — discrete probability distribution",
+        "Mean and variance of a random variable",
+        "Binomial distribution — P(X=r) = ⁿCr · pʳ · qⁿ⁻ʳ"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "P(A|B) = P(A∩B)/P(B)",
+        "P(A∩B) = P(A)·P(B|A) = P(B)·P(A|B)",
+        "Bayes' theorem: P(Aᵢ|B) = P(Aᵢ)P(B|Aᵢ) / Σ P(Aⱼ)P(B|Aⱼ)",
+        "Binomial: P(X=r) = ⁿCr·pʳ·qⁿ⁻ʳ, Mean = np, Variance = npq"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "frequently_asked": "Bayes' theorem problem (long), binomial distribution (short/long), conditional probability (short), mean and variance of distribution (short)",
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "RBSE Mathematics — 13 chapters across 6 units. Unit 3 — Calculus = 36 marks (Ch 5+6+7+8+9). 45% of paper.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "Every unit covered. Ch 12 (LPP) guaranteed 4 marks — never skip.",
+    "or_questions_note": "Internal OR choice in Section C (Long Answer) and Section D (Essay).",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Ch 7 - Integrals",
+      "Ch 12 - Linear Programming",
+      "Ch 4 - Determinants",
+      "Ch 11 - Three Dimensional Geometry",
+      "Ch 13 - Probability",
+      "Ch 5 - Continuity and Differentiability"
+    ],
+    "chapters_never_skip_reason": "Highest weightage / guaranteed annual questions.",
+    "chapters_with_highest_weightage": [
+      "Unit 3 — Calculus = 36 marks (Ch 5+6+7+8+9). 45% of paper.",
+      "Ch 7 — Integrals (most questions from Unit 3 Calculus come from this chapter)"
+    ],
+    "chapters_with_least_weightage": [
+      "Ch 12 - Linear Programming (4 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "Ch 12 - Linear Programming — graphical method (Section C, 4 marks): Har saal aata hai",
+      "Ch 7 - Integration (by parts/substitution/definite) (Section C or D, 4-5 marks): Highest frequency chapter"
+    ],
+    "chapters_mostly_theory": [
+      "Ch 1 - Relations and Functions",
+      "Ch 2 - Inverse Trigonometric Functions"
+    ],
+    "chapters_mostly_diagram_based": [
+      "Ch 12 - Linear Programming (graph)"
+    ],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "Ch 7 - Integrals",
+      "Ch 4 - Determinants",
+      "Ch 11 - Three Dimensional Geometry",
+      "Ch 13 - Probability"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "Ch 7 - Integrals (Section D essay source)"
+    ],
+    "chapters_with_numerical": [
+      "Ch 3 - Matrices",
+      "Ch 4 - Determinants",
+      "Ch 5 - Continuity and Differentiability",
+      "Ch 6 - Applications of Derivatives",
+      "Ch 7 - Integrals",
+      "Ch 8 - Applications of the Integrals",
+      "Ch 9 - Differential Equations",
+      "Ch 10 - Vector Algebra",
+      "Ch 11 - Three Dimensional Geometry",
+      "Ch 13 - Probability"
+    ],
+    "chapters_guaranteed_numerical": [
+      "Ch 3 - Matrices",
+      "Ch 4 - Determinants",
+      "Ch 5 - Continuity and Differentiability",
+      "Ch 6 - Applications of Derivatives",
+      "Ch 7 - Integrals",
+      "Ch 8 - Applications of the Integrals",
+      "Ch 9 - Differential Equations",
+      "Ch 10 - Vector Algebra",
+      "Ch 11 - Three Dimensional Geometry",
+      "Ch 13 - Probability"
+    ],
+    "chapters_no_numerical": [],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Integration by parts (∫u·v dx) (Section C or D, 4-5 marks)",
+      "Definite integral using properties (Section C, 4 marks)",
+      "Solve system of equations using matrix method (Section C or D, 4-5 marks)",
+      "Linear Programming — maximize/minimize by graphical method (Section C, 4 marks)",
+      "Maxima/minima application problems (Section C, 4 marks)",
+      "Bayes' theorem / conditional probability (Section C, 4 marks)",
+      "Equation of plane through 3 points / line equations (Section C, 4 marks)",
+      "Differential equations — linear / variable separable (Section B or C, 2-4 marks)",
+      "Inverse trig simplification / principal value (Section A or B, 1-2 marks)",
+      "Continuity / differentiability check (Section B, 2 marks)",
+      "Area under curve using integration (Section C or D, 4-5 marks)"
+    ],
+    "one_mark_question_facts": {
+      "note": "RBSE Maths: MCQ = 1 mark each (unlike Physics/Chem where MCQ is 0.5 mark).",
+      "common_formats": []
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Only LPP requires a graph (Ch 12). No other diagrams compulsory.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Maths mein formulas yaad karna compulsory hai — paper mein formula sheet allowed nahi. Ye sab zaroori formulas hain.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "5",
+        "chapter_name": "Continuity and Differentiability",
+        "formulas": [
+          "d/dx(xⁿ) = nxⁿ⁻¹",
+          "d/dx(sin x) = cos x",
+          "d/dx(cos x) = -sin x",
+          "d/dx(tan x) = sec²x",
+          "d/dx(eˣ) = eˣ",
+          "d/dx(ln x) = 1/x",
+          "d/dx(sin⁻¹x) = 1/√(1-x²)",
+          "d/dx(cos⁻¹x) = -1/√(1-x²)",
+          "d/dx(tan⁻¹x) = 1/(1+x²)"
+        ]
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Integrals",
+        "formulas": [
+          "∫xⁿ dx = xⁿ⁺¹/(n+1) + C",
+          "∫sin x dx = -cos x + C",
+          "∫cos x dx = sin x + C",
+          "∫sec²x dx = tan x + C",
+          "∫eˣ dx = eˣ + C",
+          "∫(1/x) dx = ln|x| + C",
+          "∫(1/√(1-x²)) dx = sin⁻¹x + C",
+          "∫(1/(1+x²)) dx = tan⁻¹x + C",
+          "Integration by parts: ∫u v dx = u∫v dx - ∫(du/dx · ∫v dx) dx  [ILATE rule]"
+        ]
+      },
+      {
+        "chapter_id": "10",
+        "chapter_name": "Vector Algebra / Three Dimensional Geometry",
+        "formulas": [
+          "a⃗ · b⃗ = |a||b|cosθ",
+          "|a⃗ × b⃗| = |a||b|sinθ",
+          "Area of parallelogram = |a⃗ × b⃗|",
+          "Direction cosines: l² + m² + n² = 1",
+          "Distance from point to plane: |ax₁+by₁+cz₁+d|/√(a²+b²+c²)"
+        ]
+      },
+      {
+        "chapter_id": "13",
+        "chapter_name": "Probability",
+        "formulas": [
+          "P(A|B) = P(A∩B)/P(B)",
+          "P(A∩B) = P(A)·P(B|A)",
+          "Binomial: P(X=r) = ⁿCr·pʳ·qⁿ⁻ʳ",
+          "Mean of binomial = np",
+          "Variance of binomial = npq"
+        ]
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "Inverse Trigonometric Functions",
+        "formulas": [
+          "sin⁻¹x + cos⁻¹x = π/2",
+          "tan⁻¹x + tan⁻¹y = tan⁻¹((x+y)/(1-xy)) for xy < 1",
+          "2tan⁻¹x = sin⁻¹(2x/(1+x²)) = cos⁻¹((1-x²)/(1+x²)) = tan⁻¹(2x/(1-x²))"
+        ]
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Determinants",
+        "formulas": [
+          "A⁻¹ = (1/|A|) × adj(A)",
+          "Cramer's rule: x = D₁/D, y = D₂/D, z = D₃/D",
+          "Area of triangle = (1/2)|x₁(y₂-y₃) + x₂(y₃-y₁) + x₃(y₁-y₂)|"
+        ]
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Continuity and Differentiability",
+        "formulas": [
+          "d/dx(sin x) = cos x, d/dx(cos x) = -sin x",
+          "d/dx(tan x) = sec²x, d/dx(cot x) = -cosec²x",
+          "d/dx(eˣ) = eˣ, d/dx(ln x) = 1/x",
+          "Chain rule: d/dx[f(g(x))] = f'(g(x)) · g'(x)"
+        ]
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Integrals",
+        "formulas": [
+          "∫xⁿ dx = xⁿ⁺¹/(n+1) + C",
+          "∫eˣ dx = eˣ + C",
+          "∫(1/x) dx = ln|x| + C",
+          "Integration by parts: ∫u·v dx = u·∫v dx - ∫(u'·∫v dx) dx",
+          "ILATE rule — Inverse trig, Logarithmic, Algebraic, Trigonometric, Exponential",
+          "∫ₐᵇ f(x) dx = F(b) - F(a)"
+        ]
+      },
+      {
+        "chapter_id": "8",
+        "chapter_name": "Applications of the Integrals",
+        "formulas": [
+          "Area = ∫ₐᵇ f(x) dx (when f(x) ≥ 0)",
+          "Area between curves = ∫ₐᵇ [f(x) - g(x)] dx"
+        ]
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Differential Equations",
+        "formulas": [
+          "Variable separable: f(y)dy = g(x)dx → integrate both sides",
+          "Linear DE: dy/dx + Py = Q → IF = e^(∫P dx)",
+          "Solution: y × IF = ∫Q × IF dx + C"
+        ]
+      },
+      {
+        "chapter_id": "10",
+        "chapter_name": "Vector Algebra",
+        "formulas": [
+          "a⃗ · b⃗ = |a||b|cosθ (dot product)",
+          "a⃗ × b⃗ = |a||b|sinθ n̂ (cross product)",
+          "Area of parallelogram = |a⃗ × b⃗|",
+          "Area of triangle = (1/2)|a⃗ × b⃗|",
+          "Scalar triple product: a⃗ · (b⃗ × c⃗)"
+        ]
+      },
+      {
+        "chapter_id": "11",
+        "chapter_name": "Three Dimensional Geometry",
+        "formulas": [
+          "Line through point (x₁,y₁,z₁) with DR (a,b,c): (x-x₁)/a = (y-y₁)/b = (z-z₁)/c",
+          "Plane equation: ax + by + cz = d",
+          "Distance from point to plane: |ax₁+by₁+cz₁-d|/√(a²+b²+c²)",
+          "Shortest distance between skew lines formula"
+        ]
+      },
+      {
+        "chapter_id": "13",
+        "chapter_name": "Probability",
+        "formulas": [
+          "P(A|B) = P(A∩B)/P(B)",
+          "P(A∩B) = P(A)·P(B|A) = P(B)·P(A|B)",
+          "Bayes' theorem: P(Aᵢ|B) = P(Aᵢ)P(B|Aᵢ) / Σ P(Aⱼ)P(B|Aⱼ)",
+          "Binomial: P(X=r) = ⁿCr·pʳ·qⁿ⁻ʳ, Mean = np, Variance = npq"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Mathematics",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Mathematics",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "RBSE Mathematics has no practical exam. 80 theory + 20 internal assessment = 100.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 40,
+    "medium_percent": 40,
+    "hard_percent": 20,
+    "most_scoring_sections": [
+      "Easy — formulas aur definitions yaad ho toh 25+ marks pakke",
+      "Easy to Medium — 2-mark problems scoring hain"
+    ],
+    "most_difficult_sections": [
+      "Medium-Hard — 5-mark essays require complete step-wise derivations"
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Section A ke 30 questions (30 marks) = 37% of paper. Sab attempt karo — no negative marking",
+      "Ch 12 (LPP) = 4 marks guaranteed easy question — 15 minute practice daily se 4 marks pakke",
+      "Integrals (Ch 7) = Section D 5-mark essay source — integration by parts daily practice karo",
+      "ILATE rule use karo integration by parts mein — Inverse trig > Log > Algebraic > Trig > Exponential",
+      "Every step clearly likhna — Maths mein partial marks milte hain har step ke liye",
+      "Calculator allowed nahi — rough work clearly karo, calculation mistakes se bachne ke liye",
+      "LPP mein graph paper pe corner points clearly mark karo aur shade karo feasible region",
+      "Bayes' theorem mein tree diagram banao — probability calculation clear hoti hai",
+      "Definite integrals mein limits substitute karna mat bhoolna",
+      "Matrix method mein D ≠ 0 check karo pehle — phir D₁, D₂, D₃ calculate karo",
+      "Set number aur question number clearly likho",
+      "Reading time mein Section D ke do OR options mein se easier choose karo"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "Paper padho — Section C/D ke OR options decide karo, mushkil questions identify karo."
+      },
+      {
+        "section_id": "section_A_35min",
+        "recommended_minutes": 1,
+        "note": "30 questions × 1 mark. MCQ/Fill blank — sirf option/formula likhna hai. 1 minute per question."
+      },
+      {
+        "section_id": "section_B_30min",
+        "recommended_minutes": 3,
+        "note": "10 short answers × 3 min. Formula + steps + answer. 2 marks = 2 clear steps."
+      },
+      {
+        "section_id": "section_C_40min",
+        "recommended_minutes": 8,
+        "note": "5 long answers × 8 min. Numbered steps. LPP yahan aata hai — graph clearly draw karo."
+      },
+      {
+        "section_id": "section_D_30min",
+        "recommended_minutes": 15,
+        "note": "2 essay questions × 15 min. Complete derivation. All steps."
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "Steps check karo, formulas verify karo, LPP graph corner points check karo."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 26,
+        "strategy": "Section A ke 30 questions (30 marks) mein se 20+ aasaan hain. Section B mein 3-4 easy short answers (6-8 marks). Total = 26+ marks pakke.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Section A completely attempt karo — no negative marking, 30 marks",
+          "Ch 12 (LPP) — 4 marks guaranteed, practice graphical method",
+          "Ch 13 (Probability) — conditional probability easy",
+          "Ch 3/4 (Matrices/Determinants) — MCQs easy",
+          "Ch 7 (Integrals) — standard formulas se MCQ/fill blank"
+        ],
+        "chapters_to_skip_safely": [
+          "Complex 3D Geometry long proofs",
+          "Differential equations integration factor",
+          "Bayes' theorem complex problems"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "50_marks",
+        "target_marks": 50,
+        "strategy": "Section A (25+) + Section B 7-8 (14-16) + Section C 2-3 (8-12) + Section D 1 (5) = 52-58 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Ch 12 LPP (4 marks) — easy and guaranteed",
+          "Ch 7 Integrals — integration by parts practice (Section C/D)",
+          "Ch 4 Determinants — matrix method for equations (Section C)",
+          "Ch 5/6 Calculus — continuity, derivatives (Section B)",
+          "Ch 13 Probability — Bayes' theorem (Section C)"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "70_marks_plus",
+        "target_marks": 70,
+        "strategy": "Section A full (28-30) + Section B full (18-20) + Section C 4-5 (16-20) + Section D 1-2 (5-10) = 67-80 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All calculus chapters (Unit 3 = 36 marks) — thorough preparation",
+          "Integration — all methods: substitution, by parts, partial fractions, definite",
+          "3D Geometry — all standard problems",
+          "All Section C/D type problems with complete steps"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping",
+        "target_marks": 75,
+        "strategy": "Sab 4 sections mein maximum marks. Calculus perfect karo.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Section A mein koi bhi question blank mat chhodna",
+          "Integration ke sare special forms yaad karo",
+          "Maxima/minima word problems — optimization technique",
+          "Bayes' theorem problems — tree diagram use karo",
+          "Show every step clearly — partial marks mein bahut fayda hota hai"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "Section A mein koi bhi question blank mat chhodna",
+          "Integration ke sare special forms yaad karo",
+          "Maxima/minima word problems — optimization technique",
+          "Bayes' theorem problems — tree diagram use karo",
+          "Show every step clearly — partial marks mein bahut fayda hota hai"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [
+      "Ch 12 Linear Programming (guaranteed 4 marks)"
+    ],
+    "highest_roi_chapters": [
+      "Ch 7 Integrals",
+      "Ch 12 Linear Programming",
+      "Ch 4 Determinants"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 20,
+    "note": "20 marks internal assessment school-level (periodic tests, projects, activities).",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "SP Examination Idea — Mathematics Class 12 (English)",
+        "author": "",
+        "publisher": "Science Publications, Jaipur",
+        "purpose": "Primary",
+        "note": "RBSE ke liye #1 reference book. Chapter-wise MCQ, Fill blanks, VSA, Short, Long sab hain."
+      },
+      {
+        "name": "NCERT Mathematics Class 12 (Part I + II)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Base book. RBSE syllabus NCERT par based. Sare NCERT exercise problems solve karo."
+      },
+      {
+        "name": "Previous Year Papers 2018-2025 (RBSE)",
+        "author": "",
+        "publisher": "RBSE Official",
+        "purpose": "Supplementary",
+        "note": "Official website se download karo. Same question types repeat hote hain — especially LPP aur integration."
+      },
+      {
+        "name": "RBSE Model Paper 2026",
+        "author": "",
+        "publisher": "RBSE Official",
+        "purpose": "Supplementary",
+        "note": "Download: rajeduboard.rajasthan.gov.in > Books/Old Papers/Model Questions > Model Papers 2026"
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "Calculator allowed nahi hai. Sab calculations haath se karo.",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "rajeduboard.rajasthan.gov.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 minute reading time milta hai — is time mein sirf paper padho, answers likhna nahi."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "set_number_compulsory: True",
+      "reading_time_note: 15 minute reading time mein sirf paper padho — likhna nahi.",
+      "sequence_compulsory: False",
+      "rough_work: Rough work answer sheet ke last page mein karo — clearly ROUGH WORK likho."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "LPP mein graph clearly draw karo — corner points clearly mark karo pencil se."
+    },
+    "rough_work_rules": "Rough work answer sheet ke last page mein karo — clearly ROUGH WORK likho.",
+    "diagram_rules": "LPP mein feasible region shade karo, corner points clearly mark karo, each corner par objective function value likhna zaroori hai.",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

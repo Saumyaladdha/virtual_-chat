@@ -1,0 +1,2248 @@
+{
+  "board": "UP Board",
+  "class": "10",
+  "subject": "Mathematics (with Project Work and Internal Assessment)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 70,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 23,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": false,
+    "extra_time_note": "3 hours 15 minutes. First 15 minutes reserved for reading the question paper — no writing allowed in reading time.",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 0,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "UP Board multiple sets banata hai (822 BV, 822 BW, 822 BX, 822 BY, 822 BZ etc.). Sabhi sets mein equivalent questions hote hain.",
+    "sets_same_or_different": "",
+    "language_of_attempt": "",
+    "all_compulsory_note": "",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "",
+    "new_pattern_note": "",
+    "types": []
+  },
+  "paper_pattern": {
+    "note": "",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 30,
+      "medium_percent": 50,
+      "hard_percent": 20,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "part_A",
+        "name": "Part A — Multiple Choice Questions (MCQ on OMR Sheet)",
+        "type": "Part A — Multiple Choice Questions (MCQ on OMR Sheet)",
+        "question_numbers": "",
+        "total_questions": 20,
+        "total_sub_questions": 0,
+        "attempt_required": 20,
+        "marks_per_question": 1,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "20 MCQ × 1 mark = 20 marks. Attempt ALL 20 — no negative marking. Level: Easy to Medium. Some questions may be tricky.",
+        "notes": "20 MCQ × 1 mark = 20 marks. Attempt ALL 20 — no negative marking. Level: Easy to Medium. Some questions may be tricky."
+      },
+      {
+        "section_id": "1",
+        "name": "Part B — Question 1: Do all parts (2 marks each)",
+        "type": "Part B — Question 1: Do all parts (2 marks each)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 12,
+        "word_limit": "",
+        "breakdown": "Q1 mein 6 parts hain (a) to (f). Sabhi compulsory hain. 2 marks each = 12 marks. Concise answers needed. Level: Easy to Medium.",
+        "notes": "Q1 mein 6 parts hain (a) to (f). Sabhi compulsory hain. 2 marks each = 12 marks. Concise answers needed. Level: Easy to Medium."
+      },
+      {
+        "section_id": "2",
+        "name": "Part B — Question 2: Attempt any 5 parts (4 marks each)",
+        "type": "Part B — Question 2: Attempt any 5 parts (4 marks each)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "6 parts given, attempt any 5 × 4 marks = 20 marks. Level: Moderate to Difficult. Choose carefully — skip the hardest one.",
+        "notes": "6 parts given, attempt any 5 × 4 marks = 20 marks. Level: Moderate to Difficult. Choose carefully — skip the hardest one."
+      },
+      {
+        "section_id": "3",
+        "name": "Part B — Question 3: Long Answer (6 marks with OR)",
+        "type": "Part B — Question 3: Long Answer (6 marks with OR)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "6 marks. OR choice given — attempt only ONE. Level: Moderate to Difficult. Usually pair of linear equations (word problem) or AP.",
+        "notes": "6 marks. OR choice given — attempt only ONE. Level: Moderate to Difficult. Usually pair of linear equations (word problem) or AP."
+      },
+      {
+        "section_id": "4",
+        "name": "Part B — Question 4: Long Answer (6 marks with OR)",
+        "type": "Part B — Question 4: Long Answer (6 marks with OR)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "6 marks. OR choice given — attempt only ONE. Level: Moderate to Difficult. Usually heights & distances or geometry proof.",
+        "notes": "6 marks. OR choice given — attempt only ONE. Level: Moderate to Difficult. Usually heights & distances or geometry proof."
+      },
+      {
+        "section_id": "5",
+        "name": "Part B — Question 5: Long Answer (6 marks with OR)",
+        "type": "Part B — Question 5: Long Answer (6 marks with OR)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "6 marks. OR choice given — attempt only ONE. Level: Moderate to Difficult. Usually mensuration (combination of solids) or areas.",
+        "notes": "6 marks. OR choice given — attempt only ONE. Level: Moderate to Difficult. Usually mensuration (combination of solids) or areas."
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 70,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "part_A",
+        "name": "Part A — Multiple Choice Questions (MCQ on OMR Sheet)",
+        "question_numbers": "",
+        "type": "Part A — Multiple Choice Questions (MCQ on OMR Sheet)",
+        "total_questions": 20,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "20 MCQ × 1 mark = 20 marks. Attempt ALL 20 — no negative marking. Level: Easy to Medium. Some questions may be tricky."
+      },
+      {
+        "section_id": "1",
+        "name": "Part B — Question 1: Do all parts (2 marks each)",
+        "question_numbers": "",
+        "type": "Part B — Question 1: Do all parts (2 marks each)",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 12,
+        "word_limit": "",
+        "breakdown": "Q1 mein 6 parts hain (a) to (f). Sabhi compulsory hain. 2 marks each = 12 marks. Concise answers needed. Level: Easy to Medium."
+      },
+      {
+        "section_id": "2",
+        "name": "Part B — Question 2: Attempt any 5 parts (4 marks each)",
+        "question_numbers": "",
+        "type": "Part B — Question 2: Attempt any 5 parts (4 marks each)",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 20,
+        "word_limit": "",
+        "breakdown": "6 parts given, attempt any 5 × 4 marks = 20 marks. Level: Moderate to Difficult. Choose carefully — skip the hardest one."
+      },
+      {
+        "section_id": "3",
+        "name": "Part B — Question 3: Long Answer (6 marks with OR)",
+        "question_numbers": "",
+        "type": "Part B — Question 3: Long Answer (6 marks with OR)",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "6 marks. OR choice given — attempt only ONE. Level: Moderate to Difficult. Usually pair of linear equations (word problem) or AP."
+      },
+      {
+        "section_id": "4",
+        "name": "Part B — Question 4: Long Answer (6 marks with OR)",
+        "question_numbers": "",
+        "type": "Part B — Question 4: Long Answer (6 marks with OR)",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "6 marks. OR choice given — attempt only ONE. Level: Moderate to Difficult. Usually heights & distances or geometry proof."
+      },
+      {
+        "section_id": "5",
+        "name": "Part B — Question 5: Long Answer (6 marks with OR)",
+        "question_numbers": "",
+        "type": "Part B — Question 5: Long Answer (6 marks with OR)",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "6 marks. OR choice given — attempt only ONE. Level: Moderate to Difficult. Usually mensuration (combination of solids) or areas."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 70,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "8",
+      "name": "Introduction to Trigonometry",
+      "marks": 7,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "2",
+        "name": "Polynomials",
+        "marks": 3
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Real Numbers",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "Polynomials",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "Pair of Linear Equations in Two Variables",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "Quadratic Equations",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "Arithmetic Progressions (AP)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "Triangles",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "Coordinate Geometry",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "name": "Introduction to Trigonometry",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "name": "Some Applications of Trigonometry",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "10",
+        "name": "Circles",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "11",
+        "name": "Areas Related to Circles",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "name": "Surface Areas and Volumes",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "13",
+        "name": "Statistics",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "name": "Probability",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 70,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Mathematics Class 10 — 14 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Mathematics",
+        "category": "Main",
+        "total_marks": 70,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Real Numbers",
+            "marks": 5,
+            "topics": [
+              "Fundamental Theorem of Arithmetic — every composite number = product of primes (unique)",
+              "HCF and LCM using prime factorisation",
+              "Relation: HCF(a,b) × LCM(a,b) = a × b",
+              "Irrational numbers — proof that √2, √3, √5, p+√q are irrational",
+              "Rational numbers and decimal expansions",
+              "Euclid's Division Lemma: a = bq + r"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "Polynomials",
+            "marks": 3,
+            "topics": [
+              "Zeroes of a polynomial",
+              "Relationship between zeroes and coefficients of quadratic polynomial",
+              "Sum of zeroes = -b/a, Product of zeroes = c/a",
+              "Formation of quadratic polynomial given zeroes",
+              "Graph of polynomial — relation to zeroes"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "Pair of Linear Equations in Two Variables",
+            "marks": 5,
+            "topics": [
+              "Graphical method of solution",
+              "Algebraic methods: substitution, elimination, cross-multiplication",
+              "Consistency/inconsistency: a1/a2 = b1/b2 ≠ c1/c2 (parallel/no solution)",
+              "Number of solutions: unique, infinitely many, none",
+              "Word problems — age, speed, work, fractions"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "Quadratic Equations",
+            "marks": 5,
+            "topics": [
+              "Standard form: ax²+bx+c=0",
+              "Factorisation method",
+              "Completing the square method",
+              "Quadratic formula: x = (-b ± √(b²-4ac)) / 2a",
+              "Discriminant D = b²-4ac: D>0 (2 real distinct), D=0 (2 equal real), D<0 (no real roots)",
+              "Nature of roots",
+              "Word problems based on quadratic equations"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "Arithmetic Progressions (AP)",
+            "marks": 5,
+            "topics": [
+              "General term (nth term): an = a + (n-1)d",
+              "Sum of first n terms: Sn = n/2[2a + (n-1)d] = n/2[a + l]",
+              "Common difference d",
+              "Finding n when nth term or sum is given"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "Triangles",
+            "marks": 6,
+            "topics": [
+              "Similar triangles — AA, SAS, SSS similarity criteria",
+              "Basic Proportionality Theorem (BPT) / Thales theorem",
+              "Converse of BPT",
+              "Pythagoras theorem proof",
+              "Converse of Pythagoras theorem",
+              "Areas of similar triangles — ratio of squares of corresponding sides"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "Coordinate Geometry",
+            "marks": 5,
+            "topics": [
+              "Distance formula: d = √((x₂-x₁)² + (y₂-y₁)²)",
+              "Section formula: P = ((m·x₂+n·x₁)/(m+n), (m·y₂+n·y₁)/(m+n))",
+              "Mid-point formula: M = ((x₁+x₂)/2, (y₁+y₂)/2)",
+              "Area of triangle with vertices",
+              "Collinearity of points"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "Introduction to Trigonometry",
+            "marks": 7,
+            "topics": [
+              "Trigonometric ratios: sin, cos, tan, cosec, sec, cot",
+              "Trigonometric ratios of standard angles: 0°, 30°, 45°, 60°, 90°",
+              "Complementary angles: sin(90-θ) = cosθ, etc.",
+              "Trigonometric identities: sin²θ+cos²θ=1, 1+tan²θ=sec²θ, 1+cot²θ=cosec²θ",
+              "Proof of trigonometric identities"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "Some Applications of Trigonometry",
+            "marks": 5,
+            "topics": [
+              "Angle of elevation — looking upward from horizontal",
+              "Angle of depression — looking downward from horizontal",
+              "Problems involving single right triangle",
+              "Problems involving two right triangles (two observers / two angles from same point)",
+              "Standard angles used: 30°, 45°, 60° only"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "Circles",
+            "marks": 4,
+            "topics": [
+              "Tangent to a circle — touches at exactly one point",
+              "Length of tangent from external point",
+              "Two tangents from external point — equal length",
+              "Angle between tangent and radius = 90°",
+              "Tangent from external point theorem"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "Areas Related to Circles",
+            "marks": 4,
+            "topics": [
+              "Area of circle = πr²",
+              "Circumference = 2πr",
+              "Area of sector = (θ/360°) × πr²",
+              "Length of arc = (θ/360°) × 2πr",
+              "Area of segment = Area of sector - Area of triangle"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "Surface Areas and Volumes",
+            "marks": 6,
+            "topics": [
+              "Surface area and volume of: cube, cuboid, cylinder, cone, sphere, hemisphere",
+              "Surface area of combination of two solids",
+              "Volume of combination of two solids",
+              "Volume/surface area when one solid is converted into another",
+              "Frustum of cone"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "Statistics",
+            "marks": 7,
+            "topics": [
+              "Mean of grouped data: Direct method, Assumed mean method, Step-deviation method",
+              "Mean formula: x̄ = Σfi·xi / Σfi",
+              "Median of grouped data: Median = l + ((n/2 - cf)/f) × h",
+              "Mode of grouped data: Mode = l + ((f1-f0)/(2f1-f0-f2)) × h",
+              "Cumulative frequency and ogive",
+              "Relation: Mode = 3 Median - 2 Mean"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "14",
+            "name": "Probability",
+            "marks": 3,
+            "topics": [
+              "Classical probability: P(E) = number of favourable outcomes / total outcomes",
+              "P(E) + P(Ē) = 1",
+              "Probability ranges: 0 ≤ P(E) ≤ 1",
+              "Problems on: cards (52), dice, balls in bag, coins"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Real Numbers",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 1,
+      "unit_name": "Number Systems",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Fundamental Theorem of Arithmetic — every composite number = product of primes (unique)",
+        "HCF and LCM using prime factorisation",
+        "Relation: HCF(a,b) × LCM(a,b) = a × b",
+        "Irrational numbers — proof that √2, √3, √5, p+√q are irrational",
+        "Rational numbers and decimal expansions",
+        "Euclid's Division Lemma: a = bq + r"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Prime factorisation of 156 will be: 2²×3×13. [2025, 2024, 2023 — every year MCQ]",
+        "Prove that √3 is an irrational number. [2025, 2024, 2023, 2022 — every year 2 marks]",
+        "Prove that 3+2√5 is an irrational number. [2025, 2024]",
+        "Prove that 7√5 is an irrational number. [2025 Set-5]",
+        "Given that HCF(306,657)=9, find the value of LCM(306,657). [2025, 2024]",
+        "Find HCF of 96 and 404 by prime factorisation method. [2025 Set-1]",
+        "Show that any positive odd integer is of form 4q+1 or 4q+3. [2023 important Q]"
+      ],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Polynomials",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 2,
+      "unit_name": "Algebra",
+      "part": "",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Zeroes of a polynomial",
+        "Relationship between zeroes and coefficients of quadratic polynomial",
+        "Sum of zeroes = -b/a, Product of zeroes = c/a",
+        "Formation of quadratic polynomial given zeroes",
+        "Graph of polynomial — relation to zeroes"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Find the zeroes of quadratic polynomial x²+7x+10 and verify relationship between zeroes and coefficients. [2025, 2024, 2023 — every year]",
+        "Zeroes of quadratic polynomial 6x²-3-7x will be: 3/2, -1/3. [2025 MCQ]",
+        "Sum of zeroes of 4x²-4x+1 = 1. [MCQ]",
+        "Find zeroes of x²+7x+10 and verify with coefficients. [Important Q2 in book]"
+      ],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Pair of Linear Equations in Two Variables",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 3,
+      "unit_name": "Algebra",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Graphical method of solution",
+        "Algebraic methods: substitution, elimination, cross-multiplication",
+        "Consistency/inconsistency: a1/a2 = b1/b2 ≠ c1/c2 (parallel/no solution)",
+        "Number of solutions: unique, infinitely many, none",
+        "Word problems — age, speed, work, fractions"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "For unique solution: a1/a2 ≠ b1/b2",
+        "For no solution (parallel): a1/a2 = b1/b2 ≠ c1/c2",
+        "For infinite solutions: a1/a2 = b1/b2 = c1/c2"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "A fraction becomes 1/3 when 1 subtracted from numerator and becomes 1/4 when 8 added to denominator. Find the fraction. [2025 Set-1 — 6 marks]",
+        "Solve: 5x+y=3, 6x-5y=1/2. [2025 Set-5]",
+        "Sum of two numbers is 8 and sum of their inverses is 8/15. Find the numbers. [Important Q4]",
+        "The speed of a boat is 4 km/h in still water. 8 hours to travel 12 km downstream and 12 km upstream. Find speed of current. [2022 — 6 marks]",
+        "3x-y=8 and 6x-py=16 are coincident lines. Find p. [2024]",
+        "Lines 3x+2py=2 and 2x+5y+1=0 are parallel. Find p. [2024]"
+      ],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Quadratic Equations",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 4,
+      "unit_name": "Algebra",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Standard form: ax²+bx+c=0",
+        "Factorisation method",
+        "Completing the square method",
+        "Quadratic formula: x = (-b ± √(b²-4ac)) / 2a",
+        "Discriminant D = b²-4ac: D>0 (2 real distinct), D=0 (2 equal real), D<0 (no real roots)",
+        "Nature of roots",
+        "Word problems based on quadratic equations"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "x = (-b ± √(b²-4ac)) / 2a",
+        "Discriminant D = b²-4ac",
+        "Sum of roots = -b/a, Product of roots = c/a"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "If roots of equation 3x²-12x+m=0 are equal, find value of m. [2025 MCQ — every year]",
+        "Discriminant of 3x²-4x+4/3=0 will be: 0. [2025 MCQ]",
+        "Find roots of √2x²+7x+5√2=0. [2025 Q1, every year]",
+        "Find roots of √3x²-11x+8√3=0. [2025 Set-3]",
+        "A fraction becomes 1/5 when 2 subtracted from numerator. If 3 added to denominator it becomes 1/6. Find fraction. [2025]",
+        "Two consecutive odd positive integers, sum of squares is 290. Find integers. [2023]",
+        "The sum of digits of two-digit number is 9. Nine times this number is twice the number obtained by reversing order. Find the number. [2023]"
+      ],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Arithmetic Progressions (AP)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 5,
+      "unit_name": "Algebra",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "General term (nth term): an = a + (n-1)d",
+        "Sum of first n terms: Sn = n/2[2a + (n-1)d] = n/2[a + l]",
+        "Common difference d",
+        "Finding n when nth term or sum is given"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "an = a + (n-1)d",
+        "Sn = n/2[2a + (n-1)d]",
+        "Sn = n/2[a + l]  where l = last term",
+        "If a, b, c are in AP: b-a = c-b  →  2b = a+c"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "If sum of first 7 terms of AP is 49 and sum of first 17 terms is 289, find sum of first n terms. [2025 — 6 marks, every year]",
+        "The 17th term of an AP exceeds its 10th term by 7. Find common difference. [2025, 2024]",
+        "Find sum of odd numbers between 0 and 100. [2025 Model Paper]",
+        "20th term of AP 10, 7, 4,... = -47. [2024, 2025 MCQ]",
+        "If sum of first 9 terms is 81 and sum of first 17 terms is 289, find first term and common difference. [2025 Set-5]",
+        "For which value of x are 2x, x+8 and 3x+1 in AP? [2024]"
+      ],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Triangles",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 6,
+      "unit_name": "Geometry",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Similar triangles — AA, SAS, SSS similarity criteria",
+        "Basic Proportionality Theorem (BPT) / Thales theorem",
+        "Converse of BPT",
+        "Pythagoras theorem proof",
+        "Converse of Pythagoras theorem",
+        "Areas of similar triangles — ratio of squares of corresponding sides"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Prove that if a line is drawn parallel to one side of triangle to intersect the other two sides in distinct points, then the other two sides are divided in the same ratio. (BPT) [2025, 2024, 2023, 2022 — every year]",
+        "In △ABC, DE||BC such that AD=1.5cm, DB=3cm, AE=2cm. Find AC. [2025 MCQ Set-1]",
+        "Prove: If in two triangles, corresponding angles are equal, then their corresponding sides are proportional and hence triangles are similar. [2024, 2023]",
+        "Prove that the ratio of areas of two similar triangles is equal to ratio of squares of their corresponding sides. [2024, 2023]",
+        "In △ABC, if AD⊥BC, prove AB²+CD²=BD²+AC². [2023]"
+      ],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Coordinate Geometry",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 7,
+      "unit_name": "Coordinate Geometry",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Distance formula: d = √((x₂-x₁)² + (y₂-y₁)²)",
+        "Section formula: P = ((m·x₂+n·x₁)/(m+n), (m·y₂+n·y₁)/(m+n))",
+        "Mid-point formula: M = ((x₁+x₂)/2, (y₁+y₂)/2)",
+        "Area of triangle with vertices",
+        "Collinearity of points"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Distance = √((x₂-x₁)² + (y₂-y₁)²)",
+        "Section formula (internal): ((mx₂+nx₁)/(m+n), (my₂+ny₁)/(m+n))",
+        "Mid-point: ((x₁+x₂)/2, (y₁+y₂)/2)",
+        "Area of triangle = (1/2)|x₁(y₂-y₃) + x₂(y₃-y₁) + x₃(y₁-y₂)|"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Find coordinates of point which divides line segment joining (-1,7) and (4,-3) in ratio 2:3. [2025, 2024, 2023 — every year]",
+        "Distance between points (2,3) and (4,1) = 2√2. [2025 MCQ]",
+        "Find coordinates of point on X-axis equidistant from points (2,-5) and (-2,9). [2025]",
+        "Find coordinates of points dividing line segment A(-2,2) and B(2,8) into four equal parts. [2025 Model Paper]",
+        "Find ratio in which Y-axis divides line segment joining (5,-6) and (-1,-4). [2025 Set-3]",
+        "If points (1,4), (a,-2) and (-3,16) are collinear, find value of a. [Important Q12]"
+      ],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Introduction to Trigonometry",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 8,
+      "unit_name": "Trigonometry",
+      "part": "",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Trigonometric ratios: sin, cos, tan, cosec, sec, cot",
+        "Trigonometric ratios of standard angles: 0°, 30°, 45°, 60°, 90°",
+        "Complementary angles: sin(90-θ) = cosθ, etc.",
+        "Trigonometric identities: sin²θ+cos²θ=1, 1+tan²θ=sec²θ, 1+cot²θ=cosec²θ",
+        "Proof of trigonometric identities"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Prove: cot A - cos A + 1 / cot A + cos A - 1 = cosec A + cot A [MCQ: find the expression]",
+        "Prove: (cos A - sin A + 1)/(cos A + sin A - 1) = cosec A + cot A. [every year — 4 marks]",
+        "The value of 2 sin 30° cos 30° = √3/2. [MCQ 2025, 2024]",
+        "Prove: 1+secθ/secθ = sin²θ/(1-cosθ). [2025, 2024]",
+        "If tan A = cot B, prove that A + B = 90°. [2025 Set-2]",
+        "Prove: (cosA - sinA + 1)/(cosA + sinA - 1) = cosecA + cotA. [Important Q in book]"
+      ],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Some Applications of Trigonometry",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 9,
+      "unit_name": "Trigonometry",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Angle of elevation — looking upward from horizontal",
+        "Angle of depression — looking downward from horizontal",
+        "Problems involving single right triangle",
+        "Problems involving two right triangles (two observers / two angles from same point)",
+        "Standard angles used: 30°, 45°, 60° only"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Two poles of same height standing on either side of a road 80 m wide. From a point between them, angles of elevation are 60° and 30°. Find height of poles and distance of point from poles. [2025, 2024, 2023, 2022 — every year 6 marks]",
+        "Angle of elevation of top of 20 m high building from point O is 30°. There is a flagstaff on top. Angle of elevation of flagstaff top is 45°. Find height of flagstaff. [2025]",
+        "A statue 1.6 m tall on top of pedestal. From ground, angle of elevation of top of statue is 60° and of top of pedestal is 45°. Find length of pedestal. [2023]",
+        "From top of 7 m high building, angle of elevation of cable tower top is 60° and depression of foot is 45°. Find height of tower. [2023]",
+        "Angle of elevation from point O on plane is 30°. After walking 40 m towards tower, angle becomes 60°. Find height of tower. [Model Paper]"
+      ],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Circles",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 10,
+      "unit_name": "Geometry",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Tangent to a circle — touches at exactly one point",
+        "Length of tangent from external point",
+        "Two tangents from external point — equal length",
+        "Angle between tangent and radius = 90°",
+        "Tangent from external point theorem"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Prove that lengths of tangents drawn from external point to a circle are equal. [2025, 2024, 2023, 2022 — every year]",
+        "Prove that tangent at any point of circle is perpendicular to radius through point of contact. [2023, 2022]",
+        "In two concentric circles, chord of larger circle which touches smaller circle is bisected at point of contact. [2023, 2024]",
+        "A quadrilateral ABCD is drawn to circumscribe a circle. Prove AB+CD=AD+BC. [2025]",
+        "From point Q, length of tangent to circle is 24 cm and distance from centre is 25 cm. Find radius. [2025 MCQ]"
+      ],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Areas Related to Circles",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 11,
+      "unit_name": "Mensuration",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Area of circle = πr²",
+        "Circumference = 2πr",
+        "Area of sector = (θ/360°) × πr²",
+        "Length of arc = (θ/360°) × 2πr",
+        "Area of segment = Area of sector - Area of triangle"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Area of sector with angle θ = (θ/360) × πr²",
+        "Area of minor segment = Area of sector - Area of triangle",
+        "Area of major segment = πr² - Area of minor segment",
+        "Use π = 22/7 unless stated otherwise"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "An arc of circle of radius 14 cm subtends angle of 30° at centre. Area of corresponding sector. [2025 Set-5 and 2024]",
+        "Angle of sector of circle with radius 7 cm is 90°. Area of sector = 38.5 cm². [2025 MCQ]",
+        "Area of sector of circle with radius 6 cm is 60°. Find area of sector. [2024]",
+        "In circle of radius 21 cm, arc subtends angle 120°. Find length of arc and area of sector formed. [2025]",
+        "Two concentric circles of radii 3 and 5 cm. Find length of chord of larger circle touching smaller circle. [2025 Q2]"
+      ],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "Surface Areas and Volumes",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 12,
+      "unit_name": "Mensuration",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Surface area and volume of: cube, cuboid, cylinder, cone, sphere, hemisphere",
+        "Surface area of combination of two solids",
+        "Volume of combination of two solids",
+        "Volume/surface area when one solid is converted into another",
+        "Frustum of cone"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Cylinder: V=πr²h, CSA=2πrh, TSA=2πr(h+r)",
+        "Cone: V=(1/3)πr²h, CSA=πrl, TSA=πr(r+l), l=√(r²+h²)",
+        "Sphere: V=(4/3)πr³, SA=4πr²",
+        "Hemisphere: V=(2/3)πr³, CSA=2πr², TSA=3πr²",
+        "Cuboid: V=lbh, TSA=2(lb+bh+lh)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "A wooden toy made by scooping out hemisphere from each end of solid cylinder. Height = 10 cm, base radius = 3.5 cm. Find total surface area. [2025 Set-1 — 6 marks, every year]",
+        "Solid is in shape of cone standing on hemisphere, radii equal, measure = 3 cm, height = 6 cm. Find volume. [2025 Set-2]",
+        "A juice seller serving in cylindrical glass (inner diameter 5 cm). Bottom has hemispherical raised portion. Height of glass = 10 cm. Find apparent and actual capacity. [2023]",
+        "A cubical block of side 7 cm is surmounted by hemisphere. Find surface area. [2023]",
+        "Two cubes each of volume 216 cm³ are joined end to end. Find surface area of resulting cuboid. [2025 MCQ]",
+        "Wooden toy = cone of radius 3.5 cm surmounted on hemisphere. Total height = 15.5 cm. Find surface area. [2022]",
+        "A solid of shape of cone + hemisphere. Curved surfaces equal, find ratio of r:h. [2022 Or, 2025 Model Or]"
+      ],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "Statistics",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 13,
+      "unit_name": "Statistics and Probability",
+      "part": "",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Mean of grouped data: Direct method, Assumed mean method, Step-deviation method",
+        "Mean formula: x̄ = Σfi·xi / Σfi",
+        "Median of grouped data: Median = l + ((n/2 - cf)/f) × h",
+        "Mode of grouped data: Mode = l + ((f1-f0)/(2f1-f0-f2)) × h",
+        "Cumulative frequency and ogive",
+        "Relation: Mode = 3 Median - 2 Mean"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Mean (direct): x̄ = Σfi·xi / Σfi",
+        "Median: l + ((n/2 - cf)/f) × h  — where l=lower limit, cf=cumulative frequency before median class, f=frequency of median class, h=class width",
+        "Mode: l + ((f1-f0)/(2f1-f0-f2)) × h  — where f1=modal frequency, f0=frequency before, f2=frequency after",
+        "Relation: Mode = 3 Median - 2 Mean"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Find median from frequency distribution: [5 different frequency tables in 2025 across sets — every year]",
+        "Find mode from frequency distribution table. [every year 2-4 marks]",
+        "If mean and median are 15 and 24 respectively, find mode. [2025 Sets 3-5]",
+        "The distribution table shows daily pocket allowance. Mean = Rs.18. Find missing frequency. [2022]",
+        "Find mean of data using step-deviation method. [2024]",
+        "Modal class of frequency distribution is 10-15 (highest frequency class). [MCQ — every year]"
+      ],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "Probability",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 14,
+      "unit_name": "Statistics and Probability",
+      "part": "",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Classical probability: P(E) = number of favourable outcomes / total outcomes",
+        "P(E) + P(Ē) = 1",
+        "Probability ranges: 0 ≤ P(E) ≤ 1",
+        "Problems on: cards (52), dice, balls in bag, coins"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "A card drawn from well-shuffled pack of 52. P(getting queen) = 1/13. [2025, 2024, 2023 — every year MCQ]",
+        "Probability of getting even number when die thrown once = 1/2. [MCQ every year]",
+        "12 defective pens accidentally mixed with 132 good ones. One pen taken out at random. P(it is a good one). [2025 Set-1]",
+        "A bag contains 5 black, 7 red and 3 white balls. Ball drawn at random. Find P(red), P(black), P(not black). [2025 Set-1]",
+        "A card drawn from pack. P(king of red colour) = 1/26. P(queen) = 1/13. [2024]",
+        "If P(E) = 0.05, value of P(Ē) = 0.95. [MCQ 2024]"
+      ],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Mathematics Class 10 — 14 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Real Numbers",
+      "Pair of Linear Equations in Two Variables",
+      "Quadratic Equations",
+      "Arithmetic Progressions (AP)",
+      "Triangles",
+      "Introduction to Trigonometry",
+      "Some Applications of Trigonometry",
+      "Circles",
+      "Surface Areas and Volumes",
+      "Statistics"
+    ],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [
+      "Polynomials (3 marks)",
+      "Probability (3 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [],
+    "chapters_mostly_theory": [
+      "Real Numbers",
+      "Polynomials",
+      "Pair of Linear Equations in Two Variables",
+      "Quadratic Equations",
+      "Arithmetic Progressions (AP)",
+      "Triangles",
+      "Coordinate Geometry",
+      "Introduction to Trigonometry",
+      "Some Applications of Trigonometry",
+      "Circles",
+      "Areas Related to Circles",
+      "Surface Areas and Volumes",
+      "Statistics",
+      "Probability"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "Triangles",
+      "Introduction to Trigonometry",
+      "Surface Areas and Volumes",
+      "Statistics"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "Triangles",
+      "Introduction to Trigonometry",
+      "Surface Areas and Volumes",
+      "Statistics"
+    ],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "Real Numbers",
+      "Polynomials",
+      "Pair of Linear Equations in Two Variables",
+      "Quadratic Equations",
+      "Arithmetic Progressions (AP)",
+      "Triangles",
+      "Coordinate Geometry",
+      "Introduction to Trigonometry",
+      "Some Applications of Trigonometry",
+      "Circles",
+      "Areas Related to Circles",
+      "Surface Areas and Volumes",
+      "Statistics",
+      "Probability"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "most_important_questions_20": [
+      {
+        "rank": 1,
+        "question": "Prove that √3 (or √2, or 3+2√5, or 6-√2) is an irrational number.",
+        "chapter": "Real Numbers",
+        "typical_marks": 2,
+        "years_asked": "2025, 2024, 2023, 2022 — Every Year",
+        "section": "Part B Q1"
+      },
+      {
+        "rank": 2,
+        "question": "Find the zeroes of quadratic polynomial p(x) = x² + 7x + 10 and verify the relationship between its zeroes and the coefficients.",
+        "chapter": "Polynomials",
+        "typical_marks": 2,
+        "years_asked": "2025, 2024, 2023 — Every Year",
+        "section": "Part B Q1"
+      },
+      {
+        "rank": 3,
+        "question": "Word problem on Pair of Linear Equations (fraction type, speed type, or age type) — 6 marks.",
+        "chapter": "Pair of Linear Equations",
+        "typical_marks": 6,
+        "years_asked": "2025, 2024, 2023, 2022 — Every Year",
+        "section": "Part B Q3 (with OR)"
+      },
+      {
+        "rank": 4,
+        "question": "If the sum of first 7 terms of an AP is 49 and the sum of first 17 terms is 289, find the sum of first n terms.",
+        "chapter": "Arithmetic Progressions",
+        "typical_marks": "4 or 6",
+        "years_asked": "2025, 2024, 2023 — Every Year",
+        "section": "Part B Q2 or Q3"
+      },
+      {
+        "rank": 5,
+        "question": "Prove the Basic Proportionality Theorem (BPT / Thales Theorem): If a line is drawn parallel to one side of a triangle, it divides the other two sides in the same ratio.",
+        "chapter": "Triangles",
+        "typical_marks": 4,
+        "years_asked": "2025, 2024, 2023, 2022 — Every Year",
+        "section": "Part B Q2"
+      },
+      {
+        "rank": 6,
+        "question": "Prove that the lengths of tangents drawn from an external point to a circle are equal.",
+        "chapter": "Circles",
+        "typical_marks": 4,
+        "years_asked": "2025, 2024, 2023, 2022 — Every Year",
+        "section": "Part B Q2"
+      },
+      {
+        "rank": 7,
+        "question": "Prove: (cosA - sinA + 1)/(cosA + sinA - 1) = cosecA + cotA. OR Prove: (1 + secA)/secA = sin²A/(1 - cosA).",
+        "chapter": "Introduction to Trigonometry",
+        "typical_marks": 4,
+        "years_asked": "2025, 2024, 2023, 2022 — Every Year",
+        "section": "Part B Q2"
+      },
+      {
+        "rank": 8,
+        "question": "Two poles of same height are standing on either side of a road 80 m wide. From a point between them on the road, angles of elevation of top of poles are 60° and 30°. Find height of poles and distance of point from poles.",
+        "chapter": "Some Applications of Trigonometry",
+        "typical_marks": 6,
+        "years_asked": "2025, 2024, 2023, 2022 — Every Year",
+        "section": "Part B Q4 (with OR)"
+      },
+      {
+        "rank": 9,
+        "question": "Find the median from a given frequency distribution table (with 5-6 class intervals).",
+        "chapter": "Statistics",
+        "typical_marks": 4,
+        "years_asked": "2025, 2024, 2023, 2022 — Every Year",
+        "section": "Part B Q2"
+      },
+      {
+        "rank": 10,
+        "question": "A wooden toy is made by scooping out hemisphere from each end of a solid cylinder (height 10 cm, radius 3.5 cm). Find total surface area of the toy.",
+        "chapter": "Surface Areas and Volumes",
+        "typical_marks": 6,
+        "years_asked": "2025, 2024, 2023 — Every Year",
+        "section": "Part B Q5 (with OR)"
+      },
+      {
+        "rank": 11,
+        "question": "Prove that Pythagoras Theorem: In right triangle, square on hypotenuse is equal to sum of squares on other two sides.",
+        "chapter": "Triangles",
+        "typical_marks": 4,
+        "years_asked": "2025, 2024, 2023, 2022",
+        "section": "Part B Q2"
+      },
+      {
+        "rank": 12,
+        "question": "Solve given pair of linear equations by elimination method. OR Solve equations like 5/x-1 + 1/y-2 = 2 (reducing to linear form).",
+        "chapter": "Pair of Linear Equations",
+        "typical_marks": "4 or 6",
+        "years_asked": "2025, 2024, 2023, 2022",
+        "section": "Part B Q2 or Q3"
+      },
+      {
+        "rank": 13,
+        "question": "Find the coordinates of the point which divides the line segment joining (−1, 7) and (4, −3) in the ratio 2:3.",
+        "chapter": "Coordinate Geometry",
+        "typical_marks": 2,
+        "years_asked": "2025, 2024, 2023 — Every Year",
+        "section": "Part B Q1"
+      },
+      {
+        "rank": 14,
+        "question": "If sin θ = cos θ (0 ≤ θ ≤ 90°), find value of θ. OR Prove trigonometric identity with given expression.",
+        "chapter": "Introduction to Trigonometry",
+        "typical_marks": 2,
+        "years_asked": "2025, 2024, 2023, 2022",
+        "section": "Part B Q1"
+      },
+      {
+        "rank": 15,
+        "question": "Find the mode from a given frequency distribution. Find missing frequency given mean or median.",
+        "chapter": "Statistics",
+        "typical_marks": "2 or 4",
+        "years_asked": "2025, 2024, 2023, 2022 — Every Year",
+        "section": "Part B Q1 or Q2"
+      },
+      {
+        "rank": 16,
+        "question": "Find the roots of the quadratic equation √3x²-11x+8√3=0 OR √2x²+7x+5√2=0 by factorisation method.",
+        "chapter": "Quadratic Equations",
+        "typical_marks": 2,
+        "years_asked": "2025, 2024, 2023",
+        "section": "Part B Q1"
+      },
+      {
+        "rank": 17,
+        "question": "Prove that in two concentric circles, the chord of the larger circle which touches the smaller circle is bisected at the point of contact.",
+        "chapter": "Circles",
+        "typical_marks": 4,
+        "years_asked": "2025, 2024, 2023",
+        "section": "Part B Q2"
+      },
+      {
+        "rank": 18,
+        "question": "Find the area of the sector of a circle with radius 14 cm which subtends an angle of 30° at centre. Also find length of arc.",
+        "chapter": "Areas Related to Circles",
+        "typical_marks": 2,
+        "years_asked": "2025, 2024, 2023",
+        "section": "Part B Q1"
+      },
+      {
+        "rank": 19,
+        "question": "Find HCF of 96 and 404 by prime factorisation method. Hence find their LCM.",
+        "chapter": "Real Numbers",
+        "typical_marks": 2,
+        "years_asked": "2025, 2024, 2023, 2022",
+        "section": "Part B Q1"
+      },
+      {
+        "rank": 20,
+        "question": "Word problem on quadratic equation: Two consecutive odd positive integers whose sum of squares is 290. Find them. OR Speed/work problem requiring quadratic equation.",
+        "chapter": "Quadratic Equations",
+        "typical_marks": "4 or 6",
+        "years_asked": "2025, 2024, 2023, 2022",
+        "section": "Part B Q2 or Q3"
+      }
+    ],
+    "highest_repeat_topics": [
+      {
+        "topic": "Prove √2 or √3 irrational (2 marks)",
+        "years": "2022, 2023, 2024, 2025",
+        "frequency": "Every year",
+        "marks": 2
+      },
+      {
+        "topic": "Find zeroes of quadratic polynomial + verify relationship",
+        "years": "2022, 2023, 2024, 2025",
+        "frequency": "Every year",
+        "marks": 2
+      },
+      {
+        "topic": "Pair of linear equations word problem (fraction/speed/age)",
+        "years": "2022, 2023, 2024, 2025",
+        "frequency": "Every year",
+        "marks": "4 or 6"
+      },
+      {
+        "topic": "AP — sum of n terms given two conditions",
+        "years": "2022, 2023, 2024, 2025",
+        "frequency": "Every year",
+        "marks": "4 or 6"
+      },
+      {
+        "topic": "BPT (Thales theorem) proof",
+        "years": "2022, 2023, 2024, 2025",
+        "frequency": "Every year",
+        "marks": 4
+      },
+      {
+        "topic": "Tangents from external point — equal length proof",
+        "years": "2022, 2023, 2024, 2025",
+        "frequency": "Every year",
+        "marks": 4
+      },
+      {
+        "topic": "Trigonometric identity proof",
+        "years": "2022, 2023, 2024, 2025",
+        "frequency": "Every year",
+        "marks": 4
+      },
+      {
+        "topic": "Two poles problem (heights and distances)",
+        "years": "2022, 2023, 2024, 2025",
+        "frequency": "Every year",
+        "marks": 6
+      },
+      {
+        "topic": "Median from frequency distribution table",
+        "years": "2022, 2023, 2024, 2025",
+        "frequency": "Every year",
+        "marks": 4
+      },
+      {
+        "topic": "Combination of solids (hemisphere+cylinder/cone)",
+        "years": "2022, 2023, 2024, 2025",
+        "frequency": "Every year",
+        "marks": 6
+      },
+      {
+        "topic": "Section formula — point dividing line segment",
+        "years": "2022, 2023, 2024, 2025",
+        "frequency": "Every year",
+        "marks": 2
+      },
+      {
+        "topic": "Prime factorisation MCQ (of 156, 144 etc.)",
+        "years": "2022, 2023, 2024, 2025",
+        "frequency": "Every year MCQ",
+        "marks": 1
+      },
+      {
+        "topic": "Area of sector given angle and radius",
+        "years": "2022, 2023, 2024, 2025",
+        "frequency": "Every year",
+        "marks": "1 or 2"
+      },
+      {
+        "topic": "Quadratic equation — roots by factorisation + word problem",
+        "years": "2022, 2023, 2024, 2025",
+        "frequency": "Every year",
+        "marks": "2 or 4"
+      },
+      {
+        "topic": "Statistics — mode from frequency distribution",
+        "years": "2022, 2023, 2024, 2025",
+        "frequency": "Every year",
+        "marks": "1 or 2"
+      }
+    ],
+    "sets_per_year": {
+      "2025": [
+        "Set-1 822 BV",
+        "Set-2 822 BW",
+        "Set-3 822 BX",
+        "Set-4 822 BY",
+        "Set-5 822 BZ"
+      ],
+      "2024": [
+        "Set-1 822 IA",
+        "Set-2 822 IB",
+        "Set-3 822 IC"
+      ],
+      "2023": [
+        "Set-1 822 DV",
+        "Set-2 822 DW"
+      ],
+      "2022": [
+        "Set-1 822 AV",
+        "Set-2 822 AW"
+      ]
+    },
+    "paper_difficulty": {
+      "2025": "Medium to Difficult. 7 sets. Level same across sets.",
+      "2024": "Medium to Difficult.",
+      "2023": "Medium. Standard pattern.",
+      "2022": "Medium. Standard pattern."
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Mathematics.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Formulas / key relations for Mathematics Class 10.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "3",
+        "chapter_name": "Pair of Linear Equations in Two Variables",
+        "formulas": [
+          "For unique solution: a1/a2 ≠ b1/b2",
+          "For no solution (parallel): a1/a2 = b1/b2 ≠ c1/c2",
+          "For infinite solutions: a1/a2 = b1/b2 = c1/c2"
+        ]
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Quadratic Equations",
+        "formulas": [
+          "x = (-b ± √(b²-4ac)) / 2a",
+          "Discriminant D = b²-4ac",
+          "Sum of roots = -b/a, Product of roots = c/a"
+        ]
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Arithmetic Progressions (AP)",
+        "formulas": [
+          "an = a + (n-1)d",
+          "Sn = n/2[2a + (n-1)d]",
+          "Sn = n/2[a + l]  where l = last term",
+          "If a, b, c are in AP: b-a = c-b  →  2b = a+c"
+        ]
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Coordinate Geometry",
+        "formulas": [
+          "Distance = √((x₂-x₁)² + (y₂-y₁)²)",
+          "Section formula (internal): ((mx₂+nx₁)/(m+n), (my₂+ny₁)/(m+n))",
+          "Mid-point: ((x₁+x₂)/2, (y₁+y₂)/2)",
+          "Area of triangle = (1/2)|x₁(y₂-y₃) + x₂(y₃-y₁) + x₃(y₁-y₂)|"
+        ]
+      },
+      {
+        "chapter_id": "11",
+        "chapter_name": "Areas Related to Circles",
+        "formulas": [
+          "Area of sector with angle θ = (θ/360) × πr²",
+          "Area of minor segment = Area of sector - Area of triangle",
+          "Area of major segment = πr² - Area of minor segment",
+          "Use π = 22/7 unless stated otherwise"
+        ]
+      },
+      {
+        "chapter_id": "12",
+        "chapter_name": "Surface Areas and Volumes",
+        "formulas": [
+          "Cylinder: V=πr²h, CSA=2πrh, TSA=2πr(h+r)",
+          "Cone: V=(1/3)πr²h, CSA=πrl, TSA=πr(r+l), l=√(r²+h²)",
+          "Sphere: V=(4/3)πr³, SA=4πr²",
+          "Hemisphere: V=(2/3)πr³, CSA=2πr², TSA=3πr²",
+          "Cuboid: V=lbh, TSA=2(lb+bh+lh)"
+        ]
+      },
+      {
+        "chapter_id": "13",
+        "chapter_name": "Statistics",
+        "formulas": [
+          "Mean (direct): x̄ = Σfi·xi / Σfi",
+          "Median: l + ((n/2 - cf)/f) × h  — where l=lower limit, cf=cumulative frequency before median class, f=frequency of median class, h=class width",
+          "Mode: l + ((f1-f0)/(2f1-f0-f2)) × h  — where f1=modal frequency, f0=frequency before, f2=frequency after",
+          "Relation: Mode = 3 Median - 2 Mean"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Real Numbers",
+        "formulas": [
+          "HCF(a,b) × LCM(a,b) = a × b",
+          "Euclid: a = bq + r  (0 ≤ r < b)"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Polynomials",
+        "formulas": [
+          "Sum of zeroes (quadratic) = -b/a",
+          "Product of zeroes (quadratic) = c/a",
+          "Quadratic polynomial = x² - (sum of zeroes)x + (product of zeroes)"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Quadratic Equations",
+        "formulas": [
+          "x = (-b ± √(b²-4ac)) / 2a",
+          "Discriminant D = b²-4ac",
+          "D > 0: two distinct real roots",
+          "D = 0: two equal real roots",
+          "D < 0: no real roots"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Arithmetic Progressions",
+        "formulas": [
+          "nth term: an = a + (n-1)d",
+          "Sum of n terms: Sn = n/2[2a + (n-1)d]",
+          "Sn = n/2[a + l]  (l = last term)",
+          "If a, b, c in AP: 2b = a + c"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Coordinate Geometry",
+        "formulas": [
+          "Distance = √((x₂-x₁)² + (y₂-y₁)²)",
+          "Section formula (internal): ((mx₂+nx₁)/(m+n), (my₂+ny₁)/(m+n))",
+          "Mid-point: ((x₁+x₂)/2, (y₁+y₂)/2)",
+          "Area of triangle = (1/2)|x₁(y₂-y₃) + x₂(y₃-y₁) + x₃(y₁-y₂)|"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Trigonometry",
+        "formulas": [
+          "sin²θ + cos²θ = 1",
+          "1 + tan²θ = sec²θ",
+          "1 + cot²θ = cosec²θ",
+          "sin(90-θ) = cosθ, cos(90-θ) = sinθ, tan(90-θ) = cotθ",
+          "Standard values: sin30=1/2, cos30=√3/2, tan30=1/√3, sin45=cos45=1/√2, sin60=√3/2, cos60=1/2, tan60=√3"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Areas Related To Circles",
+        "formulas": [
+          "Area of circle = πr²",
+          "Circumference = 2πr",
+          "Area of sector = (θ/360°) × πr²",
+          "Length of arc = (θ/360°) × 2πr",
+          "Area of segment = Area of sector − Area of triangle"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Surface Areas And Volumes",
+        "formulas": [
+          "Cylinder: V = πr²h, CSA = 2πrh, TSA = 2πr(h+r)",
+          "Cone: V = (1/3)πr²h, CSA = πrl, l = √(r²+h²)",
+          "Sphere: V = (4/3)πr³, SA = 4πr²",
+          "Hemisphere: V = (2/3)πr³, CSA = 2πr², TSA = 3πr²",
+          "Cuboid: V = lbh, TSA = 2(lb+bh+lh)",
+          "Cube: V = a³, TSA = 6a²"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Statistics",
+        "formulas": [
+          "Mean (direct): x̄ = Σfi·xi / Σfi",
+          "Median: l + ((n/2 - cf)/f) × h",
+          "Mode: l + ((f1-f0)/(2f1-f0-f2)) × h",
+          "Relation: Mode = 3 Median − 2 Mean"
+        ]
+      },
+      {
+        "chapter_id": "",
+        "chapter_name": "Probability",
+        "formulas": [
+          "P(E) = Number of favourable outcomes / Total number of outcomes",
+          "P(E) + P(Ē) = 1",
+          "0 ≤ P(E) ≤ 1",
+          "Total cards in pack = 52 (4 suits × 13 each)",
+          "Face cards = 12 (J, Q, K of each suit)"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Mathematics.",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Mathematics.",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Mathematics Class 10 — no practical exam.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 30,
+    "medium_percent": 50,
+    "hard_percent": 20,
+    "most_scoring_sections": [
+      "Easy to Medium — standard MCQ if concepts clear. Some tricky options.",
+      "Easy to Medium — direct application, proofs are short."
+    ],
+    "most_difficult_sections": [
+      "Medium to Difficult — proofs are formulaic but need practice; numericals are straightforward.",
+      "Moderate to Difficult — word problems and applications."
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "OMR sheet par WHITENER/ERASER BILKUL NAHI USE KARNA — yeh disqualification ka reason ban sakta hai.",
+      "Part B Q2 mein 6 parts diye hain, attempt karo KISI BHI 5 — always skip the one hardest for you.",
+      "Q3-Q5 mein OR option hai — reading time mein hi decide karo kaunsa attempt karna hai.",
+      "Geometry proofs mein REASON likhna COMPULSORY hai — [Given], [By AA similarity], [CPCT], [By BPT] etc.",
+      "Heights & distances mein pehle diagram banao, angles label karo — 1 mark diagram ka milega even if solution incomplete.",
+      "Statistics mein median ke liye cumulative frequency table ZAROOR banao — without it marks nahi milte.",
+      "Mensuration mein pi = 22/7 use karo jab tak kuch aur na diya gaya ho.",
+      "AP sum problem: pehle common difference find karo, phir formula lagao.",
+      "Irrational number proof: contradiction method use karo. Assume rational, get contradiction, conclude irrational.",
+      "Quadratic equation word problems: dono values of x check karo — ek negative nahi ho sakta (e.g., length/speed).",
+      "Probability: sample space clearly likho, then count favourable outcomes carefully."
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "Pehle Part A ke 20 MCQ padho mentally. Part B mein Q3, Q4, Q5 ke OR choices tay karo. Jo nahi aata usko skip karoge — decide karo."
+      },
+      {
+        "section_id": "part_A_MCQ_25min",
+        "recommended_minutes": 5,
+        "note": "20 MCQ × 1.5 min. OMR carefully fill karo — whitener not allowed. Jo pakka pata ho pehle karo, doubtful baad mein."
+      },
+      {
+        "section_id": "part_B_Q1_25min",
+        "recommended_minutes": 4,
+        "note": "6 parts × 4 min. Sabhi compulsory. Concise answers. Show working. Proof: 2-3 logical steps."
+      },
+      {
+        "section_id": "part_B_Q2_45min",
+        "recommended_minutes": 9,
+        "note": "6 parts given, attempt 5. Read all 6, choose easiest 5. Proofs + numericals. ~9 min each."
+      },
+      {
+        "section_id": "part_B_Q3_to_Q5_60min",
+        "recommended_minutes": 20,
+        "note": "3 questions × 20 min each (including OR choice selection). Diagram first, then solution."
+      },
+      {
+        "section_id": "revision_5min",
+        "recommended_minutes": 0,
+        "note": "Check: Unit in mensuration answers. Reason written in proofs. OMR filled correctly."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 23",
+        "target_marks": 23,
+        "strategy": "Part A MCQ full attempt (20 marks — even 50% = 10 marks easy). Part B Q1 easy parts (8-12 marks). Total = 18-32 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Part A MCQ — attempt all 20. Know: HCF/LCM, quadratic roots, trig values, probability, median/mode class",
+          "Part B Q1 (a): Prove √3 irrational — 2 marks, comes every year",
+          "Part B Q1 (c): Trig identity value — 2 marks",
+          "Part B Q1 (d): Mean/mode from small frequency table — 2 marks",
+          "Part B Q1 (e): Coordinate geometry — mid-point or section formula — 2 marks"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "40",
+        "target_marks": 40,
+        "strategy": "Part A (14-16/20) + Part B Q1 all 6 parts (12) + Part B Q2 any 3 easy parts (12) = 38-40 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Part A: All MCQ topics prepared — trig values, statistics (mode/median class), AP, probability",
+          "Q1: All 6 parts — prepare √3 irrational, zeroes of polynomial, trig values, section formula, HCF",
+          "Q2: Tangent proof (4 marks), BPT proof (4 marks), statistics median numerical (4 marks)"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "55 marks plus",
+        "target_marks": 55,
+        "strategy": "Part A (17-18) + Part B Q1 full (12) + Part B Q2 full 5 parts (20) + Part B Q3-Q4 (6+6) = 61-62 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All proofs: BPT, Pythagoras, tangent equal, trigonometric identities",
+          "Word problems: pair of linear equations (fraction type), AP sum problems, heights and distances",
+          "Statistics: median and mode full working",
+          "Mensuration: combination of solids volume + SA"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping 65 plus",
+        "target_marks": 65,
+        "strategy": "All sections full marks. Part A 20/20, Part B Q1 12/12, Q2 all 5 best (20/20), Q3+Q4+Q5 all 18/18 = 70/70.",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "Part A MCQ: Practice all 5 model papers and 2 years' papers to eliminate careless errors",
+          "Q2: Choose 5 parts where you know proofs/methods perfectly",
+          "Q3-Q5 OR choices: Know both options in reading time, choose simpler one",
+          "Geometrical figures: neat and properly labeled — 1 mark for figure even if proof incomplete"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Mathematics Class 10 (Standard)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Base textbook. UP Board syllabus fully based on NCERT. All theorems, proofs and examples from NCERT. Must read once fully."
+      },
+      {
+        "name": "UP Board Chapterwise Question Bank — Mathematics Class 10",
+        "author": "",
+        "publisher": "Standard Publication",
+        "purpose": "Primary",
+        "note": "Chapterwise MCQ, 2-mark, 4-mark, 6-mark questions + 20 Most Important Questions + previous year papers 2020-2025 + 5 model papers. Based on NEP 2020, latest 2025-26 syllabus."
+      },
+      {
+        "name": "Previous Year Board Papers 2020-2025",
+        "author": "",
+        "publisher": "UP Board Official",
+        "purpose": "Supplementary",
+        "note": "Multiple sets per year. Solving 2-3 years papers is the best exam preparation. Pattern recognition helps choose correct Q2 parts and Q3-Q5 OR options."
+      },
+      {
+        "name": "UP Board Model Papers 2026",
+        "author": "",
+        "publisher": "UP Board Official",
+        "purpose": "Supplementary",
+        "note": "Available on upmsp.edu.in. Practice at least 2 model papers under timed conditions before exam."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": false,
+    "extra_time_note": ""
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "question_number_note: Har answer ke upar question number clearly likhna zaroori hai.",
+      "set_number_compulsory: True",
+      "set_number_note: Apna set number (822 BV/BW etc.) answer sheet ke cover page par compulsory likhna hota hai.",
+      "omr_rules: OMR sheet mein: ek baar mark kiya toh change nahi kar sakte. Erase, cut, whitener bilkul not allowed. Carefully mark karo.",
+      "rough_work: Rough work answer book ke LEFT page par karo aur us page ko X se cross kar do. Left page pe rough work, right page pe fair answer.",
+      "question_copy_compulsory: False",
+      "question_copy_note: Answer sheet mein question likhna zaroori nahi. Sirf question number likho aur answer shuru karo.",
+      "sequence_compulsory: True",
+      "sequence_note: Instructions say: Q1 se shuru karo aur last tak jao. Jo nahi aata usse skip karo aur aage badho — lekin sequence follow karna better hai.",
+      "sub_questions: Q1 ke parts (a), (b), (c)... clearly likhkaro. Q2 mein jo 5 parts attempt karo unke letter clearly likho.",
+      "partial_marking: True",
+      "partial_marking_note: Mathematics mein partial marking hoti hai. Correct method/formula but calculation mistake — phir bhi 2/3 ya 3/4 marks milenge.",
+      "steps_marking: True",
+      "steps_marking_note: Proofs aur numericals mein step-by-step marking hoti hai.",
+      "reason_in_proof_marks: Geometry proof mein reason nahi likha toh each step se 0.5 mark cut ho sakta hai.",
+      "calculation_compulsory: True",
+      "calculation_note: Calculation steps dikhao. Sirf final answer likhne se full marks nahi milenge.",
+      "correct_answer_wrong_steps: Final answer sahi lekin steps galat — marks cut hote hain.",
+      "wrong_units: Unit nahi likhi ya galat likhi — marks cut ho sakte hain.",
+      "omr_marking: MCQ mein OMR par option bubble clearly fill karo. Half filled or lightly filled bubbles rejected ho sakte hain.",
+      "no_attempt_marks: Koi bhi part attempt nahi kiya toh zero marks."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['Blue', 'Black'] both_colors_together: True single_color_ok: True pencil_use: Sirf geometrical figures/constructions aur rough work ke liye pencil allowed hai. Answers kabhi pencil se mat likho. pen_diagram: Pen se diagram banana allowed hai. Pencil se banana zyaada neat hota hai — recommended. recommendation: Blue pen se main answer, black se headings/underline. Ya sirf ek color bhi chalega. omr_pen: OMR sheet par blue ya black BALL POINT pen se mark karo. Gel pen se bhi allowed hai lekin ensure karo nib thick ho."
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "word_limit_excess: Mathematics mein word limit nahi hoti. Steps clearly likhni hain. Unnecessary long theory mat likho. step_numbering: Proofs mein statements numbered karo. Reasons bracket mein likhna required hai — e.g. [By BPT]. reason_compulsory_in_proofs: True reason_note: Geometry proofs mein har step ke saath reason COMPULSORY hai — [Given], [by SAS], [By BPT], [CPCT] etc. Reason nahi likha toh marks cut hote hain. final_answer_box: Numericals mein final answer box karna recommended. Examiner ka dhyan aata hai. given_required_to_prove: Geometry proofs mein 'Given:', 'To Prove:', 'Construction:', 'Proof:' — yeh headings likhna recommended hai. hence_proved: Proof ke end mein 'Hence Proved' ya 'QED' likhna good practice hai. table_for_statistics: Statistics mein cumulative frequency table banana COMPULSORY hai for median. Tabular format use karo. figure_in_geometry: Geometry proofs mein figure banana practically compulsory hai — 1 mark alag figure ke liye hota hai. units_compulsory: Mensuration mein final answer ke saath unit (cm, cm², cm³) likhna zaroori hai.",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

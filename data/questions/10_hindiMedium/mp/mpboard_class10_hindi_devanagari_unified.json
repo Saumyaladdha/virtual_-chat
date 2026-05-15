@@ -1,0 +1,2140 @@
+{
+  "board": "एमपीबीएसई (मध्य प्रदेश माध्यमिक शिक्षा मंडल)",
+  "class": "10",
+  "subject": "हिंदी (Hindi)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 0,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 80,
+    "passing_marks_theory": 20,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 0,
+    "extra_time_given": false,
+    "extra_time_note": "",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 0,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "",
+    "all_compulsory_note": "",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "",
+    "new_pattern_note": "",
+    "types": []
+  },
+  "paper_pattern": {
+    "note": "",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 0,
+      "medium_percent": 0,
+      "hard_percent": 0,
+      "note": ""
+    },
+    "sections": []
+  },
+  "marks_distribution": {
+    "total_theory": 0,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 80,
+    "marks_summary_note": "",
+    "sections": []
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 80,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "1",
+      "name": "नेताजी का चश्मा",
+      "marks": 0,
+      "note": ""
+    },
+    "lowest_marks_chapters": [],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "नेताजी का चश्मा",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Gadya Lessons"
+      },
+      {
+        "chapter_id": "2",
+        "name": "बालगोबिन भगत",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Gadya Lessons"
+      },
+      {
+        "chapter_id": "3",
+        "name": "लखनवी अंदाज़",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Gadya Lessons"
+      },
+      {
+        "chapter_id": "4",
+        "name": "एक कहानी यह भी",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Gadya Lessons"
+      },
+      {
+        "chapter_id": "5",
+        "name": "नौबतखाने में इबादत",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Gadya Lessons"
+      },
+      {
+        "chapter_id": "6",
+        "name": "संस्कृति",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Gadya Lessons"
+      },
+      {
+        "chapter_id": "7",
+        "name": "सूरदास के पद",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Lessons"
+      },
+      {
+        "chapter_id": "8",
+        "name": "तुलसीदास के पद — राम-लक्ष्मण-परशुराम संवाद",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Lessons"
+      },
+      {
+        "chapter_id": "9",
+        "name": "देव के पद — सवेरे का दृश्य",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Lessons"
+      },
+      {
+        "chapter_id": "10",
+        "name": "जयशंकर प्रसाद — आत्मकथ्य / आत्मकथा",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Lessons"
+      },
+      {
+        "chapter_id": "11",
+        "name": "सूर्यकांत त्रिपाठी 'निराला' — उत्साह / अट नहीं रही है",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Lessons"
+      },
+      {
+        "chapter_id": "12",
+        "name": "सुमित्रानंदन पंत — यह दंतुरित मुस्कान / फसल",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Lessons"
+      },
+      {
+        "chapter_id": "13",
+        "name": "नागार्जुन — यह दंतुरित मुस्कान / फसल",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Lessons"
+      },
+      {
+        "chapter_id": "14",
+        "name": "गिरिजा कुमार माथुर — कभी श्वेत तो कभी रंगीन",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Lessons"
+      },
+      {
+        "chapter_id": "15",
+        "name": "ऋतुराज — कमलेश",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Lessons"
+      },
+      {
+        "chapter_id": "16",
+        "name": "मंगलेश डबराल — संगतकार",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Padya Lessons"
+      },
+      {
+        "chapter_id": "17",
+        "name": "हरिहर काका",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Lessons"
+      },
+      {
+        "chapter_id": "18",
+        "name": "सपनों के से दिन",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Lessons"
+      },
+      {
+        "chapter_id": "19",
+        "name": "टोपी शुक्ला",
+        "marks": 0,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "Lessons"
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Hindi Class 10 — 19 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Hindi — Gadya Lessons",
+        "category": "Gadya Lessons",
+        "total_marks": 0,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "नेताजी का चश्मा",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "बालगोबिन भगत",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "लखनवी अंदाज़",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "एक कहानी यह भी",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "नौबतखाने में इबादत",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "संस्कृति",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Hindi — Padya Lessons",
+        "category": "Padya Lessons",
+        "total_marks": 0,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "7",
+            "name": "सूरदास के पद",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "तुलसीदास के पद — राम-लक्ष्मण-परशुराम संवाद",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "देव के पद — सवेरे का दृश्य",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "जयशंकर प्रसाद — आत्मकथ्य / आत्मकथा",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "सूर्यकांत त्रिपाठी 'निराला' — उत्साह / अट नहीं रही है",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "सुमित्रानंदन पंत — यह दंतुरित मुस्कान / फसल",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "नागार्जुन — यह दंतुरित मुस्कान / फसल",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "14",
+            "name": "गिरिजा कुमार माथुर — कभी श्वेत तो कभी रंगीन",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "15",
+            "name": "ऋतुराज — कमलेश",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "16",
+            "name": "मंगलेश डबराल — संगतकार",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Hindi — Lessons",
+        "category": "Lessons",
+        "total_marks": 0,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "17",
+            "name": "हरिहर काका",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "18",
+            "name": "सपनों के से दिन",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "19",
+            "name": "टोपी शुक्ला",
+            "marks": 0,
+            "topics": [],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "नेताजी का चश्मा",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 1,
+      "unit_name": "नेताजी का चश्मा",
+      "part": "Gadya Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "बालगोबिन भगत",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 2,
+      "unit_name": "बालगोबिन भगत",
+      "part": "Gadya Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "लखनवी अंदाज़",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 3,
+      "unit_name": "लखनवी अंदाज़",
+      "part": "Gadya Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "एक कहानी यह भी",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 4,
+      "unit_name": "एक कहानी यह भी",
+      "part": "Gadya Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "नौबतखाने में इबादत",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 5,
+      "unit_name": "नौबतखाने में इबादत",
+      "part": "Gadya Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "संस्कृति",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 6,
+      "unit_name": "संस्कृति",
+      "part": "Gadya Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "सूरदास के पद",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 7,
+      "unit_name": "सूरदास के पद",
+      "part": "Padya Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "तुलसीदास के पद — राम-लक्ष्मण-परशुराम संवाद",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 8,
+      "unit_name": "तुलसीदास के पद — राम-लक्ष्मण-परशुराम संवाद",
+      "part": "Padya Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "देव के पद — सवेरे का दृश्य",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 9,
+      "unit_name": "देव के पद — सवेरे का दृश्य",
+      "part": "Padya Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "जयशंकर प्रसाद — आत्मकथ्य / आत्मकथा",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 10,
+      "unit_name": "जयशंकर प्रसाद — आत्मकथ्य / आत्मकथा",
+      "part": "Padya Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "सूर्यकांत त्रिपाठी 'निराला' — उत्साह / अट नहीं रही है",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 11,
+      "unit_name": "सूर्यकांत त्रिपाठी 'निराला' — उत्साह / अट नहीं रही है",
+      "part": "Padya Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "सुमित्रानंदन पंत — यह दंतुरित मुस्कान / फसल",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 12,
+      "unit_name": "सुमित्रानंदन पंत — यह दंतुरित मुस्कान / फसल",
+      "part": "Padya Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "नागार्जुन — यह दंतुरित मुस्कान / फसल",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 13,
+      "unit_name": "नागार्जुन — यह दंतुरित मुस्कान / फसल",
+      "part": "Padya Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "गिरिजा कुमार माथुर — कभी श्वेत तो कभी रंगीन",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 14,
+      "unit_name": "गिरिजा कुमार माथुर — कभी श्वेत तो कभी रंगीन",
+      "part": "Padya Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 15,
+      "name": "ऋतुराज — कमलेश",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 15,
+      "unit_name": "ऋतुराज — कमलेश",
+      "part": "Padya Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 16,
+      "name": "मंगलेश डबराल — संगतकार",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 16,
+      "unit_name": "मंगलेश डबराल — संगतकार",
+      "part": "Padya Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 17,
+      "name": "हरिहर काका",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 17,
+      "unit_name": "हरिहर काका",
+      "part": "Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 18,
+      "name": "सपनों के से दिन",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 18,
+      "unit_name": "सपनों के से दिन",
+      "part": "Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 19,
+      "name": "टोपी शुक्ला",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 10",
+      "unit_id": 19,
+      "unit_name": "टोपी शुक्ला",
+      "part": "Lessons",
+      "weightage_marks": 0,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Hindi Class 10 — 19 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [],
+    "chapters_guaranteed_annual_question": [
+      "बाल-बाल बचना मुहावरा (Q: , 1)",
+      "दोहा या चौपाई छंद की परिभाषा + उदाहरण (Q: , 2)",
+      "रस की परिभाषा + उदाहरण (वीर/शृंगार/हास्य) (Q: , 2)",
+      "जहाँ अर्थ से काव्य की शोभा — अर्थ अलंकार (MCQ) (Q: , 1)",
+      "समास के भेद — 6 (MCQ या फिल ब्लैंक) (Q: , 1)",
+      "कहानी और उपन्यास में अंतर (Q: , 2)",
+      "पर्यावरण या कंप्यूटर पर निबंध (Q: , 4)",
+      "पत्र लेखन — औपचारिक (अधिकारी को) या अनौपचारिक (मित्र को) (Q: , 4)",
+      "सूरदास अथवा तुलसीदास का कवि परिचय (Q: , 2)",
+      "बालगोबिन भगत / नेताजी का चश्मा से प्रश्न (Q: , 2)",
+      "निराला / पंत की कविता से सप्रसंग व्याख्या (Q: , 3-4)",
+      "छायावाद या प्रगतिवाद की विशेषताएँ (Q: , 2)"
+    ],
+    "chapters_mostly_theory": [
+      "नेताजी का चश्मा",
+      "बालगोबिन भगत",
+      "लखनवी अंदाज़",
+      "एक कहानी यह भी",
+      "नौबतखाने में इबादत",
+      "संस्कृति",
+      "सूरदास के पद",
+      "तुलसीदास के पद — राम-लक्ष्मण-परशुराम संवाद",
+      "देव के पद — सवेरे का दृश्य",
+      "जयशंकर प्रसाद — आत्मकथ्य / आत्मकथा",
+      "सूर्यकांत त्रिपाठी 'निराला' — उत्साह / अट नहीं रही है",
+      "सुमित्रानंदन पंत — यह दंतुरित मुस्कान / फसल",
+      "नागार्जुन — यह दंतुरित मुस्कान / फसल",
+      "गिरिजा कुमार माथुर — कभी श्वेत तो कभी रंगीन",
+      "ऋतुराज — कमलेश",
+      "मंगलेश डबराल — संगतकार",
+      "हरिहर काका",
+      "सपनों के से दिन",
+      "टोपी शुक्ला"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "नेताजी का चश्मा",
+      "बालगोबिन भगत",
+      "लखनवी अंदाज़",
+      "एक कहानी यह भी",
+      "नौबतखाने में इबादत",
+      "संस्कृति",
+      "सूरदास के पद",
+      "तुलसीदास के पद — राम-लक्ष्मण-परशुराम संवाद",
+      "देव के पद — सवेरे का दृश्य",
+      "जयशंकर प्रसाद — आत्मकथ्य / आत्मकथा",
+      "सूर्यकांत त्रिपाठी 'निराला' — उत्साह / अट नहीं रही है",
+      "सुमित्रानंदन पंत — यह दंतुरित मुस्कान / फसल",
+      "नागार्जुन — यह दंतुरित मुस्कान / फसल",
+      "गिरिजा कुमार माथुर — कभी श्वेत तो कभी रंगीन",
+      "ऋतुराज — कमलेश",
+      "मंगलेश डबराल — संगतकार",
+      "हरिहर काका",
+      "सपनों के से दिन",
+      "टोपी शुक्ला"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "बाल-बाल बचना मुहावरा (Q: , 1)",
+      "दोहा या चौपाई छंद की परिभाषा + उदाहरण (Q: , 2)",
+      "रस की परिभाषा + उदाहरण (वीर/शृंगार/हास्य) (Q: , 2)",
+      "जहाँ अर्थ से काव्य की शोभा — अर्थ अलंकार (MCQ) (Q: , 1)",
+      "समास के भेद — 6 (MCQ या फिल ब्लैंक) (Q: , 1)",
+      "कहानी और उपन्यास में अंतर (Q: , 2)",
+      "पर्यावरण या कंप्यूटर पर निबंध (Q: , 4)",
+      "पत्र लेखन — औपचारिक (अधिकारी को) या अनौपचारिक (मित्र को) (Q: , 4)",
+      "सूरदास अथवा तुलसीदास का कवि परिचय (Q: , 2)",
+      "बालगोबिन भगत / नेताजी का चश्मा से प्रश्न (Q: , 2)",
+      "निराला / पंत की कविता से सप्रसंग व्याख्या (Q: , 3-4)",
+      "छायावाद या प्रगतिवाद की विशेषताएँ (Q: , 2)"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "vyakaran_topics": {
+      "sandhi": {
+        "bhed": [
+          "स्वर संधि",
+          "व्यंजन संधि",
+          "विसर्ग संधि"
+        ],
+        "swar_sandhi_ke_bhed": [
+          "दीर्घ",
+          "गुण",
+          "वृद्धि",
+          "यण",
+          "अयादि"
+        ],
+        "most_asked": [
+          "संधि के ___ भेद होते हैं — 3 (2023 Fill blank)",
+          "संधि और समास में दो अंतर लिखिए (2024 Q16)",
+          "समास विग्रह करके समास का नाम लिखिए (2025 Q16)"
+        ],
+        "key_rule": "दो शब्दों के मिलन में जो परिवर्तन होता है उसे संधि कहते हैं"
+      },
+      "samas": {
+        "bhed": [
+          "अव्ययीभाव",
+          "तत्पुरुष",
+          "कर्मधारय",
+          "द्विगु",
+          "द्वंद्व",
+          "बहुव्रीहि"
+        ],
+        "total_bhed": 6,
+        "most_asked": [
+          "समास के कितने भेद होते हैं — 6 (2023 Q4)",
+          "समास विग्रह — पंचवटी, नीलांबर (2023 Q9)",
+          "समास विग्रह — देशभक्ति, गंगा-यमुना (2025 Q16)"
+        ],
+        "important_examples": {
+          "Panchvati": "पंच वटों का समूह — द्विगु समास",
+          "Nilaambar": "नीला है जो अंबर — कर्मधारय समास",
+          "Deshbhakti": "देश के लिए भक्ति — तत्पुरुष समास",
+          "Gangayamuna": "गंगा और यमुना — द्वंद्व समास"
+        }
+      },
+      "muhavare_lokoktiyan": {
+        "most_asked_muhavare": [
+          {
+            "muhavara": "खून पसीना एक करना",
+            "arth": "बहुत मेहनत करना",
+            "appeared": "2023 Q9"
+          },
+          {
+            "muhavara": "दाल न गलना",
+            "arth": "कोई दाँव न चलना / कोई उपाय काम न आना",
+            "appeared": "2023 Q9"
+          },
+          {
+            "muhavara": "बाल-बाल बचना",
+            "arth": "बड़ी मुश्किल से बचना",
+            "appeared": "2023, 2024 Q5, 2025 Q5"
+          },
+          {
+            "muhavara": "एक अनार सौ बीमार",
+            "arth": "चीज़ एक और माँगने वाले बहुत",
+            "appeared": "2023 Q4"
+          },
+          {
+            "muhavara": "आँख का तारा / गले का हार होना",
+            "arth": "बहुत प्रिय होना",
+            "appeared": "2025 मैचिंग"
+          },
+          {
+            "muhavara": "काला अक्षर भैंस बराबर",
+            "arth": "बिलकुल अनपढ़ होना",
+            "appeared": "2025 Q5"
+          },
+          {
+            "muhavara": "आम के आम गुठलियों के दाम",
+            "arth": "दोहरा फायदा",
+            "appeared": "2024 Q5"
+          }
+        ]
+      },
+      "ras": {
+        "total_ras": 9,
+        "dasva_ras": "वात्सल्य (10वाँ रस — अतिरिक्त)",
+        "pramukh_ras": [
+          {
+            "ras": "शृंगार",
+            "sthayi_bhav": "रति"
+          },
+          {
+            "ras": "हास्य",
+            "sthayi_bhav": "हास"
+          },
+          {
+            "ras": "करुण",
+            "sthayi_bhav": "शोक"
+          },
+          {
+            "ras": "वीर",
+            "sthayi_bhav": "उत्साह"
+          },
+          {
+            "ras": "रौद्र",
+            "sthayi_bhav": "क्रोध"
+          },
+          {
+            "ras": "भयानक",
+            "sthayi_bhav": "भय"
+          },
+          {
+            "ras": "वीभत्स",
+            "sthayi_bhav": "जुगुप्सा (घृणा)"
+          },
+          {
+            "ras": "अद्भुत",
+            "sthayi_bhav": "विस्मय (अचरज)"
+          },
+          {
+            "ras": "शांत",
+            "sthayi_bhav": "निर्वेद (वैराग्य)"
+          }
+        ],
+        "ras_ke_ang": 4,
+        "ang_ke_naam": [
+          "स्थायी भाव",
+          "विभाव (आलंबन + उद्दीपन)",
+          "अनुभाव",
+          "संचारी भाव (व्यभिचारी)"
+        ],
+        "most_asked": [
+          "रस के _____ अंग होते हैं — 4 (2024 Fill blank)",
+          "रस किसे कहते हैं? (2024 Q11)",
+          "वीर रस का स्थायी भाव है — उत्साह (2025 MCQ)",
+          "हास्य रस की परिभाषा उदाहरण सहित लिखिए (2025 Q11)",
+          "वीर रस की परिभाषा और उदाहरण लिखिए (2023 Q12)",
+          "स्थायी भाव एवं संचारी भाव में दो अंतर लिखिए (2025 Q12)"
+        ]
+      },
+      "chhand": {
+        "pramukh_chhand": [
+          {
+            "naam": "दोहा",
+            "prakar": "मात्रिक — अर्ध सम मात्रिक",
+            "visheshata": "2 पंक्तियाँ, पहली-तीसरी = 13 मात्राएँ, दूसरी-चौथी = 11 मात्राएँ",
+            "most_asked": "दोहा छंद की परिभाषा उदाहरण सहित (2024 Q11, 2025 Q11)"
+          },
+          {
+            "naam": "चौपाई",
+            "prakar": "मात्रिक — सम मात्रिक",
+            "visheshata": "4 पंक्तियाँ, प्रत्येक में 16 मात्राएँ",
+            "most_asked": "चौपाई छंद की परिभाषा उदाहरण सहित (2023 Q16, 2024 Q11)"
+          },
+          {
+            "naam": "सोरठा",
+            "prakar": "मात्रिक — दोहे का उल्टा",
+            "visheshata": "दोहे के चारों पंक्तियों की संख्या पलट दी जाती है — 11+13, 11+13",
+            "most_asked": "सोरठा छंद दोहे का उल्टा होता है (2023 Q4)"
+          },
+          {
+            "naam": "कवित्त",
+            "prakar": "वर्णिक छंद",
+            "most_asked": "कवित्त छंद की परिभाषा और उदाहरण (2025 Q11)"
+          },
+          {
+            "naam": "रुबाई",
+            "most_asked": "रुबाइयाँ छंद की परिभाषा लिखकर एक उदाहरण लिखिए (2025 Q12)"
+          },
+          {
+            "naam": "सवैया",
+            "most_asked": "दुर्मिल सवैया छंद का दूसरा नाम — मालती सवैया या दुर्मिलास"
+          }
+        ],
+        "most_asked_overall": [
+          "छंद के ___ प्रकार होते हैं — 2 (मात्रिक और वर्णिक) (2024 Fill blank)",
+          "जिन छंदों में मात्राएँ गिनी जाती हैं उन्हें ___ छंद कहते हैं — मात्रिक (2023 Fill blank)"
+        ]
+      },
+      "alankar": {
+        "pramukh_alankar": [
+          {
+            "naam": "उपमा",
+            "paribhaasha": "उपमेय की तुलना उपमान से की जाए",
+            "udaharan": "मुख चंद्र जैसा सुंदर है"
+          },
+          {
+            "naam": "रूपक",
+            "paribhaasha": "उपमेय में उपमान का आरोप",
+            "udaharan": "ये करुणा क्या है, सागर में लहरें हैं"
+          },
+          {
+            "naam": "उत्प्रेक्षा",
+            "paribhaasha": "उपमेय में उपमान की संभावना",
+            "udaharan": "मानो मोती भर दिए"
+          },
+          {
+            "naam": "मानवीकरण (Personification)",
+            "paribhaasha": "निर्जीव में सजीव का आरोप",
+            "udaharan": "पवन चले तो सागर भी नाचने लगता"
+          },
+          {
+            "naam": "पुनरुक्ति प्रकाश",
+            "paribhaasha": "एक ही शब्द या अर्थ की बार-बार पुनरुक्ति हो",
+            "udaharan": "घर-घर में, दूर-दूर तक",
+            "most_asked": "पुनरुक्ति प्रकाश अलंकार की परिभाषा उदाहरण सहित (2024 Q10)"
+          },
+          {
+            "naam": "अतिशयोक्ति",
+            "paribhaasha": "किसी चीज़ का बहुत बढ़ा-चढ़ाकर वर्णन",
+            "udaharan": "हनुमान ने पहाड़ उठा लिया",
+            "most_asked": "अतिशयोक्ति अलंकार की परिभाषा उदाहरण सहित (2025 Q10)"
+          },
+          {
+            "naam": "अन्योक्ति",
+            "paribhaasha": "किसी अन्य के बहाने किसी दूसरे को कुछ कहना",
+            "most_asked": "अन्योक्ति अलंकार किसे कहते हैं? उदाहरण सहित लिखिए (2023 Q16)"
+          },
+          {
+            "naam": "संदेह",
+            "paribhaasha": "उपमेय में उपमान का संदेह हो",
+            "udaharan": "यह कौन सी नारी है — स्त्री है या देवी?",
+            "most_asked": "जहाँ उपमेय को उपमान से श्रेष्ठ बताया जाय — व्यतिरेक अलंकार (2024 Fill blank)"
+          }
+        ],
+        "shabd_aur_arth_alankar": {
+          "jahan_shabd_se_shobha": "शब्द अलंकार",
+          "jahan_arth_se_shobha": "अर्थ अलंकार",
+          "most_asked": [
+            "जहाँ शब्द से काव्य की शोभा बढ़ती है वहाँ अलंकार होता है — शब्द अलंकार (2023, 2024 MCQ)",
+            "जहाँ अर्थ से काव्य की शोभा बढ़ती है वहाँ — अर्थ अलंकार (2023, 2024 MCQ)"
+          ]
+        }
+      },
+      "gadya_vidhaayen": {
+        "pramukh_vidhaayen": [
+          "कहानी",
+          "उपन्यास",
+          "निबंध",
+          "नाटक",
+          "एकांकी",
+          "रेखाचित्र",
+          "संस्मरण",
+          "आत्मकथा",
+          "जीवनी",
+          "रिपोर्ताज",
+          "साहित्य"
+        ],
+        "most_asked": [
+          "गद्य की कोई चार प्रमुख विधाएँ लिखिए (2024 Q15)",
+          "गद्य की तीन गौण विधाएँ लिखिए (2023 Q4)",
+          "कहानी और उपन्यास में दो अंतर लिखिए (2024 Q11, 2025 Q12)",
+          "आत्मकथा और जीवनी में दो अंतर लिखिए (2025 Q12)",
+          "नाटक और एकांकी में दो अंतर लिखिए (2024 Q13)",
+          "रेखाचित्र और संस्मरण में दो अंतर लिखिए (2023 Q17)"
+        ],
+        "important_differences": {
+          "kahani_vs_upanyas": "कहानी: छोटी, एक ही घटना। उपन्यास: बड़ा, अनेक घटनाएँ, अनेक पात्र",
+          "aatmakatha_vs_jeevani": "आत्मकथा: स्वयं लिखता है। जीवनी: दूसरा लिखता है",
+          "natak_vs_ekanki": "नाटक: अनेक अंक। एकांकी: सिर्फ एक अंक",
+          "rekhachitra_vs_sansmaran": "रेखाचित्र: किसी व्यक्ति का चित्रण। संस्मरण: एक घटना या अनुभव की याद"
+        }
+      },
+      "sahitya_itihas": {
+        "hindi_padya_kal_vibhajan": {
+          "total_kal": 4,
+          "most_asked": "हिंदी पद्य साहित्य को बाँटा गया है — चार कालों में (2023 MCQ)"
+        },
+        "kal_aur_visheshatayen": [
+          {
+            "kal": "आदिकाल (वीरगाथा काल)",
+            "samay": "1000-1375",
+            "visheshata": "वीर रस, रासो ग्रंथ, राजाश्रय, अश्लीलता भी"
+          },
+          {
+            "kal": "मध्यकाल — भक्तिकाल",
+            "samay": "1375-1700",
+            "vibhag": [
+              "सगुण (राम भक्ति — तुलसीदास, कृष्ण भक्ति — सूरदास)",
+              "निर्गुण (ज्ञान मार्ग — कबीर, प्रेम मार्ग — जायसी)"
+            ],
+            "most_asked": [
+              "छायावाद के प्रमुख आधार स्तंभ कवियों के नाम — प्रसाद, पंत, निराला, महादेवी",
+              "सगुण भक्तिधारा को कितने भागों में बाँटा गया है — दो (राम + कृष्ण) (2024 MCQ)"
+            ]
+          },
+          {
+            "kal": "मध्यकाल — रीतिकाल",
+            "samay": "1700-1900",
+            "visheshata": "शृंगार रस प्रधान, नायिका-भेद, अलंकार शास्त्र, राजाश्रय",
+            "pramukh_kavi": [
+              "भूषण",
+              "बिहारी",
+              "देव",
+              "केशव"
+            ],
+            "most_asked": [
+              "रीतिकाल के कवि थे — भूषण (2023 MCQ)",
+              "रीतिकाल में वीर रस के कवि — भूषण (2023 Fill blank)"
+            ]
+          },
+          {
+            "kal": "आधुनिक काल",
+            "samay": "1900 से अब तक",
+            "vibhag": [
+              "भारतेंदु युग",
+              "द्विवेदी युग",
+              "छायावाद",
+              "प्रगतिवाद",
+              "प्रयोगवाद/नई कविता"
+            ],
+            "most_asked": [
+              "आधुनिक हिंदी कविता का प्रारंभ संवत् ___ से माना जाता है — 1900 (2024 Fill blank)",
+              "प्रगतिवाद की कोई दो विशेषताएँ लिखिए (2025 Q6, 2023 Q11)",
+              "प्रयोगवाद के प्रवर्तक — अज्ञेय (2023 Q4 एक वाक्य उत्तर)"
+            ]
+          }
+        ],
+        "chhayavad": {
+          "pramukh_kavi": "जयशंकर प्रसाद, सूर्यकांत त्रिपाठी निराला, सुमित्रानंदन पंत, महादेवी वर्मा",
+          "visheshata": "प्रकृति को स्थान, स्वतंत्रता की भावना, स्थूल से सूक्ष्म की ओर, रूमानीवाद",
+          "most_asked": "छायावाद की परिभाषा लिखते हुए किन्हीं दो विशेषताओं को लिखिए (2024 Q7)"
+        }
+      },
+      "lekhak_kavi_parichay": {
+        "format": "(i) दो रचनाएँ (ii) भाषा-शैली (iii) साहित्य में स्थान",
+        "most_asked_pairs": [
+          "यशपाल अथवा मन्नू भंडारी (2023 Q6)",
+          "सूरदास अथवा नागार्जुन (2023 Q12)",
+          "सूरदास अथवा तुलसीदास (2024 Q7)",
+          "रामवृक्ष बेनीपुरी अथवा यतींद्र मिश्र (2024 Q12)",
+          "कवि नागार्जुन की दो रचनाएँ (2024 Q6)",
+          "स्वयं प्रकाश अथवा मन्नू भंडारी (2025 Q15)",
+          "सूरदास अथवा जयशंकर प्रसाद (2025 Q7)"
+        ]
+      }
+    },
+    "patra_lekhan": {
+      "Q22_marks": 4,
+      "types": [
+        "औपचारिक पत्र (Formal)",
+        "अनौपचारिक पत्र (Informal)"
+      ],
+      "formal_patra_format": [
+        "प्रेषक का पता (Sender's address — top left)",
+        "दिनांक (Date)",
+        "सेवा में — (To: designation + address)",
+        "विषय — (Subject line)",
+        "महोदय/महोदया (Salutation)",
+        "Body — 3 paragraphs",
+        "आपका आज्ञाकारी/विश्वासी",
+        "नाम + हस्ताक्षर"
+      ],
+      "informal_patra_format": [
+        "प्रेषक का पता",
+        "दिनांक",
+        "प्रिय / आदरणीय [नाम]",
+        "Body",
+        "तुम्हारा/आपका",
+        "नाम"
+      ],
+      "previous_year_topics": [
+        "नगरपालिका अध्यक्ष को मोहल्ले की सफाई हेतु आवेदन पत्र (2023 Q21)",
+        "अपने मित्र को भाई की शादी में सम्मिलित होने के लिए पत्र (2023 Q21 OR)",
+        "नगर निगम के निगमायुक्त को नियमित जल आपूर्ति हेतु आवेदन (2024 Q22)",
+        "अपने प्रिय मित्र को अपने भाई की शादी में सम्मिलित होने के लिए पत्र (2024 Q22 OR)",
+        "अपने ज़िले के ज़िलाधीश महोदय को परीक्षाकाल में ध्वनि विस्तारक यंत्रों पर रोक लगाने हेतु (2025 Q22)",
+        "अपने प्रिय मित्र को वार्षिक परीक्षा में प्रथम श्रेणी में उत्तीर्ण होने पर बधाई पत्र (2025 Q22 OR)"
+      ]
+    },
+    "nibandh_lekhan": {
+      "Q23_marks": 4,
+      "format": "रूपरेखा सहित — प्रस्तावना + विषय विस्तार (2-3 बिंदु) + उपसंहार",
+      "previous_year_topics": [
+        "पर्यावरण प्रदूषण (2023, 2024, 2025)",
+        "वर्तमान समय में कंप्यूटर की उपयोगिता (2023, 2024, 2025)",
+        "विज्ञान की प्रगति का मानव जीवन में महत्व (2023, 2025)",
+        "जीवन में खेलों का महत्व (2023, 2024)",
+        "पर्यावरण सुरक्षा (2023)",
+        "मेरा प्रिय खेल (2024)",
+        "वृक्षारोपण (2024)",
+        "साहित्य और समाज (2024)",
+        "नई राष्ट्रीय शिक्षा नीति (2024)",
+        "स्वच्छ भारत — स्वस्थ भारत (2025)",
+        "वर्तमान समय में विज्ञान का महत्व (2025)"
+      ],
+      "tips": [
+        "रूपरेखा पहले लिखना कंपल्सरी है — 1 मार्क मिलता है",
+        "प्रस्तावना में विषय को डिफाइन करो",
+        "विस्तार में 2-3 पॉइंट्स दे — उदाहरण के साथ",
+        "उपसंहार में अपना निष्कर्ष या संदेश दो",
+        "कंप्यूटर/पर्यावरण/खेल इन तीनों में से एक ज़रूर आता है — तीन टॉपिक्स प्रिपेयर करो"
+      ]
+    },
+    "apatit_bodh": {
+      "Q21_marks": 4,
+      "format": "गद्यांश या काव्यांश पढ़कर 3 प्रश्न — शीर्षक (1) + 2 कंटेंट क्वेश्चन्स (1+1+1 या 1+1+2)",
+      "tips": [
+        "पैसेज ध्यान से पढ़ो — सभी उत्तर पैसेज में ही होते हैं",
+        "शीर्षक छोटा और रेलेवेंट दो — 1 मुख्य शब्द काफी है",
+        "सारांश में अपने शब्दों में लिखो — कॉपी पेस्ट नहीं"
+      ]
+    },
+    "anuchhed_samvad_lekhan": {
+      "Q20_marks": 3,
+      "types": [
+        "अनुच्छेद लेखन (~75 शब्द)",
+        "संवाद लेखन (दो व्यक्तियों के बीच)"
+      ],
+      "previous_year_topics": [
+        "मीठी बोली का महत्व — अनुच्छेद (2023 Q19)",
+        "बढ़ती महँगाई — संवाद ग्राहक और दुकान मालिक के बीच (2023 Q19 OR)",
+        "अनुशासन का महत्व — अनुच्छेद (2024 Q20)",
+        "क्रिकेट — दो मित्रों के बीच संवाद (2024 Q20 OR)",
+        "स्वच्छ भारत स्वस्थ भारत — अनुच्छेद (2025 Q20)",
+        "कंप्यूटर का उपयोग — शिक्षक व छात्र के बीच संवाद (2025 Q20 OR)"
+      ]
+    },
+    "topic_importance_ranking": {
+      "highest_priority": [
+        {
+          "topic": "ऑब्जेक्टिव Q1-Q5 — 30 मार्क्स",
+          "priority": 1,
+          "reason": "सबसे ज़्यादा मार्क्स, रट्टा मार के गारंटीड"
+        },
+        {
+          "topic": "गद्य पाठ — लघु उत्तर Q6-Q17 से",
+          "priority": 2,
+          "reason": "24 मार्क्स, OR चॉइस मिलती है"
+        },
+        {
+          "topic": "निबंध Q23 — 4 मार्क्स",
+          "priority": 3,
+          "reason": "रूपरेखा + 3 टॉपिक्स प्रिपेयर करो"
+        },
+        {
+          "topic": "पत्र लेखन Q22 — 4 मार्क्स",
+          "priority": 4,
+          "reason": "फॉर्मैट याद हो तो गारंटीड मार्क्स"
+        },
+        {
+          "topic": "अपठित बोध Q21 — 4 मार्क्स",
+          "priority": 5,
+          "reason": "पैसेज पढ़ो, डायरेक्ट उत्तर मिलते हैं"
+        }
+      ],
+      "medium_priority": [
+        {
+          "topic": "रस — परिभाषा + उदाहरण",
+          "marks": "2 प्रति प्रश्न",
+          "note": "3-4 रस डीपली याद करो"
+        },
+        {
+          "topic": "छंद — दोहा, चौपाई, कवित्त",
+          "marks": "2 प्रति प्रश्न",
+          "note": "तीन छंद पक्के करो"
+        },
+        {
+          "topic": "अलंकार — अतिशयोक्ति, पुनरुक्ति, अन्योक्ति, संदेह",
+          "marks": "2",
+          "note": "नाम + परिभाषा + एक उदाहरण"
+        },
+        {
+          "topic": "लेखक/कवि परिचय",
+          "marks": "2",
+          "note": "फॉर्मैट: 2 रचनाएँ + भाषा शैली"
+        },
+        {
+          "topic": "गद्य विधाओं के अंतर",
+          "marks": "2",
+          "note": "कहानी-उपन्यास, नाटक-एकांकी, आत्मकथा-जीवनी"
+        }
+      ]
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Hindi.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not applicable for Hindi.",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Hindi grammar topics.",
+    "topics": [
+      {
+        "topic_name": "Sandhi",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [],
+        "types": []
+      },
+      {
+        "topic_name": "Samas",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [],
+        "types": []
+      },
+      {
+        "topic_name": "Muhavare Lokoktiyan",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [],
+        "types": []
+      },
+      {
+        "topic_name": "Ras",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [],
+        "types": []
+      },
+      {
+        "topic_name": "Chhand",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [],
+        "types": []
+      },
+      {
+        "topic_name": "Alankar",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [],
+        "types": []
+      },
+      {
+        "topic_name": "Gadya Vidhaayen",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [],
+        "types": []
+      },
+      {
+        "topic_name": "Sahitya Itihas",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [],
+        "types": []
+      },
+      {
+        "topic_name": "Lekhak Kavi Parichay",
+        "question_number": "",
+        "definition": "",
+        "structure": "",
+        "word_limit": "",
+        "note": "",
+        "tip": "",
+        "frequently_asked": [],
+        "types": []
+      }
+    ]
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Hindi.",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Hindi Class 10 — no practical exam.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 0,
+    "medium_percent": 0,
+    "hard_percent": 0,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Q1-Q5 में 2 ऑप्शन्स क्लियरली गलत होते हैं — एलिमिनेट करो",
+      "मुहावरे का अर्थ याद करो + एक वाक्य में यूज़ करो",
+      "कवि परिचय में — 2 रचनाएँ + 2 विशेषताएँ + एक लाइन साहित्य में स्थान",
+      "छंद परिभाषा में मात्राएँ ज़रूर लिखना — 16 या 11+13 जैसी",
+      "रस में — स्थायी भाव ज़रूर लिखो — ये सबसे ईज़ी मार्क्स हैं",
+      "निबंध की रूपरेखा पहले लिखना कंपल्सरी है — 1 मार्क पक्का",
+      "पत्र में 'विषय' लाइन कंपल्सरी है औपचारिक पत्र में",
+      "अपठित बोध में पैसेज से ही उत्तर निकालते हैं — खुद से मत लिखो",
+      "अलंकार के उदाहरण और परिभाषा दोनों लिखना पड़ता है",
+      "संधि और समास के अंतर वाला प्रश्न — तीन बिंदु में लिखो",
+      "कंप्यूटर, पर्यावरण, खेल — तीन निबंध थोरोघली तैयार करो",
+      "OR चॉइस में जो अच्छा आता हो वो चूज़ करो — दोनों लिखने का टाइम वेस्ट मत करो"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "Q1_to_Q5_objective",
+        "recommended_minutes": 0,
+        "note": "25 मिनट — 30 मार्क्स के लिए"
+      },
+      {
+        "section_id": "Q6_to_Q17_short",
+        "recommended_minutes": 0,
+        "note": "40 मिनट — 24 मार्क्स, OR केयरफुली चूज़ करो"
+      },
+      {
+        "section_id": "Q18_to_Q20_medium",
+        "recommended_minutes": 0,
+        "note": "20 मिनट — 9 मार्क्स"
+      },
+      {
+        "section_id": "Q21_to_Q23_long",
+        "recommended_minutes": 0,
+        "note": "35 मिनट — 12 मार्क्स। निबंध की रूपरेखा पहले लिखो"
+      },
+      {
+        "section_id": "revision",
+        "recommended_minutes": 0,
+        "note": "10 मिनट — प्रश्न संख्या चेक करो"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 25",
+        "target_marks": 25,
+        "strategy": "ऑब्जेक्टिव में 18-20 मार्क्स + 2-3 शॉर्ट आंसर क्वेश्चन्स = 25+ मार्क्स",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Q1-Q5 ऑब्जेक्टिव — रट्टा मार के",
+          "मुहावरे + रस + छंद के बेसिक फैक्ट्स",
+          "एक कहानी का प्लॉट याद करो"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45",
+        "target_marks": 45,
+        "strategy": "ऑब्जेक्टिव मैक्स + 6 शॉर्ट आंसर्स + 1 मीडियम + निबंध",
+        "focus_chapters": [],
+        "focus_areas": [
+          "सूरदास, तुलसीदास, निराला पोएम्स",
+          "गद्य: बालगोबिन भगत, नेताजी का चश्मा",
+          "साहित्य का इतिहास (छायावाद/भक्तिकाल)"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60 plus",
+        "target_marks": 60,
+        "strategy": "ऑब्जेक्टिव मैक्स + मोस्ट शॉर्ट आंसर्स + सभी मीडियम + गुड लॉन्ग आंसर्स",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": []
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "mpbse.nic.in",
+    "extra_time_given": false,
+    "extra_time_note": ""
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed: नीली और काली पेन pencil_use: सिर्फ रफ वर्क के लिए"
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

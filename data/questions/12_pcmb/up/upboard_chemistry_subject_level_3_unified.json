@@ -1,0 +1,1906 @@
+{
+  "board": "UP Board",
+  "class": "12",
+  "subject": "Chemistry (with Experiment)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 70,
+    "practical_paper": 30,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 23,
+    "passing_marks_practical": 10,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": false,
+    "extra_time_note": "3 hours 15 minutes. First 15 minutes reserved for reading the question paper only — no writing allowed during reading time.",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 7,
+    "total_questions_to_attempt": 7,
+    "total_objective_questions": 6,
+    "total_sets": 7,
+    "sets_note": "UP Board makes multiple sets (347 KA, 347 KB, 347 KC, 347 KD, 347 KE etc.) — all equivalent in difficulty.",
+    "sets_same_or_different": "Medium to Difficult. A total of 7 sets were made for Chemistry. Level of questions was almost the same across all sets.",
+    "language_of_attempt": "",
+    "all_compulsory_note": "Internal choices (OR options) are given ONLY in 5-marks questions (Section 5). You must attempt only ONE from each OR pair.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "UP Board syllabus fully based on NCERT. NCERT must be read completely.",
+    "official_scheme_note": "Available on upmsp.edu.in — practice at least 1 model paper before exam.",
+    "reference_books_note": "",
+    "prescribed_textbooks": [
+      "NCERT Chemistry Part I",
+      "NCERT Chemistry Part II"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "Available on upmsp.edu.in — practice at least 1 model paper before exam.",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "UP Board Chemistry paper has 5 question types: Q1 MCQ (6×1), Q2-Q3 Short 2-mark (8×2), Q4 Short 3-mark (4×3), Q5 Short 4-mark (4×4), Q6-Q7 Long 5-mark with OR choice (4×5). Total 70 marks theory.",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "Question 1 — Multiple Choice Questions (MCQ)",
+        "question_number": "Q1",
+        "section": "Q1",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "6 MCQ x 1 mark = 6 marks. Covers ALL 10 units. Level: Easy to Medium. Attempt all — no negative marking.",
+        "mostly_from": "Colligative properties, electrode potential, rate constant units, oxidation states, coordination number, carbylamine reaction, Fehling's test, vitamins, organic reactions identification",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Questions 2 and 3 — 2 Marks Short Answer",
+        "question_number": "Q2-Q3",
+        "section": "Q2-Q3",
+        "marks_each": 2,
+        "total_in_paper": 8,
+        "attempt": 8,
+        "negative_marking": false,
+        "how_to_attempt": "8 questions x 2 marks = 16 marks. Level: Moderate to Difficult. Board asks mostly theoretical knowledge questions here. Equations must be given.",
+        "mostly_from": "Raoult's law, lanthanoid contraction, colligative properties, valence bond theory in coordination compounds, alcohol properties, Fehling's test, nucleic acid properties, Van't Hoff factor, osmotic pressure, electrode potential, rate constant",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Question 4 — 3 Marks Short Answer",
+        "question_number": "Q4",
+        "section": "Q4",
+        "marks_each": 3,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "4 questions x 3 marks = 12 marks. Level: Moderate to Difficult. Multi-part answers required. Chemical equations compulsory.",
+        "mostly_from": "Osmotic pressure definition + numerical, Nernst equation + standard electrode potential, order vs molecularity, colour of transition metal ions, IUPAC names of coordination compounds, half-life derivation, Werner's theory",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Question 5 — 4 Marks Short Answer",
+        "question_number": "Q5",
+        "section": "Q5",
+        "marks_each": 4,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "4 questions x 4 marks = 16 marks. Level: Moderate to Difficult. Application-based, most questions answered in parts (2+2 or 1+1+1+1). Good subject knowledge needed.",
+        "mostly_from": "Faraday's law + numerical, molar conductivity + calculation, first order kinetics numerical, Nernst equation + Gibbs energy + equilibrium constant, VBT of coordination compounds, structure of proteins/biomolecules, colligative property numerical",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "Internal choices (OR options) are given ONLY in 5-marks questions (Section 5). You must attempt only ONE from each OR pair.",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Internal choices (OR options) are given ONLY in 5-marks questions (Section 5). You must attempt only ONE from each OR pair.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 25,
+      "medium_percent": 50,
+      "hard_percent": 25,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "Q1",
+        "name": "Question 1 — Multiple Choice Questions (MCQ)",
+        "type": "Multiple Choice Questions (1 mark)",
+        "question_numbers": "Q1",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "attempt_required": 6,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "6 MCQ x 1 mark = 6 marks. Covers ALL 10 units. Level: Easy to Medium. Attempt all — no negative marking.",
+        "notes": "Colligative properties, electrode potential, rate constant units, oxidation states, coordination number, carbylamine reaction, Fehling's test, vitamins, organic reactions identification"
+      },
+      {
+        "section_id": "Q2-Q3",
+        "name": "Questions 2 and 3 — 2 Marks Short Answer",
+        "type": "Short Answer (2 marks)",
+        "question_numbers": "Q2-Q3",
+        "total_questions": 8,
+        "total_sub_questions": 0,
+        "attempt_required": 8,
+        "marks_per_question": 2,
+        "total_marks": 16,
+        "word_limit": "",
+        "breakdown": "8 questions x 2 marks = 16 marks. Level: Moderate to Difficult. Board asks mostly theoretical knowledge questions here. Equations must be given.",
+        "notes": "Raoult's law, lanthanoid contraction, colligative properties, valence bond theory in coordination compounds, alcohol properties, Fehling's test, nucleic acid properties, Van't Hoff factor, osmotic pressure, electrode potential, rate constant"
+      },
+      {
+        "section_id": "Q4",
+        "name": "Question 4 — 3 Marks Short Answer",
+        "type": "Short Answer (3 marks)",
+        "question_numbers": "Q4",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": "",
+        "breakdown": "4 questions x 3 marks = 12 marks. Level: Moderate to Difficult. Multi-part answers required. Chemical equations compulsory.",
+        "notes": "Osmotic pressure definition + numerical, Nernst equation + standard electrode potential, order vs molecularity, colour of transition metal ions, IUPAC names of coordination compounds, half-life derivation, Werner's theory"
+      },
+      {
+        "section_id": "Q5",
+        "name": "Question 5 — 4 Marks Short Answer",
+        "type": "Short Answer (4 marks)",
+        "question_numbers": "Q5",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 4,
+        "total_marks": 16,
+        "word_limit": "",
+        "breakdown": "4 questions x 4 marks = 16 marks. Level: Moderate to Difficult. Application-based, most questions answered in parts (2+2 or 1+1+1+1). Good subject knowledge needed.",
+        "notes": "Faraday's law + numerical, molar conductivity + calculation, first order kinetics numerical, Nernst equation + Gibbs energy + equilibrium constant, VBT of coordination compounds, structure of proteins/biomolecules, colligative property numerical"
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 70,
+    "total_practical": 30,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "Q1(6) + Q2-Q3(16) + Q4(12) + Q5(16) + Q6-Q7(20) = 70 theory + 30 practical = 100",
+    "sections": [
+      {
+        "section_id": "Q1",
+        "name": "Question 1 — Multiple Choice Questions (MCQ)",
+        "question_numbers": "Q1",
+        "type": "Multiple Choice Questions (1 mark)",
+        "total_questions": 6,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 6,
+        "word_limit": "",
+        "breakdown": "6 MCQ x 1 mark = 6 marks. Covers ALL 10 units. Level: Easy to Medium. Attempt all — no negative marking."
+      },
+      {
+        "section_id": "Q2-Q3",
+        "name": "Questions 2 and 3 — 2 Marks Short Answer",
+        "question_numbers": "Q2-Q3",
+        "type": "Short Answer (2 marks)",
+        "total_questions": 8,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 16,
+        "word_limit": "",
+        "breakdown": "8 questions x 2 marks = 16 marks. Level: Moderate to Difficult. Board asks mostly theoretical knowledge questions here. Equations must be given."
+      },
+      {
+        "section_id": "Q4",
+        "name": "Question 4 — 3 Marks Short Answer",
+        "question_numbers": "Q4",
+        "type": "Short Answer (3 marks)",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": "",
+        "breakdown": "4 questions x 3 marks = 12 marks. Level: Moderate to Difficult. Multi-part answers required. Chemical equations compulsory."
+      },
+      {
+        "section_id": "Q5",
+        "name": "Question 5 — 4 Marks Short Answer",
+        "question_numbers": "Q5",
+        "type": "Short Answer (4 marks)",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 16,
+        "word_limit": "",
+        "breakdown": "4 questions x 4 marks = 16 marks. Level: Moderate to Difficult. Application-based, most questions answered in parts (2+2 or 1+1+1+1). Good subject knowledge needed."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "UP Board Chemistry unit-wise blueprint.",
+    "total_theory_marks": 70,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "1",
+      "name": "Solutions",
+      "marks": 8,
+      "note": "Tied highest with Unit 8"
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "4",
+        "name": "d-and f-Block Elements",
+        "marks": 6
+      },
+      {
+        "chapter_id": "9",
+        "name": "Amines",
+        "marks": 6
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Solutions",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "Electrochemistry",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "Chemical Kinetics",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "d-and f-Block Elements",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "Coordination Compounds",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "Haloalkanes and Haloarenes",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "Alcohols, Phenols and Ethers",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "name": "Aldehydes, Ketones and Carboxylic Acids",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "name": "Amines",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "10",
+        "name": "Biomolecules",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 70,
+      "one_mark_questions": 6,
+      "two_mark_total": 16,
+      "three_mark_total": 12,
+      "four_mark_total": 16,
+      "five_mark_total": 20
+    }
+  },
+  "syllabus": {
+    "note": "UP Board Chemistry Class 12 — 10 units (NCERT-aligned).",
+    "books": [
+      {
+        "book_name": "NCERT Chemistry Part I & Part II",
+        "category": "unit",
+        "total_marks": 70,
+        "note": "UP Board syllabus fully based on NCERT.",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Solutions",
+            "marks": 8,
+            "topics": [
+              "Types of solutions — solid in liquid, gas in liquid, liquid in liquid",
+              "Concentration expressions: molarity (M), molality (m), normality (N), mole fraction (chi), ppm",
+              "Solubility of gases in liquids — Henry's law: p = KH * chi",
+              "Vapour pressure of solutions — Raoult's law: p = chi * p°",
+              "Colligative properties — relative lowering of vapour pressure",
+              "Elevation of boiling point: delta_Tb = Kb * m",
+              "Depression of freezing point: delta_Tf = Kf * m",
+              "Osmotic pressure: pi = MRT = (n/V)RT = CRT",
+              "Abnormal molecular mass — van't Hoff factor i",
+              "Abnormal colligative properties due to association/dissociation"
+            ],
+            "note": "Difficulty: Medium"
+          },
+          {
+            "chapter_id": "2",
+            "name": "Electrochemistry",
+            "marks": 7,
+            "topics": [
+              "Redox reactions in galvanic cells",
+              "Cell EMF notation: anode on left, cathode on right",
+              "Standard electrode potential (E°) — SHE as reference",
+              "Nernst equation: E = E° - (RT/nF) ln Q = E° - (0.0591/n) log Q at 298K",
+              "Relation: delta_G° = -nFE° = -RT ln K",
+              "Electrochemical series — reducing power and oxidising power",
+              "Conductance: specific conductance (kappa), molar conductance (Lambda_m)",
+              "Lambda_m = kappa x 1000 / M (or kappa / C)",
+              "Kohlrausch's law: Lambda_m° = lambda°+ + lambda°-",
+              "Variation of conductance with dilution",
+              "Electrolysis — Faraday's laws (first and second)",
+              "Battery types: dry cell, lead accumulator, fuel cells",
+              "Corrosion — electrochemical theory"
+            ],
+            "note": "Difficulty: Medium"
+          },
+          {
+            "chapter_id": "3",
+            "name": "Chemical Kinetics",
+            "marks": 7,
+            "topics": [
+              "Rate of reaction — average and instantaneous rate",
+              "Factors affecting rate: concentration, temperature, catalyst",
+              "Order of reaction — zero, first, second order",
+              "Molecularity — difference from order",
+              "Rate law: rate = k [A]^m [B]^n",
+              "Specific rate constant (k) — units for different orders",
+              "Integrated rate equation for zero order: [A] = [A]0 - kt",
+              "Integrated rate equation for first order: k = (2.303/t) log [A]0/[A]",
+              "Half-life of first order: t(1/2) = 0.693/k",
+              "Collision theory (elementary idea)",
+              "Activation energy (Ea)",
+              "Arrhenius equation: k = A * e^(-Ea/RT), log k = log A - Ea/(2.303 RT)"
+            ],
+            "note": "Difficulty: Medium"
+          },
+          {
+            "chapter_id": "4",
+            "name": "d-and f-Block Elements",
+            "marks": 6,
+            "topics": [
+              "d-block elements — electronic configuration [Ar]3d^1-10 4s^1-2",
+              "General trends: atomic and ionic radii, ionization enthalpy, oxidation states",
+              "Variable oxidation states — due to involvement of (n-1)d and ns electrons",
+              "Coloured compounds — d-d transition",
+              "Paramagnetism — due to unpaired electrons",
+              "Catalytic properties — variable valency and surface properties",
+              "Alloy formation — similar atomic radii",
+              "Interstitial compounds",
+              "Properties of KMnO4 and K2Cr2O7 — preparation and reactions",
+              "Lanthanoids — electronic configuration, oxidation states, lanthanoid contraction",
+              "Actinoids — electronic configuration, oxidation states, comparison with lanthanoids"
+            ],
+            "note": "Difficulty: Medium"
+          },
+          {
+            "chapter_id": "5",
+            "name": "Coordination Compounds",
+            "marks": 7,
+            "topics": [
+              "Coordination compounds — Werner's theory",
+              "Ligands — unidentate, bidentate, ambidentate, polydentate, chelate",
+              "Coordination number, coordination sphere, counter ions",
+              "IUPAC nomenclature of mononuclear coordination compounds",
+              "Bonding — Valence Bond Theory (VBT): sp3, dsp2, sp3d2, d2sp3 hybridisation",
+              "Crystal Field Theory (CFT) — crystal field splitting in octahedral/tetrahedral",
+              "Structural isomerism: ionisation, hydrate, linkage, coordination",
+              "Stereoisomerism: geometric (cis-trans), optical",
+              "Importance: extraction of metals, biological systems (haemoglobin, chlorophyll)"
+            ],
+            "note": "Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "6",
+            "name": "Haloalkanes and Haloarenes",
+            "marks": 7,
+            "topics": [
+              "Haloalkanes — IUPAC nomenclature, nature of C-X bond",
+              "Physical properties: BP, solubility",
+              "Chemical properties: nucleophilic substitution (SN1 and SN2)",
+              "SN1 mechanism — carbocation intermediate, first order kinetics",
+              "SN2 mechanism — bimolecular, backside attack, inversion",
+              "Elimination reactions (dehydrohalogenation)",
+              "Reactions: with KCN, AgCN, KOH (alc/aq), Mg (Grignard), NaI",
+              "Optical activity, chirality, retention, inversion, racemisation",
+              "Haloarenes — nature of C-X bond (partial double bond character)",
+              "Directive influence of halogen — ortho, para directing",
+              "Electrophilic substitution: halogenation, nitration, sulphonation, Friedel-Crafts",
+              "Reactions: from benzene diazonium salt (Sandmeyer, Balz-Schiemann)",
+              "Environmental effects: DDT, freons, iodoform, CHCl3, CCl4"
+            ],
+            "note": "Difficulty: Medium-Hard"
+          },
+          {
+            "chapter_id": "7",
+            "name": "Alcohols, Phenols and Ethers",
+            "marks": 7,
+            "topics": [
+              "Alcohols — IUPAC nomenclature, classification (1°, 2°, 3°)",
+              "Methods of preparation: from alkenes (hydration), Grignard reagent, reduction of carbonyl",
+              "Physical properties: BP trends, solubility",
+              "Chemical properties: with Na, PCl5, SOCl2, HX",
+              "Dehydration mechanism of alcohols (acid-catalysed)",
+              "Identification of 1°, 2°, 3° alcohols (Lucas test, oxidation)",
+              "Ethanol and methanol — industrial importance, uses",
+              "Phenols — preparation (from benzene diazonium salt, cumene process, chlorobenzene)",
+              "Acidic nature of phenol (pKa ~ 10) compared to alcohols",
+              "Electrophilic substitution reactions of phenol",
+              "Reactions: Kolbe's reaction, Reimer-Tiemann reaction, Williamson ether synthesis",
+              "Ethers — preparation, physical and chemical properties"
+            ],
+            "note": "Difficulty: Medium"
+          },
+          {
+            "chapter_id": "8",
+            "name": "Aldehydes, Ketones and Carboxylic Acids",
+            "marks": 8,
+            "topics": [
+              "Aldehydes and Ketones — IUPAC names, nature of carbonyl group",
+              "Methods of preparation: oxidation, ozonolysis, Rosenmund, Stephen, Gattermann-Koch, Grignard",
+              "Physical and chemical properties of aldehydes and ketones",
+              "Nucleophilic addition reactions: with HCN, NaHSO3, NH2OH, 2,4-DNP, NH2NH2",
+              "Reactions with Tollen's reagent, Fehling's solution",
+              "Aldol condensation, cross aldol condensation",
+              "Cannizzaro reaction, Clemmensen reduction, Wolff-Kishner reduction",
+              "IUPAC names and structures of aldehydes/ketones",
+              "Carboxylic acids — acidic nature, methods of preparation",
+              "Physical and chemical properties",
+              "Reactions: esterification, acyl halide formation, reduction, decarboxylation"
+            ],
+            "note": "Difficulty: Medium"
+          },
+          {
+            "chapter_id": "9",
+            "name": "Amines",
+            "marks": 6,
+            "topics": [
+              "Amines — nomenclature, classification (1°, 2°, 3°)",
+              "Structure: pyramidal, lone pair on N",
+              "Methods of preparation: reduction of nitro compounds, amides (Hoffmann), nitriles, reductive amination",
+              "Physical properties: BP, solubility, basicity order",
+              "Chemical properties and basicity",
+              "Carbylamine reaction (test for 1° amines): R-NH2 + CHCl3 + KOH → R-NC",
+              "Hoffmann bromamide reaction (rearrangement): RCONH2 + Br2 + KOH → RNH2",
+              "Gabriel phthalimide synthesis (for pure 1° amines)",
+              "Reaction with HNO2: primary gives diazonium salt, secondary gives N-nitrosoamine",
+              "Diazonium salts — preparation and importance in synthesis",
+              "Sandmeyer reaction, Balz-Schiemann, reactions with phenol/coupling"
+            ],
+            "note": "Difficulty: Medium"
+          },
+          {
+            "chapter_id": "10",
+            "name": "Biomolecules",
+            "marks": 7,
+            "topics": [
+              "Carbohydrates — classification: monosaccharides (glucose, fructose), oligosaccharides (sucrose, lactose, maltose), polysaccharides (starch, cellulose, glycogen)",
+              "D-L configuration of glucose",
+              "Chemical reactions of glucose: with HI, NH2OH, Br2-water, HCN, NHO3",
+              "Structure of glucose — Fisher projection, Haworth formula",
+              "Difference between D-glucose and D-fructose structures",
+              "Proteins — amino acids, peptide bond, polypeptides",
+              "Primary, secondary, tertiary, quaternary structure of proteins",
+              "Denaturation of proteins, enzymes",
+              "Hormones — elementary idea",
+              "Vitamins — classification (fat-soluble: A,D,E,K; water-soluble: B,C) and deficiency diseases",
+              "Nucleic acids — DNA and RNA, bases (adenine, guanine, cytosine, thymine, uracil)"
+            ],
+            "note": "Difficulty: Easy-Medium"
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Solutions",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & Part II",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Types of solutions — solid in liquid, gas in liquid, liquid in liquid",
+        "Concentration expressions: molarity (M), molality (m), normality (N), mole fraction (chi), ppm",
+        "Solubility of gases in liquids — Henry's law: p = KH * chi",
+        "Vapour pressure of solutions — Raoult's law: p = chi * p°",
+        "Colligative properties — relative lowering of vapour pressure",
+        "Elevation of boiling point: delta_Tb = Kb * m",
+        "Depression of freezing point: delta_Tf = Kf * m",
+        "Osmotic pressure: pi = MRT = (n/V)RT = CRT",
+        "Abnormal molecular mass — van't Hoff factor i",
+        "Abnormal colligative properties due to association/dissociation"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Molar mass from boiling point: M = (Kb x w x 1000) / (delta_Tb x W)",
+        "Molar mass from freezing point: M = (Kf x w x 1000) / (delta_Tf x W)",
+        "Osmotic pressure: pi = CRT",
+        "Relative lowering of vapour pressure: (p° - p)/p° = x_solute",
+        "Van't Hoff factor: i = observed/calculated colligative property"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "In a solution 30 mass percent of benzene is dissolved in carbon tetrachloride. Calculate mole fraction of benzene. [2025 Set-1]",
+        "Explain Raoult's Law. [2025 Set-1]",
+        "The vapour pressure of pure benzene at any temperature is 0.850 bar. 0.5 g non-volatile non-electrolytic solid dissolved in 39.0 g benzene. Vapour pressure becomes 0.845 bar. Calculate molar mass of solid. [2025 Set-2]",
+        "What is relation between elevation of boiling point and molality? [2025 Set-3]",
+        "Define Raoult's law. Establish expression for calculating molar mass of solute on basis of this law. [2024 Set-3]",
+        "Explain reason for depression in vapour pressure. At any temperature vapour pressure of pure solvent is 0.745 bar. 0.5 g non-volatile non-electrolyte dissolved in 39.0 g solvent (mol mass 78 g/mol). VP = 0.740 bar. Find molar mass of solid. [2024 Set-3]",
+        "Define osmotic pressure. Establish relation with molar mass of solute. [2024, 2023]",
+        "What is relation between depression in freezing point and molar mass of solute? [2024 Set-4]",
+        "54% water is present in mixture of ethyl alcohol and water. Calculate mole fraction of ethyl alcohol and water. [2024 Set-5]"
+      ],
+      "key_mcq_answers": [
+        "Colligative properties depend on number of solute particles, not on nature",
+        "Colligative properties: relative lowering of VP, elevation of BP, depression of FP, osmotic pressure",
+        "Osmotic pressure is directly proportional to concentration: π = CRT",
+        "Van't Hoff factor i > 1 for dissociation (electrolytes)",
+        "Van't Hoff factor i < 1 for association",
+        "Henry's law: solubility of gas in liquid increases with increase in pressure",
+        "Gaseous solution example: O₂ dissolved in water, H₂ in palladium",
+        "Positive deviation from Raoult's law: A-B interactions weaker than A-A or B-B"
+      ],
+      "key_fill_blanks": [
+        "Molarity unit = mol L⁻¹",
+        "Molality unit = mol kg⁻¹",
+        "K_f (cryoscopic constant) for water = 1.86 K kg mol⁻¹",
+        "K_b (ebullioscopic constant) for water = 0.512 K kg mol⁻¹",
+        "Depression in FP formula: ΔT_f = K_f × m"
+      ],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Which is gaseous solution? [H2 in Pd], Colligative property MCQ, ppm concentration MCQ"
+      ],
+      "two_mark_frequently_asked": [
+        "Explain Raoult's law. [2025, 2024, 2023]. Define osmotic coefficient. Explain relative lowering of vapour pressure with expression. [2022]. Explain molarity and molality by example. [2025]"
+      ],
+      "three_mark_frequently_asked": [
+        "28g KOH dissolved in 500 mL, find molarity. [2025]. Calculate osmotic pressure of 2% urea at 27°C. [2025]. Mole fraction of benzene in 30% solution. [2025]"
+      ],
+      "four_mark_frequently_asked": [
+        "Define osmotic pressure and establish relationship with molar mass of solute. [2024, 2023, 2022]. Raoult's law numerical on vapour pressure lowering [2024, 2025]"
+      ],
+      "five_mark_frequently_asked": [
+        "Define Raoult's law. Establish expression for molar mass from osmotic pressure / depression in freezing point. [2024, 2023, 2022 — every year]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Electrochemistry",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & Part II",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Redox reactions in galvanic cells",
+        "Cell EMF notation: anode on left, cathode on right",
+        "Standard electrode potential (E°) — SHE as reference",
+        "Nernst equation: E = E° - (RT/nF) ln Q = E° - (0.0591/n) log Q at 298K",
+        "Relation: delta_G° = -nFE° = -RT ln K",
+        "Electrochemical series — reducing power and oxidising power",
+        "Conductance: specific conductance (kappa), molar conductance (Lambda_m)",
+        "Lambda_m = kappa x 1000 / M (or kappa / C)",
+        "Kohlrausch's law: Lambda_m° = lambda°+ + lambda°-",
+        "Variation of conductance with dilution",
+        "Electrolysis — Faraday's laws (first and second)",
+        "Battery types: dry cell, lead accumulator, fuel cells",
+        "Corrosion — electrochemical theory"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Nernst equation: E_cell = E°_cell - (0.0591/n) log [products/reactants] at 298K",
+        "Gibbs energy: delta_G = -nFE",
+        "Equilibrium constant: log K = nE°/0.0591",
+        "Molar conductance: Lambda_m = kappa x 1000/C",
+        "Faraday's first law: m = ZIt = (M/nF) x I x t"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Explain in brief Faraday's law of Electrolysis. CuSO4 solution electrolysed for 20 minutes with 2.0 ampere current. Mass of Cu precipitated at cathode? [2025 Set-1]",
+        "Explain Kohlrausch law. Limiting molar conductances of Ca2+ and Cl- ions in water at 298 K are 119.0 S cm2/mol and 76.3 S cm2/mol. Calculate lambda_m of CaCl2. [2025 Set-1]",
+        "Define standard electrode potential. Calculate E° for cell: Zn/Zn2+ || Cu2+/Cu. E°(Zn2+/Zn) = -0.76V, E°(Cu2+/Cu) = +0.34V. [2025 Set-2]",
+        "What is Nernst equation? Write relation between standard electrode potential and electrode potential. [2025]",
+        "A cell in which following reaction occurs: Zn(s) + Cu2+(aq) → Zn2+(aq) + Cu(s) has E° = 1.1V at 298K. Calculate standard Gibbs energy and equilibrium constant. [2025 Set-1]",
+        "Explain molar conductivity. Resistance of cell = 480 ohm for 0.02 mol/L KCl (cell constant = 1.29 cm-1). Find molar conductivity. [2025, 2024, 2023]",
+        "Write unit and expression for velocity constant of zero order reaction. Explain standard hydrogen electrode potential. [2022]",
+        "Is oxidation of bromide ion into bromine by ferric ion possible? [2024 Set-2]"
+      ],
+      "key_mcq_answers": [
+        "Standard hydrogen electrode (SHE) potential = 0.00 V by convention",
+        "On removing salt bridge from galvanic cell: voltage drops to zero",
+        "Molar conductance (Λ_m) increases with dilution",
+        "Specific conductance (κ) decreases with dilution",
+        "SI unit of specific conductance κ = S cm⁻¹ or S m⁻¹",
+        "SI unit of molar conductance Λ_m = S cm² mol⁻¹",
+        "Strong electrolytes: conductance increases linearly with √C (Kohlrausch)",
+        "Weak electrolytes: Λ_m increases sharply near zero concentration"
+      ],
+      "key_fill_blanks": [
+        "Nernst equation: E_cell = E°_cell - (0.0591/n) log Q  at 298K",
+        "Faraday constant F = 96500 C mol⁻¹",
+        "ΔG° = -nFE° = -RT ln K"
+      ],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "After removing salt bridge from galvanic cell, voltage [goes to zero]. Standard hydrogen electrode potential = 0.0 V. Arrhenius formula for K. [2024]"
+      ],
+      "two_mark_frequently_asked": [
+        "Define standard electrode potential. [2025, 2024]. Explain difference between galvanic and electrolytic cell. [2025, 2024]. Conductivity of 0.02 M KCl — find molar conductance. [2025]"
+      ],
+      "three_mark_frequently_asked": [
+        "Define standard electrode potential. Calculate E° for cell Zn/Zn2+ || Cu2+/Cu. [2025, 2024]. Explain Faraday's law of electrolysis with numerical. [2025]. What is Nernst equation? Write relation between standard electrode potential and electrode potential. [2025, 2024]"
+      ],
+      "four_mark_frequently_asked": [
+        "Explain Faraday's law of electrolysis. CuSO4 electrolysed for 20 min with 2 A current. Find mass of Cu deposited. [2025 Set-1]. Explain molar conductivity. Resistance of cell = 480 ohm for 0.02 mol/L KCl. Find molar conductivity. [2025, 2024, 2023]"
+      ],
+      "five_mark_frequently_asked": [
+        "Explain Kohlrausch law. Limiting molar conductances of Ca2+ and Cl- ions are 119.0 S cm2/mol and 76.3 S cm2/mol at 298 K. Calculate lambda_m of CaCl2. [2025 Set-1 — important Q2 in book]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Chemical Kinetics",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & Part II",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Rate of reaction — average and instantaneous rate",
+        "Factors affecting rate: concentration, temperature, catalyst",
+        "Order of reaction — zero, first, second order",
+        "Molecularity — difference from order",
+        "Rate law: rate = k [A]^m [B]^n",
+        "Specific rate constant (k) — units for different orders",
+        "Integrated rate equation for zero order: [A] = [A]0 - kt",
+        "Integrated rate equation for first order: k = (2.303/t) log [A]0/[A]",
+        "Half-life of first order: t(1/2) = 0.693/k",
+        "Collision theory (elementary idea)",
+        "Activation energy (Ea)",
+        "Arrhenius equation: k = A * e^(-Ea/RT), log k = log A - Ea/(2.303 RT)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "First order: k = (2.303/t) log [A]0/[A]",
+        "Half-life first order: t(1/2) = 0.693/k",
+        "Arrhenius: log(k2/k1) = (Ea/2.303R)(1/T1 - 1/T2)",
+        "Zero order: [A] = [A]0 - kt, t(1/2) = [A]0/2k",
+        "Plot log k vs 1/T: slope = -Ea/2.303R"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "How do following factors affect velocity of reaction? (i) Concentration (ii) Temperature (iii) Catalyst. [2025, 2024, 2023]",
+        "A first order reaction completes 20% in 10 minutes. Calculate time taken for 75% completion. [2025 Set-1]",
+        "Write unit of first order reaction. Initial concentration of N2O5 is 0.60x10-2 mol L-1 at 318K. After 60 minutes becomes 0.20x10-2. Calculate velocity constant. (log3 = 0.4771) [2025]",
+        "State difference between molecularity and order of reaction. H2(g) + Cl2(g) → 2HCl(g) is zero order. Write velocity equation for this. [2024 Set-4]",
+        "Rate constant for first order reaction is 60 s-1. Time to reduce initial concentration to 1/16th? [2024 Set-4]",
+        "Velocity constants at 500K and 700K are 0.02 s-1 and 0.07 s-1. Calculate activation energy. [2024]",
+        "Decomposition of NH3 on platinum surface is zero order reaction. Rate of formation of N2 and H2? (K = 2.5x10-4 mol L-1 s-1) [2025 Set-1]"
+      ],
+      "key_mcq_answers": [
+        "Unit of first order rate constant = s⁻¹",
+        "Unit of zero order rate constant = mol L⁻¹ s⁻¹",
+        "Unit of second order rate constant = L mol⁻¹ s⁻¹",
+        "Half-life of first order reaction is INDEPENDENT of initial concentration",
+        "Half-life of zero order reaction depends on initial concentration",
+        "Activation energy Ea: higher Ea = slower reaction at given temperature",
+        "Catalyst lowers activation energy — increases rate without being consumed"
+      ],
+      "key_fill_blanks": [
+        "t₁/₂ for first order = 0.693/k",
+        "First order k = (2.303/t) log [A]₀/[A]",
+        "For reaction A → 2B: rate = -d[A]/dt = (1/2) d[B]/dt"
+      ],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Unit of velocity constant of first order reaction = [s-1]. Unit of zero order = [mol L-1 s-1]. For formula k = A*e^(-Ea/RT), Ea = [activation energy]. Rate of formation relation for A → 2B. [2024, 2025]"
+      ],
+      "two_mark_frequently_asked": [
+        "Explain the effect of temperature and concentration on velocity of reaction. [2025, 2024]. State difference between molecularity and order of reaction. [2025, 2024]"
+      ],
+      "three_mark_frequently_asked": [
+        "How do following factors affect velocity of reaction: (i) Concentration (ii) Temperature (iii) Catalyst. [2025, 2024, 2023 — every year]. Define order of reaction. How will you find out order of reaction for nA + mB → xC + yD? [2025]. First order reaction: initial concentration of N2O5 = 0.60x10-2 mol/L at 318K. After 60 min becomes 0.20x10-2 mol/L. Calculate velocity constant (log3=0.4771). [2025]"
+      ],
+      "four_mark_frequently_asked": [
+        "Explain rate of reaction. Describe order of reaction with example. [2025, 2024, 2023]. First order reaction completes 20% in 10 min. Time taken for 75% completion? [2025 Set-1]. Velocity constants at 500K and 700K are 0.02 and 0.07 s-1. Calculate Ea. [2024]"
+      ],
+      "five_mark_frequently_asked": [
+        "Write short note on first order reaction. Derive expression for rate constant of first order reaction. [2023, 2022 — key long answer]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "d-and f-Block Elements",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & Part II",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "d-block elements — electronic configuration [Ar]3d^1-10 4s^1-2",
+        "General trends: atomic and ionic radii, ionization enthalpy, oxidation states",
+        "Variable oxidation states — due to involvement of (n-1)d and ns electrons",
+        "Coloured compounds — d-d transition",
+        "Paramagnetism — due to unpaired electrons",
+        "Catalytic properties — variable valency and surface properties",
+        "Alloy formation — similar atomic radii",
+        "Interstitial compounds",
+        "Properties of KMnO4 and K2Cr2O7 — preparation and reactions",
+        "Lanthanoids — electronic configuration, oxidation states, lanthanoid contraction",
+        "Actinoids — electronic configuration, oxidation states, comparison with lanthanoids"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Explain the oxidation states in lanthanoids and actinoids. [2025 Set-2]",
+        "Aqueous solutions of HgCl2 and SnCl2 cannot co-exist. Why? [2025 Set-1]",
+        "Describe method of preparation of potassium permanganate. How does acidic KMnO4 react with H2S, Fe, Ion? [2025 Set-1]",
+        "What happens when: (i) Chromite ore reacts with K2CO3 in air (ii) K2Cr2O7 reacts with FeSO4 in H2SO4 (iii) KMnO4 heated to 513K. [2025]",
+        "Explain: (i) Transition metals generally form coloured compounds (ii) Transition metals and their compounds show paramagnetic behaviour. [2025, 2024, 2023, 2022]",
+        "Explain lanthanide contraction clearly and give reason why many compounds of transition elements remain coloured. [2024 Set-3]",
+        "What are d-block and f-block elements? Write general electronic configuration of d-block and f-block. [2025 Set-4]"
+      ],
+      "key_mcq_answers": [
+        "Transition metals show variable oxidation states due to similar energies of (n-1)d and ns electrons",
+        "Coloured compounds of transition metals: d-d electronic transition absorbs visible light",
+        "Paramagnetic behaviour: due to unpaired electrons in d orbitals",
+        "Zn²⁺ (3d¹⁰): fully paired → colourless and diamagnetic",
+        "Cu⁺ (3d¹⁰): colourless; Cu²⁺ (3d⁹): coloured (blue)",
+        "Lanthanoid contraction: steady decrease in atomic/ionic radius from La to Lu",
+        "Lanthanoid contraction cause: poor shielding by 4f electrons"
+      ],
+      "key_fill_blanks": [
+        "General electronic configuration of d-block = (n-1)d¹⁻¹⁰ ns¹⁻²",
+        "Most common oxidation state of lanthanoids = +3",
+        "Lanthanoid contraction: size decreases from La to Lu due to ineffective 4f shielding"
+      ],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Fe is d-block element. Configuration showing maximum oxidation state: 3d5 4s2. Colourless ion in following: Zn2+ (because d10, fully filled). Paramagnetic ion: Ni2+ (2 unpaired). [2025, 2024]"
+      ],
+      "two_mark_frequently_asked": [
+        "Explain oxidation states in lanthanoids and actinoids. [2025 Set-2]. Why +3 and +4 oxidation states of Ce stable? [2024]. Aqueous solutions of HgCl2 and SnCl2 cannot coexist — why? [2025 Set-1]"
+      ],
+      "three_mark_frequently_asked": [
+        "Write colour of Zn2+, Cu2+, Fe2+ ions in aqueous solution. [2025]. Explain transition metals generally form coloured compounds, and their compounds are paramagnetic. [2025, 2024, 2023, 2022 — every year]"
+      ],
+      "four_mark_frequently_asked": [
+        "What happens when: (i) Chromite ore reacts with K2CO3 in presence of air (ii) K2Cr2O7 reacts with FeSO4 in H2SO4 (iii) KMnO4 is heated to 513K. [2025]. Describe method of preparation of KMnO4. How does acidic KMnO4 react with H2S, Fe, Ion? [2025]. Write electronic configuration and three characteristic properties of transition elements. [2022, 2024]"
+      ],
+      "five_mark_frequently_asked": [
+        "Explain lanthanide contraction clearly. Why do many compounds of transition elements remain coloured? [2024 Set-3]. What is d-block and f-block elements? Write general electronic configuration of d-block and f-block. [2025 Set-4]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Coordination Compounds",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & Part II",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Coordination compounds — Werner's theory",
+        "Ligands — unidentate, bidentate, ambidentate, polydentate, chelate",
+        "Coordination number, coordination sphere, counter ions",
+        "IUPAC nomenclature of mononuclear coordination compounds",
+        "Bonding — Valence Bond Theory (VBT): sp3, dsp2, sp3d2, d2sp3 hybridisation",
+        "Crystal Field Theory (CFT) — crystal field splitting in octahedral/tetrahedral",
+        "Structural isomerism: ionisation, hydrate, linkage, coordination",
+        "Stereoisomerism: geometric (cis-trans), optical",
+        "Importance: extraction of metals, biological systems (haemoglobin, chlorophyll)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Write formulas of: (i) Tetraamine diaquacobalt(III) chloride (ii) Potassium trioxalato chromate(III). Colour of [Fe(CN)6]4- and [Fe(H2O)6]2+ are different. Explain. [2025 Set-1]",
+        "The spin only magnetic moment value of [MnBr4]2- is 5.9 BM. What will be geometry of complex ion? [2025 Set-1]",
+        "Explain VBT of coordination compounds. [2025 Set-2, 2024, 2023, 2022]",
+        "Write IUPAC names: (i) K3[AlF6] (ii) [Fe(H2O)6]Cl2 (iii) [Co(NH3)5Cl]SO4 (iv) K3[Fe(CN)6]. [2025 Set-2]",
+        "Explain CFT of coordination compounds. [2025 Set-4, 2024, 2023]",
+        "Explain importance of coordination compounds. [2024 Set-1]",
+        "Prove that [Co(NH3)5Cl]SO4 and [Co(NH3)5SO4]Cl are ionisation isomers. [2025 Set-3]"
+      ],
+      "key_mcq_answers": [
+        "In IUPAC nomenclature: ligands named before metal ion",
+        "Ligands listed alphabetically (ignoring di, tri, tetra prefixes)",
+        "Anionic ligands end in '-o': chloro, cyano, oxalato, hydroxo",
+        "Coordination number = number of donor atoms attached to central metal",
+        "[Fe(CN)₆]⁴⁻: coordination number = 6, oxidation state of Fe = +2",
+        "[Ni(CN)₄]²⁻: square planar, dsp² hybridisation, diamagnetic",
+        "[NiCl₄]²⁻: tetrahedral, sp³ hybridisation, paramagnetic"
+      ],
+      "key_fill_blanks": [
+        "Oxidation state of Co in K[Co(CO)₄] = -1",
+        "Coordination number of Cu in [Cu(CN)₄]³⁻ = 4",
+        "Colour difference in [Fe(CN)₆]⁴⁻ vs [Fe(H₂O)₆]²⁺ due to different ligand field strength"
+      ],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Oxidation number of Co in K[Co(CO)4] = -1. Coordination number of Cu in [Cu(CN)4]3- = 4. Colour of [Fe(CN)6]4- vs [Fe(H2O)6]2+ different — why? [2025, 2024]. Co-ordination number of Cr in [Cr(C2O4)3]3- = 3 (bidentate). [2024]"
+      ],
+      "two_mark_frequently_asked": [
+        "Explain valence bond theory (VBT) in coordination compounds. [2025, 2024]. Explain coordination number with example. [2024]. Explain unidentate and bidentate ligands with examples. [2024 Set-5]. Differentiate between coordination compound and double salt. [2023]"
+      ],
+      "three_mark_frequently_asked": [
+        "Write IUPAC names of coordination compounds. [2025, 2024, 2023]. Spin only magnetic moment of [MnBr4]2- is 5.9 BM. What is geometry of complex? [2025]"
+      ],
+      "four_mark_frequently_asked": [
+        "Write IUPAC names of given coordination compounds. [2025 Set-2]. Explain VBT. [2024, 2023]. Explain CFT of coordination compounds. [2024 Set-4, 2023]"
+      ],
+      "five_mark_frequently_asked": [
+        "Write Valence Bond Theory (VBT) of coordination compounds. Also state demerits of this theory. [2025 Set-4, 2024 Set-1]. Explain Crystal Field Theory (CFT) in coordination compounds. [2024, 2023]. Explain importance of coordination compounds. [2024 Set-1 Or]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Haloalkanes and Haloarenes",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & Part II",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Haloalkanes — IUPAC nomenclature, nature of C-X bond",
+        "Physical properties: BP, solubility",
+        "Chemical properties: nucleophilic substitution (SN1 and SN2)",
+        "SN1 mechanism — carbocation intermediate, first order kinetics",
+        "SN2 mechanism — bimolecular, backside attack, inversion",
+        "Elimination reactions (dehydrohalogenation)",
+        "Reactions: with KCN, AgCN, KOH (alc/aq), Mg (Grignard), NaI",
+        "Optical activity, chirality, retention, inversion, racemisation",
+        "Haloarenes — nature of C-X bond (partial double bond character)",
+        "Directive influence of halogen — ortho, para directing",
+        "Electrophilic substitution: halogenation, nitration, sulphonation, Friedel-Crafts",
+        "Reactions: from benzene diazonium salt (Sandmeyer, Balz-Schiemann)",
+        "Environmental effects: DDT, freons, iodoform, CHCl3, CCl4"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Write structures of compounds: (i) 2-Chloro-3-methylpentane (ii) 1,4-dibromobut-2-ene (iii) 1-Bromo-2,2-dimethyl propane (iv) 1-Bromo-2-methylbut-2-ene (v) 1-Chloro-2-methyl benzene. [2025 Set-1]",
+        "Write products of following reactions [5 organic reactions with benzene]. [2025 Set-1 Or]",
+        "Explain mechanism of substitution reactions of haloalkane. [2025, 2024, 2023, 2022]",
+        "Write chemical equation for formation of chlorobenzene by Sandmeyer reaction. How can phenol, toluene, diphenyl be obtained from chlorobenzene? [2025 Set-5]",
+        "Write chemical equations for halogenation, nitration, sulphonation, Friedel-Crafts and Wurtz-Fittig reactions of chlorobenzene. [2022, 2023]",
+        "Explain mechanism of SN1 and SN2 reactions in haloalkanes. [2023 Set-2]",
+        "Explain electrophilic substitution mechanism in haloareenes with example. [2025, 2024, 2023]"
+      ],
+      "key_mcq_answers": [
+        "SN1: first order kinetics, carbocation intermediate, racemisation, 3° > 2° > 1° reactivity",
+        "SN2: second order, backside attack, inversion of configuration, 1° > 2° > 3° reactivity",
+        "Carbylamine reaction: only primary amines (1° amine + CHCl₃ + KOH → isocyanide)",
+        "Gabriel phthalimide synthesis: gives pure primary amines only",
+        "Haloarenes less reactive than haloalkanes for nucleophilic substitution (C-X has partial double bond character)",
+        "Ortho-para directing by halogen in haloarenes (electron donation by resonance)"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Carbylamine reaction for primary amine identification [gives foul smell]. Best method for primary amines from alkyl halides without changing carbon atoms is [Gabriel phthalimide synthesis]. By Gattermann-Koch reaction benzene forms [benzaldehyde]. [2025, 2024]"
+      ],
+      "two_mark_frequently_asked": [
+        "Write uses of carbon tetrachloride and chloroform. [2025]. Why bromine atom of bromoethane more reactive than bromine of bromobenzene? Write equation of reaction. [2025 Set-4]. Explain Wurtz and Fittig reactions with example. [2025]"
+      ],
+      "three_mark_frequently_asked": [
+        "Explain mechanism of substitution reactions of haloalkane. [2025, 2024, 2023, 2022 — SN1 and SN2]. Write equations for reactions: (i) bromobenzene with Mg in dry ether (ii) methyl bromide with KCN (iii) ethyl bromide with Na in dry ether etc. [2025]"
+      ],
+      "four_mark_frequently_asked": [
+        "Explain mechanism of electrophilic substitution in haloarenes. [2025, 2024, 2023]. Differentiate between elimination and substitution reactions with example. [2024 Set-3]"
+      ],
+      "five_mark_frequently_asked": [
+        "Write structures of given compounds and write products of given reactions [organic conversions, 5 reactions]. [2025 Set-1]. Write structures of given compounds (IUPAC names given). [2025 Set-2]. Explain mechanism of SN1 and SN2 reactions. [2023 Set-2]. Explain optical activity, chirality, retention, inversion and racemisation in haloalkane. [2025 Set-2 Or]. Write chemical equations for halogenation, nitration, sulphonation, Friedel-Crafts and Wurtz-Fittig reactions of chlorobenzene. [2022, 2023]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Alcohols, Phenols and Ethers",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & Part II",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Alcohols — IUPAC nomenclature, classification (1°, 2°, 3°)",
+        "Methods of preparation: from alkenes (hydration), Grignard reagent, reduction of carbonyl",
+        "Physical properties: BP trends, solubility",
+        "Chemical properties: with Na, PCl5, SOCl2, HX",
+        "Dehydration mechanism of alcohols (acid-catalysed)",
+        "Identification of 1°, 2°, 3° alcohols (Lucas test, oxidation)",
+        "Ethanol and methanol — industrial importance, uses",
+        "Phenols — preparation (from benzene diazonium salt, cumene process, chlorobenzene)",
+        "Acidic nature of phenol (pKa ~ 10) compared to alcohols",
+        "Electrophilic substitution reactions of phenol",
+        "Reactions: Kolbe's reaction, Reimer-Tiemann reaction, Williamson ether synthesis",
+        "Ethers — preparation, physical and chemical properties"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Write chemical equations for chemical reactions of primary, secondary and tertiary alcohols dehydration. Write mechanism of dehydration of primary alcohol. [2025 Set-2]",
+        "Write chemical equations for obtaining following from phenol: (i) 4-Nitrophenol (ii) Picric acid (iii) 4-Bromophenol (iv) Salicylaldehyde (v) Benzoquinone. [2025 Set-2]",
+        "Explain reactions of phenol: Kolbe, Reimer-Tiemann, Williamson ether synthesis. [2025, 2022, 2024]",
+        "What do you understand by dehydration reaction? Write mechanism of dehydration reaction of alcohol. [2025 Set-2]",
+        "Write chemical equations for obtaining phenol from: (i) Chlorobenzene (ii) Aniline (iii) Benzene. [2024 Set-3]",
+        "Explain mechanism of dehydration of ethanol. Write equations for identifying 1°, 2°, 3° alcohols. [2023]",
+        "Explain acidic nature of phenol. Write chemical equation for preparation of following from phenol: (i) Picric acid (ii) Benzoquinone. [2023 Set-2 Or]"
+      ],
+      "key_mcq_answers": [
+        "Acidity order: Carboxylic acid > Phenol > H₂O > Alcohol > Alkane",
+        "pKa: Phenol ≈ 10; Ethanol ≈ 16 — phenol is much more acidic",
+        "Lucas test: 3° reacts immediately (turbidity); 2° reacts slowly; 1° no reaction at room temp",
+        "Dehydration of alcohols follows Saytzeff's rule — more substituted alkene is major product",
+        "Williamson synthesis is best method for preparing ethers",
+        "Phenol undergoes electrophilic substitution at ortho and para positions (-OH is o/p director)"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Dehydration reaction gives alkene. Which compound obtained by Wolff-Kishner reduction? [C=CH2 group]. [2025]"
+      ],
+      "two_mark_frequently_asked": [
+        "Write structural formula of primary, secondary, tertiary benzylic alcohol. [2024]. Explain acidic nature of phenol — write equations. [2023]. Boiling point of propanol greater than butane — explain. [2025 Set-1]"
+      ],
+      "three_mark_frequently_asked": [
+        "Explain mechanism of nucleophilic substitution in haloalkanes [overlap with Unit 6]. Write chemical equation for obtaining phenol from (i) chlorobenzene (ii) aniline (iii) benzene. [2024 Set-3]. Write equations for dehydration of primary, secondary and tertiary alcohols. [2025]"
+      ],
+      "four_mark_frequently_asked": [
+        "Write chemical equations of dehydration reactions of primary, secondary and tertiary alcohols and also write mechanism of dehydration reaction of primary alcohol. [2025 Set-2]. Explain mechanism of dehydration of ethanol to get ethene. Write equations for identifying primary, secondary, tertiary alcohols. [2023 Set-2]"
+      ],
+      "five_mark_frequently_asked": [
+        "Explain reactions of phenol: Kolbe, Reimer-Tiemann, Williamson ether synthesis. [2025 Set-1, 2022, 2024]. Write chemical equations for obtaining given compounds from phenol (4-nitrophenol, picric acid, 4-bromophenol, salicylaldehyde, benzoquinone). [2025 Set-2]. How will you obtain ether from haloalkane and alcohol? [2025 Model Paper]. Explain dehydration of alcohol mechanism and write equations for 1°, 2°, 3° alcohols. [2023]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Aldehydes, Ketones and Carboxylic Acids",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & Part II",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Aldehydes and Ketones — IUPAC names, nature of carbonyl group",
+        "Methods of preparation: oxidation, ozonolysis, Rosenmund, Stephen, Gattermann-Koch, Grignard",
+        "Physical and chemical properties of aldehydes and ketones",
+        "Nucleophilic addition reactions: with HCN, NaHSO3, NH2OH, 2,4-DNP, NH2NH2",
+        "Reactions with Tollen's reagent, Fehling's solution",
+        "Aldol condensation, cross aldol condensation",
+        "Cannizzaro reaction, Clemmensen reduction, Wolff-Kishner reduction",
+        "IUPAC names and structures of aldehydes/ketones",
+        "Carboxylic acids — acidic nature, methods of preparation",
+        "Physical and chemical properties",
+        "Reactions: esterification, acyl halide formation, reduction, decarboxylation"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Write chemical equation for five methods of preparation of ketones. [2025 Set-2]",
+        "Write chemical equations of two methods of preparation and three chemical properties of carboxylic acid. [2025 Set-2]",
+        "Write IUPAC name of acetaldehyde. Write chemical equations of reactions with (i) NaHSO3 (ii) NaOH (iii) NH2OH (iv) CH2OH-CH2OH in HCl. [2025 Set-2 Or]",
+        "What is Tollen's reagent? Write chemical equation for reactions with glucose and fructose. [2025 Sets 3-5]",
+        "Write short notes on: (i) Tischenko reaction (ii) Cannizzaro reaction (iii) Clemmensen reduction. [2024 Set-4]",
+        "Write chemical equation for mechanism of nucleophilic addition reaction in aldehydes and ketones by example. [2024 Set-3]",
+        "Write short notes on: (i) Rosenmund reduction (ii) Stephen reaction (iii) Gattermann-Koch reaction. [2024, 2023, 2022]",
+        "Complete the following equations (5 aldehyde/ketone reactions). [2025 Sets 3-5]",
+        "An organic compound A has molecular formula C8H8O. Produces orange-red precipitate with 2,4-DNP reagent. Does not reduce Tollen's reagent or Fehling's solution. On strong oxidation with chromic acid gives carboxylic acid B having formula C7H6O2. Identify A and B. [2025 Set-2 or 2023]"
+      ],
+      "key_mcq_answers": [
+        "Tollen's test positive: aldehydes → silver mirror; ketones negative",
+        "Fehling's test positive: aliphatic aldehydes and ketones with alpha-H → brick-red Cu₂O ppt",
+        "Fructose (ketone) gives Fehling's test due to keto-enol tautomerism",
+        "2,4-DNP test positive for both aldehydes and ketones (orange-red ppt)",
+        "Cannizzaro reaction: aldehydes with NO alpha-H undergo disproportionation",
+        "Nucleophilic addition is characteristic reaction of aldehydes and ketones"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Which does not reduce Fehling's solution: [CH3COOH]. Which does not give Tollen's reagent test but Fehling's test: ketones with alpha-H. Products of nucleophilic addition. [2025, 2024]"
+      ],
+      "two_mark_frequently_asked": [
+        "Explain cannizzaro reaction with chemical equation. [2025]. Explain nature of carbonyl group and carboxylic group. [2025 Set-2]. Write chemical equation of two chemical properties of glucose. [2025 Set-2]. What do you understand by cross aldol condensation? [2023]"
+      ],
+      "three_mark_frequently_asked": [
+        "What is Tollen's reagent? Write chemical equations for reactions with glucose and fructose. [2025 Sets 3-5]. Write chemical equations for dehydration of 1°, 2°, 3° alcohols [overlap with Unit 7]"
+      ],
+      "four_mark_frequently_asked": [
+        "Write short notes on: (i) Rosenmund reduction (ii) Stephen reaction (iii) Gattermann-Koch reaction. [2024, 2023, 2022]. Complete following equations (aldehyde/ketone reactions). [2025 Sets 3-5]"
+      ],
+      "five_mark_frequently_asked": [
+        "Write chemical equation for five methods of preparation of ketones. [2025 Set-2]. Write chemical equations of five chemical properties of amines. [overlap with Unit 9]. Write chemical equations of two methods of preparation and three chemical properties of carboxylic acid. [2025 Set-2 Or]. Write IUPAC name of acetaldehyde and write reactions with NaHSO3, NaOH, NH2OH, CH2OH-CH2OH in HCl. [2025 Set-2 Or]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Amines",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & Part II",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Amines — nomenclature, classification (1°, 2°, 3°)",
+        "Structure: pyramidal, lone pair on N",
+        "Methods of preparation: reduction of nitro compounds, amides (Hoffmann), nitriles, reductive amination",
+        "Physical properties: BP, solubility, basicity order",
+        "Chemical properties and basicity",
+        "Carbylamine reaction (test for 1° amines): R-NH2 + CHCl3 + KOH → R-NC",
+        "Hoffmann bromamide reaction (rearrangement): RCONH2 + Br2 + KOH → RNH2",
+        "Gabriel phthalimide synthesis (for pure 1° amines)",
+        "Reaction with HNO2: primary gives diazonium salt, secondary gives N-nitrosoamine",
+        "Diazonium salts — preparation and importance in synthesis",
+        "Sandmeyer reaction, Balz-Schiemann, reactions with phenol/coupling"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "Write chemical equations of five chemical properties of amines. [2025 Set-2]",
+        "Describe method of identification of primary, secondary, tertiary amines with equations. [2025 Set-2 Or]",
+        "Write short notes: (i) Carbylamine reaction (ii) Hoffmann bromamide reaction (iii) Schmidt reaction. [2025 Set-2]",
+        "Describe laboratory method of preparing aniline and write related equations. Write also two chemical properties and uses. [2025 Set-5]",
+        "Write chemical equations of preparation of diazonium salt and its four chemical reactions. [2024 Set-4, 2023]",
+        "How will you obtain ethylamine from: (i) Methyl cyanide (ii) Propanamide (iii) Acetamide (iv) Nitroethane (v) Ethyl isocyanate? [2025 Set-2]",
+        "Write resonating structures of arylamines. Explain why arylamines exhibit basic properties. Write equations for preparation from nitro and nitrile compounds. [2024 Set-2]"
+      ],
+      "key_mcq_answers": [
+        "Basicity order (aqueous): R₂NH > RNH₂ > R₃N > C₆H₅NH₂ (aniline)",
+        "Carbylamine reaction is test for primary amines only",
+        "Hoffmann bromamide: RCONH₂ → RNH₂ (carbon chain decreases by 1)",
+        "Gabriel phthalimide synthesis gives only pure primary amines",
+        "Diazonium salts unstable above 5°C — prepared at 0-5°C",
+        "Aniline does not give Friedel-Crafts reaction (N acts as Lewis base, complexes with AlCl₃)"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Best method for primary amine from alkyl halide without changing carbon atoms = [Gabriel phthalimide synthesis]. Which amine does not give carbylamine reaction = [tertiary amine]. Bromination of aniline gives [tribromoaniline]. Best method of preparing primary amines from alkyl halides = [Gabriel phthalimide synthesis]. [2025, 2024, 2023]"
+      ],
+      "two_mark_frequently_asked": [
+        "What are amines? Write one differentiating test for primary, secondary, tertiary amines. [2025 Set-4]. Boiling points of amines are lower than comparable alcohols and carboxylic acids — explain. [2025 Set-2]. Explain reaction of ethanamine with HCl and aniline with NaNO2 + dilute HCl at 0°C. [2025]"
+      ],
+      "three_mark_frequently_asked": [
+        "Write chemical equations of reactions of aniline with: HCl, Br2(aq), (CH3CO)2O, H2SO4(conc), CH3COCl in base. [2025, 2024]"
+      ],
+      "four_mark_frequently_asked": [
+        "Write chemical equations of four reactions of aniline. [2025]. Describe laboratory method of preparing aniline, write related equations, two chemical properties and uses. [2025 Set-5]"
+      ],
+      "five_mark_frequently_asked": [
+        "Write chemical equations of five chemical properties of amines. [2025 Set-2]. Describe method of identification of primary, secondary, tertiary amines. Write chemical equations. [2025 Set-2 Or]. Write short notes: (i) Carbylamine reaction (ii) Hoffmann bromamide reaction (iii) Schmidt reaction. [2025 Set-2, 2024]. Describe preparation of diazonium salt and write four chemical reactions. [2024 Set-4, 2023]. Write resonating structures of arylamines, explain basic properties, and write equations for preparation from nitro and nitrile compounds. [2024 Set-2]"
+      ],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Biomolecules",
+      "unit_or_chapter": "unit",
+      "book": "NCERT Chemistry Part I & Part II",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Carbohydrates — classification: monosaccharides (glucose, fructose), oligosaccharides (sucrose, lactose, maltose), polysaccharides (starch, cellulose, glycogen)",
+        "D-L configuration of glucose",
+        "Chemical reactions of glucose: with HI, NH2OH, Br2-water, HCN, NHO3",
+        "Structure of glucose — Fisher projection, Haworth formula",
+        "Difference between D-glucose and D-fructose structures",
+        "Proteins — amino acids, peptide bond, polypeptides",
+        "Primary, secondary, tertiary, quaternary structure of proteins",
+        "Denaturation of proteins, enzymes",
+        "Hormones — elementary idea",
+        "Vitamins — classification (fat-soluble: A,D,E,K; water-soluble: B,C) and deficiency diseases",
+        "Nucleic acids — DNA and RNA, bases (adenine, guanine, cytosine, thymine, uracil)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [
+        "What are carbohydrates? Classify them and write their characteristics by giving examples. [2025, 2024, 2023 — every year]",
+        "What is nucleic acid? Write two important properties of them. [2025 Set-1]",
+        "Explain primary, secondary, tertiary and quaternary structures of protein in detail. [2025 Set-1]",
+        "What is importance of proteins in our food? What are main sources? Secondary structure? What is denaturation of protein? [2025 Important Q20]",
+        "Write short notes: (i) Carbylamine reaction (ii) Hoffmann bromamide reaction (iii) Diazotisation. [2025 Set-4]",
+        "What do you understand by Zwitter ion, Peptide bond, Primary structure of protein, Polysaccharide? [2025 Set-1]",
+        "State sources and diseases caused by deficiency of Vitamins A, B, C, D, E, K. [2025 Model, 2024]",
+        "Chemical reactions of D-glucose with: (i) HI (ii) NH2OH (iii) Br2 water (iv) HNO3 (v) HCN. [2025 Set-5]"
+      ],
+      "key_mcq_answers": [
+        "Glucose molecular formula = C₆H₁₂O₆ (aldohexose)",
+        "Fructose = C₆H₁₂O₆ (ketohexose)",
+        "Sucrose = glucose + fructose (disaccharide, non-reducing sugar)",
+        "Starch = polymer of α-D-glucose; Cellulose = polymer of β-D-glucose",
+        "DNA contains: Adenine, Guanine, Cytosine, Thymine (NO Uracil)",
+        "RNA contains: Adenine, Guanine, Cytosine, Uracil (NO Thymine)",
+        "Globular proteins: water-soluble (enzymes, haemoglobin, hormones)",
+        "Fibrous proteins: water-insoluble (keratin, collagen, silk fibroin)"
+      ],
+      "key_fill_blanks": [
+        "Vitamin C deficiency → Scurvy",
+        "Vitamin D deficiency → Rickets",
+        "Vitamin A deficiency → Night blindness",
+        "Vitamin B₁ deficiency → Beri-beri",
+        "Peptide bond = bond between -COOH of one amino acid and -NH₂ of next",
+        "Denaturation = disruption of secondary and tertiary structure of protein",
+        "Sucrose hydrolysis gives glucose + fructose"
+      ],
+      "key_true_false": [],
+      "mcq_frequently_asked": [
+        "Globular proteins present in blood, eggs, milk. [2025 Model]. Which gives positive Fehling solution test — glucose. Which aldehyde test not given by glucose. DNA does not contain thymine/uracil — which base absent? Carbylamine reaction product of aniline. Ascorbic acid is Vitamin C. [2025, 2024, 2023]"
+      ],
+      "two_mark_frequently_asked": [
+        "What is nucleic acid? Write two important properties. [2025 Set-1]. What do vitamins do? How are vitamins classified? [2025, 2024]. Write short note on RNA. [2024]. Explain structure of nucleic acid and its biological action. [2024 Set-2]. Differentiate structures of D-glucose and D-fructose. [2025, 2023]"
+      ],
+      "three_mark_frequently_asked": [
+        "Explain primary, secondary, tertiary, quaternary structures of protein. [2025 Set-1, 2024]. Write short notes: (i) Secondary structure of proteins (ii) Peptide bond (iii) Monosaccharides. [2024 Set-3]"
+      ],
+      "four_mark_frequently_asked": [
+        "Explain primary, secondary, tertiary, quaternary structures of protein in detail. [2025 Set-1]. Write chemical equations of reaction of D-glucose with: NH2OH, HCN, Br2 water, HNO3, HI. [2025 Set-5]"
+      ],
+      "five_mark_frequently_asked": [
+        "What are carbohydrates? Classify and write characteristics with examples. [Important Q18 — 2025, 2024, 2023]. Write short notes on: (i) Vitamin (ii) Hormone. [2024 Set-2 Or]. What is importance of proteins in our food? Main sources? Secondary structure of proteins? What is denaturation of protein? [Important Q20 — 2025]. State sources and diseases caused by deficiency of Vitamins A, B, C, D, E, K. [2025 Model, 2024]"
+      ],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "UP Board Chemistry — 10 units. Chemical equations compulsory in most answers.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "Syllabus-wide coverage in each paper — no unit can be safely skipped.",
+    "or_questions_note": "Internal OR choice only in Q6, Q7 (5-mark long answer questions).",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Solutions",
+      "Electrochemistry",
+      "Chemical Kinetics",
+      "Coordination Compounds",
+      "Haloalkanes and Haloarenes",
+      "Alcohols, Phenols and Ethers",
+      "Aldehydes, Ketones and Carboxylic Acids",
+      "Amines"
+    ],
+    "chapters_never_skip_reason": "Marked high_importance in syllabus — guaranteed questions every year.",
+    "chapters_with_highest_weightage": [
+      "Unit 1 Solutions (8 marks)",
+      "Unit 8 Aldehydes, Ketones and Carboxylic Acids (8 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "Unit 4 d-and f-Block Elements (6 marks)",
+      "Unit 9 Amines (6 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "Factors affecting rate of reaction (concentration, temperature, catalyst) (3 marks)",
+      "Transition metals — coloured compounds, paramagnetism, catalytic properties (3-4 marks)",
+      "VBT of coordination compounds (5 marks)",
+      "SN1 and SN2 mechanism of haloalkanes (5 marks)",
+      "Kolbe, Reimer-Tiemann, Williamson reactions of phenol (5 marks)",
+      "Carbylamine, Hoffmann, and Schmidt reactions (short notes) (5 marks)",
+      "Classification and characteristics of carbohydrates (5 marks)",
+      "Molar conductivity / Kohlrausch's law with numerical (4-5 marks)",
+      "Osmotic pressure definition and molar mass determination (4-5 marks)",
+      "First order reaction rate constant derivation / numerical (4 marks)",
+      "Raoult's law and numerical on vapour pressure lowering (3-5 marks)",
+      "IUPAC names of coordination compounds (4 marks)",
+      "Electrophilic substitution in haloarenes — mechanism (5 marks)",
+      "Preparation and reactions of aniline / diazonium salt (5 marks)",
+      "Rosenmund, Stephen, Gattermann-Koch reactions (short notes) (4-5 marks)"
+    ],
+    "chapters_mostly_theory": [
+      "d-and f-Block Elements",
+      "Coordination Compounds",
+      "Amines",
+      "Biomolecules"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "Haloalkanes and Haloarenes",
+      "Alcohols, Phenols and Ethers",
+      "Aldehydes, Ketones and Carboxylic Acids",
+      "Amines",
+      "Biomolecules"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [
+      "Solutions",
+      "Electrochemistry",
+      "Chemical Kinetics"
+    ],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "d-and f-Block Elements",
+      "Coordination Compounds",
+      "Amines",
+      "Biomolecules"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Factors affecting rate of reaction (concentration, temperature, catalyst) (Every year, 3 marks)",
+      "Transition metals — coloured compounds, paramagnetism, catalytic properties (Every year, 3-4 marks)",
+      "VBT of coordination compounds (Every year, 5 marks)",
+      "SN1 and SN2 mechanism of haloalkanes (Every year, 5 marks)",
+      "Kolbe, Reimer-Tiemann, Williamson reactions of phenol (Every year, 5 marks)",
+      "Carbylamine, Hoffmann, and Schmidt reactions (short notes) (Every year, 5 marks)",
+      "Classification and characteristics of carbohydrates (Every year, 5 marks)",
+      "Molar conductivity / Kohlrausch's law with numerical (Every year, 4-5 marks)",
+      "Osmotic pressure definition and molar mass determination (Every year, 4-5 marks)",
+      "First order reaction rate constant derivation / numerical (Every year, 4 marks)",
+      "Raoult's law and numerical on vapour pressure lowering (Every year, 3-5 marks)",
+      "IUPAC names of coordination compounds (Every year, 4 marks)",
+      "Electrophilic substitution in haloarenes — mechanism (Every year, 5 marks)",
+      "Preparation and reactions of aniline / diazonium salt (Every year, 5 marks)",
+      "Rosenmund, Stephen, Gattermann-Koch reactions (short notes) (Every year, 4-5 marks)"
+    ],
+    "one_mark_question_facts": {
+      "note": "Sirf sahi option ka letter (i)/(ii)/(iii)/(iv) likhna kaafi. Koi theory nahi likhni.",
+      "common_formats": []
+    },
+    "most_important_questions": [
+      "Rank 1: What is the relationship between depression in freezing point and molar mass of solute? Establish the expression delta_Tf = Kf x m and use it to find molar mass. - Solutions (3 or 5 marks, 2025, 2024, 2023, 2022 — Every Year)",
+      "Rank 2: Give the definition of specific conductance and molar conductance of an electrolyte. State Kohlrausch's law. Calculate molar conductance from given lambda values. - Electrochemistry (4 or 5 marks, 2025, 2024, 2023 — Every Year)",
+      "Rank 3: Describe the standard hydrogen electrode (SHE) by diagram. Write its one use. State Nernst equation and calculate cell EMF. - Electrochemistry (3 marks, 2025, 2024)",
+      "Rank 4: How do the following factors affect the velocity of a reaction? (i) Concentration (ii) Temperature (iii) Catalyst - Chemical Kinetics (3 marks, 2025, 2024, 2023, 2022 — Every Year)",
+      "Rank 5: Derive the expression for rate constant of a first order reaction: k = (2.303/t) log [A]0/[A]. Also derive expression for half-life t(1/2) = 0.693/k. - Chemical Kinetics (4 or 5 marks, 2022, 2023, 2024, 2025)",
+      "Rank 6: Explain giving reasons: (i) Transition metals and their maximum compounds are paramagnetic (ii) Enthalpies of atomisation of transition metals are high (iii) Transition metals generally form coloured compounds (iv) Transition metals and many compounds act as good catalyst. - d-and f-Block Elements (3 or 4 marks, 2025, 2024, 2023, 2022 — Every Year)",
+      "Rank 7: Explain method of preparation of potassium permanganate (KMnO4). How does acidic KMnO4 react with H2S, Fe, and Ion? Give ionic equations. - d-and f-Block Elements (3 marks, 2025, 2024)",
+      "Rank 8: Write the Valence Bond Theory (VBT) of coordination compounds. State the demerits of this theory. - Coordination Compounds (5 marks, 2025, 2024, 2023, 2022 — Every Year)",
+      "Rank 9: Write a short note on nucleophilic substitution reactions in haloalkanes — SN1 and SN2 mechanisms with examples. - Haloalkanes and Haloarenes (5 marks, 2025, 2024, 2023, 2022 — Every Year)",
+      "Rank 10: What are electrophilic substitution reactions? Write electrophilic substitution reactions (halogenation, nitration, sulphonation) of chlorobenzene with chemical equations. - Haloalkanes and Haloarenes (5 marks, 2025, 2024, 2023, 2022)",
+      "Rank 11: Explain reactions of phenol: (i) Kolbe's reaction (ii) Reimer-Tiemann reaction (iii) Williamson ether synthesis. Give chemical equations for each. - Alcohols, Phenols and Ethers (5 marks, 2025, 2024, 2023, 2022)",
+      "Rank 12: Write chemical equations for dehydration reactions of primary, secondary and tertiary alcohols. Write mechanism of dehydration reaction of primary alcohol. - Alcohols, Phenols and Ethers (5 marks, 2025, 2024, 2023)",
+      "Rank 13: Write chemical equation for mechanisms of nucleophilic addition reaction in aldehydes and ketones by an example. OR Write short notes: (i) Rosenmund reduction (ii) Stephen reaction (iii) Gattermann-Koch reaction. - Aldehydes, Ketones and Carboxylic Acids (5 marks, 2025, 2024, 2023, 2022)",
+      "Rank 14: Write chemical equations for five methods of preparation of aldehydes/ketones. OR Write five chemical properties of carbonyl compounds. - Aldehydes, Ketones and Carboxylic Acids (5 marks, 2025, 2024, 2023)",
+      "Rank 15: Write short notes on: (i) Carbylamine reaction (ii) Hoffmann bromamide reaction (iii) Diazotisation (Schmidt reaction). - Amines (5 marks, 2025, 2024, 2023, 2022 — Every Year)",
+      "Rank 16: Write chemical equations of five chemical properties of amines OR Describe the method of identification of primary, secondary and tertiary amines with equations. - Amines (5 marks, 2025, 2024, 2023)",
+      "Rank 17: Write chemical equations of preparation of diazonium salt and write four chemical reactions of benzene diazonium chloride (Sandmeyer, coupling, etc.). - Amines (5 marks, 2025, 2024, 2023)",
+      "Rank 18: What are carbohydrates? Classify them and write their characteristics by giving examples (monosaccharides, oligosaccharides, polysaccharides). - Biomolecules (5 marks, 2025, 2024, 2023, 2022 — Every Year)",
+      "Rank 19: Define osmotic pressure. Establish expression for finding the molar mass of solute using osmotic pressure: M = wRT / pi*V. - Solutions (4 or 5 marks, 2025, 2024, 2023, 2022)",
+      "Rank 20: What is the importance of proteins in our food? What are the main sources? Explain secondary structure of proteins. What is denaturation of protein? - Biomolecules (5 marks, 2025, 2024)"
+    ]
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Chemistry — chemical equations prioritised over diagrams.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Direct formulas aur expressions fill in blank aur short answer mein puchhe jaate hain. Formula sheet exam mein allowed nahi.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "1",
+        "chapter_name": "Solutions",
+        "formulas": [
+          "Molarity: M = n/V(L) = (w × 1000) / (M_solute × V(mL))",
+          "Molality: m = (w × 1000) / (M_solute × W_solvent(g))",
+          "Mole fraction: χ_A = n_A / (n_A + n_B)",
+          "Elevation of BP: ΔT_b = K_b × m",
+          "Depression of FP: ΔT_f = K_f × m",
+          "Molar mass from FP depression: M₂ = (K_f × w₂ × 1000) / (ΔT_f × W₁)",
+          "Osmotic pressure: π = CRT = (n/V)RT",
+          "Molar mass from osmotic pressure: M = wRT / (πV)",
+          "Henry's law: p = K_H × χ_gas",
+          "Raoult's law: p_solution = χ_solvent × p°_solvent",
+          "Relative lowering of VP: (p° - p)/p° = χ_solute",
+          "Van't Hoff factor: i = (observed colligative property) / (calculated without dissociation)"
+        ]
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "Electrochemistry",
+        "formulas": [
+          "Nernst equation: E_cell = E°_cell - (0.0591/n) log Q  at 298K",
+          "ΔG° = -nFE°_cell",
+          "ΔG° = -RT ln K  →  log K = nE°/0.0591  at 298K",
+          "Molar conductance: Λ_m = (κ × 1000) / C(mol/L)  or  κ/C(mol/m³)",
+          "Kohlrausch's law: Λ°_m = Σν₊λ°₊ + Σν₋λ°₋",
+          "Faraday's first law: m = (M / nF) × I × t = (M × I × t) / (n × 96500)"
+        ]
+      },
+      {
+        "chapter_id": "3",
+        "chapter_name": "Chemical Kinetics",
+        "formulas": [
+          "Rate law: rate = k[A]^m [B]^n",
+          "First order integrated: k = (2.303/t) log [A]₀/[A]",
+          "First order half-life: t₁/₂ = 0.693/k",
+          "Zero order integrated: [A] = [A]₀ - kt",
+          "Zero order half-life: t₁/₂ = [A]₀/2k",
+          "Arrhenius equation: k = A × e^(-Ea/RT)",
+          "Arrhenius log form: log(k₂/k₁) = (Ea/2.303R)(1/T₁ - 1/T₂)",
+          "Plot: log k vs 1/T  →  slope = -Ea/2.303R"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Chemistry",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Chemistry",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 30,
+    "passing_marks": 10,
+    "practical_exam_separate": true,
+    "practical_exam_note": "Practical of 30 marks conducted separately. Separate passing required in theory (23/70) and practical (10/30).",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": true,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium to Difficult",
+    "note": "Medium to Difficult. 7 sets. Level almost same across sets.",
+    "easy_percent": 25,
+    "medium_percent": 50,
+    "hard_percent": 25,
+    "most_scoring_sections": [
+      "Easy to Medium — clear concepts needed. Some tricky options."
+    ],
+    "most_difficult_sections": [
+      "Moderate to Difficult — theoretical knowledge tested, equations must be given.",
+      "Moderate to Difficult — multi-part answers, includes numericals.",
+      "Moderate to Difficult — application-based, numericals, answered in parts (2+2 or 1+1+1+1).",
+      "Application-based — mostly organic chemistry — reaction and tests asked. Good grip on reactions needed."
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Chemical equations are compulsory wherever asked — every equation can fetch 1 mark individually",
+      "Q6 and Q7 (5 marks each) = 20 marks — prepare at least 8 standard organic reactions topics",
+      "OR choices in Q6-Q7: always pick the option you know MORE reactions/equations for",
+      "Organic chemistry dominates 5-mark questions — focus: haloalkanes, alcohols, phenols, amines, carboxylic acids",
+      "For mechanisms (SN1, SN2, aldol, nucleophilic addition) — draw the transition state or intermediate clearly",
+      "Numerical questions: always write 'Given:', 'Formula:', 'Calculation:', 'Answer with unit:'",
+      "For short notes (3 marks): write name + definition + chemical equation for each reaction",
+      "IUPAC nomenclature of coordination compounds — practice naming thoroughly — 2 marks per compound",
+      "Biomolecules: carbohydrates classification comes every year as 5-mark — must prepare",
+      "No negative marking — attempt ALL questions compulsorily",
+      "Give chemical equations wherever necessary — this instruction appears in every paper"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "Read all questions. Decide all OR choices in Q6 and Q7. Check which 4-mark part you can score best in Q5."
+      },
+      {
+        "section_id": "question_1_MCQ_10min",
+        "recommended_minutes": 5,
+        "note": "6 MCQs x 1.5 min. Write only the correct option letter. Do not waste time here."
+      },
+      {
+        "section_id": "question_2_3_two_marks_30min",
+        "recommended_minutes": 4,
+        "note": "8 questions x 3-4 min each. 4-6 lines answer. Write chemical equation wherever possible."
+      },
+      {
+        "section_id": "question_4_three_marks_35min",
+        "recommended_minutes": 9,
+        "note": "4 sub-questions x 8-9 min each. Include equations. Multi-part answers."
+      },
+      {
+        "section_id": "question_5_four_marks_40min",
+        "recommended_minutes": 10,
+        "note": "4 sub-questions x 10 min each. Application-based. Show steps in numericals."
+      },
+      {
+        "section_id": "question_6_7_five_marks_45min",
+        "recommended_minutes": 11,
+        "note": "4 long answers x 11 min each. Chemical equations compulsory. Write mechanism steps."
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "Check all chemical equations written. Balance missing equations. Check numerical units."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 23,
+        "strategy": "Q1 MCQ (6) + easy 2-mark questions from Solutions, Biomolecules (8-10) + 1-2 three-mark answers (3-6) = 17-22 marks. One good 5-mark organic answer = 5 bonus.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Q1 MCQ — attempt all 6 (no negative marking). Know: colligative properties, electrode potential, rate constant units, carbylamine test, vitamins.",
+          "2-mark questions: Raoult's law, molarity definition, explain Tollen's/Fehling's test, lanthanoid contraction, coordination number",
+          "3-mark: Factors affecting rate of reaction (concentration, temperature, catalyst) — comes every year",
+          "5-mark: Carbohydrates classification — straightforward, theory-based, every year"
+        ],
+        "chapters_to_skip_safely": [
+          "Complex numerical on Nernst equation",
+          "Mechanism of SN1/SN2 reactions if not prepared",
+          "CFT of coordination compounds"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "40_marks",
+        "target_marks": 40,
+        "strategy": "Q1 (6) + Q2-Q3 two-marks 6-7 questions (12-14) + Q4 three-marks 3-4 parts (9-12) + Q5 four-marks 2 parts (8) + Q6-Q7 one 5-mark answer (5) = 40-45.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Solutions: Raoult's law, osmotic pressure numerical, elevation of boiling point",
+          "Electrochemistry: molar conductivity numerical, Faraday's law numerical",
+          "Chemical kinetics: factors affecting rate (3 marks), first order numerical",
+          "d-f block: transition metal properties, lanthanoid contraction",
+          "5-mark organic: carbohydrates classification OR carbylamine/Hoffmann/Schmidt short notes"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "55_marks_plus",
+        "target_marks": 55,
+        "strategy": "Q1 (6) + Q2-Q3 full (16) + Q4 full (12) + Q5 full (16) + Q6-Q7 two 5-mark answers (10) = 60 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All 3-mark and 4-mark derivations prepared with equations",
+          "Organic chemistry 5-mark: prepare 5-6 standard long answers (SN1/SN2, phenol reactions, amine reactions, carbohydrates)",
+          "Numericals: Raoult's law, osmotic pressure, molar conductivity, Nernst equation, first order kinetics",
+          "Coordination: IUPAC names + VBT prepared"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "No separate internal assessment — 30 marks practical covers non-theory component.",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Chemistry Class 12 (Part I + Part II)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Base textbook. UP Board syllabus fully based on NCERT. All concepts, mechanisms and reactions are from NCERT. Must read once completely."
+      },
+      {
+        "name": "UP Board Chapterwise Question Bank — Chemistry Class 12",
+        "author": "",
+        "publisher": "Standard Publication",
+        "purpose": "Primary",
+        "note": "Chapterwise MCQ, 2-mark, 3-mark, 4-mark, 5-mark questions + 20 Most Important Questions + previous year papers 2020-2025 + model papers. Based on NEP 2020, latest 2025-26 syllabus."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "upmsp.edu.in",
+    "extra_time_given": false,
+    "extra_time_note": "3 hours 15 minutes (195 minutes)"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "question_number_note: Haan — har answer ke upar question number likhna zaroori hai. Examiner dhundhta hai. Nahi likha toh marks confusion ho sakta hai.",
+      "set_number_compulsory: True",
+      "set_number_note: Haan — apna set number (JS/JT/JU/JV/JW etc.) answer sheet ke cover page par compulsory likhna hota hai.",
+      "question_copy_compulsory: False",
+      "question_copy_note: Answer sheet mein poora question likhna zaroori nahi. Sirf question number likho aur answer shuru karo.",
+      "rough_work: Answer sheet ka last page rough work ke liye. Clearly ROUGH WORK likho. Rough work pe marks nahi milte lekin kaam aata hai.",
+      "supplementary_sheet: Supplementary sheet lene se marks nahi katenge. Zaroorat ho toh lo. Lekin unnecessary blank pages waste mat karo.",
+      "sequence_compulsory: False",
+      "sequence_note: Questions ka sequence follow karna zaroori nahi. Jo aata ho pehle karo. Lekin question number clearly likho.",
+      "last_to_first: Haan — paper last se bhi start kar sakte ho. Koi rule nahi ki sequence follow karo.",
+      "long_answer_position: Long answers (Section D aur E) hamesha paper ke last mein nahi hote. Jo bhi section easy lage pehle karo.",
+      "section_name_before_section: Section ka naam likhna compulsory nahi lekin recommended hai. Examiner ko navigate karna easy hota hai.",
+      "line_after_each_question: Zaroori nahi. Lekin do lines draw karne se answer clearly separate dikhta hai — good practice.",
+      "cutting_overwriting: Cuts se marks directly nahi katenge. Ek clean line se kato. Clean cutting acceptable hai.",
+      "short_before_long: Pehle short answers attempt karo phir long — marks nahi katenge. Jo bhi order suit kare.",
+      "sub_questions: Sub questions matlab ek question ke andar (a), (b), (c), (d) parts hote hain. Har part ke marks alag alag hote hain."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Blue pen se main answer, black se headings/underline. Ya sirf ek color bhi chalega."
+    },
+    "rough_work_rules": "Answer sheet ka last page rough work ke liye. Clearly ROUGH WORK likho. Rough work pe marks nahi milte lekin kaam aata hai.",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

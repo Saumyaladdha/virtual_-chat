@@ -1,0 +1,1894 @@
+{
+  "board": "MPBSE",
+  "class": "12",
+  "subject": "Business Studies (Vyavasay Adhyayan)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 80,
+    "practical_paper": 20,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 27,
+    "passing_marks_practical": 7,
+    "passing_marks_internal": 0,
+    "duration_minutes": 180,
+    "extra_time_given": true,
+    "extra_time_note": "Haan — 15 minute reading time milta hai. Is time mein paper padho, OR options mein se kaunsa attempt karoge decide karo.",
+    "internal_assessment_note": "Theory mein 80 mein se kam se kam 33% (≈27 marks) aur Project mein 20 mein se 33% (≈7 marks) laana zaroori hain. Dono mein alag-alag pass karna hoga."
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 23,
+    "total_questions_to_attempt": 23,
+    "total_objective_questions": 32,
+    "total_sets": 4,
+    "sets_note": "MP Board mein multiple sets hote hain (Set A, B, C, D). Har set mein same questions, sirf order alag. Hindi-English dono version mein paper aata hai.",
+    "sets_same_or_different": "2022 tak 100 marks aur 26 questions ka pattern tha. 2023 se aaj tak 80 marks + 23 questions + 20 project ka pattern hai. Ye JSON 80-mark current pattern par based hai.",
+    "language_of_attempt": "Hindi ya English dono allowed. Mixed bhi chalega. Agar Hindi-English mein discrepancy ho paper mein, toh Hindi version final mana jayega.",
+    "all_compulsory_note": "Q6 se Q23 tak SABHI questions mein internal choice (अथवा / OR) milta hai. Q1-Q5 (objective) mein koi choice nahi — sab compulsory.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "MP Board Business Studies ka syllabus NCERT par based hai. NCERT Part 1 (Principles & Functions of Management) + Part 2 (Business Finance & Marketing) sab solve karo. SBPD Publications aur Nageen Prakashan ki MP Board guides bhi helpful hain.",
+    "official_scheme_note": "Ch 2 (Principles of Management) aur Ch 5 (Organising) — dono se 4-mark questions almost har saal aate hain. | Q15/Q13 ke around Consumer Protection se 2-mark question almost guaranteed hai. Ch 12 (Consumer Protection) — rights, responsibilities, 2019 Act — zaroor prepare karo.",
+    "reference_books_note": "",
+    "prescribed_textbooks": [
+      "NCERT Business Studies Part 1",
+      "NCERT Business Studies Part 2"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "MP Board Class 12 BST mein 5 types of objective + 3 types of descriptive questions: MCQ/Fill/T-F/Match/One-word (1 mark each), Short (2), Medium (3), Long (4). Total = 80 marks.",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (Choose Correct Option)",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "Sirf correct option (a)/(b)/(c)/(d) likhna hai. No explanation needed. Time waste mat karo.",
+        "mostly_from": "Management levels, Fayol's principles count, first/last function of mgmt, elements of directing, marketing functions, Consumer Protection Act year, economic environment elements.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Fill in the Blanks",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "One word/term/year likhna hai. Spellings sahi honi chahiye.",
+        "mostly_from": "Planning function, organization types, training, leadership, controlling inter-related, promotion source, staffing related to, supervisory level.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "True / False",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 6,
+        "attempt": 6,
+        "negative_marking": false,
+        "how_to_attempt": "Sirf 'सत्य' (True) ya 'असत्य' (False) likhna hai. Conceptual clarity test hota hai.",
+        "mostly_from": "Planning intellectual, decentralization process, delegation direction, consumer rights, capital/marketing concepts, principles of management.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Match the Pairs",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 7,
+        "attempt": 7,
+        "negative_marking": false,
+        "how_to_attempt": "Column A ke har term ko Column B ke sahi definition/example se match karo. Numbers/letters clearly likho.",
+        "mostly_from": "Scientific mgmt, Fayol, functional structure, decentralization, stock exchange, SEBI HQ, budget, deviation, break-even point, working capital.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "One Word / One Sentence Answer",
+        "question_number": "",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 7,
+        "attempt": 7,
+        "negative_marking": false,
+        "how_to_attempt": "Ek word, ek phrase, ya ek sentence mein answer. Definition-type questions.",
+        "mostly_from": "Selection process type, first step of controlling, fixed capital assets, secondary market, consumer forum levels, campus recruitment, on-the-job training, globalization meaning.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "1-2 lines maximum",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer (2 marks)",
+        "question_number": "",
+        "section": "B",
+        "marks_each": 2,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "Definition + 1 point OR 2 points likho. Concise rahe. 2 marks = 2 clear points.",
+        "mostly_from": "Characteristics (mgmt, planning, organization, directing), meanings (privatization, demonetization, branding, budget, working capital), differences (rules vs policy, functional vs divisional, training vs development), importance points, advantages/disadvantages.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "30 words",
+        "notes": ""
+      },
+      {
+        "type": "Medium Answer (3 marks)",
+        "question_number": "",
+        "section": "C",
+        "marks_each": 3,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "3 marks = 3 points explain karo OR concept + 2 examples. Headings use karo.",
+        "mostly_from": "Top/lower level mgmt functions, coordination importance, recruitment vs selection, staffing importance, effective communication, Maslow's theory, financing decisions factors, selection process, controlling steps, Fayol principles, Planning-Controlling relationship.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "75 words",
+        "notes": ""
+      },
+      {
+        "type": "Long Answer (4 marks)",
+        "question_number": "",
+        "section": "D",
+        "marks_each": 4,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "4 marks = 4 points detailed OR process/comparison table. Har point ko example se explain karo.",
+        "mostly_from": "Management importance, Fayol's 14 principles, Taylor's scientific mgmt, Planning process/features, Organization objectives, Formal vs Informal org, Delegation importance, Marketing functions, Advertising vs Personal selling, External recruitment sources, Supervisor functions.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "120 words",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "MP Board BST theory paper = 80 marks. 23 questions. Duration: 3 hours (+ 15 min reading time). 4 sections + 32-mark objective section.",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Q6 se Q23 tak SABHI questions mein internal choice (अथवा / OR) milta hai. Q1-Q5 (objective) mein koi choice nahi — sab compulsory.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 45,
+      "medium_percent": 40,
+      "hard_percent": 15,
+      "note": "Business Studies commerce stream mein sabse scoring subject hai — conceptual clarity + presentation = 70+ marks easily."
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Objective (Q1 to Q5)",
+        "type": "MCQ (6) + Fill Blanks (6) + True/False (6) + Match (7) + One-word (7)",
+        "question_numbers": "",
+        "total_questions": 32,
+        "total_sub_questions": 5,
+        "attempt_required": 32,
+        "marks_per_question": 0,
+        "total_marks": 32,
+        "word_limit": "",
+        "breakdown": "MCQ_choose_correct_option: 6 marks (6 × 1); fill_in_blanks: 6 marks (6 × 1); true_false: 6 marks (6 × 1); match_the_pairs: 7 marks (7 × 1); one_word_sentence: 7 marks (7 × 1)",
+        "notes": "32 objective questions. Sab attempt karo. No negative marking. MCQ mein option letter hi likho, explanation nahi."
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Short Answer (Q6 to Q15)",
+        "type": "Short Answer",
+        "question_numbers": "",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "30",
+        "breakdown": "10 questions × 2 marks = 20 marks. Har question mein OR option. 30 shabd ki seema.",
+        "notes": "10 questions × 2 marks. Har question mein 'अथवा / OR' option. Easier alternative chuno. Concept + 1 point / 2 points."
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Medium Answer (Q16 to Q19)",
+        "type": "Medium Answer",
+        "question_numbers": "",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": "75",
+        "breakdown": "4 questions × 3 marks = 12 marks. 75 shabd ki seema. Concept + explanation + example.",
+        "notes": "4 questions × 3 marks. Har question mein OR option. 3 points / 3-step explanation karo."
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Long Answer (Q20 to Q23)",
+        "type": "Long Answer",
+        "question_numbers": "",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 4,
+        "total_marks": 16,
+        "word_limit": "120",
+        "breakdown": "4 questions × 4 marks = 16 marks. 120 shabd ki seema. Full explanation with points/differences/processes.",
+        "notes": "4 questions × 4 marks. Sabse zyada weightage. 4 points with explanation + example."
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 80,
+    "total_practical": 20,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "32 + 20 + 12 + 16 = 80 marks ✓ + 20 Project = 100",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Objective (Q1 to Q5)",
+        "question_numbers": "",
+        "type": "MCQ (6) + Fill Blanks (6) + True/False (6) + Match (7) + One-word (7)",
+        "total_questions": 32,
+        "total_sub_questions": 5,
+        "marks_per_question": 0,
+        "total_marks": 32,
+        "word_limit": "",
+        "breakdown": "MCQ_choose_correct_option: 6 marks (6 × 1); fill_in_blanks: 6 marks (6 × 1); true_false: 6 marks (6 × 1); match_the_pairs: 7 marks (7 × 1); one_word_sentence: 7 marks (7 × 1)"
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Short Answer (Q6 to Q15)",
+        "question_numbers": "",
+        "type": "Short Answer",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "30",
+        "breakdown": "10 questions × 2 marks = 20 marks. Har question mein OR option. 30 shabd ki seema."
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Medium Answer (Q16 to Q19)",
+        "question_numbers": "",
+        "type": "Medium Answer",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": "75",
+        "breakdown": "4 questions × 3 marks = 12 marks. 75 shabd ki seema. Concept + explanation + example."
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Long Answer (Q20 to Q23)",
+        "question_numbers": "",
+        "type": "Long Answer",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 16,
+        "word_limit": "120",
+        "breakdown": "4 questions × 4 marks = 16 marks. 120 shabd ki seema. Full explanation with points/differences/processes."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "MP Board Class 12 BST syllabus NCERT par based hai. Part A (Management — 8 ch) + Part B (Finance & Marketing — 4 ch). Ye estimates pichle 5 saal ke papers (2022-2026) ke analysis se hain. Exact marks har saal ±1-2 vary kar sakte hain.",
+    "total_theory_marks": 80,
+    "objective_percent": 40,
+    "subjective_percent": 60,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "5",
+      "name": "Organising",
+      "marks": 9,
+      "note": "Highest-weightage chapter (≈9 marks)"
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "12",
+        "name": "Consumer Protection",
+        "marks": 4
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Nature and Significance of Management",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "प्रबंध — प्रकृति एवं महत्व"
+      },
+      {
+        "chapter_id": "2",
+        "name": "Principles of Management",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "प्रबंध के सिद्धांत"
+      },
+      {
+        "chapter_id": "3",
+        "name": "Business Environment",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "व्यावसायिक परिवेश"
+      },
+      {
+        "chapter_id": "4",
+        "name": "Planning",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "नियोजन"
+      },
+      {
+        "chapter_id": "5",
+        "name": "Organising",
+        "marks": 9,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "संगठन"
+      },
+      {
+        "chapter_id": "6",
+        "name": "Staffing",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "नियुक्तिकरण"
+      },
+      {
+        "chapter_id": "7",
+        "name": "Directing",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "निर्देशन"
+      },
+      {
+        "chapter_id": "8",
+        "name": "Controlling",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "नियंत्रण"
+      },
+      {
+        "chapter_id": "9",
+        "name": "Financial Management",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "वित्तीय प्रबंध"
+      },
+      {
+        "chapter_id": "10",
+        "name": "Financial Markets",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "वित्तीय बाज़ार / पूँजी बाज़ार"
+      },
+      {
+        "chapter_id": "11",
+        "name": "Marketing Management",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "विपणन प्रबंध"
+      },
+      {
+        "chapter_id": "12",
+        "name": "Consumer Protection",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "उपभोक्ता संरक्षण"
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 32,
+      "two_mark_total": 20,
+      "three_mark_total": 12,
+      "four_mark_total": 16,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "MP Board Business Studies Class 12 — 12 chapters, NCERT-aligned.",
+    "books": [
+      {
+        "book_name": "NCERT Business Studies Part 1 & Part 2",
+        "category": "chapter",
+        "total_marks": 80,
+        "note": "Part 1 (Ch 1-8) = Principles & Functions of Management. Part 2 (Ch 9-12) = Business Finance & Marketing.",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Nature and Significance of Management",
+            "marks": 7,
+            "topics": [
+              "Management definition, concept, and characteristics",
+              "Management as Art, Science, and Profession",
+              "Levels of Management — Top, Middle, Lower (Supervisory)",
+              "Functions of Management — Planning, Organising, Staffing, Directing, Controlling",
+              "Coordination — essence of management, features, importance",
+              "Importance of Management"
+            ],
+            "note": "Hindi: प्रबंध — प्रकृति एवं महत्व | Difficulty: Easy"
+          },
+          {
+            "chapter_id": "2",
+            "name": "Principles of Management",
+            "marks": 8,
+            "topics": [
+              "Meaning and nature of principles of management",
+              "Fayol's 14 Principles — Division of work, Authority & Responsibility, Discipline, Unity of Command, Unity of Direction, Subordination of individual interest, Remuneration, Centralisation & Decentralisation, Scalar chain, Order, Equity, Stability of tenure, Initiative, Esprit de corps",
+              "Taylor's Scientific Management — Science not rule of thumb, Harmony not discord, Cooperation not individualism, Development of workers",
+              "Taylor's techniques — Functional foremanship, Standardisation, Simplification, Scientific study, Differential wage, Mental revolution",
+              "Fayol vs Taylor comparison"
+            ],
+            "note": "Hindi: प्रबंध के सिद्धांत | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "3",
+            "name": "Business Environment",
+            "marks": 6,
+            "topics": [
+              "Business environment — meaning and importance",
+              "Dimensions — Economic, Social, Political, Legal, Technological",
+              "Economic environment of India — features",
+              "New Economic Policy 1991 — Liberalisation, Privatisation, Globalisation (LPG)",
+              "Demonetisation and its impact",
+              "Impact of government policy changes on business"
+            ],
+            "note": "Hindi: व्यावसायिक परिवेश | Difficulty: Easy"
+          },
+          {
+            "chapter_id": "4",
+            "name": "Planning",
+            "marks": 8,
+            "topics": [
+              "Planning — concept, importance, features",
+              "Planning as intellectual process",
+              "Planning process — Setting objectives, Developing premises, Identifying alternatives, Evaluating, Selecting, Implementing, Follow-up",
+              "Types of plans — Objectives, Strategy, Policy, Procedure, Method, Rule, Budget, Programme",
+              "Limitations of planning",
+              "Policy vs Strategy, Rules vs Policy"
+            ],
+            "note": "Hindi: नियोजन | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "5",
+            "name": "Organising",
+            "marks": 9,
+            "topics": [
+              "Organising — meaning, steps, importance",
+              "Organisation structure — Functional vs Divisional",
+              "Formal vs Informal organisation",
+              "Delegation of authority — elements (Authority, Responsibility, Accountability), importance",
+              "Decentralisation — meaning, advantages, Delegation vs Decentralisation",
+              "Authority vs Responsibility"
+            ],
+            "note": "Hindi: संगठन | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "6",
+            "name": "Staffing",
+            "marks": 7,
+            "topics": [
+              "Staffing — meaning, importance, process",
+              "Recruitment — internal & external sources, advantages/disadvantages of each",
+              "Selection process — Preliminary screening, Tests, Interview, Medical, Reference check, Appointment",
+              "Training vs Development",
+              "Training methods — On-the-job, Off-the-job",
+              "Campus recruitment"
+            ],
+            "note": "Hindi: नियुक्तिकरण | Difficulty: Easy"
+          },
+          {
+            "chapter_id": "7",
+            "name": "Directing",
+            "marks": 7,
+            "topics": [
+              "Directing — meaning, importance, elements (Supervision, Motivation, Leadership, Communication)",
+              "Supervisor — role, functions",
+              "Motivation — financial vs non-financial incentives, importance",
+              "Maslow's Need Hierarchy Theory — Physiological, Safety, Social, Esteem, Self-actualization",
+              "Leadership — qualities of good leader, styles",
+              "Communication — formal vs informal, barriers to effective communication"
+            ],
+            "note": "Hindi: निर्देशन | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "8",
+            "name": "Controlling",
+            "marks": 6,
+            "topics": [
+              "Controlling — meaning, importance",
+              "Controlling process — Setting standards, Measuring performance, Comparing with standards, Taking corrective action",
+              "Planning-Controlling relationship (inseparable twins)",
+              "Limitations of controlling",
+              "Effective controlling system elements",
+              "Managerial audit"
+            ],
+            "note": "Hindi: नियंत्रण | Difficulty: Easy"
+          },
+          {
+            "chapter_id": "9",
+            "name": "Financial Management",
+            "marks": 6,
+            "topics": [
+              "Financial management — meaning, objectives, functions",
+              "Financial decisions — Investment (Capital budgeting), Financing, Dividend",
+              "Capital structure — meaning, factors affecting choice",
+              "Fixed capital vs Working capital",
+              "Factors affecting fixed capital & working capital requirements",
+              "Financial planning — meaning, importance, limitations"
+            ],
+            "note": "Hindi: वित्तीय प्रबंध | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "10",
+            "name": "Financial Markets",
+            "marks": 5,
+            "topics": [
+              "Financial market — meaning, functions",
+              "Money market vs Capital market",
+              "Primary market (New Issue Market) vs Secondary market (Stock Exchange)",
+              "Stock exchange — functions, BSE, NSE",
+              "SEBI — objectives, functions, purpose",
+              "Money market — central bank role"
+            ],
+            "note": "Hindi: वित्तीय बाज़ार / पूँजी बाज़ार | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "11",
+            "name": "Marketing Management",
+            "marks": 7,
+            "topics": [
+              "Marketing — meaning, features, functions",
+              "Marketing vs Selling",
+              "Marketing mix — 4Ps (Product, Price, Place, Promotion)",
+              "Product — Branding, Packaging, Labelling",
+              "Price determination — factors",
+              "Promotion — Advertising, Personal Selling, Sales Promotion, Public Relations",
+              "Advertising — media, advantages, objections",
+              "Physical distribution — components"
+            ],
+            "note": "Hindi: विपणन प्रबंध | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "12",
+            "name": "Consumer Protection",
+            "marks": 4,
+            "topics": [
+              "Consumer — meaning as per Consumer Protection Act 2019",
+              "Consumer Protection Act 2019 — features, objectives",
+              "Importance of consumer protection",
+              "Consumer rights (6 rights under Kennedy / CPA) — Safety, Information, Choice, Hearing, Redressal, Consumer Education",
+              "Consumer responsibilities",
+              "Redressal machinery — District Consumer Commission, State Commission, National Commission (3 levels)",
+              "Role of consumer organisations, NGOs"
+            ],
+            "note": "Hindi: उपभोक्ता संरक्षण | Difficulty: Easy"
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Nature and Significance of Management",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part 1 & Part 2",
+      "unit_id": 1,
+      "unit_name": "Nature and Significance of Management",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "Mgmt characteristics — pure theory, easy",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "'Management ki koi do/char visheshtayen likhiye' — almost every year short answer.",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": true,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "प्रबंध — प्रकृति एवं महत्व",
+      "important_topics": [
+        "Management definition, concept, and characteristics",
+        "Management as Art, Science, and Profession",
+        "Levels of Management — Top, Middle, Lower (Supervisory)",
+        "Functions of Management — Planning, Organising, Staffing, Directing, Controlling",
+        "Coordination — essence of management, features, importance",
+        "Importance of Management"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "'Management ki koi do/char visheshtayen likhiye' — almost every year short answer."
+      ],
+      "previous_year_questions": [],
+      "frequently_asked": "First function of mgmt (MCQ — Planning), Mgmt characteristics (2M), Top/Lower level functions (3M), Mgmt importance (4M), Mgmt art or science (4M), Coordination features/importance (3-4M).",
+      "hindi_name": "प्रबंध — प्रकृति एवं महत्व",
+      "key_mcq_answers": [
+        "First function of management: Planning (नियोजन)",
+        "Last function of management: Controlling (नियंत्रण)",
+        "Levels of management: Three (Top, Middle, Lower)"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "First function of management: Planning (नियोजन)",
+        "Last function of management: Controlling (नियंत्रण)",
+        "Levels of management: Three (Top, Middle, Lower)"
+      ]
+    },
+    {
+      "chapter_id": 2,
+      "name": "Principles of Management",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part 1 & Part 2",
+      "unit_id": 2,
+      "unit_name": "Principles of Management",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Fayol 14 + Taylor principles yaad karne hain",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "'Fayol dwara pratipadit char siddhant likhiye' — 4-mark question very frequent.",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "प्रबंध के सिद्धांत",
+      "important_topics": [
+        "Meaning and nature of principles of management",
+        "Fayol's 14 Principles — Division of work, Authority & Responsibility, Discipline, Unity of Command, Unity of Direction, Subordination of individual interest, Remuneration, Centralisation & Decentralisation, Scalar chain, Order, Equity, Stability of tenure, Initiative, Esprit de corps",
+        "Taylor's Scientific Management — Science not rule of thumb, Harmony not discord, Cooperation not individualism, Development of workers",
+        "Taylor's techniques — Functional foremanship, Standardisation, Simplification, Scientific study, Differential wage, Mental revolution",
+        "Fayol vs Taylor comparison"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "'Fayol dwara pratipadit char siddhant likhiye' — 4-mark question very frequent."
+      ],
+      "previous_year_questions": [],
+      "frequently_asked": "Fayol's 14 principles (4M — 'any four'), Taylor's scientific mgmt principles (3-4M), Mental revolution/Differential wage (short), Unity of command vs direction (3M), Fayol-Taylor similarities/differences (4M), Principles characteristics (2M).",
+      "hindi_name": "प्रबंध के सिद्धांत",
+      "key_mcq_answers": [
+        "Father of Scientific Management: F.W. Taylor",
+        "Father of Modern/General Management: Henri Fayol",
+        "Number of Fayol's principles: 14",
+        "Book by Fayol: General and Industrial Management",
+        "Book by Taylor: Principles of Scientific Management"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "Father of Scientific Management: F.W. Taylor",
+        "Father of Modern/General Management: Henri Fayol",
+        "Number of Fayol's principles: 14",
+        "Book by Fayol: General and Industrial Management",
+        "Book by Taylor: Principles of Scientific Management"
+      ]
+    },
+    {
+      "chapter_id": 3,
+      "name": "Business Environment",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part 1 & Part 2",
+      "unit_id": 3,
+      "unit_name": "Business Environment",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "LPG + economic environment — scoring",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "'Vaishwikaran/Udarikaran/Nijikaran se kya aashay hai?' — har saal aata hai.",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": true,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "व्यावसायिक परिवेश",
+      "important_topics": [
+        "Business environment — meaning and importance",
+        "Dimensions — Economic, Social, Political, Legal, Technological",
+        "Economic environment of India — features",
+        "New Economic Policy 1991 — Liberalisation, Privatisation, Globalisation (LPG)",
+        "Demonetisation and its impact",
+        "Impact of government policy changes on business"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "'Vaishwikaran/Udarikaran/Nijikaran se kya aashay hai?' — har saal aata hai."
+      ],
+      "previous_year_questions": [],
+      "frequently_asked": "Business environment characteristics/meaning (2M), LPG definitions (2M each), Demonetization impacts (2M), Economic environment of India (2-3M), Technological environment (2M), Emotional environment as part of business env (T/F).",
+      "hindi_name": "व्यावसायिक परिवेश",
+      "key_mcq_answers": [
+        "New Economic Policy of India: 1991",
+        "Components of business environment: Economic, Social, Political, Legal, Technological"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "New Economic Policy of India: 1991",
+        "Components of business environment: Economic, Social, Political, Legal, Technological"
+      ]
+    },
+    {
+      "chapter_id": 4,
+      "name": "Planning",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part 1 & Part 2",
+      "unit_id": 4,
+      "unit_name": "Planning",
+      "weightage_marks": 8,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Planning process steps zaroori",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "'Niyojan ki char visheshtayen/prakriyayen likhiye' — 4-mark question guaranteed.",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "नियोजन",
+      "important_topics": [
+        "Planning — concept, importance, features",
+        "Planning as intellectual process",
+        "Planning process — Setting objectives, Developing premises, Identifying alternatives, Evaluating, Selecting, Implementing, Follow-up",
+        "Types of plans — Objectives, Strategy, Policy, Procedure, Method, Rule, Budget, Programme",
+        "Limitations of planning",
+        "Policy vs Strategy, Rules vs Policy"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "'Niyojan ki char visheshtayen/prakriyayen likhiye' — 4-mark question guaranteed."
+      ],
+      "previous_year_questions": [],
+      "frequently_asked": "Planning features/characteristics (2-4M), Planning objectives (2M), Planning process 4 steps (4M), Policy vs Strategy (4M), Rules vs Policy (2M), Planning limitations (4M), Strategy meaning (2M), Budget meaning (2M), Programme meaning (2M), Planning-Controlling relationship (3M).",
+      "hindi_name": "नियोजन",
+      "key_mcq_answers": [
+        "First step of planning: Setting objectives",
+        "Rigid instructions in planning: Rules (नियम)"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "First step of planning: Setting objectives",
+        "Rigid instructions in planning: Rules (नियम)"
+      ]
+    },
+    {
+      "chapter_id": 5,
+      "name": "Organising",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part 1 & Part 2",
+      "unit_id": 5,
+      "unit_name": "Organising",
+      "weightage_marks": 9,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Highest marks chapter — depth se prepare karo",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "'Aupcharik evam anaupcharik sangathan mein antar' — 3-4 mark question appears EVERY year.",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "संगठन",
+      "important_topics": [
+        "Organising — meaning, steps, importance",
+        "Organisation structure — Functional vs Divisional",
+        "Formal vs Informal organisation",
+        "Delegation of authority — elements (Authority, Responsibility, Accountability), importance",
+        "Decentralisation — meaning, advantages, Delegation vs Decentralisation",
+        "Authority vs Responsibility"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "'Aupcharik evam anaupcharik sangathan mein antar' — 3-4 mark question appears EVERY year."
+      ],
+      "previous_year_questions": [],
+      "frequently_asked": "Organisation meaning/importance (2M), Formal vs Informal org differences (4M — VERY frequent), Functional vs Divisional structure (2-4M), Delegation of authority meaning/importance (2-4M), Decentralisation meaning/advantages (2M), Delegation vs Decentralisation (4M), Authority vs Responsibility (3M), Organisation objectives (4M).",
+      "hindi_name": "संगठन",
+      "key_mcq_answers": [
+        "Organisation with written rules: Formal organisation",
+        "Organisation with rumours/grapevine: Informal organisation",
+        "Delegation from: Top to bottom"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "Organisation with written rules: Formal organisation",
+        "Organisation with rumours/grapevine: Informal organisation",
+        "Delegation from: Top to bottom"
+      ]
+    },
+    {
+      "chapter_id": 6,
+      "name": "Staffing",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part 1 & Part 2",
+      "unit_id": 6,
+      "unit_name": "Staffing",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "Recruitment/Selection straightforward",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "'Bharti aur chayan mein antar' — 3-mark question frequent.",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": true,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "नियुक्तिकरण",
+      "important_topics": [
+        "Staffing — meaning, importance, process",
+        "Recruitment — internal & external sources, advantages/disadvantages of each",
+        "Selection process — Preliminary screening, Tests, Interview, Medical, Reference check, Appointment",
+        "Training vs Development",
+        "Training methods — On-the-job, Off-the-job",
+        "Campus recruitment"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "'Bharti aur chayan mein antar' — 3-mark question frequent."
+      ],
+      "previous_year_questions": [],
+      "frequently_asked": "Recruitment internal sources (2M), Recruitment external sources (2-4M), Recruitment vs Selection differences (3M), Selection process steps (3M), Training vs Development (2M), Training characteristics (2M), Staffing importance (3M), Staffing process (3M), Campus recruitment (1M — one-word), On-the-job training (1M).",
+      "hindi_name": "नियुक्तिकरण",
+      "key_mcq_answers": [
+        "Employment exchange is a source of: External recruitment",
+        "Promotion is a source of: Internal recruitment",
+        "Recruitment in academic institutions: Campus recruitment",
+        "Training given at workplace: On-the-job training"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "Employment exchange is a source of: External recruitment",
+        "Promotion is a source of: Internal recruitment",
+        "Recruitment in academic institutions: Campus recruitment",
+        "Training given at workplace: On-the-job training"
+      ]
+    },
+    {
+      "chapter_id": 7,
+      "name": "Directing",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part 1 & Part 2",
+      "unit_id": 7,
+      "unit_name": "Directing",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Maslow theory + leader qualities important",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "'Achhe neta ke gun' OR 'Abhiprerna ka mahatva' — 3-mark question repeats.",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "निर्देशन",
+      "important_topics": [
+        "Directing — meaning, importance, elements (Supervision, Motivation, Leadership, Communication)",
+        "Supervisor — role, functions",
+        "Motivation — financial vs non-financial incentives, importance",
+        "Maslow's Need Hierarchy Theory — Physiological, Safety, Social, Esteem, Self-actualization",
+        "Leadership — qualities of good leader, styles",
+        "Communication — formal vs informal, barriers to effective communication"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "'Achhe neta ke gun' OR 'Abhiprerna ka mahatva' — 3-mark question repeats."
+      ],
+      "previous_year_questions": [],
+      "frequently_asked": "Directing characteristics/elements (2M), Motivation meaning/definition (2M), Maslow's need hierarchy (3M), Good leader qualities (3M), Motivation importance (3M), Communication barriers (4M), Financial vs Non-financial motivation (3M), Supervisor functions (4M), Formal vs Informal communication (2M), Principles of directing (3M), Effective communication improvements (3M).",
+      "hindi_name": "निर्देशन",
+      "key_mcq_answers": [
+        "Group leader of workers: Supervisor",
+        "Supervisory management level: Lower level"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "Group leader of workers: Supervisor",
+        "Supervisory management level: Lower level"
+      ]
+    },
+    {
+      "chapter_id": 8,
+      "name": "Controlling",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part 1 & Part 2",
+      "unit_id": 8,
+      "unit_name": "Controlling",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "Controlling process + planning-controlling link",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "'Niyojan evam niyantran ek doosre ke poorak hain' explain — 3-mark question frequent.",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "नियंत्रण",
+      "important_topics": [
+        "Controlling — meaning, importance",
+        "Controlling process — Setting standards, Measuring performance, Comparing with standards, Taking corrective action",
+        "Planning-Controlling relationship (inseparable twins)",
+        "Limitations of controlling",
+        "Effective controlling system elements",
+        "Managerial audit"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "'Niyojan evam niyantran ek doosre ke poorak hain' explain — 3-mark question frequent."
+      ],
+      "previous_year_questions": [],
+      "frequently_asked": "Controlling meaning (2M), Controlling limitations (2-3M), Controlling importance (3M), Controlling process steps (3M), Planning-Controlling relationship (3M), Effective controlling system elements (3M), Controlling objectives (3M), Management audit (1M), First step of controlling = setting standards (1M — one-word).",
+      "hindi_name": "नियंत्रण",
+      "key_mcq_answers": [
+        "First step of controlling: Setting standards / Establishment of standards",
+        "Controlling corrective action: Deviation analysis"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "First step of controlling: Setting standards / Establishment of standards",
+        "Controlling corrective action: Deviation analysis"
+      ]
+    },
+    {
+      "chapter_id": 9,
+      "name": "Financial Management",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part 1 & Part 2",
+      "unit_id": 9,
+      "unit_name": "Financial Management",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Fixed/Working capital concepts clear karo",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "'Vitteeya niyojan ka mahatva' OR 'Sthai punji vs karyasheel punji' — 3-4 mark frequent.",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "वित्तीय प्रबंध",
+      "important_topics": [
+        "Financial management — meaning, objectives, functions",
+        "Financial decisions — Investment (Capital budgeting), Financing, Dividend",
+        "Capital structure — meaning, factors affecting choice",
+        "Fixed capital vs Working capital",
+        "Factors affecting fixed capital & working capital requirements",
+        "Financial planning — meaning, importance, limitations"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "'Vitteeya niyojan ka mahatva' OR 'Sthai punji vs karyasheel punji' — 3-4 mark frequent."
+      ],
+      "previous_year_questions": [],
+      "frequently_asked": "Financial management meaning (2M), Financial management objectives (2-3M), Functions of financial mgmt (4M), Fixed capital meaning & sources (3M), Fixed vs Working capital differences (4M), Capital structure factors (3M), Financing decisions factors (3M), Capital budgeting factors (2M), Working capital meaning (2M), Financial planning importance (3-4M), Financial planning limitations (3M), Budget (2M).",
+      "hindi_name": "वित्तीय प्रबंध",
+      "key_mcq_answers": [
+        "Capital used for fixed assets: Fixed capital",
+        "Capital used for raw materials: Working capital",
+        "Life blood of business: Capital / Finance"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "Capital used for fixed assets: Fixed capital",
+        "Capital used for raw materials: Working capital",
+        "Life blood of business: Capital / Finance"
+      ]
+    },
+    {
+      "chapter_id": 10,
+      "name": "Financial Markets",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part 1 & Part 2",
+      "unit_id": 10,
+      "unit_name": "Financial Markets",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "SEBI + Primary/Secondary market comparisons",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "'SEBI ke kary' OR 'Prathamik evam dwitiyak bazar mein antar' — 3-mark very frequent.",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "वित्तीय बाज़ार / पूँजी बाज़ार",
+      "important_topics": [
+        "Financial market — meaning, functions",
+        "Money market vs Capital market",
+        "Primary market (New Issue Market) vs Secondary market (Stock Exchange)",
+        "Stock exchange — functions, BSE, NSE",
+        "SEBI — objectives, functions, purpose",
+        "Money market — central bank role"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "'SEBI ke kary' OR 'Prathamik evam dwitiyak bazar mein antar' — 3-mark very frequent."
+      ],
+      "previous_year_questions": [],
+      "frequently_asked": "Stock exchange functions (3M), Primary vs Secondary market (3M), SEBI objectives/functions (3M), Money market vs Capital market (3M), Financial market functions (3M), Secondary market = Stock exchange (1M), SEBI HQ = Mumbai (match), Security market controlled by SEBI (1M).",
+      "hindi_name": "वित्तीय बाज़ार / पूँजी बाज़ार",
+      "key_mcq_answers": [
+        "Main axis of money market: Central Bank (RBI)",
+        "Secondary market also called: Stock Exchange",
+        "Security market controlled by: SEBI",
+        "SEBI headquarters: Mumbai",
+        "BSE full form: Bombay Stock Exchange"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "Main axis of money market: Central Bank (RBI)",
+        "Secondary market also called: Stock Exchange",
+        "Security market controlled by: SEBI",
+        "SEBI headquarters: Mumbai",
+        "BSE full form: Bombay Stock Exchange"
+      ]
+    },
+    {
+      "chapter_id": 11,
+      "name": "Marketing Management",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part 1 & Part 2",
+      "unit_id": 11,
+      "unit_name": "Marketing Management",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "Medium",
+      "difficulty_reason": "Marketing vs Selling — 4-mark guaranteed",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "'Vipnan evam vikray mein antar' (Marketing vs Selling) — 4-mark question appears almost every year.",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": false,
+      "note": "विपणन प्रबंध",
+      "important_topics": [
+        "Marketing — meaning, features, functions",
+        "Marketing vs Selling",
+        "Marketing mix — 4Ps (Product, Price, Place, Promotion)",
+        "Product — Branding, Packaging, Labelling",
+        "Price determination — factors",
+        "Promotion — Advertising, Personal Selling, Sales Promotion, Public Relations",
+        "Advertising — media, advantages, objections",
+        "Physical distribution — components"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "'Vipnan evam vikray mein antar' (Marketing vs Selling) — 4-mark question appears almost every year."
+      ],
+      "previous_year_questions": [],
+      "frequently_asked": "Marketing meaning/functions (2-4M), Marketing vs Selling (4M — VERY frequent), Branding meaning/characteristics (2M), Packaging functions (2M), Labelling functions (2M), Advertising media (4M), Advertising advantages (3-4M), Advertising vs Personal selling (4M), Sales promotion methods (4M), Public relations roles (4M), Price determination factors (2M), Physical distribution components (2M), Eco-mark scheme (2M).",
+      "hindi_name": "विपणन प्रबंध",
+      "key_mcq_answers": [
+        "Identification of product established by: Branding",
+        "Protection to product provided by: Packaging",
+        "Personal contact with customer: Personal Selling",
+        "Short-term technique to boost sales: Sales Promotion",
+        "Written/printed/spoken/graphic salesmanship: Advertising",
+        "Free sample distribution is technique of: Sales Promotion"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "Identification of product established by: Branding",
+        "Protection to product provided by: Packaging",
+        "Personal contact with customer: Personal Selling",
+        "Short-term technique to boost sales: Sales Promotion",
+        "Written/printed/spoken/graphic salesmanship: Advertising",
+        "Free sample distribution is technique of: Sales Promotion"
+      ]
+    },
+    {
+      "chapter_id": 12,
+      "name": "Consumer Protection",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Business Studies Part 1 & Part 2",
+      "unit_id": 12,
+      "unit_name": "Consumer Protection",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "Easy",
+      "difficulty_reason": "Consumer rights list — easy scoring",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "'Upbhokta ke adhikar/uttardaitva' — 2-mark question guaranteed EVERY year.",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": true,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "उपभोक्ता संरक्षण",
+      "important_topics": [
+        "Consumer — meaning as per Consumer Protection Act 2019",
+        "Consumer Protection Act 2019 — features, objectives",
+        "Importance of consumer protection",
+        "Consumer rights (6 rights under Kennedy / CPA) — Safety, Information, Choice, Hearing, Redressal, Consumer Education",
+        "Consumer responsibilities",
+        "Redressal machinery — District Consumer Commission, State Commission, National Commission (3 levels)",
+        "Role of consumer organisations, NGOs"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "'Upbhokta ke adhikar/uttardaitva' — 2-mark question guaranteed EVERY year."
+      ],
+      "previous_year_questions": [],
+      "frequently_asked": "Consumer Protection Act year = 2019 (MCQ), Consumer rights — any 2 (2M), Consumer responsibilities (2M), Consumer problems (2M), Consumer definition as per CPA 2019 (2M), Importance of consumer protection (2M), Consumer forum levels = 3 (1M one-word), District Consumer Commission complaint value limit (1M), Ways of consumer protection (2M), Why was CPA enforced (2M), Eco-mark scheme (2M).",
+      "hindi_name": "उपभोक्ता संरक्षण",
+      "key_mcq_answers": [
+        "Consumer Protection Act year: 2019 (replaced 1986 Act)",
+        "Levels of consumer forum: Three (District, State, National)",
+        "District Consumer Commission limit: Up to ₹1 crore (as per 2019 Act)",
+        "Kennedy's consumer rights (1962): 4 rights — Safety, Information, Choice, Hearing",
+        "Total consumer rights under CPA: 6 rights"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": [
+        "Consumer Protection Act year: 2019 (replaced 1986 Act)",
+        "Levels of consumer forum: Three (District, State, National)",
+        "District Consumer Commission limit: Up to ₹1 crore (as per 2019 Act)",
+        "Kennedy's consumer rights (1962): 4 rights — Safety, Information, Choice, Hearing",
+        "Total consumer rights under CPA: 6 rights"
+      ]
+    }
+  ],
+  "chapter_facts": {
+    "note": "Ch 5 — Organising (≈9 marks) — Formal/Informal, Functional/Divisional, Delegation, Decentralisation se questions har jagah. | Ch 5 aur Ch 6 (Staffing) combined = 16 marks — almost 20% paper. Thoroughly prepare karo.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "All 12 chapters covered by blueprint.",
+    "or_questions_note": "Internal OR choice in Q6-Q23 (Sections B, C, D). Q1-Q5 (objective) no choice.",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Ch 5 - Organising",
+      "Ch 2 - Principles of Management",
+      "Ch 4 - Planning",
+      "Ch 11 - Marketing Management",
+      "Ch 1 - Nature and Significance of Management",
+      "Ch 7 - Directing"
+    ],
+    "chapters_never_skip_reason": "Ch 5 aur Ch 6 (Staffing) combined = 16 marks — almost 20% paper. Thoroughly prepare karo.",
+    "chapters_with_highest_weightage": [
+      "Ch 5 — Organising (≈9 marks) — Formal/Informal, Functional/Divisional, Delegation, Decentralisation se questions har jagah.",
+      "Ch 2 — Principles of Management (≈8 marks) aur Ch 4 — Planning (≈8 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "Ch 12 — Consumer Protection (≈4 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "First function of management (Planning) (Section A (MCQ), 1 marks, Ch 1)",
+      "Management characteristics (2 likho) (Section B, 2 marks, Ch 1)",
+      "Fayol's 14 principles — 'any four' (Section D, 4 marks, Ch 2)",
+      "Liberalisation / Privatisation / Globalisation meaning (Section B, 2 marks, Ch 3)",
+      "Planning features / process / objectives (Section B or D, 2-4 marks, Ch 4)",
+      "Formal vs Informal organisation differences (Section D, 4 marks, Ch 5)",
+      "Functional vs Divisional structure (Section B or D, 2-4 marks, Ch 5)",
+      "Delegation vs Decentralisation (Section D, 4 marks, Ch 5)",
+      "Recruitment internal vs external sources (Section B or D, 2-4 marks, Ch 6)",
+      "Recruitment vs Selection differences (Section C, 3 marks, Ch 6)",
+      "Qualities of good leader (Section C, 3 marks, Ch 7)",
+      "Maslow's need hierarchy (Section C, 3 marks, Ch 7)",
+      "Controlling steps / limitations (Section C, 3 marks, Ch 8)",
+      "Planning-Controlling inseparable relationship (Section C, 3 marks, Ch 8)",
+      "Fixed vs Working capital (Section D, 4 marks, Ch 9)",
+      "Financial planning importance (Section C or D, 3-4 marks, Ch 9)",
+      "SEBI functions / objectives (Section C, 3 marks, Ch 10)",
+      "Primary vs Secondary market (Section C, 3 marks, Ch 10)",
+      "Marketing vs Selling (Section D, 4 marks, Ch 11)",
+      "Advertising advantages / media (Section D, 4 marks, Ch 11)",
+      "Consumer rights (any 2) (Section B, 2 marks, Ch 12)",
+      "Consumer Protection Act year (2019) (Section A (MCQ), 1 marks, Ch 12)"
+    ],
+    "chapters_mostly_theory": [
+      "Ch 1 - Nature and Significance of Management",
+      "Ch 2 - Principles of Management",
+      "Ch 3 - Business Environment",
+      "Ch 4 - Planning",
+      "Ch 5 - Organising",
+      "Ch 6 - Staffing",
+      "Ch 7 - Directing",
+      "Ch 8 - Controlling",
+      "Ch 11 - Marketing Management",
+      "Ch 12 - Consumer Protection"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [
+      "Ch 1 - Nature and Significance of Management",
+      "Ch 2 - Principles of Management",
+      "Ch 3 - Business Environment",
+      "Ch 12 - Consumer Protection"
+    ],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [
+      "Ch 9 - Financial Management",
+      "Ch 10 - Financial Markets"
+    ],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "First function of management (Planning) (Section A (MCQ), 1 marks, Ch 1)",
+      "Management characteristics (2 likho) (Section B, 2 marks, Ch 1)",
+      "Fayol's 14 principles — 'any four' (Section D, 4 marks, Ch 2)",
+      "Liberalisation / Privatisation / Globalisation meaning (Section B, 2 marks, Ch 3)",
+      "Planning features / process / objectives (Section B or D, 2-4 marks, Ch 4)",
+      "Formal vs Informal organisation differences (Section D, 4 marks, Ch 5)",
+      "Functional vs Divisional structure (Section B or D, 2-4 marks, Ch 5)",
+      "Delegation vs Decentralisation (Section D, 4 marks, Ch 5)",
+      "Recruitment internal vs external sources (Section B or D, 2-4 marks, Ch 6)",
+      "Recruitment vs Selection differences (Section C, 3 marks, Ch 6)",
+      "Qualities of good leader (Section C, 3 marks, Ch 7)",
+      "Maslow's need hierarchy (Section C, 3 marks, Ch 7)",
+      "Controlling steps / limitations (Section C, 3 marks, Ch 8)",
+      "Planning-Controlling inseparable relationship (Section C, 3 marks, Ch 8)",
+      "Fixed vs Working capital (Section D, 4 marks, Ch 9)",
+      "Financial planning importance (Section C or D, 3-4 marks, Ch 9)",
+      "SEBI functions / objectives (Section C, 3 marks, Ch 10)",
+      "Primary vs Secondary market (Section C, 3 marks, Ch 10)",
+      "Marketing vs Selling (Section D, 4 marks, Ch 11)",
+      "Advertising advantages / media (Section D, 4 marks, Ch 11)",
+      "Consumer rights (any 2) (Section B, 2 marks, Ch 12)",
+      "Consumer Protection Act year (2019) (Section A (MCQ), 1 marks, Ch 12)"
+    ],
+    "one_mark_question_facts": {
+      "note": "Section A = 32 objective questions (MCQ 6 + Fill 6 + T/F 6 + Match 7 + One-word 7). No negative marking.",
+      "common_formats": [
+        "MCQ",
+        "Fill in the Blanks",
+        "True/False",
+        "Match the Pairs",
+        "One Word/Sentence"
+      ]
+    },
+    "key_concepts_masterlist": [
+      "Ch 1: First function of management = Planning (नियोजन)",
+      "Ch 1: Last function of management = Controlling (नियंत्रण)",
+      "Ch 1: Levels of management = Three (Top, Middle, Lower)",
+      "Ch 2: Father of Scientific Management = F.W. Taylor",
+      "Ch 2: Father of Modern/General Management = Henri Fayol",
+      "Ch 2: Number of Fayol's principles = 14",
+      "Ch 2: Book by Fayol = General and Industrial Management",
+      "Ch 2: Book by Taylor = Principles of Scientific Management",
+      "Ch 3: New Economic Policy of India = 1991",
+      "Ch 3: Components of business environment = Economic, Social, Political, Legal, Technological",
+      "Ch 4: First step of planning = Setting objectives",
+      "Ch 4: Rigid instructions in planning = Rules (नियम)",
+      "Ch 5: Organisation with written rules = Formal organisation",
+      "Ch 5: Organisation with rumours/grapevine = Informal organisation",
+      "Ch 5: Delegation from = Top to bottom",
+      "Ch 6: Employment exchange is a source of = External recruitment",
+      "Ch 6: Promotion is a source of = Internal recruitment",
+      "Ch 6: Recruitment in academic institutions = Campus recruitment",
+      "Ch 6: Training given at workplace = On-the-job training",
+      "Ch 7: Group leader of workers = Supervisor",
+      "Ch 7: Supervisory management level = Lower level",
+      "Ch 8: First step of controlling = Setting standards / Establishment of standards",
+      "Ch 8: Controlling corrective action = Deviation analysis",
+      "Ch 9: Capital used for fixed assets = Fixed capital",
+      "Ch 9: Capital used for raw materials = Working capital",
+      "Ch 9: Life blood of business = Capital / Finance",
+      "Ch 10: Main axis of money market = Central Bank (RBI)",
+      "Ch 10: Secondary market also called = Stock Exchange",
+      "Ch 10: Security market controlled by = SEBI",
+      "Ch 10: SEBI headquarters = Mumbai",
+      "Ch 10: BSE full form = Bombay Stock Exchange",
+      "Ch 11: Identification of product established by = Branding",
+      "Ch 11: Protection to product provided by = Packaging",
+      "Ch 11: Personal contact with customer = Personal Selling",
+      "Ch 11: Short-term technique to boost sales = Sales Promotion",
+      "Ch 11: Written/printed/spoken/graphic salesmanship = Advertising",
+      "Ch 11: Free sample distribution is technique of = Sales Promotion",
+      "Ch 12: Consumer Protection Act year = 2019 (replaced 1986 Act)",
+      "Ch 12: Levels of consumer forum = Three (District, State, National)",
+      "Ch 12: District Consumer Commission limit = Up to ₹1 crore (as per 2019 Act)",
+      "Ch 12: Kennedy's consumer rights (1962) = 4 rights — Safety, Information, Choice, Hearing",
+      "Ch 12: Total consumer rights under CPA = 6 rights"
+    ]
+  },
+  "important_diagrams_masterlist": {
+    "note": "Business Studies — no biological/physics diagrams. Organisation charts (formal/informal/hierarchy), Maslow pyramid, SEBI structure are common tables/diagrams.",
+    "must_practise": [
+      {
+        "chapter_id": "5",
+        "chapter_name": "Organising",
+        "diagram_name": "Formal vs Informal organisation chart",
+        "note": "Tabular comparison"
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Organising",
+        "diagram_name": "Functional vs Divisional structure",
+        "note": "Org chart"
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Directing",
+        "diagram_name": "Maslow's hierarchy of needs pyramid",
+        "note": "5 levels"
+      },
+      {
+        "chapter_id": "10",
+        "chapter_name": "Financial Markets",
+        "diagram_name": "SEBI organisational structure",
+        "note": ""
+      },
+      {
+        "chapter_id": "11",
+        "chapter_name": "Marketing Management",
+        "diagram_name": "Marketing Mix (4 Ps)",
+        "note": "Product, Price, Place, Promotion"
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Not applicable for Business Studies — minimal formulas. Financial Management (Ch 9) has fixed/working capital concepts.",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Business Studies",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Business Studies",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 20,
+    "passing_marks": 7,
+    "practical_exam_separate": true,
+    "practical_exam_note": "Project work of 20 marks evaluated at school level. Separate passing required (33% = 7 marks).",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": true,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": true,
+    "experiment_choice_note": "Students choose project topic from a list of NCERT-suggested projects.",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": "Project report"
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Easy-Medium",
+    "note": "Business Studies commerce stream mein sabse scoring subject hai — conceptual clarity + presentation = 70+ marks easily.",
+    "easy_percent": 45,
+    "medium_percent": 40,
+    "hard_percent": 15,
+    "most_scoring_sections": [
+      "Easy — agar key concepts masterlist yaad hai toh 28+/32 marks pakke",
+      "Easy to Medium — definitions aur 2-pointer answers, 16+/20 scoring"
+    ],
+    "most_difficult_sections": [
+      "Medium — 4-point long answers with examples required"
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Section A ke 32 questions = 32 marks (40% paper) — sab attempt karo, no negative marking",
+      "OR option hamesha padho — kabhi aasaan alternative choose karo",
+      "Ch 5 (Organising) + Ch 11 (Marketing) se 4-mark questions har saal aate hain — yahi prepare karo",
+      "Difference questions mein TABLE format use karo — neat aur marks-friendly",
+      "Fayol ke principles yaad karne ke liye mnemonic banao — 14 principles ka acronym",
+      "Maslow's pyramid diagram banao — 3-mark mein full marks",
+      "Consumer Protection mein 2019 Act yaad rakho (2013 wrong hai, 1986 purana hai)",
+      "New Economic Policy = 1991, Consumer Protection Act = 2019 — ye 2 dates MCQ mein guaranteed",
+      "Word limit cross mat karo — 4-mark mein 120 words se zyada likhne se time waste",
+      "Set number aur question number har page pe likho",
+      "Hindi-English doubt ho toh Hindi version dekho — wahi final maana jayega",
+      "[Night before] Key concepts masterlist revise karo — 40 facts 30 min mein",
+      "[Night before] Fayol's 14 principles names + Taylor's 4 principles",
+      "[Night before] Consumer rights (6) + Consumer responsibilities (5)",
+      "[Night before] Formal vs Informal, Functional vs Divisional, Delegation vs Decentralisation, Marketing vs Selling — 4 important comparisons",
+      "[Night before] Planning process (7 steps), Controlling process (4 steps), Selection process (7 steps)",
+      "[Night before] Ch 10 ke sab terms (BSE, NSE, SEBI, Primary, Secondary)"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "Paper padho — Section A ke 32 objective questions scan karo. Section B/C/D mein OR options dekh lo — which is easier decide karo."
+      },
+      {
+        "section_id": "section_A_40min",
+        "recommended_minutes": 25,
+        "note": "32 objective questions × ~1.25 min. MCQ + Fill blank = 30 sec each. Match + One-word = 1 min each."
+      },
+      {
+        "section_id": "section_B_50min",
+        "recommended_minutes": 5,
+        "note": "10 short answers × 5 min. 30 words seema strict follow karo."
+      },
+      {
+        "section_id": "section_C_35min",
+        "recommended_minutes": 9,
+        "note": "4 medium answers × ~9 min. 75 words — 3 points explain karo."
+      },
+      {
+        "section_id": "section_D_45min",
+        "recommended_minutes": 11,
+        "note": "4 long answers × ~11 min. 120 words — 4 points with examples."
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "Question numbers check karo, set number verify karo, spelling errors fix karo."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 27,
+        "strategy": "Section A (32 marks mein se 20+ easy) + Section B mein 4-5 easy 2-mark answers (8-10 marks) = 28-30 marks pakke.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Section A completely attempt karo — 32 objective questions mein se 20+ sahi karna aasaan",
+          "Ch 1, 3, 12 easy chapters — definitions yaad karo",
+          "Key concepts masterlist yaad karo — fill blanks + MCQ + one-word = 19 marks",
+          "2-mark questions mein 'meaning' wale choose karo (Privatization, Branding, Budget, Consumer)",
+          "Har fact yaad karo — years, founders, acts"
+        ],
+        "chapters_to_skip_safely": [
+          "4-mark long answers mein kam tayyari ho toh shortcut likho (4 points at least)",
+          "Complex numericals agar nahi aate",
+          "Fayol ke 14 principles detailed explanation (4 hi prepare karo 'any four' ke liye)"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45_marks",
+        "target_marks": 45,
+        "strategy": "Section A full (25-28) + Section B 7-8 (14-16) + Section C 2-3 (6-9) = 45-53 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Ch 5 (Organising) — Formal/Informal, Functional/Divisional, Delegation — yahi pe 4-mark Q aata hai",
+          "Ch 11 (Marketing) — Marketing vs Selling, Advertising — 4-mark frequent",
+          "Ch 2 (Principles) — Fayol's 4 principles + Taylor ka 1 principle",
+          "Ch 4 (Planning) — process aur features",
+          "Short definitions tight rakho — Training, Motivation, Directing, Controlling"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60_marks_plus",
+        "target_marks": 60,
+        "strategy": "Section A full (30+) + Section B full (18-20) + Section C full (10-12) + Section D 2-3 (8-12) = 66-74.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All 12 chapters thoroughly prepare",
+          "Section D 4-mark questions — Planning process, Formal vs Informal, Marketing vs Selling, Advertising, Delegation importance, Fayol principles, Management importance, Coordination characteristics, Supervisor functions",
+          "Maslow's theory + Good leader qualities — Ch 7 se 3-mark questions",
+          "Fixed vs Working capital + Financial planning — Ch 9",
+          "SEBI + Primary vs Secondary market — Ch 10 guaranteed 3-mark"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [
+      "Ch 1 - Nature and Significance of Management",
+      "Ch 3 - Business Environment",
+      "Ch 12 - Consumer Protection",
+      "Ch 6 - Staffing"
+    ],
+    "highest_roi_chapters": [
+      "Ch 5 - Organising",
+      "Ch 2 - Principles of Management",
+      "Ch 4 - Planning",
+      "Ch 11 - Marketing Management"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "No separate internal assessment — 20 marks project covers non-theory component.",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Business Studies Class 12 — Part 1 & Part 2",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "MP Board syllabus NCERT par based hai. Part 1 = Principles & Functions of Management (Ch 1-8), Part 2 = Business Finance & Marketing (Ch 9-12). Sare examples aur case studies solve karo."
+      },
+      {
+        "name": "SBPD Publications — Business Studies Class 12 (MP Board)",
+        "author": "",
+        "publisher": "SBPD Publications, Agra",
+        "purpose": "Primary",
+        "note": "MP Board ke liye popular Hindi/English reference. Chapter-wise MCQ, Fill blanks, Short/Long answers, previous year papers included."
+      },
+      {
+        "name": "Nageen Prakashan — MP Board Business Studies Guide",
+        "author": "",
+        "publisher": "Nageen Prakashan, Meerut",
+        "purpose": "Supplementary",
+        "note": "Hindi medium students ke liye useful. MP Board specific language aur term yahan milte hain."
+      },
+      {
+        "name": "Previous Year Papers 2018-2025 (MP Board)",
+        "author": "",
+        "publisher": "MPBSE Official",
+        "purpose": "Supplementary",
+        "note": "mpbse.nic.in / mpboardonline.com se download karo. Same question types repeat hote hain — Marketing vs Selling, Fayol principles, Formal vs Informal yeh sab guaranteed."
+      },
+      {
+        "name": "MP Board Model Paper 2026",
+        "author": "",
+        "publisher": "MPBSE Official",
+        "purpose": "Supplementary",
+        "note": "Official model paper: mpbse.nic.in > Model Questions > Class 12 > Business Studies."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "Business Studies mein numericals minimal hain — calculator need nahi. Simple arithmetic hi hoti hai.",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "mpbse.nic.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 minute reading time milta hai — is time mein sirf paper padho, answers likhna nahi. OR options decide karo.",
+    "what_to_carry": [
+      "Admit card (original)",
+      "Blue/Black pen (2-3)",
+      "Pencil, eraser, sharpener",
+      "Ruler (tables/diagrams ke liye)",
+      "Water bottle (transparent)"
+    ],
+    "what_not_to_carry": [
+      "Mobile phone",
+      "Calculator, smart watch",
+      "Any printed material",
+      "Bag inside exam hall"
+    ]
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "set_number_compulsory: True",
+      "reading_time_note: 15 minute reading time mein sirf paper padho — likhna nahi. OR options finalise karo.",
+      "sequence_compulsory: False",
+      "sequence_advisory: Section A (objective) pehle solve karo — 40 min mein 32 marks. Confidence build hota hai.",
+      "language_note: Hindi aur English dono chalega. Mixed bhi OK. Agar discrepancy ho paper mein, Hindi version final.",
+      "marking.no_negative_marking: True",
+      "marking.mcq_attempt_all: No negative marking — sare 32 Section A questions attempt karo. Ek bhi blank mat chhodna.",
+      "marking.internal_choice_rule: Q6-Q23 mein har question mein OR option hai. Sirf ek attempt karo — dono likhne se confusion aur time loss.",
+      "marking.match_column_rule: Match pairs mein agar confidence nahi bhi hai, guess karo — 1 mark per pair, no negative."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Sirf diagrams/tables/structures ke liye. Answers pen se likhna zaroori. Comparison/difference questions mein tabular format use karo — marks milne ke chance badhte hain."
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "Organisation structure, hierarchy, flow charts mein simple diagram draw karo — extra impression.",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

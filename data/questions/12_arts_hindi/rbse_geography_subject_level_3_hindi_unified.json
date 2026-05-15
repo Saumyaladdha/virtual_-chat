@@ -1,0 +1,2205 @@
+{
+  "board": "आरबीएसई",
+  "class": "12",
+  "subject": "भूगोल (Bhugol)",
+  "subject_code": "SS-14 Geog.",
+  "exam_year": "2026-27",
+  "marks_structure": {
+    "theory_paper": 56,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 56,
+    "passing_marks_theory": "थ्योरी में 33% = लगभग 19 मार्क्स लाने ज़रूरी। आरबीएसई पास क्राइटेरिया 33% है।",
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": false,
+    "extra_time_note": "15 मिनट रीडिंग टाइम + 10 मिनट इंटरनल रिवीज़न टाइम — दोनों में लिखना नहीं, सिर्फ प्लान करो।",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 18,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "आरबीएसई में मल्टीपल सेट्स/बुकलेट नंबर्स होते हैं (जैसे, SS-14-Geog. in 2023-26)। हर सेट में सेम क्वेश्चन्स, ऑर्डर अलग।",
+    "sets_same_or_different": "",
+    "language_of_attempt": "हिंदी या इंग्लिश दोनों अलाउड। पेपर बाइलिंगुअल आता है (हिंदी + इंग्लिश दोनों प्रिंटेड)। नोट: हिंदी-इंग्लिश में कहीं अंतर हो तो हिंदी वर्ज़न सही माना जाएगा (ऑफिशियल रूल)।",
+    "all_compulsory_note": "इंटरनल चॉइस (OR / अथवा) सिर्फ सेक्शन C (Q12-14) और सेक्शन D (Q15-16) में मिलता है।",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "आरबीएसई ज्योग्राफी क्लास 12 का सिलेबस NCERT 'फंडामेंटल्स ऑफ ह्यूमन ज्योग्राफी', 'इंडिया: पीपल एंड इकोनॉमी', और 'प्रैक्टिकल वर्क इन ज्योग्राफी II' पर बेस्ड है। SP एग्ज़ामिनेशन आइडिया भूगोल (साइंस पब्लिकेशन्स, जयपुर) भी ज़रूर सॉल्व करो।",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "आरबीएसई क्लास 12 भूगोल में 7 टाइप्स के क्वेश्चन्स: MCQ (0.5), फिल ब्लैंक्स (0.5), VSA (1), SA (1.5), LA (3), निबंध (4), मैप (2)। टोटल = 56 मार्क्स, 18 क्वेश्चन्स (Q1-Q3 में कई सब-पार्ट्स होते हैं)।",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (बहुविकल्पात्मक / Objective)",
+        "question_number": "",
+        "section": "A (Q1)",
+        "marks_each": 0.5,
+        "total_in_paper": 18,
+        "attempt": 18,
+        "negative_marking": false,
+        "how_to_attempt": "सिर्फ करेक्ट ऑप्शन (A/B/C/D या अ/ब/स/द) लिखना। नो एक्सप्लेनेशन। 0.5 मार्क के लिए टाइम वेस्ट मत करो।",
+        "mostly_from": "भूगोलवेत्ताओं के नाम (रेटज़ल, ब्लाश, टेलर, सेंपल), डेफिनिशन्स, आर्थिक गतिविधियाँ, कृषि प्रकार, खनिज, बंदरगाह, जनगणना तथ्य, उद्योग वर्गीकरण।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "रिक्त स्थान (Fill in the Blanks)",
+        "question_number": "",
+        "section": "A (Q2)",
+        "marks_each": 0.5,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "एक शब्द, एक नाम, एक संख्या या एक नाम लिखना। स्पेलिंग सही ज़रूरी।",
+        "mostly_from": "स्पेसिफिक टर्म्स, भूगोलवेत्ता, उद्योग प्रकार, कृषि विशेषताएँ, जनगणना डेटा, योजनाएँ।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "अति लघु उत्तरात्मक (Very Short Answer / VSA)",
+        "question_number": "",
+        "section": "A (Q3)",
+        "marks_each": 1,
+        "total_in_paper": 9,
+        "attempt": 9,
+        "negative_marking": false,
+        "how_to_attempt": "डेफिनिशन, फॉर्मूला, एक-दो लाइन का आंसर। 1+1 फॉर्मैट हो तो दोनों पार्ट्स लिखो। कुछ VSA में 2×½ स्प्लिट होता है — दोनों सब-पार्ट्स आंसर करो।",
+        "mostly_from": "डेफिनिशन्स (HDI, जनसंख्या घनत्व, स्थानांतरित कृषि), कारण (पनामा में स्लूस गेट्स क्यों), कंपोनेंट्स (जनसंख्या वृद्धि के), अयस्कों के नाम।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "लगभग 20 शब्द (एक वाक्य या एक लाइन)",
+        "notes": ""
+      },
+      {
+        "type": "लघु उत्तरात्मक (Short Answer)",
+        "question_number": "",
+        "section": "B (Q4-Q11)",
+        "marks_each": 1.5,
+        "total_in_paper": 8,
+        "attempt": 8,
+        "negative_marking": false,
+        "how_to_attempt": "कॉन्सेप्ट + 2-3 पॉइंट्स + एग्ज़ांपल। 1.5 मार्क्स = 3 की पॉइंट्स या 2×¾ फॉर्मैट (दो पार्ट्स)।",
+        "mostly_from": "ब्रीफ एक्सप्लेनेशन्स, कंपेरिज़न्स, गुण/दोष, कारण — सभी 12 कंटेंट चैप्टर्स से।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "लगभग 50 शब्द (4-5 लाइन्स)",
+        "notes": ""
+      },
+      {
+        "type": "दीर्घ उत्तरीय (Long Answer)",
+        "question_number": "",
+        "section": "C (Q12-Q14)",
+        "marks_each": 3,
+        "total_in_paper": 3,
+        "attempt": 3,
+        "negative_marking": false,
+        "how_to_attempt": "इंट्रोडक्शन (½) + मेन पॉइंट्स 3-4 (2) + एग्ज़ांपल/कंक्लूज़न (½)। डायग्राम्स बना सकते हो।",
+        "mostly_from": "कैरेक्टरिस्टिक्स, वर्गीकरण, प्रक्रिया व्याख्याएँ — एग्ज़ांपल्स के साथ।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "लगभग 100 शब्द (10-12 लाइन्स)",
+        "notes": ""
+      },
+      {
+        "type": "निबंधात्मक (Essay Type)",
+        "question_number": "",
+        "section": "D (Q15-Q16)",
+        "marks_each": 4,
+        "total_in_paper": 2,
+        "attempt": 2,
+        "negative_marking": false,
+        "how_to_attempt": "इंट्रोडक्शन (½) + 4 मेन पॉइंट्स विद सब-पॉइंट्स (3) + डायग्राम/एग्ज़ांपल (¼) + कंक्लूज़न (¼)। पैराग्राफ फॉर्मैट।",
+        "mostly_from": "उद्योग विशेषताएँ, जल प्रबंधन, कृषि प्रकार, लार्ज टॉपिक्स जिन्हें डिटेल्ड ट्रीटमेंट चाहिए।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "लगभग 150-200 शब्द (20-25 लाइन्स)",
+        "notes": ""
+      },
+      {
+        "type": "मानचित्र कार्य (Map Work)",
+        "question_number": "",
+        "section": "E (Q17-Q18)",
+        "marks_each": 2,
+        "total_in_paper": 2,
+        "attempt": 2,
+        "negative_marking": false,
+        "how_to_attempt": "पेंसिल से पहले मार्क करो, फिर ब्लू पेन से नाम लिखो। एरो से पॉइंट शो करो। आउटलाइन मैप क्वेश्चन-पेपर के साथ मिलता है, उसे आंसर-बुक के साथ नत्थी करो।",
+        "mostly_from": [
+          "विश्व मैप: समुद्री बंदरगाह (मुंबई, सिडनी, केप टाउन, हांगकांग, पर्थ, रॉटरडैम, सिंगापुर, न्यूयॉर्क, वैंकूवर, कोलंबो, सैन फ्रांसिस्को)",
+          "विश्व मैप: हवाई अड्डे (मुंबई, शिकागो, लंदन, सिडनी, न्यूयॉर्क, केप टाउन)",
+          "भारत मैप: लौह-इस्पात केंद्र (जमशेदपुर, सेलम, विजयनगर, विशाखापत्तनम, भिलाई, भद्रावती)",
+          "भारत मैप: लौह अयस्क खदानें (रत्नागिरी, दुर्ग, बैलाडीला, बल्लारी, मयूरभंज)",
+          "भारत मैप: तेल रिफाइनरी (कोयली, बीना, मंगलुरु, चेन्नई, मथुरा)",
+          "भारत मैप: बंदरगाह (कांडला, कोलकाता, पारादीप, विशाखापत्तनम, चेन्नई, मुंबई, मर्मगाओ, JNPT)"
+        ],
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "आरबीएसई ज्योग्राफी थ्योरी पेपर = 56 मार्क्स। 5 सेक्शन्स। 18 क्वेश्चन्स। ड्यूरेशन: 3 घंटे 15 मिनट (15 मिनट रीडिंग + 10 मिनट रिवीज़न एक्स्ट्रा)। बाइलिंगुअल (हिंदी+इंग्लिश)।",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "इंटरनल चॉइस (OR / अथवा) सिर्फ सेक्शन C (Q12-14) और सेक्शन D (Q15-16) में मिलता है।",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 0,
+      "medium_percent": 0,
+      "hard_percent": 0,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "by_question_type_2026_pattern",
+        "name": "by question type 2026 pattern",
+        "type": "by_question_type_2026_pattern",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": ""
+      },
+      {
+        "section_id": "old_blueprint_2018_2023_pattern",
+        "name": "old blueprint 2018 2023 pattern",
+        "type": "old_blueprint_2018_2023_pattern",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "पुराना पैटर्न (GEOGRAPHY_RAJASTHAN_BOARD.pdf के ब्लूप्रिंट के हिसाब से), 2023 तक यूज़ होता था।",
+        "notes": "पुराना पैटर्न (GEOGRAPHY_RAJASTHAN_BOARD.pdf के ब्लूप्रिंट के हिसाब से), 2023 तक यूज़ होता था।"
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 56,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 56,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "by_question_type_2026_pattern",
+        "name": "by question type 2026 pattern",
+        "question_numbers": "",
+        "type": "by_question_type_2026_pattern",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "old_blueprint_2018_2023_pattern",
+        "name": "old blueprint 2018 2023 pattern",
+        "question_numbers": "",
+        "type": "old_blueprint_2018_2023_pattern",
+        "total_questions": 0,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 0,
+        "word_limit": "",
+        "breakdown": "पुराना पैटर्न (GEOGRAPHY_RAJASTHAN_BOARD.pdf के ब्लूप्रिंट के हिसाब से), 2023 तक यूज़ होता था।"
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 56,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "2",
+      "name": "विश्व की जनसंख्या (वितरण, घनत्व, वृद्धि एवं मानव विकास)",
+      "marks": 6,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "6",
+        "name": "पर्यावरण",
+        "marks": 2
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "मानव भूगोल का परिचय",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "विश्व की जनसंख्या (वितरण, घनत्व, वृद्धि एवं मानव विकास)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "विश्व में मानव अधिवास",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "विश्व में मानव व्यवसाय (प्राथमिक, द्वितीयक, तृतीयक एवं चतुर्थक क्रियाकलाप)",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "विश्व में परिवहन, संचार एवं व्यापार",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "पर्यावरण",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "मानचित्र कार्य — विश्व",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "name": "भारत की जनसंख्या",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "name": "संसाधन (जल, वन, खनिज एवं ऊर्जा)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "10",
+        "name": "कृषि, विनिर्माण, उद्योग एवं परिवहन (भारत)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "11",
+        "name": "विकास एवं नियोजन",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "name": "जनसंख्या एवं अर्थव्यवस्था — राजस्थान",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "13",
+        "name": "मानचित्र कार्य — भारत",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "name": "मानचित्र कार्य — राजस्थान",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 56,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Geography Class 12 — 14 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Geography",
+        "category": "Main",
+        "total_marks": 56,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "मानव भूगोल का परिचय",
+            "marks": 4,
+            "topics": [
+              "मानव भूगोल की प्रकृति — मानव समाजों और पृथ्वी के धरातल के बीच संबंधों का संश्लेषित अध्ययन",
+              "विडाल डी ला ब्लाश की परिभाषा",
+              "मानव भूगोल की उपशाखाएँ: सामाजिक, सांस्कृतिक, आर्थिक, राजनीतिक, नगरीय, व्यवहारिक, चिकित्सा, सैन्य, लैंगिक, निर्वाचन, संसाधन, ऐतिहासिक भूगोल",
+              "मानव भूगोल के उपागम: निश्चयवाद (रेटज़ल), संभववाद (विडाल डी ला ब्लाश), नव-निश्चयवाद / स्टॉप-एंड-गो डिटरमिनिज़्म (ग्रिफिथ टेलर)",
+              "मानव भूगोल का विकास — पारंपरिक, कल्याणकारी, व्यावहारिक, रैडिकलिज़्म, मानवतावाद, नारीवाद (Feminism)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "विश्व की जनसंख्या (वितरण, घनत्व, वृद्धि एवं मानव विकास)",
+            "marks": 6,
+            "topics": [
+              "जनसंख्या का वितरण (distribution) — भौतिक (physical), आर्थिक (economic), सामाजिक-सांस्कृतिक (socio-cultural) कारण",
+              "जनसंख्या घनत्व (population density) = पर्सन्स प्रति यूनिट एरिया",
+              "जनसंख्या वृद्धि (growth) के घटक — जन्म दर, मृत्यु दर, प्रवासन (migration)",
+              "प्रवासन (migration) — प्रतिकर्ष कारक (push factors: बेरोज़गारी, आपदाएँ) और आकर्ष कारक (pull factors: बेहतर अवसर, सुविधाएँ)",
+              "जनसंख्या संक्रमण सिद्धांत (Demographic Transition Theory) — 3 अवस्थाएँ",
+              "अवस्था 1: उच्च प्रजनन, उच्च मृत्यु दर",
+              "अवस्था 2: उच्च प्रजनन, घटती मृत्यु दर (तीव्र वृद्धि)",
+              "अवस्था 3: निम्न प्रजनन, निम्न मृत्यु दर (स्थिर)",
+              "कार्यशील (working) जनसंख्या — 15-59 आयु वर्ग",
+              "मानव विकास (Human Development) — प्रो. महबूब-उल-हक की संकल्पना",
+              "HDI के तीन तत्व: लंबी आयु (life expectancy), ज्ञान (knowledge/literacy), उच्च जीवन-स्तर (standard of living)",
+              "UNDP द्वारा HDR (Human Development Report) हर साल प्रकाशित",
+              "मानव विकास के उपागम: आय (income), कल्याण (welfare), मूलभूत आवश्यकताएँ (basic needs), सामर्थ्य (capability — अमर्त्य सेन)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "विश्व में मानव अधिवास",
+            "marks": 4,
+            "topics": [
+              "अधिवास के प्रकार: ग्रामीण (rural) और नगरिय (urban)",
+              "ग्रामीण अधिवास के प्रतिरूप (patterns): रेखीय (linear), आयताकार (rectangular), वृत्ताकार (circular), तीर-तारा (arrow-star), शतरंज (chess), शीर्षस्थान",
+              "नगरिय अधिवास की विशेषताएँ: विशाल आकार, प्रशासकीय कार्य, अधिक जनसंख्या, गैर-कृषि कार्य",
+              "बस्तियों के प्रकार: गुच्छित (clustered/compact), अर्ध-गुच्छित (semi-clustered), पल्लियों (hamleted), प्रकीर्णित (dispersed)",
+              "पल्ली बस्तियों के स्थानीय नाम: पन्ना, पारा, पल्ली, नगला, ढाणी (भारत में)",
+              "नगरिय केंद्रों के प्रकार: महानगर (>10 लाख जनसंख्या), मेगालोपोलिस, मिलियन सिटी, कॉनर्बेशन",
+              "गंदी बस्ती (slums) — लीनिंग बिल्डिंग्स, अस्वस्थ स्थितियाँ, नो सैनिटेशन",
+              "गैरिसन नगर — सैनिक छावनियाँ (cantonments)। उदाहरण: अंबाला, महू, जालंधर",
+              "गंतिस (urban settlements) का विकास — प्राचीन काल से (प्राचीन काल, मध्यकाल, आधुनिक)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "विश्व में मानव व्यवसाय (प्राथमिक, द्वितीयक, तृतीयक एवं चतुर्थक क्रियाकलाप)",
+            "marks": 6,
+            "topics": [
+              "आर्थिक क्रियाएँ (economic activities) — 5 टाइप्स:",
+              "1. प्राथमिक (Primary) — प्रकृति पर निर्भर: कृषि, पशुपालन, खनन, मत्स्यपालन, वानिकी",
+              "2. द्वितीयक (Secondary) — रॉ मटेरियल को वैल्यूएबल प्रोडक्ट्स में कन्वर्ट करना: मैन्युफैक्चरिंग, कंस्ट्रक्शन",
+              "3. तृतीयक (Tertiary) — सर्विसेज़: परिवहन, संचार, व्यापार, बैंक, शिक्षा",
+              "4. चतुर्थक (Quaternary) — नॉलेज-बेस्ड: रिसर्च, IT, कंसल्टेंसी",
+              "5. पंचम (Quinary) — हाईएस्ट-लेवल डिसीज़न मेकिंग: CEO-लेवल, रिसर्चर्स, सीनियर ऑफिशियल्स",
+              "कृषि के प्रकार: स्थानांतरित (shifting), चलवासी पशुचारण (nomadic herding), विस्तृत वाणिज्य अनाज कृषि (extensive commercial grain farming), मिश्रित कृषि (mixed farming), रोपण कृषि (plantation), भूमध्यसागरीय कृषि (Mediterranean), निर्वाह कृषि (subsistence), वाणिज्य कृषि (commercial)",
+              "स्थानांतरित कृषि के नाम: झूमिंग (NE भारत), मिल्पा (मेक्सिको), रोका (ब्राज़ील), लडांग (मलेशिया/इंडोनेशिया), कुमारी (श्रीलंका)",
+              "उद्योगों के प्रकार — आकार के आधार पर: कुटीर (कॉटेज), लघु-स्तरीय (small-scale), वृहद्-स्तरीय (large-scale)",
+              "रॉ-मटेरियल के आधार पर: कृषि-आधारित, खनिज-आधारित, पशु-आधारित, वन-आधारित",
+              "स्वच्छंद (Foot-loose) उद्योग — कहीं भी स्थापित किए जा सकते हैं, स्पेसिफिक लोकेशन की ज़रूरत नहीं",
+              "हाई-टेक उद्योग — मैन्युफैक्चरिंग की लेटेस्ट जनरेशन, नॉलेज-इंटेंसिव"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "विश्व में परिवहन, संचार एवं व्यापार",
+            "marks": 4,
+            "topics": [
+              "परिवहन (transport) के साधन: सड़क (road), रेल, जल (water), वायु (air), पाइपलाइन",
+              "सबसे सघन रेल तंत्र: यूरोप (घना/densest)",
+              "बड़े ट्रंक मार्ग (Big Trunk Route) — उत्तरी अटलांटिक सी रूट (विश्वतम/busiest व्यापार मार्ग)",
+              "पत्तनों के प्रकार: समुद्री (sea), फेरी (feri), पैकेट स्टेशन, अन्त्रपोट (entrepot), नौसैनिक (naval), पोर्ट ऑफ कॉल",
+              "अन्त्रपोट पत्तन: माल री-एक्सपोर्ट होता है। उदाहरण: सिंगापुर (एशिया), रॉटरडैम (यूरोप), कोपेनहेगन",
+              "पनामा नहर (1914) — उत्तरी अटलांटिक और उत्तरी प्रशांत को जोड़ती। स्लूस गेट्स/लॉक्स सिस्टम। डिस्टेंस रिडक्शन।",
+              "स्वेज़ नहर (Suez Canal, 1869) — भूमध्य सागर और लाल सागर को जोड़ती। नो लॉक्स (सी-लेवल कैनाल)।",
+              "आंतरिक जल-मार्ग (Inland waterways): ग्रेट लेक्स (उत्तरी अमेरिका), राइन (यूरोप), डेन्यूब (यूरोप), वोल्गा (रूस), मिसिसिपी (USA), गंगा (भारत)",
+              "संचार के साधन — तार, मोर्स कोड, टेलेक्स, इंटरनेट, साइबर स्पेस",
+              "साइबर स्पेस — कंप्यूटर-एडेड कम्युनिकेशन वाया WWW",
+              "ई-मेल, ई-कॉमर्स, ई-एजुकेशन, ई-गवर्नेंस",
+              "व्यापार के प्रकार: द्विपक्षीय (Bilateral), बहुपक्षीय (Multilateral)",
+              "अंतर्राष्ट्रीय व्यापार के संस्थान: GATT (1947-1994), WTO (1995-), UNCTAD",
+              "GATT का WTO में रूपांतरण: 1 जनवरी 1995",
+              "WTO का मुख्यालय: जिनेवा, स्विट्ज़रलैंड"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "पर्यावरण",
+            "marks": 2,
+            "topics": [
+              "पर्यावरण प्रदूषण (environmental pollution) — वायु, जल, ध्वनि, भूमि, महासागरीय (marine), विस्फोटक (nuclear)",
+              "प्रदूषण स्थान-विशिष्ट (location-specific): वायु प्रदूषण, ध्वनि प्रदूषण, भू-प्रदूषण। जल प्रदूषण फ्लोज़।",
+              "अम्लीय वर्षा (acid rain) — CO2, SO2, NO2 गैसेस जल के साथ मिलकर pH <7 बरसाती है",
+              "भारत की नदियों में प्रदूषण का मुख्य स्रोत: जैव और जीवाणुविक संदूषण (organic and bacterial contamination)",
+              "उद्योग जो जल प्रदूषण करते हैं: चमड़ा (leather), लुगदी और कागज़ (pulp & paper), वस्त्र (textile), रसायन (chemical)",
+              "सस्टेनेबल डेवलपमेंट (सतत पोषणीय विकास) — ब्रंटलैंड रिपोर्ट (1987)",
+              "सस्टेनेबल डेवलपमेंट के उपाय: रिसोर्स कंज़र्वेशन, रिन्यूएबल एनर्जी, रीसाइक्लिंग, पॉपुलेशन कंट्रोल"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "मानचित्र कार्य — विश्व",
+            "marks": 2,
+            "topics": [
+              "विश्व आउटलाइन मैप पर अंकन",
+              "समुद्री पत्तन (sea ports): मुंबई, न्यूयॉर्क, सिडनी, केप टाउन, हांगकांग, पर्थ, रॉटरडैम, सिंगापुर, सैन फ्रांसिस्को, वैंकूवर, कोलंबो, लंदन, शंघाई",
+              "हवाई पत्तन (airports): मुंबई, न्यूयॉर्क, लंदन, सिडनी, शिकागो, केप टाउन, टोक्यो",
+              "प्रमुख समुद्री मार्ग: नॉर्थ अटलांटिक, नॉर्थ पैसिफिक, मेडिटेरेनियन-स्वेज़",
+              "प्रमुख नहर: स्वेज़, पनामा",
+              "प्रमुख आंतरिक जलमार्ग: ग्रेट लेक्स (N. अमेरिका), राइन, मिसिसिपी"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "भारत की जनसंख्या",
+            "marks": 5,
+            "topics": [
+              "भारत की जनसंख्या — 2011 जनगणना के हिसाब से 121.08 करोड़",
+              "भारत की पहली जनसंख्या गणना (census): 1872",
+              "रेगुलर डेसेनियल सेंसस शुरुआत: 1881",
+              "ऋणात्मक (negative) वृद्धि वाला दशक: 1911-1921 (इन्फ्लुएंज़ा महामारी, अकाल)",
+              "भारत का क्षेत्रफल: 32,87,263 वर्ग किमी (विश्व का 7वाँ सबसे बड़ा)",
+              "जनसंख्या घनत्व (2011): 382 व्यक्ति/वर्ग किमी",
+              "सर्वाधिक जनसंख्या घनत्व वाला राज्य (2011): बिहार (1106 व्यक्ति/वर्ग किमी)",
+              "द्वितीय सर्वाधिक: पश्चिम बंगाल (1028) / केरल पहले",
+              "न्यूनतम घनत्व: अरुणाचल प्रदेश",
+              "लिंग-अनुपात (sex ratio) — 2011: 940 महिलाएँ/1000 पुरुष",
+              "प्रवासन की धाराएँ: ग्रामीण से ग्रामीण, ग्रामीण से नगरिय, नगरिय से नगरिय, नगरिय से ग्रामीण",
+              "नगरिय जनसंख्या वृद्धि के कारण: शिक्षा प्रसार, औद्योगीकरण, नगरीकरण, परिवहन-संचार, गाँवों की अपेक्षा अधिक सुविधा",
+              "नगरिय जनसंख्या वृद्धि 2011-2021 में सबसे कम: केरल",
+              "प्रधानमंत्री आवास योजना — हाउसिंग स्कीम",
+              "बेटी बचाओ बेटी पढ़ाओ — लिंगानुपात सुधार के लिए",
+              "श्रमिक (worker) कैटेगरीज़ 2011: मुख्य (main), सहायक (marginal), गैर-श्रमिक (non-workers)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "संसाधन (जल, वन, खनिज एवं ऊर्जा)",
+            "marks": 5,
+            "topics": [
+              "संसाधन के प्रकार: पारंपरिक (conventional) और अपारंपरिक (non-conventional)",
+              "पारंपरिक: कोयला, पेट्रोल, प्राकृतिक गैस, जल-विद्युत",
+              "अपारंपरिक: सौर ऊर्जा (solar), पवन ऊर्जा (wind), बायो-ऊर्जा, भू-तापीय (geothermal), ज्वारीय (tidal)",
+              "नव-करणीय (renewable): सौर, पवन, जल, वन, पशु, मानव",
+              "अनव-करणीय (non-renewable): कोयला, पेट्रोलियम, प्राकृतिक गैस, खनिज",
+              "भारत की खनिज पट्टियाँ (mineral belts):",
+              "1. उत्तर-पूर्वी पट्टी (NE): छोटा नागपुर पठार — कोयला, लोहा, मैंगनीज़",
+              "2. दक्षिण-पूर्वी पट्टी (SE): कर्नाटक-तमिलनाडु — लोहा, मैंगनीज़",
+              "3. दक्षिण-पश्चिमी पट्टी (SW): गुजरात-महाराष्ट्र — पेट्रोलियम, तेल",
+              "4. उत्तर-पश्चिमी पट्टी (NW): राजस्थान-गुजरात — कॉपर, ज़िंक",
+              "लौह अयस्क (iron ore) के प्रकार: हेमेटाइट, मैग्नेटाइट, लिमोनाइट, साइडेराइट",
+              "हेमेटाइट और मैग्नेटाइट: लोहे के अयस्क",
+              "बॉक्साइट: एल्युमिनियम का अयस्क",
+              "भारत में कोयला निर्माण हुआ: गोंडवाना और टर्शियरी भूवैज्ञानिक काल (geological periods)",
+              "परमाणु ऊर्जा आयोग (Atomic Energy Commission): स्थापना 1948",
+              "पुनश्चक्रण (Recycling) — धातुओं के स्क्रैप, कतरन को पिघलाकर पुनः उपयोग",
+              "वन संसाधन का महत्व: सभ्यता विकास, शुष्कता रोकथाम, मरुस्थली विस्तार रोकना, रोज़गार, वन राष्ट्रीय संपत्ति"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "कृषि, विनिर्माण, उद्योग एवं परिवहन (भारत)",
+            "marks": 5,
+            "topics": [
+              "भारतीय कृषि के प्रकार: निर्वाह कृषि (subsistence), वाणिज्य कृषि (commercial), रोपण (plantation), शुष्कभूमि (dry-land), आर्द्रभूमि (wet-land), मिश्रित (mixed)",
+              "कृषि प्रतिरूप: खरीफ (मानसून के साथ — चावल, बाजरा, ज्वार, कॉटन, गन्ना), रबी (सर्दी — गेहूँ, सरसों, चना, जौ), ज़ायद (गर्मी — तरबूज़, खीरा)",
+              "शुष्क भूमि कृषि (dry land farming): <75 cm वर्षा क्षेत्र; बाजरा, ज्वार, मूंग, चना",
+              "भारत की कृषि की समस्याएँ: छोटे फार्म, मानसून निर्भरता, तकनीक की कमी, सब्सिडीज़ इश्यू, मार्केट प्रॉब्लम्स, भूमि अवनयन",
+              "कृषि में तकनीकी विकास: हरित क्रांति (Green Revolution) 1960s, HYV सीड्स, फर्टिलाइज़र्स, सिंचाई, मशीनीकरण",
+              "भारतीय उद्योग के प्रकार — आकार पर: बड़ा (large), मध्यम (medium), छोटा/लघु (small), कुटीर (cottage)",
+              "कुटीर उद्योग विशेषता: साधारण औज़ारों द्वारा पारिवारिक स्तर पर उत्पादन",
+              "स्वच्छंद (foot-loose) उद्योग: कहीं भी",
+              "आधारभूत उद्योग: लौह-इस्पात (iron-steel)",
+              "भारत की पहली सफल आधुनिक कॉटन मिल: बॉम्बे/मुंबई (1854)",
+              "फ्रूट प्रोसेसिंग, कन्फेक्शनरीज़: फूड प्रोसेसिंग इंडस्ट्री",
+              "परिवहन के साधन: सड़क (road), रेल, जल (water), वायु (air), पाइपलाइन",
+              "भारत के सड़क जाल का विश्व में स्थान: दूसरा (2nd largest, USA के बाद)",
+              "राष्ट्रीय राजमार्ग (National Highway): केंद्र सरकार द्वारा निर्मित व अनुरक्षित",
+              "बॉर्डर रोड ऑर्गेनाइज़ेशन (BRO): सैनिक दृष्टि से महत्वपूर्ण सड़क",
+              "रेल पटरी की चौड़ाई: ब्रॉड गेज (1.676m), मीटर गेज (1m), नैरो गेज (0.762m), लाइट नैरो (0.610m)",
+              "पाइपलाइन: तरल और गैसीय पदार्थ (जल, पेट्रोल, प्राकृतिक गैस)",
+              "नागपुर योजना: सड़क परिवहन (1943 प्लान)",
+              "समुद्री पत्तन (sea ports): कच्छ की खाड़ी के मुहाने पर — कांडला",
+              "मुंबई पोर्ट का दबाव कम करने के लिए: जवाहरलाल नेहरू पोर्ट (JNPT) बनाया गया"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "विकास एवं नियोजन",
+            "marks": 4,
+            "topics": [
+              "विकास का मतलब: गुणात्मक (qualitative) परिवर्तन, सिर्फ क्वांटिटेटिव नहीं",
+              "नियोजन (planning) — उद्देश्य-प्राप्ति के लिए रिसोर्सेस का व्यवस्थित उपयोग",
+              "प्रादेशिक नियोजन (regional planning) — स्पेसिफिक रीजन के लिए",
+              "भारत में प्रादेशिक असंतुलन (regional imbalance) — उत्तर-दक्षिण, अर्बन-रूरल, विकसित-अविकसित राज्य",
+              "पहाड़ी क्षेत्रों के लिए विकास उपाय: सड़कें, शिक्षा, स्वास्थ्य, पर्यटन विकास, कृषि-वानिकी, इकोटूरिज़्म",
+              "ड्रॉट प्रोन एरिया प्रोग्राम (DPAP): चौथी पंचवर्षीय योजना (1969-74) में शुरू",
+              "झाबुआ ज़िला (मध्य प्रदेश) — भू-निम्नीकरण (land degradation) केस स्टडी",
+              "भू-निम्नीकरण रोकने के उपाय: वनरोपण (afforestation), कंटूर फार्मिंग, टेरेसिंग, चेक डैम्स, वॉटरशेड मैनेजमेंट",
+              "वन क्षेत्र, गैर-कृषि कार्य और परती भूमि में वृद्धि के कारण: नगरीकरण, औद्योगिक विस्तार, वन संरक्षण नीतियाँ, परती भूमि अनुमति",
+              "सस्टेनेबल डेवलपमेंट के उपाय: रिसोर्स कंज़र्वेशन, रिन्यूएबल एनर्जी, पॉपुलेशन कंट्रोल, ऑर्गेनिक फार्मिंग",
+              "विकास को प्रभावित करने वाले अर्थव्यवस्था परिवर्तन: प्राइमरी से सेकेंडरी शिफ्ट, नगरीकरण, औद्योगीकरण, सेवा क्षेत्र वृद्धि",
+              "भारत में पर्यटन के लाभ: रोज़गार, विदेशी मुद्रा, सांस्कृतिक आदान-प्रदान, क्षेत्रीय विकास",
+              "पर्यटन को प्रभावित करने वाले कारक: जलवायु, प्राकृतिक सुंदरता, ऐतिहासिक स्थल, सुविधाएँ, सुरक्षा"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "जनसंख्या एवं अर्थव्यवस्था — राजस्थान",
+            "marks": 5,
+            "topics": [
+              "राजस्थान की जनसंख्या — 2011 जनगणना: 6.86 करोड़ (भारत का 6.89%)",
+              "राजस्थान का क्षेत्रफल: 3,42,239 वर्ग किमी (क्षेत्रफल के अनुसार सबसे बड़ा राज्य)",
+              "लिंग-अनुपात राजस्थान 2011: 928 — भारत एवरेज (940) से कम",
+              "राजस्थान में लिंगानुपात कम होने के कारण: पितृसत्तात्मक (patriarchal) परिवार, पुत्र को प्राथमिकता (son preference), बाल-विवाह (child marriage), मातृत्व बोझ (maternal burden), दहेज के लिए हत्या (dowry deaths), खान-पान व स्वास्थ्य सेवा में कमी, शिक्षा की कमी",
+              "राजस्थान की कृषि: शुष्क-अर्ध शुष्क क्षेत्र, मानसून पर निर्भर",
+              "राजस्थान की फसल: खरीफ (बाजरा, ज्वार, ग्वार, कपास, मूंगफली), रबी (गेहूँ, चना, सरसों, जौ)",
+              "राजस्थान की डेयरी इंडस्ट्री — सहकारी समितियों का नेटवर्क, सरस (RCDF), मिल्क-बेस्ड प्रोडक्ट्स",
+              "डेयरी विकास के उपाय: सहकारी समितियाँ, पशु-नस्ल सुधार, शीतगृह (cold storage), ग्रामीण परिवारों को पूँजी, सरल वितरण",
+              "राजस्थान में सिंचाई की स्थिति: IGNP, ट्यूबवेल, नहर, कुआँ",
+              "इंदिरा गांधी नहर परियोजना (IGNP) — वास्तविक निर्माण 1958, कँवर सेन ने संकल्पना दी",
+              "IGNP राजस्थान के 7 ज़िलों को सिंचित करती है — मरुभूमि को हराभरा किया",
+              "अरवारी पानी संसद: राजस्थान की जल-संभर (watershed) प्रबंधन योजना",
+              "जल संरक्षण के उपाय: बूँद-बूँद सिंचाई (drip), योजना का प्रभावी क्रियान्वयन, एनिकट (check dam) निर्माण, वॉटरशेड डेवलपमेंट",
+              "हरियाली — केंद्र सरकार द्वारा प्रायोजित जल संभर (watershed) विकास योजना",
+              "राजस्थान के प्रमुख उद्योग: वस्त्र (भीलवाड़ा), सीमेंट, चीनी, संगमरमर, खनन",
+              "प्रमुख खनिज: मकराना संगमरमर, जिंक (ज़ावर), कॉपर (खेतड़ी), लाइमस्टोन, जिप्सम"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "मानचित्र कार्य — भारत",
+            "marks": 2,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "14",
+            "name": "मानचित्र कार्य — राजस्थान",
+            "marks": 2,
+            "topics": [],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "मानव भूगोल का परिचय",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 1,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी-मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "मानव भूगोल की प्रकृति — मानव समाजों और पृथ्वी के धरातल के बीच संबंधों का संश्लेषित अध्ययन",
+        "विडाल डी ला ब्लाश की परिभाषा",
+        "मानव भूगोल की उपशाखाएँ: सामाजिक, सांस्कृतिक, आर्थिक, राजनीतिक, नगरीय, व्यवहारिक, चिकित्सा, सैन्य, लैंगिक, निर्वाचन, संसाधन, ऐतिहासिक भूगोल",
+        "मानव भूगोल के उपागम: निश्चयवाद (रेटज़ल), संभववाद (विडाल डी ला ब्लाश), नव-निश्चयवाद / स्टॉप-एंड-गो डिटरमिनिज़्म (ग्रिफिथ टेलर)",
+        "मानव भूगोल का विकास — पारंपरिक, कल्याणकारी, व्यावहारिक, रैडिकलिज़्म, मानवतावाद, नारीवाद (Feminism)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "संभववाद के प्रणेता कौन? (MCQ), ब्लाश की परिभाषा (MCQ/VSA), रेटज़ल vs ब्लाश (SA), नव-निश्चयवाद की व्याख्या (SA 1.5), मार्क्सवादी सिद्धांत आधारित स्कूल (VSA), आर्थिक भूगोल का उपक्षेत्र (MCQ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "विश्व की जनसंख्या (वितरण, घनत्व, वृद्धि एवं मानव विकास)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 2,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "जनसंख्या का वितरण (distribution) — भौतिक (physical), आर्थिक (economic), सामाजिक-सांस्कृतिक (socio-cultural) कारण",
+        "जनसंख्या घनत्व (population density) = पर्सन्स प्रति यूनिट एरिया",
+        "जनसंख्या वृद्धि (growth) के घटक — जन्म दर, मृत्यु दर, प्रवासन (migration)",
+        "प्रवासन (migration) — प्रतिकर्ष कारक (push factors: बेरोज़गारी, आपदाएँ) और आकर्ष कारक (pull factors: बेहतर अवसर, सुविधाएँ)",
+        "जनसंख्या संक्रमण सिद्धांत (Demographic Transition Theory) — 3 अवस्थाएँ",
+        "अवस्था 1: उच्च प्रजनन, उच्च मृत्यु दर",
+        "अवस्था 2: उच्च प्रजनन, घटती मृत्यु दर (तीव्र वृद्धि)",
+        "अवस्था 3: निम्न प्रजनन, निम्न मृत्यु दर (स्थिर)",
+        "कार्यशील (working) जनसंख्या — 15-59 आयु वर्ग",
+        "मानव विकास (Human Development) — प्रो. महबूब-उल-हक की संकल्पना",
+        "HDI के तीन तत्व: लंबी आयु (life expectancy), ज्ञान (knowledge/literacy), उच्च जीवन-स्तर (standard of living)",
+        "UNDP द्वारा HDR (Human Development Report) हर साल प्रकाशित",
+        "मानव विकास के उपागम: आय (income), कल्याण (welfare), मूलभूत आवश्यकताएँ (basic needs), सामर्थ्य (capability — अमर्त्य सेन)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "जनसंख्या घनत्व और वितरण का डिफरेंस (निबंध 4), प्रवासन के कारण (SA/VSA), HDI किसने दी (MCQ), डेमोग्राफिक ट्रांज़िशन स्टेजेस (फिल ब्लैंक), वर्किंग पॉपुलेशन (VSA)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "विश्व में मानव अधिवास",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 3,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "अधिवास के प्रकार: ग्रामीण (rural) और नगरिय (urban)",
+        "ग्रामीण अधिवास के प्रतिरूप (patterns): रेखीय (linear), आयताकार (rectangular), वृत्ताकार (circular), तीर-तारा (arrow-star), शतरंज (chess), शीर्षस्थान",
+        "नगरिय अधिवास की विशेषताएँ: विशाल आकार, प्रशासकीय कार्य, अधिक जनसंख्या, गैर-कृषि कार्य",
+        "बस्तियों के प्रकार: गुच्छित (clustered/compact), अर्ध-गुच्छित (semi-clustered), पल्लियों (hamleted), प्रकीर्णित (dispersed)",
+        "पल्ली बस्तियों के स्थानीय नाम: पन्ना, पारा, पल्ली, नगला, ढाणी (भारत में)",
+        "नगरिय केंद्रों के प्रकार: महानगर (>10 लाख जनसंख्या), मेगालोपोलिस, मिलियन सिटी, कॉनर्बेशन",
+        "गंदी बस्ती (slums) — लीनिंग बिल्डिंग्स, अस्वस्थ स्थितियाँ, नो सैनिटेशन",
+        "गैरिसन नगर — सैनिक छावनियाँ (cantonments)। उदाहरण: अंबाला, महू, जालंधर",
+        "गंतिस (urban settlements) का विकास — प्राचीन काल से (प्राचीन काल, मध्यकाल, आधुनिक)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "गंदी बस्तियों की दो समस्याएँ (VSA), महानगर की परिभाषा (VSA), तीर-तारा प्रतिरूप ड्रॉइंग (SA), गैरिसन टाउन उदाहरण (MCQ), हैमलेटेड सेटलमेंट लोकल नेम्स (फिल ब्लैंक), माइग्रेशन और स्लम्स का संबंध (VSA)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "विश्व में मानव व्यवसाय (प्राथमिक, द्वितीयक, तृतीयक एवं चतुर्थक क्रियाकलाप)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 4,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 6,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "आर्थिक क्रियाएँ (economic activities) — 5 टाइप्स:",
+        "1. प्राथमिक (Primary) — प्रकृति पर निर्भर: कृषि, पशुपालन, खनन, मत्स्यपालन, वानिकी",
+        "2. द्वितीयक (Secondary) — रॉ मटेरियल को वैल्यूएबल प्रोडक्ट्स में कन्वर्ट करना: मैन्युफैक्चरिंग, कंस्ट्रक्शन",
+        "3. तृतीयक (Tertiary) — सर्विसेज़: परिवहन, संचार, व्यापार, बैंक, शिक्षा",
+        "4. चतुर्थक (Quaternary) — नॉलेज-बेस्ड: रिसर्च, IT, कंसल्टेंसी",
+        "5. पंचम (Quinary) — हाईएस्ट-लेवल डिसीज़न मेकिंग: CEO-लेवल, रिसर्चर्स, सीनियर ऑफिशियल्स",
+        "कृषि के प्रकार: स्थानांतरित (shifting), चलवासी पशुचारण (nomadic herding), विस्तृत वाणिज्य अनाज कृषि (extensive commercial grain farming), मिश्रित कृषि (mixed farming), रोपण कृषि (plantation), भूमध्यसागरीय कृषि (Mediterranean), निर्वाह कृषि (subsistence), वाणिज्य कृषि (commercial)",
+        "स्थानांतरित कृषि के नाम: झूमिंग (NE भारत), मिल्पा (मेक्सिको), रोका (ब्राज़ील), लडांग (मलेशिया/इंडोनेशिया), कुमारी (श्रीलंका)",
+        "उद्योगों के प्रकार — आकार के आधार पर: कुटीर (कॉटेज), लघु-स्तरीय (small-scale), वृहद्-स्तरीय (large-scale)",
+        "रॉ-मटेरियल के आधार पर: कृषि-आधारित, खनिज-आधारित, पशु-आधारित, वन-आधारित",
+        "स्वच्छंद (Foot-loose) उद्योग — कहीं भी स्थापित किए जा सकते हैं, स्पेसिफिक लोकेशन की ज़रूरत नहीं",
+        "हाई-टेक उद्योग — मैन्युफैक्चरिंग की लेटेस्ट जनरेशन, नॉलेज-इंटेंसिव"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "बुशमैन जनजाति आर्थिक गतिविधियाँ (SA-I), स्थानांतरित कृषि क्रिटीक (SA-I), भूमध्यसागरीय vs मिश्रित कृषि (MCQ), चतुर्थक गतिविधियाँ उदाहरण (MCQ/VSA), फुट-लूज़ इंडस्ट्रीज़ डेफिनिशन (SA), प्लांटेशन एग्रीकल्चर 3 कैरेक्टरिस्टिक्स (निबंध 4), नोमैडिक ग्रेज़िंग रीजन इम्प्रूवमेंट सजेशन्स (SA-II 3)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "विश्व में परिवहन, संचार एवं व्यापार",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 5,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "परिवहन (transport) के साधन: सड़क (road), रेल, जल (water), वायु (air), पाइपलाइन",
+        "सबसे सघन रेल तंत्र: यूरोप (घना/densest)",
+        "बड़े ट्रंक मार्ग (Big Trunk Route) — उत्तरी अटलांटिक सी रूट (विश्वतम/busiest व्यापार मार्ग)",
+        "पत्तनों के प्रकार: समुद्री (sea), फेरी (feri), पैकेट स्टेशन, अन्त्रपोट (entrepot), नौसैनिक (naval), पोर्ट ऑफ कॉल",
+        "अन्त्रपोट पत्तन: माल री-एक्सपोर्ट होता है। उदाहरण: सिंगापुर (एशिया), रॉटरडैम (यूरोप), कोपेनहेगन",
+        "पनामा नहर (1914) — उत्तरी अटलांटिक और उत्तरी प्रशांत को जोड़ती। स्लूस गेट्स/लॉक्स सिस्टम। डिस्टेंस रिडक्शन।",
+        "स्वेज़ नहर (Suez Canal, 1869) — भूमध्य सागर और लाल सागर को जोड़ती। नो लॉक्स (सी-लेवल कैनाल)।",
+        "आंतरिक जल-मार्ग (Inland waterways): ग्रेट लेक्स (उत्तरी अमेरिका), राइन (यूरोप), डेन्यूब (यूरोप), वोल्गा (रूस), मिसिसिपी (USA), गंगा (भारत)",
+        "संचार के साधन — तार, मोर्स कोड, टेलेक्स, इंटरनेट, साइबर स्पेस",
+        "साइबर स्पेस — कंप्यूटर-एडेड कम्युनिकेशन वाया WWW",
+        "ई-मेल, ई-कॉमर्स, ई-एजुकेशन, ई-गवर्नेंस",
+        "व्यापार के प्रकार: द्विपक्षीय (Bilateral), बहुपक्षीय (Multilateral)",
+        "अंतर्राष्ट्रीय व्यापार के संस्थान: GATT (1947-1994), WTO (1995-), UNCTAD",
+        "GATT का WTO में रूपांतरण: 1 जनवरी 1995",
+        "WTO का मुख्यालय: जिनेवा, स्विट्ज़रलैंड"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "साइबर स्पेस मीनिंग (SA), GATT vs WTO (फिल/SA), पनामा-स्वेज़ कंपेरिज़न (LA 3), बिग ट्रंक रूट (MCQ/SA), पाइपलाइन एडवांटेजेस (निबंध 4), पोर्ट्स टाइप्स बाय कार्गो (LA), एंट्रेपोट (MCQ), WTO हेडक्वार्टर (MCQ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "पर्यावरण",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 6,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "पर्यावरण प्रदूषण (environmental pollution) — वायु, जल, ध्वनि, भूमि, महासागरीय (marine), विस्फोटक (nuclear)",
+        "प्रदूषण स्थान-विशिष्ट (location-specific): वायु प्रदूषण, ध्वनि प्रदूषण, भू-प्रदूषण। जल प्रदूषण फ्लोज़।",
+        "अम्लीय वर्षा (acid rain) — CO2, SO2, NO2 गैसेस जल के साथ मिलकर pH <7 बरसाती है",
+        "भारत की नदियों में प्रदूषण का मुख्य स्रोत: जैव और जीवाणुविक संदूषण (organic and bacterial contamination)",
+        "उद्योग जो जल प्रदूषण करते हैं: चमड़ा (leather), लुगदी और कागज़ (pulp & paper), वस्त्र (textile), रसायन (chemical)",
+        "सस्टेनेबल डेवलपमेंट (सतत पोषणीय विकास) — ब्रंटलैंड रिपोर्ट (1987)",
+        "सस्टेनेबल डेवलपमेंट के उपाय: रिसोर्स कंज़र्वेशन, रिन्यूएबल एनर्जी, रीसाइक्लिंग, पॉपुलेशन कंट्रोल"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "अम्लीय वर्षा के दो कारण (SA 2), स्थान-विशिष्ट प्रदूषण (MCQ), लेदर/पेपर/टेक्सटाइल प्रदूषण टाइप (MCQ), नमामि गंगे (MCQ), सस्टेनेबल डेवलपमेंट मीनिंग (VSA/SA)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "मानचित्र कार्य — विश्व",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 7,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी (अगर प्रैक्टिस हो तो)",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "विश्व आउटलाइन मैप पर अंकन",
+        "समुद्री पत्तन (sea ports): मुंबई, न्यूयॉर्क, सिडनी, केप टाउन, हांगकांग, पर्थ, रॉटरडैम, सिंगापुर, सैन फ्रांसिस्को, वैंकूवर, कोलंबो, लंदन, शंघाई",
+        "हवाई पत्तन (airports): मुंबई, न्यूयॉर्क, लंदन, सिडनी, शिकागो, केप टाउन, टोक्यो",
+        "प्रमुख समुद्री मार्ग: नॉर्थ अटलांटिक, नॉर्थ पैसिफिक, मेडिटेरेनियन-स्वेज़",
+        "प्रमुख नहर: स्वेज़, पनामा",
+        "प्रमुख आंतरिक जलमार्ग: ग्रेट लेक्स (N. अमेरिका), राइन, मिसिसिपी"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "भारत की जनसंख्या",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 8,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "भारत की जनसंख्या — 2011 जनगणना के हिसाब से 121.08 करोड़",
+        "भारत की पहली जनसंख्या गणना (census): 1872",
+        "रेगुलर डेसेनियल सेंसस शुरुआत: 1881",
+        "ऋणात्मक (negative) वृद्धि वाला दशक: 1911-1921 (इन्फ्लुएंज़ा महामारी, अकाल)",
+        "भारत का क्षेत्रफल: 32,87,263 वर्ग किमी (विश्व का 7वाँ सबसे बड़ा)",
+        "जनसंख्या घनत्व (2011): 382 व्यक्ति/वर्ग किमी",
+        "सर्वाधिक जनसंख्या घनत्व वाला राज्य (2011): बिहार (1106 व्यक्ति/वर्ग किमी)",
+        "द्वितीय सर्वाधिक: पश्चिम बंगाल (1028) / केरल पहले",
+        "न्यूनतम घनत्व: अरुणाचल प्रदेश",
+        "लिंग-अनुपात (sex ratio) — 2011: 940 महिलाएँ/1000 पुरुष",
+        "प्रवासन की धाराएँ: ग्रामीण से ग्रामीण, ग्रामीण से नगरिय, नगरिय से नगरिय, नगरिय से ग्रामीण",
+        "नगरिय जनसंख्या वृद्धि के कारण: शिक्षा प्रसार, औद्योगीकरण, नगरीकरण, परिवहन-संचार, गाँवों की अपेक्षा अधिक सुविधा",
+        "नगरिय जनसंख्या वृद्धि 2011-2021 में सबसे कम: केरल",
+        "प्रधानमंत्री आवास योजना — हाउसिंग स्कीम",
+        "बेटी बचाओ बेटी पढ़ाओ — लिंगानुपात सुधार के लिए",
+        "श्रमिक (worker) कैटेगरीज़ 2011: मुख्य (main), सहायक (marginal), गैर-श्रमिक (non-workers)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "भारत का क्षेत्रफल (VSA), पहली सेंसस (MCQ), ऋणात्मक वृद्धि दशक (MCQ), नगरिय जनसंख्या वृद्धि कारण (SA 2 मार्क्स), PMAY उद्देश्य (VSA), जनसंख्या घनत्व 2011 (फिल), लिंग-अनुपात (MCQ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "संसाधन (जल, वन, खनिज एवं ऊर्जा)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 9,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "संसाधन के प्रकार: पारंपरिक (conventional) और अपारंपरिक (non-conventional)",
+        "पारंपरिक: कोयला, पेट्रोल, प्राकृतिक गैस, जल-विद्युत",
+        "अपारंपरिक: सौर ऊर्जा (solar), पवन ऊर्जा (wind), बायो-ऊर्जा, भू-तापीय (geothermal), ज्वारीय (tidal)",
+        "नव-करणीय (renewable): सौर, पवन, जल, वन, पशु, मानव",
+        "अनव-करणीय (non-renewable): कोयला, पेट्रोलियम, प्राकृतिक गैस, खनिज",
+        "भारत की खनिज पट्टियाँ (mineral belts):",
+        "1. उत्तर-पूर्वी पट्टी (NE): छोटा नागपुर पठार — कोयला, लोहा, मैंगनीज़",
+        "2. दक्षिण-पूर्वी पट्टी (SE): कर्नाटक-तमिलनाडु — लोहा, मैंगनीज़",
+        "3. दक्षिण-पश्चिमी पट्टी (SW): गुजरात-महाराष्ट्र — पेट्रोलियम, तेल",
+        "4. उत्तर-पश्चिमी पट्टी (NW): राजस्थान-गुजरात — कॉपर, ज़िंक",
+        "लौह अयस्क (iron ore) के प्रकार: हेमेटाइट, मैग्नेटाइट, लिमोनाइट, साइडेराइट",
+        "हेमेटाइट और मैग्नेटाइट: लोहे के अयस्क",
+        "बॉक्साइट: एल्युमिनियम का अयस्क",
+        "भारत में कोयला निर्माण हुआ: गोंडवाना और टर्शियरी भूवैज्ञानिक काल (geological periods)",
+        "परमाणु ऊर्जा आयोग (Atomic Energy Commission): स्थापना 1948",
+        "पुनश्चक्रण (Recycling) — धातुओं के स्क्रैप, कतरन को पिघलाकर पुनः उपयोग",
+        "वन संसाधन का महत्व: सभ्यता विकास, शुष्कता रोकथाम, मरुस्थली विस्तार रोकना, रोज़गार, वन राष्ट्रीय संपत्ति"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "रिन्यूएबल रिसोर्सेस (VSA 2 से), रीसाइक्लिंग (VSA), AEC फाउंडिंग (VSA), वन संसाधन महत्व (SA), हेमेटाइट अयस्क टाइप (MCQ), बॉक्साइट अयस्क (MCQ), सौर + पवन ऊर्जा (LA 3), खनिज पट्टियाँ (LA 3)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "कृषि, विनिर्माण, उद्योग एवं परिवहन (भारत)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 10,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम-हार्ड (सबसे ज़्यादा मार्क्स सोर्स)",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "भारतीय कृषि के प्रकार: निर्वाह कृषि (subsistence), वाणिज्य कृषि (commercial), रोपण (plantation), शुष्कभूमि (dry-land), आर्द्रभूमि (wet-land), मिश्रित (mixed)",
+        "कृषि प्रतिरूप: खरीफ (मानसून के साथ — चावल, बाजरा, ज्वार, कॉटन, गन्ना), रबी (सर्दी — गेहूँ, सरसों, चना, जौ), ज़ायद (गर्मी — तरबूज़, खीरा)",
+        "शुष्क भूमि कृषि (dry land farming): <75 cm वर्षा क्षेत्र; बाजरा, ज्वार, मूंग, चना",
+        "भारत की कृषि की समस्याएँ: छोटे फार्म, मानसून निर्भरता, तकनीक की कमी, सब्सिडीज़ इश्यू, मार्केट प्रॉब्लम्स, भूमि अवनयन",
+        "कृषि में तकनीकी विकास: हरित क्रांति (Green Revolution) 1960s, HYV सीड्स, फर्टिलाइज़र्स, सिंचाई, मशीनीकरण",
+        "भारतीय उद्योग के प्रकार — आकार पर: बड़ा (large), मध्यम (medium), छोटा/लघु (small), कुटीर (cottage)",
+        "कुटीर उद्योग विशेषता: साधारण औज़ारों द्वारा पारिवारिक स्तर पर उत्पादन",
+        "स्वच्छंद (foot-loose) उद्योग: कहीं भी",
+        "आधारभूत उद्योग: लौह-इस्पात (iron-steel)",
+        "भारत की पहली सफल आधुनिक कॉटन मिल: बॉम्बे/मुंबई (1854)",
+        "फ्रूट प्रोसेसिंग, कन्फेक्शनरीज़: फूड प्रोसेसिंग इंडस्ट्री",
+        "परिवहन के साधन: सड़क (road), रेल, जल (water), वायु (air), पाइपलाइन",
+        "भारत के सड़क जाल का विश्व में स्थान: दूसरा (2nd largest, USA के बाद)",
+        "राष्ट्रीय राजमार्ग (National Highway): केंद्र सरकार द्वारा निर्मित व अनुरक्षित",
+        "बॉर्डर रोड ऑर्गेनाइज़ेशन (BRO): सैनिक दृष्टि से महत्वपूर्ण सड़क",
+        "रेल पटरी की चौड़ाई: ब्रॉड गेज (1.676m), मीटर गेज (1m), नैरो गेज (0.762m), लाइट नैरो (0.610m)",
+        "पाइपलाइन: तरल और गैसीय पदार्थ (जल, पेट्रोल, प्राकृतिक गैस)",
+        "नागपुर योजना: सड़क परिवहन (1943 प्लान)",
+        "समुद्री पत्तन (sea ports): कच्छ की खाड़ी के मुहाने पर — कांडला",
+        "मुंबई पोर्ट का दबाव कम करने के लिए: जवाहरलाल नेहरू पोर्ट (JNPT) बनाया गया"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "चावल की खेती (निबंध 4 — क्रॉप परिचय + जलवायु + क्षेत्र), भारतीय कृषि समस्याएँ (निबंध 4), चीनी उद्योग गन्ने के पास — क्यों (LA 3), सौर + पवन ऊर्जा भारत (LA 3), नेशनल हाईवे महत्व (SA 1.5), शुष्क भूमि कृषि (SA), पर्यटन लाभ + कारक (निबंध 4), रोड क्लासिफिकेशन (LA), पोर्ट्स क्लासिफिकेशन (LA), कॉटेज इंडस्ट्रीज़ (MCQ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "विकास एवं नियोजन",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 11,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "विकास का मतलब: गुणात्मक (qualitative) परिवर्तन, सिर्फ क्वांटिटेटिव नहीं",
+        "नियोजन (planning) — उद्देश्य-प्राप्ति के लिए रिसोर्सेस का व्यवस्थित उपयोग",
+        "प्रादेशिक नियोजन (regional planning) — स्पेसिफिक रीजन के लिए",
+        "भारत में प्रादेशिक असंतुलन (regional imbalance) — उत्तर-दक्षिण, अर्बन-रूरल, विकसित-अविकसित राज्य",
+        "पहाड़ी क्षेत्रों के लिए विकास उपाय: सड़कें, शिक्षा, स्वास्थ्य, पर्यटन विकास, कृषि-वानिकी, इकोटूरिज़्म",
+        "ड्रॉट प्रोन एरिया प्रोग्राम (DPAP): चौथी पंचवर्षीय योजना (1969-74) में शुरू",
+        "झाबुआ ज़िला (मध्य प्रदेश) — भू-निम्नीकरण (land degradation) केस स्टडी",
+        "भू-निम्नीकरण रोकने के उपाय: वनरोपण (afforestation), कंटूर फार्मिंग, टेरेसिंग, चेक डैम्स, वॉटरशेड मैनेजमेंट",
+        "वन क्षेत्र, गैर-कृषि कार्य और परती भूमि में वृद्धि के कारण: नगरीकरण, औद्योगिक विस्तार, वन संरक्षण नीतियाँ, परती भूमि अनुमति",
+        "सस्टेनेबल डेवलपमेंट के उपाय: रिसोर्स कंज़र्वेशन, रिन्यूएबल एनर्जी, पॉपुलेशन कंट्रोल, ऑर्गेनिक फार्मिंग",
+        "विकास को प्रभावित करने वाले अर्थव्यवस्था परिवर्तन: प्राइमरी से सेकेंडरी शिफ्ट, नगरीकरण, औद्योगीकरण, सेवा क्षेत्र वृद्धि",
+        "भारत में पर्यटन के लाभ: रोज़गार, विदेशी मुद्रा, सांस्कृतिक आदान-प्रदान, क्षेत्रीय विकास",
+        "पर्यटन को प्रभावित करने वाले कारक: जलवायु, प्राकृतिक सुंदरता, ऐतिहासिक स्थल, सुविधाएँ, सुरक्षा"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "रीजनल प्लानिंग मीनिंग + इंडिया इंबैलेंस (SA-II 3), पहाड़ी क्षेत्र डेवलपमेंट सजेशन्स (निबंध 4 — 1+3 स्प्लिट), झाबुआ भूमि निम्नीकरण उपाय (LA 3), सस्टेनेबल डेवलपमेंट + 3 उपाय (निबंध 4), पर्यटन कारक + लाभ (निबंध 4)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "जनसंख्या एवं अर्थव्यवस्था — राजस्थान",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 12,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "राजस्थान की जनसंख्या — 2011 जनगणना: 6.86 करोड़ (भारत का 6.89%)",
+        "राजस्थान का क्षेत्रफल: 3,42,239 वर्ग किमी (क्षेत्रफल के अनुसार सबसे बड़ा राज्य)",
+        "लिंग-अनुपात राजस्थान 2011: 928 — भारत एवरेज (940) से कम",
+        "राजस्थान में लिंगानुपात कम होने के कारण: पितृसत्तात्मक (patriarchal) परिवार, पुत्र को प्राथमिकता (son preference), बाल-विवाह (child marriage), मातृत्व बोझ (maternal burden), दहेज के लिए हत्या (dowry deaths), खान-पान व स्वास्थ्य सेवा में कमी, शिक्षा की कमी",
+        "राजस्थान की कृषि: शुष्क-अर्ध शुष्क क्षेत्र, मानसून पर निर्भर",
+        "राजस्थान की फसल: खरीफ (बाजरा, ज्वार, ग्वार, कपास, मूंगफली), रबी (गेहूँ, चना, सरसों, जौ)",
+        "राजस्थान की डेयरी इंडस्ट्री — सहकारी समितियों का नेटवर्क, सरस (RCDF), मिल्क-बेस्ड प्रोडक्ट्स",
+        "डेयरी विकास के उपाय: सहकारी समितियाँ, पशु-नस्ल सुधार, शीतगृह (cold storage), ग्रामीण परिवारों को पूँजी, सरल वितरण",
+        "राजस्थान में सिंचाई की स्थिति: IGNP, ट्यूबवेल, नहर, कुआँ",
+        "इंदिरा गांधी नहर परियोजना (IGNP) — वास्तविक निर्माण 1958, कँवर सेन ने संकल्पना दी",
+        "IGNP राजस्थान के 7 ज़िलों को सिंचित करती है — मरुभूमि को हराभरा किया",
+        "अरवारी पानी संसद: राजस्थान की जल-संभर (watershed) प्रबंधन योजना",
+        "जल संरक्षण के उपाय: बूँद-बूँद सिंचाई (drip), योजना का प्रभावी क्रियान्वयन, एनिकट (check dam) निर्माण, वॉटरशेड डेवलपमेंट",
+        "हरियाली — केंद्र सरकार द्वारा प्रायोजित जल संभर (watershed) विकास योजना",
+        "राजस्थान के प्रमुख उद्योग: वस्त्र (भीलवाड़ा), सीमेंट, चीनी, संगमरमर, खनन",
+        "प्रमुख खनिज: मकराना संगमरमर, जिंक (ज़ावर), कॉपर (खेतड़ी), लाइमस्टोन, जिप्सम"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "राजस्थान लिंगानुपात कम होने के कारण (VSA 2 से), IGNP कॉन्सेप्ट किसने दी (MCQ), अरवारी पानी संसद (MCQ), डेयरी इंडस्ट्री डेवलपमेंट (निबंध 4), इरिगेशन डेवलपमेंट (निबंध 4), हरियाली स्कीम (VSA)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "मानचित्र कार्य — भारत",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 13,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "मीडियम (अगर लोकेशन याद हो तो ईज़ी)",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "मानचित्र कार्य — राजस्थान",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 14,
+      "unit_name": "",
+      "part": "",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "ईज़ी (राजस्थान स्टूडेंट्स के लिए फैमिलियर)",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Geography Class 12 — 14 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "इंटरनल चॉइस (OR / अथवा) सिर्फ सेक्शन C (Q12-14) और सेक्शन D (Q15-16) में मिलता है।",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [
+      "मानव भूगोल का परिचय (4 marks)",
+      "विश्व में मानव अधिवास (4 marks)",
+      "विश्व में परिवहन, संचार एवं व्यापार (4 marks)",
+      "पर्यावरण (2 marks)",
+      "मानचित्र कार्य — विश्व (2 marks)",
+      "विकास एवं नियोजन (4 marks)",
+      "मानचित्र कार्य — भारत (2 marks)",
+      "मानचित्र कार्य — राजस्थान (2 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "ह्यूमन ज्योग्राफी थियोरिस्ट्स (रेटज़ल, ब्लाश, टेलर) (Q: , 0.5-1)",
+      "HDI — कॉन्सेप्ट + अप्रोचेस (Q: , 0.5-1.5)",
+      "स्थानांतरित कृषि (लडांग/मिल्पा/झूमिंग) (Q: , 0.5-1)",
+      "जनसंख्या घनत्व + वितरण (Q: , 1.5-4)",
+      "इंडस्ट्रीज़ क्लासिफिकेशन (कॉटेज/लार्ज/फुट-लूज़) (Q: , 1.5-4)",
+      "भारत रोड नेटवर्क + नेशनल हाईवेज़ (Q: , 1.5-3)",
+      "पोर्ट टाइप्स + स्पेसिफिक पोर्ट्स (Q: , 0.5-3)",
+      "भारत में चावल / गेहूँ की खेती (Q: , 4)",
+      "जल संरक्षण + वॉटरशेड (Q: , 3-4)",
+      "इंदिरा गांधी नहर (कँवर सेन, IGNP) (Q: , 0.5-1.5)",
+      "राजस्थान सेक्स रेशियो + कारण (Q: , 1-2)",
+      "डेयरी इंडस्ट्री राजस्थान (Q: , 4)",
+      "अम्लीय वर्षा / प्रदूषण प्रकार (Q: , 0.5-2)",
+      "GATT → WTO ट्रांज़िशन (Q: , 0.5-2)",
+      "मैप: विश्व पोर्ट्स (केप टाउन, सिडनी, पर्थ, हांगकांग) (Q: , 2)",
+      "मैप: भारत आयरन-स्टील / तेल रिफाइनरीज़ (Q: , 2)"
+    ],
+    "chapters_mostly_theory": [
+      "मानव भूगोल का परिचय",
+      "विश्व की जनसंख्या (वितरण, घनत्व, वृद्धि एवं मानव विकास)",
+      "विश्व में मानव अधिवास",
+      "विश्व में मानव व्यवसाय (प्राथमिक, द्वितीयक, तृतीयक एवं चतुर्थक क्रियाकलाप)",
+      "विश्व में परिवहन, संचार एवं व्यापार",
+      "पर्यावरण",
+      "मानचित्र कार्य — विश्व",
+      "भारत की जनसंख्या",
+      "संसाधन (जल, वन, खनिज एवं ऊर्जा)",
+      "कृषि, विनिर्माण, उद्योग एवं परिवहन (भारत)",
+      "विकास एवं नियोजन",
+      "जनसंख्या एवं अर्थव्यवस्था — राजस्थान",
+      "मानचित्र कार्य — भारत",
+      "मानचित्र कार्य — राजस्थान"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "मानव भूगोल का परिचय",
+      "विश्व की जनसंख्या (वितरण, घनत्व, वृद्धि एवं मानव विकास)",
+      "विश्व में मानव अधिवास",
+      "विश्व में मानव व्यवसाय (प्राथमिक, द्वितीयक, तृतीयक एवं चतुर्थक क्रियाकलाप)",
+      "विश्व में परिवहन, संचार एवं व्यापार",
+      "पर्यावरण",
+      "मानचित्र कार्य — विश्व",
+      "भारत की जनसंख्या",
+      "संसाधन (जल, वन, खनिज एवं ऊर्जा)",
+      "कृषि, विनिर्माण, उद्योग एवं परिवहन (भारत)",
+      "विकास एवं नियोजन",
+      "जनसंख्या एवं अर्थव्यवस्था — राजस्थान",
+      "मानचित्र कार्य — भारत",
+      "मानचित्र कार्य — राजस्थान"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "ह्यूमन ज्योग्राफी थियोरिस्ट्स (रेटज़ल, ब्लाश, टेलर) (Q: , 0.5-1)",
+      "HDI — कॉन्सेप्ट + अप्रोचेस (Q: , 0.5-1.5)",
+      "स्थानांतरित कृषि (लडांग/मिल्पा/झूमिंग) (Q: , 0.5-1)",
+      "जनसंख्या घनत्व + वितरण (Q: , 1.5-4)",
+      "इंडस्ट्रीज़ क्लासिफिकेशन (कॉटेज/लार्ज/फुट-लूज़) (Q: , 1.5-4)",
+      "भारत रोड नेटवर्क + नेशनल हाईवेज़ (Q: , 1.5-3)",
+      "पोर्ट टाइप्स + स्पेसिफिक पोर्ट्स (Q: , 0.5-3)",
+      "भारत में चावल / गेहूँ की खेती (Q: , 4)",
+      "जल संरक्षण + वॉटरशेड (Q: , 3-4)",
+      "इंदिरा गांधी नहर (कँवर सेन, IGNP) (Q: , 0.5-1.5)",
+      "राजस्थान सेक्स रेशियो + कारण (Q: , 1-2)",
+      "डेयरी इंडस्ट्री राजस्थान (Q: , 4)",
+      "अम्लीय वर्षा / प्रदूषण प्रकार (Q: , 0.5-2)",
+      "GATT → WTO ट्रांज़िशन (Q: , 0.5-2)",
+      "मैप: विश्व पोर्ट्स (केप टाउन, सिडनी, पर्थ, हांगकांग) (Q: , 2)",
+      "मैप: भारत आयरन-स्टील / तेल रिफाइनरीज़ (Q: , 2)"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "key_terms_masterlist": {
+      "note": "MCQ और फिल ब्लैंक्स में इन टर्म्स से 10-15 मार्क्स डायरेक्टली आते हैं। सब याद करो।",
+      "geographers_and_theorists": [
+        {
+          "name": "फ्रेडरिक रेटज़ल",
+          "contribution": "फादर ऑफ ह्यूमन ज्योग्राफी, निश्चयवाद (Determinism)"
+        },
+        {
+          "name": "विडाल डी ला ब्लाश",
+          "contribution": "संभववाद (Possibilism), 'मानव भूगोल मानव समाजों और धरातलों के बीच संबंधों का संश्लेषित अध्ययन है'"
+        },
+        {
+          "name": "एलन C. सेंपल",
+          "contribution": "अमेरिकन स्कूल, रेटज़ल के शिष्य, एनवायरनमेंटल इन्फ्लुएंसेस"
+        },
+        {
+          "name": "ग्रिफिथ टेलर",
+          "contribution": "नव-निश्चयवाद / स्टॉप-एंड-गो डिटरमिनिज़्म। नवनिश्चयवाद"
+        },
+        {
+          "name": "डॉ. महबूब-उल-हक",
+          "contribution": "ह्यूमन डेवलपमेंट कॉन्सेप्ट, HDI (UNDP के साथ, 1990)"
+        },
+        {
+          "name": "प्रो. अमर्त्य सेन",
+          "contribution": "मानव विकास का कैपेबिलिटी अप्रोच"
+        },
+        {
+          "name": "कँवर सेन",
+          "contribution": "इंदिरा गांधी नहर (IGNP) की संकल्पना"
+        },
+        {
+          "name": "K.V. सुंदरम मोनी",
+          "contribution": "भारत में रीजनल प्लानिंग और इंबैलेंस (NCERT रेफरेंस)"
+        }
+      ],
+      "important_definitions": [
+        {
+          "term": "संभववाद (Possibilism)",
+          "definition": "प्रकृति अवसर प्रदान करती है और मानव उनका उपयोग करता है (ब्लाश)"
+        },
+        {
+          "term": "निश्चयवाद (Determinism)",
+          "definition": "मानव जीवन प्रकृति से पूर्णतया नियंत्रित होता है (रेटज़ल)"
+        },
+        {
+          "term": "नव-निश्चयवाद",
+          "definition": "स्टॉप-एंड-गो फिलॉसफी — प्रकृति और संस्कृति का संतुलित संबंध (टेलर)"
+        },
+        {
+          "term": "HDI",
+          "definition": "3 डायमेंशन्स: हेल्थ (जीवन प्रत्याशा), एजुकेशन (साक्षरता), स्टैंडर्ड ऑफ लिविंग (GNI प्रति व्यक्ति)। रेंज 0-1।"
+        },
+        {
+          "term": "वर्किंग पॉपुलेशन",
+          "definition": "15-59 आयु वर्ग के स्त्री-पुरुष जो आर्थिक क्रिया-कलापों में सम्मिलित हैं"
+        },
+        {
+          "term": "महानगर",
+          "definition": "10 लाख (1 मिलियन) से अधिक जनसंख्या वाला नगर"
+        },
+        {
+          "term": "स्थानांतरित कृषि",
+          "definition": "आदिम जनजातियों द्वारा वनों को जलाकर खेत बनाए जाते हैं। 2-3 वर्ष बाद स्थान बदलते हैं"
+        },
+        {
+          "term": "साइबर स्पेस",
+          "definition": "कंप्यूटरकृत स्पेस संचार जो इंटरनेट (WWW) द्वारा आवृत्त है। ई-मेल, ई-कॉमर्स आदि प्रदान करता है"
+        },
+        {
+          "term": "GATT",
+          "definition": "जनरल एग्रीमेंट ऑन टैरिफ्स एंड ट्रेड। 30 अक्टूबर 1947, 96 देशों द्वारा 1-1-1948 से लागू। 1-1-1995 को WTO में बदला"
+        },
+        {
+          "term": "अम्लीय वर्षा",
+          "definition": "वर्षा जिसमें CO2, SO2, NO2 गैसेस जल के साथ मिलकर pH <7 बरसाती है"
+        },
+        {
+          "term": "सस्टेनेबल डेवलपमेंट",
+          "definition": "ऐसे विकास जो वर्तमान आवश्यकताएँ पूरी करे और भविष्य पीढ़ी के लिए रिसोर्सेस सुरक्षित रखे (ब्रंटलैंड 1987)"
+        },
+        {
+          "term": "फुट-लूज़ इंडस्ट्रीज़",
+          "definition": "ऐसे उद्योग जो कहीं भी स्थापित किए जा सकते हैं — स्पेसिफिक रॉ मटेरियल या मार्केट की ज़रूरत नहीं"
+        },
+        {
+          "term": "रीसाइक्लिंग (पुनश्चक्रण)",
+          "definition": "धातुओं के स्क्रैप, कतरन को पिघलाकर पुनः उपयोग में लाना"
+        },
+        {
+          "term": "गैरिसन टाउन",
+          "definition": "सैनिक छावनियाँ (cantonment)। उदाहरण: अंबाला, महू, जालंधर"
+        },
+        {
+          "term": "एंट्रेपोट पोर्ट",
+          "definition": "पत्तन जहाँ माल आयात होके फिर री-एक्सपोर्ट होता है। सिंगापुर, रॉटरडैम।"
+        }
+      ],
+      "key_dates_and_facts": [
+        {
+          "event": "एटॉमिक एनर्जी कमीशन स्थापना",
+          "date": "1948"
+        },
+        {
+          "event": "GATT स्थापना",
+          "date": "30 अक्टूबर 1947, 1 जनवरी 1948 से लागू"
+        },
+        {
+          "event": "GATT → WTO",
+          "date": "1 जनवरी 1995"
+        },
+        {
+          "event": "WTO हेडक्वार्टर",
+          "location": "जिनेवा, स्विट्ज़रलैंड"
+        },
+        {
+          "event": "भारत की पहली जनसंख्या गणना",
+          "date": "1872"
+        },
+        {
+          "event": "रेगुलर डेसेनियल सेंसस स्टार्ट",
+          "date": "1881"
+        },
+        {
+          "event": "भारत में ऋणात्मक वृद्धि दशक",
+          "years": "1911-1921"
+        },
+        {
+          "event": "भारत का क्षेत्रफल",
+          "value": "32,87,263 वर्ग किमी"
+        },
+        {
+          "event": "भारत के सड़क जाल का विश्व रैंक",
+          "rank": "2nd"
+        },
+        {
+          "event": "रोपण कृषि इन मलेशिया/इंडोनेशिया",
+          "name": "लडांग"
+        },
+        {
+          "event": "शिफ्टिंग इन NE भारत",
+          "name": "झूमिंग"
+        },
+        {
+          "event": "शिफ्टिंग इन मेक्सिको",
+          "name": "मिल्पा"
+        },
+        {
+          "event": "शिफ्टिंग इन ब्राज़ील",
+          "name": "रोका"
+        },
+        {
+          "event": "शिफ्टिंग इन श्रीलंका",
+          "name": "कुमारी"
+        },
+        {
+          "event": "1st HDR प्रकाशन",
+          "year": 1990
+        },
+        {
+          "event": "ब्रंटलैंड रिपोर्ट 'आवर कॉमन फ्यूचर'",
+          "year": 1987
+        },
+        {
+          "event": "राजस्थान एरिया",
+          "value": "3,42,239 वर्ग किमी"
+        },
+        {
+          "event": "राजस्थान सेक्स रेशियो 2011",
+          "value": 928
+        },
+        {
+          "event": "भारत सेक्स रेशियो 2011",
+          "value": 940
+        },
+        {
+          "event": "भारत पॉपुलेशन 2011",
+          "value": "121.08 करोड़"
+        },
+        {
+          "event": "1st सक्सेसफुल कॉटन मिल इन इंडिया",
+          "location": "मुंबई, 1854"
+        },
+        {
+          "event": "इंडिया हाईएस्ट डेंसिटी स्टेट 2011",
+          "state": "बिहार (1106)"
+        },
+        {
+          "event": "इंडिया लोएस्ट ग्रोथ 2011-21",
+          "state": "केरल"
+        },
+        {
+          "event": "DPAP स्टार्ट",
+          "plan": "चौथी पंचवर्षीय योजना (1969-74)"
+        },
+        {
+          "event": "नागपुर प्लान (रोड ट्रांसपोर्ट)",
+          "year": 1943
+        }
+      ],
+      "matching_pairs_frequently_asked": [
+        {
+          "item": "निश्चयवाद (Determinism)",
+          "match": "रेटज़ल"
+        },
+        {
+          "item": "संभववाद (Possibilism)",
+          "match": "विडाल डी ला ब्लाश"
+        },
+        {
+          "item": "नव-निश्चयवाद",
+          "match": "ग्रिफिथ टेलर"
+        },
+        {
+          "item": "HDI",
+          "match": "महबूब-उल-हक"
+        },
+        {
+          "item": "कैपेबिलिटी अप्रोच",
+          "match": "अमर्त्य सेन"
+        },
+        {
+          "item": "IGNP कॉन्सेप्ट",
+          "match": "कँवर सेन"
+        },
+        {
+          "item": "नागपुर प्लान",
+          "match": "रोड ट्रांसपोर्ट"
+        },
+        {
+          "item": "हेमेटाइट/मैग्नेटाइट",
+          "match": "लोहा (Iron) अयस्क"
+        },
+        {
+          "item": "बॉक्साइट",
+          "match": "एल्युमिनियम अयस्क"
+        },
+        {
+          "item": "कांडला पोर्ट",
+          "match": "कच्छ की खाड़ी का शीर्ष"
+        },
+        {
+          "item": "लडांग",
+          "match": "मलेशिया/इंडोनेशिया शिफ्टिंग"
+        },
+        {
+          "item": "मिल्पा",
+          "match": "मेक्सिको शिफ्टिंग"
+        },
+        {
+          "item": "सिंगापुर",
+          "match": "एशिया का एंट्रेपोट पोर्ट"
+        },
+        {
+          "item": "नमामि गंगे",
+          "match": "गंगा सफाई राष्ट्रीय मिशन"
+        },
+        {
+          "item": "अरवारी पानी संसद",
+          "match": "राजस्थान वॉटरशेड मैनेजमेंट"
+        },
+        {
+          "item": "भूमध्यसागरीय कृषि",
+          "match": "खारे फल (Citrus fruits)"
+        },
+        {
+          "item": "चावल (Rice)",
+          "match": "खरीफ क्रॉप"
+        },
+        {
+          "item": "गेहूँ / सरसों / चना",
+          "match": "रबी क्रॉप्स"
+        },
+        {
+          "item": "पन्ना, पारा, पल्ली, नगला, ढाणी",
+          "match": "हैमलेटेड सेटलमेंट्स"
+        },
+        {
+          "item": "रानीगंज, झरिया",
+          "match": "माइनिंग टाउन्स"
+        },
+        {
+          "item": "अंबाला",
+          "match": "गैरिसन टाउन"
+        },
+        {
+          "item": "रुड़की",
+          "match": "एजुकेशनल टाउन"
+        }
+      ]
+    },
+    "paper_objectives_weightage": {
+      "note": "ऑफिशियल ब्लूप्रिंट के हिसाब से पेपर 4 ऑब्जेक्टिव्स पर बनाया जाता है:",
+      "knowledge_Gyan": {
+        "marks": 14,
+        "percent": 25.0,
+        "note": "फैक्ट्स, डेफिनिशन्स, नाम, डेट्स — याद-बेस्ड क्वेश्चन्स (MCQ, फिल, VSA में ज़्यादा)"
+      },
+      "understanding_Avbodh": {
+        "marks": 20,
+        "percent": 35.71,
+        "note": "कॉन्सेप्ट्स समझाना, कारण बताना, तुलना करना — SA-I, SA-II में ज़्यादा। सबसे बड़ा कंपोनेंट है।"
+      },
+      "application_Gyanopyog": {
+        "marks": 14,
+        "percent": 25.0,
+        "note": "नॉलेज का एप्लिकेशन, सजेशन्स, एनालिसिस — निबंध और SA-II में"
+      },
+      "skill_Kaushal_Maulikta": {
+        "marks": 8,
+        "percent": 14.29,
+        "note": "मैप वर्क (विश्व, भारत) + ऑरिजिनैलिटी वाले आंसर्स। मैप = 4 मार्क्स गारंटीड स्किल।"
+      }
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not typically applicable for Geography.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not typically applicable for Geography (humanities subject).",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Geography",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Geography",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Geography — no practical.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "Ch 10 (इंडिया कृषि+उद्योग+परिवहन) = सबसे बड़ा कंटेंट एरिया (5 मार्क्स) और निबंध में भी कॉमन। Ch 4 (विश्व व्यवसाय = 6 मार्क्स) भी हाई प्रायोरिटी।",
+    "easy_percent": 0,
+    "medium_percent": 0,
+    "hard_percent": 0,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "सेक्शन A के 37+ ऑब्जेक्टिव क्वेश्चन्स में 22-23 मार्क्स पक्के — नो नेगेटिव मार्किंग, सब अटेम्प्ट करो",
+      "मैप वर्क गारंटीड 4 मार्क्स — हर हफ्ते 10 लोकेशन्स प्रैक्टिस करो",
+      "निबंध में इंट्रो + 4 पॉइंट्स + कंक्लूज़न फॉर्मैट — एग्ज़ांपल्स + डेट्स एड करो",
+      "स्पेलिंग बहुत इम्पोर्टेंट — रेटज़ल, ब्लाश, बॉक्साइट, कांडला — गलत स्पेलिंग से मार्क्स कटते हैं",
+      "हिंदी-इंग्लिश में कन्फ्यूज़न हो तो हिंदी यूज़ करो — हिंदी वर्ज़न ही ऑफिशियल मानी जाती है",
+      "मैप अटैच करना भूलना मत — आउटलाइन मैप आंसर-बुक के साथ नत्थी करो",
+      "पेंसिल से मैप मार्क पहले, फिर पेन से नाम — करेक्शन्स अलाउड",
+      "OR ऑप्शन चूज़ करने से पहले दोनों पढ़ो — ईज़ियर वाला सिलेक्ट करो",
+      "फिल ब्लैंक्स में एक शब्द लिखना — एक्स्ट्रा बात ना लिखो, टाइम वेस्ट",
+      "ग्राफ/डायग्राम जहाँ पॉसिबल हो (डेमोग्राफिक ट्रांज़िशन, पिरामिड) ज़रूर बनाओ",
+      "आंसर्स को नंबरिंग + सब-हेडिंग दे दो — मार्कर फ्रेंडली"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "पेपर पढ़ो, OR ऑप्शन्स में से ईज़ियर चूज़ करो। मैप्स के लोकेशन्स याद करने की कोशिश करो।"
+      },
+      {
+        "section_id": "Section_A_40min",
+        "recommended_minutes": 0,
+        "note": "Q1 (MCQ) + Q2 (फिल) + Q3 (VSA) — टोटल 23 मार्क्स। 40 मिनट में आराम से। कन्फ्यूज़्ड में भी गेस करो।"
+      },
+      {
+        "section_id": "Section_B_50min",
+        "recommended_minutes": 0,
+        "note": "8 SA × 6 मिनट। कॉन्सेप्ट + 2-3 पॉइंट्स + एग्ज़ांपल। 50 शब्द लिमिट।"
+      },
+      {
+        "section_id": "Section_C_30min",
+        "recommended_minutes": 0,
+        "note": "3 LA × 10 मिनट। 100 शब्द। OR वाइज़ली चूज़। पॉइंट्स + एग्ज़ांपल्स।"
+      },
+      {
+        "section_id": "Section_D_30min",
+        "recommended_minutes": 0,
+        "note": "2 निबंध × 15 मिनट। 150-200 शब्द। इंट्रो + 4 पॉइंट्स + कंक्लूज़न।"
+      },
+      {
+        "section_id": "Section_E_15min",
+        "recommended_minutes": 0,
+        "note": "2 मैप्स × 7 मिनट। पेंसिल मार्क → पेन नाम। नीट प्रेज़ेंटेशन।"
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "क्वेश्चन नंबर्स चेक, मैप अटैच्ड चेक, स्पेलिंग वेरीफाई (भूगोलवेत्ता, प्लेसेस)।"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 19",
+        "target_marks": 19,
+        "strategy": "सेक्शन A फुल (MCQ 7-8 + फिल 4-5 + VSA 6-7 = 17-20 मार्क्स आसान) + 2 मैप स्थान (1 मार्क) + 1-2 SA = 20-24 मार्क्स। पास गारंटीड।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "MCQ के लिए भूगोलवेत्ताओं के नाम + मैचिंग पेयर्स रट लो — 5-6 मार्क्स पक्के",
+          "फिल ब्लैंक्स के लिए की टर्म्स लिस्ट याद करो — 3-4 मार्क्स पक्के",
+          "VSA में डेफिनिशन्स — स्थानांतरित कृषि, HDI, साइबर स्पेस, रीसाइक्लिंग — ईज़ी 5-6 मार्क्स",
+          "मैप: 2 विश्व पोर्ट्स + 2 भारत लोकेशन्स = 2 मार्क्स आसान",
+          "चैप्टर 6 (पर्यावरण) और चैप्टर 1 (परिचय) ईज़ी थ्योरी — ज़रूर प्रिपेयर"
+        ],
+        "chapters_to_skip_safely": [
+          "लॉन्ग निबंध फुल मैकेनिज़्म",
+          "राजस्थान डीप कंटेंट (अगर टाइम नहीं)",
+          "राजस्थान मैप-वर्क (2026 में नहीं आया)"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "35",
+        "target_marks": 35,
+        "strategy": "सेक्शन A फुल (22-23) + 5-6 SA (8-10) + 1 LA (2-3) + 2 मैप (3-4) = 35-40 मार्क्स",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Ch 2 (जनसंख्या) — HDI, डेमोग्राफिक ट्रांज़िशन, माइग्रेशन — स्कोरिंग",
+          "Ch 4 (व्यवसाय) — एग्रीकल्चर टाइप्स मैचिंग, ऑक्यूपेशन्स पिरामिड — स्कोरिंग",
+          "Ch 10 (इंडिया एग्रीकल्चर + इंडस्ट्रीज़) — राइस/व्हीट, कॉटन मिल, रोड क्लासिफिकेशन",
+          "सेक्शन C में 1-2 क्वेश्चन अटेम्प्ट करो (3 मार्क्स each)",
+          "मैप प्रैक्टिस रेगुलर करो — 20 पोर्ट्स/सिटीज़ लिस्ट बनाओ"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45 marks",
+        "target_marks": 45,
+        "strategy": "सेक्शन A फुल (22-23) + सेक्शन B 7-8 (10-12) + सेक्शन C 3 (8-9) + सेक्शन D 1-2 निबंध (6-8) + मैप फुल (4) = 48-55",
+        "focus_chapters": [],
+        "focus_areas": [
+          "निबंध टॉपिक्स मास्टर करो: चावल की खेती, उद्योग 4 विशेषताएँ, जल संरक्षण, सौर+पवन ऊर्जा",
+          "LA टॉपिक्स: व्यापारिक केंद्र, आउटसोर्सिंग, पोर्ट क्लासिफिकेशन, स्वेज़ vs पनामा",
+          "भारत मैप: ऑल 10+ लोकेशन्स रेडी (आयरन-स्टील, पोर्ट्स, रिफाइनरीज़)",
+          "विश्व मैप: 10+ पोर्ट्स और एयरपोर्ट्स रेडी",
+          "चैप्टर 12 (राजस्थान) फुल प्रिपेयर — IGNP + डेयरी + इरिगेशन"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping 52",
+        "target_marks": 52,
+        "strategy": "सारे 56 मार्क्स टार्गेट। सेक्शन A फुल (23) + सेक्शन B फुल (12) + सेक्शन C फुल (9) + सेक्शन D फुल (8) + मैप फुल (4) = 56।",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "निबंध में डायग्राम्स/फ्लोचार्ट्स एड करो — विज़ुअल प्रेज़ेंटेशन",
+          "डेटा + पर्सेंटेजेस + ईयर्स सभी आंसर्स में इन्क्लूड करो",
+          "राजस्थान कंटेंट में लोकल एग्ज़ांपल्स (भीलवाड़ा, मकराना, खेतड़ी) ज़रूर",
+          "प्रीवियस 5-6 ईयर्स के PYQs सॉल्व करो — क्वेश्चन्स रिपीट होते हैं",
+          "मैप प्रैक्टिस डेली — मसल मेमोरी बनाओ",
+          "राइटिंग स्पीड इम्प्रूव करो — 56 मार्क्स 3 घंटों में आराम से कंप्लीट"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT फंडामेंटल्स ऑफ ह्यूमन ज्योग्राफी (क्लास 12 पार्ट A)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "चैप्टर 1-6 का बेस (विश्व ह्यूमन ज्योग्राफी)। सब चैप्टर्स ज़रूर पढ़ो।"
+      },
+      {
+        "name": "NCERT इंडिया: पीपल एंड इकोनॉमी (क्लास 12 पार्ट B)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "चैप्टर 8-11 का बेस (भारत)। एग्रीकल्चर + इंडस्ट्रीज़ + ट्रांसपोर्ट का डिटेल।"
+      },
+      {
+        "name": "NCERT प्रैक्टिकल वर्क इन ज्योग्राफी II (क्लास 12 पार्ट C)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "मैप वर्क + डेटा इंटरप्रिटेशन के लिए।"
+      },
+      {
+        "name": "राजस्थान अध्ययन (आरबीएसई ऑफिशियल टेक्स्टबुक)",
+        "author": "",
+        "publisher": "राजस्थान स्टेट टेक्स्टबुक बोर्ड, जयपुर",
+        "purpose": "Primary",
+        "note": "चैप्टर 12 (राजस्थान) का ऑथरिटेटिव सोर्स।"
+      },
+      {
+        "name": "SP एग्ज़ामिनेशन आइडिया भूगोल क्लास 12",
+        "author": "",
+        "publisher": "साइंस पब्लिकेशन्स, जयपुर (L.L. अग्रवाल)",
+        "purpose": "Supplementary",
+        "note": "आरबीएसई के लिए #1 रेफरेंस। चैप्टर-वाइज़ MCQ, फिल, VSA, SA, LA सब हैं। प्रीवियस पेपर्स सॉल्व्ड।"
+      },
+      {
+        "name": "प्रीवियस ईयर पेपर्स 2018-2026 (आरबीएसई)",
+        "author": "",
+        "publisher": "आरबीएसई ऑफिशियल",
+        "purpose": "Supplementary",
+        "note": "rajeduboard.rajasthan.gov.in से डाउनलोड। 30-40% क्वेश्चन्स सेम-सिमिलर रिपीट होते हैं।"
+      },
+      {
+        "name": "आरबीएसई मॉडल पेपर 2026-27",
+        "author": "",
+        "publisher": "आरबीएसई ऑफिशियल",
+        "purpose": "Supplementary",
+        "note": "ऑफिशियल मॉडल पेपर: rajeduboard.rajasthan.gov.in > Old Papers/Model Questions।"
+      },
+      {
+        "name": "नूतन भूगोल क्लास 12 (हिंदी मीडियम)",
+        "author": "",
+        "publisher": "नगीन प्रकाशन",
+        "purpose": "Supplementary",
+        "note": "चैप्टर समरीज़ + ऑब्जेक्टिव क्वेश्चन्स — क्विक रिवीज़न के लिए।"
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "rajeduboard.rajasthan.gov.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 मिनट रीडिंग टाइम + 10 मिनट इंटरनल रिवीज़न टाइम। टोटल 195 मिनट।"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "roll_number_on_paper: क्वेश्चन पेपर पर पहले रोल नंबर लिखो (कंपल्सरी)",
+      "question_number_compulsory: True",
+      "sequence_compulsory: False",
+      "internal_parts_together: जिस प्रश्न में पार्ट्स हैं (i, ii, iii), उन सभी के आंसर्स एक साथ लिखो",
+      "language_rule: हिंदी या इंग्लिश — कंसिस्टेंट रखो। मिक्स्ड चलेगा पर रीडेबल हो। हिंदी-इंग्लिश कॉन्फ्लिक्ट में हिंदी वर्ज़न ऑफिशियल।",
+      "no_negative_marking: True",
+      "mcq_attempt_all: सारे 18 MCQ अटेम्प्ट करो — नो नेगेटिव मार्किंग",
+      "map_spelling: मैप में नाम स्पेलिंग गलत = उस पॉइंट के लिए 0 मार्क्स। पहले लिखने की प्रैक्टिस करो।",
+      "long_answer_structure: इंट्रो + बॉडी + कंक्लूज़न — पार्शियल मार्क्स मिलते हैं अगर स्ट्रक्चर क्लियर"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['ब्लू', 'ब्लैक'] pencil_use: मैप वर्क के लिए ज़रूरी — पहले पेंसिल से मार्क, फिर पेन से नाम। डायग्राम्स/फ्लोचार्ट्स के लिए भी। map_marking: पेंसिल से लोकेशन डॉट/मार्क करो पहले (करेक्टेबल)। फिर ब्लू पेन से नीट नाम। एरो ऑप्शनल पर नीट दिखता है।"
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "word_limits_approximate: वर्ड लिमिट्स अप्रॉक्सिमेट हैं (20/50/100/150-200) — 10-15% अप/डाउन एक्सेप्टेबल paragraph_format: SA, LA, निबंध में पैराग्राफ फॉर्मैट। बुलेट पॉइंट्स अवॉइड करो जब तक आस्क्ड ना हो। diagrams: तीर-तारा पैटर्न, डेमोग्राफिक ट्रांज़िशन ग्राफ, मैप स्केचेस — जहाँ ज़रूरी हो वहाँ बनाओ spelling_important: भूगोलवेत्ता नेम्स, प्लेस नेम्स (रेटज़ल, ब्लाश, बॉक्साइट, कांडला, मकराना) — स्पेलिंग सही ज़रूरी। गलत स्पेलिंग = मार्क्स कट। partial_marking: True partial_marking_note: इनकम्प्लीट आंसर्स पर भी पार्शियल मार्क्स मिलते हैं — कुछ न कुछ ज़रूर लिखो",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

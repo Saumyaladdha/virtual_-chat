@@ -1,0 +1,98 @@
+## अंग्रेज़ी विषय — सामान्य गलतियाँ — बोर्ड परीक्षा
+
+---
+
+MISTAKE 1 — लेखन में व्याकरण की गलतियाँ
+बोर्ड परीक्षा में अंग्रेज़ी निबंध और पत्र में काल (Tense), लिंग (Gender), एकवचन-बहुवचन की गलतियाँ सबसे अधिक अंक काटती हैं।
+
+गलत तरीका:
+"He go to school yesterday." (गलत काल)
+"The childrens are playing." (गलत बहुवचन)
+
+सही तरीका:
+"He went to school yesterday."
+"The children are playing."
+
+और भी सामान्य गलतियाँ:
+- "She don't know." (गलत) → "She doesn't know." (सही)
+- "Informations" (गलत) → "Information" (सही — अगणनीय संज्ञा)
+
+नियम: हर वाक्य लिखने के बाद एक बार जाँचो — क्रिया का काल Subject से मेल खाता है? यह एक क्षण की जाँच अनेक अंक बचाती है।
+
+सभी प्रश्नों पर लागू: निबंध, पत्र लेखन, प्रश्नोत्तर।
+
+---
+
+MISTAKE 2 — प्रत्यक्ष और अप्रत्यक्ष कथन में गलती
+Reported Speech में काल परिवर्तन न करना सबसे आम गलती है।
+
+गलत तरीका:
+Direct: He said, "I am happy."
+Reported: He said that he is happy. (गलत — काल नहीं बदला)
+
+सही तरीका:
+Reported: He said that he was happy. (सही)
+
+और भी उदाहरण:
+- "will" → "would" बनता है
+- "can" → "could" बनता है
+- "am/is/are" → "was/were" बनता है
+
+नियम: Direct से Indirect बनाते समय काल एक चरण पीछे जाता है — यही नियम सभी पर लागू होता है।
+
+सभी प्रश्नों पर लागू: Grammar section — Narration।
+
+---
+
+MISTAKE 3 — पत्र लेखन में प्रारूप की गलती
+Formal Letter में सही प्रारूप न अपनाने से प्रारूप के अंक कट जाते हैं।
+
+गलत तरीका:
+सीधे विषय-वस्तु लिख दी — Sender's Address, Date, Subject, Salutation नहीं लिखा।
+
+सही तरीका (Formal Letter):
+[Sender's Address]
+[Date]
+[Receiver's Name & Address]
+Subject: [एक पंक्ति में]
+Dear Sir/Madam,
+[Body]
+Yours faithfully,
+[Name]
+
+नियम: पत्र लिखने से पहले मन में प्रारूप की जाँच करो — Address, Date, Subject, Salutation, Closing — पाँचों हैं?
+
+सभी प्रश्नों पर लागू: Letter Writing section।
+
+---
+
+MISTAKE 4 — गद्यांश में उत्तर अपने शब्दों में न लिखना
+Comprehension Passage में गद्यांश की ही पंक्तियाँ हूबहू उठाकर लिख देना।
+
+गलत तरीका:
+प्रश्न: "What is the main idea of the passage?"
+उत्तर: [पूरा paragraph copy किया]
+
+सही तरीका:
+अपने शब्दों में एक-दो वाक्य में मुख्य विचार लिखो। उत्तर संक्षिप्त, स्पष्ट और अपनी भाषा में होना चाहिए।
+
+नियम: Comprehension में परीक्षक देखता है कि तुमने समझा या नहीं — इसलिए अपने शब्दों में लिखो, copy मत करो।
+
+सभी प्रश्नों पर लागू: Reading Comprehension section।
+
+---
+
+MISTAKE 5 — निबंध में परिचय और निष्कर्ष भूल जाना
+Essay लिखते समय केवल मुख्य बिंदु लिखना — Introduction और Conclusion छोड़ देना।
+
+गलत तरीका:
+सीधे बिंदु लिखना शुरू कर दिया — कोई परिचय नहीं, कोई निष्कर्ष नहीं।
+
+सही तरीका:
+1. Introduction: विषय का परिचय (2-3 वाक्य)
+2. Body: मुख्य बिंदु (paragraphs में)
+3. Conclusion: निष्कर्ष (2-3 वाक्य)
+
+नियम: Introduction + Body + Conclusion = पूर्ण निबंध। बिना Introduction और Conclusion के निबंध अधूरा माना जाता है।
+
+सभी प्रश्नों पर लागू: Essay / Article writing section।

@@ -1,0 +1,1966 @@
+{
+  "board": "MPBSE",
+  "class": "12",
+  "subject": "Mathematics",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 80,
+    "practical_paper": 0,
+    "internal_assessment": 20,
+    "total": 100,
+    "passing_marks_theory": 33,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 180,
+    "extra_time_given": false,
+    "extra_time_note": "Nahi milta. 3 ghante fixed hain. Bell bajte hi answer sheet submit karni hoti hai.",
+    "internal_assessment_note": "3 projects + 1 practical file = 20 marks. Teeno projects compulsory hain alag alag exams se pehle submit karne hote hain."
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 23,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 32,
+    "total_sets": 4,
+    "sets_note": "Set A, B, C, D — same questions, different order. Marks distribution identical in all sets.",
+    "sets_same_or_different": "Same questions, different order.",
+    "language_of_attempt": "Hindi aur English dono allowed. Mixed bhi chalega.",
+    "all_compulsory_note": "",
+    "pariksha_bodh_questions_in_exam": "Haan — Yugbodh Pariksha Bodh ke questions exam mein directly ya similar pattern mein aate hain.",
+    "ncert_enough": "NCERT alone kaafi nahi. MPBSE ke liye Pariksha Bodh + previous year papers zaroori hain.",
+    "official_scheme_note": "MPBSE ki official blueprint hi follow karni chahiye.",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "Officially MPBSE ya NCERT ki taraf se jari hota hai. Actual exam pattern aur difficulty level dikhata hai. Format bilkul real paper jaisa hota hai.",
+      "model_paper": "Teachers ya coaching institutes banate hain practice ke liye. Pattern similar hota hai lekin officially certified nahi hota.",
+      "question_bank": "Previous year questions ka collection hota hai. Revision ke liye best — jo baar baar aya hai woh clearly dikhta hai.",
+      "which_to_prefer": "Revision ke liye: Question Bank > Previous Year Papers > Model Paper > Sample Paper. Sample paper exam se pehle ek full mock test ke taur par karo.",
+      "refernce books for revision": "Pariskah bodh, pariskha adhyan, navbodh, shivlal",
+      "revision_notes_vs_qbank": "Notes se concept clear hota hai, Question Bank se application practice hoti hai. Dono zaroori hain — pehle notes padho phir question bank se solve karo."
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "Mathematics paper has 4 question groups: 32 Objectives (Q1), Very Short (Q6-Q15), Short (Q16-Q19), Long (Q20-Q23)",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "Q1 — Objective (MCQ, Fill blank, T-F, Match, One-word)",
+        "question_number": "Q1",
+        "section": "Q1",
+        "marks_each": 1,
+        "total_in_paper": 32,
+        "attempt": 32,
+        "negative_marking": false,
+        "how_to_attempt": "MCQ: sirf option letter. Fill blank: formula ya number. Match: 1-(b) format. T-F: True ya False. No explanation needed.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Option letter, one word, or formula only",
+        "notes": "32 marks sirf objectives se — ye section sabse important hai Mathematics mein."
+      },
+      {
+        "type": "Q6-Q15 — Very Short Answer (2 marks)",
+        "question_number": "Q6-Q15",
+        "section": "Q6-Q15",
+        "marks_each": 2,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "Direct formula application ya short proof. Show working in 2-4 steps. Box the answer.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "2-4 lines or short calculation",
+        "notes": ""
+      },
+      {
+        "type": "Q16-Q19 — Short Answer (3 marks)",
+        "question_number": "Q16-Q19",
+        "section": "Q16-Q19",
+        "marks_each": 3,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "Show all steps clearly numbered. Partial marks for correct intermediate steps. Final answer must have units if applicable.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Half page calculation",
+        "notes": ""
+      },
+      {
+        "type": "Q20-Q23 — Long Answer / Analytical (4 marks)",
+        "question_number": "Q20-Q23",
+        "section": "Q20-Q23",
+        "marks_each": 4,
+        "total_in_paper": 4,
+        "attempt": 4,
+        "negative_marking": false,
+        "how_to_attempt": "Complete derivation with all steps. Prove statements step by step. For word problems: define variables, form equation, solve, verify.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "Full page calculation",
+        "notes": "Maximum 4 marks per question. No 5-mark questions in Mathematics unlike Physics."
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "Total 32 objective questions (Q1 mein, 1 mark each = 32 marks). Q6-15: 10 questions of 2 marks. Q16-19: 4 questions of 3 marks. Q20-23: 4 questions of 4 marks.",
+    "all_sections_compulsory": false,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Har section mein internal choice hoti hai. Har question attempt karna compulsory nahi — choice mein se ek karo.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 35,
+      "medium_percent": 40,
+      "hard_percent": 25,
+      "note": "32 objective questions = 32 marks jo relatively easier hote hain. Remaining 68 marks mein difficulty medium to hard hoti hai."
+    },
+    "sections": [
+      {
+        "section_id": "Q1",
+        "name": "Q1 — Objective (MCQ, Fill blank, T-F, Match, One-word)",
+        "type": "Q1 — Objective (MCQ, Fill blank, T-F, Match, One-word)",
+        "question_numbers": "Q1",
+        "total_questions": 32,
+        "total_sub_questions": 0,
+        "attempt_required": 32,
+        "marks_per_question": 1,
+        "total_marks": 32,
+        "word_limit": "Option letter, one word, or formula only",
+        "breakdown": "MCQ: sirf option letter. Fill blank: formula ya number. Match: 1-(b) format. T-F: True ya False. No explanation needed.",
+        "notes": "32 marks sirf objectives se — ye section sabse important hai Mathematics mein."
+      },
+      {
+        "section_id": "Q6-Q15",
+        "name": "Q6-Q15 — Very Short Answer (2 marks)",
+        "type": "Q6-Q15 — Very Short Answer (2 marks)",
+        "question_numbers": "Q6-Q15",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "2-4 lines or short calculation",
+        "breakdown": "Direct formula application ya short proof. Show working in 2-4 steps. Box the answer.",
+        "notes": ""
+      },
+      {
+        "section_id": "Q16-Q19",
+        "name": "Q16-Q19 — Short Answer (3 marks)",
+        "type": "Q16-Q19 — Short Answer (3 marks)",
+        "question_numbers": "Q16-Q19",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": "Half page calculation",
+        "breakdown": "Show all steps clearly numbered. Partial marks for correct intermediate steps. Final answer must have units if applicable.",
+        "notes": ""
+      },
+      {
+        "section_id": "Q20-Q23",
+        "name": "Q20-Q23 — Long Answer / Analytical (4 marks)",
+        "type": "Q20-Q23 — Long Answer / Analytical (4 marks)",
+        "question_numbers": "Q20-Q23",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "attempt_required": 4,
+        "marks_per_question": 4,
+        "total_marks": 16,
+        "word_limit": "Full page calculation",
+        "breakdown": "Complete derivation with all steps. Prove statements step by step. For word problems: define variables, form equation, solve, verify.",
+        "notes": "Maximum 4 marks per question. No 5-mark questions in Mathematics unlike Physics."
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 80,
+    "total_practical": 0,
+    "internal_assessment": 20,
+    "grand_total": 100,
+    "marks_summary_note": "Theory paper 80 marks + Internal assessment 20 marks = 100 total",
+    "sections": [
+      {
+        "section_id": "Q1",
+        "name": "Q1 — Objective (MCQ, Fill blank, T-F, Match, One-word)",
+        "question_numbers": "Q1",
+        "type": "Q1 — Objective (MCQ, Fill blank, T-F, Match, One-word)",
+        "total_questions": 32,
+        "total_sub_questions": 0,
+        "marks_per_question": 1,
+        "total_marks": 32,
+        "word_limit": "Option letter, one word, or formula only",
+        "breakdown": "MCQ: sirf option letter. Fill blank: formula ya number. Match: 1-(b) format. T-F: True ya False. No explanation needed."
+      },
+      {
+        "section_id": "Q6-Q15",
+        "name": "Q6-Q15 — Very Short Answer (2 marks)",
+        "question_numbers": "Q6-Q15",
+        "type": "Q6-Q15 — Very Short Answer (2 marks)",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 2,
+        "total_marks": 20,
+        "word_limit": "2-4 lines or short calculation",
+        "breakdown": "Direct formula application ya short proof. Show working in 2-4 steps. Box the answer."
+      },
+      {
+        "section_id": "Q16-Q19",
+        "name": "Q16-Q19 — Short Answer (3 marks)",
+        "question_numbers": "Q16-Q19",
+        "type": "Q16-Q19 — Short Answer (3 marks)",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 12,
+        "word_limit": "Half page calculation",
+        "breakdown": "Show all steps clearly numbered. Partial marks for correct intermediate steps. Final answer must have units if applicable."
+      },
+      {
+        "section_id": "Q20-Q23",
+        "name": "Q20-Q23 — Long Answer / Analytical (4 marks)",
+        "question_numbers": "Q20-Q23",
+        "type": "Q20-Q23 — Long Answer / Analytical (4 marks)",
+        "total_questions": 4,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 16,
+        "word_limit": "Full page calculation",
+        "breakdown": "Complete derivation with all steps. Prove statements step by step. For word problems: define variables, form equation, solve, verify."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 100,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "7",
+      "name": "Integrals",
+      "marks": 12,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "8",
+        "name": "Applications of Integrals",
+        "marks": 3
+      },
+      {
+        "chapter_id": "12",
+        "name": "Linear Programming",
+        "marks": 3
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Relations and Functions",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "Inverse Trigonometric Functions",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "Matrices",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "Determinants",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "Continuity and Differentiability",
+        "marks": 8,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "Applications of Derivatives",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "Integrals",
+        "marks": 12,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "name": "Applications of Integrals",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "name": "Differential Equations",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "10",
+        "name": "Vector Algebra",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "11",
+        "name": "Three-Dimensional Geometry",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "name": "Linear Programming",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "13",
+        "name": "Probability",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 100,
+      "one_mark_questions": 32,
+      "two_mark_total": 20,
+      "three_mark_total": 12,
+      "four_mark_total": 16,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Chapter-wise syllabus from MPBSE Class 12 Mathematics blueprint.",
+    "books": [
+      {
+        "book_name": "NCERT Mathematics Part I & Part II",
+        "category": "chapter",
+        "total_marks": 80,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Relations and Functions",
+            "marks": 5,
+            "topics": [
+              "Types of relations: reflexive, symmetric, transitive, equivalence relation",
+              "Types of functions: one-one (injective), onto (surjective), bijective",
+              "Composition of functions: (gof)(x) = g(f(x))",
+              "Inverse of a function: conditions for inverse to exist",
+              "Binary operations: commutativity, associativity, identity, inverse element"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "Inverse Trigonometric Functions",
+            "marks": 6,
+            "topics": [
+              "Domain and range of all 6 inverse trig functions",
+              "Principal value branch",
+              "Properties and identities of inverse trig functions",
+              "Simplification of inverse trig expressions"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "Matrices",
+            "marks": 6,
+            "topics": [
+              "Types of matrices: row, column, square, diagonal, scalar, identity, zero, symmetric, skew-symmetric",
+              "Matrix operations: addition, scalar multiplication, matrix multiplication",
+              "Transpose of matrix: (AB)ᵀ = BᵀAᵀ",
+              "Symmetric matrix: A = Aᵀ. Skew-symmetric: A = -Aᵀ",
+              "Every square matrix = symmetric + skew-symmetric",
+              "Elementary row/column operations",
+              "Inverse of matrix by elementary row operations"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "Determinants",
+            "marks": 6,
+            "topics": [
+              "Properties of determinants: 8 standard properties",
+              "Area of triangle using determinant",
+              "Minors and cofactors",
+              "Adjoint of matrix: adj(A)",
+              "Inverse of matrix: A⁻¹ = adj(A)/|A|",
+              "Solving system of linear equations: matrix method AX = B, X = A⁻¹B",
+              "Cramer's rule",
+              "Consistency of system of equations"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "Continuity and Differentiability",
+            "marks": 8,
+            "topics": [
+              "Continuity at a point: LHL = RHL = f(a)",
+              "Differentiability: f'(a) exists implies continuous but not vice versa",
+              "Derivatives of standard functions",
+              "Chain rule, product rule, quotient rule",
+              "Derivatives of composite functions",
+              "Implicit differentiation",
+              "Derivatives of inverse trig functions",
+              "Parametric differentiation: dy/dx = (dy/dt)/(dx/dt)",
+              "Second order derivatives: d²y/dx²",
+              "Rolle's theorem and Lagrange's Mean Value Theorem (LMVT)",
+              "Logarithmic differentiation for aˣ type functions"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "Applications of Derivatives",
+            "marks": 6,
+            "topics": [
+              "Rate of change: dr/dt, dA/dt, dV/dt type problems",
+              "Increasing and decreasing functions",
+              "Tangent and normal to a curve",
+              "Maxima and minima: first derivative test and second derivative test",
+              "Absolute maxima/minima on closed interval",
+              "Word problems: optimization (box, cylinder, rectangle inscribed in circle)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "Integrals",
+            "marks": 12,
+            "topics": [
+              "Standard integrals: all basic forms",
+              "Integration by substitution",
+              "Integration by partial fractions (rational functions)",
+              "Integration by parts: ∫u dv = uv - ∫v du (ILATE rule)",
+              "Integrals of √(a²-x²), √(x²+a²), √(x²-a²) type",
+              "Definite integrals: properties",
+              "Special definite integrals: ∫₀ᵃ f(x)dx = ∫₀ᵃ f(a-x)dx",
+              "Limit of sum as definition of definite integral"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "Applications of Integrals",
+            "marks": 3,
+            "topics": [
+              "Area under a curve: ∫ₐᵇ f(x) dx",
+              "Area between two curves: ∫ₐᵇ [f(x) - g(x)] dx",
+              "Area of standard curves: circle x²+y²=r², ellipse x²/a²+y²/b²=1, parabola y²=4ax"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "Differential Equations",
+            "marks": 7,
+            "topics": [
+              "Order and degree of differential equation",
+              "General and particular solution",
+              "Variable separable method",
+              "Homogeneous differential equations: y/x substitution",
+              "First order linear DE: dy/dx + Py = Q, IF = e∫P dx",
+              "Exact differential equations"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "Vector Algebra",
+            "marks": 7,
+            "topics": [
+              "Types of vectors: zero, unit, collinear, coplanar, equal, negative",
+              "Addition of vectors: triangle law, parallelogram law",
+              "Section formula: internal and external division",
+              "Dot product (scalar product): a⃗·b⃗ = |a||b|cosθ",
+              "Cross product (vector product): a⃗×b⃗ = |a||b|sinθ n̂",
+              "Scalar triple product: [a⃗ b⃗ c⃗] = a⃗·(b⃗×c⃗)",
+              "Projection of a vector on another vector",
+              "Work done by force = F⃗·d⃗"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "Three-Dimensional Geometry",
+            "marks": 7,
+            "topics": [
+              "Direction cosines and direction ratios",
+              "Relation: l²+m²+n² = 1",
+              "Equation of line in space: vector and Cartesian form",
+              "Angle between two lines",
+              "Distance between two skew lines",
+              "Equation of plane: vector and Cartesian form",
+              "Angle between two planes",
+              "Angle between line and plane",
+              "Distance of point from a plane",
+              "Coplanarity of two lines"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "Linear Programming",
+            "marks": 3,
+            "topics": [
+              "Objective function, constraints, feasible region",
+              "Corner point method for maximum/minimum",
+              "Bounded and unbounded feasible regions",
+              "Types of LP problems: manufacturing, diet, transportation"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "Probability",
+            "marks": 5,
+            "topics": [
+              "Conditional probability: P(A|B) = P(A∩B)/P(B)",
+              "Multiplication theorem: P(A∩B) = P(A)·P(B|A)",
+              "Independent events: P(A∩B) = P(A)·P(B)",
+              "Total probability theorem",
+              "Bayes' theorem",
+              "Random variable and its probability distribution",
+              "Mean (expected value): E(X) = Σ xᵢ pᵢ",
+              "Variance: Var(X) = E(X²) - [E(X)]²",
+              "Bernoulli trials and binomial distribution"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Relations and Functions",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "weightage_marks": 5,
+      "typical_breakdown": "1 question × 2mark, 1-2 questions (1-2 marks) × objective",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "Proofs and definitions — no heavy calculation",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Types of relations: reflexive, symmetric, transitive, equivalence relation",
+        "Types of functions: one-one (injective), onto (surjective), bijective",
+        "Composition of functions: (gof)(x) = g(f(x))",
+        "Inverse of a function: conditions for inverse to exist",
+        "Binary operations: commutativity, associativity, identity, inverse element"
+      ],
+      "easy_topics": [
+        "Equivalence relation definition + example: 1-2 marks",
+        "One-one and onto definitions: fill blank",
+        "Composition formula (gof)(x) = g(f(x)): MCQ"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Equivalence relation: reflexive + symmetric + transitive",
+        "One-one: f(x₁) = f(x₂) implies x₁ = x₂",
+        "Onto: for every y in codomain, there exists x in domain such that f(x) = y",
+        "Bijective = one-one + onto — only then inverse exists",
+        "Number of equivalence relations on set {1,2,3} = 5"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "Prove given relation is equivalence relation (reflexive, symmetric, transitive check)",
+        "Check if function is one-one and onto",
+        "Composition of two functions (gof and fog)",
+        "Find inverse of a bijective function"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Inverse Trigonometric Functions",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "weightage_marks": 6,
+      "typical_breakdown": "1 question × 2mark, 2 questions (2 marks) × objective",
+      "difficulty": "Medium",
+      "difficulty_reason": "Properties need memorization, simplification needs practice",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Domain and range of all 6 inverse trig functions",
+        "Principal value branch",
+        "Properties and identities of inverse trig functions",
+        "Simplification of inverse trig expressions"
+      ],
+      "easy_topics": [
+        "Principal value ranges: fill blank or MCQ — easy 1-2 marks",
+        "sin⁻¹x + cos⁻¹x = π/2: direct MCQ",
+        "sin⁻¹(-x) = -sin⁻¹x type: 1 mark"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "sin⁻¹x + cos⁻¹x = π/2",
+        "tan⁻¹x + cot⁻¹x = π/2",
+        "sec⁻¹x + cosec⁻¹x = π/2",
+        "tan⁻¹x + tan⁻¹y = tan⁻¹((x+y)/(1-xy)) when xy < 1",
+        "2tan⁻¹x = sin⁻¹(2x/(1+x²)) = cos⁻¹((1-x²)/(1+x²)) = tan⁻¹(2x/(1-x²))",
+        "sin⁻¹(-x) = -sin⁻¹x, cos⁻¹(-x) = π - cos⁻¹x, tan⁻¹(-x) = -tan⁻¹x"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "Find principal value of sin⁻¹, cos⁻¹, tan⁻¹ expressions (MP 2019, 2022, 2023)",
+        "Prove identities using inverse trig properties",
+        "Simplify expressions like cos⁻¹(12/13) = tan⁻¹(5/12)",
+        "Solve equations involving inverse trig functions"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Matrices",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "weightage_marks": 6,
+      "typical_breakdown": "1 question × 2mark, 2-3 questions (2-3 marks) × objective",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "Matrix operations straightforward",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "Matrix operations aur inverse ya Cayley-Hamilton theorem",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Types of matrices: row, column, square, diagonal, scalar, identity, zero, symmetric, skew-symmetric",
+        "Matrix operations: addition, scalar multiplication, matrix multiplication",
+        "Transpose of matrix: (AB)ᵀ = BᵀAᵀ",
+        "Symmetric matrix: A = Aᵀ. Skew-symmetric: A = -Aᵀ",
+        "Every square matrix = symmetric + skew-symmetric",
+        "Elementary row/column operations",
+        "Inverse of matrix by elementary row operations"
+      ],
+      "easy_topics": [
+        "Types of matrices definitions: MCQ/fill blank",
+        "(AB)ᵀ = BᵀAᵀ: fill blank property",
+        "Symmetric: A = Aᵀ. Skew: A = -Aᵀ: direct MCQ"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "If A is m×n and B is n×p then AB is m×p",
+        "AB ≠ BA in general (matrix multiplication is not commutative)",
+        "(AB)⁻¹ = B⁻¹A⁻¹",
+        "(Aᵀ)ᵀ = A",
+        "A = (A + Aᵀ)/2 + (A - Aᵀ)/2 — symmetric + skew-symmetric decomposition",
+        "If A is symmetric then Aᵀ = A, if skew then Aᵀ = -A",
+        "For scalar matrix A = kI: Aⁿ = kⁿI",
+        "Cayley-Hamilton theorem: every matrix satisfies its own characteristic equation"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "Express matrix as sum of symmetric and skew-symmetric (MP 2019, 2023)",
+        "Find A⁻¹ using elementary row operations",
+        "Prove AA' = I type problems",
+        "If A² = A (idempotent) type problems",
+        "Cayley-Hamilton theorem application: find A² - 2A + 3I = 0 type"
+      ],
+      "key_mcq_answers": [
+        "A is symmetric + skew-symmetric both: A must be zero matrix",
+        "If A is 3×3 scalar matrix and k = 2, then |kA| = k³|A| = 8|A|",
+        "Number of 3×3 matrices with entries 0 or 1 = 2⁹ = 512",
+        "If A is 2×2 square matrix then |5A| = 5²|A| = 25|A|",
+        "If A + Aᵀ = I then A is neither purely symmetric nor skew"
+      ],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Determinants",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "weightage_marks": 6,
+      "typical_breakdown": "1-2 questions × 2mark, 1 question × 4mark, 2-3 questions × objective",
+      "difficulty": "Medium",
+      "difficulty_reason": "System of equations solving standard but calculation heavy",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "Determinant se simultaneous equations solve karna (Cramer's rule / matrix method)",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Properties of determinants: 8 standard properties",
+        "Area of triangle using determinant",
+        "Minors and cofactors",
+        "Adjoint of matrix: adj(A)",
+        "Inverse of matrix: A⁻¹ = adj(A)/|A|",
+        "Solving system of linear equations: matrix method AX = B, X = A⁻¹B",
+        "Cramer's rule",
+        "Consistency of system of equations"
+      ],
+      "easy_topics": [
+        "|cos θ -sin θ; sin θ cos θ| = 1: direct MCQ",
+        "|kA| = kⁿ|A| for n×n matrix: MCQ",
+        "Area of triangle formula: direct substitution"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Area of triangle = (1/2)|x₁(y₂-y₃) + x₂(y₃-y₁) + x₃(y₁-y₂)|",
+        "A⁻¹ = adj(A)/|A|  (only when |A| ≠ 0)",
+        "|adj A| = |A|ⁿ⁻¹ for n×n matrix",
+        "|A⁻¹| = 1/|A|",
+        "adj(AB) = (adj B)(adj A)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "Solve 3×3 system of equations using matrix inverse or Cramer's rule (MP every year)",
+        "Find area of triangle given 3 vertices",
+        "Prove determinant value using properties (row/column operations)",
+        "Find adjoint and inverse of 3×3 matrix",
+        "Check consistency of system of equations"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Continuity and Differentiability",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "weightage_marks": 8,
+      "typical_breakdown": "1-2 questions × 2mark, 2-3 questions × objective",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "Parametric, implicit, logarithmic differentiation need practice",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "Continuity check at a point, parametric differentiation, implicit differentiation",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Continuity at a point: LHL = RHL = f(a)",
+        "Differentiability: f'(a) exists implies continuous but not vice versa",
+        "Derivatives of standard functions",
+        "Chain rule, product rule, quotient rule",
+        "Derivatives of composite functions",
+        "Implicit differentiation",
+        "Derivatives of inverse trig functions",
+        "Parametric differentiation: dy/dx = (dy/dt)/(dx/dt)",
+        "Second order derivatives: d²y/dx²",
+        "Rolle's theorem and Lagrange's Mean Value Theorem (LMVT)",
+        "Logarithmic differentiation for aˣ type functions"
+      ],
+      "easy_topics": [
+        "Standard derivatives list: direct fill blank MCQ",
+        "Chain rule application: 2-mark direct problem",
+        "Continuity definition: 1-mark question"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "d/dx(sin⁻¹x) = 1/√(1-x²)",
+        "d/dx(cos⁻¹x) = -1/√(1-x²)",
+        "d/dx(tan⁻¹x) = 1/(1+x²)",
+        "d/dx(cot⁻¹x) = -1/(1+x²)",
+        "d/dx(sec⁻¹x) = 1/(x√(x²-1))",
+        "d/dx(cosec⁻¹x) = -1/(x√(x²-1))",
+        "d/dx(xˣ) = xˣ(1 + log x)  [using log differentiation]",
+        "d/dx(aˣ) = aˣ log a",
+        "d/dx(log x) = 1/x",
+        "d/dx(eˣ) = eˣ"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "Find k for continuity at a point — piecewise function (MP 2019, 2020, 2022, 2023)",
+        "Parametric differentiation dy/dx when x = a(t - sin t), y = a(1 - cos t) type",
+        "Implicit differentiation: find dy/dx when y is not explicitly given",
+        "Logarithmic differentiation: differentiate xˣ or (sin x)ˢⁱⁿˣ type",
+        "Second order derivative d²y/dx² problems",
+        "Prove Rolle's or LMVT for given function on interval"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Applications of Derivatives",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "weightage_marks": 6,
+      "typical_breakdown": "1 question × 2mark, 1-2 questions × objective",
+      "difficulty": "Medium",
+      "difficulty_reason": "Word problems need setup but calculation standard",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "Maxima-minima word problem (increasing/decreasing functions)",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Rate of change: dr/dt, dA/dt, dV/dt type problems",
+        "Increasing and decreasing functions",
+        "Tangent and normal to a curve",
+        "Maxima and minima: first derivative test and second derivative test",
+        "Absolute maxima/minima on closed interval",
+        "Word problems: optimization (box, cylinder, rectangle inscribed in circle)"
+      ],
+      "easy_topics": [
+        "Rate of change of area of circle: dA/dt = 2πr dr/dt (direct substitution)",
+        "Increasing/decreasing: just find f'(x) and check sign",
+        "Second derivative test: f''(x) < 0 means maxima"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Slope of tangent at (x₁,y₁) = dy/dx at that point",
+        "Slope of normal = -1/(dy/dx)",
+        "Equation of tangent: y - y₁ = m(x - x₁)",
+        "f is increasing if f'(x) > 0, decreasing if f'(x) < 0",
+        "At maxima: f'(x) = 0 and f''(x) < 0",
+        "At minima: f'(x) = 0 and f''(x) > 0"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "Rate of change: sphere/circle radius changing, find rate of area/volume (MP 2020, 2022)",
+        "Find intervals where function is increasing/decreasing",
+        "Find tangent and normal equations at given point",
+        "Maxima/minima word problem: rectangle with max area, box with max volume (MP 2022)",
+        "Find absolute max/min on closed interval"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Integrals",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "weightage_marks": 12,
+      "typical_breakdown": "2-3 questions × 2mark, 1 question × 3mark, 1-2 questions × 4mark, 3-4 questions × objective",
+      "difficulty": "Hard",
+      "difficulty_reason": "Highest marks — by parts, partial fractions, definite integral properties all needed",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "Integration by parts (∫eˣ sinx dx type), definite integral by properties",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Standard integrals: all basic forms",
+        "Integration by substitution",
+        "Integration by partial fractions (rational functions)",
+        "Integration by parts: ∫u dv = uv - ∫v du (ILATE rule)",
+        "Integrals of √(a²-x²), √(x²+a²), √(x²-a²) type",
+        "Definite integrals: properties",
+        "Special definite integrals: ∫₀ᵃ f(x)dx = ∫₀ᵃ f(a-x)dx",
+        "Limit of sum as definition of definite integral"
+      ],
+      "easy_topics": [
+        "Standard integrals direct: ∫eˣ dx, ∫sinx dx etc — fill blank MCQ",
+        "∫₀ᵃ f(x)dx = ∫₀ᵃ f(a-x)dx property statement: 1 mark",
+        "ILATE rule statement: 1 mark"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "∫xⁿ dx = xⁿ⁺¹/(n+1) + C",
+        "∫eˣ dx = eˣ + C",
+        "∫(1/x) dx = log|x| + C",
+        "∫sin x dx = -cos x + C",
+        "∫cos x dx = sin x + C",
+        "∫sec²x dx = tan x + C",
+        "∫cosec²x dx = -cot x + C",
+        "∫sec x tan x dx = sec x + C",
+        "∫1/√(1-x²) dx = sin⁻¹x + C",
+        "∫1/(1+x²) dx = tan⁻¹x + C",
+        "∫1/√(a²-x²) dx = sin⁻¹(x/a) + C",
+        "∫1/(a²+x²) dx = (1/a)tan⁻¹(x/a) + C",
+        "∫eˣ[f(x) + f'(x)] dx = eˣf(x) + C"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "∫eˣ sinx dx or ∫eˣ cosx dx using integration by parts (MP 2022)",
+        "Definite integral using property ∫₀ᵃ f(a-x)dx (MP 2020, 2023)",
+        "Partial fractions integration: 1/(x²-a²) type",
+        "∫sin⁻¹(2x/(1+x²)) dx type using substitution",
+        "∫(1/(1+3sin²x)) dx type: divide by cos²x substitution",
+        "Integration by parts: ∫x eˣ dx, ∫x log x dx, ∫log x dx"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Applications of Integrals",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "weightage_marks": 3,
+      "typical_breakdown": "1-2 questions × objective",
+      "difficulty": "Medium",
+      "difficulty_reason": "Only 3 marks — standard area problems",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Area under a curve: ∫ₐᵇ f(x) dx",
+        "Area between two curves: ∫ₐᵇ [f(x) - g(x)] dx",
+        "Area of standard curves: circle x²+y²=r², ellipse x²/a²+y²/b²=1, parabola y²=4ax"
+      ],
+      "easy_topics": [
+        "Area formula ∫ₐᵇ f(x)dx: direct MCQ",
+        "Area of standard ellipse = πab: 1 mark"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Area of circle x²+y²=r² = πr²  [verify using ∫₋ᵣʳ √(r²-x²) dx = πr²/2 for semicircle]",
+        "Area of ellipse x²/a² + y²/b² = 1 = πab",
+        "Area enclosed by parabola y²=4ax and latus rectum = 8a²/3",
+        "Area between parabola y=x² and line y=x: ∫₀¹ (x-x²)dx = 1/6"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "Area under parabola and x-axis (MP 2020, 2022)",
+        "Area between two curves: parabola and line",
+        "Area of circle or ellipse using integration",
+        "Find area using definite integral for given curve"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Differential Equations",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "weightage_marks": 7,
+      "typical_breakdown": "1 question × 2mark, 1-2 questions × 4mark, 1-2 questions × objective",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "IF method and homogeneous need careful setup",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "First order linear differential equation using IF method",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Order and degree of differential equation",
+        "General and particular solution",
+        "Variable separable method",
+        "Homogeneous differential equations: y/x substitution",
+        "First order linear DE: dy/dx + Py = Q, IF = e∫P dx",
+        "Exact differential equations"
+      ],
+      "easy_topics": [
+        "Order = highest derivative, Degree = power of highest derivative: MCQ",
+        "Variable separable: direct method — 2-mark question",
+        "IF = e^∫P dx: formula fill blank"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Standard form linear DE: dy/dx + Py = Q",
+        "Integrating Factor (IF) = e^∫P dx",
+        "Solution: y(IF) = ∫Q(IF) dx + C",
+        "Homogeneous: put y = vx, so dy/dx = v + x dv/dx",
+        "Variable separable: f(y)dy = g(x)dx then integrate both sides"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "Solve first order linear DE using IF method (MP 2022, 2023)",
+        "Solve homogeneous DE: y = vx substitution",
+        "Solve variable separable DE",
+        "Find particular solution given initial condition",
+        "Form DE by eliminating constants from given equation",
+        "Order and degree of DE: direct MCQ (MP 2019, 2020)"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Vector Algebra",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "weightage_marks": 7,
+      "typical_breakdown": "1-2 questions × 2mark, 1 question × 4mark, 2 questions × objective",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "Dot product and cross product straightforward",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "Dot product, cross product, angle between vectors",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Types of vectors: zero, unit, collinear, coplanar, equal, negative",
+        "Addition of vectors: triangle law, parallelogram law",
+        "Section formula: internal and external division",
+        "Dot product (scalar product): a⃗·b⃗ = |a||b|cosθ",
+        "Cross product (vector product): a⃗×b⃗ = |a||b|sinθ n̂",
+        "Scalar triple product: [a⃗ b⃗ c⃗] = a⃗·(b⃗×c⃗)",
+        "Projection of a vector on another vector",
+        "Work done by force = F⃗·d⃗"
+      ],
+      "easy_topics": [
+        "a⃗·b⃗ = 0 means perpendicular: MCQ",
+        "a⃗×b⃗ = 0 means parallel: MCQ",
+        "Unit vector formula = a⃗/|a⃗|: fill blank",
+        "Area of parallelogram = |a⃗×b⃗|: direct formula"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "a⃗·b⃗ = a₁b₁ + a₂b₂ + a₃b₃",
+        "cosθ = (a⃗·b⃗)/(|a⃗||b⃗|)",
+        "a⃗ perpendicular to b⃗ iff a⃗·b⃗ = 0",
+        "|a⃗×b⃗| = |a⃗||b⃗|sinθ",
+        "a⃗ parallel to b⃗ iff a⃗×b⃗ = 0⃗",
+        "Area of parallelogram = |a⃗×b⃗|",
+        "Area of triangle = (1/2)|a⃗×b⃗|",
+        "Scalar triple product [a⃗ b⃗ c⃗] = 0 iff coplanar",
+        "Projection of a⃗ on b⃗ = (a⃗·b⃗)/|b⃗|"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "Find angle between two vectors using dot product (MP 2023)",
+        "Prove a⃗·b⃗ ≤ |a⃗||b⃗| (Cauchy-Schwarz inequality)",
+        "Find unit vector in direction of given vector",
+        "Prove vectors coplanar using scalar triple product",
+        "Find area of triangle/parallelogram using cross product"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Three-Dimensional Geometry",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "weightage_marks": 7,
+      "typical_breakdown": "1 question × 2mark, 1-2 questions × 4mark, 1-2 questions × objective",
+      "difficulty": "Medium-Hard",
+      "difficulty_reason": "Distance between skew lines is calculation heavy",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "Distance between skew lines or distance of point from plane",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Direction cosines and direction ratios",
+        "Relation: l²+m²+n² = 1",
+        "Equation of line in space: vector and Cartesian form",
+        "Angle between two lines",
+        "Distance between two skew lines",
+        "Equation of plane: vector and Cartesian form",
+        "Angle between two planes",
+        "Angle between line and plane",
+        "Distance of point from a plane",
+        "Coplanarity of two lines"
+      ],
+      "easy_topics": [
+        "l²+m²+n²=1: fill blank MCQ",
+        "Distance from plane formula: direct substitution",
+        "Vector form of line r⃗ = a⃗ + λb⃗: fill blank"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Direction cosines: l = cosα, m = cosβ, n = cosγ. l²+m²+n²=1",
+        "Vector form of line: r⃗ = a⃗ + λb⃗",
+        "Cartesian form: (x-x₁)/l = (y-y₁)/m = (z-z₁)/n",
+        "Distance between skew lines = |[(a⃗₂-a⃗₁)·(b⃗₁×b⃗₂)]| / |b⃗₁×b⃗₂|",
+        "Equation of plane: ax+by+cz+d=0 or r⃗·n̂ = d",
+        "Distance of point (x₁,y₁,z₁) from plane ax+by+cz+d=0: |ax₁+by₁+cz₁+d|/√(a²+b²+c²)",
+        "Angle between planes: cosθ = |a₁a₂+b₁b₂+c₁c₂|/√(a₁²+b₁²+c₁²)·√(a₂²+b₂²+c₂²)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "Distance between two skew lines (MP 2019, 2022, 2023)",
+        "Find equation of plane through 3 given points",
+        "Find distance of point from plane",
+        "Find angle between two lines or two planes",
+        "Check coplanarity of two lines"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "Linear Programming",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "weightage_marks": 3,
+      "typical_breakdown": "1-2 questions × objective",
+      "difficulty": "Easy",
+      "difficulty_reason": "Graphical method — standard procedure, only 3 marks",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Objective function, constraints, feasible region",
+        "Corner point method for maximum/minimum",
+        "Bounded and unbounded feasible regions",
+        "Types of LP problems: manufacturing, diet, transportation"
+      ],
+      "easy_topics": [
+        "Corner point method: objective function evaluated at vertices: MCQ concept",
+        "Feasible region definition: 1 mark",
+        "LP graph: 3 marks — follow standard method"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Step 1: Plot all constraints as lines on graph",
+        "Step 2: Shade feasible region satisfying all constraints",
+        "Step 3: Find corner points of feasible region",
+        "Step 4: Evaluate objective function Z at each corner point",
+        "Step 5: Largest value = maximum, smallest = minimum"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "Solve LPP graphically: find max/min of Z = ax+by subject to constraints (every year)",
+        "Identify feasible region and corner points",
+        "Formulate LP problem from word problem"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "Probability",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Mathematics Part I & Part II",
+      "weightage_marks": 5,
+      "typical_breakdown": "1 question × 2mark, 1-2 questions × objective",
+      "difficulty": "Medium",
+      "difficulty_reason": "Bayes' theorem needs careful conditional probability setup",
+      "is_must_not_skip": true,
+      "has_numerical": true,
+      "is_mostly_theory": false,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "Bayes' theorem numerical or conditional probability",
+      "guaranteed_numerical": true,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Conditional probability: P(A|B) = P(A∩B)/P(B)",
+        "Multiplication theorem: P(A∩B) = P(A)·P(B|A)",
+        "Independent events: P(A∩B) = P(A)·P(B)",
+        "Total probability theorem",
+        "Bayes' theorem",
+        "Random variable and its probability distribution",
+        "Mean (expected value): E(X) = Σ xᵢ pᵢ",
+        "Variance: Var(X) = E(X²) - [E(X)]²",
+        "Bernoulli trials and binomial distribution"
+      ],
+      "easy_topics": [
+        "P(A|B) = P(A∩B)/P(B): fill blank definition",
+        "P(A) + P(not A) = 1: direct MCQ",
+        "Independent events: P(A∩B) = P(A)P(B): MCQ"
+      ],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "P(A|B) = P(A∩B)/P(B)",
+        "P(A∪B) = P(A) + P(B) - P(A∩B)",
+        "P(A') = 1 - P(A)",
+        "P(A) + P(not A) = 1",
+        "Total probability: P(A) = Σ P(Bᵢ)·P(A|Bᵢ)",
+        "Bayes': P(Bᵢ|A) = P(Bᵢ)·P(A|Bᵢ) / Σ P(Bⱼ)·P(A|Bⱼ)",
+        "Binomial: P(X=r) = ⁿCᵣ pʳ qⁿ⁻ʳ",
+        "Mean of binomial = np, Variance = npq"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [
+        "Bayes' theorem numerical (MP 2019, 2020, 2022, 2023)",
+        "Prove P(A) + P(not A) = 1",
+        "Find mean and variance of random variable from distribution table",
+        "Independent events: check and prove",
+        "Conditional probability numerical"
+      ],
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Blueprint ke anusaar har chapter se fixed marks aate hain. Koi chapter skip nahi ho sakta — sab guaranteed hain.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "Blueprint fixes marks per chapter — no chapter can be skipped.",
+    "or_questions_note": "",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Ch 3 - Matrices",
+      "Ch 4 - Determinants",
+      "Ch 5 - Continuity and Differentiability",
+      "Ch 6 - Applications of Derivatives",
+      "Ch 7 - Integrals",
+      "Ch 9 - Differential Equations",
+      "Ch 10 - Vector Algebra",
+      "Ch 11 - Three-Dimensional Geometry",
+      "Ch 13 - Probability"
+    ],
+    "chapters_never_skip_reason": "All 13 chapters have guaranteed marks in the blueprint.",
+    "chapters_with_highest_weightage": [
+      "Ch 7 - Integrals (12 marks)"
+    ],
+    "chapters_with_least_weightage": [
+      "Ch 8 - Applications of Integrals (3 marks)",
+      "Ch 12 - Linear Programming (3 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "Ch 3 - Matrix operations aur inverse ya Cayley-Hamilton theorem",
+      "Ch 4 - Determinant se simultaneous equations solve karna (Cramer's rule / matrix method)",
+      "Ch 5 - Continuity check at a point, parametric differentiation, implicit differentiation",
+      "Ch 6 - Maxima-minima word problem (increasing/decreasing functions)",
+      "Ch 7 - Integration by parts (∫eˣ sinx dx type), definite integral by properties",
+      "Ch 9 - First order linear differential equation using IF method",
+      "Ch 10 - Dot product, cross product, angle between vectors",
+      "Ch 11 - Distance between skew lines or distance of point from plane",
+      "Ch 13 - Bayes' theorem numerical or conditional probability"
+    ],
+    "chapters_mostly_theory": [
+      "Ch 1 - Relations and Functions"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [
+      "Ch 8 - Applications of Integrals",
+      "Ch 12 - Linear Programming"
+    ],
+    "chapters_with_long_answer": [
+      "Ch 9 - Differential Equations",
+      "Ch 10 - Vector Algebra",
+      "Ch 11 - Three-Dimensional Geometry",
+      "Ch 7 - Integrals"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "Ch 9 - Differential Equations",
+      "Ch 10 - Vector Algebra",
+      "Ch 11 - Three-Dimensional Geometry",
+      "Ch 7 - Integrals"
+    ],
+    "chapters_with_numerical": [
+      "Ch 2 - Inverse Trigonometric Functions",
+      "Ch 3 - Matrices",
+      "Ch 4 - Determinants",
+      "Ch 5 - Continuity and Differentiability",
+      "Ch 6 - Applications of Derivatives",
+      "Ch 7 - Integrals",
+      "Ch 8 - Applications of Integrals",
+      "Ch 9 - Differential Equations",
+      "Ch 10 - Vector Algebra",
+      "Ch 11 - Three-Dimensional Geometry",
+      "Ch 12 - Linear Programming",
+      "Ch 13 - Probability"
+    ],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "Ch 1 - Relations and Functions"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Solve system of 3 equations by matrix method (Ch 4, 4 marks)",
+      "Integration by parts: eˣ sinx or x log x type (Ch 7, 2-4 marks)",
+      "Definite integral using f(a-x) property (Ch 7, 2-4 marks)",
+      "Continuity at a point — find k in piecewise function (Ch 5, 2-3 marks)",
+      "Bayes' theorem numerical (Ch 13, 3-4 marks)",
+      "Distance between skew lines (Ch 11, 4 marks)",
+      "LP problem graphical solution (Ch 12, 3 marks)",
+      "Maxima/minima word problem (Ch 6, 3-4 marks)",
+      "First order linear DE using IF (Ch 9, 4 marks)"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Chapter-wise important formulas / standard results.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "1",
+        "chapter_name": "Relations and Functions",
+        "formulas": [
+          "Equivalence relation: reflexive + symmetric + transitive",
+          "One-one: f(x₁) = f(x₂) implies x₁ = x₂",
+          "Onto: for every y in codomain, there exists x in domain such that f(x) = y",
+          "Bijective = one-one + onto — only then inverse exists",
+          "Number of equivalence relations on set {1,2,3} = 5"
+        ]
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "Inverse Trigonometric Functions",
+        "formulas": [
+          "sin⁻¹x + cos⁻¹x = π/2",
+          "tan⁻¹x + cot⁻¹x = π/2",
+          "sec⁻¹x + cosec⁻¹x = π/2",
+          "tan⁻¹x + tan⁻¹y = tan⁻¹((x+y)/(1-xy)) when xy < 1",
+          "2tan⁻¹x = sin⁻¹(2x/(1+x²)) = cos⁻¹((1-x²)/(1+x²)) = tan⁻¹(2x/(1-x²))",
+          "sin⁻¹(-x) = -sin⁻¹x, cos⁻¹(-x) = π - cos⁻¹x, tan⁻¹(-x) = -tan⁻¹x"
+        ]
+      },
+      {
+        "chapter_id": "3",
+        "chapter_name": "Matrices",
+        "formulas": [
+          "If A is m×n and B is n×p then AB is m×p",
+          "AB ≠ BA in general (matrix multiplication is not commutative)",
+          "(AB)⁻¹ = B⁻¹A⁻¹",
+          "(Aᵀ)ᵀ = A",
+          "A = (A + Aᵀ)/2 + (A - Aᵀ)/2 — symmetric + skew-symmetric decomposition",
+          "If A is symmetric then Aᵀ = A, if skew then Aᵀ = -A",
+          "For scalar matrix A = kI: Aⁿ = kⁿI",
+          "Cayley-Hamilton theorem: every matrix satisfies its own characteristic equation"
+        ]
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Determinants",
+        "formulas": [
+          "Area of triangle = (1/2)|x₁(y₂-y₃) + x₂(y₃-y₁) + x₃(y₁-y₂)|",
+          "A⁻¹ = adj(A)/|A|  (only when |A| ≠ 0)",
+          "|adj A| = |A|ⁿ⁻¹ for n×n matrix",
+          "|A⁻¹| = 1/|A|",
+          "adj(AB) = (adj B)(adj A)"
+        ]
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Continuity and Differentiability",
+        "formulas": [
+          "d/dx(sin⁻¹x) = 1/√(1-x²)",
+          "d/dx(cos⁻¹x) = -1/√(1-x²)",
+          "d/dx(tan⁻¹x) = 1/(1+x²)",
+          "d/dx(cot⁻¹x) = -1/(1+x²)",
+          "d/dx(sec⁻¹x) = 1/(x√(x²-1))",
+          "d/dx(cosec⁻¹x) = -1/(x√(x²-1))",
+          "d/dx(xˣ) = xˣ(1 + log x)  [using log differentiation]",
+          "d/dx(aˣ) = aˣ log a",
+          "d/dx(log x) = 1/x",
+          "d/dx(eˣ) = eˣ"
+        ]
+      },
+      {
+        "chapter_id": "6",
+        "chapter_name": "Applications of Derivatives",
+        "formulas": [
+          "Slope of tangent at (x₁,y₁) = dy/dx at that point",
+          "Slope of normal = -1/(dy/dx)",
+          "Equation of tangent: y - y₁ = m(x - x₁)",
+          "f is increasing if f'(x) > 0, decreasing if f'(x) < 0",
+          "At maxima: f'(x) = 0 and f''(x) < 0",
+          "At minima: f'(x) = 0 and f''(x) > 0"
+        ]
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Integrals",
+        "formulas": [
+          "∫xⁿ dx = xⁿ⁺¹/(n+1) + C",
+          "∫eˣ dx = eˣ + C",
+          "∫(1/x) dx = log|x| + C",
+          "∫sin x dx = -cos x + C",
+          "∫cos x dx = sin x + C",
+          "∫sec²x dx = tan x + C",
+          "∫cosec²x dx = -cot x + C",
+          "∫sec x tan x dx = sec x + C",
+          "∫1/√(1-x²) dx = sin⁻¹x + C",
+          "∫1/(1+x²) dx = tan⁻¹x + C",
+          "∫1/√(a²-x²) dx = sin⁻¹(x/a) + C",
+          "∫1/(a²+x²) dx = (1/a)tan⁻¹(x/a) + C",
+          "∫eˣ[f(x) + f'(x)] dx = eˣf(x) + C"
+        ]
+      },
+      {
+        "chapter_id": "8",
+        "chapter_name": "Applications of Integrals",
+        "formulas": [
+          "Area of circle x²+y²=r² = πr²  [verify using ∫₋ᵣʳ √(r²-x²) dx = πr²/2 for semicircle]",
+          "Area of ellipse x²/a² + y²/b² = 1 = πab",
+          "Area enclosed by parabola y²=4ax and latus rectum = 8a²/3",
+          "Area between parabola y=x² and line y=x: ∫₀¹ (x-x²)dx = 1/6"
+        ]
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Differential Equations",
+        "formulas": [
+          "Standard form linear DE: dy/dx + Py = Q",
+          "Integrating Factor (IF) = e^∫P dx",
+          "Solution: y(IF) = ∫Q(IF) dx + C",
+          "Homogeneous: put y = vx, so dy/dx = v + x dv/dx",
+          "Variable separable: f(y)dy = g(x)dx then integrate both sides"
+        ]
+      },
+      {
+        "chapter_id": "10",
+        "chapter_name": "Vector Algebra",
+        "formulas": [
+          "a⃗·b⃗ = a₁b₁ + a₂b₂ + a₃b₃",
+          "cosθ = (a⃗·b⃗)/(|a⃗||b⃗|)",
+          "a⃗ perpendicular to b⃗ iff a⃗·b⃗ = 0",
+          "|a⃗×b⃗| = |a⃗||b⃗|sinθ",
+          "a⃗ parallel to b⃗ iff a⃗×b⃗ = 0⃗",
+          "Area of parallelogram = |a⃗×b⃗|",
+          "Area of triangle = (1/2)|a⃗×b⃗|",
+          "Scalar triple product [a⃗ b⃗ c⃗] = 0 iff coplanar",
+          "Projection of a⃗ on b⃗ = (a⃗·b⃗)/|b⃗|"
+        ]
+      },
+      {
+        "chapter_id": "11",
+        "chapter_name": "Three-Dimensional Geometry",
+        "formulas": [
+          "Direction cosines: l = cosα, m = cosβ, n = cosγ. l²+m²+n²=1",
+          "Vector form of line: r⃗ = a⃗ + λb⃗",
+          "Cartesian form: (x-x₁)/l = (y-y₁)/m = (z-z₁)/n",
+          "Distance between skew lines = |[(a⃗₂-a⃗₁)·(b⃗₁×b⃗₂)]| / |b⃗₁×b⃗₂|",
+          "Equation of plane: ax+by+cz+d=0 or r⃗·n̂ = d",
+          "Distance of point (x₁,y₁,z₁) from plane ax+by+cz+d=0: |ax₁+by₁+cz₁+d|/√(a²+b²+c²)",
+          "Angle between planes: cosθ = |a₁a₂+b₁b₂+c₁c₂|/√(a₁²+b₁²+c₁²)·√(a₂²+b₂²+c₂²)"
+        ]
+      },
+      {
+        "chapter_id": "13",
+        "chapter_name": "Probability",
+        "formulas": [
+          "P(A|B) = P(A∩B)/P(B)",
+          "P(A∪B) = P(A) + P(B) - P(A∩B)",
+          "P(A') = 1 - P(A)",
+          "P(A) + P(not A) = 1",
+          "Total probability: P(A) = Σ P(Bᵢ)·P(A|Bᵢ)",
+          "Bayes': P(Bᵢ|A) = P(Bᵢ)·P(A|Bᵢ) / Σ P(Bⱼ)·P(A|Bⱼ)",
+          "Binomial: P(X=r) = ⁿCᵣ pʳ qⁿ⁻ʳ",
+          "Mean of binomial = np, Variance = npq"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Mathematics",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Mathematics",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Mathematics has no practical exam. Internal assessment (20 marks) covers file + projects.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "32 objective questions = 32 marks jo relatively easier hote hain. Remaining 68 marks mein difficulty medium to hard hoti hai.",
+    "easy_percent": 35,
+    "medium_percent": 40,
+    "hard_percent": 25,
+    "most_scoring_sections": [
+      "Q1 (32 marks objectives)"
+    ],
+    "most_difficult_sections": [
+      "Q20-Q23 (Long Answer / Analytical, 4 marks each)"
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "32 objective questions pehle complete karo — 35 min mein. Sabse easy marks hain.",
+      "Integration questions mein substitution clearly dikhao — partial marks milte hain",
+      "Determinant se system solve karte waqt: A⁻¹ banao, phir X = A⁻¹B",
+      "LP mein graph zaroori hai — bina graph ke marks nahi milenge",
+      "Proof questions mein: 'LHS = ... = ... = RHS. Hence Proved.' clearly likho",
+      "Continuity check: LHL, RHL aur f(a) teeno alag alag calculate karo",
+      "Vector questions mein arrow notation mat bhoolna",
+      "Bayes' theorem mein tree diagram banao — mistakes kam hoti hain",
+      "Integration by parts mein ILATE rule follow karo",
+      "Final answer box karo har numerical mein",
+      "Question number clearly likho — especially Q1 ke 32 sub-parts ke liye"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "Q1_objectives_32marks",
+        "recommended_minutes": 35,
+        "note": "35 min — attempt all 32, no negative marking"
+      },
+      {
+        "section_id": "Q6_Q15_very_short",
+        "recommended_minutes": 30,
+        "note": "30 min — 2 marks each, show working"
+      },
+      {
+        "section_id": "Q16_Q19_short",
+        "recommended_minutes": 25,
+        "note": "25 min — 3 marks each, all steps"
+      },
+      {
+        "section_id": "Q20_Q23_long",
+        "recommended_minutes": 40,
+        "note": "40 min — 4 marks each, full derivation"
+      },
+      {
+        "section_id": "revision",
+        "recommended_minutes": 10,
+        "note": "10 min — check signs, units in word problems"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 33,
+        "strategy": "32 objective questions mein se 25-28 sahi karo = 25-28 marks. + 2-3 very short answer = 4-6 marks. Total ~30-34. Passing ho jayega.",
+        "focus_chapters": [
+          "Ch 3 Matrices MCQs",
+          "Ch 4 Determinants MCQs",
+          "Ch 7 standard integrals MCQ",
+          "Ch 13 basic probability",
+          "Ch 5 standard derivatives MCQ"
+        ],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60_marks",
+        "target_marks": 60,
+        "strategy": "Good objectives (28-30) + very short answers (12-14) + 2-3 short answers (6-9) + 1 long answer (4) = 50-57 + 20 internal = 70-77 marks.",
+        "focus_chapters": [
+          "Ch 7 Integrals (12 marks)",
+          "Ch 5 Continuity/Differentiability (8 marks)",
+          "Ch 9 Differential Equations",
+          "Ch 11 3D Geometry",
+          "Ch 4 Determinants"
+        ],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "full_marks",
+        "target_marks": 100,
+        "strategy": "All chapters, all question types. Integration and 3D Geometry mein special focus.",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [
+          "Definite integrals by properties",
+          "Distance between skew lines",
+          "Bayes' theorem multi-stage",
+          "Maxima-minima word problems"
+        ],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": 0,
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [
+      "Ch 12 LP (3 marks, standard method)",
+      "Ch 8 Applications of Integrals (3 marks)",
+      "Ch 1 Relations (definitions + proofs)"
+    ],
+    "highest_roi_chapters": [
+      "Ch 7 Integrals (12 marks — must prepare fully)",
+      "Ch 5 Continuity (8 marks)",
+      "Ch 4 Determinants (system of equations always comes)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 20,
+    "note": "3 projects + 1 practical file = 20 marks. Teeno projects compulsory hain alag alag exams se pehle submit karne hote hain.",
+    "components": [
+      {
+        "name": "Practical file",
+        "marks": 5,
+        "note": ""
+      },
+      {
+        "name": "Project before quarterly exam",
+        "marks": 5,
+        "note": ""
+      },
+      {
+        "name": "Project before half-yearly exam",
+        "marks": 5,
+        "note": ""
+      },
+      {
+        "name": "Project before annual exam",
+        "marks": 5,
+        "note": ""
+      }
+    ]
+  },
+  "reference_books": {
+    "note": "",
+    "books": []
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "Admit card ke bina exam hall mein entry nahi milegi. Har exam day saath le jaao.",
+    "uniform_compulsory": true,
+    "uniform_note": "Exam mein proper school uniform mein aana zaroori hai.",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "Smartphone, smartwatch ya koi bhi electronic device exam hall mein allowed nahi hai. Found karne par spot par suspend.",
+    "reach_before_minutes": 30,
+    "reach_note": "Exam time se kam se kam 30 minute pehle hall mein pahunchna zaroori hai.",
+    "malpractice_consequence": "Malpractice mein caught hone par spot par suspend kar diya jaayega.",
+    "leaving_before_submission": false,
+    "leaving_note": "Answer sheet submit karne se pehle exam hall nahi chhod sakte.",
+    "timetable_source": "Official timetable mpbse.nic.in par available hoti hai.",
+    "extra_time_given": false,
+    "extra_time_note": "3 ghante fixed. Bell bajte hi answer sheet submit karni hoti hai. Koi extra time nahi milta."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "question_number_note: Haan — har answer ke upar question number likhna zaroori hai. Examiner dhundhta hai. Nahi likha toh marks confusion ho sakta hai.",
+      "set_number_compulsory: True",
+      "set_number_note: Haan — apna set number (A/B/C/D) answer sheet ke cover page par compulsory likhna hota hai.",
+      "question_copy_compulsory: False",
+      "question_copy_note: Answer sheet mein poora question likhna zaroori nahi. Sirf question number likho aur answer shuru karo.",
+      "rough_work: Answer sheet ka last page rough work ke liye. Clearly ROUGH WORK likho. Rough work pe marks nahi milte lekin kaam aata hai.",
+      "supplementary_sheet: Supplementary sheet lene se marks nahi katenge. Zaroorat ho toh lo. Lekin unnecessary blank pages waste mat karo.",
+      "sequence_compulsory: False",
+      "sequence_note: Questions ka sequence follow karna zaroori nahi. Jo aata ho pehle karo. Lekin question number clearly likho.",
+      "last_to_first: Haan — paper last se bhi start kar sakte ho. Koi rule nahi ki sequence follow karo.",
+      "long_answer_position: Long answers hamesha paper ke last mein nahi hote. Section D aur E mein hote hain lekin sequence alag ho sakti hai.",
+      "section_name_before_section: Section ka naam likhna compulsory nahi lekin recommended hai. Examiner ko navigate karna easy hota hai.",
+      "line_after_each_question: Zaroori nahi. Lekin do lines draw karne se answer clearly separate dikhta hai — good practice.",
+      "cutting_overwriting: Cuts se marks directly nahi katenge. Ek clean line se kato. Clean cutting acceptable hai.",
+      "short_before_long: Pehle short answers attempt karo phir long — marks nahi katenge. Jo bhi order suit kare.",
+      "sub_questions: Sub questions matlab ek question ke andar (a), (b), (c) parts hote hain. Har part ke marks alag alag hote hain."
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Blue pen se main answer, black se headings/underline. Ya sirf ek color bhi chalega."
+    },
+    "rough_work_rules": "Answer sheet ka last page rough work ke liye. Clearly ROUGH WORK likho. Rough work pe marks nahi milte lekin kaam aata hai.",
+    "diagram_rules": "",
+    "overwriting_rules": "Cuts se marks directly nahi katenge. Ek clean line se kato. Clean cutting acceptable hai.",
+    "cutting_rules": "Cuts se marks directly nahi katenge. Ek clean line se kato. Clean cutting acceptable hai."
+  }
+}

@@ -1,0 +1,104 @@
+## History (Itihas) Common Mistakes — Class 11 & 12 Board Exam Students ke liye
+
+---
+
+MISTAKE 1 — STORY LIKHNA VS. BULLET POINTS LIKHNA
+Students aksar apna answer ek lamba paragraph ya story ki tarah likhte hain. Board exam mein answers ko bullet points aur sub-headings mein na likhna sabse badi galti hai — examiner ke paas time nahi hota poori story padhne ka.
+
+Galat tarika:
+"Asahyog Andolan 1920 mein shuru hua tha, ismein logon ne sarkari naukariyon ko chhod diya aur videshi kapdon ko jalaya gaya kyonki Gandhi ji chahte the ki..." (ek continuous story)
+
+Sahi tarika:
+Andolan ka Swaroop (Nature): Yeh ek non-violent resistance tha.
+Bahishkar (Boycott): Sarkari schools, colleges aur videshi vastuon ka tyaag.
+Swadeshi: Khadi ke upyog par emphasis dena.
+
+Rule: Jab bhi 4+ marks ka answer likhna ho — pehle 2-3 sub-headings socho, phir har heading ke neeche 2-3 bullet points. Examiner ek second mein samajh jaata hai tum jaante ho — marks milte hain.
+
+Applies to: All chapters with descriptive answers — Nationalism, Colonialism, Partition, World Wars, etc.
+
+---
+
+MISTAKE 2 — FACTS KI KAMI (LACK OF SPECIFIC EVIDENCE)
+Answer mein specific names, places aur evidence ka zikr na karna ek badi galti hai. Sirf general statements likhne se poore marks nahi milte — examiner evidence dhundta hai.
+
+Galat tarika:
+"Harappa ke log trade karna jante the."
+
+Sahi tarika (facts ke saath):
+"Harappa ke log Mesopotamia ke saath trade karte the, jiske evidence hume Lothal ke port aur Harappan seals se milte hain."
+
+Aur bhi examples:
+- Sirf "Akbar ek tolerant ruler tha" mat likho — "Akbar ne Din-i-Ilahi aur Sulh-i-Kul ki policy apnayi, aur Fatehpur Sikri mein Ibadat Khana banaya jahan different religions ke scholars aate the" likho
+- Sirf "Vijayanagar ek powerful empire tha" mat likho — specific temples, trade routes, foreign travellers (Ibn Battuta, Paes) ka reference do
+
+Rule: Har claim ke saath ek specific example ya evidence zaroor do. General statement + specific evidence = full marks.
+
+Applies to: Ancient History, Medieval History, Modern History — har chapter mein.
+
+---
+
+MISTAKE 3 — TIMELINE KI GALTI (WRONG CHRONOLOGY)
+Events ke years ya sequence galat likh dena ek common aur costly mistake hai — examiner immediately marks kaat leta hai.
+
+Galat tarika:
+Asahyog Andolan ka year 1925 likh diya (sahi: 1920-22)
+
+Sahi tarika:
+- Agar exact year yaad nahi hai toh decade ya century use karo — "early 1920s" likhna better hai
+- Galat year bilkul mat likho — examiner turant pakad leta hai
+- Better hai accurate approximation se galat precision
+
+Aur common timeline mistakes:
+- Simon Commission: 1927 (1928 nahi — yeh India visit 1928 mein tha)
+- Dandi March: March 1930 (1929 nahi)
+- Partition of Bengal: 1905 (1906 nahi)
+
+Rule: Jo years pakke yaad hain wohi likho. Agar doubt ho toh "in the early/mid/late [decade]" likhna safe hai — examiner us par marks nahi kaatega. Guess mat karo.
+
+Applies to: Modern History — all movements, acts, and events with specific dates.
+
+---
+
+MISTAKE 4 — MAP MARKING MEIN CONFUSION
+Map par locations ko wrong state mein mark karna, ya pencil ki jagah pen use karna — jisse correction possible nahi hoti.
+
+Galat tarika:
+'Chauri Chaura' ko Bihar mein mark kar diya — yeh completely wrong hai.
+
+Sahi tarika:
+Chauri Chaura — Uttar Pradesh ka Gorakhpur district (yahan farmers aur police ke beech 1922 mein incident hua tha)
+
+Map marking ke rules:
+- Hamesha sharp pencil use karo taaki galti hone par erase kar sako
+- Location mark karne ke baad uska naam clearly likhna mat bhoolo
+- Dot/cross ke saath naam likhna compulsory hai — sirf dot se marks nahi milte
+
+Common map mistakes:
+- Lothal → Gujarat mein hai (Rajasthan mein nahi)
+- Taxila → Pakistan (present-day) mein hai
+- Ajanta Caves → Maharashtra mein hai (Madhya Pradesh mein nahi)
+
+Rule: Map questions mein pencil = lifeline. Hamesha pencil use karo, location ke saath naam likho, aur compass direction (N/S/E/W) se cross-check karo.
+
+Applies to: Ancient History (Harappan sites), Medieval History (empires), Modern History (movement locations).
+
+---
+
+MISTAKE 5 — SOURCE-BASED QUESTIONS KO SKIP KARNA
+Textbook ke beech mein jo 'boxes' diye hote hain — jisme primary sources aur quotes hote hain — unhe na padhna ek badi galti hai. Board exam mein inse directly questions aate hain, lekin students inhe difficult samajh kar ignore kar dete hain.
+
+Galat approach:
+Box mein Bernier ka quote diya hua hai — student ne poora box skip kar diya kyunki woh difficult English mein tha.
+
+Sahi approach:
+Agar question "Bernier's views on India" par hai, toh box mein diya hua uska specific quote (jaise 'State Land Ownership theory') apne answer mein include karo — examiner par strong impression padta hai aur extra marks milte hain.
+
+Source-based question mein marks kaise milte hain:
+- Source ko padhkar uska context batao (kab likha, kisne likha)
+- Source se direct evidence ya quote diya answer mein
+- Source ki limitation bhi batao agar question poocha — yeh higher order thinking dikhata hai
+
+Rule: Har chapter ke boxes aur insets ko underline karo pehli reading mein. Yeh 5 marks ke source questions ka seedha source hain — board mein ye questions skip karna matlab guaranteed marks chhod dena.
+
+Applies to: All chapters — especially Colonialism, Nationalism, Partition chapters jahan primary sources frequently aate hain.

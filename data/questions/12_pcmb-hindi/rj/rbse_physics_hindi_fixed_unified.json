@@ -1,0 +1,1981 @@
+{
+  "board": "RBSE",
+  "class": "12",
+  "subject": "भौतिक विज्ञान (Physics)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 56,
+    "practical_paper": 30,
+    "internal_assessment": 14,
+    "total": 100,
+    "passing_marks_theory": 20,
+    "passing_marks_practical": 10,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": true,
+    "extra_time_note": "हाँ — 15 मिनट का पठन समय मिलता है। इस समय में केवल प्रश्न-पत्र पढ़ें, रफ़ कार्य या उत्तर लिखने की अनुमति नहीं।",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 0,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "RBSE में प्रायः कई सेट (sets) होते हैं। सभी सेटों में प्रश्न समान होते हैं, केवल क्रम (order) अलग होता है।",
+    "sets_same_or_different": "",
+    "language_of_attempt": "हिन्दी अथवा अंग्रेज़ी दोनों में उत्तर दे सकते हैं। मिश्रित (mixed) भाषा की भी अनुमति है।",
+    "all_compulsory_note": "Q14, Q15, Q16 (खण्ड स — दीर्घ उत्तरीय) तथा Q17, Q18 (खण्ड द — निबन्धात्मक) में आन्तरिक विकल्प (OR) मिलता है — कुल 5 प्रश्नों में।",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "RBSE का पाठ्यक्रम NCERT पर आधारित है, परन्तु RBSE के विशिष्ट पैटर्न, पिछले वर्षों के प्रश्न और SP Examination Idea जैसी सन्दर्भ पुस्तकें भी आवश्यक हैं।",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "model_paper": "आधिकारिक RBSE वेबसाइट से डाउनलोड करें — rajeduboard.rajasthan.gov.in > Books/Old Papers/Model Questions > Model Papers 2026।",
+      "previous_year_papers": "पिछले 5-7 वर्षों के प्रश्न-पत्र हल करें। समान प्रकार के प्रश्न पुनः आते हैं।",
+      "reference_book": "SP Examination Idea Physics (Science Publications, Jaipur) — RBSE के लिए सर्वाधिक लोकप्रिय सन्दर्भ पुस्तक। अध्याय-वार MCQ, लघु एवं दीर्घ उत्तरीय प्रश्न उपलब्ध हैं।"
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "RBSE कक्षा 12 भौतिक विज्ञान प्रश्न-पत्र में 6 प्रकार के प्रश्न आते हैं — MCQ (0.5), रिक्त स्थान (0.5), अति लघु (1), लघु (1.5), दीर्घ (3), निबन्धात्मक (4)।",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ (बहुविकल्पीय प्रश्न)",
+        "question_number": "",
+        "section": "अ",
+        "marks_each": 0.5,
+        "total_in_paper": 18,
+        "attempt": 18,
+        "negative_marking": false,
+        "how_to_attempt": "केवल सही विकल्प का अक्षर (a)/(b)/(c)/(d) लिखना होता है। कोई व्याख्या (explanation) आवश्यक नहीं। 0.5 अंक के लिए अधिक समय न लगाएँ।",
+        "mostly_from": "प्रत्येक अध्याय से आते हैं — परिभाषाएँ, इकाइयाँ, विमाएँ, सूत्र, उपकरणों के नाम, गुणधर्म। अध्याय 14 (अर्धचालक) से सर्वाधिक MCQ।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "रिक्त स्थान भरिए (Fill in the Blanks)",
+        "question_number": "",
+        "section": "अ",
+        "marks_each": 0.5,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "एक शब्द अथवा एक सूत्र लिखना होता है। SI मात्रक, विमीय सूत्र, विशिष्ट मान।",
+        "mostly_from": "SI मात्रक, सूत्र, स्थिरांक (e = 1.6×10⁻¹⁹ C), उपकरणों के गुणधर्म।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "अति लघु उत्तरीय (Very Short Answer)",
+        "question_number": "",
+        "section": "अ",
+        "marks_each": 1,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "परिभाषा, नियम का कथन, अथवा एक-दो वाक्यों में उत्तर। सूत्र भी लिख सकते हैं।",
+        "mostly_from": "परिभाषाएँ (गाउस का नियम, फैराडे का नियम, बोहर की परिकल्पनाएँ), शर्तें (पूर्ण आन्तरिक परावर्तन की शर्तें, अनुनाद), सरल संख्यात्मक उत्तर।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "1-2 पंक्तियाँ",
+        "notes": ""
+      },
+      {
+        "type": "लघु उत्तरीय (Short Answer)",
+        "question_number": "",
+        "section": "ब",
+        "marks_each": 1.5,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "संक्षिप्त तर्क वाले प्रश्न, छोटे निगमन, सरल संख्यात्मक प्रश्न, तुलनात्मक प्रश्न। 1.5 अंक = 1 अंक अवधारणा/नियम + 0.5 अंक सूत्र/चित्र।",
+        "mostly_from": "सभी अध्यायों से — नियम एवं सूत्र, एक चरण वाले संख्यात्मक प्रश्न, तुलनात्मक प्रश्न, छोटे चित्र वाले प्रश्न।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "40-60 शब्द / 4-6 पंक्तियाँ",
+        "notes": ""
+      },
+      {
+        "type": "दीर्घ उत्तरीय (Long Answer)",
+        "question_number": "",
+        "section": "स",
+        "marks_each": 3,
+        "total_in_paper": 3,
+        "attempt": 3,
+        "negative_marking": false,
+        "how_to_attempt": "चित्र सहित पूर्ण निगमन। चित्र = 1 अंक (सामान्यतः)। चरणों को क्रमांकित करें। अन्तिम परिणाम को बॉक्स में दर्शाएँ। 3 अंक = चित्र (1) + चरण (1.5) + परिणाम (0.5)।",
+        "mostly_from": "मानक निगमन — गाउस के नियम के अनुप्रयोग, बायो-सेवर्ट नियम, विभवमापी, लेंस/दर्पण सूत्र, AC परिपथ।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "100-150 शब्द",
+        "notes": ""
+      },
+      {
+        "type": "निबन्धात्मक / अति दीर्घ उत्तरीय (Essay)",
+        "question_number": "",
+        "section": "द",
+        "marks_each": 4,
+        "total_in_paper": 2,
+        "attempt": 2,
+        "negative_marking": false,
+        "how_to_attempt": "प्रश्न-पत्र का सबसे बड़ा निगमन। चित्र अनिवार्य। विस्तृत व्याख्या। 4 अंक = चित्र (1) + निगमन के चरण (2) + परिणाम एवं अनुप्रयोग (1)।",
+        "mostly_from": "उच्च भारांक वाले निगमन — गतिमान आवेश एवं चुम्बकत्व (4-अंकीय प्रश्न के लिए सर्वाधिक सामान्य), AC परिपथ, प्रकाशिकी के निगमन।",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "150-200 शब्द प्रत्येक",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "RBSE भौतिक विज्ञान थ्योरी प्रश्न-पत्र = 56 अंक। 4 खण्ड। 18 मुख्य प्रश्न (53 उप-भाग)। अवधि: 3 घण्टे 15 मिनट (15 मिनट पठन समय अतिरिक्त)।",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Q14, Q15, Q16 (खण्ड स — दीर्घ उत्तरीय) तथा Q17, Q18 (खण्ड द — निबन्धात्मक) में आन्तरिक विकल्प (OR) मिलता है — कुल 5 प्रश्नों में।",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 35,
+      "medium_percent": 45,
+      "hard_percent": 20,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "खण्ड अ — वस्तुनिष्ठ (MCQ + रिक्त स्थान + अति लघु उत्तरीय)",
+        "type": "खण्ड अ — वस्तुनिष्ठ (MCQ + रिक्त स्थान + अति लघु उत्तरीय)",
+        "question_numbers": "",
+        "total_questions": 0,
+        "total_sub_questions": 3,
+        "attempt_required": 0,
+        "marks_per_question": 0,
+        "total_marks": 24,
+        "word_limit": "",
+        "breakdown": "MCQ: {'count': 18, 'marks_each': 0.5, 'total': 9, 'note': '18 MCQ × 0.5 = 9 अंक (प्रश्न 1 के उप-भाग i से xviii)'}; fill_in_blanks: {'count': 10, 'marks_each': 0.5, 'total': 5, 'note': '10 रिक्त स्थान × 0.5 = 5 अंक (प्रश्न 2 के उप-भाग i से x)'}; very_short_answer: {'count': 10, 'marks_each': 1, 'total': 10, 'note': '10 अति लघु उत्तरीय × 1 = 10 अंक (प्रश्न 3 के उप-भाग i से x)'}",
+        "notes": ""
+      },
+      {
+        "section_id": "B",
+        "name": "खण्ड ब — लघु उत्तरीय",
+        "type": "खण्ड ब — लघु उत्तरीय",
+        "question_numbers": "",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "attempt_required": 10,
+        "marks_per_question": 1.5,
+        "total_marks": 15,
+        "word_limit": "",
+        "breakdown": "10 लघु उत्तरीय प्रश्न × 1.5 अंक = 15 अंक (प्रश्न 4 से 13)",
+        "notes": "10 लघु उत्तरीय प्रश्न × 1.5 अंक = 15 अंक (प्रश्न 4 से 13)"
+      },
+      {
+        "section_id": "C",
+        "name": "खण्ड स — दीर्घ उत्तरीय",
+        "type": "खण्ड स — दीर्घ उत्तरीय",
+        "question_numbers": "",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "attempt_required": 3,
+        "marks_per_question": 3,
+        "total_marks": 9,
+        "word_limit": "",
+        "breakdown": "3 दीर्घ उत्तरीय प्रश्न × 3 अंक = 9 अंक (प्रश्न 14, 15, 16)। प्रत्येक में आन्तरिक विकल्प (OR) मिलता है।",
+        "notes": "3 दीर्घ उत्तरीय प्रश्न × 3 अंक = 9 अंक (प्रश्न 14, 15, 16)। प्रत्येक में आन्तरिक विकल्प (OR) मिलता है।"
+      },
+      {
+        "section_id": "D",
+        "name": "खण्ड द — निबन्धात्मक / अति दीर्घ उत्तरीय",
+        "type": "खण्ड द — निबन्धात्मक / अति दीर्घ उत्तरीय",
+        "question_numbers": "",
+        "total_questions": 2,
+        "total_sub_questions": 0,
+        "attempt_required": 2,
+        "marks_per_question": 4,
+        "total_marks": 8,
+        "word_limit": "",
+        "breakdown": "2 निबन्धात्मक प्रश्न × 4 अंक = 8 अंक (प्रश्न 17, 18)। प्रत्येक में आन्तरिक विकल्प (OR) मिलता है।",
+        "notes": "2 निबन्धात्मक प्रश्न × 4 अंक = 8 अंक (प्रश्न 17, 18)। प्रत्येक में आन्तरिक विकल्प (OR) मिलता है।"
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 56,
+    "total_practical": 30,
+    "internal_assessment": 14,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "खण्ड अ — वस्तुनिष्ठ (MCQ + रिक्त स्थान + अति लघु उत्तरीय)",
+        "question_numbers": "",
+        "type": "खण्ड अ — वस्तुनिष्ठ (MCQ + रिक्त स्थान + अति लघु उत्तरीय)",
+        "total_questions": 0,
+        "total_sub_questions": 3,
+        "marks_per_question": 0,
+        "total_marks": 24,
+        "word_limit": "",
+        "breakdown": "MCQ: {'count': 18, 'marks_each': 0.5, 'total': 9, 'note': '18 MCQ × 0.5 = 9 अंक (प्रश्न 1 के उप-भाग i से xviii)'}; fill_in_blanks: {'count': 10, 'marks_each': 0.5, 'total': 5, 'note': '10 रिक्त स्थान × 0.5 = 5 अंक (प्रश्न 2 के उप-भाग i से x)'}; very_short_answer: {'count': 10, 'marks_each': 1, 'total': 10, 'note': '10 अति लघु उत्तरीय × 1 = 10 अंक (प्रश्न 3 के उप-भाग i से x)'}"
+      },
+      {
+        "section_id": "B",
+        "name": "खण्ड ब — लघु उत्तरीय",
+        "question_numbers": "",
+        "type": "खण्ड ब — लघु उत्तरीय",
+        "total_questions": 10,
+        "total_sub_questions": 0,
+        "marks_per_question": 1.5,
+        "total_marks": 15,
+        "word_limit": "",
+        "breakdown": "10 लघु उत्तरीय प्रश्न × 1.5 अंक = 15 अंक (प्रश्न 4 से 13)"
+      },
+      {
+        "section_id": "C",
+        "name": "खण्ड स — दीर्घ उत्तरीय",
+        "question_numbers": "",
+        "type": "खण्ड स — दीर्घ उत्तरीय",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 9,
+        "word_limit": "",
+        "breakdown": "3 दीर्घ उत्तरीय प्रश्न × 3 अंक = 9 अंक (प्रश्न 14, 15, 16)। प्रत्येक में आन्तरिक विकल्प (OR) मिलता है।"
+      },
+      {
+        "section_id": "D",
+        "name": "खण्ड द — निबन्धात्मक / अति दीर्घ उत्तरीय",
+        "question_numbers": "",
+        "type": "खण्ड द — निबन्धात्मक / अति दीर्घ उत्तरीय",
+        "total_questions": 2,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 8,
+        "word_limit": "",
+        "breakdown": "2 निबन्धात्मक प्रश्न × 4 अंक = 8 अंक (प्रश्न 17, 18)। प्रत्येक में आन्तरिक विकल्प (OR) मिलता है।"
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 56,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "9",
+      "name": "किरण प्रकाशिकी एवं प्रकाशिक यन्त्र (Ray Optics and Optical Instruments)",
+      "marks": 7,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "8",
+        "name": "वैद्युतचुम्बकीय तरंगें (Electromagnetic Waves)",
+        "marks": 2
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "विद्युत आवेश तथा क्षेत्र (Electric Charges and Fields)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "स्थिर वैद्युतिकी (Electrostatics)"
+      },
+      {
+        "chapter_id": "2",
+        "name": "स्थिर विद्युत विभव तथा धारिता (Electrostatic Potential and Capacitance)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "स्थिर वैद्युतिकी (Electrostatics)"
+      },
+      {
+        "chapter_id": "3",
+        "name": "विद्युत धारा (Current Electricity)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "विद्युत धारा (Current Electricity)"
+      },
+      {
+        "chapter_id": "4",
+        "name": "गतिमान आवेश और चुम्बकत्व (Moving Charges and Magnetism)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "विद्युत धारा के चुम्बकीय प्रभाव एवं चुम्बकत्व"
+      },
+      {
+        "chapter_id": "5",
+        "name": "चुम्बकत्व एवं द्रव्य (Magnetism and Matter)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "विद्युत धारा के चुम्बकीय प्रभाव एवं चुम्बकत्व"
+      },
+      {
+        "chapter_id": "6",
+        "name": "विद्युत चुम्बकीय प्रेरण (Electromagnetic Induction)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "विद्युत चुम्बकीय प्रेरण एवं प्रत्यावर्ती धारा"
+      },
+      {
+        "chapter_id": "7",
+        "name": "प्रत्यावर्ती धारा (Alternating Current)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "विद्युत चुम्बकीय प्रेरण एवं प्रत्यावर्ती धारा"
+      },
+      {
+        "chapter_id": "8",
+        "name": "वैद्युतचुम्बकीय तरंगें (Electromagnetic Waves)",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "वैद्युतचुम्बकीय तरंगें (Electromagnetic Waves)"
+      },
+      {
+        "chapter_id": "9",
+        "name": "किरण प्रकाशिकी एवं प्रकाशिक यन्त्र (Ray Optics and Optical Instruments)",
+        "marks": 7,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "प्रकाश (Optics)"
+      },
+      {
+        "chapter_id": "10",
+        "name": "तरंग प्रकाशिकी (Wave Optics)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "प्रकाश (Optics)"
+      },
+      {
+        "chapter_id": "11",
+        "name": "विकिरण तथा द्रव्य की द्वैत प्रकृति (Dual Nature of Radiation and Matter)",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "विकिरण तथा द्रव्य की द्वैत प्रकृति"
+      },
+      {
+        "chapter_id": "12",
+        "name": "परमाणु (Atoms)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "परमाणु तथा नाभिक (Atoms and Nuclei)"
+      },
+      {
+        "chapter_id": "13",
+        "name": "नाभिक (Nuclei)",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "परमाणु तथा नाभिक (Atoms and Nuclei)"
+      },
+      {
+        "chapter_id": "14",
+        "name": "अर्धचालक इलेक्ट्रॉनिकी — पदार्थ, युक्तियाँ तथा सरल परिपथ (Semiconductor Electronics)",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "इलेक्ट्रॉनिक युक्तियाँ (Electronic Devices)"
+      }
+    ],
+    "totals": {
+      "total_marks": 56,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Physics Class 12 — 14 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Physics — स्थिर वैद्युतिकी (Electrostatics)",
+        "category": "स्थिर वैद्युतिकी (Electrostatics)",
+        "total_marks": 7,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "विद्युत आवेश तथा क्षेत्र (Electric Charges and Fields)",
+            "marks": 4,
+            "topics": [
+              "आवेश के गुणधर्म — संरक्षण, क्वाण्टीकरण, योज्यता",
+              "कूलॉम का नियम",
+              "विद्युत क्षेत्र — बिन्दु आवेश तथा द्विध्रुव के कारण",
+              "विद्युत क्षेत्र रेखाएँ",
+              "गाउस का नियम एवं इसके अनुप्रयोग — अनन्त रेखीय आवेश, समतल चादर, गोलीय कोश",
+              "विद्युत द्विध्रुव — द्विध्रुव आघूर्ण, अक्षीय एवं निरक्षीय स्थिति पर क्षेत्र"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "स्थिर विद्युत विभव तथा धारिता (Electrostatic Potential and Capacitance)",
+            "marks": 3,
+            "topics": [
+              "विद्युत विभव — बिन्दु आवेश एवं द्विध्रुव के कारण",
+              "समविभव पृष्ठ — गुणधर्म",
+              "धारिता — समान्तर प्लेट संधारित्र",
+              "परावैद्युत एवं ध्रुवण",
+              "संधारित्रों का संयोजन — श्रेणी एवं समान्तर",
+              "संधारित्र में संचित ऊर्जा"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Physics — विद्युत धारा (Current Electricity)",
+        "category": "विद्युत धारा (Current Electricity)",
+        "total_marks": 3,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "3",
+            "name": "विद्युत धारा (Current Electricity)",
+            "marks": 3,
+            "topics": [
+              "ओम का नियम — V = IR",
+              "प्रतिरोधकता एवं चालकता",
+              "अपवाह वेग — I = nAev_d",
+              "विद्युत वाहक बल (EMF) एवं आन्तरिक प्रतिरोध",
+              "किरचॉफ के नियम — KCL, KVL",
+              "व्हीटस्टोन सेतु",
+              "मीटर सेतु",
+              "विभवमापी — EMF की तुलना"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Physics — विद्युत धारा के चुम्बकीय प्रभाव एवं चुम्बकत्व",
+        "category": "विद्युत धारा के चुम्बकीय प्रभाव एवं चुम्बकत्व",
+        "total_marks": 8,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "4",
+            "name": "गतिमान आवेश और चुम्बकत्व (Moving Charges and Magnetism)",
+            "marks": 5,
+            "topics": [
+              "लॉरेन्ज़ बल",
+              "बायो-सेवर्ट का नियम",
+              "ऐम्पियर का परिपथीय नियम",
+              "वृत्ताकार लूप के केन्द्र पर चुम्बकीय क्षेत्र",
+              "परिनालिका एवं टोरॉइड",
+              "साइक्लोट्रॉन",
+              "चल कुण्डली धारामापी",
+              "दो समान्तर धारावाही चालकों के बीच बल"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "चुम्बकत्व एवं द्रव्य (Magnetism and Matter)",
+            "marks": 3,
+            "topics": [
+              "चुम्बकीय द्विध्रुव आघूर्ण",
+              "चुम्बकीय क्षेत्र रेखाएँ",
+              "प्रतिचुम्बकीय, अनुचुम्बकीय, लौहचुम्बकीय पदार्थ",
+              "चुम्बकीयकरण, चुम्बकीय प्रवृत्ति, चुम्बकीय तीव्रता",
+              "शैथिल्य वक्र (Hysteresis Curve)"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Physics — विद्युत चुम्बकीय प्रेरण एवं प्रत्यावर्ती धारा",
+        "category": "विद्युत चुम्बकीय प्रेरण एवं प्रत्यावर्ती धारा",
+        "total_marks": 9,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "6",
+            "name": "विद्युत चुम्बकीय प्रेरण (Electromagnetic Induction)",
+            "marks": 4,
+            "topics": [
+              "फैराडे के विद्युत-चुम्बकीय प्रेरण के नियम",
+              "लेंज़ का नियम",
+              "प्रेरित विद्युत वाहक बल — गतिशील चालक",
+              "स्व-प्रेरण एवं अन्योन्य प्रेरण",
+              "AC जनित्र (Generator)"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "प्रत्यावर्ती धारा (Alternating Current)",
+            "marks": 5,
+            "topics": [
+              "AC का वर्ग माध्य मूल (rms) मान",
+              "AC परिपथ — R, L, C अलग-अलग",
+              "LCR श्रेणी परिपथ",
+              "अनुनाद",
+              "शक्ति गुणांक",
+              "ट्रान्सफॉर्मर"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Physics — वैद्युतचुम्बकीय तरंगें (Electromagnetic Waves)",
+        "category": "वैद्युतचुम्बकीय तरंगें (Electromagnetic Waves)",
+        "total_marks": 2,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "8",
+            "name": "वैद्युतचुम्बकीय तरंगें (Electromagnetic Waves)",
+            "marks": 2,
+            "topics": [
+              "EM तरंगें — विशेषताएँ",
+              "EM स्पेक्ट्रम — रेडियो, माइक्रोवेव, अवरक्त, दृश्य, पराबैंगनी, X-किरणें, गामा",
+              "प्रत्येक का उपयोग एवं तरंगदैर्ध्य",
+              "EM तरंगों की गति c = 3 × 10⁸ m/s"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Physics — प्रकाश (Optics)",
+        "category": "प्रकाश (Optics)",
+        "total_marks": 12,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "9",
+            "name": "किरण प्रकाशिकी एवं प्रकाशिक यन्त्र (Ray Optics and Optical Instruments)",
+            "marks": 7,
+            "topics": [
+              "परावर्तन — गोलीय दर्पण",
+              "अपवर्तन — स्नेल का नियम",
+              "पूर्ण आन्तरिक परावर्तन (TIR) — क्रान्तिक कोण",
+              "लेंस — उत्तल एवं अवतल",
+              "लेंस निर्माता सूत्र",
+              "प्रिज़्म से अपवर्तन — विचलन कोण",
+              "प्रकाशिक यन्त्र — सरल एवं संयुक्त सूक्ष्मदर्शी, दूरदर्शी"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "तरंग प्रकाशिकी (Wave Optics)",
+            "marks": 5,
+            "topics": [
+              "हाइगेन्स का सिद्धान्त",
+              "व्यतिकरण — यंग का द्वि-झिरी प्रयोग (YDSE)",
+              "विवर्तन — एकल झिरी",
+              "ध्रुवण — ब्रूस्टर का नियम, मैलस का नियम"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Physics — विकिरण तथा द्रव्य की द्वैत प्रकृति",
+        "category": "विकिरण तथा द्रव्य की द्वैत प्रकृति",
+        "total_marks": 4,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "11",
+            "name": "विकिरण तथा द्रव्य की द्वैत प्रकृति (Dual Nature of Radiation and Matter)",
+            "marks": 4,
+            "topics": [
+              "प्रकाश-विद्युत प्रभाव",
+              "आइन्सटीन का प्रकाश-विद्युत समीकरण: KE_max = hν − φ",
+              "फोटॉन — ऊर्जा E = hν, संवेग p = h/λ",
+              "द्रव्य तरंगें — डी-ब्रॉग्ली तरंगदैर्ध्य: λ = h/mv"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Physics — परमाणु तथा नाभिक (Atoms and Nuclei)",
+        "category": "परमाणु तथा नाभिक (Atoms and Nuclei)",
+        "total_marks": 6,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "12",
+            "name": "परमाणु (Atoms)",
+            "marks": 3,
+            "topics": [
+              "थॉमसन मॉडल, रदरफोर्ड मॉडल",
+              "बोहर का परमाणु मॉडल — परिकल्पनाएँ",
+              "बोहर त्रिज्या एवं ऊर्जा सूत्र",
+              "हाइड्रोजन स्पेक्ट्रम — श्रेणियाँ"
+            ],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "नाभिक (Nuclei)",
+            "marks": 3,
+            "topics": [
+              "नाभिकीय बल — गुणधर्म",
+              "बन्धन ऊर्जा एवं द्रव्यमान क्षति",
+              "रेडियोएक्टिवता — अल्फा, बीटा, गामा क्षय",
+              "अर्ध-आयु एवं क्षय नियम",
+              "नाभिकीय विखण्डन एवं संलयन"
+            ],
+            "note": ""
+          }
+        ]
+      },
+      {
+        "book_name": "NCERT Physics — इलेक्ट्रॉनिक युक्तियाँ (Electronic Devices)",
+        "category": "इलेक्ट्रॉनिक युक्तियाँ (Electronic Devices)",
+        "total_marks": 5,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "14",
+            "name": "अर्धचालक इलेक्ट्रॉनिकी — पदार्थ, युक्तियाँ तथा सरल परिपथ (Semiconductor Electronics)",
+            "marks": 5,
+            "topics": [
+              "ऊर्जा बैण्ड सिद्धान्त — चालक, अर्धचालक, विद्युतरोधी",
+              "निज एवं बाह्य (अपमिश्रित) अर्धचालक",
+              "n-प्रकार एवं p-प्रकार के अर्धचालक",
+              "p–n सन्धि डायोड — अग्र अभिनति एवं पश्च अभिनति",
+              "दिष्टकारी — अर्ध-तरंग एवं पूर्ण-तरंग",
+              "ज़ेनर डायोड — वोल्टेज नियामक",
+              "BJT ट्रान्जिस्टर — CB, CE, CC विन्यास",
+              "तर्क द्वार — AND, OR, NOT, NAND, NOR"
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "विद्युत आवेश तथा क्षेत्र (Electric Charges and Fields)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 1,
+      "unit_name": "स्थिर वैद्युतिकी (Electrostatics)",
+      "part": "स्थिर वैद्युतिकी (Electrostatics)",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "आवेश के गुणधर्म — संरक्षण, क्वाण्टीकरण, योज्यता",
+        "कूलॉम का नियम",
+        "विद्युत क्षेत्र — बिन्दु आवेश तथा द्विध्रुव के कारण",
+        "विद्युत क्षेत्र रेखाएँ",
+        "गाउस का नियम एवं इसके अनुप्रयोग — अनन्त रेखीय आवेश, समतल चादर, गोलीय कोश",
+        "विद्युत द्विध्रुव — द्विध्रुव आघूर्ण, अक्षीय एवं निरक्षीय स्थिति पर क्षेत्र"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "गाउस का प्रमेय — उपपत्ति",
+        "अनन्त लम्बे आवेशित तार के कारण विद्युत क्षेत्र",
+        "आवेशित समतल चादर के कारण विद्युत क्षेत्र",
+        "आवेशित गोलीय कोश के कारण विद्युत क्षेत्र (बाहर, भीतर, पृष्ठ पर)",
+        "द्विध्रुव के अक्षीय एवं निरक्षीय बिन्दुओं पर विद्युत क्षेत्र"
+      ],
+      "important_diagrams": [
+        "गाउसीय गोलीय पृष्ठ",
+        "द्विध्रुव की क्षेत्र रेखाएँ",
+        "गोलीय कोश के लिए E बनाम r ग्राफ"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "गाउस के नियम के अनुप्रयोग (दीर्घ उत्तरीय), कूलॉम नियम बनाम गाउस नियम (लघु), आवेश के गुणधर्म (MCQ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "स्थिर विद्युत विभव तथा धारिता (Electrostatic Potential and Capacitance)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 2,
+      "unit_name": "स्थिर वैद्युतिकी (Electrostatics)",
+      "part": "स्थिर वैद्युतिकी (Electrostatics)",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "विद्युत विभव — बिन्दु आवेश एवं द्विध्रुव के कारण",
+        "समविभव पृष्ठ — गुणधर्म",
+        "धारिता — समान्तर प्लेट संधारित्र",
+        "परावैद्युत एवं ध्रुवण",
+        "संधारित्रों का संयोजन — श्रेणी एवं समान्तर",
+        "संधारित्र में संचित ऊर्जा"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "समान्तर प्लेट संधारित्र: C = ε₀A/d",
+        "संधारित्रों का श्रेणी एवं समान्तर संयोजन",
+        "संधारित्र में संचित ऊर्जा: U = ½CV²",
+        "परावैद्युत माध्यम में धारिता: C = Kε₀A/d"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "संधारित्र के निगमन (दीर्घ उत्तरीय), समविभव पृष्ठ के गुणधर्म (लघु/MCQ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "विद्युत धारा (Current Electricity)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 3,
+      "unit_name": "विद्युत धारा (Current Electricity)",
+      "part": "विद्युत धारा (Current Electricity)",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "ओम का नियम — V = IR",
+        "प्रतिरोधकता एवं चालकता",
+        "अपवाह वेग — I = nAev_d",
+        "विद्युत वाहक बल (EMF) एवं आन्तरिक प्रतिरोध",
+        "किरचॉफ के नियम — KCL, KVL",
+        "व्हीटस्टोन सेतु",
+        "मीटर सेतु",
+        "विभवमापी — EMF की तुलना"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "I = nAev_d (अपवाह वेग का सूत्र)",
+        "व्हीटस्टोन सेतु सन्तुलन शर्त: P/Q = R/S",
+        "मीटर सेतु: R = S(100-L)/L",
+        "विभवमापी: E₁/E₂ = l₁/l₂"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "मीटर सेतु संख्यात्मक (लघु/दीर्घ उत्तरीय), किरचॉफ के नियम (लघु), अपवाह वेग का निगमन",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "गतिमान आवेश और चुम्बकत्व (Moving Charges and Magnetism)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 4,
+      "unit_name": "विद्युत धारा के चुम्बकीय प्रभाव एवं चुम्बकत्व",
+      "part": "विद्युत धारा के चुम्बकीय प्रभाव एवं चुम्बकत्व",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम-कठिन",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "लॉरेन्ज़ बल",
+        "बायो-सेवर्ट का नियम",
+        "ऐम्पियर का परिपथीय नियम",
+        "वृत्ताकार लूप के केन्द्र पर चुम्बकीय क्षेत्र",
+        "परिनालिका एवं टोरॉइड",
+        "साइक्लोट्रॉन",
+        "चल कुण्डली धारामापी",
+        "दो समान्तर धारावाही चालकों के बीच बल"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "वृत्ताकार लूप के केन्द्र पर चुम्बकीय क्षेत्र: B = μ₀I/2r",
+        "परिनालिका के भीतर चुम्बकीय क्षेत्र: B = μ₀nI",
+        "साइक्लोट्रॉन आवृत्ति: f = qB/2πm",
+        "दो समान्तर चालकों के बीच बल: F/l = μ₀I₁I₂/2πd",
+        "आयताकार धारावाही लूप पर बल-आघूर्ण: τ = nBIA sinα",
+        "चल कुण्डली धारामापी"
+      ],
+      "important_diagrams": [
+        "साइक्लोट्रॉन",
+        "चल कुण्डली धारामापी",
+        "परिनालिका का B-क्षेत्र"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "साइक्लोट्रॉन (दीर्घ उत्तरीय), धारामापी का अमीटर/वोल्टमीटर में रूपान्तरण (लघु), बायो-सेवर्ट निगमन",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "चुम्बकत्व एवं द्रव्य (Magnetism and Matter)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 5,
+      "unit_name": "विद्युत धारा के चुम्बकीय प्रभाव एवं चुम्बकत्व",
+      "part": "विद्युत धारा के चुम्बकीय प्रभाव एवं चुम्बकत्व",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "सरल",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "चुम्बकीय द्विध्रुव आघूर्ण",
+        "चुम्बकीय क्षेत्र रेखाएँ",
+        "प्रतिचुम्बकीय, अनुचुम्बकीय, लौहचुम्बकीय पदार्थ",
+        "चुम्बकीयकरण, चुम्बकीय प्रवृत्ति, चुम्बकीय तीव्रता",
+        "शैथिल्य वक्र (Hysteresis Curve)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "प्रति/अनु/लौहचुम्बकीय तालिका (MCQ, रिक्त स्थान, लघु उत्तरीय), शैथिल्य लूप (चित्र)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "विद्युत चुम्बकीय प्रेरण (Electromagnetic Induction)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 6,
+      "unit_name": "विद्युत चुम्बकीय प्रेरण एवं प्रत्यावर्ती धारा",
+      "part": "विद्युत चुम्बकीय प्रेरण एवं प्रत्यावर्ती धारा",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "फैराडे के विद्युत-चुम्बकीय प्रेरण के नियम",
+        "लेंज़ का नियम",
+        "प्रेरित विद्युत वाहक बल — गतिशील चालक",
+        "स्व-प्रेरण एवं अन्योन्य प्रेरण",
+        "AC जनित्र (Generator)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "e = -dΦ/dt (फैराडे का नियम)",
+        "L = μ₀n²Al (परिनालिका का स्व-प्रेरकत्व)",
+        "AC जनित्र का सिद्धान्त एवं EMF: e = e₀sinωt"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "AC जनित्र का चित्र एवं निगमन (दीर्घ), फैराडे के नियम (लघु/अति लघु), लेंज़ के नियम के अनुप्रयोग",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "प्रत्यावर्ती धारा (Alternating Current)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 7,
+      "unit_name": "विद्युत चुम्बकीय प्रेरण एवं प्रत्यावर्ती धारा",
+      "part": "विद्युत चुम्बकीय प्रेरण एवं प्रत्यावर्ती धारा",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम-कठिन",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "AC का वर्ग माध्य मूल (rms) मान",
+        "AC परिपथ — R, L, C अलग-अलग",
+        "LCR श्रेणी परिपथ",
+        "अनुनाद",
+        "शक्ति गुणांक",
+        "ट्रान्सफॉर्मर"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "V_rms = V₀/√2",
+        "LCR श्रेणी परिपथ: Z = √(R² + (X_L - X_C)²)",
+        "अनुनाद आवृत्ति: f₀ = 1/(2π√LC)",
+        "ट्रान्सफॉर्मर: N₁/N₂ = V₁/V₂ = I₂/I₁"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "LCR परिपथ का संख्यात्मक (दीर्घ/लघु), ट्रान्सफॉर्मर निगमन, अनुनाद आवृत्ति (अति लघु/MCQ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "वैद्युतचुम्बकीय तरंगें (Electromagnetic Waves)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 8,
+      "unit_name": "वैद्युतचुम्बकीय तरंगें (Electromagnetic Waves)",
+      "part": "वैद्युतचुम्बकीय तरंगें (Electromagnetic Waves)",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "सरल",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "EM तरंगें — विशेषताएँ",
+        "EM स्पेक्ट्रम — रेडियो, माइक्रोवेव, अवरक्त, दृश्य, पराबैंगनी, X-किरणें, गामा",
+        "प्रत्येक का उपयोग एवं तरंगदैर्ध्य",
+        "EM तरंगों की गति c = 3 × 10⁸ m/s"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "EM स्पेक्ट्रम तालिका (MCQ/रिक्त स्थान), EM तरंगों के गुणधर्म (अति लघु), प्रत्येक तरंग के उपयोग (लघु उत्तरीय)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "किरण प्रकाशिकी एवं प्रकाशिक यन्त्र (Ray Optics and Optical Instruments)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 9,
+      "unit_name": "प्रकाश (Optics)",
+      "part": "प्रकाश (Optics)",
+      "weightage_marks": 7,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम-कठिन",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "परावर्तन — गोलीय दर्पण",
+        "अपवर्तन — स्नेल का नियम",
+        "पूर्ण आन्तरिक परावर्तन (TIR) — क्रान्तिक कोण",
+        "लेंस — उत्तल एवं अवतल",
+        "लेंस निर्माता सूत्र",
+        "प्रिज़्म से अपवर्तन — विचलन कोण",
+        "प्रकाशिक यन्त्र — सरल एवं संयुक्त सूक्ष्मदर्शी, दूरदर्शी"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "दर्पण सूत्र: 1/v + 1/u = 1/f",
+        "गोलीय पृष्ठ पर अपवर्तन",
+        "लेंस निर्माता सूत्र: 1/f = (μ-1)(1/R₁ - 1/R₂)",
+        "प्रिज़्म विचलन: μ = sin((A+Dm)/2) / sin(A/2)",
+        "संयुक्त सूक्ष्मदर्शी का आवर्धन: m = m₀ × me",
+        "खगोलीय दूरदर्शी का आवर्धन: m = f₀/fe"
+      ],
+      "important_diagrams": [
+        "संयुक्त सूक्ष्मदर्शी",
+        "खगोलीय दूरदर्शी",
+        "प्रिज़्म विचलन",
+        "पूर्ण आन्तरिक परावर्तन का चित्र"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "लेंस-निर्माता सूत्र (दीर्घ उत्तरीय), प्रिज़्म सूत्र (दीर्घ), TIR की शर्तें (अति लघु), दूरदर्शी आवर्धन (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "तरंग प्रकाशिकी (Wave Optics)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 10,
+      "unit_name": "प्रकाश (Optics)",
+      "part": "प्रकाश (Optics)",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "हाइगेन्स का सिद्धान्त",
+        "व्यतिकरण — यंग का द्वि-झिरी प्रयोग (YDSE)",
+        "विवर्तन — एकल झिरी",
+        "ध्रुवण — ब्रूस्टर का नियम, मैलस का नियम"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "YDSE — फ्रिन्ज चौड़ाई: β = λD/d",
+        "एकल झिरी विवर्तन — केन्द्रीय उच्चिष्ठ की चौड़ाई",
+        "ब्रूस्टर का नियम: tan i_B = μ"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "YDSE फ्रिन्ज चौड़ाई निगमन (दीर्घ उत्तरीय), YDSE संख्यात्मक (लघु), परावर्तन द्वारा ध्रुवण (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "विकिरण तथा द्रव्य की द्वैत प्रकृति (Dual Nature of Radiation and Matter)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 11,
+      "unit_name": "विकिरण तथा द्रव्य की द्वैत प्रकृति",
+      "part": "विकिरण तथा द्रव्य की द्वैत प्रकृति",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "प्रकाश-विद्युत प्रभाव",
+        "आइन्सटीन का प्रकाश-विद्युत समीकरण: KE_max = hν − φ",
+        "फोटॉन — ऊर्जा E = hν, संवेग p = h/λ",
+        "द्रव्य तरंगें — डी-ब्रॉग्ली तरंगदैर्ध्य: λ = h/mv"
+      ],
+      "easy_topics": [],
+      "important_derivations": [
+        "आइन्सटीन का प्रकाश-विद्युत समीकरण",
+        "डी-ब्रॉग्ली तरंगदैर्ध्य: λ = h/mv = h/√(2mEk)"
+      ],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "प्रकाश-विद्युत प्रभाव की व्याख्या (दीर्घ/लघु), प्रकाश-विद्युत संख्यात्मक (लघु), डी-ब्रॉग्ली संख्यात्मक (लघु/दीर्घ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "परमाणु (Atoms)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 12,
+      "unit_name": "परमाणु तथा नाभिक (Atoms and Nuclei)",
+      "part": "परमाणु तथा नाभिक (Atoms and Nuclei)",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "सरल-मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "थॉमसन मॉडल, रदरफोर्ड मॉडल",
+        "बोहर का परमाणु मॉडल — परिकल्पनाएँ",
+        "बोहर त्रिज्या एवं ऊर्जा सूत्र",
+        "हाइड्रोजन स्पेक्ट्रम — श्रेणियाँ"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "बोहर त्रिज्या: r_n = 0.529n² Å",
+        "n-वीं कक्षा की ऊर्जा: E_n = -13.6/n² eV",
+        "स्पेक्ट्रमी रेखा की आवृत्ति: 1/λ = R(1/n₁² - 1/n₂²)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "बोहर परिकल्पनाएँ (अति लघु/लघु), ऊर्जा स्तर संख्यात्मक (लघु), हाइड्रोजन स्पेक्ट्रम श्रेणियाँ (MCQ/रिक्त स्थान)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "नाभिक (Nuclei)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 13,
+      "unit_name": "परमाणु तथा नाभिक (Atoms and Nuclei)",
+      "part": "परमाणु तथा नाभिक (Atoms and Nuclei)",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "नाभिकीय बल — गुणधर्म",
+        "बन्धन ऊर्जा एवं द्रव्यमान क्षति",
+        "रेडियोएक्टिवता — अल्फा, बीटा, गामा क्षय",
+        "अर्ध-आयु एवं क्षय नियम",
+        "नाभिकीय विखण्डन एवं संलयन"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "T₁/₂ = 0.693/λ",
+        "N = N₀e^(-λt)",
+        "प्रति न्यूक्लिऑन बन्धन ऊर्जा"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "रेडियोएक्टिव क्षय नियम (लघु/दीर्घ), अर्ध-आयु संख्यात्मक (लघु), नाभिकीय विखण्डन बनाम संलयन (लघु/MCQ)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "अर्धचालक इलेक्ट्रॉनिकी — पदार्थ, युक्तियाँ तथा सरल परिपथ (Semiconductor Electronics)",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Class 12",
+      "unit_id": 14,
+      "unit_name": "इलेक्ट्रॉनिक युक्तियाँ (Electronic Devices)",
+      "part": "इलेक्ट्रॉनिक युक्तियाँ (Electronic Devices)",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "सरल-मध्यम",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "ऊर्जा बैण्ड सिद्धान्त — चालक, अर्धचालक, विद्युतरोधी",
+        "निज एवं बाह्य (अपमिश्रित) अर्धचालक",
+        "n-प्रकार एवं p-प्रकार के अर्धचालक",
+        "p–n सन्धि डायोड — अग्र अभिनति एवं पश्च अभिनति",
+        "दिष्टकारी — अर्ध-तरंग एवं पूर्ण-तरंग",
+        "ज़ेनर डायोड — वोल्टेज नियामक",
+        "BJT ट्रान्जिस्टर — CB, CE, CC विन्यास",
+        "तर्क द्वार — AND, OR, NOT, NAND, NOR"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "p-n सन्धि का निर्माण",
+        "डायोड का V-I अभिलाक्षणिक वक्र",
+        "पूर्ण-तरंग दिष्टकारी परिपथ",
+        "ज़ेनर डायोड वोल्टेज नियामक के रूप में",
+        "ट्रान्जिस्टर CE विन्यास",
+        "तर्क द्वारों की सत्यता सारणी एवं प्रतीक"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "p-n सन्धि V-I अभिलाक्षणिक (दीर्घ), दिष्टकारी परिपथ (लघु/दीर्घ), तर्क द्वारों की सत्यता सारणी (MCQ/लघु), ज़ेनर डायोड (लघु)",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Physics Class 12 — 14 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "Q14, Q15, Q16 (खण्ड स — दीर्घ उत्तरीय) तथा Q17, Q18 (खण्ड द — निबन्धात्मक) में आन्तरिक विकल्प (OR) मिलता है — कुल 5 प्रश्नों में।",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [
+      "स्थिर विद्युत विभव तथा धारिता (Electrostatic Potential and Capacitance) (3 marks)",
+      "विद्युत धारा (Current Electricity) (3 marks)",
+      "चुम्बकत्व एवं द्रव्य (Magnetism and Matter) (3 marks)",
+      "वैद्युतचुम्बकीय तरंगें (Electromagnetic Waves) (2 marks)",
+      "परमाणु (Atoms) (3 marks)",
+      "नाभिक (Nuclei) (3 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "गाउस के नियम के अनुप्रयोग (अनन्त तार/समतल/गोला) (Q: , 3-4)",
+      "साइक्लोट्रॉन की कार्य-विधि एवं निगमन (Q: , 3-4)",
+      "LCR परिपथ / AC संख्यात्मक (Q: , 1.5-3)",
+      "ट्रान्सफॉर्मर का निगमन (Q: , 3)",
+      "लेंस-निर्माता सूत्र का निगमन (Q: , 3-4)",
+      "YDSE फ्रिन्ज चौड़ाई का निगमन (Q: , 3)",
+      "प्रकाश-विद्युत प्रभाव (आइन्सटीन समीकरण) (Q: , 3)",
+      "p-n सन्धि V-I अभिलाक्षणिक (Q: , 3)",
+      "बोहर मॉडल परिकल्पनाएँ / संख्यात्मक (Q: , 1-1.5)",
+      "प्रति/अनु/लौहचुम्बकीय गुणधर्म तालिका (Q: , 0.5-1.5)",
+      "तर्क द्वारों की सत्यता सारणी (Q: , 0.5-1.5)"
+    ],
+    "chapters_mostly_theory": [
+      "विद्युत आवेश तथा क्षेत्र (Electric Charges and Fields)",
+      "स्थिर विद्युत विभव तथा धारिता (Electrostatic Potential and Capacitance)",
+      "विद्युत धारा (Current Electricity)",
+      "गतिमान आवेश और चुम्बकत्व (Moving Charges and Magnetism)",
+      "चुम्बकत्व एवं द्रव्य (Magnetism and Matter)",
+      "विद्युत चुम्बकीय प्रेरण (Electromagnetic Induction)",
+      "प्रत्यावर्ती धारा (Alternating Current)",
+      "वैद्युतचुम्बकीय तरंगें (Electromagnetic Waves)",
+      "किरण प्रकाशिकी एवं प्रकाशिक यन्त्र (Ray Optics and Optical Instruments)",
+      "तरंग प्रकाशिकी (Wave Optics)",
+      "विकिरण तथा द्रव्य की द्वैत प्रकृति (Dual Nature of Radiation and Matter)",
+      "परमाणु (Atoms)",
+      "नाभिक (Nuclei)",
+      "अर्धचालक इलेक्ट्रॉनिकी — पदार्थ, युक्तियाँ तथा सरल परिपथ (Semiconductor Electronics)"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [
+      "किरण प्रकाशिकी एवं प्रकाशिक यन्त्र (Ray Optics and Optical Instruments)"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "किरण प्रकाशिकी एवं प्रकाशिक यन्त्र (Ray Optics and Optical Instruments)"
+    ],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "विद्युत आवेश तथा क्षेत्र (Electric Charges and Fields)",
+      "स्थिर विद्युत विभव तथा धारिता (Electrostatic Potential and Capacitance)",
+      "विद्युत धारा (Current Electricity)",
+      "गतिमान आवेश और चुम्बकत्व (Moving Charges and Magnetism)",
+      "चुम्बकत्व एवं द्रव्य (Magnetism and Matter)",
+      "विद्युत चुम्बकीय प्रेरण (Electromagnetic Induction)",
+      "प्रत्यावर्ती धारा (Alternating Current)",
+      "वैद्युतचुम्बकीय तरंगें (Electromagnetic Waves)",
+      "किरण प्रकाशिकी एवं प्रकाशिक यन्त्र (Ray Optics and Optical Instruments)",
+      "तरंग प्रकाशिकी (Wave Optics)",
+      "विकिरण तथा द्रव्य की द्वैत प्रकृति (Dual Nature of Radiation and Matter)",
+      "परमाणु (Atoms)",
+      "नाभिक (Nuclei)",
+      "अर्धचालक इलेक्ट्रॉनिकी — पदार्थ, युक्तियाँ तथा सरल परिपथ (Semiconductor Electronics)"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "गाउस के नियम के अनुप्रयोग (अनन्त तार/समतल/गोला) (Q: , 3-4)",
+      "साइक्लोट्रॉन की कार्य-विधि एवं निगमन (Q: , 3-4)",
+      "LCR परिपथ / AC संख्यात्मक (Q: , 1.5-3)",
+      "ट्रान्सफॉर्मर का निगमन (Q: , 3)",
+      "लेंस-निर्माता सूत्र का निगमन (Q: , 3-4)",
+      "YDSE फ्रिन्ज चौड़ाई का निगमन (Q: , 3)",
+      "प्रकाश-विद्युत प्रभाव (आइन्सटीन समीकरण) (Q: , 3)",
+      "p-n सन्धि V-I अभिलाक्षणिक (Q: , 3)",
+      "बोहर मॉडल परिकल्पनाएँ / संख्यात्मक (Q: , 1-1.5)",
+      "प्रति/अनु/लौहचुम्बकीय गुणधर्म तालिका (Q: , 0.5-1.5)",
+      "तर्क द्वारों की सत्यता सारणी (Q: , 0.5-1.5)"
+    ],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Physics — diagrams/maps.",
+    "must_practise": [
+      {
+        "chapter_id": "1",
+        "chapter_name": "विद्युत आवेश तथा क्षेत्र (Electric Charges and Fields)",
+        "diagram_name": "गाउसीय गोलीय पृष्ठ",
+        "note": ""
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "विद्युत आवेश तथा क्षेत्र (Electric Charges and Fields)",
+        "diagram_name": "द्विध्रुव की क्षेत्र रेखाएँ",
+        "note": ""
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "विद्युत आवेश तथा क्षेत्र (Electric Charges and Fields)",
+        "diagram_name": "गोलीय कोश के लिए E बनाम r ग्राफ",
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "गतिमान आवेश और चुम्बकत्व (Moving Charges and Magnetism)",
+        "diagram_name": "साइक्लोट्रॉन",
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "गतिमान आवेश और चुम्बकत्व (Moving Charges and Magnetism)",
+        "diagram_name": "चल कुण्डली धारामापी",
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "गतिमान आवेश और चुम्बकत्व (Moving Charges and Magnetism)",
+        "diagram_name": "परिनालिका का B-क्षेत्र",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "किरण प्रकाशिकी एवं प्रकाशिक यन्त्र (Ray Optics and Optical Instruments)",
+        "diagram_name": "संयुक्त सूक्ष्मदर्शी",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "किरण प्रकाशिकी एवं प्रकाशिक यन्त्र (Ray Optics and Optical Instruments)",
+        "diagram_name": "खगोलीय दूरदर्शी",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "किरण प्रकाशिकी एवं प्रकाशिक यन्त्र (Ray Optics and Optical Instruments)",
+        "diagram_name": "प्रिज़्म विचलन",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "किरण प्रकाशिकी एवं प्रकाशिक यन्त्र (Ray Optics and Optical Instruments)",
+        "diagram_name": "पूर्ण आन्तरिक परावर्तन का चित्र",
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "chapter_name": "अर्धचालक इलेक्ट्रॉनिकी — पदार्थ, युक्तियाँ तथा सरल परिपथ (Semiconductor Electronics)",
+        "diagram_name": "p-n सन्धि का निर्माण",
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "chapter_name": "अर्धचालक इलेक्ट्रॉनिकी — पदार्थ, युक्तियाँ तथा सरल परिपथ (Semiconductor Electronics)",
+        "diagram_name": "डायोड का V-I अभिलाक्षणिक वक्र",
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "chapter_name": "अर्धचालक इलेक्ट्रॉनिकी — पदार्थ, युक्तियाँ तथा सरल परिपथ (Semiconductor Electronics)",
+        "diagram_name": "पूर्ण-तरंग दिष्टकारी परिपथ",
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "chapter_name": "अर्धचालक इलेक्ट्रॉनिकी — पदार्थ, युक्तियाँ तथा सरल परिपथ (Semiconductor Electronics)",
+        "diagram_name": "ज़ेनर डायोड वोल्टेज नियामक के रूप में",
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "chapter_name": "अर्धचालक इलेक्ट्रॉनिकी — पदार्थ, युक्तियाँ तथा सरल परिपथ (Semiconductor Electronics)",
+        "diagram_name": "ट्रान्जिस्टर CE विन्यास",
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "chapter_name": "अर्धचालक इलेक्ट्रॉनिकी — पदार्थ, युक्तियाँ तथा सरल परिपथ (Semiconductor Electronics)",
+        "diagram_name": "तर्क द्वारों की सत्यता सारणी एवं प्रतीक",
+        "note": ""
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Formulas for Physics Class 12.",
+    "direct_formula_questions": true,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "12",
+        "chapter_name": "परमाणु (Atoms)",
+        "formulas": [
+          "बोहर त्रिज्या: r_n = 0.529n² Å",
+          "n-वीं कक्षा की ऊर्जा: E_n = -13.6/n² eV",
+          "स्पेक्ट्रमी रेखा की आवृत्ति: 1/λ = R(1/n₁² - 1/n₂²)"
+        ]
+      },
+      {
+        "chapter_id": "13",
+        "chapter_name": "नाभिक (Nuclei)",
+        "formulas": [
+          "T₁/₂ = 0.693/λ",
+          "N = N₀e^(-λt)",
+          "प्रति न्यूक्लिऑन बन्धन ऊर्जा"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Physics.",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Physics.",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 30,
+    "passing_marks": 0,
+    "practical_exam_separate": true,
+    "practical_exam_note": "",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": true,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 35,
+    "medium_percent": 45,
+    "hard_percent": 20,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "पठन समय में ही OR विकल्पों में से एक चुन लें — परीक्षा में दोनों न पढ़ें",
+      "खण्ड अ के 28 प्रश्न (MCQ+रिक्त स्थान) = 14 अंक — 0.5 अंक के लिए अधिक समय न लगाएँ",
+      "खण्ड द के 4-अंकीय निबन्धात्मक प्रश्नों (Q17, Q18) के लिए चित्र सबसे पहले बनाएँ — 1 अंक निश्चित",
+      "संख्यात्मक प्रश्नों में 'दिया है', 'सूत्र', 'प्रतिस्थापन', 'उत्तर मात्रक सहित' प्रारूप का उपयोग करें",
+      "खण्ड स/द में चरणों को क्रमांकित करें — आंशिक अंक मिलते हैं",
+      "अध्याय 14 के MCQ पूर्णतः तैयार रखें — सर्वाधिक प्रश्न यहीं से आते हैं",
+      "EM तरंगें (अध्याय 8) = पूर्ण सैद्धान्तिक, स्कोरिंग, सरल — अवश्य तैयार करें",
+      "कोई ऋणात्मक अंकन नहीं — सभी 53 उप-भाग हल करें, एक भी न छोड़ें",
+      "सेट संख्या एवं प्रश्न संख्या स्पष्ट रूप से लिखें",
+      "चित्र के नाम (labels) अंग्रेज़ी में लिखना भी स्वीकार्य है — अंक नहीं कटेंगे"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "केवल प्रश्न-पत्र पढ़ें — प्रश्नों को समझें, OR में से किसे हल करना है निर्णय लें।"
+      },
+      {
+        "section_id": "section_A_40min",
+        "recommended_minutes": 0,
+        "note": "38 वस्तुनिष्ठ उप-भाग (Q1, Q2, Q3)। MCQ + रिक्त स्थान = केवल विकल्प/शब्द लिखें — समय बर्बाद न करें।"
+      },
+      {
+        "section_id": "section_B_30min",
+        "recommended_minutes": 0,
+        "note": "10 लघु उत्तरीय × प्रति 3 मिनट। सूत्र + चरण + उत्तर।"
+      },
+      {
+        "section_id": "section_C_30min",
+        "recommended_minutes": 0,
+        "note": "3 दीर्घ उत्तरीय × प्रति 10 मिनट। चित्र पहले बनाएँ।"
+      },
+      {
+        "section_id": "section_D_25min",
+        "recommended_minutes": 0,
+        "note": "2 निबन्धात्मक × प्रति 12 मिनट। प्रश्न-पत्र के सबसे बड़े निगमन। पूर्ण चित्र + क्रमांकित चरण।"
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "मात्रक जाँचें, प्रश्न क्रमांक सत्यापित करें, चित्रों के नाम जाँचें।"
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 20 marks",
+        "target_marks": 20,
+        "strategy": "खण्ड अ के MCQ + रिक्त स्थान + अति लघु उत्तरीय में 15+ अंक आसान हैं। खण्ड ब से 3-4 सरल लघु उत्तरीय (4-6 अंक)। कुल = 19-21 अंक।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "अध्याय 14 (अर्धचालक) — सभी MCQ",
+          "अध्याय 8 (EM तरंगें) — EM स्पेक्ट्रम याद करें",
+          "अध्याय 12 (परमाणु) — बोहर त्रिज्या, ऊर्जा सूत्र",
+          "अध्याय 5 (चुम्बकत्व) — प्रति/अनु/लौहचुम्बकीय तालिका",
+          "खण्ड अ पूर्ण रूप से हल करें — कोई ऋणात्मक अंकन नहीं"
+        ],
+        "chapters_to_skip_safely": [
+          "अध्याय 7 के जटिल LCR संख्यात्मक",
+          "अध्याय 9/10 के बड़े निगमन",
+          "अध्याय 4 साइक्लोट्रॉन का प्रमाण"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "35",
+        "target_marks": 35,
+        "strategy": "खण्ड अ (18-22) + खण्ड ब के 5-6 प्रश्न (7-9 अंक) + खण्ड स के 1-2 प्रश्न (3-6) = 28-37 अंक।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "अध्याय 4 (गतिमान आवेश) — खण्ड द के निबन्धात्मक के लिए",
+          "अध्याय 9 (किरण प्रकाशिकी) — लेंस सूत्र लघु/दीर्घ",
+          "अध्याय 3 (विद्युत धारा) — मीटर सेतु संख्यात्मक",
+          "अध्याय 7 (AC) — ट्रान्सफॉर्मर लघु",
+          "खण्ड ब के सभी प्रश्न हल करें"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45 marks plus",
+        "target_marks": 45,
+        "strategy": "खण्ड अ पूर्ण (22-24) + खण्ड ब पूर्ण (15) + खण्ड स के 2-3 (6-9) + खण्ड द के 1-2 प्रश्न (4-8) = 47-56 अंक।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "सभी प्रमुख निगमन — गाउस का नियम, साइक्लोट्रॉन, लेंस-निर्माता, YDSE, ट्रान्सफॉर्मर, AC परिपथ",
+          "सभी अध्यायों के संख्यात्मक प्रश्नों का अभ्यास करें",
+          "चित्रों को उत्तम बनाएँ — प्रत्येक चित्र खण्ड स/द में 1 अंक देता/बचाता है"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "topping 50 plus",
+        "target_marks": 50,
+        "strategy": "सभी 53 उप-भागों में अधिकतम अंक लाएँ। खण्ड द के दोनों निबन्धात्मक उत्तम + खण्ड स के 3 निगमन पूर्ण।",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [
+          "खण्ड अ में 0.5 अंक वाले 28 प्रश्न — एक भी न छोड़ें",
+          "संख्यात्मक प्रश्नों में उचित चरण, मात्रक, बॉक्स-युक्त उत्तर",
+          "चित्र साफ़ एवं नामांकित",
+          "पठन समय का उपयोग करें — सबसे सरल खण्ड से प्रारम्भ करें"
+        ],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 14,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT भौतिक विज्ञान कक्षा 12 (भाग I + II)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "मूल पुस्तक। RBSE पाठ्यक्रम NCERT पर आधारित है। सभी निगमन NCERT से हैं।"
+      },
+      {
+        "name": "पिछले वर्षों के प्रश्न-पत्र 2018-2025",
+        "author": "",
+        "publisher": "RBSE",
+        "purpose": "Supplementary",
+        "note": "आधिकारिक वेबसाइट rajeduboard.rajasthan.gov.in से डाउनलोड करें। पैटर्न समझने के लिए अवश्य हल करें।"
+      },
+      {
+        "name": "RBSE मॉडल पेपर 2026",
+        "author": "",
+        "publisher": "RBSE आधिकारिक",
+        "purpose": "Supplementary",
+        "note": "आधिकारिक मॉडल पेपर डाउनलोड लिंक: rajeduboard.rajasthan.gov.in > Books/Old Papers/Model Questions।"
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "rajeduboard.rajasthan.gov.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 मिनट पठन समय मिलता है। इस समय में केवल प्रश्न-पत्र पढ़ें — उत्तर लिखने की अनुमति नहीं है।"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "set_number_compulsory: True",
+      "reading_time_note: 15 मिनट पठन समय में केवल पढ़ें — लिखना नहीं। घण्टी बजने के पश्चात् ही उत्तर लिख सकते हैं।",
+      "sequence_compulsory: False",
+      "rough_work: उत्तर-पुस्तिका का अन्तिम पृष्ठ रफ़ कार्य के लिए। स्पष्ट रूप से 'रफ़ कार्य' (ROUGH WORK) लिखें।",
+      "no_negative_marking: True",
+      "mcq_attempt_all: MCQ में कोई ऋणात्मक अंकन नहीं है — सभी प्रश्न अवश्य हल करें, एक भी न छोड़ें।",
+      "steps_marking: निगमनों में चरण-दर-चरण अंकन होता है। चरणों को क्रमांकित करें।",
+      "diagram_marks: सामान्यतः खण्ड स/द में चित्र के लिए अलग से 1 अंक।"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "allowed_colors: ['नीला (Blue)', 'काला (Black)'] pencil_use: केवल चित्र बनाने के लिए। उत्तर पेन से लिखना अनिवार्य। recommendation: उत्तर नीले पेन से, चित्र पेंसिल से (साफ़ एवं स्वच्छ दिखते हैं)।"
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "diagram_in_long_answer: दीर्घ उत्तरीय (3 अंक) एवं निबन्धात्मक (4 अंक) में नामांकित चित्र का अलग से 1 अंक होता है। यदि नहीं बनाया तो वह अंक नहीं मिलेगा। labelling_compulsory: True partial_marking: True partial_marking_note: यदि निगमन अधूरा हो तो जो चरण सही हैं, उनके अंक मिलेंगे। सूत्र सही + प्रतिस्थापन सही + गणना ग़लत = फिर भी 3 में से 2 अंक मिलेंगे। units_compulsory: संख्यात्मक उत्तर में मात्रक लिखना अनिवार्य — मात्रक ग़लत या न लिखा हो तो 0.5 अंक कट सकता है। final_answer_box: संख्यात्मक प्रश्नों में अन्तिम उत्तर को बॉक्स में दर्शाएँ अथवा रेखांकित करें — परीक्षक का ध्यान जाता है।",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

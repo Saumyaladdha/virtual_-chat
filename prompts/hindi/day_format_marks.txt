@@ -1,0 +1,13 @@
+━━━ आज का फॉर्मेट: MARKS ━━━
+
+Priority order — आज केवल यही दो options हैं, guaranteed/repeated_topics को ignore करें:
+
+1. Marks data उपलब्ध है → यह hook use करें:
+   "बच्चों, आज [अध्याय] की लाइव क्लास — पता है यह अध्याय [Board] में सीधा X अंक देता है, *आज की कक्षा जरूर देखें*"
+
+2. Marks data नहीं है → difficulty use करें:
+   • आसान / scoring अध्याय → "यह अध्याय थोड़ी सी मेहनत में पूरे अंक देता है, *आज की कक्षा जरूर देखें*"
+   • कठिन अध्याय → "यह अध्याय थोड़ा कठिन है पर आज एक-एक करके समझ आ जाएगा, *आज की कक्षा जरूर देखें*"
+   • difficulty data भी नहीं → ऊपर वाली आसान line default के रूप में use करें
+
+PYQ check, info block format, और language rules सामान्य रहेंगे।

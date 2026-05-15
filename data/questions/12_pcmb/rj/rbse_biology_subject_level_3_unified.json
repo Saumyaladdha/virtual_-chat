@@ -1,0 +1,1930 @@
+{
+  "board": "RBSE",
+  "class": "12",
+  "subject": "Biology (Jeev Vigyan)",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 56,
+    "practical_paper": 30,
+    "internal_assessment": 14,
+    "total": 100,
+    "passing_marks_theory": 20,
+    "passing_marks_practical": 10,
+    "passing_marks_internal": 0,
+    "duration_minutes": 195,
+    "extra_time_given": true,
+    "extra_time_note": "Haan — 15 minute reading time milta hai. Paper padho, OR options decide karo.",
+    "internal_assessment_note": "Theory mein 56 mein se kam se kam 20 aur practical mein 30 mein se 10 marks laane zaroori hain. Dono mein alag-alag pass karna hoga."
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 20,
+    "total_questions_to_attempt": 20,
+    "total_objective_questions": 34,
+    "total_sets": 0,
+    "sets_note": "RBSE mein multiple sets hote hain. Har set mein same questions, sirf order alag.",
+    "sets_same_or_different": "",
+    "language_of_attempt": "Hindi ya English dono allowed.",
+    "all_compulsory_note": "Section C (Long Answer Q16-18) aur Section D (Essay Q19-20) mein internal choice (OR option) milta hai.",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "RBSE Biology ka syllabus NCERT par based hai. NCERT ke sare chapters thoroughly padho. SP Examination Idea Biology bhi zaroori hai.",
+    "official_scheme_note": "Biology mein labelled diagrams bahut important hain — har long/essay answer mein diagram se extra marks milte hain. Section D ke 4-mark essay questions — Molecular Basis of Inheritance (Ch 6) aur Human Health & Diseases (Ch 8) se typically aate hain — ye dono 11% weightage chapters hain.",
+    "reference_books_note": "",
+    "prescribed_textbooks": [
+      "NCERT Biology Part I",
+      "NCERT Biology Part II"
+    ],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "RBSE Biology paper: 20 main questions, 51 sub-questions, 56 marks. Section A = MCQ(0.5) + Fill(0.5) + VSA(1). Section B = Short(1.5). Section C = Long(3). Section D = Essay(4).",
+    "new_pattern_note": "",
+    "types": [
+      {
+        "type": "MCQ",
+        "question_number": "Q1",
+        "section": "A",
+        "marks_each": 0.5,
+        "total_in_paper": 16,
+        "attempt": 16,
+        "negative_marking": false,
+        "how_to_attempt": "Sirf correct option (a)/(b)/(c)/(d) likhna hai. No explanation. 0.5 mark ke liye 30 second se zyaada mat do.",
+        "mostly_from": "All chapters — definitions, organism names, process names, diseases and causative agents, diagram identification.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Fill in the Blanks",
+        "question_number": "Q2",
+        "section": "A",
+        "marks_each": 0.5,
+        "total_in_paper": 10,
+        "attempt": 10,
+        "negative_marking": false,
+        "how_to_attempt": "One scientific term, organism name, or process name likhna hota hai.",
+        "mostly_from": "Scientific names, specific terms (sporopollenin, synergid, MHC), disease causative agents, chromosome numbers.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "",
+        "notes": ""
+      },
+      {
+        "type": "Very Short Answer (VSA)",
+        "question_number": "Q3",
+        "section": "A",
+        "marks_each": 1,
+        "total_in_paper": 8,
+        "attempt": 8,
+        "negative_marking": false,
+        "how_to_attempt": "Define term, name organism/process, or one-sentence answer. Scientific names correctly likhna zaroori.",
+        "mostly_from": "Definitions (Apomixis, Parthenocarpy, Linkage), conditions, names of scientists.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "1-2 lines",
+        "notes": ""
+      },
+      {
+        "type": "Short Answer",
+        "question_number": "Q4 to Q15",
+        "section": "B",
+        "marks_each": 1.5,
+        "total_in_paper": 12,
+        "attempt": 12,
+        "negative_marking": false,
+        "how_to_attempt": "1.5 marks = concept/definition (0.5) + explanation/example (0.5) + diagram if asked (0.5). 4-5 lines sufficient.",
+        "mostly_from": "All 13 chapters — distinction questions, short process explanations, simple diagrams.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "40-60 words / 4-6 lines",
+        "notes": ""
+      },
+      {
+        "type": "Long Answer",
+        "question_number": "Q16, Q17, Q18",
+        "section": "C",
+        "marks_each": 3,
+        "total_in_paper": 3,
+        "attempt": 3,
+        "negative_marking": false,
+        "how_to_attempt": "3 marks = concept (1) + explanation with steps/diagram (1.5) + conclusion/significance (0.5). Labelled diagram compulsory where applicable.",
+        "mostly_from": "Reproduction (embryo sac, double fertilization), Genetics (crosses, DNA), Ecology (pyramids, nutrient cycles), Biotechnology.",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "80-120 words",
+        "notes": ""
+      },
+      {
+        "type": "Essay Type",
+        "question_number": "Q19, Q20",
+        "section": "D",
+        "marks_each": 4,
+        "total_in_paper": 2,
+        "attempt": 2,
+        "negative_marking": false,
+        "how_to_attempt": "4 marks = introduction (0.5) + detailed explanation with labelled diagram (2) + steps/mechanism (1) + significance/conclusion (0.5). Diagrams are essential.",
+        "mostly_from": "",
+        "fixed_count": true,
+        "spelling_mistake_effect": "",
+        "one_word_only": "",
+        "formula_based": "",
+        "all_false_possible": false,
+        "all_false_note": "",
+        "word_limit": "120-150 words",
+        "notes": ""
+      }
+    ]
+  },
+  "paper_pattern": {
+    "note": "RBSE Biology theory paper = 56 marks. 4 sections (A-D). 20 main questions (51 sub-questions). Duration 3 hours 15 minutes (15 min reading time extra).",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "Section C (Long Answer Q16-18) aur Section D (Essay Q19-20) mein internal choice (OR option) milta hai.",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 40,
+      "medium_percent": 40,
+      "hard_percent": 20,
+      "note": ""
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Objective",
+        "type": "Section A — Objective",
+        "question_numbers": "Q1, Q2, Q3",
+        "total_questions": 34,
+        "total_sub_questions": 0,
+        "attempt_required": 34,
+        "marks_per_question": 0,
+        "total_marks": 21,
+        "word_limit": "",
+        "breakdown": "",
+        "notes": "Sare 34 sub-parts attempt karo. No negative marking."
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Short Answer",
+        "type": "Section B — Short Answer",
+        "question_numbers": "Q4 to Q15",
+        "total_questions": 12,
+        "total_sub_questions": 0,
+        "attempt_required": 12,
+        "marks_per_question": 1.5,
+        "total_marks": 18,
+        "word_limit": "",
+        "breakdown": "Q4 to Q15 — 12 questions × 1.5 marks each = 18 marks. Sare compulsory.",
+        "notes": "Sare 12 questions compulsory. 4-5 lines per answer. Diagrams agar poochha jaaye."
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Long Answer",
+        "type": "Section C — Long Answer",
+        "question_numbers": "Q16 to Q18",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "attempt_required": 3,
+        "marks_per_question": 3,
+        "total_marks": 9,
+        "word_limit": "",
+        "breakdown": "Q16, Q17, Q18 — 3 questions × 3 marks each = 9 marks. Internal OR choice milti hai.",
+        "notes": "3 questions with OR choice. Labelled diagram compulsory for full marks."
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Essay Type",
+        "type": "Section D — Essay Type",
+        "question_numbers": "Q19 and Q20",
+        "total_questions": 2,
+        "total_sub_questions": 0,
+        "attempt_required": 2,
+        "marks_per_question": 4,
+        "total_marks": 8,
+        "word_limit": "",
+        "breakdown": "Q19 aur Q20 — 2 questions × 4 marks each = 8 marks. Internal OR choice milti hai.",
+        "notes": "2 essay questions with OR choice. Expected from Ch 5 (Molecular Basis) and Ch 7 (Human Health). Complete diagram + explanation zaroori."
+      }
+    ]
+  },
+  "marks_distribution": {
+    "total_theory": 56,
+    "total_practical": 30,
+    "internal_assessment": 14,
+    "grand_total": 100,
+    "marks_summary_note": "21 (Sec A) + 18 (Sec B) + 9 (Sec C) + 8 (Sec D) = 56 marks",
+    "sections": [
+      {
+        "section_id": "A",
+        "name": "Section A — Objective",
+        "question_numbers": "Q1, Q2, Q3",
+        "type": "Section A — Objective",
+        "total_questions": 34,
+        "total_sub_questions": 0,
+        "marks_per_question": 0,
+        "total_marks": 21,
+        "word_limit": "",
+        "breakdown": ""
+      },
+      {
+        "section_id": "B",
+        "name": "Section B — Short Answer",
+        "question_numbers": "Q4 to Q15",
+        "type": "Section B — Short Answer",
+        "total_questions": 12,
+        "total_sub_questions": 0,
+        "marks_per_question": 1.5,
+        "total_marks": 18,
+        "word_limit": "",
+        "breakdown": "Q4 to Q15 — 12 questions × 1.5 marks each = 18 marks. Sare compulsory."
+      },
+      {
+        "section_id": "C",
+        "name": "Section C — Long Answer",
+        "question_numbers": "Q16 to Q18",
+        "type": "Section C — Long Answer",
+        "total_questions": 3,
+        "total_sub_questions": 0,
+        "marks_per_question": 3,
+        "total_marks": 9,
+        "word_limit": "",
+        "breakdown": "Q16, Q17, Q18 — 3 questions × 3 marks each = 9 marks. Internal OR choice milti hai."
+      },
+      {
+        "section_id": "D",
+        "name": "Section D — Essay Type",
+        "question_numbers": "Q19 and Q20",
+        "type": "Section D — Essay Type",
+        "total_questions": 2,
+        "total_sub_questions": 0,
+        "marks_per_question": 4,
+        "total_marks": 8,
+        "word_limit": "",
+        "breakdown": "Q19 aur Q20 — 2 questions × 4 marks each = 8 marks. Internal OR choice milti hai."
+      }
+    ]
+  },
+  "blueprint": {
+    "note": "RBSE Biology chapter-wise blueprint (13 chapters).",
+    "total_theory_marks": 56,
+    "objective_percent": 38,
+    "subjective_percent": 62,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "5",
+      "name": "Molecular Basis of Inheritance",
+      "marks": 6,
+      "note": "Tied highest (6 marks) with Ch 7. Essay source."
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "3",
+        "name": "Reproductive Health Aspects",
+        "marks": 2
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "Sexual Reproduction in Flowering Plants",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "9%"
+      },
+      {
+        "chapter_id": "2",
+        "name": "Human Reproduction",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "7%"
+      },
+      {
+        "chapter_id": "3",
+        "name": "Reproductive Health Aspects",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "4%"
+      },
+      {
+        "chapter_id": "4",
+        "name": "Inheritance Principles and Variation",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "9%"
+      },
+      {
+        "chapter_id": "5",
+        "name": "Molecular Basis of Inheritance",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "11%"
+      },
+      {
+        "chapter_id": "6",
+        "name": "Evolution",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "5%"
+      },
+      {
+        "chapter_id": "7",
+        "name": "Human Health and Diseases",
+        "marks": 6,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "11%"
+      },
+      {
+        "chapter_id": "8",
+        "name": "Role of Microbes in Human Welfare",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "9%"
+      },
+      {
+        "chapter_id": "9",
+        "name": "Principles of Biotechnology and Biotechnology-Based Processes",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "7%"
+      },
+      {
+        "chapter_id": "10",
+        "name": "Applications Related to Biotechnology",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "7%"
+      },
+      {
+        "chapter_id": "11",
+        "name": "Organisms and Population",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "7%"
+      },
+      {
+        "chapter_id": "12",
+        "name": "Ecosystems",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "9%"
+      },
+      {
+        "chapter_id": "13",
+        "name": "Biodiversity and Its Conservation",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": "5%"
+      }
+    ],
+    "totals": {
+      "total_marks": 56,
+      "one_mark_questions": 34,
+      "two_mark_total": 18,
+      "three_mark_total": 9,
+      "four_mark_total": 8,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "RBSE Biology Class 12 — 13 chapters, NCERT-aligned.",
+    "books": [
+      {
+        "book_name": "NCERT Biology Part I & Part II",
+        "category": "chapter",
+        "total_marks": 56,
+        "note": "RBSE syllabus NCERT-based.",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "Sexual Reproduction in Flowering Plants",
+            "marks": 5,
+            "topics": [
+              "Flower structure — stamen, pistil, anther, ovary",
+              "Microsporogenesis — pollen grain formation",
+              "Megasporogenesis — embryo sac formation (7-celled, 8-nucleate)",
+              "Pollination types — autogamy, geitonogamy, xenogamy",
+              "Double fertilization — syngamy + triple fusion",
+              "Endosperm and embryo development",
+              "Apomixis, Polyembryony, Parthenocarpy",
+              "Sporopollenin — resistance, storage"
+            ],
+            "note": "Weightage: 9% | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "2",
+            "name": "Human Reproduction",
+            "marks": 4,
+            "topics": [
+              "Male reproductive system — seminiferous tubules, spermatogenesis",
+              "Female reproductive system — ovary, Graafian follicle, oogenesis",
+              "Menstrual cycle — phases, hormones (FSH, LH, Estrogen, Progesterone)",
+              "Fertilization and implantation",
+              "Pregnancy — placenta functions, HCG",
+              "Embryonic development — germ layers"
+            ],
+            "note": "Weightage: 7% | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "3",
+            "name": "Reproductive Health Aspects",
+            "marks": 2,
+            "topics": [
+              "STIs (Sexually Transmitted Infections) — types, prevention",
+              "Contraceptive methods — barrier, IUD, oral pills, surgical",
+              "MTP — Medical Termination of Pregnancy",
+              "Amniocentesis — use and ethics",
+              "Infertility — IVF, ZIFT, GIFT"
+            ],
+            "note": "Weightage: 4% | Difficulty: Easy"
+          },
+          {
+            "chapter_id": "4",
+            "name": "Inheritance Principles and Variation",
+            "marks": 5,
+            "topics": [
+              "Mendel's laws — Segregation, Independent Assortment",
+              "Monohybrid cross — 3:1 ratio",
+              "Dihybrid cross — 9:3:3:1 ratio",
+              "Incomplete dominance — 1:2:1",
+              "Codominance — ABO blood groups",
+              "Linkage and crossing over",
+              "Sex determination — XX/XY",
+              "Sex-linked inheritance — haemophilia, colourblindness",
+              "Chromosomal disorders — Down syndrome (trisomy 21), Turner, Klinefelter",
+              "Mutation types"
+            ],
+            "note": "Weightage: 9% | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "5",
+            "name": "Molecular Basis of Inheritance",
+            "marks": 6,
+            "topics": [
+              "DNA structure — Watson-Crick double helix, Chargaff's rules",
+              "DNA packaging — nucleosome, histone proteins",
+              "DNA replication — semi-conservative (Meselson-Stahl experiment)",
+              "Transcription — template strand, mRNA",
+              "Genetic code — properties (degenerate, universal)",
+              "Translation — ribosome, tRNA, aminoacyl tRNA synthetase",
+              "Gene regulation — Lac operon (E. coli)",
+              "Human Genome Project — goals, outcomes",
+              "DNA fingerprinting — VNTR"
+            ],
+            "note": "Weightage: 11% | Difficulty: Hard"
+          },
+          {
+            "chapter_id": "6",
+            "name": "Evolution",
+            "marks": 3,
+            "topics": [
+              "Origin of life theories — Miller-Urey experiment",
+              "Oparin-Haldane theory — chemical evolution",
+              "Darwin's theory — Natural Selection",
+              "Lamarck's theory — use and disuse",
+              "Hardy-Weinberg principle — p² + 2pq + q² = 1",
+              "Types of natural selection — directional, stabilising, disruptive",
+              "Human evolution — stages (Homo habilis → H. sapiens)"
+            ],
+            "note": "Weightage: 5% | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "7",
+            "name": "Human Health and Diseases",
+            "marks": 6,
+            "topics": [
+              "Common diseases — Typhoid (Salmonella typhi), Pneumonia (Streptococcus), Malaria (Plasmodium), Amoebiasis (Entamoeba), Ascariasis, Filariasis, Ringworm",
+              "Immunity — innate vs acquired",
+              "Active vs Passive immunity",
+              "Antibody structure — Y-shaped, IgG/IgM",
+              "Primary vs Secondary immune response",
+              "Vaccines and vaccination",
+              "Cancer — oncogenes, carcinogens, metastasis, treatment",
+              "AIDS — HIV (retrovirus), CD4 cells, ELISA test, transmission, prevention",
+              "Drugs and alcohol abuse"
+            ],
+            "note": "Weightage: 11% | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "8",
+            "name": "Role of Microbes in Human Welfare",
+            "marks": 5,
+            "topics": [
+              "Fermentation — bread (yeast), curd (Lactobacillus), beer/wine",
+              "Antibiotics — Penicillin (Alexander Fleming), Streptomycin",
+              "Sewage treatment — primary (physical) and secondary (biological/BOD)",
+              "Biogas production — Methanogens, biogas plant",
+              "Biofertilizers — Rhizobium, Azospirillum, blue-green algae, Mycorrhiza",
+              "Biopesticides — Bacillus thuringiensis (Bt toxin)"
+            ],
+            "note": "Weightage: 9% | Difficulty: Easy"
+          },
+          {
+            "chapter_id": "9",
+            "name": "Principles of Biotechnology and Biotechnology-Based Processes",
+            "marks": 4,
+            "topics": [
+              "Recombinant DNA technology — steps",
+              "Restriction endonucleases — recognition sequence, sticky ends, palindromic sequence",
+              "Cloning vectors — plasmid features (ori, selectable marker, MCS)",
+              "PCR — 3 steps (denaturation 94°C, annealing 45-55°C, extension 72°C), Taq polymerase",
+              "Gel electrophoresis — DNA separation by size",
+              "Bioreactor — types and use"
+            ],
+            "note": "Weightage: 7% | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "10",
+            "name": "Applications Related to Biotechnology",
+            "marks": 4,
+            "topics": [
+              "Bt cotton — Bollworm resistance, Bt toxin mechanism",
+              "Golden rice — Vitamin A fortification (beta-carotene)",
+              "Gene therapy — ADA deficiency case",
+              "ELISA — Enzyme-Linked Immunosorbent Assay — use in disease detection",
+              "Transgenic animals — uses",
+              "Bio-piracy — Basmati, Turmeric examples",
+              "GEAC — Genetic Engineering Appraisal Committee"
+            ],
+            "note": "Weightage: 7% | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "11",
+            "name": "Organisms and Population",
+            "marks": 4,
+            "topics": [
+              "Abiotic factors — temperature, water, light, soil",
+              "Adaptations — thermoregulation, osmoregulation, hibernation, aestivation",
+              "Population growth — exponential (J-curve: dN/dt = rN) vs logistic (S-curve)",
+              "Population interactions — predation, competition, mutualism, commensalism, parasitism, amensalism",
+              "r and K strategies"
+            ],
+            "note": "Weightage: 7% | Difficulty: Easy-Medium"
+          },
+          {
+            "chapter_id": "12",
+            "name": "Ecosystems",
+            "marks": 5,
+            "topics": [
+              "Ecosystem components — biotic and abiotic",
+              "Food chain and food web",
+              "Trophic levels",
+              "10% energy law — Lindemann's law",
+              "Ecological pyramids — number, biomass, energy (energy pyramid always upright)",
+              "Productivity — GPP, NPP (NPP = GPP - Respiration)",
+              "Nutrient cycling — carbon cycle, nitrogen cycle",
+              "Decomposition — detritus, humus, mineralization"
+            ],
+            "note": "Weightage: 9% | Difficulty: Medium"
+          },
+          {
+            "chapter_id": "13",
+            "name": "Biodiversity and Its Conservation",
+            "marks": 3,
+            "topics": [
+              "Levels of biodiversity — genetic, species, ecosystem",
+              "Biodiversity hotspots — criteria (>1500 endemic plants + >70% habitat loss)",
+              "India's hotspots — Western Ghats, Himalayas, Northeast, Andaman & Nicobar",
+              "Threats — HIPPO (Habitat, Invasive, Pollution, Population, Overexploitation)",
+              "In-situ conservation — National Parks, Wildlife Sanctuaries, Biosphere Reserves",
+              "Ex-situ conservation — Zoos, Seed banks, Gene banks, Cryopreservation",
+              "Biosphere reserve zones — Core, Buffer, Transition",
+              "Project Tiger (1973)"
+            ],
+            "note": "Weightage: 5% | Difficulty: Easy"
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "Sexual Reproduction in Flowering Plants",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 1,
+      "unit_name": "Sexual Reproduction in Flowering Plants",
+      "weightage_marks": 5,
+      "typical_breakdown": "9%",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Flower structure — stamen, pistil, anther, ovary",
+        "Microsporogenesis — pollen grain formation",
+        "Megasporogenesis — embryo sac formation (7-celled, 8-nucleate)",
+        "Pollination types — autogamy, geitonogamy, xenogamy",
+        "Double fertilization — syngamy + triple fusion",
+        "Endosperm and embryo development",
+        "Apomixis, Polyembryony, Parthenocarpy",
+        "Sporopollenin — resistance, storage"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "L.S. of flower (labelled)",
+        "T.S. of anther",
+        "Mature embryo sac (7-celled, 8-nucleate) — most important",
+        "Pollen grain structure (exine-intine)"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Embryo sac structure (long/short), double fertilization (short/long), Apomixis vs Parthenocarpy (short/MCQ), sporopollenin properties (VSA/fill blank)",
+      "weightage_percent": "9%",
+      "question_types_asked": "MCQ, Fill-in-the-blanks, Very short, Short",
+      "approximate_questions": 4,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "Human Reproduction",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 2,
+      "unit_name": "Human Reproduction",
+      "weightage_marks": 4,
+      "typical_breakdown": "7%",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Male reproductive system — seminiferous tubules, spermatogenesis",
+        "Female reproductive system — ovary, Graafian follicle, oogenesis",
+        "Menstrual cycle — phases, hormones (FSH, LH, Estrogen, Progesterone)",
+        "Fertilization and implantation",
+        "Pregnancy — placenta functions, HCG",
+        "Embryonic development — germ layers"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "Male reproductive system",
+        "Female reproductive system",
+        "Mature Graafian follicle"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Spermatogenesis vs Oogenesis (short/long), Menstrual cycle phases (short), Placenta functions (short/VSA)",
+      "weightage_percent": "7%",
+      "question_types_asked": "Very short, Short, Long",
+      "approximate_questions": 4,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "Reproductive Health Aspects",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 3,
+      "unit_name": "Reproductive Health Aspects",
+      "weightage_marks": 2,
+      "typical_breakdown": "4%",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": true,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "STIs (Sexually Transmitted Infections) — types, prevention",
+        "Contraceptive methods — barrier, IUD, oral pills, surgical",
+        "MTP — Medical Termination of Pregnancy",
+        "Amniocentesis — use and ethics",
+        "Infertility — IVF, ZIFT, GIFT"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Contraceptive methods list (short/VSA), STI prevention (VSA), Amniocentesis purpose (VSA)",
+      "weightage_percent": "4%",
+      "question_types_asked": "Very short, Short",
+      "approximate_questions": 3,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "Inheritance Principles and Variation",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 4,
+      "unit_name": "Inheritance Principles and Variation",
+      "weightage_marks": 5,
+      "typical_breakdown": "9%",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Mendel's laws — Segregation, Independent Assortment",
+        "Monohybrid cross — 3:1 ratio",
+        "Dihybrid cross — 9:3:3:1 ratio",
+        "Incomplete dominance — 1:2:1",
+        "Codominance — ABO blood groups",
+        "Linkage and crossing over",
+        "Sex determination — XX/XY",
+        "Sex-linked inheritance — haemophilia, colourblindness",
+        "Chromosomal disorders — Down syndrome (trisomy 21), Turner, Klinefelter",
+        "Mutation types"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "Monohybrid cross — Punnett square",
+        "Dihybrid cross — Punnett square",
+        "Pedigree chart for sex-linked disease"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Dihybrid cross 9:3:3:1 (long/short), ABO blood group codominance (short/MCQ), haemophilia sex-linked inheritance (short), Down syndrome (VSA/MCQ)",
+      "weightage_percent": "9%",
+      "question_types_asked": "MCQ, Fill-in-the-blanks, Very short, Short, Long",
+      "approximate_questions": 5,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "Molecular Basis of Inheritance",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 5,
+      "unit_name": "Molecular Basis of Inheritance",
+      "weightage_marks": 6,
+      "typical_breakdown": "11%",
+      "difficulty": "Hard",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": false,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "Section D (4-mark essay) frequently comes from this chapter — DNA replication, transcription, translation.",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "DNA structure — Watson-Crick double helix, Chargaff's rules",
+        "DNA packaging — nucleosome, histone proteins",
+        "DNA replication — semi-conservative (Meselson-Stahl experiment)",
+        "Transcription — template strand, mRNA",
+        "Genetic code — properties (degenerate, universal)",
+        "Translation — ribosome, tRNA, aminoacyl tRNA synthetase",
+        "Gene regulation — Lac operon (E. coli)",
+        "Human Genome Project — goals, outcomes",
+        "DNA fingerprinting — VNTR"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "DNA double helix (labelled)",
+        "Nucleosome model",
+        "Lac operon (induced + repressed state)",
+        "Transcription unit"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "DNA replication semi-conservative proof (long/essay), Lac operon mechanism (long/essay), DNA structure (short/MCQ), Meselson-Stahl experiment (short/long), genetic code properties (VSA)",
+      "weightage_percent": "11%",
+      "question_types_asked": "MCQ, Fill-in-the-blanks, Very short, Short, Long, Essay",
+      "approximate_questions": 6,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "Evolution",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 6,
+      "unit_name": "Evolution",
+      "weightage_marks": 3,
+      "typical_breakdown": "5%",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": true,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Origin of life theories — Miller-Urey experiment",
+        "Oparin-Haldane theory — chemical evolution",
+        "Darwin's theory — Natural Selection",
+        "Lamarck's theory — use and disuse",
+        "Hardy-Weinberg principle — p² + 2pq + q² = 1",
+        "Types of natural selection — directional, stabilising, disruptive",
+        "Human evolution — stages (Homo habilis → H. sapiens)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Darwin vs Lamarck (short), Hardy-Weinberg principle (short/VSA), Miller experiment significance (VSA), human evolution stages (short)",
+      "weightage_percent": "5%",
+      "question_types_asked": "Very short, Short",
+      "approximate_questions": 2,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "Human Health and Diseases",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 7,
+      "unit_name": "Human Health and Diseases",
+      "weightage_marks": 6,
+      "typical_breakdown": "11%",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": true,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "Section D (4-mark essay) frequently comes from this chapter — immunity types, AIDS, cancer.",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": true,
+      "always_in_long_answer": true,
+      "note": "",
+      "important_topics": [
+        "Common diseases — Typhoid (Salmonella typhi), Pneumonia (Streptococcus), Malaria (Plasmodium), Amoebiasis (Entamoeba), Ascariasis, Filariasis, Ringworm",
+        "Immunity — innate vs acquired",
+        "Active vs Passive immunity",
+        "Antibody structure — Y-shaped, IgG/IgM",
+        "Primary vs Secondary immune response",
+        "Vaccines and vaccination",
+        "Cancer — oncogenes, carcinogens, metastasis, treatment",
+        "AIDS — HIV (retrovirus), CD4 cells, ELISA test, transmission, prevention",
+        "Drugs and alcohol abuse"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "Antibody structure (Y-shape)",
+        "Malaria life cycle (Plasmodium in Anopheles and human)"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Immunity types — active vs passive (short/long), AIDS transmission and prevention (long), Cancer vs normal cell (short), Malaria causative agent and vector (MCQ/VSA), antibody structure (short)",
+      "weightage_percent": "11%",
+      "question_types_asked": "Short, Long, Essay",
+      "approximate_questions": 6,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "Role of Microbes in Human Welfare",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 8,
+      "unit_name": "Role of Microbes in Human Welfare",
+      "weightage_marks": 5,
+      "typical_breakdown": "9%",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": true,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Fermentation — bread (yeast), curd (Lactobacillus), beer/wine",
+        "Antibiotics — Penicillin (Alexander Fleming), Streptomycin",
+        "Sewage treatment — primary (physical) and secondary (biological/BOD)",
+        "Biogas production — Methanogens, biogas plant",
+        "Biofertilizers — Rhizobium, Azospirillum, blue-green algae, Mycorrhiza",
+        "Biopesticides — Bacillus thuringiensis (Bt toxin)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Sewage treatment steps (short/long), biofertilizers types (MCQ/short), Penicillin discovery (VSA), Bt toxin mechanism (short), biogas production (short)",
+      "weightage_percent": "9%",
+      "question_types_asked": "MCQ, Fill-in-the-blanks, Very short, Short",
+      "approximate_questions": 4,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "Principles of Biotechnology and Biotechnology-Based Processes",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 9,
+      "unit_name": "Principles of Biotechnology and Biotechnology-Based Processes",
+      "weightage_marks": 4,
+      "typical_breakdown": "7%",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Recombinant DNA technology — steps",
+        "Restriction endonucleases — recognition sequence, sticky ends, palindromic sequence",
+        "Cloning vectors — plasmid features (ori, selectable marker, MCS)",
+        "PCR — 3 steps (denaturation 94°C, annealing 45-55°C, extension 72°C), Taq polymerase",
+        "Gel electrophoresis — DNA separation by size",
+        "Bioreactor — types and use"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "PCR process diagram (3 steps)",
+        "Restriction enzyme cutting — sticky ends",
+        "Plasmid as cloning vector"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "PCR steps (short/long), restriction enzyme action (short/VSA), gel electrophoresis principle (short/MCQ), palindromic sequence (VSA/fill blank)",
+      "weightage_percent": "7%",
+      "question_types_asked": "MCQ, Fill-in-the-blanks, Short, Very short",
+      "approximate_questions": 3,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "Applications Related to Biotechnology",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 10,
+      "unit_name": "Applications Related to Biotechnology",
+      "weightage_marks": 4,
+      "typical_breakdown": "7%",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Bt cotton — Bollworm resistance, Bt toxin mechanism",
+        "Golden rice — Vitamin A fortification (beta-carotene)",
+        "Gene therapy — ADA deficiency case",
+        "ELISA — Enzyme-Linked Immunosorbent Assay — use in disease detection",
+        "Transgenic animals — uses",
+        "Bio-piracy — Basmati, Turmeric examples",
+        "GEAC — Genetic Engineering Appraisal Committee"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Bt cotton resistance mechanism (short/MCQ), gene therapy ADA deficiency (short), Golden rice significance (VSA/short), ELISA principle (VSA/short), bio-piracy examples (VSA)",
+      "weightage_percent": "7%",
+      "question_types_asked": "MCQ, Fill-in-the-blanks, Short, Very short",
+      "approximate_questions": 3,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "Organisms and Population",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 11,
+      "unit_name": "Organisms and Population",
+      "weightage_marks": 4,
+      "typical_breakdown": "7%",
+      "difficulty": "Easy-Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": true,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Abiotic factors — temperature, water, light, soil",
+        "Adaptations — thermoregulation, osmoregulation, hibernation, aestivation",
+        "Population growth — exponential (J-curve: dN/dt = rN) vs logistic (S-curve)",
+        "Population interactions — predation, competition, mutualism, commensalism, parasitism, amensalism",
+        "r and K strategies"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [
+        "Exponential growth: dN/dt = rN",
+        "Logistic growth: dN/dt = rN(K-N)/K  (K = carrying capacity)"
+      ],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "J-curve vs S-curve (short/MCQ), population interactions types (MCQ/short), carrying capacity concept (VSA/short)",
+      "weightage_percent": "7%",
+      "question_types_asked": "MCQ, Fill-in-the-blanks, Short, Very short",
+      "approximate_questions": 3,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "Ecosystems",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 12,
+      "unit_name": "Ecosystems",
+      "weightage_marks": 5,
+      "typical_breakdown": "9%",
+      "difficulty": "Medium",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": true,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Ecosystem components — biotic and abiotic",
+        "Food chain and food web",
+        "Trophic levels",
+        "10% energy law — Lindemann's law",
+        "Ecological pyramids — number, biomass, energy (energy pyramid always upright)",
+        "Productivity — GPP, NPP (NPP = GPP - Respiration)",
+        "Nutrient cycling — carbon cycle, nitrogen cycle",
+        "Decomposition — detritus, humus, mineralization"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [
+        "Ecological pyramid (number, biomass, energy)",
+        "Nitrogen cycle",
+        "Carbon cycle"
+      ],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "Ecological pyramids types (short/MCQ), 10% energy law (VSA/short), nitrogen cycle steps (long/short), NPP vs GPP (VSA/MCQ)",
+      "weightage_percent": "9%",
+      "question_types_asked": "MCQ, Fill-in-the-blanks, Very short, Short",
+      "approximate_questions": 5,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "Biodiversity and Its Conservation",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Biology Part I & Part II",
+      "unit_id": 13,
+      "unit_name": "Biodiversity and Its Conservation",
+      "weightage_marks": 3,
+      "typical_breakdown": "5%",
+      "difficulty": "Easy",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": true,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": true,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [
+        "Levels of biodiversity — genetic, species, ecosystem",
+        "Biodiversity hotspots — criteria (>1500 endemic plants + >70% habitat loss)",
+        "India's hotspots — Western Ghats, Himalayas, Northeast, Andaman & Nicobar",
+        "Threats — HIPPO (Habitat, Invasive, Pollution, Population, Overexploitation)",
+        "In-situ conservation — National Parks, Wildlife Sanctuaries, Biosphere Reserves",
+        "Ex-situ conservation — Zoos, Seed banks, Gene banks, Cryopreservation",
+        "Biosphere reserve zones — Core, Buffer, Transition",
+        "Project Tiger (1973)"
+      ],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "In-situ vs Ex-situ conservation (short/MCQ), biodiversity hotspot criteria (VSA/MCQ), HIPPO threats (VSA/short), biosphere reserve zones (short)",
+      "weightage_percent": "5%",
+      "question_types_asked": "MCQ, Fill-in-the-blanks, Very short",
+      "approximate_questions": 3,
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "RBSE Biology — 13 chapters. Diagrams critical. Ch 5 + Ch 7 = Section D essay sources.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "Every chapter has questions per blueprint.",
+    "or_questions_note": "Internal OR in Section C (Q16-18) and Section D (Q19-20).",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [
+      "Ch 5 - Molecular Basis of Inheritance",
+      "Ch 7 - Human Health and Diseases",
+      "Ch 1 - Sexual Reproduction in Flowering Plants",
+      "Ch 4 - Inheritance Principles and Variation",
+      "Ch 12 - Ecosystems"
+    ],
+    "chapters_never_skip_reason": "Highest marks + Section D essay sources + diagram-guaranteed.",
+    "chapters_with_highest_weightage": [
+      "Ch 5 - Molecular Basis of Inheritance (6 marks, 11%)",
+      "Ch 7 - Human Health and Diseases (6 marks, 11%)"
+    ],
+    "chapters_with_least_weightage": [
+      "Ch 3 - Reproductive Health Aspects (2 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [
+      "Ch 5 - DNA replication / Lac operon / Transcription (4 marks)",
+      "Ch 7 - Immunity types / AIDS / Cancer (4 marks)"
+    ],
+    "chapters_mostly_theory": [],
+    "chapters_mostly_diagram_based": [
+      "Ch 1 - Sexual Reproduction in Flowering Plants",
+      "Ch 2 - Human Reproduction",
+      "Ch 5 - Molecular Basis of Inheritance",
+      "Ch 9 - Principles of Biotechnology and Biotechnology-Based Processes",
+      "Ch 12 - Ecosystems"
+    ],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [
+      "Ch 7 - Human Health and Diseases",
+      "Ch 8 - Role of Microbes in Human Welfare",
+      "Ch 12 - Ecosystems",
+      "Ch 13 - Biodiversity and Its Conservation",
+      "Ch 9 - Principles of Biotechnology and Biotechnology-Based Processes"
+    ],
+    "chapters_with_long_answer": [
+      "Ch 5 - DNA replication / Lac operon / Transcription",
+      "Ch 7 - Immunity types / AIDS / Cancer"
+    ],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [
+      "Ch 5 - DNA replication / Lac operon / Transcription",
+      "Ch 7 - Immunity types / AIDS / Cancer"
+    ],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [
+      "Embryo sac structure (7-celled, 8-nucleate) (Section C or Short B, 1.5-3 marks)",
+      "Double fertilization (Section B or C, 1.5-3 marks)",
+      "Immunity — Active vs Passive (long/essay) (Section C or D, 3-4 marks)",
+      "AIDS — HIV, CD4, ELISA, transmission (Section C or D, 3-4 marks)",
+      "DNA replication — semi-conservative / Meselson-Stahl (Section C or D, 3-4 marks)",
+      "PCR — 3 steps with temperatures (Section B or C, 1.5-3 marks)",
+      "Ecological pyramid types (upright/inverted) (Section B or C, 1.5-3 marks)",
+      "Nitrogen cycle (Section B or C, 1.5-3 marks)",
+      "Malaria — Plasmodium, Anopheles mosquito (Section A or B, 0.5-1.5 marks)",
+      "Dihybrid cross 9:3:3:1 (Section B or C, 1.5-3 marks)",
+      "In-situ vs Ex-situ conservation (Section A or B, 0.5-1.5 marks)",
+      "Bt cotton / Gene therapy (Section B, 1.5 marks)"
+    ],
+    "one_mark_question_facts": {
+      "note": "Q1 MCQ = 0.5 mark × 16. Q2 Fill Blank = 0.5 × 10. Q3 VSA = 1 × 8. No negative marking.",
+      "common_formats": []
+    },
+    "essay_sources_section_D": [
+      {
+        "chapter_id": 5,
+        "topic": "DNA replication / Lac operon / Transcription",
+        "marks": 4
+      },
+      {
+        "chapter_id": 7,
+        "topic": "Immunity types / AIDS / Cancer",
+        "marks": 4
+      }
+    ]
+  },
+  "important_diagrams_masterlist": {
+    "note": "Biology mein diagrams bahut important hain. Section C aur D mein diagram ke bina full marks nahi milte.",
+    "must_practise": [
+      {
+        "chapter_id": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
+        "diagram_name": "Mature embryo sac (7-celled, 8-nucleate)",
+        "note": "Frequency: Har saal"
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
+        "diagram_name": "L.S. of flower (complete labelled)",
+        "note": "Frequency: Very frequent"
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
+        "diagram_name": "T.S. of anther",
+        "note": "Frequency: Frequent"
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "Human Reproduction",
+        "diagram_name": "Male reproductive system",
+        "note": "Frequency: Frequent"
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "Human Reproduction",
+        "diagram_name": "Female reproductive system",
+        "note": "Frequency: Frequent"
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
+        "diagram_name": "DNA double helix (labelled)",
+        "note": "Frequency: Har saal"
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
+        "diagram_name": "Lac operon (induced + repressed state)",
+        "note": "Frequency: Very frequent"
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Human Health and Diseases",
+        "diagram_name": "Antibody structure (Y-shaped)",
+        "note": "Frequency: Frequent"
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Principles of Biotechnology and Biotechnology-Based Processes",
+        "diagram_name": "PCR process (3 steps)",
+        "note": "Frequency: Frequent"
+      },
+      {
+        "chapter_id": "12",
+        "chapter_name": "Ecosystems",
+        "diagram_name": "Ecological pyramid (number, biomass, energy)",
+        "note": "Frequency: Frequent"
+      },
+      {
+        "chapter_id": "12",
+        "chapter_name": "Ecosystems",
+        "diagram_name": "Nitrogen cycle",
+        "note": "Frequency: Frequent"
+      },
+      {
+        "chapter_id": "13",
+        "chapter_name": "Biodiversity and Its Conservation",
+        "diagram_name": "Biosphere reserve zones",
+        "note": "Frequency: Medium"
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
+        "diagram_name": "L.S. of flower (labelled)",
+        "note": ""
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
+        "diagram_name": "Mature embryo sac (7-celled, 8-nucleate) — most important",
+        "note": ""
+      },
+      {
+        "chapter_id": "1",
+        "chapter_name": "Sexual Reproduction in Flowering Plants",
+        "diagram_name": "Pollen grain structure (exine-intine)",
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "chapter_name": "Human Reproduction",
+        "diagram_name": "Mature Graafian follicle",
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Inheritance Principles and Variation",
+        "diagram_name": "Monohybrid cross — Punnett square",
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Inheritance Principles and Variation",
+        "diagram_name": "Dihybrid cross — Punnett square",
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "chapter_name": "Inheritance Principles and Variation",
+        "diagram_name": "Pedigree chart for sex-linked disease",
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
+        "diagram_name": "Nucleosome model",
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "chapter_name": "Molecular Basis of Inheritance",
+        "diagram_name": "Transcription unit",
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Human Health and Diseases",
+        "diagram_name": "Antibody structure (Y-shape)",
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "chapter_name": "Human Health and Diseases",
+        "diagram_name": "Malaria life cycle (Plasmodium in Anopheles and human)",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Principles of Biotechnology and Biotechnology-Based Processes",
+        "diagram_name": "PCR process diagram (3 steps)",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Principles of Biotechnology and Biotechnology-Based Processes",
+        "diagram_name": "Restriction enzyme cutting — sticky ends",
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "chapter_name": "Principles of Biotechnology and Biotechnology-Based Processes",
+        "diagram_name": "Plasmid as cloning vector",
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "chapter_name": "Ecosystems",
+        "diagram_name": "Carbon cycle",
+        "note": ""
+      }
+    ]
+  },
+  "important_formula_sheets": {
+    "note": "Biology mostly theory — only Ch 11 Organisms and Population has some growth/population formulas.",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": [
+      {
+        "chapter_id": "11",
+        "chapter_name": "Organisms and Population",
+        "formulas": [
+          "Exponential growth: dN/dt = rN",
+          "Logistic growth: dN/dt = rN(K-N)/K  (K = carrying capacity)"
+        ]
+      }
+    ]
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Biology",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Biology",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 30,
+    "passing_marks": 10,
+    "practical_exam_separate": true,
+    "practical_exam_note": "Practical 30 marks conducted separately. Separate passing in theory (20/56) and practical (10/30).",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": true,
+    "viva_marks": 10,
+    "individual": true,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": true,
+    "practical_record_marks": true,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [
+      {
+        "name": "Experiments",
+        "marks": 15,
+        "note": ""
+      },
+      {
+        "name": "Activities / Project",
+        "marks": 5,
+        "note": ""
+      },
+      {
+        "name": "Viva Voce",
+        "marks": 10,
+        "note": ""
+      }
+    ],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    },
+    "important_practicals": [
+      "Pollen germination on sugar solution",
+      "Study of flower parts — dissection and identification",
+      "Prepare temporary mount of onion root tip to study mitosis",
+      "Blood group determination (ABO and Rh)",
+      "Study of models/specimens — seeds, fruits, embryo stages",
+      "Study of models of DNA structure",
+      "Ecosystem study — food chain construction from given organisms"
+    ]
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Easy-Medium",
+    "note": "",
+    "easy_percent": 40,
+    "medium_percent": 40,
+    "hard_percent": 20,
+    "most_scoring_sections": [
+      "Easy — scientific names aur disease facts yaad ho toh 18+ marks pakke",
+      "Easy to Medium — NCERT padha ho toh scoring"
+    ],
+    "most_difficult_sections": [
+      "Medium-Hard — Ch 5 aur Ch 7 pe detailed essays"
+    ],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [
+      "Section A ke 34 sub-parts (21 marks) — sab attempt karo, no negative marking",
+      "Section D essays = 8 marks — Ch 5 (DNA replication) aur Ch 7 (Immunity/AIDS) prepare karo",
+      "Diagrams pencil se banana — neater hota hai, labels pen se",
+      "Scientific names correctly likhna — Plasmodium vivax, Bacillus thuringiensis etc.",
+      "Section B ke 12 short answers (18 marks) = 32% of paper — sab compulsory, koi mat chhodna",
+      "PCR ke teen steps ke temperatures yaad karo — 94°C, 45-55°C, 72°C",
+      "Ecological pyramid — energy pyramid hamesha upright, biomass aquatic mein inverted — ye MCQ mein pakka aata hai",
+      "Immunity — Active (body banata hai, slow but long lasting) vs Passive (ready-made, fast but short) — har saal",
+      "Reading time mein Section C/D ke OR options dono padho — easier wala choose karo",
+      "Set number aur question number clearly likho"
+    ],
+    "time_allocation": [
+      {
+        "section_id": "reading_time_15min",
+        "recommended_minutes": 0,
+        "note": "Paper padho — Q16-Q18 aur Q19-Q20 ke OR options decide karo pehle."
+      },
+      {
+        "section_id": "section_A_35min",
+        "recommended_minutes": 1,
+        "note": "34 sub-parts × 1 min average. MCQ = 30 sec, Fill blank = 30 sec, VSA = 1.5 min."
+      },
+      {
+        "section_id": "section_B_30min",
+        "recommended_minutes": 5,
+        "note": "12 short answers × 2.5 min. 4-5 lines per answer."
+      },
+      {
+        "section_id": "section_C_30min",
+        "recommended_minutes": 10,
+        "note": "3 long answers × 10 min. Diagram pehle banao (1 mark pakka)."
+      },
+      {
+        "section_id": "section_D_30min",
+        "recommended_minutes": 15,
+        "note": "2 essay answers × 15 min. Detailed diagram + explanation."
+      },
+      {
+        "section_id": "revision_10min",
+        "recommended_minutes": 0,
+        "note": "Scientific names check karo, labels verify karo, question numbers check karo."
+      }
+    ]
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing",
+        "target_marks": 20,
+        "strategy": "Section A (Q1-Q3) mein 34 sub-parts attempt karo — 18+ marks aasaan hain. Section B mein 4-5 easy short answers (6-7 marks). Total = 24-25 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Q1 MCQs (16 × 0.5 = 8 marks) — sab attempt karo",
+          "Ch 7 (Human Health) — diseases list, immunity types easy theory",
+          "Ch 13 (Biodiversity) — in-situ/ex-situ, hotspots easy MCQ",
+          "Ch 8 (Microbes) — Penicillin, sewage treatment simple facts",
+          "Ch 3 (Reproductive Health) — contraceptive methods VSA"
+        ],
+        "chapters_to_skip_safely": [
+          "Ch 5 complex Lac operon mechanism",
+          "Ch 4 pedigree complex problems",
+          "Complex embryo sac diagram"
+        ],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "35_marks",
+        "target_marks": 35,
+        "strategy": "Section A (18-20) + Section B 8-9 questions (12-14) + Section C 1 (3) = 33-37 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "Ch 1 (Flowering plants) — embryo sac short answer",
+          "Ch 7 (Human Health) — immunity, AIDS (Section C/D)",
+          "Ch 5 (Molecular Basis) — DNA structure short, PCR short",
+          "Ch 12 (Ecosystems) — ecological pyramids, nutrient cycles",
+          "LPP concept from ecology"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45_marks_plus",
+        "target_marks": 45,
+        "strategy": "Section A full (19-21) + Section B full (16-18) + Section C 2-3 (6-9) + Section D 1-2 (4-8) = 45-56 marks.",
+        "focus_chapters": [],
+        "focus_areas": [
+          "All 13 chapters thoroughly",
+          "Section D essays — Ch 5 DNA replication/Lac operon + Ch 7 immunity/AIDS",
+          "All important diagrams with labels",
+          "Organic chemistry conversions equivalent — here it's genetic crosses"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [
+      "Ch 3 - Reproductive Health Aspects",
+      "Ch 6 - Evolution",
+      "Ch 8 - Role of Microbes in Human Welfare",
+      "Ch 13 - Biodiversity and Its Conservation"
+    ],
+    "highest_roi_chapters": [
+      "Ch 5 - Molecular Basis of Inheritance (6 marks, 11%)",
+      "Ch 7 - Human Health and Diseases (6 marks, 11%)"
+    ],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 14,
+    "note": "14 marks sessional/internal assessment — school-level.",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": [
+      {
+        "name": "NCERT Biology Class 12 (Part I + II)",
+        "author": "",
+        "publisher": "NCERT",
+        "purpose": "Primary",
+        "note": "Base textbook. RBSE syllabus NCERT-based."
+      },
+      {
+        "name": "SP Examination Idea — Biology Class 12",
+        "author": "",
+        "publisher": "Science Publications, Jaipur",
+        "purpose": "Supplementary",
+        "note": "RBSE-specific reference with chapter-wise practice."
+      }
+    ]
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": true,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 30,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "rajeduboard.rajasthan.gov.in",
+    "extra_time_given": true,
+    "extra_time_note": "15 minute reading time milta hai — is time mein sirf paper padho, answers likhna nahi."
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [
+      "question_number_compulsory: True",
+      "set_number_compulsory: True",
+      "reading_time_note: 15 minute reading time mein sirf padho — likhna nahi.",
+      "sequence_compulsory: False"
+    ],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": "Sirf biological diagrams ke liye pencil strongly recommended — neatness important hai. Biological diagrams (embryo sac, mitosis, DNA, antibody, PCR) pencil se banana zyaada neat hota hai. Labels pen se likhna OK."
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "Long answer (3 marks) aur Essay (4 marks) mein labelled diagram practically compulsory hai. Diagram ke bina marks cut hote hain.",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}

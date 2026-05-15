@@ -1,0 +1,81 @@
+Physics mistake card teal · HTML
+Copy
+
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600&display=swap" rel="stylesheet">
+<title>Physics Mistake Card</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Nunito', sans-serif; background: #f2f2f7; min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 24px 16px; }
+  .mc-card { background: #ffffff; border: 0.5px solid #d1d5db; border-radius: 16px; overflow: hidden; max-width: 480px; width: 100%; box-shadow: 0 2px 12px rgba(0,0,0,0.06); }
+  .mc-header { background: #E1F5EE; padding: 20px 22px 18px; border-bottom: 0.5px solid #5DCAA5; }
+  .mc-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+  .mc-tag { font-size: 11px; font-weight: 600; padding: 3px 10px; border-radius: 100px; background: #ffffff99; color: #085041; border: 0.5px solid #1D9E7555; letter-spacing: 0.3px; }
+  .mc-title { font-size: 17px; font-weight: 600; color: #04342C; line-height: 1.35; margin-bottom: 5px; }
+  .mc-sub { font-size: 13px; font-weight: 400; color: #0F6E56; line-height: 1.6; }
+  .mc-body { padding: 18px 22px 20px; display: flex; flex-direction: column; gap: 14px; }
+  .mc-compare { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .mc-box { border-radius: 12px; padding: 14px 16px 13px; border: 0.5px solid transparent; }
+  .mc-box-wrong { background: #FCEBEB; border-color: #F09595; }
+  .mc-box-right { background: #EAF3DE; border-color: #97C459; }
+  .mc-box-label { font-size: 11px; font-weight: 600; letter-spacing: 0.4px; text-transform: uppercase; margin-bottom: 8px; display: flex; align-items: center; gap: 5px; }
+  .mc-box-wrong .mc-box-label { color: #A32D2D; }
+  .mc-box-right .mc-box-label { color: #3B6D11; }
+  .mc-box-value { font-size: 22px; font-weight: 600; margin-bottom: 5px; letter-spacing: -0.5px; }
+  .mc-box-wrong .mc-box-value { color: #E24B4A; }
+  .mc-box-right .mc-box-value { color: #639922; }
+  .mc-box-note { font-size: 12px; font-weight: 400; }
+  .mc-box-wrong .mc-box-note { color: #791F1F; }
+  .mc-box-right .mc-box-note { color: #27500A; }
+  .mc-rule { background: #d4f3e880; border-radius: 12px; border: 0.5px solid #5DCAA5; border-left: 3px solid #1D9E75; padding: 13px 16px; }
+  .mc-rule-label { font-size: 11px; font-weight: 600; color: #0F6E56; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 6px; display: flex; align-items: center; gap: 5px; }
+  .mc-rule-text { font-size: 13px; font-weight: 400; color: #085041; line-height: 1.65; }
+  .mc-rule-text strong { font-weight: 600; }
+  .dot { width: 7px; height: 7px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
+  .dot-wrong { background: #E24B4A; }
+  .dot-right { background: #639922; }
+  .dot-rule { background: #1D9E75; }
+</style>
+</head>
+<body>
+  <div class="mc-card">
+    <div class="mc-header">
+      <div class="mc-tags">
+        <span class="mc-tag">⚡ Physics</span>
+        <span class="mc-tag">Sign convention</span>
+        <span class="mc-tag">Common mistake</span>
+      </div>
+      <div class="mc-title">Concave mirror mein sign bhoolna ek bahut common galti hai</div>
+      <div class="mc-sub">Dhyan rakhein — concave mirror dekhte hi f ko negative likhein. Yahi step aksar chhoot jaata hai.</div>
+    </div>
+ 
+    <div class="mc-body">
+      <div class="mc-compare">
+        <div class="mc-box mc-box-wrong">
+          <div class="mc-box-label"><span class="dot dot-wrong"></span> Galat</div>
+          <div class="mc-box-value">f = +15 cm</div>
+          <div class="mc-box-note">Sign nahi lagaya</div>
+        </div>
+        <div class="mc-box mc-box-right">
+          <div class="mc-box-label"><span class="dot dot-right"></span> Sahi</div>
+          <div class="mc-box-value">f = &minus;15 cm</div>
+          <div class="mc-box-note">Negative sign zaroori hai</div>
+        </div>
+      </div>
+ 
+      <div class="mc-rule">
+        <div class="mc-rule-label"><span class="dot dot-rule"></span> Rule to remember</div>
+        <div class="mc-rule-text">
+          <strong>Concave mirror</strong> → f hamesha <strong>negative</strong>.<br>
+          <strong>Convex mirror</strong> → f hamesha <strong>positive</strong>.<br>
+          Ise ek baar pakka kar lein, aur yeh galti dobara nahi hogi.
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

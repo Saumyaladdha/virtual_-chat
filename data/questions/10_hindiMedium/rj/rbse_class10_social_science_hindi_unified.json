@@ -1,0 +1,2932 @@
+{
+  "board": "RBSE (राजस्थान माध्यमिक शिक्षा बोर्ड)",
+  "class": "10",
+  "subject": "सामाजिक विज्ञान",
+  "subject_code": "",
+  "exam_year": "2026",
+  "marks_structure": {
+    "theory_paper": 0,
+    "practical_paper": 0,
+    "internal_assessment": 0,
+    "total": 100,
+    "passing_marks_theory": 0,
+    "passing_marks_practical": 0,
+    "passing_marks_internal": 0,
+    "duration_minutes": 0,
+    "extra_time_given": false,
+    "extra_time_note": "",
+    "internal_assessment_note": ""
+  },
+  "paper_overview": {
+    "total_questions_in_paper": 0,
+    "total_questions_to_attempt": 0,
+    "total_objective_questions": 0,
+    "total_sets": 0,
+    "sets_note": "",
+    "sets_same_or_different": "",
+    "language_of_attempt": "",
+    "all_compulsory_note": "",
+    "pariksha_bodh_questions_in_exam": "",
+    "ncert_enough": "",
+    "official_scheme_note": "",
+    "reference_books_note": "",
+    "prescribed_textbooks": [],
+    "sample_paper_vs_model_paper": {
+      "sample_paper": "",
+      "model_paper": "",
+      "question_bank": "",
+      "which_to_prefer": "",
+      "revision_notes_vs_qbank": "",
+      "reference_books_for_revision": ""
+    }
+  },
+  "question_types_in_exam": {
+    "summary": "",
+    "new_pattern_note": "",
+    "types": []
+  },
+  "paper_pattern": {
+    "note": "",
+    "all_sections_compulsory": true,
+    "all_sets_same_distribution": true,
+    "internal_choice_given": true,
+    "internal_choice_note": "",
+    "or_questions_note": "",
+    "difficulty_distribution": {
+      "easy_percent": 0,
+      "medium_percent": 0,
+      "hard_percent": 0,
+      "note": ""
+    },
+    "sections": []
+  },
+  "marks_distribution": {
+    "total_theory": 0,
+    "total_practical": 0,
+    "internal_assessment": 0,
+    "grand_total": 100,
+    "marks_summary_note": "",
+    "sections": []
+  },
+  "blueprint": {
+    "note": "",
+    "total_theory_marks": 80,
+    "objective_percent": 0,
+    "subjective_percent": 0,
+    "analytical_percent": 0,
+    "highest_marks_chapter": {
+      "chapter_id": "16",
+      "name": "राजनीतिक दल",
+      "marks": 5,
+      "note": ""
+    },
+    "lowest_marks_chapters": [
+      {
+        "chapter_id": "7",
+        "name": "वन एवं वन्य जीवन संसाधन",
+        "marks": 2
+      }
+    ],
+    "units_or_chapters": [
+      {
+        "chapter_id": "1",
+        "name": "यूरोप में राष्ट्रवाद का उदय",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "2",
+        "name": "भारत में राष्ट्रवाद",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "3",
+        "name": "भूमंडलीकृत विश्व का बनना",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "4",
+        "name": "औद्योगीकरण का युग",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "5",
+        "name": "मुद्रण संस्कृति और आधुनिक दुनिया",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "6",
+        "name": "संसाधन और विकास",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "7",
+        "name": "वन एवं वन्य जीवन संसाधन",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "8",
+        "name": "जल संसाधन",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "9",
+        "name": "कृषि",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "10",
+        "name": "खनिज तथा ऊर्जा संसाधन",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "11",
+        "name": "विनिर्माण उद्योग",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "12",
+        "name": "राष्ट्रीय अर्थव्यवस्था की जीवन रेखाएँ",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "13",
+        "name": "सत्ता की साझेदारी",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "14",
+        "name": "संघवाद",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "15",
+        "name": "लोकतंत्र और विविधता / जाति, धर्म और लिंग",
+        "marks": 4,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "16",
+        "name": "राजनीतिक दल",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "17",
+        "name": "लोकतंत्र के परिणाम",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "18",
+        "name": "विकास",
+        "marks": 3,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "19",
+        "name": "भारतीय अर्थव्यवस्था के क्षेत्रक",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "20",
+        "name": "मुद्रा और साख",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "21",
+        "name": "वैश्वीकरण और भारतीय अर्थव्यवस्था",
+        "marks": 5,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      },
+      {
+        "chapter_id": "22",
+        "name": "उपभोक्ता अधिकार",
+        "marks": 2,
+        "one_mark_count": 0,
+        "two_mark_count": 0,
+        "three_mark_count": 0,
+        "four_mark_count": 0,
+        "five_mark_count": 0,
+        "note": ""
+      }
+    ],
+    "totals": {
+      "total_marks": 80,
+      "one_mark_questions": 0,
+      "two_mark_total": 0,
+      "three_mark_total": 0,
+      "four_mark_total": 0,
+      "five_mark_total": 0
+    }
+  },
+  "syllabus": {
+    "note": "Social Science Class 10 — 22 units/chapters.",
+    "books": [
+      {
+        "book_name": "NCERT Social Science",
+        "category": "Main",
+        "total_marks": 80,
+        "note": "",
+        "chapters": [
+          {
+            "chapter_id": "1",
+            "name": "यूरोप में राष्ट्रवाद का उदय",
+            "marks": 4,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "2",
+            "name": "भारत में राष्ट्रवाद",
+            "marks": 4,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "3",
+            "name": "भूमंडलीकृत विश्व का बनना",
+            "marks": 4,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "4",
+            "name": "औद्योगीकरण का युग",
+            "marks": 4,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "5",
+            "name": "मुद्रण संस्कृति और आधुनिक दुनिया",
+            "marks": 4,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "6",
+            "name": "संसाधन और विकास",
+            "marks": 3,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "7",
+            "name": "वन एवं वन्य जीवन संसाधन",
+            "marks": 2,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "8",
+            "name": "जल संसाधन",
+            "marks": 3,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "9",
+            "name": "कृषि",
+            "marks": 3,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "10",
+            "name": "खनिज तथा ऊर्जा संसाधन",
+            "marks": 4,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "11",
+            "name": "विनिर्माण उद्योग",
+            "marks": 2,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "12",
+            "name": "राष्ट्रीय अर्थव्यवस्था की जीवन रेखाएँ",
+            "marks": 3,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "13",
+            "name": "सत्ता की साझेदारी",
+            "marks": 4,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "14",
+            "name": "संघवाद",
+            "marks": 4,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "15",
+            "name": "लोकतंत्र और विविधता / जाति, धर्म और लिंग",
+            "marks": 4,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "16",
+            "name": "राजनीतिक दल",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "17",
+            "name": "लोकतंत्र के परिणाम",
+            "marks": 3,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "18",
+            "name": "विकास",
+            "marks": 3,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "19",
+            "name": "भारतीय अर्थव्यवस्था के क्षेत्रक",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "20",
+            "name": "मुद्रा और साख",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "21",
+            "name": "वैश्वीकरण और भारतीय अर्थव्यवस्था",
+            "marks": 5,
+            "topics": [],
+            "note": ""
+          },
+          {
+            "chapter_id": "22",
+            "name": "उपभोक्ता अधिकार",
+            "marks": 2,
+            "topics": [],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "name": "यूरोप में राष्ट्रवाद का उदय",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 1,
+      "unit_name": "यूरोप में राष्ट्रवाद का उदय",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 2,
+      "name": "भारत में राष्ट्रवाद",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 2,
+      "unit_name": "भारत में राष्ट्रवाद",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 3,
+      "name": "भूमंडलीकृत विश्व का बनना",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 3,
+      "unit_name": "भूमंडलीकृत विश्व का बनना",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 4,
+      "name": "औद्योगीकरण का युग",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 4,
+      "unit_name": "औद्योगीकरण का युग",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 5,
+      "name": "मुद्रण संस्कृति और आधुनिक दुनिया",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 5,
+      "unit_name": "मुद्रण संस्कृति और आधुनिक दुनिया",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 6,
+      "name": "संसाधन और विकास",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 6,
+      "unit_name": "संसाधन और विकास",
+      "part": "",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 7,
+      "name": "वन एवं वन्य जीवन संसाधन",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 7,
+      "unit_name": "वन एवं वन्य जीवन संसाधन",
+      "part": "",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 8,
+      "name": "जल संसाधन",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 8,
+      "unit_name": "जल संसाधन",
+      "part": "",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 9,
+      "name": "कृषि",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 9,
+      "unit_name": "कृषि",
+      "part": "",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 10,
+      "name": "खनिज तथा ऊर्जा संसाधन",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 10,
+      "unit_name": "खनिज तथा ऊर्जा संसाधन",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 11,
+      "name": "विनिर्माण उद्योग",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 11,
+      "unit_name": "विनिर्माण उद्योग",
+      "part": "",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 12,
+      "name": "राष्ट्रीय अर्थव्यवस्था की जीवन रेखाएँ",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 12,
+      "unit_name": "राष्ट्रीय अर्थव्यवस्था की जीवन रेखाएँ",
+      "part": "",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 13,
+      "name": "सत्ता की साझेदारी",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 13,
+      "unit_name": "सत्ता की साझेदारी",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 14,
+      "name": "संघवाद",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 14,
+      "unit_name": "संघवाद",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 15,
+      "name": "लोकतंत्र और विविधता / जाति, धर्म और लिंग",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 15,
+      "unit_name": "लोकतंत्र और विविधता / जाति, धर्म और लिंग",
+      "part": "",
+      "weightage_marks": 4,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 16,
+      "name": "राजनीतिक दल",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 16,
+      "unit_name": "राजनीतिक दल",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 17,
+      "name": "लोकतंत्र के परिणाम",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 17,
+      "unit_name": "लोकतंत्र के परिणाम",
+      "part": "",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 18,
+      "name": "विकास",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 18,
+      "unit_name": "विकास",
+      "part": "",
+      "weightage_marks": 3,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 19,
+      "name": "भारतीय अर्थव्यवस्था के क्षेत्रक",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 19,
+      "unit_name": "भारतीय अर्थव्यवस्था के क्षेत्रक",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 20,
+      "name": "मुद्रा और साख",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 20,
+      "unit_name": "मुद्रा और साख",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 21,
+      "name": "वैश्वीकरण और भारतीय अर्थव्यवस्था",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 21,
+      "unit_name": "वैश्वीकरण और भारतीय अर्थव्यवस्था",
+      "part": "",
+      "weightage_marks": 5,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": true,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": false,
+      "guaranteed_annual_question": true,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    },
+    {
+      "chapter_id": 22,
+      "name": "उपभोक्ता अधिकार",
+      "unit_or_chapter": "chapter",
+      "book": "NCERT Social Science Class 10",
+      "unit_id": 22,
+      "unit_name": "उपभोक्ता अधिकार",
+      "part": "",
+      "weightage_marks": 2,
+      "typical_breakdown": "",
+      "difficulty": "",
+      "difficulty_reason": "",
+      "is_must_not_skip": false,
+      "has_numerical": false,
+      "is_mostly_theory": true,
+      "is_mostly_derivation": false,
+      "is_mostly_diagram_based": false,
+      "is_mostly_objective": false,
+      "is_highest_weightage": false,
+      "is_least_weightage": true,
+      "guaranteed_annual_question": false,
+      "guaranteed_annual_topic": "",
+      "guaranteed_numerical": false,
+      "can_have_zero_questions": false,
+      "can_be_skipped": false,
+      "high_importance": false,
+      "always_in_long_answer": false,
+      "note": "",
+      "important_topics": [],
+      "easy_topics": [],
+      "important_derivations": [],
+      "important_diagrams": [],
+      "important_formulas": [],
+      "important_reactions": [],
+      "most_repeated_topics": [],
+      "previous_year_questions": [],
+      "frequently_asked": "",
+      "key_mcq_answers": [],
+      "key_fill_blanks": [],
+      "key_true_false": [],
+      "important_facts": []
+    }
+  ],
+  "chapter_facts": {
+    "note": "Social Science Class 10 — 22 units/chapters.",
+    "can_chapter_have_zero_questions": false,
+    "can_chapter_be_skipped": false,
+    "can_chapter_be_skipped_note": "",
+    "or_questions_note": "",
+    "or_questions_same_chapter": false,
+    "chapters_never_skip": [],
+    "chapters_never_skip_reason": "",
+    "chapters_with_highest_weightage": [],
+    "chapters_with_least_weightage": [
+      "संसाधन और विकास (3 marks)",
+      "वन एवं वन्य जीवन संसाधन (2 marks)",
+      "जल संसाधन (3 marks)",
+      "कृषि (3 marks)",
+      "विनिर्माण उद्योग (2 marks)",
+      "राष्ट्रीय अर्थव्यवस्था की जीवन रेखाएँ (3 marks)",
+      "लोकतंत्र के परिणाम (3 marks)",
+      "विकास (3 marks)",
+      "उपभोक्ता अधिकार (2 marks)"
+    ],
+    "chapters_guaranteed_annual_question": [],
+    "chapters_mostly_theory": [
+      "यूरोप में राष्ट्रवाद का उदय",
+      "भारत में राष्ट्रवाद",
+      "भूमंडलीकृत विश्व का बनना",
+      "औद्योगीकरण का युग",
+      "मुद्रण संस्कृति और आधुनिक दुनिया",
+      "संसाधन और विकास",
+      "वन एवं वन्य जीवन संसाधन",
+      "जल संसाधन",
+      "कृषि",
+      "खनिज तथा ऊर्जा संसाधन",
+      "विनिर्माण उद्योग",
+      "राष्ट्रीय अर्थव्यवस्था की जीवन रेखाएँ",
+      "सत्ता की साझेदारी",
+      "संघवाद",
+      "लोकतंत्र और विविधता / जाति, धर्म और लिंग",
+      "राजनीतिक दल",
+      "लोकतंत्र के परिणाम",
+      "विकास",
+      "भारतीय अर्थव्यवस्था के क्षेत्रक",
+      "मुद्रा और साख",
+      "वैश्वीकरण और भारतीय अर्थव्यवस्था",
+      "उपभोक्ता अधिकार"
+    ],
+    "chapters_mostly_diagram_based": [],
+    "chapters_mostly_derivation": [],
+    "chapters_mostly_objective": [],
+    "chapters_with_long_answer": [],
+    "chapters_no_long_answer_typically": [],
+    "chapters_always_in_long_answer": [],
+    "chapters_with_numerical": [],
+    "chapters_guaranteed_numerical": [],
+    "chapters_no_numerical": [
+      "यूरोप में राष्ट्रवाद का उदय",
+      "भारत में राष्ट्रवाद",
+      "भूमंडलीकृत विश्व का बनना",
+      "औद्योगीकरण का युग",
+      "मुद्रण संस्कृति और आधुनिक दुनिया",
+      "संसाधन और विकास",
+      "वन एवं वन्य जीवन संसाधन",
+      "जल संसाधन",
+      "कृषि",
+      "खनिज तथा ऊर्जा संसाधन",
+      "विनिर्माण उद्योग",
+      "राष्ट्रीय अर्थव्यवस्था की जीवन रेखाएँ",
+      "सत्ता की साझेदारी",
+      "संघवाद",
+      "लोकतंत्र और विविधता / जाति, धर्म और लिंग",
+      "राजनीतिक दल",
+      "लोकतंत्र के परिणाम",
+      "विकास",
+      "भारतीय अर्थव्यवस्था के क्षेत्रक",
+      "मुद्रा और साख",
+      "वैश्वीकरण और भारतीय अर्थव्यवस्था",
+      "उपभोक्ता अधिकार"
+    ],
+    "most_optional_from_chapters": [],
+    "topics_repeat_every_year": [],
+    "one_mark_question_facts": {
+      "note": "",
+      "common_formats": []
+    },
+    "topic_importance_ranking": {
+      "rank_1_highest_5_marks": [
+        {
+          "topic": "राजनीतिक दल (नागरिकशास्त्र)",
+          "marks": 5,
+          "reason": "कार्य, आवश्यकता, चुनौतियाँ — हर साल दोहराया"
+        },
+        {
+          "topic": "भारतीय अर्थव्यवस्था के क्षेत्रक (अर्थशास्त्र)",
+          "marks": 5,
+          "reason": "तीन क्षेत्र, GDP गणना, संगठित/असंगठित"
+        },
+        {
+          "topic": "मुद्रा और साख (अर्थशास्त्र)",
+          "marks": 5,
+          "reason": "RBI, SHG, औपचारिक/अनौपचारिक साख, बैंक ऋण"
+        },
+        {
+          "topic": "वैश्वीकरण (अर्थशास्त्र)",
+          "marks": 5,
+          "reason": "MNC, WTO, व्यापार अवरोध, विदेशी निवेश"
+        }
+      ],
+      "rank_2_high_4_marks": [
+        {
+          "topic": "भारत में राष्ट्रवाद (इतिहास)",
+          "marks": 4,
+          "reason": "आंदोलन निबंध हर साल — CDM, NCM, QIM"
+        },
+        {
+          "topic": "यूरोप में राष्ट्रवाद का उदय (इतिहास)",
+          "marks": 4,
+          "reason": "MCQ + लघु + इटली/जर्मनी/नेपोलियन पर निबंध"
+        },
+        {
+          "topic": "भूमंडलीकृत विश्व का बनना (इतिहास)",
+          "marks": 4,
+          "reason": "ब्रेटन वुड्स, महामंदी, WWI परिणाम"
+        },
+        {
+          "topic": "औद्योगीकरण का युग (इतिहास)",
+          "marks": 4,
+          "reason": "मजदूर + आविष्कार + कपास मिलें"
+        },
+        {
+          "topic": "मुद्रण संस्कृति (इतिहास)",
+          "marks": 4,
+          "reason": "गूटेनबर्ग, सुलेखन, सुधारक — MCQ हर साल"
+        },
+        {
+          "topic": "खनिज तथा ऊर्जा संसाधन (भूगोल)",
+          "marks": 4,
+          "reason": "MCQ + मानचित्र कार्य"
+        },
+        {
+          "topic": "सत्ता की साझेदारी (नागरिकशास्त्र)",
+          "marks": 4,
+          "reason": "बेल्जियम-श्रीलंका तुलना — हर साल"
+        },
+        {
+          "topic": "संघवाद (नागरिकशास्त्र)",
+          "marks": 4,
+          "reason": "तीन सूचियाँ + संघीय व्यवस्था पर निबंध"
+        },
+        {
+          "topic": "जाति, धर्म और लिंग (नागरिकशास्त्र)",
+          "marks": 4,
+          "reason": "नारीवादी, पितृसत्तात्मक, धर्मनिरपेक्षता निबंध"
+        }
+      ],
+      "rank_3_medium_3_marks": [
+        "संसाधन और विकास (भूगोल)",
+        "जल संसाधन (भूगोल)",
+        "कृषि (भूगोल)",
+        "राष्ट्रीय अर्थव्यवस्था की जीवन रेखाएँ (भूगोल)",
+        "लोकतंत्र के परिणाम (नागरिकशास्त्र)",
+        "विकास (अर्थशास्त्र)"
+      ],
+      "rank_4_lower_2_marks": [
+        "वन एवं वन्य जीवन संसाधन (भूगोल)",
+        "विनिर्माण उद्योग (भूगोल)",
+        "उपभोक्ता अधिकार (अर्थशास्त्र)"
+      ]
+    },
+    "map_work_analysis": {
+      "note": "अंतिम प्रश्न हमेशा मानचित्र कार्य का होता है — 4 अंक। बहुत आसान स्कोरिंग अवसर!",
+      "map_topics_asked": [
+        {
+          "topic": "लौह अयस्क खदानें",
+          "locations": "कुद्रेमुख, रत्नागिरी, चित्रदुर्ग, गोआ / बल्लारी, चिकमगलूर, बैलाडीला, मयूरभंज"
+        },
+        {
+          "topic": "ताप विद्युत संयंत्र",
+          "locations": "नासिक, विजयवाड़ा, बरौनी, बोंगाईगाँव / गांधीनगर, रामागुंडम, अमरकंटक, नामरूप"
+        },
+        {
+          "topic": "ऊनी वस्त्र केंद्र + समुद्री बंदरगाह",
+          "locations": "लुधियाना, जामनगर + मर्मागाव, कोच्चि / अमृतसर, अहमदाबाद + तूतीकोरिन, हल्दिया"
+        }
+      ],
+      "map_topics_likely_2026": [
+        "परमाणु ऊर्जा संयंत्र (तारापुर, कलपक्कम, नरौरा, रावतभाटा)",
+        "प्रमुख बंदरगाह (मुंबई, चेन्नई, विशाखापट्टनम, कांडला)",
+        "कोयला खदानें (झरिया, रानीगंज, सिंगरौली)",
+        "कपास वस्त्र केंद्र (मुंबई, अहमदाबाद, सूरत)",
+        "लौह अयस्क खदानें (अलग सेट)"
+      ],
+      "map_tip": "4 स्थान × 1 अंक प्रत्येक। स्पष्ट बिंदु + स्थान के पास नाम। खाली भारत मानचित्र पर अभ्यास करो!"
+    },
+    "repeated_topics_priority": [
+      {
+        "topic": "RBI करेंसी नोट जारी करता है — MCQ/अति लघु",
+        "section": "MCQ",
+        "priority": 1
+      },
+      {
+        "topic": "बेल्जियम सामुदायिक सरकार — MCQ",
+        "section": "MCQ",
+        "priority": 1
+      },
+      {
+        "topic": "भारत में राष्ट्रवाद — निबंध (आंदोलन)",
+        "section": "निबंध",
+        "priority": 1
+      },
+      {
+        "topic": "राजनीतिक दल — कार्य/आवश्यकता/चुनौतियाँ",
+        "section": "दीर्घ/लघु",
+        "priority": 1
+      },
+      {
+        "topic": "मानचित्र कार्य — खनिज/ऊर्जा/उद्योग",
+        "section": "मानचित्र (4 अंक)",
+        "priority": 1
+      },
+      {
+        "topic": "संघवाद — सूचियाँ (संघ/राज्य/समवर्ती)",
+        "section": "MCQ/लघु/निबंध",
+        "priority": 1
+      },
+      {
+        "topic": "भारतीय लोककथाओं से राष्ट्रवाद — OR निबंध",
+        "section": "निबंध OR",
+        "priority": 1
+      },
+      {
+        "topic": "उपभोक्ता संरक्षण अधिनियम — MCQ/रिक्त स्थान",
+        "section": "MCQ/रिक्त स्थान",
+        "priority": 1
+      },
+      {
+        "topic": "अर्थव्यवस्था के क्षेत्रक — तीन क्षेत्र + असंगठित",
+        "section": "MCQ/लघु/दीर्घ",
+        "priority": 1
+      },
+      {
+        "topic": "जलोढ़ मृदा / मृदा निर्माण",
+        "section": "लघु",
+        "priority": 2
+      },
+      {
+        "topic": "सिंचाई ने फसल पद्धति बदली",
+        "section": "लघु",
+        "priority": 2
+      },
+      {
+        "topic": "लोकतंत्र — जवाबदेह/उत्तरदायी/वैध",
+        "section": "लघु/अति लघु",
+        "priority": 2
+      },
+      {
+        "topic": "सुलेखन / गूटेनबर्ग / मुद्रण संस्कृति नाम",
+        "section": "रिक्त स्थान/अति लघु",
+        "priority": 2
+      },
+      {
+        "topic": "SHG + बैंक ऋण गतिविधियाँ — मुद्रा और साख",
+        "section": "दीर्घ/निबंध",
+        "priority": 2
+      }
+    ],
+    "chapter_wise_pyq_analysis": {
+      "HISTORY": {
+        "ch1_nationalism_europe": {
+          "syllabus_marks_2026": 4,
+          "importance": "मध्यम — अधिकांश MCQ/रिक्त स्थान, निबंध कम",
+          "mcq_asked": [
+            {
+              "q": "1871 में किस देश के सम्राट घोषित हुए किंग विलियम I?",
+              "ans": "C) जर्मनी"
+            },
+            {
+              "q": "ज्यूसेपे माज्जिनी किस देश के प्रसिद्ध क्रांतिकारी थे?",
+              "ans": "C) इटली"
+            }
+          ],
+          "fill_blank_asked": [
+            {
+              "q": "1848 में एक फ्रांसीसी चित्रकार ___ ने चार चित्रों की श्रृंखला तैयार की",
+              "ans": "फ्रेडरिक सोरियो"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "वियना संधि की कोई दो विशेषताएं बताइए",
+              "marks": 2
+            },
+            {
+              "q": "जर्मेनिया और मेरियाँ रूपक की तुलना",
+              "marks": 2
+            }
+          ],
+          "long_essay_asked": [
+            {
+              "q": "इटली के एकीकरण का संक्षिप्त वर्णन करो",
+              "marks": 3
+            },
+            {
+              "q": "नेपोलियन संहिता का संक्षिप्त वर्णन करो",
+              "marks": 3
+            },
+            {
+              "q": "अथवा: उदारवादी राष्ट्रवाद किस चीज का प्रतिनिधित्व करता था? समझाइए।",
+              "marks": 3
+            }
+          ],
+          "key_facts": {
+            "German_unification": "ऑटो वॉन बिस्मार्क ने नेतृत्व किया। विलियम I को वर्सेल्स में सम्राट घोषित किया।",
+            "Italian_unification": "माज्जिनी (यंग इटली), गैरिबाल्डी (दो सिसिलियों की सेना), कावूर (कूटनीति)",
+            "Treaty_of_Vienna": "रूढ़िवादी व्यवस्था बहाल, बॉर्बन राजवंश फ्रांस में वापस, शक्ति संतुलन",
+            "Napoleon_Code": "कानून के समक्ष समानता, सामंतवाद का उन्मूलन, संपत्ति अधिकार, समान कानून",
+            "Germania": "जर्मनी का स्त्री रूपक — बलूत के पत्ते (वीरता), टूटी जंजीरें",
+            "Marianne": "फ्रांस का स्त्री रूपक — स्वतंत्रता टोपी, तिरंगा",
+            "Liberal_nationalism": "प्रेस की स्वतंत्रता, संविधान, समान अधिकार, राष्ट्र-राज्य",
+            "Zollverein": "जर्मन सीमा शुल्क संघ — राजनीतिक एकता से पहले आर्थिक एकता",
+            "Spring_of_Nations": "फ्रैंकफर्ट संसद बनी लेकिन विफल"
+          }
+        },
+        "ch2_nationalism_india": {
+          "syllabus_marks_2026": 4,
+          "importance": "अत्यंत उच्च — निबंध/दीर्घ प्रश्न हर साल। सबसे अधिक दोहराया जाने वाला अध्याय।",
+          "mcq_asked": [
+            {
+              "q": "जलियाँवाला बाग हत्याकांड कब हुआ?",
+              "ans": "C) 13 अप्रैल 1919"
+            },
+            {
+              "q": "गांधी जी किस गोलमेज सम्मेलन में भाग लिए?",
+              "ans": "B) दूसरे"
+            }
+          ],
+          "fill_blank_asked": [
+            {
+              "q": "श्रीलंका ___ में स्वतंत्र राष्ट्र बना",
+              "ans": "1948"
+            }
+          ],
+          "long_essay_asked": [
+            {
+              "q": "सविनय अवज्ञा आंदोलन का विस्तार से वर्णन करो",
+              "marks": 4
+            },
+            {
+              "q": "अथवा: भारतीय लोककथाओं को पुनर्जीवित करके भी राष्ट्रवाद विकसित हुआ — तर्क",
+              "marks": 4,
+              "priority": "उच्च — कई बार दोहराया"
+            },
+            {
+              "q": "भारत छोड़ो आंदोलन का विस्तार से वर्णन करो",
+              "marks": 4
+            },
+            {
+              "q": "अथवा: असहयोग आंदोलन शहरों में कैसे फैला?",
+              "marks": 4
+            },
+            {
+              "q": "असहयोग आंदोलन से पहले की घटनाओं की व्याख्या करो",
+              "marks": 4
+            }
+          ],
+          "key_facts": {
+            "Jallianwala_Bagh": "13 अप्रैल 1919 — जनरल डायर, अमृतसर। रौलेट एक्ट विरोध।",
+            "Non_Cooperation": "गांधी ने शुरू किया। न्यायालय, स्कूल, विदेशी वस्त्र बहिष्कार। चौरी-चौरा — रद्द किया।",
+            "Civil_Disobedience": "नमक मार्च (दांडी, 12 मार्च 1930)। गांधी-इरविन समझौता। दूसरी गोलमेज।",
+            "Quit_India": "अगस्त 1942। 'करो या मरो।' सामूहिक गिरफ्तारियाँ। भूमिगत आंदोलन।",
+            "Simon_Commission": "पूरी तरह ब्रिटिश सदस्य। भारतीय बहिष्कार 'साइमन वापस जाओ'।",
+            "Round_Tables": "पहली — गांधी के बिना। दूसरी — गांधी उपस्थित। तीसरी — कांग्रेस अनुपस्थित।",
+            "Khilafat": "अली बंधु, ऑटोमान खलीफा का समर्थन। गांधी ने हिंदू-मुसलमान एकता के लिए उपयोग किया।",
+            "Folklore_nationalism": "अबनींद्रनाथ टैगोर ने भारत माता चित्र बनाया। बंकिमचंद्र — वंदे मातरम। रबींद्रनाथ — लोकगीत पुनरुद्धार।"
+          }
+        },
+        "ch3_global_world": {
+          "syllabus_marks_2026": 4,
+          "importance": "उच्च — MCQ/रिक्त स्थान + लघु/दीर्घ",
+          "mcq_asked": [
+            {
+              "q": "प्रसिद्ध स्थान ब्रेटन वुड्स किस देश में है?",
+              "ans": "A) अमेरिका"
+            },
+            {
+              "q": "नए युग का पहला प्रतीक क्या कहलाया?",
+              "ans": "A) ऊन"
+            },
+            {
+              "q": "बंगाल में पहली जूट मिल — किस वर्ष?",
+              "ans": "C) 1862"
+            }
+          ],
+          "fill_blank_asked": [
+            {
+              "q": "प्रथम विश्व युद्ध मुख्यतः ___ महाद्वीप में लड़ा गया",
+              "ans": "यूरोप"
+            },
+            {
+              "q": "1890 के दशक में अफ्रीका में फैली बीमारी ___",
+              "ans": "रिंडरपेस्ट (मवेशी प्लेग)"
+            },
+            {
+              "q": "मशीन युग से पहले, भारत का ___ और रेशम अंतर्राष्ट्रीय वस्त्र बाजार पर हावी थे",
+              "ans": "कपास"
+            }
+          ],
+          "very_short_asked": [
+            {
+              "q": "किस देश के गृह युद्ध ने 1860 के दशक में भारत से कपास निर्यात बढ़ाया?",
+              "ans": "अमेरिका (USA)"
+            },
+            {
+              "q": "अंतर्राष्ट्रीय पुनर्निर्माण और विकास बैंक — दूसरा नाम?",
+              "ans": "विश्व बैंक"
+            },
+            {
+              "q": "ब्रेटन वुड्स सम्मेलन किस देश में हुआ?",
+              "ans": "अमेरिका (USA)"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "प्रथम विश्व युद्ध के दो परिणाम",
+              "marks": 2
+            },
+            {
+              "q": "1929 की महामंदी के दो कारण",
+              "marks": 2
+            }
+          ],
+          "long_asked": [
+            {
+              "q": "विदेश व्यापार बाजारों के एकीकरण में मदद करता है — तीन तर्क",
+              "marks": 3
+            }
+          ],
+          "key_facts": {
+            "Bretton_Woods": "USA। IMF और विश्व बैंक की स्थापना। स्थिर विनिमय दरें।",
+            "Great_Depression": "1929। अतिउत्पादन, शेयर बाजार दुर्घटना, बैंक विफलता, बेरोजगारी।",
+            "WWI_results": "ऑटोमान, हैप्सबर्ग साम्राज्य समाप्त। नए राष्ट्र। राष्ट्र संघ।",
+            "Rinderpest": "मवेशी प्लेग अफ्रीका — अफ्रीकी आजीविका नष्ट, उपनिवेशवाद सक्षम हुआ",
+            "American_civil_war": "कपास आपूर्ति बाधित → भारत से कपास निर्यात बढ़ा",
+            "Corn_Laws_abolished": "UK — सस्ते खाद्य आयात की अनुमति"
+          }
+        },
+        "ch4_industrialization": {
+          "syllabus_marks_2026": 4,
+          "importance": "उच्च — लघु + दीर्घ में आता है",
+          "mcq_asked": [
+            {
+              "q": "कच्चे जूट और जूट उत्पादों का सबसे बड़ा उत्पादक?",
+              "ans": "A) भारत"
+            },
+            {
+              "q": "बंबई में पहली कपास मिल — किस वर्ष?",
+              "ans": "B) 1854"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "बाजार में श्रम की अधिकता से मजदूरों का जीवन कैसे प्रभावित हुआ?",
+              "marks": 2,
+              "priority": "उच्च — दोहराया जाने वाला प्रश्न"
+            },
+            {
+              "q": "औद्योगीकरण क्या है?",
+              "marks": 2
+            },
+            {
+              "q": "18वीं शताब्दी के आविष्कारों का उत्पादन प्रक्रिया पर प्रभाव",
+              "marks": 3
+            }
+          ],
+          "key_facts": {
+            "first_cotton_mill_Bombay": "1854 — कोवासजी डावर",
+            "first_jute_mill_Bengal": "1862",
+            "labour_abundance": "कम वेतन, मौसमी काम, नौकरी सुरक्षा नहीं, खराब जीवन स्थितियाँ",
+            "18th_century_inventions": "स्पिनिंग जेनी, भाप इंजन (वाट), पावर लूम — बड़े पैमाने पर उत्पादन",
+            "putting_out_system": "व्यापारी ग्रामीण कारीगरों को कच्चा माल देते थे — प्रोटो-औद्योगीकरण",
+            "India_jute": "कच्चे जूट का सबसे बड़ा उत्पादक और निर्यातक"
+          }
+        },
+        "ch5_print_culture": {
+          "syllabus_marks_2026": 4,
+          "importance": "मध्यम — MCQ, रिक्त स्थान, लघु उत्तर",
+          "mcq_asked": [
+            {
+              "q": "भारत में पहला प्रिंटिंग प्रेस — कहाँ?",
+              "ans": "D) गोआ"
+            },
+            {
+              "q": "रामचरितमानस किसने लिखी?",
+              "ans": "D) तुलसीदास"
+            },
+            {
+              "q": "'वेलम' शब्द का अर्थ?",
+              "ans": "B) चर्मपत्र"
+            }
+          ],
+          "fill_blank_asked": [
+            {
+              "q": "सुंदर लिखाई की कला ___ कहलाती है",
+              "ans": "सुलेखन (Calligraphy)"
+            }
+          ],
+          "very_short_asked": [
+            {
+              "q": "योहान गूटेनबर्ग द्वारा आविष्कृत मशीन?",
+              "ans": "मुद्रण यंत्र (Printing Press)"
+            },
+            {
+              "q": "सुलेखन क्या है?",
+              "ans": "सुंदर हस्तलेखन की कला"
+            },
+            {
+              "q": "किस सुधारक ने रोमन कैथोलिक चर्च की आलोचना करते हुए 95 थीसिस लिखीं?",
+              "ans": "मार्टिन लूथर"
+            },
+            {
+              "q": "'आमार जीबन' आत्मकथा किस भाषा में लिखी राशसुंदरी देवी ने?",
+              "ans": "बांग्ला"
+            },
+            {
+              "q": "'गुलामगिरी' पुस्तक किसने लिखी?",
+              "ans": "ज्योतिबा फुले"
+            }
+          ],
+          "key_facts": {
+            "Gutenberg_press": "जर्मनी। पहली बाइबिल मुद्रित की।",
+            "first_press_India": "गोआ — पुर्तगाली मिशनरी",
+            "Calligraphy": "सुंदर हस्तलेखन — चीनी पांडुलिपियाँ",
+            "Martin_Luther": "95 थीसिस — प्रोटेस्टेंट सुधार। मुद्रण ने उनके विचार फैलाए।",
+            "Rashsundari_Debi": "बांग्ला में पहली ज्ञात आत्मकथा — 'आमार जीबन'",
+            "Vernacular_Press_Act": "भारतीय भाषा समाचार पत्रों को नियंत्रित किया",
+            "Vellum": "पशु की खाल से बना महीन चर्मपत्र",
+            "Jyotiba_Phule": "'गुलामगिरी' लिखी — जाति उत्पीड़न पर"
+          }
+        }
+      },
+      "GEOGRAPHY": {
+        "ch6_resources_development": {
+          "syllabus_marks_2026": 3,
+          "importance": "मध्यम — लघु + दीर्घ",
+          "short_asked": [
+            {
+              "q": "नवीकरणीय और अनवीकरणीय संसाधन परिभाषित करो",
+              "marks": 2
+            },
+            {
+              "q": "मृदा निर्माण की प्रक्रिया वर्णित करो",
+              "marks": 2
+            },
+            {
+              "q": "जलोढ़ मृदा के रासायनिक गुण और घटक पहचानिए",
+              "marks": 2
+            }
+          ],
+          "long_asked": [
+            {
+              "q": "यदि आपको संसाधन नियोजन करना हो तो कौन से चरण उपयोग करेंगे?",
+              "marks": 3
+            }
+          ],
+          "key_facts": {
+            "renewable": "सूर्यप्रकाश, जल, पवन — प्राकृतिक रूप से पुनः उत्पन्न",
+            "non_renewable": "कोयला, पेट्रोलियम — लाखों वर्ष लगते हैं",
+            "soil_formation": "मूल चट्टान का अपक्षय + जैव पदार्थ + जलवायु + भू-आकृति + समय",
+            "alluvial_soil": "खादर (नई) + बांगर (पुरानी)। उपजाऊ। सिंधु-गंगा मैदान। पोटाश, फॉस्फोरिक अम्ल।",
+            "resource_planning_steps": "पहचान → सूची-निर्माण → उपयोग की योजना",
+            "black_soil": "रेगुर/कपास मृदा। महाराष्ट्र। नमी रोकती है। स्वयं जुताई।"
+          }
+        },
+        "ch7_forest_wildlife": {
+          "syllabus_marks_2026": 2,
+          "importance": "निम्न-मध्यम — केवल लघु उत्तर",
+          "mcq_asked": [
+            {
+              "q": "भारत में विश्व की जैव विविधता का लगभग कितना % है?",
+              "ans": "D) 10%"
+            },
+            {
+              "q": "पौधों को पहली बार संरक्षित प्रजाति सूची में कब शामिल किया?",
+              "ans": "C) 1993"
+            }
+          ],
+          "very_short_asked": [
+            {
+              "q": "जैव विविधता क्या है?",
+              "ans": "किसी क्षेत्र में जीवित जीवों की विविधता"
+            },
+            {
+              "q": "जल प्रदूषण के मुख्य कारण (कोई दो)",
+              "ans": "औद्योगिक बहिःस्राव, सीवेज, कृषि अपवाह"
+            },
+            {
+              "q": "अपने क्षेत्र में चिपको आंदोलन लागू करो",
+              "ans": "पेड़ों से लिपटो, जागरूकता बढ़ाओ, पेड़ लगाओ"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "संकटापन्न वन्यजीव प्रजातियों पर टिप्पणी लिखो",
+              "marks": 2
+            }
+          ],
+          "key_facts": {
+            "biodiversity_India": "भारत में विश्व की 10% जैव विविधता",
+            "vulnerable_species": "संकट की ओर अग्रसर — नीली भेड़, एशियाई हाथी",
+            "Chipko_Movement": "उत्तराखंड — सुंदरलाल बहुगुणा। महिलाओं ने पेड़ों को गले लगाया।",
+            "Project_Tiger": "बाघों की रक्षा",
+            "Biosphere_reserve": "बड़ा संरक्षित क्षेत्र — मूल, बफर, संक्रमण क्षेत्र"
+          }
+        },
+        "ch8_water_resources": {
+          "syllabus_marks_2026": 3,
+          "importance": "मध्यम — लघु + रिक्त स्थान",
+          "fill_blank_asked": [
+            {
+              "q": "खडीन (जल संचयन) राजस्थान के ___ जिले में",
+              "ans": "जैसलमेर"
+            },
+            {
+              "q": "हीराकुड बाँध ___ नदी पर स्थित है",
+              "ans": "महानदी"
+            },
+            {
+              "q": "भूदान आंदोलन ___ द्वारा शुरू किया गया",
+              "ans": "विनोबा भावे"
+            }
+          ],
+          "very_short_asked": [
+            {
+              "q": "सिंचाई ने फसल पद्धति कैसे बदली? संक्षेप में।",
+              "ans": "एकाधिक फसलें संभव, HYV बीज व्यवहार्य, व्यावसायिक खेती बढ़ी"
+            },
+            {
+              "q": "नर्मदा नदी पर बाँध?",
+              "ans": "सरदार सरोवर बाँध"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "'जल संसाधनों का संरक्षण और प्रबंधन समय की जरूरत है' — समझाइए",
+              "marks": 2
+            },
+            {
+              "q": "सिंचाई ने फसल पद्धति, मृदा और सामाजिक परिदृश्य कैसे बदले?",
+              "marks": 2
+            }
+          ],
+          "key_facts": {
+            "Sardar_Sarovar": "नर्मदा नदी पर, गुजरात",
+            "Hirakud": "महानदी पर, ओडिशा — विश्व का सबसे लंबा मिट्टी का बाँध",
+            "Khadins": "प्राचीन जल संचयन — राजस्थान (जैसलमेर)",
+            "Bamboo_drip": "मेघालय — पारंपरिक वर्षा जल संचयन",
+            "multipurpose_dams": "सिंचाई + शक्ति + बाढ़ नियंत्रण + नौवहन + मनोरंजन",
+            "rainwater_harvesting": "टंका, चेक बाँध, बावड़ी — मानसून जल संग्रह"
+          }
+        },
+        "ch9_agriculture": {
+          "syllabus_marks_2026": 3,
+          "importance": "मध्यम-उच्च — MCQ + लघु + दीर्घ",
+          "mcq_asked": [
+            {
+              "q": "कृषि वर्ष में एक से अधिक बार बोया गया क्षेत्र?",
+              "ans": "A) सकल फसली क्षेत्र"
+            },
+            {
+              "q": "आंध्र प्रदेश में झूम कृषि को क्या कहते हैं?",
+              "ans": "B) पोडू"
+            }
+          ],
+          "very_short_asked": [
+            {
+              "q": "अधिक जनसंख्या दबाव वाले क्षेत्रों में खेती?",
+              "ans": "गहन निर्वाह कृषि"
+            },
+            {
+              "q": "झूम कृषि क्या है?",
+              "ans": "जुमिंग/स्थानांतरण खेती — जंगल साफ, जलाओ, खेती करो, आगे बढ़ो"
+            },
+            {
+              "q": "रबी फसलों का विश्लेषण करो",
+              "ans": "शीतकालीन फसलें — अक्टूबर-नवंबर बोई, मार्च-अप्रैल काटी। गेहूँ, सरसों, चना"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "'झूम और जलाओ' कृषि क्या है?",
+              "marks": 2
+            },
+            {
+              "q": "सिंचाई ने फसल पद्धति कैसे बदली?",
+              "marks": 2
+            }
+          ],
+          "long_asked": [
+            {
+              "q": "भारत में कृषि विकास के तकनीकी और संस्थागत सुधारों का वर्णन करो",
+              "marks": 3
+            },
+            {
+              "q": "अथवा: भारत में फसल पद्धति का वर्णन करो",
+              "marks": 3
+            }
+          ],
+          "key_facts": {
+            "Jhumming": "झूम — उत्तर-पूर्व भारत। बेवर (MP), पोडू (AP), पामलौ (मणिपुर)",
+            "Kharif_crops": "जून-जुलाई बोई, सितंबर-अक्टूबर काटी। चावल, मक्का, कपास, जूट",
+            "Rabi_crops": "अक्टूबर-नवंबर बोई, मार्च-अप्रैल काटी। गेहूँ, सरसों, जौ",
+            "Zaid_crops": "ग्रीष्मकालीन — तरबूज, खरबूज, खीरा",
+            "Green_Revolution": "HYV बीज, उर्वरक, सिंचाई — पंजाब, हरियाणा, UP",
+            "Gross_Cropped_Area": "एक बार + एक से अधिक बार बोया कुल क्षेत्र"
+          }
+        },
+        "ch10_minerals_energy": {
+          "syllabus_marks_2026": 4,
+          "importance": "उच्च — MCQ + मानचित्र कार्य (लौह अयस्क खदानें हर साल!)",
+          "mcq_asked": [
+            {
+              "q": "भारत का दूसरा सबसे महत्वपूर्ण धातुकर्म उद्योग?",
+              "ans": "B) एल्युमीनियम गलाना"
+            },
+            {
+              "q": "चूना पत्थर, सिलिका, जिप्सम का उपयोग करने वाला उद्योग?",
+              "ans": "C) सीमेंट"
+            },
+            {
+              "q": "अधात्विक खनिज?",
+              "ans": "C) अभ्रक"
+            }
+          ],
+          "map_work_asked": [
+            {
+              "q": "लौह अयस्क खदानें चिह्नित करो: कुद्रेमुख, रत्नागिरी, चित्रदुर्ग, गोआ",
+              "marks": 4
+            },
+            {
+              "q": "अथवा: लौह अयस्क खदानें: बल्लारी, चिकमगलूर, बैलाडीला, मयूरभंज",
+              "marks": 4
+            },
+            {
+              "q": "ताप विद्युत संयंत्र चिह्नित करो: नासिक, विजयवाड़ा, बरौनी, बोंगाईगाँव",
+              "marks": 4
+            },
+            {
+              "q": "अथवा: ताप विद्युत संयंत्र: गांधीनगर, रामागुंडम, अमरकंटक, नामरूप",
+              "marks": 4
+            }
+          ],
+          "key_facts": {
+            "iron_ore_mines": "कुद्रेमुख, बैलाडीला (छत्तीसगढ़), मयूरभंज (ओडिशा), बेल्लारी-होसपेट (कर्नाटक)",
+            "thermal_power_plants": "नासिक, विजयवाड़ा, बरौनी, रामागुंडम, बोंगाईगाँव, गांधीनगर, नामरूप",
+            "Mica": "अधात्विक — झारखंड, राजस्थान, AP। विद्युत उद्योग में उपयोग।",
+            "Bauxite": "धात्विक — ओडिशा, गुजरात। एल्युमीनियम अयस्क।",
+            "Coal_fields": "दामोदर घाटी, झरिया, रानीगंज, बोकारो",
+            "petroleum": "मुंबई हाई (अपतटीय), डिगबोई (असम)",
+            "cement_raw_material": "चूना पत्थर + सिलिका + एल्युमीना + जिप्सम",
+            "aluminium": "लोहे के बाद दूसरा सबसे महत्वपूर्ण धातुकर्म उद्योग"
+          }
+        },
+        "ch11_manufacturing": {
+          "syllabus_marks_2026": 2,
+          "importance": "निम्न-मध्यम — अधिकांश मानचित्र कार्य",
+          "map_work_asked": [
+            {
+              "q": "ऊनी वस्त्र केंद्र: लुधियाना, जामनगर + समुद्री बंदरगाह: मर्मागाव, कोच्चि",
+              "marks": 4
+            },
+            {
+              "q": "अथवा: ऊनी केंद्र: अमृतसर, अहमदाबाद + बंदरगाह: तूतीकोरिन, हल्दिया",
+              "marks": 4
+            }
+          ],
+          "key_facts": {
+            "woolen_centers": "लुधियाना, अमृतसर (पंजाब), जामनगर, अहमदाबाद (गुजरात)",
+            "sea_ports": "मर्मागाव (गोआ), कोच्चि/कोचीन (केरल), तूतीकोरिन (तमिलनाडु), हल्दिया (WB)",
+            "cotton_mill_Bombay": "पहली कपास मिल 1854 — कोवासजी डावर",
+            "iron_steel_centers": "जमशेदपुर, भिलाई, दुर्गापुर, राउरकेला"
+          }
+        },
+        "ch12_lifeline_economy": {
+          "syllabus_marks_2026": 3,
+          "importance": "मध्यम — परिवहन + संचार MCQ/लघु",
+          "mcq_asked": [
+            {
+              "q": "वायु परिवहन का राष्ट्रीयकरण कब हुआ?",
+              "ans": "D) 1953"
+            },
+            {
+              "q": "दूरसंचार का सबसे आधुनिक माध्यम?",
+              "ans": "B) ई-मेल"
+            }
+          ],
+          "very_short_asked": [
+            {
+              "q": "दीनदयाल बंदरगाह किस राज्य में है?",
+              "ans": "गुजरात (कच्छ/कांडला)"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "रेल परिवहन की तुलना में सड़क परिवहन की बढ़ती महत्ता के दो कारण",
+              "marks": 2
+            },
+            {
+              "q": "जनसंचार के प्रासंगिक माध्यम क्या हैं?",
+              "marks": 2
+            },
+            {
+              "q": "ICT विकास के चार लाभ",
+              "marks": 2
+            }
+          ],
+          "key_facts": {
+            "air_nationalized": "1953 — एयर इंडिया + इंडियन एयरलाइंस",
+            "road_over_rail": "घर तक पहुँचाना, दूरदराज क्षेत्र, नाशवान सामान, लचीला मार्ग",
+            "Deendayal_port": "कांडला/दीनदयाल बंदरगाह — गुजरात। सबसे बड़ा माल बंदरगाह।",
+            "ICT_benefits": "वैश्विक पहुँच, तेज संचार, ई-कॉमर्स, टेलीमेडिसिन",
+            "Golden_Quadrilateral": "दिल्ली-मुंबई-चेन्नई-कोलकाता को जोड़ने वाला NH"
+          }
+        }
+      },
+      "CIVICS": {
+        "ch13_power_sharing": {
+          "syllabus_marks_2026": 4,
+          "importance": "अत्यंत उच्च — बेल्जियम-श्रीलंका तुलना हर साल",
+          "mcq_asked": [
+            {
+              "q": "सामुदायिक सरकार किस देश में दिखती है जब शक्ति सामाजिक समूहों में साझा हो?",
+              "ans": "C) बेल्जियम"
+            },
+            {
+              "q": "बेल्जियम की सीमा किस देश से मिलती है?",
+              "ans": "A) फ्रांस"
+            }
+          ],
+          "fill_blank_asked": [
+            {
+              "q": "बेल्जियम की राजधानी ___",
+              "ans": "ब्रसेल्स"
+            },
+            {
+              "q": "श्रीलंका — ___ को राजकीय धर्म के रूप में अपनाया",
+              "ans": "बौद्ध धर्म"
+            }
+          ],
+          "very_short_asked": [
+            {
+              "q": "सजातीय समाज वाले दो देशों के नाम",
+              "ans": "जर्मनी, जापान (या स्वीडन, नॉर्वे)"
+            },
+            {
+              "q": "सामाजिक विभाजन अधिकांश किस पर आधारित?",
+              "ans": "जन्म (जाति, धर्म, भाषा, नस्ल)"
+            },
+            {
+              "q": "श्रीलंका में आधिकारिक भाषा कौन सी घोषित हुई?",
+              "ans": "सिंहली (सिंहली मात्र अधिनियम)"
+            },
+            {
+              "q": "बेल्जियम से सीमा साझा करने वाला एक देश",
+              "ans": "फ्रांस / नीदरलैंड / जर्मनी / लक्जमबर्ग"
+            },
+            {
+              "q": "श्रीलंका के अधिकांश सिंहली भाषी लोग ___ धर्म के हैं",
+              "ans": "बौद्ध"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "श्रीलंका सरकार की दो नीतियाँ जिन्होंने सिंहली-तमिल संबंध तनावपूर्ण किए",
+              "marks": 2
+            }
+          ],
+          "key_facts": {
+            "Belgium": "50% डच (फ्लेमिश), 40% फ्रांसीसी (वालोनिया), 10% जर्मन। सामुदायिक सरकार।",
+            "Sri_Lanka": "74% सिंहली (बौद्ध), 18% तमिल (हिंदू/ईसाई)। सिंहली मात्र अधिनियम।",
+            "Community_Government": "बेल्जियम — भाषा समुदाय द्वारा निर्वाचित, शिक्षा/संस्कृति/भाषा नियंत्रित",
+            "majoritarianism": "श्रीलंका — सिंहली, बौद्ध थोपा → गृह युद्ध",
+            "power_sharing_types": "क्षैतिज (3 अंग), ऊर्ध्वाधर (केंद्र-राज्य), सामाजिक समूहों में, राजनीतिक दलों में",
+            "Brussels": "बेल्जियम की राजधानी, द्विभाषी नगर",
+            "Belgium_vs_Sri_Lanka": "बेल्जियम — समझौता → शांति। श्रीलंका — बहुसंख्यकवाद → संघर्ष।"
+          }
+        },
+        "ch14_federalism": {
+          "syllabus_marks_2026": 4,
+          "importance": "अत्यंत उच्च — निबंध प्रश्न हर साल",
+          "mcq_asked": [
+            {
+              "q": "भारतीय संविधान में कंप्यूटर सॉफ्टवेयर किस सूची में?",
+              "ans": "C) समवर्ती सूची"
+            },
+            {
+              "q": "'पुलिस' किस सूची में आती है?",
+              "ans": "B) राज्य सूची"
+            }
+          ],
+          "very_short_asked": [
+            {
+              "q": "भारत में भूगोल, संस्कृति या नृजातीयता के आधार पर राज्य गठन — एक उदाहरण",
+              "ans": "नागालैंड (नृजातीयता), तेलंगाना (भाषा)"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "संघीय सरकार की दो मुख्य विशेषताएं",
+              "marks": 2
+            },
+            {
+              "q": "स्थानीय निकायों को मजबूत करने के लिए संवैधानिक संशोधन के दो प्रावधान",
+              "marks": 2
+            }
+          ],
+          "long_essay_asked": [
+            {
+              "q": "संघवाद का अर्थ और गठन की विधियाँ उदाहरण सहित वर्णन करो",
+              "marks": 4
+            },
+            {
+              "q": "अथवा: भारत में संघीय प्रणाली के विभिन्न स्तर समझाइए, शक्ति वितरण सूचियों पर चर्चा करो",
+              "marks": 4
+            }
+          ],
+          "key_facts": {
+            "federalism_definition": "दो या अधिक स्तरों की सरकार। संविधान द्वारा शक्तियों का विभाजन।",
+            "Union_List": "97 विषय — रक्षा, विदेश मामले, मुद्रा, रेलवे, परमाणु ऊर्जा",
+            "State_List": "66 विषय — पुलिस, कृषि, सार्वजनिक स्वास्थ्य, व्यापार, सिंचाई",
+            "Concurrent_List": "47 विषय — शिक्षा, वन, विवाह, दिवालियापन, कंप्यूटर सॉफ्टवेयर",
+            "Residuary": "किसी सूची में नहीं — संसद निर्णय लेती है (जैसे इंटरनेट)",
+            "federation_types": "एकत्रित होना (USA, ऑस्ट्रेलिया) बनाम एकसाथ बने रहना (भारत, स्पेन, बेल्जियम)",
+            "73rd_74th_amendment": "ग्राम पंचायत, नगर निगम, महिलाओं के लिए 1/3 आरक्षण",
+            "decentralization": "पंचायती राज संस्थाओं को शक्ति"
+          }
+        },
+        "ch15_gender_religion_caste": {
+          "syllabus_marks_2026": 4,
+          "importance": "उच्च — निबंध हर साल",
+          "mcq_asked": [
+            {
+              "q": "स्त्री-पुरुष को समान अधिकार देने वाली विचारधारा?",
+              "ans": "B) नारीवादी"
+            },
+            {
+              "q": "जाति को समुदाय का मुख्य आधार मानने वाला व्यक्ति?",
+              "ans": "B) जातिवादी"
+            },
+            {
+              "q": "भारत में सबसे अधिक बोली जाने वाली भाषा?",
+              "ans": "C) हिंदी"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "भारत की राजनीति में महिला प्रतिनिधित्व की स्थिति",
+              "marks": 3
+            },
+            {
+              "q": "भारत में महिलाओं के विरुद्ध भेदभाव के दो रूप",
+              "marks": 2
+            }
+          ],
+          "long_essay_asked": [
+            {
+              "q": "भारतीय समाज में पितृसत्ता — जहाँ महिलाओं को भेदभाव का सामना — चर्चा करो",
+              "marks": 4
+            },
+            {
+              "q": "अथवा: भारतीय संविधान-निर्माताओं ने धर्मनिरपेक्ष शासन मॉडल चुना — समझाइए",
+              "marks": 4
+            }
+          ],
+          "key_facts": {
+            "feminist": "समान अधिकार की विचारधारा — महिलाओं के लिए राजनीतिक, सामाजिक, आर्थिक समानता",
+            "castiest": "जाति को समुदाय का आधार मानने वाला",
+            "women_in_politics": "73वें संशोधन के बाद स्थानीय निकायों में 33%। संसद में बहुत कम (~15%)।",
+            "secularism_India": "कोई राजकीय धर्म नहीं। सभी धर्मों का समान सम्मान। अनुच्छेद 14, 25, 26।",
+            "communalism": "धर्म राजनीतिक विचारधारा का आधार — लोकतंत्र के लिए खतरनाक",
+            "patriarchal": "पुरुष प्रधान — पुत्र वरीयता, घरेलू हिंसा, कम वेतन, कम शिक्षा",
+            "gender_division": "श्रम का यौन विभाजन — महिलाएं अवैतनिक घरेलू काम करती हैं"
+          }
+        },
+        "ch16_political_parties": {
+          "syllabus_marks_2026": 5,
+          "importance": "अत्यंत उच्च — सर्वाधिक नागरिकशास्त्र अंक, हर साल",
+          "mcq_asked": [
+            {
+              "q": "सात दल गठबंधन किस देश से जुड़ा?",
+              "ans": "B) नेपाल"
+            },
+            {
+              "q": "राष्ट्रीय जनतांत्रिक गठबंधन में पार्टी?",
+              "ans": "A) भारतीय जनता पार्टी"
+            },
+            {
+              "q": "राजनीतिक दलों को मान्यता कौन देता है?",
+              "ans": "C) निर्वाचन आयोग"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "राजनीतिक दल के दो कार्य",
+              "marks": 2
+            },
+            {
+              "q": "वंशवाद राजनीतिक दलों के समक्ष बड़ी चुनौती — राय समझाओ",
+              "marks": 2
+            },
+            {
+              "q": "लोकतंत्र में सामाजिक विविधताओं के समायोजन के लिए दो आवश्यक शर्तें",
+              "marks": 2
+            }
+          ],
+          "long_asked": [
+            {
+              "q": "भारत में राजनीतिक दलों के लिए तीन सुधार",
+              "marks": 3
+            },
+            {
+              "q": "अथवा: लोकतंत्र में राजनीतिक दल क्यों जरूरी हैं? तीन कारण।",
+              "marks": 3,
+              "priority": "उच्च — दोहराया जाने वाला"
+            },
+            {
+              "q": "अथवा: चुनौतियाँ — आंतरिक लोकतंत्र की कमी + वंशवादी उत्तराधिकार",
+              "marks": 3
+            }
+          ],
+          "key_facts": {
+            "functions_of_party": "चुनाव लड़ना, मतदाताओं को संगठित करना, सरकार बनाना, नीतियाँ प्रस्तुत करना, विपक्ष",
+            "need_in_democracy": "विभिन्न विचारों का प्रतिनिधित्व, मतदाताओं को सरकार से जोड़ना, स्थिर सरकार, विपक्ष",
+            "challenges": "वंशवादी उत्तराधिकार, धन + बाहुबल, आंतरिक लोकतंत्र की कमी, दलबदल",
+            "reforms": "दलों को RTI, निर्वाचन आयोग निगरानी, दलबदल विरोधी कानून, आंतरिक चुनाव",
+            "NDA": "BJP नेतृत्व वाला गठबंधन। सात दल गठबंधन = नेपाल।",
+            "recognition": "निर्वाचन आयोग मान्यता देता है — राष्ट्रीय, राज्यीय दर्जा",
+            "anti_defection": "10वीं अनुसूची — चुनाव के बाद सांसद दल नहीं बदल सकते"
+          }
+        },
+        "ch17_outcomes_democracy": {
+          "syllabus_marks_2026": 3,
+          "importance": "मध्यम — लघु + अति लघु",
+          "mcq_asked": [
+            {
+              "q": "निम्न में से लोकतंत्र से बेहतर शासन कौन सा है?",
+              "ans": "D) इनमें से कोई नहीं"
+            }
+          ],
+          "very_short_asked": [
+            {
+              "q": "लोकतंत्र को सर्वश्रेष्ठ क्यों मानें? एक कारण।",
+              "ans": "जवाबदेह, उत्तरदायी, वैध सरकार"
+            },
+            {
+              "q": "लोकतंत्र में किसके बहुमत का सम्मान होना चाहिए?",
+              "ans": "बहुमत की राय, लेकिन अल्पमत के अधिकार सुरक्षित"
+            },
+            {
+              "q": "लोकतंत्र की दो आवश्यक शर्तें",
+              "ans": "स्वतंत्र चुनाव + संवैधानिक अधिकार / कानून का शासन + जवाबदेही"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "लोकतंत्र जवाबदेह, उत्तरदायी, वैध है — संक्षेप में समझाइए",
+              "marks": 2
+            },
+            {
+              "q": "लोकतंत्र को पुनर्परिभाषित करने के लिए दो बिंदु जोड़ो",
+              "marks": 2
+            }
+          ],
+          "key_facts": {
+            "democracy_accountable": "सरकार चुनावों, RTI, स्वतंत्र प्रेस के माध्यम से लोगों के प्रति जवाबदेह",
+            "democracy_responsive": "सार्वजनिक माँगों पर आधारित नीतियाँ, विफल होने पर सरकार बदलो",
+            "democracy_legitimate": "जनता की सहमति — निर्वाचित प्रतिनिधि",
+            "better_than_democracy": "सत्ता के शांतिपूर्ण हस्तांतरण के लिए कोई बेहतर व्यवस्था नहीं",
+            "democracy_limitations": "बहुमत का अत्याचार, धीमे निर्णय, भ्रष्टाचार संभव"
+          }
+        }
+      },
+      "ECONOMICS": {
+        "ch18_development": {
+          "syllabus_marks_2026": 3,
+          "importance": "मध्यम — लघु उत्तर",
+          "fill_blank_asked": [
+            {
+              "q": "UNDP मानव विकास रिपोर्ट शैक्षिक स्तर, ___ और प्रति व्यक्ति आय पर तुलना करती है",
+              "ans": "स्वास्थ्य (जीवन प्रत्याशा)"
+            }
+          ],
+          "very_short_asked": [
+            {
+              "q": "प्राथमिक क्षेत्र से क्या समझते हैं?",
+              "ans": "कृषि, खनन, मत्स्य — प्रकृति से निष्कर्षण"
+            },
+            {
+              "q": "भूमिहीन ग्रामीण मजदूर के विकास के दो लक्ष्य",
+              "ans": "अधिक मजदूरी + नौकरी सुरक्षा / बेहतर जीवन स्थितियाँ"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "शिशु मृत्यु दर से क्या समझते हैं?",
+              "marks": 2
+            }
+          ],
+          "key_facts": {
+            "HDI": "मानव विकास सूचकांक — जीवन प्रत्याशा + शिक्षा + प्रति व्यक्ति आय",
+            "IMR": "शिशु मृत्यु दर — प्रथम वर्ष में 1000 जीवित जन्मों पर मृत्यु",
+            "development_goals": "अलग-अलग लोगों के लिए अलग — किसान सिंचाई चाहता है, मजदूर मजदूरी",
+            "per_capita_income": "कुल आय / जनसंख्या — औसत आय",
+            "Kerala_model": "अपेक्षाकृत कम आय के बावजूद उच्च HDI — अच्छे स्वास्थ्य + शिक्षा संकेतक"
+          }
+        },
+        "ch19_sectors_economy": {
+          "syllabus_marks_2026": 5,
+          "importance": "अत्यंत उच्च — 5 अंक, गणना, निबंध",
+          "mcq_asked": [
+            {
+              "q": "असंगठित क्षेत्र से संबंधित गतिविधि?",
+              "ans": "D) दैनिक वेतन श्रमिक"
+            }
+          ],
+          "fill_blank_asked": [
+            {
+              "q": "तृतीयक क्षेत्र को ___ भी कहते हैं",
+              "ans": "सेवा क्षेत्र"
+            },
+            {
+              "q": "___ क्षेत्र को कृषि और सहायक क्षेत्र भी कहते हैं",
+              "ans": "प्राथमिक"
+            }
+          ],
+          "very_short_asked": [
+            {
+              "q": "ग्रामीण क्षेत्रों में असंगठित क्षेत्र के श्रमिकों की सुरक्षा कैसे? एक उदाहरण।",
+              "ans": "मनरेगा / न्यूनतम वेतन कानून / फसल बीमा"
+            },
+            {
+              "q": "संगठित क्षेत्र में रोजगार शर्तें कैसी हैं?",
+              "ans": "नियमित, निश्चित घंटे, लाभ, नौकरी सुरक्षा, PF, ग्रेच्युटी"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "GDP तालिका — GDP और क्षेत्र योगदान अंतर गणना",
+              "marks": 2,
+              "note": "प्राथमिक=52000, द्वितीयक=48000, तृतीयक=135000 → GDP=235000"
+            },
+            {
+              "q": "अनौपचारिक क्षेत्र की दो रोजगार गतिविधियाँ",
+              "marks": 2
+            }
+          ],
+          "long_asked": [
+            {
+              "q": "विभिन्न क्षेत्रों से वस्तुओं/सेवाओं का मूल्य कैसे गणना करते हैं? उदाहरण सहित समझाइए",
+              "marks": 3
+            },
+            {
+              "q": "अथवा: अधिक रोजगार कैसे सृजित किया जा सकता है?",
+              "marks": 3
+            }
+          ],
+          "key_facts": {
+            "three_sectors": "प्राथमिक (कृषि/खनन), द्वितीयक (विनिर्माण), तृतीयक (सेवाएं)",
+            "GDP_calculation": "तीनों क्षेत्रों में मूल्य वर्धन का योग",
+            "organised_sector": "सरकार में पंजीकृत, श्रम कानून लागू, लाभ प्रदान",
+            "unorganised_sector": "छोटे उद्यम, दैनिक वेतन, कोई लाभ नहीं, नौकरी सुरक्षा नहीं",
+            "MNREGA": "ग्रामीण परिवारों को 100 दिन की गारंटीड रोजगार",
+            "value_added": "उत्पादन का मूल्य − निविष्ट का मूल्य (दोहरी गणना से बचाव)"
+          }
+        },
+        "ch20_money_credit": {
+          "syllabus_marks_2026": 5,
+          "importance": "अत्यंत उच्च — 5 अंक, हर खंड में",
+          "mcq_asked": [
+            {
+              "q": "भारत में करेंसी नोट कौन जारी करता है?",
+              "ans": "C) भारतीय रिजर्व बैंक"
+            },
+            {
+              "q": "भारतीयों ने किस धातु के सिक्के मुद्रा के रूप में उपयोग किए?",
+              "ans": "D) ये सभी (चाँदी, सोना, तांबा)"
+            }
+          ],
+          "fill_blank_asked": [
+            {
+              "q": "___ प्रणाली में वस्तुओं का विनिमय बिना मुद्रा के होता था",
+              "ans": "वस्तु विनिमय"
+            }
+          ],
+          "very_short_asked": [
+            {
+              "q": "भारत में करेंसी नोट जारी करने वाली संस्था",
+              "ans": "भारतीय रिजर्व बैंक"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "बैंकों की ऋण गतिविधियाँ संक्षेप में समझाइए",
+              "marks": 2
+            },
+            {
+              "q": "सार्वजनिक और निजी क्षेत्र — अंतर करो",
+              "marks": 2
+            }
+          ],
+          "long_essay_asked": [
+            {
+              "q": "टिप्पणी लिखो: (1) स्व-सहायता समूह (2) चेक सुविधा",
+              "marks": 4
+            },
+            {
+              "q": "अथवा: बैंकों की ऋण संबंधी गतिविधियों पर लघु टिप्पणी",
+              "marks": 4
+            },
+            {
+              "q": "परिदृश्य — चेक विवरण विश्लेषण अथवा ग्रामीण क्षेत्रों में साख की समस्या",
+              "marks": 3
+            }
+          ],
+          "key_facts": {
+            "RBI": "भारतीय रिजर्व बैंक — मुद्रा जारी करता है, मौद्रिक नीति नियंत्रित, बैंकों का बैंकर",
+            "barter_system": "बिना मुद्रा के वस्तु विनिमय — दोहरे संयोग की आवश्यकता समस्या",
+            "SHG": "स्व-सहायता समूह — 15-20 ग्रामीण सदस्य, छोटी बचत, आंतरिक ऋण, कम ब्याज",
+            "formal_credit": "बैंक, सहकारिता — कम ब्याज, नियंत्रित",
+            "informal_credit": "साहूकार, जमींदार — अधिक ब्याज, शोषणकारी",
+            "cheque": "बैंक को किसी विशेष व्यक्ति को विशेष राशि देने का लिखित निर्देश",
+            "double_coincidence": "दोनों पक्ष जो दूसरा चाहता हो वह रखें — वस्तु विनिमय की समस्या",
+            "credit_rural": "साहूकारों का वर्चस्व, अधिक ब्याज, ऋण जाल"
+          }
+        },
+        "ch21_globalisation": {
+          "syllabus_marks_2026": 5,
+          "importance": "अत्यंत उच्च — 5 अंक, MCQ + लघु + निबंध",
+          "mcq_asked": [
+            {
+              "q": "एक से अधिक देशों में उत्पादन नियंत्रित करने वाली कंपनी?",
+              "ans": "D) बहुराष्ट्रीय कंपनी"
+            },
+            {
+              "q": "व्यापार अवरोध के रूप में लगाया कर?",
+              "ans": "B) आयात पर"
+            }
+          ],
+          "fill_blank_asked": [
+            {
+              "q": "MNC द्वारा निवेश को ___ कहते हैं",
+              "ans": "प्रत्यक्ष विदेशी निवेश"
+            }
+          ],
+          "very_short_asked": [
+            {
+              "q": "वैश्वीकरण प्रक्रिया को प्रोत्साहित करने वाला मुख्य कारक?",
+              "ans": "तकनीक (IT + परिवहन)"
+            },
+            {
+              "q": "WTO का मुख्य उद्देश्य?",
+              "ans": "मुक्त व्यापार बढ़ावा, व्यापार अवरोध हटाना"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "विश्व व्यापार संगठन के दो मुख्य कार्य",
+              "marks": 2
+            }
+          ],
+          "long_asked": [
+            {
+              "q": "विदेश व्यापार बाजारों के एकीकरण में मदद करता है — तीन तर्क",
+              "marks": 3
+            }
+          ],
+          "key_facts": {
+            "MNC": "बहुराष्ट्रीय निगम — एक से अधिक देशों में उत्पादन",
+            "foreign_investment": "दूसरे देश के उत्पादन में MNC का निवेश",
+            "trade_barrier": "आयात पर कर (टैरिफ) — घरेलू उद्योग की सुरक्षा",
+            "WTO": "विश्व व्यापार संगठन। व्यापार विवाद निपटाना, मुक्त व्यापार बढ़ावा।",
+            "globalisation_factors": "IT क्रांति, परिवहन, उदारीकरण नीति",
+            "liberalisation": "व्यापार अवरोध हटाना — मुक्त व्यापार की अनुमति",
+            "fair_globalisation": "सभी के लिए लाभ — श्रमिक अधिकार, केवल MNC के लिए नहीं"
+          }
+        },
+        "ch22_consumer_rights": {
+          "syllabus_marks_2026": 2,
+          "importance": "निम्न — MCQ + लघु",
+          "mcq_asked": [
+            {
+              "q": "उपभोक्ता के लिए बाजार में नियमों की आवश्यकता?",
+              "ans": "A) उपभोक्ता सुरक्षा के लिए"
+            },
+            {
+              "q": "उपभोक्ता संरक्षण अधिनियम कब लागू हुआ?",
+              "ans": "A) 1986"
+            }
+          ],
+          "fill_blank_asked": [
+            {
+              "q": "24 दिसंबर 1986 — भारतीय संसद में ___ अधिनियम पारित",
+              "ans": "उपभोक्ता संरक्षण अधिनियम"
+            }
+          ],
+          "very_short_asked": [
+            {
+              "q": "'चुनाव का अधिकार' कैसे उपयोग करें? एक उदाहरण।",
+              "ans": "विभिन्न उत्पादों में से चुनें, गुणवत्ता/मूल्य की तुलना करें"
+            }
+          ],
+          "short_asked": [
+            {
+              "q": "भारत में उपभोक्ता आंदोलन को प्रभावी बनाने वाले दो कारक",
+              "marks": 2
+            },
+            {
+              "q": "उपभोक्ता जागरूकता के दो उपाय",
+              "marks": 2
+            }
+          ],
+          "key_facts": {
+            "Consumer_Protection_Act": "COPRA 1986। जिला, राज्य, राष्ट्रीय स्तर पर उपभोक्ता न्यायालय।",
+            "six_rights": "सुरक्षा, सूचना, चुनाव, सुने जाने, निवारण, उपभोक्ता शिक्षा का अधिकार",
+            "ISI_Agmark": "गुणवत्ता चिह्न — ISI (औद्योगिक), एगमार्क (कृषि), हॉलमार्क (सोना)",
+            "consumer_movement": "उपभोक्ता अधिकारों की जागरूकता के रूप में शुरू — COPRA ट्रिगर"
+          }
+        }
+      }
+    }
+  },
+  "important_diagrams_masterlist": {
+    "note": "Not applicable for Social Science.",
+    "must_practise": []
+  },
+  "important_formula_sheets": {
+    "note": "Not applicable for Social Science.",
+    "direct_formula_questions": false,
+    "formula_sheet_allowed_in_exam": false,
+    "formulas_by_chapter": []
+  },
+  "grammar_syllabus": {
+    "note": "Not applicable for Social Science.",
+    "topics": []
+  },
+  "writing_section_formats": {
+    "note": "Not applicable for Social Science.",
+    "formats": []
+  },
+  "practical_paper": {
+    "total_marks": 0,
+    "passing_marks": 0,
+    "practical_exam_separate": false,
+    "practical_exam_note": "Social Science Class 10 — no practical exam.",
+    "not_giving_practical_consequence": "",
+    "viva_compulsory": false,
+    "viva_marks": 0,
+    "individual": false,
+    "group_work": false,
+    "group_note": "",
+    "experiment_choice": false,
+    "experiment_choice_note": "",
+    "practical_record_submission": false,
+    "practical_record_marks": false,
+    "all_sections_compulsory": false,
+    "all_sections_compulsory_note": "",
+    "components": [],
+    "activities_vs_experiments": {
+      "experiment": "",
+      "activity": ""
+    },
+    "minimum_attempts": {
+      "exam_day": 0,
+      "file_experiments": 0,
+      "activities_required": 0,
+      "file_experiments_note": "",
+      "activities_required_note": ""
+    },
+    "practical_questions_in_theory_exam": {
+      "asked": false,
+      "note": ""
+    }
+  },
+  "paper_difficulty_analysis": {
+    "overall_difficulty": "Medium",
+    "note": "",
+    "easy_percent": 0,
+    "medium_percent": 0,
+    "hard_percent": 0,
+    "most_scoring_sections": [],
+    "most_difficult_sections": [],
+    "common_traps": [],
+    "time_pressure_note": ""
+  },
+  "exam_strategy": {
+    "note": "",
+    "tips": [],
+    "time_allocation": []
+  },
+  "marks_targets": {
+    "note": "",
+    "targets": [
+      {
+        "target_name": "passing 26",
+        "target_marks": 26,
+        "strategy": "खंड A में ~36 अंक संभव हैं। MCQ में 15+ पक्का करो।",
+        "focus_chapters": [],
+        "focus_areas": [
+          "RBI मुद्रा, बेल्जियम, उपभोक्ता संरक्षण अधिनियम, जलियाँवाला बाग तारीखें — MCQ",
+          "रिक्त स्थान — ब्रेटन वुड्स, सुलेखन, वस्तु विनिमय",
+          "अति लघु — गूटेनबर्ग, नारीवादी, प्राथमिक क्षेत्र"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "45",
+        "target_marks": 45,
+        "strategy": "खंड A पूरा + खंड B में 6-7 प्रश्न + मानचित्र कार्य (आसान 4 अंक)",
+        "focus_chapters": [],
+        "focus_areas": [
+          "मानचित्र कार्य — भारत मानचित्र पर 4 स्थान अभ्यास (सबसे आसान 4 अंक)",
+          "लघु उत्तर — राजनीतिक दल कार्य, बेल्जियम, RBI",
+          "भारत में राष्ट्रवाद के संक्षिप्त बिंदु"
+        ],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      },
+      {
+        "target_name": "60 plus",
+        "target_marks": 60,
+        "strategy": "",
+        "focus_chapters": [],
+        "focus_areas": [],
+        "chapters_to_skip_safely": [],
+        "chapters_to_avoid_deep_study": [],
+        "extra_focus_areas": [],
+        "tough_topics": [],
+        "tip": "",
+        "note": ""
+      }
+    ],
+    "average_marks_syllabus": {
+      "percent_syllabus_needed": "",
+      "skip_safely": ""
+    },
+    "easy_chapters_to_complete_first": [],
+    "highest_roi_chapters": [],
+    "chapters_to_skip_if_time_less": []
+  },
+  "internal_assessment": {
+    "total_marks": 0,
+    "note": "",
+    "components": []
+  },
+  "reference_books": {
+    "note": "",
+    "books": []
+  },
+  "exam_day_rules": {
+    "admit_card_compulsory": false,
+    "admit_card_note": "",
+    "uniform_compulsory": false,
+    "uniform_note": "",
+    "electronic_devices_allowed": false,
+    "electronic_devices_note": "",
+    "reach_before_minutes": 0,
+    "reach_note": "",
+    "malpractice_consequence": "",
+    "leaving_before_submission": false,
+    "leaving_note": "",
+    "timetable_source": "",
+    "extra_time_given": false,
+    "extra_time_note": "15 मिनट"
+  },
+  "exam_writing_rules": {
+    "note": "",
+    "answer_sheet_rules": [],
+    "pen_rules": {
+      "allowed_colors": [
+        "Blue",
+        "Black"
+      ],
+      "note": ""
+    },
+    "rough_work_rules": "",
+    "diagram_rules": "",
+    "overwriting_rules": "",
+    "cutting_rules": ""
+  }
+}
