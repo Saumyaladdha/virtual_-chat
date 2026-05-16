@@ -240,6 +240,24 @@ def fill_template(template_str: str, teachers: list[tuple[str, str]]) -> str:
     return template_str.strip()
 
 
+_SUBJECT_HINDI_MAP = {
+    "physics":          "भौतिकी",
+    "chemistry":        "रसायन विज्ञान",
+    "maths":            "गणित",
+    "mathematics":      "गणित",
+    "biology":          "जीव विज्ञान",
+    "accountancy":      "लेखाशास्त्र",
+    "economics":        "अर्थशास्त्र",
+    "business studies": "व्यावसायिक अध्ययन",
+    "history":          "इतिहास",
+    "pol science":      "राजनीति विज्ञान",
+    "geography":        "भूगोल",
+    "hindi":            "हिंदी",
+    "english":          "अंग्रेज़ी",
+    "sanskrit":         "संस्कृत",
+}
+
+
 def build_poll_llm_prompt(
     batch_meta: dict,
     filled_question: str,
@@ -247,15 +265,26 @@ def build_poll_llm_prompt(
     stream: str,
 ) -> str:
     """
-    Loads prompt template from prompts/english/teacher_poll/prompt.txt and fills variables.
+    Loads prompt template — hindi or english based on batch medium — and fills variables.
     Returns the prompt string.
     """
-    board        = batch_meta.get("exam_code", "Board").upper()
-    grade        = batch_meta.get("grade_name", "12th")
-    teacher_list = "\n".join(f"- {subj}: {name}" for subj, name in teachers)
+    board    = batch_meta.get("exam_code", "Board").upper()
+    grade    = batch_meta.get("grade_name", "12th")
+    language = (batch_meta.get("language") or "ENG").upper()
+    is_hindi = language.startswith("HIN")
 
-    prompt_file = _BASE / "prompts" / "english" / "teacher_poll" / "prompt.txt"
-    template    = prompt_file.read_text(encoding="utf-8")
+    if is_hindi:
+        # Use Hindi subject names and Hindi prompt
+        teacher_list = "\n".join(
+            f"- {_SUBJECT_HINDI_MAP.get(subj.lower(), subj)}: {name}"
+            for subj, name in teachers
+        )
+        prompt_file = _BASE / "prompts" / "hindi" / "teacher_poll" / "prompt.txt"
+    else:
+        teacher_list = "\n".join(f"- {subj}: {name}" for subj, name in teachers)
+        prompt_file  = _BASE / "prompts" / "english" / "teacher_poll" / "prompt.txt"
+
+    template = prompt_file.read_text(encoding="utf-8")
 
     return (
         template
